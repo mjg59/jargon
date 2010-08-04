@@ -1,9 +1,130 @@
- :SPACEWAR: /n./ A space-combat simulation game, inspired by E. E. "Doc"
-Smith's "Lensman" books, in which two spaceships duel around a central sun,
-shooting torpedoes at each other and jumping through hyperspace. This game
-was first implemented on the PDP-1 at MIT in 1960--61. SPACEWAR aficionados
-formed the core of the early hacker culture at MIT. Nine years later, a
-descendant of the game motivated Ken Thompson to build, in his spare time on
-a scavenged PDP-7, the operating system that became {{Unix}}. Less than nine
-years after that, SPACEWAR was commercialized as one of the first video
-games; descendants are still {feep}ing in video arcades everywhere.
+ 1962. In 1968-69, a descendant of the game motivated Ken Thompson to build,
+in his spare time on a scavenged PDP-7, the operating system that became
+{{Unix}}. Less than nine years after that, SPACEWAR was commercialized as one
+of the first video games; descendants are still {feep}ing in video arcades
+everywhere. :spaghetti code: n. Code with a complex and tangled control
+structure, esp. one using many GOTOs, exceptions, or other `unstructured'
+branching constructs. Pejorative. The synonym `kangaroo code' has been
+reported, doubtless because such code has so many jumps in it. :spaghetti
+inheritance: n. [encountered among users of object-oriented languages that
+use inheritance, such as Smalltalk] A convoluted class-subclass graph, often
+resulting from carelessly deriving subclasses from other classes just for the
+sake of reusing their code. Coined in a (successful) attempt to discourage
+such practice, through guilt-by-association with {spaghetti code}. :spam:
+vt.,vi.,n. [from "Monty Python's Flying Circus"] 1. To crash a program by
+overrunning a fixed-size buffer with excessively large input data. see also
+{buffer overflow}, {overrun screw}, {smash the stack}. 2. To cause a
+newsgroup to be flooded with irrelevant or inappropriate messages. You can
+spam a newsgroup with as little as one well- (or ill-) planned message (e.g.
+asking "What do you think of abortion?" on soc.women). This is often done
+with {cross-post}ing (e.g. any message which is crossposted to
+alt.rush-limbaugh and alt.politics.homosexuality will almost inevitably spam
+both groups). This overlaps with {troll} behavior; the latter more specific
+term has become more common. 3. To send many identical or nearly-identical
+messages separately to a large number of Usenet newsgroups. This is more
+specifically called `ECP', Excessive Cross-Posting. This is one sure way to
+infuriate nearly everyone on the Net. see also {velveeta} and {jello}. 4. To
+bombard a newsgroup with multiple copies of a message. This is more
+specifically called `EMP', Excessive Multi-Posting. 5. To mass-mail
+unrequested identical or nearly-identical email messages, particularly those
+containing advertising. Especially used when the mail addresses have been
+culled from network traffic or databases without the consent of the
+recipients. Synonyms include {UCE}, {UBE}. 6. Any large, annoying, quantity
+of output. For instance, someone on IRC who walks away from their screen and
+comes back to find 200 lines of text might say "Oh no, spam". The later
+definitions have become much more prevalent as the Internet has opened up to
+non-techies, and to most people senses 3 4 and 5 are now primary. All three
+behaviors are considered abuse of the net, and are almost universally grounds
+for termination of the originator's email account or network connection. In
+these senses the term `spam' has gone mainstream, though without its original
+sense or folkloric freight - there is apparently a widespread myth among
+{luser}s that "spamming" is what happens when you dump cans of Spam into a
+revolving fan. :spamblock: /spam'blok/ n. [poss. by analogy to sunblock] Text
+inserted in an email address to render it invalid and thus useless to
+spammers. For example, the address `jrandom@hacker.org' might be transformed
+to `jrandom@NOSPAM.hacker.org'. Adding spamblock to an address is often
+referred to as `munging' it (see {munge})-. This evasion tactic depends on
+the fact that most spammers collect names with some sort of {address
+harvester} on volumes too high to de-mung by hand, but individual humans
+reading an email message can readily spot and remove a spamblock in the from
+address. Note: This is not actually a very effective tactic, and may already
+be passing out of use in early 1999 after about two years of life. In both
+mail and news, it's essentially impossible to keep a smart address harvester
+from mining out the addresses in the message header and trace lines.
+Therefore the only people who can be protected are third parties mentioned by
+email address in the message - not a common enough case to interest spammers.
+:spamhaus: spam'hows n. Pejorative term for an internet service provider that
+permits or even encourages {spam} mailings from its systems. The plural is
+`spamhausen'. There is a web page devoted to tracking spamhausen
+(http://combat.uxn.com/spamhaus.html). The most notorious of the spamhausen
+was Sanford Wallace's Cyber Promotions Inc., shut down by a lawsuit on 16
+October 1997. The anniversary of the shutdown is celebrated on Usenet as Spam
+Freedom Day, but lesser imitators of the Spamford still infest various murky
+corners of the net. Since prosecution of spammers became routine under the
+junk-fax laws and statues specifically targeting spam, spamhausen have
+declined in relative importance; today, hit-and-run attacks by spammers using
+{relay rape} and {throwaway account}s on reputable ISPs seem to account for
+most of the flow. :spamvertize: v. To advertise using {spam}. Pejorative.
+:spangle: n. [UK] The singular of {bells and whistles}. see also {spungle}.
+:spawn: n.,vi. 1. [techspeak] In UNIX parlance, to create a child process
+from within a process. Technically this is a `fork'; the term `spawn' is a
+bit more general and is used for threads (lightweight processes) as well as
+traditional heavyweight processes. 2. In gaming, meant to indicate where
+(`spawn-point') and when a player comes to life (or `re-spawns') after being
+killed. Opposite of {frag}. :special-case: vt. To write unique code to handle
+input to or situations arising in a program that are somehow distinguished
+from normal processing. This would be used for processing of mode switches or
+interrupt characters in an interactive interface (as opposed, say, to text
+entry or normal commands), or for processing of {hidden flag}s in the input
+of a batch program or {filter}. :speedometer: n. A pattern of lights
+displayed on a linear set of LEDs (today) or nixie tubes (yesterday, on
+ancient mainframes). The pattern is shifted left every N times the operating
+system goes through its {main loop}. A swiftly moving pattern indicates that
+the system is mostly idle; the speedometer slows down as the system becomes
+overloaded. The speedometer on Sun Microsystems hardware bounces back and
+forth like the eyes on one of the Cylons from the wretched "Battlestar
+Galactica" TV series. Historical note: One computer, the GE 600 (later
+Honeywell 6000) actually had an _analog_ speedometer on the front panel,
+calibrated in instructions executed per second. :spell: n. Syn.
+{incantation}. :spelling flame: n. // [Usenet] A posting ostentatiously
+correcting a previous article's spelling as a way of casting scorn on the
+point the article was trying to make, instead of actually responding to that
+point (compare {dictionary flame}). Of course, people who are more than
+usually slovenly spellers are prone to think _any_ correction is a spelling
+flame. It's an amusing comment on human nature that spelling flames
+themselves often contain spelling errors. :spider food: n. Keywords embedded
+(usually invisibly) into a web page to attract search engines (spiders). The
+intended result of including spider food in one's web page is to insure that
+the page appears high on the list of matching entries to a search engine
+query. There are right and wrong ways to do this; the right way is a discreet
+`meta keywords' tag, the wrong way is to embed many repeats of a keyword in
+comments (and many search engines now detect and ignore the latter). :spiffy:
+/spi'fee/ adj. 1. Said of programs having a pretty, clever, or exceptionally
+well-designed interface. "Have you seen the spiffy {X} version of {empire}
+yet?" 2. Said sarcastically of a program that is perceived to have little
+more than a flashy interface going for it. Which meaning should be drawn
+depends delicately on tone of voice and context. This word was common
+mainstream slang during the 1940s, in a sense close to 1. :spike: v. To
+defeat a selection mechanism by introducing a (sometimes temporary) device
+that forces a specific result. The word is used in several industries;
+telephone engineers refer to spiking a relay by inserting a pin to hold the
+relay in either the closed or open state, and railroaders refer to spiking a
+track switch so that it cannot be moved. In programming environments it
+normally refers to a temporary change, usually for testing purposes (as
+opposed to a permanent change, which would be called {hardwired}). :spin: vi.
+Equivalent to {buzz}. More common among C and Unix programmers. :spl: /S-P-L/
+[abbrev, from Set Priority Level] The way traditional Unix kernels implement
+mutual exclusion by running code at high interrupt levels. Used in jargon to
+describe the act of tuning in or tuning out ordinary communication.
+Classically, spl levels run from 1 to 7; "Fred's at spl 6 today" would mean
+that he is very hard to interrupt. "Wait till I finish this; I'll spl down
+then." see also {interrupts locked out}. :splash screen: n. [Mac users] Syn.
+{banner}, sense 3. :splat: n. 1. Name used in many places (DEC, IBM, and
+others) for the asterisk (`*') character (ASCII 0101010). This may derive
+from the `squashed-bug' appearance of the asterisk on many early line
+printers. 2. [MIT] Name used by some people for the `#' character (ASCII
+0100011). 3. The {feature key} on a Mac (same as {alt}, sense 2). 4. obs.
+Name used by some people for the Stanford/ITS extended ASCII circle-x
+character. This character is also called `blobby' and `frob', among other
+names; it is sometimes used by mathematicians as a notation for `tensor
+product'.

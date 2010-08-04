@@ -1,7 +1,47 @@
- ANSI C compilers typically issue compile-time warnings almost as detailed as
-lint warnings. :delta: n. 1. [techspeak] A quantitative change, especially a
-small or incremental one (this use is general in physics and engineering). "I
-just doubled the speed of my program!" "What was the delta on program size?"
+ LED). Compare {SED}, {LER}, {write-only memory}. In the early 1970s both
+Signetics and Texas instruments released DED spec sheets as {AFJ}s (suggested
+uses included "as a power-off indicator"). :deep hack mode: n. see {hack
+mode}. :deep magic: n. [poss. from C. S. Lewis's "Narnia" books] An awesomely
+arcane technique central to a program or system, esp. one neither generally
+published nor available to hackers at large (compare {black art}); one that
+could only have been composed by a true {wizard}. Compiler optimization
+techniques and many aspects of {OS} design used to be {deep magic}; many
+techniques in cryptography, signal processing, graphics, and AI still are.
+Compare {heavy wizardry}. Esp. found in comments of the form "Deep magic
+begins here...". Compare {voodoo programming}. :deep space: n. 1. Describes
+the notional location of any program that has gone {off the trolley}. Esp.
+used of programs that just sit there silently grinding long after either
+failure or some output is expected. "Uh oh. I should have gotten a prompt ten
+seconds ago. The program's in deep space somewhere." Compare {buzz},
+{catatonic}, {hyperspace}. 2. The metaphorical location of a human so dazed
+and/or confused or caught up in some esoteric form of {bogosity} that he or
+she no longer responds coherently to normal communication. Compare {page
+out}. :defenestration: n. [mythically from a traditional Czech assasination
+method, via SF fandom] 1. Proper karmic retribution for an incorrigible
+punster. "Oh, ghod, that was _awful_!" "Quick! Defenestrate him!" 2. The act
+of exiting a window system in order to get better response time from a
+full-screen program. This comes from the dictionary meaning of
+`defenestrate', which is to throw something out a window. 3. The act of
+discarding something under the assumption that it will improve matters. "I
+don't have any disk space left." "Well, why don't you defenestrate that 100
+megs worth of old core dumps?" 4. Under a GUI, the act of dragging something
+out of a window (onto the screen). "Next, defenestrate the MugWump icon." 5.
+The act of completely removing Micro$oft Windows from a PC in favor of a
+better OS (typically Linux). :defined as: adj. In the role of, usually in an
+organization-chart sense. "Pete is currently defined as bug prioritizer."
+Compare {logical}. :dehose: /dee-hohz/ vt. To clear a {hosed} condition.
+:deliminator: /de-lim'-in-ay-t*r/ n. [portmanteau, delimiter + eliminate] A
+string or pattern used to delimit text into fields, but which is itself
+eliminated from the resulting list of fields. This jargon seems to have
+originated among Perl hackers in connection with the Perl split() function;
+however, it has been sighted in live use among Java and even Visual Basic
+programmers. :delint: /dee-lint/ v. obs. To modify code to remove problems
+detected when {lint}ing. Confusingly, this process is also referred to as
+`linting' code. This term is no longer in general use because ANSI C
+compilers typically issue compile-time warnings almost as detailed as lint
+warnings. :delta: n. 1. [techspeak] A quantitative change, especially a small
+or incremental one (this use is general in physics and engineering). "I just
+doubled the speed of my program!" "What was the delta on program size?"
 "About 30 percent." (He doubled the speed of his program, but increased its
 size by only 30 percent.) 2. [Unix] A {diff}, especially a {diff} stored
 under the set of version-control tools called SCCS (Source Code Control
@@ -338,22 +378,23 @@ discover how to do that, one must needs examine the stack script with a
 hackerly eye. Clue: {rot13} is involved. A dogcow also appears if you choose
 `Page Setup...' with a LaserWriter selected and click on the `Options'
 button. It also lurks in other Mac printer drivers, notably those for the
-now-discontinued Style Writers. :dogfood: n. [Microsoft, Netscape] Interim
-software used internally for testing. "To eat one's own dogfood" (from which
-the slang noun derives) means to use the software one is developing, as part
-of one's everyday development environment (the phrase is used outside
-Microsoft and Netscape). The practice is normal in the Linux community and
-elsewhere, but the term `dogfood' is seldom used as open-source betas tend to
-be quite tasty and nourishing. The idea is that developers who are using
-their own software will quickly learn what's missing or broken. Dogfood is
-typically not even of {beta} quality. :dogpile: v. [Usenet: prob. fr.
-mainstream "puppy pile"] When many people post unfriendly responses in short
-order to a single posting, they are sometimes said to "dogpile" or "dogpile
-on" the person to whom they're responding. For example, when a religious
-missionary posts a simplistic appeal to alt.atheism, he can expect to be
-dogpiled. It has been suggested that this derives from U.S, football slang
-for a tackle involving three or more people. :dogwash: /dog'wosh/ [From a
-quip in the `urgency' field of a very optional software change request, ca.
+now-discontinued Style Writers. Pointers to all things dogcowish can be found
+at `http://developer.apple.com/dev/dts/dogcow.html'. :dogfood: n. [Microsoft,
+Netscape] Interim software used internally for testing. "To eat one's own
+dogfood" (from which the slang noun derives) means to use the software one is
+developing, as part of one's everyday development environment (the phrase is
+used outside Microsoft and Netscape). The practice is normal in the Linux
+community and elsewhere, but the term `dogfood' is seldom used as open-source
+betas tend to be quite tasty and nourishing. The idea is that developers who
+are using their own software will quickly learn what's missing or broken.
+Dogfood is typically not even of {beta} quality. :dogpile: v. [Usenet: prob.
+fr. mainstream "puppy pile"] When many people post unfriendly responses in
+short order to a single posting, they are sometimes said to "dogpile" or
+"dogpile on" the person to whom they're responding. For example, when a
+religious missionary posts a simplistic appeal to alt.atheism, he can expect
+to be dogpiled. It has been suggested that this derives from U.S, football
+slang for a tackle involving three or more people. :dogwash: /dog'wosh/ [From
+a quip in the `urgency' field of a very optional software change request, ca.
 1982. It was something like "Urgency: Wash your dog first".] 1. n. A project
 of minimal priority, undertaken as an escape from more serious work. 2. v. To
 engage in such a project. Many games and much {freeware} get written this
@@ -375,64 +416,64 @@ converted. :Don't do that then!: imp. [from an old doctor's office joke about
 a patient with a trivial complaint] Stock response to a user complaint. "When
 I type control-S, the whole system comes to a halt for thirty seconds."
 "Don't do that, then!" (or "So don't do that!"). Compare {RTFM}. :dongle:
-/dong'gl/ n. 1. A security or {copy protection} device for commercial
-microcomputer programs consisting of a serialized EPROM and some drivers in a
-D-25 connector shell, which must be connected to an I/O port of the computer
-while the program is run. Programs that use a dongle query the port at
-startup and at programmed intervals thereafter, and terminate if it does not
-respond with the dongle's programmed validation code. Thus, users can make as
-many copies of the program as they want but must pay for each dongle. The
-idea was clever, but it was initially a failure, as users disliked tying up a
-serial port this way. Almost all dongles on the market today (1993) will pass
-data through the port and monitor for {magic} codes (and combinations of
-status lines) with minimal if any interference with devices further down the
-line -- this innovation was necessary to allow daisy-chained dongles for
-multiple pieces of software. The devices are still not widely used, as the
-industry has moved away from copy-protection schemes in general. 2. By
-extension, any physical electronic key or transferable ID required for a
-program to function. Common variations on this theme have used parallel or
-even joystick ports. see {dongle-disk}. [Note: in early 1992, advertising
-copy from Rainbow Technologies (a manufacturer of dongles) included a claim
-that the word derived from "Don Gall", allegedly the inventor of the device.
-The company's receptionist will cheerfully tell you that the story is a myth
-invented for the ad copy. Nevertheless, I expect it to haunt my life as a
-lexicographer for at least the next ten years. :-( --ESR] :dongle-disk:
-/don'gl disk/ n. A special floppy disk that is required in order to perform
-some task. Some contain special coding that allows an application to identify
-it uniquely, others _are_ special code that does something that
-normally-resident programs don't or can't. (For example, AT&T's "Unix PC"
-would only come up in {root mode} with a special boot disk.) Also called a
-`key disk'. see {dongle}. :donuts: n. obs. A collective noun for any set of
-memory bits. This usage is extremely archaic and may no longer be live
-jargon; it dates from the days of ferrite-{core} memories in which each bit
-was implemented by a doughnut-shaped magnetic flip-flop. :doorstop: n. Used
-to describe equipment that is non-functional and halfway expected to remain
-so, especially obsolete equipment kept around for political reasons or
-ostensibly as a backup. "When we get another Wyse-50 in here, that ADM 3 will
-turn into a doorstop." Compare {boat anchor}. :DoS attack: // [Usenet; note
-that it's unrelated to `DOS' as name of an operating system] Abbreviation for
-Denial-Of-Service attack. This abbreviation is most often used of attempts to
-shut down newsgroups with floods of {spam}. :dot file: [Unix] n. A file that
-is not visible by default to normal directory-browsing tools (on Unix, files
-named with a leading dot are, by convention, not normally presented in
-directory listings). Many programs define one or more dot files in which
-startup or configuration information may be optionally recorded; a user can
-customize the program's behavior by creating the appropriate file in the
-current or home directory. (Therefore, dot files tend to {creep} -- with
-every nontrivial application program defining at least one, a user's home
-directory can be filled with scores of dot files, of course without the
-user's really being aware of it.) see also {profile} (sense 1), {rc file}.
-:double bucky: adj. Using both the CTRL and META keys. "The command to burn
-all LEDs is double bucky F." This term originated on the Stanford
-extended-ASCII keyboard, and was later taken up by users of the {space-cadet
-keyboard} at MIT. A typical MIT comment was that the Stanford {bucky bits}
-(control and meta shifting keys) were nice, but there weren't enough of them;
-you could type only 512 different characters on a Stanford keyboard. An
-obvious way to address this was simply to add more shifting keys, and this
-was eventually done; but a keyboard with that many shifting keys is hard on
-touch-typists, who don't like to move their hands away from the home position
-on the keyboard. It was half-seriously suggested that the extra shifting keys
-be implemented as pedals; typing on such a keyboard would be very much like
+/dong'gl/ n. 1. A security or {copy protection} device for proprietary
+software consisting of a serialized EPROM and some drivers in a D-25
+connector shell, which must be connected to an I/O port of the computer while
+the program is run. Programs that use a dongle query the port at startup and
+at programmed intervals thereafter, and terminate if it does not respond with
+the dongle's programmed validation code. Thus, users can make as many copies
+of the program as they want but must pay for each dongle. The idea was
+clever, but it was initially a failure, as users disliked tying up a serial
+port this way. Almost all dongles on the market today (1993) will pass data
+through the port and monitor for {magic} codes (and combinations of status
+lines) with minimal if any interference with devices further down the line --
+this innovation was necessary to allow daisy-chained dongles for multiple
+pieces of software. The devices are still not widely used, as the industry
+has moved away from copy-protection schemes in general. 2. By extension, any
+physical electronic key or transferable ID required for a program to
+function. Common variations on this theme have used parallel or even joystick
+ports. see {dongle-disk}. [Note: in early 1992, advertising copy from Rainbow
+Technologies (a manufacturer of dongles) included a claim that the word
+derived from "Don Gall", allegedly the inventor of the device. The company's
+receptionist will cheerfully tell you that the story is a myth invented for
+the ad copy. Nevertheless, I expect it to haunt my life as a lexicographer
+for at least the next ten years. :-( --ESR] :dongle-disk: /don'gl disk/ n. A
+special floppy disk that is required in order to perform some task. Some
+contain special coding that allows an application to identify it uniquely,
+others _are_ special code that does something that normally-resident programs
+don't or can't. (For example, AT&T's "Unix PC" would only come up in {root
+mode} with a special boot disk.) Also called a `key disk'. see {dongle}.
+:donuts: n. obs. A collective noun for any set of memory bits. This usage is
+extremely archaic and may no longer be live jargon; it dates from the days of
+ferrite-{core} memories in which each bit was implemented by a
+doughnut-shaped magnetic flip-flop. :doorstop: n. Used to describe equipment
+that is non-functional and halfway expected to remain so, especially obsolete
+equipment kept around for political reasons or ostensibly as a backup. "When
+we get another Wyse-50 in here, that ADM 3 will turn into a doorstop."
+Compare {boat anchor}. :DoS attack: // [Usenet; note that it's unrelated to
+`DOS' as name of an operating system] Abbreviation for Denial-Of-Service
+attack. This abbreviation is most often used of attempts to shut down
+newsgroups with floods of {spam}. :dot file: [Unix] n. A file that is not
+visible by default to normal directory-browsing tools (on Unix, files named
+with a leading dot are, by convention, not normally presented in directory
+listings). Many programs define one or more dot files in which startup or
+configuration information may be optionally recorded; a user can customize
+the program's behavior by creating the appropriate file in the current or
+home directory. (Therefore, dot files tend to {creep} -- with every
+nontrivial application program defining at least one, a user's home directory
+can be filled with scores of dot files, of course without the user's really
+being aware of it.) see also {profile} (sense 1), {rc file}. :double bucky:
+adj. Using both the CTRL and META keys. "The command to burn all LEDs is
+double bucky F." This term originated on the Stanford extended-ASCII
+keyboard, and was later taken up by users of the {space-cadet keyboard} at
+MIT. A typical MIT comment was that the Stanford {bucky bits} (control and
+meta shifting keys) were nice, but there weren't enough of them; you could
+type only 512 different characters on a Stanford keyboard. An obvious way to
+address this was simply to add more shifting keys, and this was eventually
+done; but a keyboard with that many shifting keys is hard on touch-typists,
+who don't like to move their hands away from the home position on the
+keyboard. It was half-seriously suggested that the extra shifting keys be
+implemented as pedals; typing on such a keyboard would be very much like
 playing a full pipe organ. This idea is mentioned in a parody of a very fine
 song by Jeffrey Moss called "Rubber Duckie", which was published in "The
 Sesame Street Songbook" (Simon and Schuster 1971, ISBN 0-671-21036-X). These
@@ -463,12 +504,14 @@ the operator is "System going down in 5 minutes". 3. `take down', `bring
 down' vt. To deactivate purposely, usually for repair work or {PM}. "I'm
 taking the system down to work on that bug in the tape drive." Occasionally
 one hears the word `down' by itself used as a verb in this vt. sense. see
-{crash}; oppose {up}. :download: vt. To transfer data or (esp.) code from a
-larger `host' system (esp. a {mainframe}) over a digital comm link to a
-smaller `client' system, esp. a microcomputer or specialized peripheral.
-Oppose {upload}. However, note that ground-to-space communications has its
-own usage rule for this term. Space-to-earth transmission is always `down'
-and the reverse `up' regardless of the relative size of the computers
+{crash}; oppose {up}. :download: vt. 1. [techspeak] To transfer data or
+(esp.) code from a larger `host' system (esp. a {mainframe}) over a digital
+comm link to a smaller `client' system, esp. a microcomputer or specialized
+peripheral. Oppose {upload}. 2. [jargon] To fetch data (especially large
+relatively standalone pieces of data like files and images) over the wire
+from a remote location. However, note that ground-to-space communications has
+its own usage rule for this term. Space-to-earth transmission is always
+`down' and the reverse `up' regardless of the relative size of the computers
 involved. So far the in-space machines have invariably been smaller; thus the
 upload/download distinction has been reversed from its usual sense. :DP:
 /D-P/ n. 1. Data Processing. Listed here because, according to hackers, use
@@ -486,13 +529,17 @@ dok'tr fred/ n. [Stanford] The archetypal man you don't want to see about a
 problem, esp. an incompetent professional; a shyster. "Do you know a good eye
 doctor?" "Sure, try Mbogo Eye Care and Professional Dry Cleaning." The name
 comes from synergy between {bogus} and the original Dr. Mbogo, a witch doctor
-who was Gomez Addams' physician on the old "Addams Family" TV show. Compare
-{Bloggs Family} and {J. Random Hacker}; see also {Fred Foobar} and {fred}.
-:dragon: n. [MIT] A program similar to a {daemon}, except that it is not
-invoked at all, but is instead used by the system to perform various
-secondary tasks. A typical example would be an accounting program, which
-keeps track of who is logged in, accumulates load-average statistics, etc.
-Under ITS, many terminals displayed a list of people logged in, where they
-were, what they were running, etc., along with some random picture (such as a
-unicorn, Snoopy, or the Enterprise), which was generated by the `name
-dragon'. Usage: rare outside MIT -- under Unix and most other
+who was Gomez Addams' physician on the old "Addams Family" TV show.
+Interestingly enough, it turns out that under the rules for Swahili noun
+classes, `m-' is the characteristic prefix of "nouns referring to human
+beings". As such, "mbogo" is quite plausible as a Swahili coinage for a
+person having the nature of a {bogon}. Compare {Bloggs Family} and {J. Random
+Hacker}; see also {Fred Foobar} and {fred}. :dragon: n. [MIT] A program
+similar to a {daemon}, except that it is not invoked at all, but is instead
+used by the system to perform various secondary tasks. A typical example
+would be an accounting program, which keeps track of who is logged in,
+accumulates load-average statistics, etc. Under ITS, many terminals displayed
+a list of people logged in, where they were, what they were running, etc.,
+along with some random picture (such as a unicorn, Snoopy, or the
+Enterprise), which was generated by the `name dragon'. Usage: rare outside
+MIT -- under Unix and most other

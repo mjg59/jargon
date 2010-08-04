@@ -42,6 +42,12 @@ there is equivalent mainstream slang; a `jobsworth' is an obstructive,
 rule-following bureaucrat, often of the uniformed or suited variety. Named
 for the habit of denying a reasonable request by sucking his teeth and saying
 "Oh no, guv, sorry I can't help you: that's more than my job's worth".
+:drone: n. Ignorant sales or customer service personnel in computer or
+electronics superstores. Characterized by a lack of even superficial
+knowledge about the products they sell, yet possessed of the conviction that
+they are more competent than their hacker customers. Usage: "That video board
+probably sucks, it was recommended by a drone at Fry's" In the year 2000,
+their natural habitats include Fry's Electronics, Best Buy, and CompUSA.
 :drool-proof paper: n. Documentation that has been obsessively {dumbed down},
 to the point where only a {cretin} could bear to read it, is said to have
 succumbed to the `drool-proof paper syndrome' or to have been `written on
@@ -81,10 +87,12 @@ enough {cruft} to be unreliable, the mouse was doused in cleaner, which
 restored it for a while. However, this operation left a fine residue that
 accelerated the accumulation of cruft, so the dousings became more and more
 frequent. Finally, the mouse was declared `alcoholic' and sent to the clinic
-to be dried out in a CFC ultrasonic bath. :Duff's device: n. The most
-dramatic use yet seen of {fall through} in C, invented by Tom Duff when he
-was at Lucasfilm. Trying to {bum} all the instructions he could out of an
-inner loop that copied data serially onto an output port, he decided to
+to be dried out in a CFC ultrasonic bath. :dub dub dub: [common] Spoken-only
+shorthand for the "www" (double-u double-u double-u) in many web host names.
+Nothing to do with the style of reggae music called `dub'. :Duff's device: n.
+The most dramatic use yet seen of {fall through} in C, invented by Tom Duff
+when he was at Lucasfilm. Trying to {bum} all the instructions he could out
+of an inner loop that copied data serially onto an output port, he decided to
 unroll it. He then realized that the unrolled version could be implemented by
 _interlacing_ the structures of a switch and a loop: register n = (count + 7)
 / 8; /* count > 0 assumed */ switch (count % 8) { case 0: do { *to = *from++;
@@ -223,7 +231,15 @@ internally classified top-secret, burn-before-reading. Hackers blanch at the
 very _name_ of EBCDIC and consider it a manifestation of purest {evil}. see
 also {fear and loathing}. :echo: [FidoNet] n. A {topic group} on {FidoNet}'s
 echomail system. Compare {newsgroup}. :ECP: /E-C-P/ n. see {spam} and
-{velveeta}. :egosurf: vi. To search the net for your name or links to your
+{velveeta}. :ed: n. "ed is the standard text editor." Line taken from
+original the {Unix} manual page on ed, an ancient line-oriented editor that
+is by now used only by a few {Real Programmer}s, and even then only for batch
+operations. The original line is sometimes uttered near the beginning of an
+emacs vs. vi holy war on {Usenet}, with the (vain) hope to quench the
+discussion before it really takes off. Often followed by a standard text
+describing the many virtues of ed (such as the small memory {footprint} on a
+Timex Sinclair, and the consistent (because nearly non-existent) user
+interface). :egosurf: vi. To search the net for your name or links to your
 web pages. Perhaps connected to long-established SF-fan slang `egoscan', to
 search for one's name in a fanzine. :eighty-column mind: n. [IBM] The sort
 said to be possessed by persons for whom the transition from {punched card}
@@ -237,35 +253,37 @@ thirst. Next day he was buried, Face down, 9-edge first. The eighty-column
 mind was thought by most hackers to dominate IBM's customer base and its
 thinking. This only began to change in the mid-1990s when IBM began to
 reinvent itself after the triumph of the {killer micro}. see {IBM}, {fear and
-loathing}, {card walloper}. :El Camino Bignum: /el' k*-mee'noh big'nuhm/ n.
-The road mundanely called El Camino Real, running along San Francisco
-peninsula. It originally extended all the way down to Mexico City; many
-portions of the old road are still intact. Navigation on the San Francisco
-peninsula is usually done relative to El Camino Real, which defines {logical}
-north and south even though it isn't really north-south in many places. El
-Camino Real runs right past Stanford University and so is familiar to
-hackers. The Spanish word `real' (which has two syllables: /ray-ahl'/) means
-`royal'; El Camino Real is `the royal road'. In the FORTRAN language, a
-`real' quantity is a number typically precise to seven significant digits,
-and a `double precision' quantity is a larger floating-point number, precise
-to perhaps fourteen significant digits (other languages have similar `real'
-types). When a hacker from MIT visited Stanford in 1976, he remarked what a
-long road El Camino Real was. Making a pun on `real', he started calling it
-`El Camino Double Precision' -- but when the hacker was told that the road
-was hundreds of miles long, he renamed it `El Camino Bignum', and that name
-has stuck. (see {bignum}.) [GLS has since let slip that the unnamed hacker in
-this story was in fact himself --ESR] In recent years, the synonym `El Camino
-Virtual' has been reported as an alternate at IBM and Amdahl sites in the
-Valley. Mathematically literate hackers in the Valley have also been heard to
-refer to some major cross-street intersecting El Camino Real as "El Camino
-Imaginary". One popular theory is that the intersection is located near
-Moffett Field - where they keep all those complex planes. :elder days: n. The
-heroic age of hackerdom (roughly, pre-1980); the era of the {PDP-10}, {TECO},
-{{ITS}}, and the ARPANET. This term has been rather consciously adopted from
-J. R. R. Tolkien's fantasy epic "The Lord of the Rings". Compare {Iron Age};
-see also {elvish} and {Great Worm}. :elegant: adj. [common; from mathematical
-usage] Combining simplicity, power, and a certain ineffable grace of design.
-Higher praise than `clever', `winning', or even {cuspy}. The French aviator,
+loathing}, {card walloper}. A copy of "The Last Bug" lives on the the GNU
+site at `http://www.gnu.org/fun/jokes/last.bug.html'. :El Camino Bignum: /el'
+k*-mee'noh big'nuhm/ n. The road mundanely called El Camino Real, running
+along San Francisco peninsula. It originally extended all the way down to
+Mexico City; many portions of the old road are still intact. Navigation on
+the San Francisco peninsula is usually done relative to El Camino Real, which
+defines {logical} north and south even though it isn't really north-south in
+many places. El Camino Real runs right past Stanford University and so is
+familiar to hackers. The Spanish word `real' (which has two syllables:
+/ray-ahl'/) means `royal'; El Camino Real is `the royal road'. In the FORTRAN
+language, a `real' quantity is a number typically precise to seven
+significant digits, and a `double precision' quantity is a larger
+floating-point number, precise to perhaps fourteen significant digits (other
+languages have similar `real' types). When a hacker from MIT visited Stanford
+in 1976, he remarked what a long road El Camino Real was. Making a pun on
+`real', he started calling it `El Camino Double Precision' -- but when the
+hacker was told that the road was hundreds of miles long, he renamed it `El
+Camino Bignum', and that name has stuck. (see {bignum}.) [GLS has since let
+slip that the unnamed hacker in this story was in fact himself --ESR] In
+recent years, the synonym `El Camino Virtual' has been reported as an
+alternate at IBM and Amdahl sites in the Valley. Mathematically literate
+hackers in the Valley have also been heard to refer to some major
+cross-street intersecting El Camino Real as "El Camino Imaginary". One
+popular theory is that the intersection is located near Moffett Field - where
+they keep all those complex planes. :elder days: n. The heroic age of
+hackerdom (roughly, pre-1980); the era of the {PDP-10}, {TECO}, {{ITS}}, and
+the ARPANET. This term has been rather consciously adopted from J. R. R.
+Tolkien's fantasy epic "The Lord of the Rings". Compare {Iron Age}; see also
+{elvish} and {Great Worm}. :elegant: adj. [common; from mathematical usage]
+Combining simplicity, power, and a certain ineffable grace of design. Higher
+praise than `clever', `winning', or even {cuspy}. The French aviator,
 adventurer, and author Antoine de Saint-Exupe'ry, probably best known for his
 classic children's book "The Little Prince", was also an aircraft designer.
 He gave us perhaps the best definition of engineering elegance when he said
@@ -414,44 +432,45 @@ any language, as opposed to the linkable or executable binary produced from
 it by a compiler. The idea behind the term is that to a real hacker, a
 program written in his favorite programming language is at least as readable
 as English. Usage: mostly by old-time hackers, though recognizable in
-context. 2. The official name of the database language used by the Pick
+context. 2. The official name of the database language used by old the Pick
 Operating System, actually a sort of crufty, brain-damaged SQL with delusions
-of grandeur. The name permits {marketroid}s to say "Yes, and you can program
-our computers in English!" to ignorant {suit}s without quite running afoul of
-the truth-in-advertising laws. :enhancement: n. Common {marketroid}-speak for
-a bug {fix}. This abuse of language is a popular and time-tested way to turn
-incompetence into increased revenue. A hacker being ironic would instead call
-the fix a {feature} -- or perhaps save some effort by declaring the bug
-itself to be a feature. :ENQ: /enkw/ or /enk/ [from the ASCII mnemonic
-ENQuire for 0000101] An on-line convention for querying someone's
-availability. After opening a {talk mode} connection to someone apparently in
-heavy hack mode, one might type `SYN SYN ENQ?' (the SYNs representing
-notional synchronization bytes), and expect a return of {ACK} or {NAK}
-depending on whether or not the person felt interruptible. Compare {ping},
-{finger}, and the usage of `FOO?' listed under {talk mode}. :EOF: /E-O-F/ n.
-[abbreviation, `End Of File'] 1. [techspeak] The {out-of-band} value returned
-by C's sequential character-input functions (and their equivalents in other
-environments) when end of file has been reached. This value is usually -1
-under C libraries postdating V6 Unix, but was originally 0. DOS hackers think
-EOF is ^Z, and a few Amiga hackers think it's ^\. 2. [Unix] The keyboard
-character (usually control-D, the ASCII EOT (End Of Transmission) character)
-that is mapped by the terminal driver into an end-of-file condition. 3. Used
-by extension in non-computer contexts when a human is doing something that
-can be modeled as a sequential read and can't go further. "Yeah, I looked for
-a list of 360 mnemonics to post as a joke, but I hit EOF pretty fast; all the
-library had was a {JCL} manual." see also {EOL}. :EOL: /E-O-L/ n. [End Of
-Line] Syn. for {newline}, derived perhaps from the original CDC6600 Pascal.
-Now rare, but widely recognized and occasionally used for brevity. Used in
-the example entry under {BNF}. see also {EOF}. :EOU: /E-O-U/ n. The mnemonic
-of a mythical ASCII control character (End Of User) that would make an ASR-33
-Teletype explode on receipt. This construction parodies the numerous obscure
-delimiter and control characters left in ASCII from the days when it was
-associated more with wire-service teletypes than computers (e.g., FS, GS, RS,
-US, EM, SUB, ETX, and esp. EOT). It is worth remembering that ASR-33s were
-big, noisy mechanical beasts with a lot of clattering parts; the notion that
-one might explode was nowhere near as ridiculous as it might seem to someone
-sitting in front of a {tube} or flatscreen today. :epoch: n. [Unix: prob.
-from astronomical timekeeping] The time and date corresponding to 0 in an
+of grandeur. The name permitted {marketroid}s to say "Yes, and you can
+program our computers in English!" to ignorant {suit}s without quite running
+afoul of the truth-in-advertising laws. :enhancement: n. Common
+{marketroid}-speak for a bug {fix}. This abuse of language is a popular and
+time-tested way to turn incompetence into increased revenue. A hacker being
+ironic would instead call the fix a {feature} -- or perhaps save some effort
+by declaring the bug itself to be a feature. :ENQ: /enkw/ or /enk/ [from the
+ASCII mnemonic ENQuire for 0000101] An on-line convention for querying
+someone's availability. After opening a {talk mode} connection to someone
+apparently in heavy hack mode, one might type `SYN SYN ENQ?' (the SYNs
+representing notional synchronization bytes), and expect a return of {ACK} or
+{NAK} depending on whether or not the person felt interruptible. Compare
+{ping}, {finger}, and the usage of `FOO?' listed under {talk mode}. :EOF:
+/E-O-F/ n. [abbreviation, `End Of File'] 1. [techspeak] The {out-of-band}
+value returned by C's sequential character-input functions (and their
+equivalents in other environments) when end of file has been reached. This
+value is usually -1 under C libraries postdating V6 Unix, but was originally
+0. DOS hackers think EOF is ^Z, and a few Amiga hackers think it's ^\. 2.
+[Unix] The keyboard character (usually control-D, the ASCII EOT (End Of
+Transmission) character) that is mapped by the terminal driver into an
+end-of-file condition. 3. Used by extension in non-computer contexts when a
+human is doing something that can be modeled as a sequential read and can't
+go further. "Yeah, I looked for a list of 360 mnemonics to post as a joke,
+but I hit EOF pretty fast; all the library had was a {JCL} manual." see also
+{EOL}. :EOL: /E-O-L/ n. [End Of Line] Syn. for {newline}, derived perhaps
+from the original CDC6600 Pascal. Now rare, but widely recognized and
+occasionally used for brevity. Used in the example entry under {BNF}. see
+also {EOF}. :EOU: /E-O-U/ n. The mnemonic of a mythical ASCII control
+character (End Of User) that would make an ASR-33 Teletype explode on
+receipt. This construction parodies the numerous obscure delimiter and
+control characters left in ASCII from the days when it was associated more
+with wire-service teletypes than computers (e.g., FS, GS, RS, US, EM, SUB,
+ETX, and esp. EOT). It is worth remembering that ASR-33s were big, noisy
+mechanical beasts with a lot of clattering parts; the notion that one might
+explode was nowhere near as ridiculous as it might seem to someone sitting in
+front of a {tube} or flatscreen today. :epoch: n. [Unix: prob. from
+astronomical timekeeping] The time and date corresponding to 0 in an
 operating system's clock and timestamp values. Under most Unix versions the
 epoch is 00:00:00 GMT, January 1, 1970; under VMS, it's 00:00:00 of November
 17, 1858 (base date of the U.S. Naval Observatory's ephemerides); on a

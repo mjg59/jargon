@@ -12,9 +12,9 @@ somebody face-to-face (as opposed to via electronic links). "Oh, yeah, I
 spent some face time with him at the last Usenix." :factor: n. see
 {coefficient of X}. :fairings: n. /fer'ingz/ [FreeBSD; orig. a typo for
 `fairness'] A term thrown out in discussion whenever a completely and
-transparently nonsensical argument in one's favor(?) zseems called for, e,g.
+transparently nonsensical argument in one's favor(?) seems called for, e,g.
 at the end of a really long thread for which the outcome is no longer even
-cared about since everyone is now so sick of it or in rebuttal to another
+cared about since everyone is now so sick of it; or in rebuttal to another
 nonsensical argument ("Change the loader to look for /kernel.pl? What about
 fairings?") :fall over: vi. [IBM] Yet another synonym for {crash} or {lose}.
 `Fall over hard' equates to {crash and burn}. :fall through: v. (n.
@@ -46,17 +46,18 @@ hackers. "Laura reads the stuff occasionally but isn't really a fan."
 pointer that runs out of bounds, causing a {core dump}, or corrupts the
 `malloc(3)' {arena} in such a way as to cause mysterious failures later on,
 is sometimes said to have `done a fandango on core'. On low-end personal
-machines without an MMU, this can corrupt the OS itself, causing massive
-lossage. Other frenetic dances such as the rhumba, cha-cha, or watusi, may be
-substituted. see {aliasing bug}, {precedence lossage}, {smash the stack},
-{memory leak}, {memory smash}, {overrun screw}, {core}. :FAQ: /F-A-Q/ or
-/fak/ n. [Usenet] 1. A Frequently Asked Question. 2. A compendium of
-accumulated lore, posted periodically to high-volume newsgroups in an attempt
-to forestall such questions. Some people prefer the term `FAQ list' or `FAQL'
-/fa'kl/, reserving `FAQ' for sense 1. This lexicon itself serves as a good
-example of a collection of one kind of lore, although it is far too big for a
-regular FAQ posting. Examples: "What is the proper type of NULL?" and "What's
-that funny name for the `#' character?" are both Frequently Asked Questions.
+machines without an MMU (or Windows boxes, which have an MMU but use it
+incompetently), this can corrupt the OS itself, causing massive lossage.
+Other frenetic dances such as the cha-cha or the watusi, may be substituted.
+see {aliasing bug}, {precedence lossage}, {smash the stack}, {memory leak},
+{memory smash}, {overrun screw}, {core}. :FAQ: /F-A-Q/ or /fak/ n. [Usenet]
+1. A Frequently Asked Question. 2. A compendium of accumulated lore, posted
+periodically to high-volume newsgroups in an attempt to forestall such
+questions. Some people prefer the term `FAQ list' or `FAQL' /fa'kl/,
+reserving `FAQ' for sense 1. This lexicon itself serves as a good example of
+a collection of one kind of lore, although it is far too big for a regular
+FAQ posting. Examples: "What is the proper type of NULL?" and "What's that
+funny name for the `#' character?" are both Frequently Asked Questions.
 Several FAQs refer readers to this file. :FAQ list: /F-A-Q list/ or /fak
 list/ n. [common; Usenet] Syn {FAQ}, sense 2. :FAQL: /fa'kl/ n. Syn. {FAQ
 list}. :faradize: /far'*-di:z/ v. [US Geological Survey] To start any
@@ -94,47 +95,52 @@ generator. These flow down ordinary wires just fine, but when they have to
 turn a sharp corner (as in an integrated-circuit via), they're apt to get
 stuck. This is what causes computer glitches. [Fascinating. Obviously, fat
 electrons must gain mass by {bogon} absorption --ESR] Compare {bogon}, {magic
-smoke}. :faulty: adj. Non-functional; buggy. Same denotation as
-{bletcherous}, {losing}, q.v., but the connotation is much milder. :fd leak:
-/F-D leek/ n. A kind of programming bug analogous to a {core leak}, in which
-a program fails to close file descriptors (`fd's) after file operations are
-completed, and thus eventually runs out of them. see {leak}. :fear and
-loathing: n. [from Hunter S. Thompson] A state inspired by the prospect of
-dealing with certain real-world systems and standards that are totally
-{brain-damaged} but ubiquitous -- Intel 8086s, or {COBOL}, or {{EBCDIC}}, or
-any {IBM} machine bigger than a workstation. "Ack! They want PCs to be able
-to talk to the AI machine. Fear and loathing time!" :feature: n. 1. [common]
-A good property or behavior (as of a program). Whether it was intended or not
-is immaterial. 2. [common] An intended property or behavior (as of a
-program). Whether it is good or not is immaterial (but if bad, it is also a
-{misfeature}). 3. A surprising property or behavior; in particular, one that
-is purposely inconsistent because it works better that way -- such an
-inconsistency is therefore a {feature} and not a {bug}. This kind of feature
-is sometimes called a {miswart}; see that entry for a classic example. 4. A
-property or behavior that is gratuitous or unnecessary, though perhaps also
-impressive or cute. For example, one feature of Common LISP's `format'
-function is the ability to print numbers in two different Roman-numeral
-formats (see {bells whistles and gongs}). 5. A property or behavior that was
-put in to help someone else but that happens to be in your way. 6. [common] A
-bug that has been documented. To call something a feature sometimes means the
-author of the program did not consider the particular case, and that the
-program responded in a way that was unexpected but not strictly incorrect. A
-standard joke is that a bug can be turned into a {feature} simply by
-documenting it (then theoretically no one can complain about it because it's
-in the manual), or even by simply declaring it to be good. "That's not a bug,
-that's a feature!" is a common catchphrase. see also {feetch feetch},
-{creeping featurism}, {wart}, {green lightning}. The relationship among bugs,
-features, misfeatures, warts, and miswarts might be clarified by the
-following hypothetical exchange between two hackers on an airliner: A: "This
-seat doesn't recline." B: "That's not a bug, that's a feature. There is an
-emergency exit door built around the window behind you, and the route has to
-be kept clear." A: "Oh. Then it's a misfeature; they should have increased
-the spacing between rows here." B: "Yes. But if they'd increased spacing in
-only one section it would have been a wart -- they would've had to make
-nonstandard-length ceiling panels to fit over the displaced seats." A: "A
-miswart, actually. If they increased spacing throughout they'd lose several
-rows and a chunk out of the profit margin. So unequal spacing would actually
-be the Right Thing." B: "Indeed." `Undocumented feature' is a common,
-allegedly humorous euphemism for a {bug}. There's a related joke that is
-sometimes referred to as the "one-question geek test". You say to someone "I
-saw a Volkswagen Beetle today with a vanity license plate that read
+smoke}. :fat-finger: vt. 1. To introduce a typo while editing in such a way
+that the resulting manglification of a configuration file does something
+useless, damaging, or wildly unexpected. "NSI fat-fingered their DNS zone
+file and took half the net down again." 2. More generally, any typo that
+produces dramatically bad results. :faulty: adj. Non-functional; buggy. Same
+denotation as {bletcherous}, {losing}, q.v., but the connotation is much
+milder. :fd leak: /F-D leek/ n. A kind of programming bug analogous to a
+{core leak}, in which a program fails to close file descriptors (`fd's) after
+file operations are completed, and thus eventually runs out of them. see
+{leak}. :fear and loathing: n. [from Hunter S. Thompson] A state inspired by
+the prospect of dealing with certain real-world systems and standards that
+are totally {brain-damaged} but ubiquitous -- Intel 8086s, or {COBOL}, or
+{{EBCDIC}}, or any {IBM} machine bigger than a workstation. "Ack! They want
+PCs to be able to talk to the AI machine. Fear and loathing time!" :feature:
+n. 1. [common] A good property or behavior (as of a program). Whether it was
+intended or not is immaterial. 2. [common] An intended property or behavior
+(as of a program). Whether it is good or not is immaterial (but if bad, it is
+also a {misfeature}). 3. A surprising property or behavior; in particular,
+one that is purposely inconsistent because it works better that way -- such
+an inconsistency is therefore a {feature} and not a {bug}. This kind of
+feature is sometimes called a {miswart}; see that entry for a classic
+example. 4. A property or behavior that is gratuitous or unnecessary, though
+perhaps also impressive or cute. For example, one feature of Common LISP's
+`format' function is the ability to print numbers in two different
+Roman-numeral formats (see {bells whistles and gongs}). 5. A property or
+behavior that was put in to help someone else but that happens to be in your
+way. 6. [common] A bug that has been documented. To call something a feature
+sometimes means the author of the program did not consider the particular
+case, and that the program responded in a way that was unexpected but not
+strictly incorrect. A standard joke is that a bug can be turned into a
+{feature} simply by documenting it (then theoretically no one can complain
+about it because it's in the manual), or even by simply declaring it to be
+good. "That's not a bug, that's a feature!" is a common catchphrase. see also
+{feetch feetch}, {creeping featurism}, {wart}, {green lightning}. The
+relationship among bugs, features, misfeatures, warts, and miswarts might be
+clarified by the following hypothetical exchange between two hackers on an
+airliner: A: "This seat doesn't recline." B: "That's not a bug, that's a
+feature. There is an emergency exit door built around the window behind you,
+and the route has to be kept clear." A: "Oh. Then it's a misfeature; they
+should have increased the spacing between rows here." B: "Yes. But if they'd
+increased spacing in only one section it would have been a wart -- they
+would've had to make nonstandard-length ceiling panels to fit over the
+displaced seats." A: "A miswart, actually. If they increased spacing
+throughout they'd lose several rows and a chunk out of the profit margin. So
+unequal spacing would actually be the Right Thing." B: "Indeed."
+`Undocumented feature' is a common, allegedly humorous euphemism for a {bug}.
+There's a related joke that is sometimes referred to as the "one-question
+geek test". You say to someone "I saw a Volkswagen Beetle today with a vanity
+license plate that read

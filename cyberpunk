@@ -73,7 +73,7 @@ attached a note to the balloon explaining that the device was not dangerous
 and contained no explosives. Harvard president Derek Bok commented: "They
 have an awful lot of clever people down there at MIT, and they did it again."
 President Paul E. Gray of MIT said: "There is absolutely no truth to the
-rumor that I had anything to do with it, but I wish there were." The hacks
+rumor that I had anything to do with it, but I wish there were." The ha ks
 above are verifiable history; they can be proved to have happened. Many other
 classic-hack stories from MIT and elsewhere, though retold as history, have
 the characteristics of what Jan Brunvand has called `urban folklore' (see
@@ -185,9 +185,10 @@ feature, resurrected this ghost in one of his books of the early 1980s. He
 ascribed its popularity (no doubt correctly) to the feeling of power the
 builder could achieve by being able to decide himself what would be shown on
 the TV. --ESR] [Antihistorical note: On September 23rd, 1992, the L.A. Times
-ran the following bit of filler: Solomon Waters of Altadena, a 6-year-old
+ran the following bit in Steve Harvey's `Only in L.A.' column: It must have
+been borrowed from a museum: Solomon Waters of Altadena, a 6-year-old
 first-grader, came home from his first day of school and excitedly told his
-mother how he had written on "a machine that looks like a computer - but
+mother how he had written on "a machine that looks like a computer-but
 without the TV screen." She asked him if it could have been a "typewriter."
 "Yeah! Yeah!" he said. "That's what it was called." I have since investigated
 this matter and determined that many of today's teenagers have never seen a
@@ -473,9 +474,9 @@ has become quite popular for similar reasons. Hacker sports are almost always
 primarily self-competitive ones involving concentration, stamina, and
 micromotor skills: martial arts, bicycling, auto racing, kite flying, hiking,
 rock climbing, aviation, target-shooting, sailing, caving, juggling, skiing,
-skating (ice and roller). Hackers' delight in techno-toys also tends to draw
-them towards hobbies with nifty complicated equipment that they can tinker
-with. :Education: =========== Nearly all hackers past their teens are either
+skating. Hackers' delight in techno-toys also tends to draw them towards
+hobbies with nifty complicated equipment that they can tinker with.
+:Education: =========== Nearly all hackers past their teens are either
 college-degreed or self-educated to an equivalent level. The self-taught
 hacker is often considered (at least by other hackers) to be
 better-motivated, and may be more respected, than his school-shaped
@@ -538,22 +539,23 @@ hackers not actively involved with neo-paganism, Discordianism, or Zen.
 Hacker folklore that pays homage to `wizards' and speaks of incantations and
 demons has too much psychological truthfulness about it to be entirely a
 joke. :Ceremonial Chemicals: ====================== Most hackers don't smoke
-tobacco, and use alcohol in moderation if at all (though there is a visible
-contingent of exotic-beer fanciers, and a few hackers are serious
-oenophiles). Limited use of non-addictive psychedelic drugs, such as
-cannabis, LSD, psilocybin, and nitrous oxide, etc., used to be relatively
-common and is still regarded with more tolerance than in the mainstream
-culture. Use of `downers' and opiates, on the other hand, appears to be
-particularly rare; hackers seem in general to dislike drugs that make them
-stupid. On the third hand, many hackers regularly wire up on caffeine and/or
-sugar for all-night hacking runs. :Communication Style: =====================
-see the discussions of speech and writing styles near the beginning of this
-File. Though hackers often have poor person-to-person communication skills,
-they are as a rule quite sensitive to nuances of language and very precise in
-their use of it. They are often better at writing than at speaking.
-:Geographical Distribution: =========================== In the United States,
-hackerdom revolves on a Bay Area-to-Boston axis; about half of the hard core
-seems to live within a hundred miles of Cambridge (Massachusetts) or Berkeley
+tobacco, and use alcohol in moderation if at all. However, there has been
+something of a trend towards exotic beers since about 1995, especially among
+younger Linux hackers apparently influenced by Linus Torvalds's fondness for
+Guiness. Limited use of non-addictive psychedelic drugs, such as cannabis,
+LSD, psilocybin, nitrous oxide, etc., used to be relatively common and is
+still regarded with more tolerance than in the mainstream culture. Use of
+`downers' and opiates, on the other hand, appears to be particularly rare;
+hackers seem in general to dislike drugs that make them stupid. On the third
+hand, many hackers regularly wire up on caffeine and/or sugar for all-night
+hacking runs. :Communication Style: ===================== see the discussions
+of speech and writing styles near the beginning of this File. Though hackers
+often have poor person-to-person communication skills, they are as a rule
+quite sensitive to nuances of language and very precise in their use of it.
+They are often better at writing than at speaking. :Geographical
+Distribution: =========================== In the United States, hackerdom
+revolves on a Bay Area-to-Boston axis; about half of the hard core seems to
+live within a hundred miles of Cambridge (Massachusetts) or Berkeley
 (California), although there are significant contingents in Los Angeles, in
 the Pacific Northwest, and around Washington DC. Hackers tend to cluster
 around large cities, especially `university towns' such as the Raleigh-Durham
@@ -645,35 +647,57 @@ paragraphs above. Hackers are often monumentally disorganized and sloppy
 about dealing with the physical world. Bills don't get paid on time, clutter
 piles up to incredible heights in homes and offices, and minor maintenance
 tasks get deferred indefinitely. 1994-95's fad behavioral disease was a
-syndrome called Attention Deficit Disorder, supposedly characterized by
+syndrome called Attention Deficit Disorder (ADD), supposedly characterized by
 (among other things) a combination of short attention span with an ability to
-`hyperfocus' imaginatively on interesting tasks. There are grounds for
-questioning whether ADD actually exists, and if it does whether it is really
-a `disease' rather than an extreme of a normal genetic variation like having
-freckles or being able to taste DPT; but it is certainly true that many
-hacker traits coincide with major indicators for ADD, and probably true that
-ADD boosters would find a far higher rate of clinical ADD among hackers than
-the supposedly mainstream-normal 10%. The sort of person who routinely uses
-phrases like `incompletely socialized' usually thinks hackers are. Hackers
-regard such people with contempt when they notice them at all.
-:Miscellaneous: =============== Hackers are more likely to have cats than
-dogs (in fact, it is widely grokked that cats have the hacker nature). Many
-drive incredibly decrepit heaps and forget to wash them; richer ones drive
-spiffy Porsches and RX-7s and then forget to have them washed. Almost all
-hackers have terribly bad handwriting, and often fall into the habit of
-block-printing everything like junior draftsmen. :Helping Hacker Culture
-Grow: ***************************** If you enjoyed the Jargon File, please
-help the culture that created it grow and flourish. Here are several ways you
-can help: * If you are a writer or journalist, don't say or write {hacker}
-when you mean {cracker}. If you work with writers or journalists, educate
-them on this issue and push them to do the right thing. If you catch a
-newspaper or magazine abusing the work `hacker', write them and straighten
-them out (this appendix includes a model letter). * If you're a techie or
-computer hobbyist, get involved with one of the free Unixes. Toss out that
-lame Microsoft OS, or confine it to one disk partition and put Linux or
-FreeBSD or NetBSD on the other one. And the next time your friend or boss is
-thinking about some proprietary software `solution' that costs more than it's
-worth, be ready to blow the competition away with open-source software
+`hyperfocus' imaginatively on interesting tasks. In 1998-1999 another
+syndrome that is said to overlap with many hacker traits entered popular
+awareness: Asperger's syndrome (AS). This disorder is also sometimes called
+`high-function autism', though researchers are divided on whether AS is in
+fact a mild form of autism or a distinct syndrome with a different etiology.
+AS patients exhibit mild to severe deficits in interpreting facial and
+body-language cues and in modeling or empathizing with others' emotions.
+Though some AS patients exhibit mild retardation, others compensate for their
+deficits with high intelligence and analytical ability, and frequently seek
+out technical fields where problem-solving abilities are at a premium and
+people skills are relatively unimportant. Both syndromes are thought to
+relate to abnormalities in neurotransmitter chemistry, especially the brain's
+processing of serotonin. Many hackers have noticed that mainstream culture
+has shown a tendency to pathologize and medicalize normal variations in
+personality, especially those variations that make life more complicated for
+authority figures and conformists. Thus, hackers aware of the issue tend to
+be among those questioning whether ADD and AS actually exist; and if so
+whether they are really `diseases' rather than extremes of a normal genetic
+variation like having freckles or being able to taste DPT. In either case,
+they have a sneaking tendency to wonder if these syndromes are over-diagnosed
+and over-treated. After all, people in authority will always be
+inconvenienced by schoolchildren or workers or citizens who are prickly,
+intelligent individualists - thus, any social system that depends on
+authority relationships will tend to helpfully ostracize and therapize and
+drug such `abnormal' people until they are properly docile and stupid and
+`well-socialized'. So hackers tend to believe they have good reason for
+skepticism about clinical explanations of the hacker personality. That being
+said, most would also concede that some hacker traits coincide with
+indicators for ADD and AS. It is probably true that boosters of both would
+find a rather higher rate of clinical ADD among hackers than the supposedly
+mainstream-normal 10% (AS is rarer and there are not yet good estimates of
+incidence as of 2000). :Miscellaneous: =============== Hackers are more
+likely to have cats than dogs (in fact, it is widely grokked that cats have
+the hacker nature). Many drive incredibly decrepit heaps and forget to wash
+them; richer ones drive spiffy Porsches and RX-7s and then forget to have
+them washed. Almost all hackers have terribly bad handwriting, and often fall
+into the habit of block-printing everything like junior draftsmen. :Helping
+Hacker Culture Grow: ***************************** If you enjoyed the Jargon
+File, please help the culture that created it grow and flourish. Here are
+several ways you can help: * If you are a writer or journalist, don't say or
+write {hacker} when you mean {cracker}. If you work with writers or
+journalists, educate them on this issue and push them to do the right thing.
+If you catch a newspaper or magazine abusing the work `hacker', write them
+and straighten them out (this appendix includes a model letter). * If you're
+a techie or computer hobbyist, get involved with one of the free Unixes. Toss
+out that lame Microsoft OS, or confine it to one disk partition and put Linux
+or FreeBSD or NetBSD on the other one. And the next time your friend or boss
+is thinking about some proprietary software `solution' that costs more than
+it's worth, be ready to blow the competition away with open-source software
 running over a Unix. * Contribute to organizations like the Free Software
 Foundation that promote the production of high-quality free and open-source
 software. You can reach the Free Software Foundation at gnu@gnu.org, by phone
@@ -748,63 +772,58 @@ Levy Anchor/Doubleday 1984 ISBN 0-385-19195-2 Levy's book is at its best in
 describing the early MIT hackers at the Model Railroad Club and the early
 days of the microcomputer revolution. He never understood Unix or the
 networks, though, and his enshrinement of Richard Stallman as "the last true
-hacker" turns out (thankfully) to have been quite misleading. Numerous minor
-factual errors also mar the text; for example, Levy's claim that the original
-Jargon File derived from the TMRC Dictionary (the File originated at Stanford
-and was brought to MIT in 1976; the co-authors of the first edition had never
-seen the dictionary in question). There are also numerous misspellings in the
-book that inflame the passions of old-timers; as Dan Murphy, the author of
-TECO, once said: "You would have thought he'd take the trouble to spell the
-name of a winning editor right." Nevertheless, this remains a useful and
-stimulating book that captures the feel of several important hackish
-subcultures. :The Computer Contradictionary: Stan Kelly-Bootle MIT Press,
-1995 ISBN 0-262-61112-0 This pastiche of Ambrose Bierce's famous work is
-similar in format to the Jargon File (and quotes several entries from TNHD-2)
-but somewhat different in tone and intent. It is more satirical and less
-anthropological, and is largely a product of the author's literate and quirky
-imagination. For example, it defines `computer science' as "a study akin to
-numerology and astrology, but lacking the precision of the former and the
-success of the latter" and `implementation' as "The fruitless struggle by the
-talented and underpaid to fulfill promises made by the rich and ignorant";
-`flowchart' becomes "to obfuscate a problem with esoteric cartoons". Revised
-and expanded from "The Devil's DP Dictionary", McGraw-Hill 1981, ISBN
-0-07-034022-6. :The Devouring Fungus: Tales from the Computer Age: Karla
-Jennings Norton, 1990 ISBN 0-393-30732-8 The author of this pioneering
-compendium knits together a great deal of computer- and hacker-related
-folklore with good writing and a few well-chosen cartoons. She has a keen eye
-for the human aspects of the lore and is very good at illuminating the
-psychology and evolution of hackerdom. Unfortunately, a number of small
-errors and awkwardnesses suggest that she didn't have the final manuscript
-checked over by a native speaker; the glossary in the back is particularly
-embarrassing, and at least one classic tale (the Magic Switch story, retold
-here under {A Story About Magic} in Appendix A is given in incomplete and
-badly mangled form. Nevertheless, this book is a win overall and can be
-enjoyed by hacker and non-hacker alike. :The Soul of a New Machine: Tracy
-Kidder Little, Brown, 1981 (paperback: Avon, 1982 ISBN 0-380-59931-7) This
-book (a 1982 Pulitzer Prize winner) documents the adventure of the design of
-a new Data General computer, the MV-8000 Eagle. It is an amazingly well-done
-portrait of the hacker mindset -- although largely the hardware hacker --
-done by a complete outsider. It is a bit thin in spots, but with enough
-technical information to be entertaining to the serious hacker while
-providing non-technical people a view of what day-to-day life can be like --
-the fun, the excitement, the disasters. During one period, when the microcode
-and logic were glitching at the nanosecond level, one of the overworked
-engineers departed the company, leaving behind a note on his terminal as his
-letter of resignation: "I am going to a commune in Vermont and will deal with
-no unit of time shorter than a season." :Life with UNIX: a Guide for
-Everyone: Don Libes and Sandy Ressler Prentice-Hall, 1989 ISBN 0-13-536657-7
-The authors of this book set out to tell you all the things about Unix that
-tutorials and technical books won't. The result is gossipy, funny,
-opinionated, downright weird in spots, and invaluable. Along the way they
-expose you to enough of Unix's history, folklore and humor to qualify as a
-first-class source for these things. Because so much of today's hackerdom is
-involved with Unix, this in turn illuminates many of its in-jokes and
-preoccupations. :True Names ... and Other Dangers: Vernor Vinge Baen Books,
-1987 ISBN 0-671-65363-6 Hacker demigod Richard Stallman used to say that the
-title story of this book "expresses the spirit of hacking best". Until the
-subject of the next entry came out, it was hard to even nominate another
-contender. The other stories in this collection are also fine work by an
-author who has since won multiple Hugos and is one of today's very best
+hacker" turns out (thankfully) to have been quite misleading. Despite being a
+bit dated and containing some minor errors (many fixed in the paperback
+edition), this remains a useful and stimulating book that captures the feel
+of several important hacker subcultures. :The Computer Contradictionary: Stan
+Kelly-Bootle MIT Press, 1995 ISBN 0-262-61112-0 This pastiche of Ambrose
+Bierce's famous work is similar in format to the Jargon File (and quotes
+several entries from TNHD-2) but somewhat different in tone and intent. It is
+more satirical and less anthropological, and is largely a product of the
+author's literate and quirky imagination. For example, it defines `computer
+science' as "a study akin to numerology and astrology, but lacking the
+precision of the former and the success of the latter" and `implementation'
+as "The fruitless struggle by the talented and underpaid to fulfill promises
+made by the rich and ignorant"; `flowchart' becomes "to obfuscate a problem
+with esoteric cartoons". Revised and expanded from "The Devil's DP
+Dictionary", McGraw-Hill 1981, ISBN 0-07-034022-6; that work had some
+stylistic influence on TNHD-1. :The Devouring Fungus: Tales from the Computer
+Age: Karla Jennings Norton, 1990 ISBN 0-393-30732-8 The author of this
+pioneering compendium knits together a great deal of computer- and
+hacker-related folklore with good writing and a few well-chosen cartoons. She
+has a keen eye for the human aspects of the lore and is very good at
+illuminating the psychology and evolution of hackerdom. Unfortunately, a
+number of small errors and awkwardnesses suggest that she didn't have the
+final manuscript checked over by a native speaker; the glossary in the back
+is particularly embarrassing, and at least one classic tale (the Magic Switch
+story, retold here under {A Story About Magic} in Appendix A is given in
+incomplete and badly mangled form. Nevertheless, this book is a win overall
+and can be enjoyed by hacker and non-hacker alike. :The Soul of a New
+Machine: Tracy Kidder Little, Brown, 1981 (paperback: Avon, 1982 ISBN
+0-380-59931-7) This book (a 1982 Pulitzer Prize winner) documents the
+adventure of the design of a new Data General computer, the MV-8000 Eagle. It
+is an amazingly well-done portrait of the hacker mindset -- although largely
+the hardware hacker -- done by a complete outsider. It is a bit thin in
+spots, but with enough technical information to be entertaining to the
+serious hacker while providing non-technical people a view of what day-to-day
+life can be like -- the fun, the excitement, the disasters. During one
+period, when the microcode and logic were glitching at the nanosecond level,
+one of the overworked engineers departed the company, leaving behind a note
+on his terminal as his letter of resignation: "I am going to a commune in
+Vermont and will deal with no unit of time shorter than a season." :Life with
+UNIX: a Guide for Everyone: Don Libes and Sandy Ressler Prentice-Hall, 1989
+ISBN 0-13-536657-7 The authors of this book set out to tell you all the
+things about Unix that tutorials and technical books won't. The result is
+gossipy, funny, opinionated, downright weird in spots, and invaluable. Along
+the way they expose you to enough of Unix's history, folklore and humor to
+qualify as a first-class source for these things. Because so much of today's
+hackerdom is involved with Unix, this in turn illuminates many of its
+in-jokes and preoccupations. :True Names ... and Other Dangers: Vernor Vinge
+Baen Books, 1987 ISBN 0-671-65363-6 Hacker demigod Richard Stallman used to
+say that the title story of this book "expresses the spirit of hacking best".
+Until the subject of the next entry came out, it was hard to even nominate
+another contender. The other stories in this collection are also fine work by
+an author who has since won multiple Hugos and is one of today's very best
 practitioners of hard SF. :Snow Crash: Neal Stephenson Bantam, 1992 ISBN
 0-553-56261-4 Stephenson's epic, comic cyberpunk novel is deeply knowing
 about the hacker psychology and its foibles in a way no other author of

@@ -62,136 +62,140 @@ are a {Good Thing}, but unprotected SEX can propagate a {virus}. see also
 EXtend, a machine instruction found in the PDP-11 and many other
 architectures. The RCA 1802 chip used in the early Elf and SuperElf personal
 computers had a `SEt X register' SEX instruction, but this seems to have had
-little folkloric impact. {DEC}'s engineers nearly got a PDP-11 assembler that
-used the `SEX' mnemonic out the door at one time, but (for once) marketing
-wasn't asleep and forced a change. That wasn't the last time this happened,
-either. The author of "The Intel 8086 Primer", who was one of the original
-designers of the 8086, noted that there was originally a `SEX' instruction on
-that processor, too. He says that Intel management got cold feet and decreed
-that it be changed, and thus the instruction was renamed `CBW' and `CWD'
-(depending on what was being extended). Amusingly, the Intel 8048 (the
-microcontroller used in IBM PC keyboards) is also missing straight `SEX' but
-has logical-or and logical-and instructions `ORL' and `ANL'. The Motorola
-6809, used in the Radio Shack Color Computer and in U.K.'s `Dragon 32'
-personal computer, actually had an official `SEX' instruction; the 6502 in
-the Apple II with which it competed did not. British hackers thought this
-made perfect mythic sense; after all, it was commonly observed, you could (on
-some theoretical level) have sex with a dragon, but you can't have sex with
-an apple. :sex changer: n. Syn. {gender mender}. :shambolic link:
-/sham-bol'ik link/ n. A Unix symbolic link, particularly when it confuses
-you, points to nothing at all, or results in your ending up in some
-completely unexpected part of the filesystem.... :shar file: /shar' fi:l/ n.
-Syn. {sharchive}. :sharchive: /shar'ki:v/ n. [Unix and Usenet; from /bin/sh
-archive] A {flatten}ed representation of a set of one or more files, with the
-unique property that it can be unflattened (the original files restored) by
-feeding it through a standard Unix shell; thus, a sharchive can be
-distributed to anyone running Unix, and no special unpacking software is
-required. Sharchives are also intriguing in that they are typically created
-by shell scripts; the script that produces sharchives is thus a script which
-produces self-unpacking scripts, which may themselves contain scripts. (The
-downsides of sharchives are that they are an ideal venue for {Trojan horse}
-attacks and that, for recipients not running Unix, no simple un-sharchiving
-program is possible; sharchives can and do make use of arbitrarily-powerful
-shell features.) Sharchives are also commonly referred to as `shar files'
-after the name of the most common program for generating them. :Share and
-enjoy!: imp. 1. Commonly found at the end of software release announcements
-and {README file}s, this phrase indicates allegiance to the hacker ethic of
-free information sharing (see {hacker ethic}, sense 1). 2. The motto of the
-complaints division of Sirius Cybernetics Corporation (the ultimate gaggle of
-incompetent {suit}s) in Douglas Adams's "Hitch Hiker's Guide to the Galaxy".
-The irony of using this as a cultural recognition signal appeals to hackers.
-:shareware: /sheir'weir/ n. A kind of {freeware} (sense 1) for which the
-author requests some payment, usually in the accompanying documentation files
-or in an announcement made by the software itself. Such payment may or may
-not buy additional support or functionality. see also {careware},
-{charityware}, {crippleware}, {FRS}, {guiltware}, {postcardware}, and
-{-ware}; compare {payware}. :sharing violation: [From a file error common to
-several {OS}s] A response to receiving information, typically of an
-excessively personal nature, that you were probably happier not knowing. "You
-know those little noises that Pat makes in bed..?" "Whoa! Sharing violation!"
-In contrast to the original file error, which indicated that you were _not_
-being given data that you _did_ want. :shelfware: /shelf'weir/ n. Software
-purchased on a whim (by an individual user) or in accordance with policy (by
-a corporation or government agency), but not actually required for any
-particular use. Therefore, it often ends up on some shelf. :shell: [orig.
-{{Multics}} n. techspeak, widely propagated via Unix] 1. [techspeak] The
-command interpreter used to pass commands to an operating system; so called
-because it is the part of the operating system that interfaces with the
-outside world. 2. More generally, any interface program that mediates access
-to a special resource or {server} for convenience, efficiency, or security
-reasons; for this meaning, the usage is usually `a shell around' whatever.
-This sort of program is also called a `wrapper'. 3. A skeleton program,
-created by hand or by another program (like, say, a parser generator), which
-provides the necessary {incantation}s to set up some task and the control
-flow to drive it (the term {driver} is sometimes used synonymously). The user
-is meant to fill in whatever code is needed to get real work done. This usage
-is common in the AI and Microsoft Windows worlds, and confuses Unix hackers.
-Historical note: Apparently, the original Multics shell (sense 1) was so
-called because it was a shell (sense 3); it ran user programs not by starting
-up separate processes, but by dynamically linking the programs into its own
-code, calling them as subroutines, and then dynamically de-linking them on
-return. The VMS command interpreter still does something very like this.
-:shell out: vi. [Unix] To {spawn} an interactive subshell from within a
-program (e.g., a mailer or editor). "Bang foo runs foo in a subshell, while
-bang alone shells out." :shift left (or right) logical: [from any of various
-machines' instruction sets] 1. vi. To move oneself to the left (right). To
-move out of the way. 2. imper. "Get out of that (my) seat! You can shift to
-that empty one to the left (right)." Often used without the `logical', or as
-`left shift' instead of `shift left'. Sometimes heard as LSH /lish/, from the
-{PDP-10} instruction set. see {Programmer's Cheer}. :shim: n. A small piece
-of data inserted in order to achieve a desired memory alignment or other
-addressing property. For example, the PDP-11 Unix linker, in split I&D
-(instructions and data) mode, inserts a two-byte shim at location 0 in data
-space so that no data object will have an address of 0 (and be confused with
-the C null pointer). see also {loose bytes}. :shitogram: /shit'oh-gram/ n. A
-_really_ nasty piece of email. Compare {nastygram}, {flame}. :short card: n.
-A half-length IBM XT expansion card or adapter that will fit in one of the
-two short slots located towards the right rear of a standard chassis (tucked
-behind the floppy disk drives). see also {tall card}. :shotgun debugging: n.
-The software equivalent of {Easter egging}; the making of relatively
-undirected changes to software in the hope that a bug will be perturbed out
-of existence. This almost never works, and usually introduces more bugs.
-:shovelware: /shuh'v*l-weir`/ n. 1. Extra software dumped onto a CD-ROM or
-tape to fill up the remaining space on the medium after the software
-distribution it's intended to carry, but not integrated with the
-distribution. 2. A slipshod compilation of software dumped onto a CD-ROM
-without much care for organization or even usability. :showstopper: n. A
-hardware or (especially) software bug that makes an implementation
-effectively unusable; one that absolutely has to be fixed before development
-can go on. Opposite in connotation from its original theatrical use, which
-refers to something stunningly _good_. :shriek: n. see {excl}. Occasional CMU
-usage, also in common use among APL fans and mathematicians, especially
-category theorists. :Shub-Internet: /shuhb' in't*r-net/ n. [MUD: from H. P.
-Lovecraft's evil fictional deity Shub-Niggurath, the Black Goat with a
-Thousand Young] The harsh personification of the Internet: Beast of a
-Thousand Processes, Eater of Characters, Avatar of Line Noise, and Imp of
-Call Waiting; the hideous multi-tendriled entity formed of all the manifold
-connections of the net. A sect of MUDders worships Shub-Internet, sacrificing
-objects and praying for good connections. To no avail -- its purpose is
-malign and evil, and is the cause of all network slowdown. Often heard as in
-"Freela casts a tac nuke at Shub-Internet for slowing her down." (A forged
-response often follows along the lines of: "Shub-Internet gulps down the tac
-nuke and burps happily.") Also cursed by users of the Web, {FTP} and {TELNET}
-when the system slows down. The dread name of Shub-Internet is seldom spoken
-aloud, as it is said that repeating it three times will cause the being to
-wake, deep within its lair beneath the Pentagon. Compare {Random Number God}.
-[January 1996: It develops that one of the computer administrators in the
-basement of the Pentagon read this entry and fell over laughing. As a result,
-you too can now poke Shub-Internet by {ping}ing shub-internet.ims.disa.mil.
-see also {kremvax}. - ESR] [April 1999: shub-internet.ims.disa.mil is no
-more, alas. But Shub-Internet lives o^$#$*^ - ESR] :sidecar: n. 1. Syn. {slap
-on the side}. Esp. used of add-ons for the late and unlamented IBM PCjr. 2.
-The IBM PC compatibility box that could be bolted onto the side of an Amiga.
-Designed and produced by Commodore, it broke all of the company's own design
-rules. If it worked with any other peripherals, it was by {magic}. 3. More
-generally, any of various devices designed to be connected to the expansion
-slot on the left side of the Amiga 500 (and later, 600 & 1200), which
-included a hard drive controller, a hard drive, and additional memory. :SIG:
-/sig/ n. (also common as a prefix in combining forms) A Special Interest
-Group, in one of several technical areas, sponsored by the Association for
-Computing Machinery; well-known ones include SIGPLAN (the Special Interest
-Group on Programming Languages), SIGARCH (the Special Interest Group for
-Computer Architecture) and SIGGRAPH (the Special Interest Group for Computer
+little folkloric impact. The Data General instruction set also had `SEX'.
+{DEC}'s engineers nearly got a PDP-11 assembler that used the `SEX' mnemonic
+out the door at one time, but (for once) marketing wasn't asleep and forced a
+change. That wasn't the last time this happened, either. The author of "The
+Intel 8086 Primer", who was one of the original designers of the 8086, noted
+that there was originally a `SEX' instruction on that processor, too. He says
+that Intel management got cold feet and decreed that it be changed, and thus
+the instruction was renamed `CBW' and `CWD' (depending on what was being
+extended). Amusingly, the Intel 8048 (the microcontroller used in IBM PC
+keyboards) is also missing straight `SEX' but has logical-or and logical-and
+instructions `ORL' and `ANL'. The Motorola 6809, used in the Radio Shack
+Color Computer and in U.K.'s `Dragon 32' personal computer, actually had an
+official `SEX' instruction; the 6502 in the Apple II with which it competed
+did not. British hackers thought this made perfect mythic sense; after all,
+it was commonly observed, you could (on some theoretical level) have sex with
+a dragon, but you can't have sex with an apple. :sex changer: n. Syn. {gender
+mender}. :shambolic link: /sham-bol'ik link/ n. A Unix symbolic link,
+particularly when it confuses you, points to nothing at all, or results in
+your ending up in some completely unexpected part of the filesystem.... :shar
+file: /shar' fi:l/ n. Syn. {sharchive}. :sharchive: /shar'ki:v/ n. [Unix and
+Usenet; from /bin/sh archive] A {flatten}ed representation of a set of one or
+more files, with the unique property that it can be unflattened (the original
+files restored) by feeding it through a standard Unix shell; thus, a
+sharchive can be distributed to anyone running Unix, and no special unpacking
+software is required. Sharchives are also intriguing in that they are
+typically created by shell scripts; the script that produces sharchives is
+thus a script which produces self-unpacking scripts, which may themselves
+contain scripts. (The downsides of sharchives are that they are an ideal
+venue for {Trojan horse} attacks and that, for recipients not running Unix,
+no simple un-sharchiving program is possible; sharchives can and do make use
+of arbitrarily-powerful shell features.) Sharchives are also commonly
+referred to as `shar files' after the name of the most common program for
+generating them. :Share and enjoy!: imp. 1. Commonly found at the end of
+software release announcements and {README file}s, this phrase indicates
+allegiance to the hacker ethic of free information sharing (see {hacker
+ethic}, sense 1). 2. The motto of the complaints division of Sirius
+Cybernetics Corporation (the ultimate gaggle of incompetent {suit}s) in
+Douglas Adams's "Hitch Hiker's Guide to the Galaxy". The irony of using this
+as a cultural recognition signal appeals to hackers. :shareware: /sheir'weir/
+n. A kind of {freeware} (sense 1) for which the author requests some payment,
+usually in the accompanying documentation files or in an announcement made by
+the software itself. Such payment may or may not buy additional support or
+functionality. see also {careware}, {charityware}, {crippleware}, {FRS},
+{guiltware}, {postcardware}, and {-ware}; compare {payware}. :sharing
+violation: [From a file error common to several {OS}s] A response to
+receiving information, typically of an excessively personal nature, that you
+were probably happier not knowing. "You know those little noises that Pat
+makes in bed..?" "Whoa! Sharing violation!" In contrast to the original file
+error, which indicated that you were _not_ being given data that you _did_
+want. :shebang: /sh*-bang/ n. The character sequence "#!" that frequently
+begins executable shell scripts under Unix. Probably derived from "shell
+bang" under the influence of American slang "the whole shebang" (everything,
+the works). :shelfware: /shelf'weir/ n. Software purchased on a whim (by an
+individual user) or in accordance with policy (by a corporation or government
+agency), but not actually required for any particular use. Therefore, it
+often ends up on some shelf. :shell: [orig. {{Multics}} n. techspeak, widely
+propagated via Unix] 1. [techspeak] The command interpreter used to pass
+commands to an operating system; so called because it is the part of the
+operating system that interfaces with the outside world. 2. More generally,
+any interface program that mediates access to a special resource or {server}
+for convenience, efficiency, or security reasons; for this meaning, the usage
+is usually `a shell around' whatever. This sort of program is also called a
+`wrapper'. 3. A skeleton program, created by hand or by another program
+(like, say, a parser generator), which provides the necessary {incantation}s
+to set up some task and the control flow to drive it (the term {driver} is
+sometimes used synonymously). The user is meant to fill in whatever code is
+needed to get real work done. This usage is common in the AI and Microsoft
+Windows worlds, and confuses Unix hackers. Historical note: Apparently, the
+original Multics shell (sense 1) was so called because it was a shell (sense
+3); it ran user programs not by starting up separate processes, but by
+dynamically linking the programs into its own code, calling them as
+subroutines, and then dynamically de-linking them on return. The VMS command
+interpreter still does something very like this. :shell out: vi. [Unix] To
+{spawn} an interactive subshell from within a program (e.g., a mailer or
+editor). "Bang foo runs foo in a subshell, while bang alone shells out."
+:shift left (or right) logical: [from any of various machines' instruction
+sets] 1. vi. To move oneself to the left (right). To move out of the way. 2.
+imper. "Get out of that (my) seat! You can shift to that empty one to the
+left (right)." Often used without the `logical', or as `left shift' instead
+of `shift left'. Sometimes heard as LSH /lish/, from the {PDP-10} instruction
+set. see {Programmer's Cheer}. :shim: n. A small piece of data inserted in
+order to achieve a desired memory alignment or other addressing property. For
+example, the PDP-11 Unix linker, in split I&D (instructions and data) mode,
+inserts a two-byte shim at location 0 in data space so that no data object
+will have an address of 0 (and be confused with the C null pointer). see also
+{loose bytes}. :shitogram: /shit'oh-gram/ n. A _really_ nasty piece of email.
+Compare {nastygram}, {flame}. :short card: n. A half-length IBM XT expansion
+card or adapter that will fit in one of the two short slots located towards
+the right rear of a standard chassis (tucked behind the floppy disk drives).
+see also {tall card}. :shotgun debugging: n. The software equivalent of
+{Easter egging}; the making of relatively undirected changes to software in
+the hope that a bug will be perturbed out of existence. This almost never
+works, and usually introduces more bugs. :shovelware: /shuh'v*l-weir`/ n. 1.
+Extra software dumped onto a CD-ROM or tape to fill up the remaining space on
+the medium after the software distribution it's intended to carry, but not
+integrated with the distribution. 2. A slipshod compilation of software
+dumped onto a CD-ROM without much care for organization or even usability.
+:showstopper: n. A hardware or (especially) software bug that makes an
+implementation effectively unusable; one that absolutely has to be fixed
+before development can go on. Opposite in connotation from its original
+theatrical use, which refers to something stunningly _good_. :shriek: n. see
+{excl}. Occasional CMU usage, also in common use among APL fans and
+mathematicians, especially category theorists. :Shub-Internet: /shuhb'
+in't*r-net/ n. [MUD: from H. P. Lovecraft's evil fictional deity
+Shub-Niggurath, the Black Goat with a Thousand Young] The harsh
+personification of the Internet: Beast of a Thousand Processes, Eater of
+Characters, Avatar of Line Noise, and Imp of Call Waiting; the hideous
+multi-tendriled entity formed of all the manifold connections of the net. A
+sect of MUDders worships Shub-Internet, sacrificing objects and praying for
+good connections. To no avail -- its purpose is malign and evil, and is the
+cause of all network slowdown. Often heard as in "Freela casts a tac nuke at
+Shub-Internet for slowing her down." (A forged response often follows along
+the lines of: "Shub-Internet gulps down the tac nuke and burps happily.")
+Also cursed by users of the Web, {FTP} and {TELNET} when the system slows
+down. The dread name of Shub-Internet is seldom spoken aloud, as it is said
+that repeating it three times will cause the being to wake, deep within its
+lair beneath the Pentagon. Compare {Random Number God}. [January 1996: It
+develops that one of the computer administrators in the basement of the
+Pentagon read this entry and fell over laughing. As a result, you too can now
+poke Shub-Internet by {ping}ing shub-internet.ims.disa.mil. see also
+{kremvax}. - ESR] [April 1999: shub-internet.ims.disa.mil is no more, alas.
+But Shub-Internet lives o^$#$*^ - ESR] :sidecar: n. 1. Syn. {slap on the
+side}. Esp. used of add-ons for the late and unlamented IBM PCjr. 2. The IBM
+PC compatibility box that could be bolted onto the side of an Amiga. Designed
+and produced by Commodore, it broke all of the company's own design rules. If
+it worked with any other peripherals, it was by {magic}. 3. More generally,
+any of various devices designed to be connected to the expansion slot on the
+left side of the Amiga 500 (and later, 600 & 1200), which included a hard
+drive controller, a hard drive, and additional memory. :SIG: /sig/ n. (also
+common as a prefix in combining forms) A Special Interest Group, in one of
+several technical areas, sponsored by the Association for Computing
+Machinery; well-known ones include SIGPLAN (the Special Interest Group on
+Programming Languages), SIGARCH (the Special Interest Group for Computer
+Architecture) and SIGGRAPH (the Special Interest Group for Computer
 Graphics). Hackers, not surprisingly, like to overextend this naming
 convention to less formal associations like SIGBEER (at ACM conferences) and
 SIGFOOD (at University of Illinois). :sig block: /sig blok/ n. [Unix; often
@@ -303,13 +307,14 @@ else has `had its fill' of machine resources. Only when the machine would
 otherwise be idle is the task allowed to `suck up the slop'. Also called a
 `hungry puppy' or `bottom feeder'. One common variety of slopsucker hunts for
 large prime numbers. Compare {background}. :Slowlaris: /slo'-lahr-is/ n.
-[Usenet; poss. from the variety of sloth called a "slow loris"] Common
-hackish term for Solaris, Sun's System VR4 version of UNIX that came out of
-the standardization wars of the early 1990s. So named because especially on
-older hardware, responsiveness was much less crisp than under the preceding
-SunOS. Early releases of Solaris (that is, Solaris 2, as some {marketroid}s
-at Sun retroactively rechristened SunOS as Solaris 1) were quite buggy, and
-Sun was forced by customer demand to support SunOS for quite some time. Newer
+[Usenet; poss. from the variety of sloth called a "slow loris". The variant
+`Slowlartus' is also common, related to {LART}] Common hackish term for
+Solaris, Sun's System VR4 version of UNIX that came out of the
+standardization wars of the early 1990s. So named because especially on older
+hardware, responsiveness was much less crisp than under the preceding SunOS.
+Early releases of Solaris (that is, Solaris 2, as some {marketroid}s at Sun
+retroactively rechristened SunOS as Solaris 1) were quite buggy, and Sun was
+forced by customer demand to support SunOS for quite some time. Newer
 versions are acknowledged to be among the best commercial UNIX variants in
 1998, but still lose single-processor benchmarks to Sparc {Linux}. Compare
 {AIDX}, {HP-SUX}, {Nominal Semidestructor}, {Telerat}, {sun-stools}. :slurp:
@@ -483,99 +488,101 @@ disks, or some other media from one machine to another. "Never underestimate
 the bandwidth of a station wagon filled with magtape, or a 747 filled with
 CD-ROMs." Also called `Tennis-Net', `Armpit-Net', `Floppy-Net' or `Shoenet';
 in the 1990s, `Nike network' after a well-known sneaker brand. :sniff: v.,n.
-Synonym for {poll}. :snivitz: /sniv'itz/ n. A hiccup in hardware or software;
-a small, transient problem of unknown origin (less serious than a {snark}).
-Compare {glitch}. :'Snooze: /snooz/ [FidoNet] n. Fidonews, the weekly
-official on-line newsletter of FidoNet. As the editorial policy of Fidonews
-is "anything that arrives, we print", there are often large articles
-completely unrelated to FidoNet, which in turn tend to elicit {flamage} in
-subsequent issues. :SO: /S-O/ n. 1. (also `S.O.') Abbrev. for Significant
-Other, almost invariably written abbreviated and pronounced /S-O/ by hackers.
-Used to refer to one's primary relationship, esp. a live-in to whom one is
-not married. see {MOTAS}, {MOTOS}, {MOTSS}. 2. [techspeak] The Shift Out
-control character in ASCII (Control-N, 0001110). :social engineering: n. Term
-used among {cracker}s and {samurai} for cracking techniques that rely on
-weaknesses in {wetware} rather than software; the aim is to trick people into
-revealing passwords or other information that compromises a target system's
-security. Classic scams include phoning up a mark who has the required
-information and posing as a field service tech or a fellow employee with an
-urgent access problem. see also the {tiger team} story in the {patch} entry.
-:social science number: n. // [IBM] A statistic that is {content-free}, or
-nearly so. A measure derived via methods of questionable validity from data
-of a dubious and vague nature. Predictively, having a social science number
-in hand is seldom much better than nothing, and can be considerably worse. As
-a rule, {management} loves them. see also {numbers}, {math-out}, {pretty
-pictures}. :sock puppet: n. [Usenet: from the act of placing a sock over your
-hand and talking to it and pretending it's talking back] In Usenet parlance,
-a {pseudo} through which the puppeteer posts follow-ups to their own original
-message to give the appearance that a number of people support the views held
-in the original message. :sodium substrate: n. Syn {salt substrate}. :soft
-boot: n. see {boot}. :softcopy: /soft'kop-ee/ n. [by analogy with `hardcopy']
-A machine-readable form of corresponding hardcopy. see {bits}, {machinable}.
-:software bloat: n. The results of {second-system effect} or {creeping
-featuritis}. Commonly cited examples include `ls(1)', {X}, {BSD},
-{Missed'em-five}, and {OS/2}. :software hoarding: n. Pejorative term employed
-by members and adherents of the {GNU} project to describe the act of holding
-software proprietary, keeping it under trade secret or license terms which
-prohibit free redistribution and modification. Used primarily in Free
-Software Foundation propaganda. For a summary of related issues, see {GNU}.
-:software laser: n. An optical laser works by bouncing photons back and forth
-between two mirrors, one totally reflective and one partially reflective. If
-the lasing material (usually a crystal) has the right properties, photons
-scattering off the atoms in the crystal will excite cascades of more photons,
-all in lockstep. Eventually the beam will escape through the
-partially-reflective mirror. One kind of {sorcerer's apprentice mode}
-involving {bounce message}s can produce closely analogous results, with a
-{cascade} of messages escaping to flood nearby systems. By mid-1993 there had
-been at least two publicized incidents of this kind. :software rot: n. Term
-used to describe the tendency of software that has not been used in a while
-to {lose}; such failure may be semi-humorously ascribed to {bit rot}. More
-commonly, `software rot' strikes when a program's assumptions become out of
-date. If the design was insufficiently {robust}, this may cause it to fail in
-mysterious ways. For example, owing to endemic shortsightedness in the design
-of COBOL programs, most will succumb to software rot when their 2-digit year
-counters {wrap around} at the beginning of the year 2000. Actually, related
-lossages often afflict centenarians who have to deal with computer software
-designed by unimaginative clods. One such incident became the focus of a
-minor public flap in 1990, when a gentleman born in 1889 applied for a
-driver's license renewal in Raleigh, North Carolina. The new system refused
-to issue the card, probably because with 2-digit years the ages 101 and 1
-cannot be distinguished. Historical note: Software rot in an even funnier
-sense than the mythical one was a real problem on early research computers
-(e.g., the R1; see {grind crank}). If a program that depended on a peculiar
-instruction hadn't been run in quite a while, the user might discover that
-the opcodes no longer did the same things they once did. ("Hey, so-and-so
-needs an instruction to do such-and-such. We can {snarf} this opcode, right?
-No one uses it.") Another classic example of this sprang from the time an MIT
-hacker found a simple way to double the speed of the unconditional jump
-instruction on a PDP-6, so he patched the hardware. Unfortunately, this broke
-some fragile timing software in a music-playing program, throwing its output
-out of tune. This was fixed by adding a defensive initialization routine to
-compare the speed of a timing loop with the real-time clock; in other words,
-it figured out how fast the PDP-6 was that day, and corrected appropriately.
-Compare {bit rot}. :softwarily: /soft-weir'i-lee/ adv. In a way pertaining to
-software. "The system is softwarily unreliable." The adjective **`softwary'
-is _not_ used. see {hardwarily}. :softy: n. [IBM] Hardware hackers' term for
-a software expert who is largely ignorant of the mysteries of hardware. :some
-random X: adj. Used to indicate a member of class X, with the implication
-that Xs are interchangeable. "I think some random cracker tripped over the
-guest timeout last night." see also {J. Random}. :sorcerer's apprentice mode:
-n. [from Goethe's "Der Zauberlehrling" via Paul Dukas's "L'apprenti sorcier"
-the film "Fantasia"] A bug in a protocol where, under some circumstances, the
-receipt of a message causes multiple messages to be sent, each of which, when
+1. To watch IP packets traversing a local network. Most often in the phrase
+`packet sniffer', a program for doing same. 2.Synonym for {poll}. :snivitz:
+/sniv'itz/ n. A hiccup in hardware or software; a small, transient problem of
+unknown origin (less serious than a {snark}). Compare {glitch}. :'Snooze:
+/snooz/ [FidoNet] n. Fidonews, the weekly official on-line newsletter of
+FidoNet. As the editorial policy of Fidonews is "anything that arrives, we
+print", there are often large articles completely unrelated to FidoNet, which
+in turn tend to elicit {flamage} in subsequent issues. :SO: /S-O/ n. 1. (also
+`S.O.') Abbrev. for Significant Other, almost invariably written abbreviated
+and pronounced /S-O/ by hackers. Used to refer to one's primary relationship,
+esp. a live-in to whom one is not married. see {MOTAS}, {MOTOS}, {MOTSS}. 2.
+[techspeak] The Shift Out control character in ASCII (Control-N, 0001110).
+:social engineering: n. Term used among {cracker}s and {samurai} for cracking
+techniques that rely on weaknesses in {wetware} rather than software; the aim
+is to trick people into revealing passwords or other information that
+compromises a target system's security. Classic scams include phoning up a
+mark who has the required information and posing as a field service tech or a
+fellow employee with an urgent access problem. see also the {tiger team}
+story in the {patch} entry. :social science number: n. // [IBM] A statistic
+that is {content-free}, or nearly so. A measure derived via methods of
+questionable validity from data of a dubious and vague nature. Predictively,
+having a social science number in hand is seldom much better than nothing,
+and can be considerably worse. As a rule, {management} loves them. see also
+{numbers}, {math-out}, {pretty pictures}. :sock puppet: n. [Usenet: from the
+act of placing a sock over your hand and talking to it and pretending it's
+talking back] In Usenet parlance, a {pseudo} through which the puppeteer
+posts follow-ups to their own original message to give the appearance that a
+number of people support the views held in the original message. :sodium
+substrate: n. Syn {salt substrate}. :soft boot: n. see {boot}. :softcopy:
+/soft'kop-ee/ n. [by analogy with `hardcopy'] A machine-readable form of
+corresponding hardcopy. see {bits}, {machinable}. :software bloat: n. The
+results of {second-system effect} or {creeping featuritis}. Commonly cited
+examples include `ls(1)', {X}, {BSD}, {Missed'em-five}, and {OS/2}. :software
+hoarding: n. Pejorative term employed by members and adherents of the {GNU}
+project to describe the act of holding software proprietary, keeping it under
+trade secret or license terms which prohibit free redistribution and
+modification. Used primarily in Free Software Foundation propaganda. For a
+summary of related issues, see {GNU}. :software laser: n. An optical laser
+works by bouncing photons back and forth between two mirrors, one totally
+reflective and one partially reflective. If the lasing material (usually a
+crystal) has the right properties, photons scattering off the atoms in the
+crystal will excite cascades of more photons, all in lockstep. Eventually the
+beam will escape through the partially-reflective mirror. One kind of
+{sorcerer's apprentice mode} involving {bounce message}s can produce closely
+analogous results, with a {cascade} of messages escaping to flood nearby
+systems. By mid-1993 there had been at least two publicized incidents of this
+kind. :software rot: n. Term used to describe the tendency of software that
+has not been used in a while to {lose}; such failure may be semi-humorously
+ascribed to {bit rot}. More commonly, `software rot' strikes when a program's
+assumptions become out of date. If the design was insufficiently {robust},
+this may cause it to fail in mysterious ways. For example, owing to endemic
+shortsightedness in the design of COBOL programs, most will succumb to
+software rot when their 2-digit year counters {wrap around} at the beginning
+of the year 2000. Actually, related lossages often afflict centenarians who
+have to deal with computer software designed by unimaginative clods. One such
+incident became the focus of a minor public flap in 1990, when a gentleman
+born in 1889 applied for a driver's license renewal in Raleigh, North
+Carolina. The new system refused to issue the card, probably because with
+2-digit years the ages 101 and 1 cannot be distinguished. Historical note:
+Software rot in an even funnier sense than the mythical one was a real
+problem on early research computers (e.g., the R1; see {grind crank}). If a
+program that depended on a peculiar instruction hadn't been run in quite a
+while, the user might discover that the opcodes no longer did the same things
+they once did. ("Hey, so-and-so needs an instruction to do such-and-such. We
+can {snarf} this opcode, right? No one uses it.") Another classic example of
+this sprang from the time an MIT hacker found a simple way to double the
+speed of the unconditional jump instruction on a PDP-6, so he patched the
+hardware. Unfortunately, this broke some fragile timing software in a
+music-playing program, throwing its output out of tune. This was fixed by
+adding a defensive initialization routine to compare the speed of a timing
+loop with the real-time clock; in other words, it figured out how fast the
+PDP-6 was that day, and corrected appropriately. Compare {bit rot}.
+:softwarily: /soft-weir'i-lee/ adv. In a way pertaining to software. "The
+system is softwarily unreliable." The adjective **`softwary' is _not_ used.
+see {hardwarily}. :softy: n. [IBM] Hardware hackers' term for a software
+expert who is largely ignorant of the mysteries of hardware. :some random X:
+adj. Used to indicate a member of class X, with the implication that Xs are
+interchangeable. "I think some random cracker tripped over the guest timeout
+last night." see also {J. Random}. :sorcerer's apprentice mode: n. [from
+Goethe's "Der Zauberlehrling" via Paul Dukas's "L'apprenti sorcier" the film
+"Fantasia"] A bug in a protocol where, under some circumstances, the receipt
+of a message causes multiple messages to be sent, each of which, when
 received, triggers the same bug. Used esp. of such behavior caused by {bounce
 message} loops in {email} software. Compare {broadcast storm}, {network
 meltdown}, {software laser}, {ARMM}. :SOS: /S-O-S/ n.,obs. An infamously
 {losing} text editor. Once, back in the 1960s, when a text editor was needed
 for the PDP-6, a hacker crufted together a {quick-and-dirty} `stopgap editor'
 to be used until a better one was written. Unfortunately, the old one was
-never really discarded when new ones (in particular, {TECO}) came along. SOS
-is a descendant (`Son of Stopgap') of that editor, and many PDP-10 users
-gained the dubious pleasure of its acquaintance. Since then other programs
-similar in style to SOS have been written, notably the early font editor
-BILOS /bye'lohs/, the Brother-In-Law Of Stopgap (the alternate expansion
-`Bastard Issue, Loins of Stopgap' has been proposed). :source of all good
-bits: n. A person from whom (or a place from which) useful information may be
-obtained. If you need to know about a program, a {guru} might be the source
-of all good bits. The title is often applied to a particularly competent
-secretary. :space-cadet keyboard: n. A now-legendary device used on MIT
+never really discarded when new ones came along. SOS is a descendant (`Son of
+Stopgap') of that editor, and many PDP-10 users gained the dubious pleasure
+of its acquaintance. Since then other programs similar in style to SOS have
+been written, notably the early font editor BILOS /bye'lohs/, the
+Brother-In-Law Of Stopgap (the alternate expansion `Bastard Issue, Loins of
+Stopgap' has been proposed). :source of all good bits: n. A person from whom
+(or a place from which) useful information may be obtained. If you need to
+know about a program, a {guru} might be the source of all good bits. The
+title is often applied to a particularly competent secretary. :space-cadet
+keyboard: n. A now-legendary device used on MIT

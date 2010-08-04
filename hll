@@ -104,32 +104,35 @@ module to solve the underlying design problem." see also {kluge}. :quine:
 /kwi:n/ n. [from the name of the logician Willard van Orman Quine, via
 Douglas Hofstadter] A program that generates a copy of its own source text as
 its complete output. Devising the shortest possible quine in some given
-programming language is a common hackish amusement. Here is one classic
-quine: ((lambda (x) (list x (list (quote quote) x))) (quote (lambda (x) (list
-x (list (quote quote) x))))) This one works in LISP or Scheme. It's
-relatively easy to write quines in other languages such as Postscript which
-readily handle programs as data; much harder (and thus more challenging!) in
-languages like C which do not. Here is a classic C quine for ASCII machines:
-char*f="char*f=%c%s%c;main() {printf(f,34,f,34,10);}%c";
-main(){printf(f,34,f,34,10);} For excruciatingly exact quinishness, remove
-the interior line breaks. Some infamous {Obfuscated C Contest} entries have
-been quines that reproduced in exotic ways. There is an amusing Quine Home
-Page (http://www.nyx.org/~gthompso/quine.htm). :quote chapter and verse: v.
-[by analogy with the mainstream phrase] To cite a relevant excerpt from an
-appropriate {bible}. "I don't care if `rn' gets it wrong; `Followup-To:
-poster' is explicitly permitted by {RFC}-1036. I'll quote chapter and verse
-if you don't believe me." see also {legalese}, {language lawyer}, {RTFS}
-(sense 2). :quotient: n. see {coefficient of X}. :quux: /kwuhks/ n.
-[Mythically, from the Latin semi-deponent verb quuxo, quuxare, quuxandum iri;
-noun form variously `quux' (plural `quuces', anglicized to `quuxes') and
-`quuxu' (genitive plural is `quuxuum', for four u-letters out of seven in
-all, using up all the `u' letters in Scrabble).] 1. Originally, a
-{metasyntactic variable} like {foo} and {foobar}. Invented by Guy Steele for
-precisely this purpose when he was young and naive and not yet interacting
-with the real computing community. Many people invent such words; this one
-seems simply to have been lucky enough to have spread a little. In an
-eloquent display of poetic justice, it has returned to the originator in the
-form of a nickname. 2. interj. see {foo}; however, denotes very little
+programming language is a common hackish amusement. (We ignore some variants
+of BASIC in which a program consisting of a single empty string literal
+reproduces itself trivially.) Here is one classic quine: ((lambda (x) (list x
+(list (quote quote) x))) (quote (lambda (x) (list x (list (quote quote)
+x))))) This one works in LISP or Scheme. It's relatively easy to write quines
+in other languages such as Postscript which readily handle programs as data;
+much harder (and thus more challenging!) in languages like C which do not.
+Here is a classic C quine for ASCII machines: char*f="char*f=%c%s%c;main()
+{printf(f,34,f,34,10);}%c"; main(){printf(f,34,f,34,10);} For excruciatingly
+exact quinishness, remove the interior line breaks. Here is another elegant
+quine in ANSI C: #define q(k)main(){return!puts(#k"\nq("#k")");*} q(#define
+q(k)main(){return!puts(#k"\nq("#k")");}) * Some infamous {Obfuscated C
+Contest} entries have been quines that reproduced in exotic ways. There is an
+amusing Quine Home Page (http://www.nyx.org/~gthompso/quine.htm). :quote
+chapter and verse: v. [by analogy with the mainstream phrase] To cite a
+relevant excerpt from an appropriate {bible}. "I don't care if `rn' gets it
+wrong; `Followup-To: poster' is explicitly permitted by {RFC}-1036. I'll
+quote chapter and verse if you don't believe me." see also {legalese},
+{language lawyer}, {RTFS} (sense 2). :quotient: n. see {coefficient of X}.
+:quux: /kwuhks/ n. [Mythically, from the Latin semi-deponent verb quuxo,
+quuxare, quuxandum iri; noun form variously `quux' (plural `quuces',
+anglicized to `quuxes') and `quuxu' (genitive plural is `quuxuum', for four
+u-letters out of seven in all, using up all the `u' letters in Scrabble).] 1.
+Originally, a {metasyntactic variable} like {foo} and {foobar}. Invented by
+Guy Steele for precisely this purpose when he was young and naive and not yet
+interacting with the real computing community. Many people invent such words;
+this one seems simply to have been lucky enough to have spread a little. In
+an eloquent display of poetic justice, it has returned to the originator in
+the form of a nickname. 2. interj. see {foo}; however, denotes very little
 disgust, and is uttered mostly for the sake of the sound of it. 3. Guy Steele
 in his persona as `The Great Quux', which is somewhat infamous for light
 verse and for the `Crunchly' cartoons. 4. In some circles, used as a punning
@@ -198,7 +201,7 @@ something similarly out-of-the-blue. As in: "Stop being so random!" This
 sense equates to `hatstand', taken from the Viz comic character "Roger
 Irrelevant - He's completely Hatstand." :Random Number God:
 [rec.games.roguelike.angband; often abbreviated `RNG'] The malign force which
-lurks behind the random number generator in Angband (and by extension
+lurks behind the random number generator in {Angband} (and by extension
 elsewhere). A dark god that demands sacrifices and toys with its victims. "I
 just found a really great item; I suppose the RNG is about to punish me..."
 Apparently, Angband's random number generator occasionally gets locked in a
@@ -212,38 +215,37 @@ number'; see 23. 23 Sacred number of Eris, Goddess of Discord (along with 17
 and 5). 42 The Answer to the Ultimate Question of Life, the Universe, and
 Everything. (Note that this answer is completely fortuitous. `:-)') 69 From
 the sexual act. This one was favored in MIT's ITS culture. 105 69 hex = 105
-decimal, and 69 decimal = 105 octal. Also, 105 is 69 in base 42. 666 The
-Number of the Beast. For further enlightenment, study the "Principia
-Discordia", "{The Hitchhiker's Guide to the Galaxy}", "The Joy of Sex", and
-the Christian Bible (Revelation 13:18). see also {Discordianism} or consult
-your pineal gland. see also {for values of}. :randomness: n. 1. An
-inexplicable misfeature; gratuitous inelegance. 2. A {hack} or {crock} that
-depends on a complex combination of coincidences (or, possibly, the
-combination upon which the crock depends for its accidental failure to
-malfunction). "This hack can output characters 40-57 by putting the character
-in the four-bit accumulator field of an XCT and then extracting six bits --
-the low 2 bits of the XCT opcode are the right thing." "What randomness!" 3.
-Of people, synonymous with `flakiness'. The connotation is that the person so
-described is behaving weirdly, incompetently, or inappropriately for reasons
-which are (a) too tiresome to bother inquiring into, (b) are probably as
-inscrutable as quantum phenomena anyway, and (c) are likely to pass with
-time. "Maybe he has a real complaint, or maybe it's just randomness. see if
-he calls back." Despite the negative connotations jargon uses of this term
-have, it is worth noting that randomness can actually be a valuable resource,
-very useful for applications in cryptography and elsewhere. Computers are so
-thoroughly deterministic that they have a hard time generating high-quality
-randomess, so hackers have sometimes felt the need to built special-purpose
-contraptions for this purpose alone. One well-known website offers random
-bits generated by radioactive decay (http://www.fourmilab.ch/hotbits/).
-Another derives random bits from images of Lava Lite lamps
-(http://lavarand.sgi.com/). (Hackers invariably find the latter hilarious. If
-you have to ask why, you'll never get it.) :rape: vt. 1. To {screw} someone
-or something, violently; in particular, to destroy a program or information
-irrecoverably. Often used in describing file-system damage. "So-and-so was
-running a program that did absolute disk I/O and ended up raping the master
-directory." 2. To strip a piece of hardware for parts. 3. [CMU/Pitt] To
-mass-copy files from an anonymous ftp site. "Last night I raped Simtel's
-dskutl directory." :rare mode: adj. [Unix] CBREAK mode
+decimal, and 69 decimal = 105 octal. 666 The Number of the Beast. For further
+enlightenment, study the "Principia Discordia", "{The Hitchhiker's Guide to
+the Galaxy}", "The Joy of Sex", and the Christian Bible (Revelation 13:18).
+see also {Discordianism} or consult your pineal gland. see also {for values
+of}. :randomness: n. 1. An inexplicable misfeature; gratuitous inelegance. 2.
+A {hack} or {crock} that depends on a complex combination of coincidences
+(or, possibly, the combination upon which the crock depends for its
+accidental failure to malfunction). "This hack can output characters 40-57 by
+putting the character in the four-bit accumulator field of an XCT and then
+extracting six bits -- the low 2 bits of the XCT opcode are the right thing."
+"What randomness!" 3. Of people, synonymous with `flakiness'. The connotation
+is that the person so described is behaving weirdly, incompetently, or
+inappropriately for reasons which are (a) too tiresome to bother inquiring
+into, (b) are probably as inscrutable as quantum phenomena anyway, and (c)
+are likely to pass with time. "Maybe he has a real complaint, or maybe it's
+just randomness. see if he calls back." Despite the negative connotations
+jargon uses of this term have, it is worth noting that randomness can
+actually be a valuable resource, very useful for applications in cryptography
+and elsewhere. Computers are so thoroughly deterministic that they have a
+hard time generating high-quality randomess, so hackers have sometimes felt
+the need to built special-purpose contraptions for this purpose alone. One
+well-known website offers random bits generated by radioactive decay
+(http://www.fourmilab.ch/hotbits/). Another derives random bits from images
+of Lava Lite lamps (http://lavarand.sgi.com/). (Hackers invariably find the
+latter hilarious. If you have to ask why, you'll never get it.) :rape: vt. 1.
+To {screw} someone or something, violently; in particular, to destroy a
+program or information irrecoverably. Often used in describing file-system
+damage. "So-and-so was running a program that did absolute disk I/O and ended
+up raping the master directory." 2. To strip a piece of hardware for parts.
+3. [CMU/Pitt] To mass-copy files from an anonymous ftp site. "Last night I
+raped Simtel's dskutl directory." :rare mode: adj. [Unix] CBREAK mode
 (character-by-character with interrupts enabled). Distinguished from {raw
 mode} and {cooked mode}; the phrase "a sort of half-cooked (rare?) mode" is
 used in the V7/BSD manuals to describe the mode. Usage: rare. :raster
@@ -280,66 +282,67 @@ obliviousness of the person speaking that is annoying, while {flame} implies
 somewhat more strongly that the tone or content is offensive as well. :rave
 on!: imp. Sarcastic invitation to continue a {rave}, often by someone who
 wishes the raver would get a clue but realizes this is unlikely. :ravs:
-/ravz/, also `Chinese ravs' n. Jiao-zi (steamed or boiled) or Guo-tie
-(pan-fried). A Chinese appetizer, known variously in the plural as dumplings,
-pot stickers (the literal translation of guo-tie), and (around Boston)
-`Peking Ravioli'. The term `rav' is short for `ravioli', and among hackers
-always means the Chinese kind rather than the Italian kind. Both consist of a
-filling in a pasta shell, but the Chinese kind includes no cheese, uses a
-thinner pasta, has a pork-vegetable filling (good ones include Chinese
-chives), and is cooked differently, either by steaming or frying. A rav or
-dumpling can be cooked any way, but a potsticker is always the pan-fried kind
-(so called because it sticks to the frying pot and has to be scraped off).
-"Let's get hot-and-sour soup and three orders of ravs." see also {{oriental
-food}}. :raw mode: n. A mode that allows a program to transfer bits directly
-to or from an I/O device (or, under {bogus} operating systems that make a
-distinction, a disk file) without any processing, abstraction, or
-interpretation by the operating system. Compare {rare mode}, {cooked mode}.
-This is techspeak under Unix, jargon elsewhere. :RBL: /R-B-L/ Abbreviation:
-"Realtime Blackhole List". A service that allows people to blacklist sites
-for emitting {spam}, and makes the blacklist available in real time to
-electronic-mail transport programs that know how to use RBL so they can
-filter out mail from those sites. Drastic but effective. There is an RBL home
-page (http://maps.vix.com/rbl/usage.html). :rc file: /R-C fi:l/ n. [Unix:
-from `runcom files' on the {CTSS} system ca.1955, via the startup script
-`/etc/rc'] Script file containing startup instructions for an application
-program (or an entire operating system), usually a text file containing
-commands of the sort that might have been invoked manually once the system
-was running but are to be executed automatically each time the system starts
-up. see also {dot file}, {profile} (sense 1). :RE: /R-E/ n. Common spoken and
-written shorthand for {regexp}. :read-only user: n. Describes a {luser} who
-uses computers almost exclusively for reading Usenet, bulletin boards, and/or
-email, rather than writing code or purveying useful information. see {twink},
-{terminal junkie}, {lurker}. :README file: n. Hacker's-eye introduction
-traditionally included in the top-level directory of a Unix source
-distribution, containing a pointer to more detailed documentation, credits,
-miscellaneous revision history, notes, etc. (The file may be named README, or
-READ.ME, or rarely ReadMe or readme.txt or some other variant.) In the Mac
-and PC worlds, software is not usually distributed in source form, and the
-README is more likely to contain user-oriented material like last-minute
-documentation changes, error workarounds, and restrictions. When asked,
-hackers invariably relate the README convention to the famous scene in Lewis
-Carroll's "Alice's Adventures In Wonderland" in which Alice confronts magic
-munchies labeled "Eat Me" and "Drink Me". :real: adj. Not simulated. Often
-used as a specific antonym to {virtual} in any of its jargon senses. :real
-estate: n. May be used for any critical resource measured in units of area.
-Most frequently used of `chip real estate', the area available for logic on
-the surface of an integrated circuit (see also {nanoacre}). May also be used
-of floor space in a {dinosaur pen}, or even space on a crowded desktop
-(whether physical or electronic). :real hack: n. A {crock}. This is sometimes
-used affectionately; see {hack}. :real operating system: n. The sort the
-speaker is used to. People from the BSDophilic academic community are likely
-to issue comments like "System V? Why don't you use a _real_ operating
-system?", people from the commercial/industrial Unix sector are known to
-complain "BSD? Why don't you use a _real_ operating system?", and people from
-IBM object "Unix? Why don't you use a _real_ operating system?" Only {MS-DOS}
-is universally considered unreal. see {holy wars}, {religious issues},
-{proprietary}, {Get a real computer!} :Real Programmer: n. [indirectly, from
-the book "Real Men Don't Eat Quiche"] A particular sub-variety of hacker: one
-possessed of a flippant attitude toward complexity that is arrogant even when
-justified by experience. The archetypal `Real Programmer' likes to program on
-the {bare metal} and is very good at same, remembers the binary opcodes for
-every machine he has ever programmed, thinks that HLLs are sissy, and uses a
+/ravz/, also `Chinese ravs' n. [primarily MIT/Boston usage] Jiao-zi (steamed
+or boiled) or Guo-tie (pan-fried). A Chinese appetizer, known variously in
+the plural as dumplings, pot stickers (the literal translation of guo-tie),
+and (around Boston) `Peking Ravioli'. The term `rav' is short for `ravioli',
+and among hackers always means the Chinese kind rather than the Italian kind.
+Both consist of a filling in a pasta shell, but the Chinese kind includes no
+cheese, uses a thinner pasta, has a pork-vegetable filling (good ones include
+Chinese chives), and is cooked differently, either by steaming or frying. A
+rav or dumpling can be cooked any way, but a potsticker is always the
+pan-fried kind (so called because it sticks to the frying pot and has to be
+scraped off). "Let's get hot-and-sour soup and three orders of ravs." see
+also {{oriental food}}. :raw mode: n. A mode that allows a program to
+transfer bits directly to or from an I/O device (or, under {bogus} operating
+systems that make a distinction, a disk file) without any processing,
+abstraction, or interpretation by the operating system. Compare {rare mode},
+{cooked mode}. This is techspeak under Unix, jargon elsewhere. :RBL: /R-B-L/
+Abbreviation: "Realtime Blackhole List". A service that allows people to
+blacklist sites for emitting {spam}, and makes the blacklist available in
+real time to electronic-mail transport programs that know how to use RBL so
+they can filter out mail from those sites. Drastic (and controversial) but
+effective. There is an RBL home page (http://maps.vix.com/rbl/usage.html).
+:rc file: /R-C fi:l/ n. [Unix: from `runcom files' on the {CTSS} system
+1962-63, via the startup script `/etc/rc'] Script file containing startup
+instructions for an application program (or an entire operating system),
+usually a text file containing commands of the sort that might have been
+invoked manually once the system was running but are to be executed
+automatically each time the system starts up. see also {dot file}, {profile}
+(sense 1). :RE: /R-E/ n. Common spoken and written shorthand for {regexp}.
+:read-only user: n. Describes a {luser} who uses computers almost exclusively
+for reading Usenet, bulletin boards, and/or email, rather than writing code
+or purveying useful information. see {twink}, {terminal junkie}, {lurker}.
+:README file: n. Hacker's-eye introduction traditionally included in the
+top-level directory of a Unix source distribution, containing a pointer to
+more detailed documentation, credits, miscellaneous revision history, notes,
+etc. (The file may be named README, or READ.ME, or rarely ReadMe or
+readme.txt or some other variant.) In the Mac and PC worlds, software is not
+usually distributed in source form, and the README is more likely to contain
+user-oriented material like last-minute documentation changes, error
+workarounds, and restrictions. When asked, hackers invariably relate the
+README convention to the famous scene in Lewis Carroll's "Alice's Adventures
+In Wonderland" in which Alice confronts magic munchies labeled "Eat Me" and
+"Drink Me". :real: adj. Not simulated. Often used as a specific antonym to
+{virtual} in any of its jargon senses. :real estate: n. May be used for any
+critical resource measured in units of area. Most frequently used of `chip
+real estate', the area available for logic on the surface of an integrated
+circuit (see also {nanoacre}). May also be used of floor space in a {dinosaur
+pen}, or even space on a crowded desktop (whether physical or electronic).
+:real hack: n. A {crock}. This is sometimes used affectionately; see {hack}.
+:real operating system: n. The sort the speaker is used to. People from the
+BSDophilic academic community are likely to issue comments like "System V?
+Why don't you use a _real_ operating system?", people from the
+commercial/industrial Unix sector are known to complain "BSD? Why don't you
+use a _real_ operating system?", and people from IBM object "Unix? Why don't
+you use a _real_ operating system?" Only {MS-DOS} is universally considered
+unreal. see {holy wars}, {religious issues}, {proprietary}, {Get a real
+computer!} :Real Programmer: n. [indirectly, from the book "Real Men Don't
+Eat Quiche"] A particular sub-variety of hacker: one possessed of a flippant
+attitude toward complexity that is arrogant even when justified by
+experience. The archetypal `Real Programmer' likes to program on the {bare
+metal} and is very good at same, remembers the binary opcodes for every
+machine he has ever programmed, thinks that HLLs are sissy, and uses a
 debugger to edit his code because full-screen editors are for wimps. Real
 Programmers aren't satisfied with code that hasn't been {bum}med into a state
 of {tense}ness just short of rupture. Real Programmers never use comments or

@@ -2,14 +2,17 @@
 sense confuses hackers who wander into the weird world of ISO standards no
 end! :progasm: /proh'gaz-m/ n. [University of Wisconsin] The euphoria
 experienced upon the completion of a program or other computer-related
-project. :proglet: /prog'let/ n. [UK] A short extempore program written to
-meet an immediate, transient need. Often written in BASIC, rarely more than a
-dozen lines long, and containing no subroutines. The largest amount of code
-that can be written off the top of one's head, that does not need any
-editing, and that runs correctly the first time (this amount varies
-significantly according to one's skill and the language one is using).
-Compare {toy program}, {noddy}, {one-liner wars}. :program: n. 1. A magic
-spell cast over a computer allowing it to turn one's input into error
+project. :proggy: n. 1. Any computer program that is considered a full
+application. 2. Any computer program that is made up of or otherwise contains
+{proglet}s. 3. Any computer program that is large enough to be normally
+distributed as an RPM or {tarball}. :proglet: /prog'let/ n. [UK] A short
+extempore program written to meet an immediate, transient need. Often written
+in BASIC, rarely more than a dozen lines long, and containing no subroutines.
+The largest amount of code that can be written off the top of one's head,
+that does not need any editing, and that runs correctly the first time (this
+amount varies significantly according to one's skill and the language one is
+using). Compare {toy program}, {noddy}, {one-liner wars}. :program: n. 1. A
+magic spell cast over a computer allowing it to turn one's input into error
 messages. 2. An exercise in experimental epistemology. 3. A form of art,
 ostensibly intended for the instruction of computers, which is nevertheless
 almost inevitably a failure if other programmers can't understand it.
@@ -34,35 +37,41 @@ hardware or software designers. 2. In the language of hackers and users,
 inferior; implies a product not conforming to open-systems standards, and
 thus one that puts the customer at the mercy of a vendor able to gouge freely
 on service and upgrade charges after the initial sale has locked the customer
-in. Often in the phrase "proprietary crap". :protocol: n. As used by hackers,
-this never refers to niceties about the proper form for addressing letters to
-the Papal Nuncio or the order in which one should use the forks in a
-Russian-style place setting; hackers don't care about such things. It is used
-instead to describe any set of rules that allow different machines or pieces
-of software to coordinate with each other without ambiguity. So, for example,
-it does include niceties about the proper form for addressing packets on a
-network or the order in which one should use the forks in the Dining
-Philosophers Problem. It implies that there is some common message format and
-an accepted set of primitives or commands that all parties involved
-understand, and that transactions among them follow predictable logical
-sequences. see also {handshaking}, {do protocol}. :provocative maintenance:
-n. [common ironic mutation of `preventive maintenance'] Actions performed
-upon a machine at regularly scheduled intervals to ensure that the system
-remains in a usable state. So called because it is all too often performed by
-a {field servoid} who doesn't know what he is doing; such `maintenance' often
-_induces_ problems, or otherwise results in the machine's remaining in an
-_un_usable state for an indeterminate amount of time. see also {scratch
-monkey}. :prowler: n. [Unix] A {daemon} that is run periodically (typically
-once a week) to seek out and erase {core} files, truncate administrative
-logfiles, nuke `lost+found' directories, and otherwise clean up the {cruft}
-that tends to pile up in the corners of a file system. see also {GFR},
-{reaper}, {skulker}. :pseudo: /soo'doh/ n. [Usenet: truncation of
-`pseudonym'] 1. An electronic-mail or {Usenet} persona adopted by a human for
-amusement value or as a means of avoiding negative repercussions of one's
-net.behavior; a `nom de Usenet', often associated with forged postings
-designed to conceal message origins. Perhaps the best-known and funniest hoax
-of this type is {B1FF}. see also {tentacle}. 2. Notionally, a
-{flamage}-generating AI program simulating a Usenet user. Many flamers have
+in. Often in the phrase "proprietary crap". 3. Synonym for closed-source,
+e.g. software issued in binary without source and under a restructive
+license. Since the coining of the term {open source}, many hackers have made
+a conscious effort to distinguish between `proprietary' and `commercial'
+software. It is possible for software to be commercial (that is, intended to
+make a profit for the producers) without being proprietary. The reverse is
+also possible, for example in binary-only freeware. :protocol: n. As used by
+hackers, this never refers to niceties about the proper form for addressing
+letters to the Papal Nuncio or the order in which one should use the forks in
+a Russian-style place setting; hackers don't care about such things. It is
+used instead to describe any set of rules that allow different machines or
+pieces of software to coordinate with each other without ambiguity. So, for
+example, it does include niceties about the proper form for addressing
+packets on a network or the order in which one should use the forks in the
+Dining Philosophers Problem. It implies that there is some common message
+format and an accepted set of primitives or commands that all parties
+involved understand, and that transactions among them follow predictable
+logical sequences. see also {handshaking}, {do protocol}. :provocative
+maintenance: n. [common ironic mutation of `preventive maintenance'] Actions
+performed upon a machine at regularly scheduled intervals to ensure that the
+system remains in a usable state. So called because it is all too often
+performed by a {field servoid} who doesn't know what he is doing; such
+`maintenance' often _induces_ problems, or otherwise results in the machine's
+remaining in an _un_usable state for an indeterminate amount of time. see
+also {scratch monkey}. :prowler: n. [Unix] A {daemon} that is run
+periodically (typically once a week) to seek out and erase {core} files,
+truncate administrative logfiles, nuke `lost+found' directories, and
+otherwise clean up the {cruft} that tends to pile up in the corners of a file
+system. see also {GFR}, {reaper}, {skulker}. :pseudo: /soo'doh/ n. [Usenet:
+truncation of `pseudonym'] 1. An electronic-mail or {Usenet} persona adopted
+by a human for amusement value or as a means of avoiding negative
+repercussions of one's net.behavior; a `nom de Usenet', often associated with
+forged postings designed to conceal message origins. Perhaps the best-known
+and funniest hoax of this type is {B1FF}. see also {tentacle}. 2. Notionally,
+a {flamage}-generating AI program simulating a Usenet user. Many flamers have
 been accused of actually being such entities, despite the fact that no AI
 program of the required sophistication yet exists. However, in 1989 there was
 a famous series of forged postings that used a phrase-frequency-based

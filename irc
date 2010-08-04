@@ -1,13 +1,33 @@
- 1990, ISBN 0-201-57044-0). see also {Red Book}, {Green Book}, {Blue Book}.
-:whizzy: adj. (alt. `wizzy') [Sun] Describes a {cuspy} program; one that is
-feature-rich and well presented. :wibble: [UK] 1. n.,v. Commonly used to
+ I.E. Sutherland "On the Design of Display Processors", Comm. ACM, Vol. 11,
+no. 6, June 1968)] Term used to refer to a well-known effect whereby function
+in a computing system family is migrated out to special-purpose peripheral
+hardware for speed, then the peripheral evolves toward more computing power
+as it does its job, then somebody notices that it is inefficient to support
+two asymmetrical processors in the architecture and folds the function back
+into the main CPU, at which point the cycle begins again. Several iterations
+of this cycle have been observed in graphics-processor design, and at least
+one or two in communications and floating-point processors. Also known as
+`the Wheel of Life', `the Wheel of Samsara', and other variations of the
+basic Hindu/Buddhist theological idea. see also {blitter}, {bit bang}. :wheel
+wars: n. [Stanford University] A period in {larval stage} during which
+student hackers hassle each other by attempting to log each other out of the
+system, delete each other's files, and otherwise wreak havoc, usually at the
+expense of the lesser users. :White Book: n. 1. Syn. {K&R}. 2. Adobe's fourth
+book in the PostScript series, describing the previously-secret format of
+Type 1 fonts; "Adobe Type 1 Font Format, version 1.1", (Addison-Wesley, 1990,
+ISBN 0-201-57044-0). see also {Red Book}, {Green Book}, {Blue Book}. :whizzy:
+adj. (alt. `wizzy') [Sun] Describes a {cuspy} program; one that is
+feature-rich and well presented. :wibble: [UK, perh. originally from the
+first "Roger Irrelevant" strip in "VIZ" comics] 1. n.,v. Commonly used to
 describe chatter, content-free remarks or other essentially meaningless
 contributions to threads in newsgroups. "Oh, rspence is wibbling again". 2.
 [UK IRC] An explicit on-line no-op equivalent to {humma}. 3. One of the
 preferred {metasyntactic variable}s in the UK, forming a series with
 `wobble', `wubble', and `flob' (attributed to the hilarious historical comedy
 "Blackadder"). 4. A pronounciation of the letters "www", as seen in URLs;
-i.e., www.{foo}.com may be pronounced "wibble dot foo dot com". :WIBNI: // n.
+i.e., www.{foo}.com may be pronounced "wibble dot foo dot com" (compare {dub
+dub dub}). The ancestral sense of this word is reported to have been "My
+brain is packing it in now. I give up. _Tilt! Tilt! Tilt!_" :WIBNI: // n.
 [Bell Labs: Wouldn't It Be Nice If] What most requirements documents and
 specifications consist entirely of. Compare {IWBNI}. :widget: n. 1. A
 meta-thing. Used to stand for a real object in didactic examples (especially
@@ -89,17 +109,19 @@ usually because the person responsible for the code is too busy or can't
 think of a clean way to do it. "OK, I'll add automatic filename completion to
 the wish list for the new interface." Compare {tick-list features}. :within
 delta of: adj. see {delta}. :within epsilon of: adj. see {epsilon}. :wizard:
-n. 1. A person who knows how a complex piece of software or hardware works
-(that is, who {grok}s it); esp. someone who can find and fix bugs quickly in
-an emergency. Someone is a {hacker} if he or she has general hacking ability,
-but is a wizard with respect to something only if he or she has specific
-detailed knowledge of that thing. A good hacker could become a wizard for
-something given the time to study it. 2. A person who is permitted to do
-things forbidden to ordinary people; one who has {wheel} privileges on a
-system. 3. A Unix expert, esp. a Unix systems programmer. This usage is well
-enough established that `Unix Wizard' is a recognized job title at some
-corporations and to most headhunters. see {guru}, {lord high fixer}. See also
-{deep magic}, {heavy wizardry}, {incantation}, {magic}, {mutter}, {rain
-dance}, {voodoo programming}, {wave a dead chicken}. :Wizard Book: n.
-"Structure and Interpretation of Computer Programs" (Hal Abelson, Jerry
-Sussman and Julie Sussman; MIT Press,
+n. 1. Transitively, a person who knows how a complex piece of software or
+hardware works (that is, who {grok}s it); esp. someone who can find and fix
+bugs quickly in an emergency. Someone is a {hacker} if he or she has general
+hacking ability, but is a wizard with respect to something only if he or she
+has specific detailed knowledge of that thing. A good hacker could become a
+wizard for something given the time to study it. 2. The term `wizard' is also
+used intransitively of someone who has extremely high-level hacking or
+problem-solving ability. 3. A person who is permitted to do things forbidden
+to ordinary people; one who has {wheel} privileges on a system. 4. A Unix
+expert, esp. a Unix systems programmer. This usage is well enough established
+that `Unix Wizard' is a recognized job title at some corporations and to most
+headhunters. see {guru}, {lord high fixer}. See also {deep magic}, {heavy
+wizardry}, {incantation}, {magic}, {mutter}, {rain dance}, {voodoo
+programming}, {wave a dead chicken}. :Wizard Book: n. "Structure and
+Interpretation of Computer Programs" (Hal Abelson, Jerry Sussman and Julie
+Sussman; MIT Press,

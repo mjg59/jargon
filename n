@@ -44,14 +44,14 @@ company couldn't get any of the mask steppings to work as designed. They
 eventually sank without trace, joining the Zilog Z8000 and a few even more
 obscure also-rans in the graveyard of forgotten microprocessors. Compare
 {HP-SUX}, {AIDX}, {buglix}, {Macintrash}, {Telerat}, {ScumOS}, {sun-stools},
-{Slowlaris}. :non-optimal solution: n. (also `sub-optimal solution') An
-astoundingly stupid way to do something. This term is generally used in
-deadpan sarcasm, as its impact is greatest when the person speaking looks
-completely serious. Compare {stunning}. see also {Bad Thing}. :nonlinear:
-adj. [scientific computation] 1. Behaving in an erratic and unpredictable
-fashion; unstable. When used to describe the behavior of a machine or
-program, it suggests that said machine or program is being forced to run far
-outside of design specifications. This behavior may be induced by
+{Slowlaris}, {Internet Exploder}. :non-optimal solution: n. (also
+`sub-optimal solution') An astoundingly stupid way to do something. This term
+is generally used in deadpan sarcasm, as its impact is greatest when the
+person speaking looks completely serious. Compare {stunning}. see also {Bad
+Thing}. :nonlinear: adj. [scientific computation] 1. Behaving in an erratic
+and unpredictable fashion; unstable. When used to describe the behavior of a
+machine or program, it suggests that said machine or program is being forced
+to run far outside of design specifications. This behavior may be induced by
 unreasonable inputs, or may be triggered when a more mundane bug sends the
 computation far off from its expected course. 2. When describing the behavior
 of a person, suggests a tantrum or a {flame}. "When you talk to Bob, don't
@@ -88,115 +88,112 @@ from "new roff" (see {{troff}})] A companion program to the Unix typesetter
 {{troff}}, accepting identical input but preparing output for terminals and
 line printers. :NSA line eater: n. The National Security Agency trawling
 program sometimes assumed to be reading the net for the U.S. Government's
-spooks. Most hackers describe it as a mythical beast, but some believe it
-actually exists, more aren't sure, and many believe in acting as though it
-does exist just in case. Some netters put loaded phrases like `KGB', `Uzi',
-`nuclear materials', `Palestine', `cocaine', and `assassination' in their
-{sig block}s in a (probably futile) attempt to confuse and overload the
+spooks. Most hackers used to think it was mythical but believed in acting as
+though existed just in case. since the mid-1990s it has gradually become
+known that the NSA actually does this, quite illegaly, through its Echelon
+program. The standard countermeasure is to put loaded phrases like `KGB',
+`Uzi', `nuclear materials', `Palestine', `cocaine', and `assassination' in
+their {sig block}s in a (probably futile) attempt to confuse and overload the
 creature. The {GNU} version of {EMACS} actually has a command that randomly
-inserts a bunch of insidious anarcho-verbiage into your edited text. There is
-a mainstream variant of this myth involving a `Trunk Line Monitor', which
-supposedly used speech recognition to extract words from telephone trunks.
-This one was making the rounds in the late 1970s, spread by people who had no
-idea of then-current technology or the storage, signal-processing, or speech
+inserts a bunch of insidious anarcho-verbiage into your edited text. As far
+back as the 1970s there was a mainstream variant of this myth involving a
+`Trunk Line Monitor', which supposedly used speech recognition to extract
+words from telephone trunks. This is much harder than noticing keywords in
+email, and most of the people who originally propagated it had no idea of
+then-current technology or the storage, signal-processing, or speech
 recognition needs of such a project. On the basis of mass-storage costs alone
 it would have been cheaper to hire 50 high-school students and just let them
-listen in. Speech-recognition technology can't do this job even now (1999),
-and almost certainly won't in this millennium, either. The peak of silliness
-came with a letter to an alternative paper in New Haven, Connecticut, laying
-out the factoids of this Big Brotherly affair. The letter writer then
-revealed his actual agenda by offering -- at an amazing low price, just this
-once, we take VISA and MasterCard -- a scrambler guaranteed to daunt the
-Trunk Trawler and presumably allowing the would-be Baader-Meinhof gangs of
-the world to get on with their business. :NSP: /N-S-P/ n. Common abbreviation
-for `Network Service Provider', one of the big national or regional companies
-that maintains a portion of the Internet backbone and resells connectivity to
-{ISP}s. In 1996, major NSPs include ANS, MCI, UUNET, and Sprint. An Internet
-wholesaler. :nude: adj. Said of machines delivered without an operating
-system (compare {bare metal}). "We ordered 50 systems, but they all arrived
-nude, so we had to spend a an extra weekend with the installation disks."
-This usage is a recent innovation reflecting the fact that most IBM-PC clones
-are now delivered with an operating system pre-installed at the factory.
-Other kinds of hardware are still normally delivered without OS, so this term
-is particular to PC support groups. :nugry: /n[y]oo'gree/ [Usenet, 'newbie' +
-'-gry'] `. n. A {newbie} who posts a {FAQ} in the rec.puzzles newsgroup,
-especially if it is a variant of the notorious and unanswerable "What,
-besides `angry' and `hungry', is the third common English word that ends in
--GRY?". In the newsgroup, the canonical answer is of course `nugry' itself.
-Plural is `nusgry' /n[y]oos'gree/. 2. adj. Having the qualities of a nugry.
-:nuke: /n[y]ook/ vt. [common] 1. To intentionally delete the entire contents
-of a given directory or storage volume. "On Unix, `rm -r /usr' will nuke
-everything in the usr filesystem." Never used for accidental deletion;
-contrast {blow away}. 2. Syn. for {dike}, applied to smaller things such as
-files, features, or code sections. Often used to express a final verdict.
-"What do you want me to do with that 80-meg {wallpaper} file?" "Nuke it." 3.
-Used of processes as well as files; nuke is a frequent verbal alias for `kill
--9' on Unix. 4. On IBM PCs, a bug that results in {fandango on core} can
-trash the operating system, including the FAT (the in-core copy of the disk
-block chaining information). This can utterly scramble attached disks, which
-are then said to have been `nuked'. This term is also used of analogous
-lossages on Macintoshes and other micros without memory protection.
-:number-crunching: n. [common] Computations of a numerical nature, esp. those
-that make extensive use of floating-point numbers. The only thing {Fortrash}
-is good for. This term is in widespread informal use outside hackerdom and
-even in mainstream slang, but has additional hackish connotations: namely,
-that the computations are mindless and involve massive use of {brute force}.
-This is not always {evil}, esp. if it involves ray tracing or fractals or
-some other use that makes {pretty pictures}, esp. if such pictures can be
-used as {wallpaper}. see also {crunch}. :numbers: n. [scientific computation]
-Output of a computation that may not be significant results but at least
-indicate that the program is running. May be used to placate management,
-grant sponsors, etc. `Making numbers' means running a program because output
--- any output, not necessarily meaningful output -- is needed as a
-demonstration of progress. see {pretty pictures}, {math-out}, {social science
-number}. :NUXI problem: /nuk'see pro'bl*m/ n. Refers to the problem of
-transferring data between machines with differing byte-order. The string
-`UNIX' might look like `NUXI' on a machine with a different `byte sex' (e.g.,
-when transferring data from a {little-endian} to a {big-endian}, or
-vice-versa). see also {middle-endian}, {swab}, and {bytesexual}. :nybble:
-/nib'l/ (alt. `nibble') n. [from v. `nibble' by analogy with `bite' =>
-`byte'] Four bits; one {hex} digit; a half-byte. Though `byte' is now
-techspeak, this useful relative is still jargon. Compare {{byte}}; see also
-{bit}. The more mundane spelling "nibble" is also commonly used. Apparently
-the `nybble' spelling is uncommon in Commonwealth Hackish, as British
-orthography would suggest the pronunciation /ni:'bl/. Following `bit', `byte'
-and `nybble' there have been quite a few analogical attempts to construct
-unambiguous terms for bit blocks of other sizes. All of these are strictly
-jargon, not techspeak, and not very common jargon at that (most hackers would
-recognize them in context but not use them spontaneously). We collect them
-here for reference together with the ambiguous techspeak terms `word',
-`half-word' and `double word'; some (indicated) have substantial information
-separate entries. 2 bits: {crumb}, {quad}, {quarter}, tayste 4 bits: nybble 5
-bits: {nickle} 10 bits: {deckle} 16 bits: playte, {chawmp} (on a 32-bit
-machine), word (on a 16-bit machine), half-word (on a 32-bit machine). 18
-bits: {chawmp} (on a 36-bit machine), half-word (on a 36-bit machine) 32
-bits: dynner, {gawble} (on a 32-bit machine), word (on a 32-bit machine),
-longword (on a 16-bit machine). 36: word (on a 36-bit machine) 48 bits:
-{gawble} (under circumstances that remain obscure) 64 bits double word (on a
-32-bit machine) The fundamental motivation for most of these jargon terms
-(aside from the normal hackerly enjoyment of punning wordplay) is the extreme
-ambiguity of the term `word' and its derivatives. :nyetwork: /nyet'werk/ n.
-[from Russian `nyet' = no] A network, when it is acting {flaky} or is {down}.
-Compare {notwork}. = O = ===== :Ob-: /ob/ pref. Obligatory. A piece of
-{netiquette} acknowledging that the author has been straying from the
-newsgroup's charter topic. For example, if a posting in alt.sex is a response
-to a part of someone else's posting that has nothing particularly to do with
-sex, the author may append `ObSex' (or `Obsex') and toss off a question or
-vignette about some unusual erotic act. It is considered a sign of great
-{winnitude} when one's Obs are more interesting than other people's whole
-postings. :Obfuscated C Contest: n. (in full, the `International Obfuscated C
-Code Contest', or IOCCC) An annual contest run since 1984 over Usenet by
-Landon Curt Noll and friends. The overall winner is whoever produces the most
-unreadable, creative, and bizarre (but working) C program; various other
-prizes are awarded at the judges' whim. C's terse syntax and
-macro-preprocessor facilities give contestants a lot of maneuvering room. The
-winning programs often manage to be simultaneously (a) funny, (b)
-breathtaking works of art, and (c) horrible examples of how _not_ to code in
-C. This relatively short and sweet entry might help convey the flavor of
-obfuscated C: /* * HELLO WORLD program * by Jack Applin and Robert
-Heckendorn, 1985 * (Note: depends on being able to modify elements of argv[],
-* which is not guaranteed by ANSI and often not possible.) */
-main(v,c)char**c;{for(v[c++]="Hello, world!\n)";
+listen in. Twenty years and several orders of technological magnitude later,
+however, there are clear indications that the NSA has actually deployed such
+filtering (again, very much against U.S. law). :NSP: /N-S-P/ n. Common
+abbreviation for `Network Service Provider', one of the big national or
+regional companies that maintains a portion of the Internet backbone and
+resells connectivity to {ISP}s. In 1996, major NSPs include ANS, MCI, UUNET,
+and Sprint. An Internet wholesaler. :nude: adj. Said of machines delivered
+without an operating system (compare {bare metal}). "We ordered 50 systems,
+but they all arrived nude, so we had to spend a an extra weekend with the
+installation disks." This usage is a recent innovation reflecting the fact
+that most IBM-PC clones are now delivered with an operating system
+pre-installed at the factory. Other kinds of hardware are still normally
+delivered without OS, so this term is particular to PC support groups.
+:nugry: /n[y]oo'gree/ [Usenet, 'newbie' + '-gry'] `. n. A {newbie} who posts
+a {FAQ} in the rec.puzzles newsgroup, especially if it is a variant of the
+notorious and unanswerable "What, besides `angry' and `hungry', is the third
+common English word that ends in -GRY?". In the newsgroup, the canonical
+answer is of course `nugry' itself. Plural is `nusgry' /n[y]oos'gree/. 2.
+adj. Having the qualities of a nugry. :nuke: /n[y]ook/ vt. [common] 1. To
+intentionally delete the entire contents of a given directory or storage
+volume. "On Unix, `rm -r /usr' will nuke everything in the usr filesystem."
+Never used for accidental deletion; contrast {blow away}. 2. Syn. for {dike},
+applied to smaller things such as files, features, or code sections. Often
+used to express a final verdict. "What do you want me to do with that 80-meg
+{wallpaper} file?" "Nuke it." 3. Used of processes as well as files; nuke is
+a frequent verbal alias for `kill -9' on Unix. 4. On IBM PCs, a bug that
+results in {fandango on core} can trash the operating system, including the
+FAT (the in-core copy of the disk block chaining information). This can
+utterly scramble attached disks, which are then said to have been `nuked'.
+This term is also used of analogous lossages on Macintoshes and other micros
+without memory protection. :number-crunching: n. [common] Computations of a
+numerical nature, esp. those that make extensive use of floating-point
+numbers. The only thing {Fortrash} is good for. This term is in widespread
+informal use outside hackerdom and even in mainstream slang, but has
+additional hackish connotations: namely, that the computations are mindless
+and involve massive use of {brute force}. This is not always {evil}, esp. if
+it involves ray tracing or fractals or some other use that makes {pretty
+pictures}, esp. if such pictures can be used as {wallpaper}. see also
+{crunch}. :numbers: n. [scientific computation] Output of a computation that
+may not be significant results but at least indicate that the program is
+running. May be used to placate management, grant sponsors, etc. `Making
+numbers' means running a program because output -- any output, not
+necessarily meaningful output -- is needed as a demonstration of progress.
+see {pretty pictures}, {math-out}, {social science number}. :NUXI problem:
+/nuk'see pro'bl*m/ n. Refers to the problem of transferring data between
+machines with differing byte-order. The string `UNIX' might look like `NUXI'
+on a machine with a different `byte sex' (e.g., when transferring data from a
+{little-endian} to a {big-endian}, or vice-versa). see also {middle-endian},
+{swab}, and {bytesexual}. :nybble: /nib'l/ (alt. `nibble') n. [from v.
+`nibble' by analogy with `bite' => `byte'] Four bits; one {hex} digit; a
+half-byte. Though `byte' is now techspeak, this useful relative is still
+jargon. Compare {{byte}}; see also {bit}. The more mundane spelling "nibble"
+is also commonly used. Apparently the `nybble' spelling is uncommon in
+Commonwealth Hackish, as British orthography would suggest the pronunciation
+/ni:'bl/. Following `bit', `byte' and `nybble' there have been quite a few
+analogical attempts to construct unambiguous terms for bit blocks of other
+sizes. All of these are strictly jargon, not techspeak, and not very common
+jargon at that (most hackers would recognize them in context but not use them
+spontaneously). We collect them here for reference together with the
+ambiguous techspeak terms `word', `half-word' and `double word'; some
+(indicated) have substantial information separate entries. 2 bits: {crumb},
+{quad}, {quarter}, tayste, tydbit 4 bits: nybble 5 bits: {nickle} 10 bits:
+{deckle} 16 bits: playte, {chawmp} (on a 32-bit machine), word (on a 16-bit
+machine), half-word (on a 32-bit machine). 18 bits: {chawmp} (on a 36-bit
+machine), half-word (on a 36-bit machine) 32 bits: dynner, {gawble} (on a
+32-bit machine), word (on a 32-bit machine), longword (on a 16-bit machine).
+36: word (on a 36-bit machine) 48 bits: {gawble} (under circumstances that
+remain obscure) 64 bits double word (on a 32-bit machine) The fundamental
+motivation for most of these jargon terms (aside from the normal hackerly
+enjoyment of punning wordplay) is the extreme ambiguity of the term `word'
+and its derivatives. :nyetwork: /nyet'werk/ n. [from Russian `nyet' = no] A
+network, when it is acting {flaky} or is {down}. Compare {notwork}. = O =
+===== :Ob-: /ob/ pref. Obligatory. A piece of {netiquette} acknowledging that
+the author has been straying from the newsgroup's charter topic. For example,
+if a posting in alt.sex is a response to a part of someone else's posting
+that has nothing particularly to do with sex, the author may append `ObSex'
+(or `Obsex') and toss off a question or vignette about some unusual erotic
+act. It is considered a sign of great {winnitude} when one's Obs are more
+interesting than other people's whole postings. :Obfuscated C Contest: n. (in
+full, the `International Obfuscated C Code Contest', or IOCCC) An annual
+contest run since 1984 over Usenet by Landon Curt Noll and friends. The
+overall winner is whoever produces the most unreadable, creative, and bizarre
+(but working) C program; various other prizes are awarded at the judges'
+whim. C's terse syntax and macro-preprocessor facilities give contestants a
+lot of maneuvering room. The winning programs often manage to be
+simultaneously (a) funny, (b) breathtaking works of art, and (c) horrible
+examples of how _not_ to code in C. This relatively short and sweet entry
+might help convey the flavor of obfuscated C: /* * HELLO WORLD program * by
+Jack Applin and Robert Heckendorn, 1985 * (Note: depends on being able to
+modify elements of argv[], * which is not guaranteed by ANSI and often not
+possible.) */ main(v,c)char**c;{for(v[c++]="Hello, world!\n)";
 (!!c)[*c]&&(v--||--c&&execlp(*c,*c,c[!!c]+!!c,!c));
 **c=!c)write(!!*c,*c,!!**c);} Here's another good one: /* * Program to
 compute an approximation of pi * by Brian Westley, 1988 * (requires pcc macro
@@ -264,7 +261,7 @@ regain his previous advantage. Taken more seriously as a tactic since it has
 gained a simple name. 3. To do anything forcefully, possibly without
 consideration of the drain on future resources. "I guess I'd better go ogg
 the problem set that's due tomorrow." "Whoops! I looked down at the map for a
-sec and almost ogged that oncoming car." :-oid: suff. [from Gree suffix -oid
+sec and almost ogged that oncoming car." :-oid: suff. [from Greek suffix -oid
 = `in the image of'] 1. Used as in mainstream slang English to indicate a
 poor imitation, a counterfeit, or some otherwise slightly bogus resemblance.
 Hackers will happily use it with all sorts of non-Greco/Latin stem words that
@@ -323,38 +320,38 @@ now popular among {Perl} aficionados. Ken Iverson, the inventor of APL, has
 been credited with a one-liner that, given a number N, produces a list of the
 prime numbers from 1 to N inclusive. It looks like this: (2 = 0 +.= T o.| T)
 / T <- iN where `o' is the APL null character, the assignment arrow is a
-single character, and `i' represents the APL iota. Here's equivalent {Perl}:
-perl -le '$_ = 1; (1 x $_) !~ /^(11+)\1+$/ && print while $_++' :ooblick:
-/oo'blik/ n. [from the Dr. Seuss title "Bartholomew and the Oobleck"; the
-spelling `oobleck' is still current in the mainstream] A bizarre semi-liquid
-sludge made from cornstarch and water. Enjoyed among hackers who make batches
-during playtime at parties for its amusing and extremely non-Newtonian
-behavior; it pours and splatters, but resists rapid motion like a solid and
-will even crack when hit by a hammer. Often found near lasers. Here is a
-field-tested ooblick recipe contributed by GLS: 1 cup cornstarch 1 cup baking
-soda 3/4 cup water N drops of food coloring This recipe isn't quite as
-non-Newtonian as a pure cornstarch ooblick, but has an appropriately slimy
-feel. Some, however, insist that the notion of an ooblick _recipe_ is far too
-mechanical, and that it is best to add the water in small increments so that
-the various mixed states the cornstarch goes through as it _becomes_ ooblick
-can be grokked in fullness by many hands. For optional ingredients of this
-experience, see the "{Ceremonial Chemicals}" section of Appendix B. :op: /op/
-n. 1. In England and Ireland, common verbal abbreviation for `operator', as
-in system operator. Less common in the U.S., where {sysop} seems to be
-preferred. 2. [IRC] Someone who is endowed with privileges on {IRC}, not
-limited to a particular channel. These are generally people who are in charge
-of the IRC server at their particular site. Sometimes used interchangeably
-with {CHOP}. Compare {sysop}. :open: n. Abbreviation for `open (or left)
-parenthesis' -- used when necessary to eliminate oral ambiguity. To read
-aloud the LISP form (DEFUN FOO (X) (PLUS X 1)) one might say: "Open defun
-foo, open eks close, open, plus eks one, close close." :open source: n.
-[common; also adj. `open-source'] Term coined in March 1998 following the
-Mozilla release to describe software distributed in source under licenses
-guaranteeing anybody rights to freely use, modify, and redistribute, the
-code. The intent was to be able to sell the hackers' ways of doing software
-to industry and the mainstream by avoid the negative connotations (to
-{suit}s) of the term "free software". For discussion of the followon tactics
-and their consequences, see the Open Source Initiative
+single character, and `i' represents the APL iota. Here's a {Perl} program
+that prints primes: perl -le '$_ = 1; (1 x $_) !~ /^(11+)\1+$/ && print while
+$_++' :ooblick: /oo'blik/ n. [from the Dr. Seuss title "Bartholomew and the
+Oobleck"; the spelling `oobleck' is still current in the mainstream] A
+bizarre semi-liquid sludge made from cornstarch and water. Enjoyed among
+hackers who make batches during playtime at parties for its amusing and
+extremely non-Newtonian behavior; it pours and splatters, but resists rapid
+motion like a solid and will even crack when hit by a hammer. Often found
+near lasers. Here is a field-tested ooblick recipe contributed by GLS: 1 cup
+cornstarch 1 cup baking soda 3/4 cup water N drops of food coloring This
+recipe isn't quite as non-Newtonian as a pure cornstarch ooblick, but has an
+appropriately slimy feel. Some, however, insist that the notion of an ooblick
+_recipe_ is far too mechanical, and that it is best to add the water in small
+increments so that the various mixed states the cornstarch goes through as it
+_becomes_ ooblick can be grokked in fullness by many hands. For optional
+ingredients of this experience, see the "{Ceremonial Chemicals}" section of
+Appendix B. :op: /op/ n. 1. In England and Ireland, common verbal
+abbreviation for `operator', as in system operator. Less common in the U.S.,
+where {sysop} seems to be preferred. 2. [IRC] Someone who is endowed with
+privileges on {IRC}, not limited to a particular channel. These are generally
+people who are in charge of the IRC server at their particular site.
+Sometimes used interchangeably with {CHOP}. Compare {sysop}. :open: n.
+Abbreviation for `open (or left) parenthesis' -- used when necessary to
+eliminate oral ambiguity. To read aloud the LISP form (DEFUN FOO (X) (PLUS X
+1)) one might say: "Open defun foo, open eks close, open, plus eks one, close
+close." :open source: n. [common; also adj. `open-source'] Term coined in
+March 1998 following the Mozilla release to describe software distributed in
+source under licenses guaranteeing anybody rights to freely use, modify, and
+redistribute, the code. The intent was to be able to sell the hackers' ways
+of doing software to industry and the mainstream by avoid the negative
+connotations (to {suit}s) of the term "{free software}". For discussion of
+the followon tactics and their consequences, see the Open Source Initiative
 (http://www.opensource.org) site. :open switch: n. [IBM: prob. from
 railroading] An unresolved question, issue, or problem. :operating system::
 n. [techspeak] (Often abbreviated `OS') The foundation software of a machine;
@@ -376,6 +373,9 @@ but those who habitually focus on the end goal. Perhaps it is merely that
 computers are young, programmers are younger, and the young are always
 optimists. But however the selection process works, the result is
 indisputable: "This time it will surely run," or "I just found the last
-bug.". see also {Lubarsky's Law of Cybernetic Entomology}. :Orange Book: n.
-The U.S. Government's standards document "Trusted Computer System Evaluation
-Criteria, DOD standard
+bug.". see also {Lubarsky's Law of Cybernetic Entomology}. :Oracle, the: The
+all-knowing, all-wise Internet Oracle rec.humor.oracle), or one of the
+foreign language derivatives of same. Newbies frequently confuse the Oracle
+with Oracle, a database vendor. As a result, the unmoderated
+rec.humor.oracle.d is frequently crossposted to by the clueless, looking for
+advice on

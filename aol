@@ -1,0 +1,6 @@
+ UUCP and {Usenet} `networks', plus the corporate in-house networks and
+commercial time-sharing services (such as CompuServe, GEnie and AOL) that
+gateway to them. A site is generally considered `on the network' if it can be
+reached through some combination of Internet-style (@-sign) and UUCP
+(bang-path) addresses. see {Internet}, {bang path}, {{Internet address}},
+{network address}.

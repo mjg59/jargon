@@ -10,34 +10,34 @@ n. On-line abbrev for {virtual reality}, as opposed to {RL}. :Vulcan nerve
 pinch: n. [from the old "Star Trek" TV series via Commodore Amiga hackers]
 The keyboard combination that forces a soft-boot or jump to ROM monitor (on
 machines that support such a feature). On many micros this is Ctrl-Alt-Del;
-on Suns, L1-A; on some Macintoshes, it is <Cmd>-<Power switch>! Also called
-{three-finger salute}. Compare {quadruple bucky}. :vulture capitalist: n.
-Pejorative hackerism for `venture capitalist', deriving from the common
-practice of pushing contracts that deprive inventors of control over their
-own innovations and most of the money they ought to have made from them. = W
-= ===== :W2K bug: [from `Y2K bug' for the Year 2000 problem] The upcoming
-deployment of Microsoft's Windows 2000 operating system, which hackers
-generally expect will be among the worst train wrecks in the history of
-software engineering. Such is the power of Microsoft marketing, however, that
-it is also expected this will not become obvious until it has incurred
-hundreds of millions of dollars in downtime and lost opportunity costs.
-:wabbit: /wab'it/ n. [almost certainly from Elmer Fudd's immortal line "You
-wascawwy wabbit!"] 1. A legendary early hack reported on a System/360 at RPI
-and elsewhere around 1978; this may have descended (if only by inspiration)
-from a hack called RABBITS reported from 1969 on a Burroughs 5500 at the
-University of Washington Computer Center. The program would make two copies
-of itself every time it was run, eventually crashing the system. 2. By
-extension, any hack that includes infinite self-replication but is not a
-{virus} or {worm}. see {fork bomb} and {rabbit job}, see also {cookie
-monster}. :WAITS:: /wayts/ n. The mutant cousin of {{TOPS-10}} used on a
-handful of systems at {{SAIL}} up to 1990. There was never an `official'
-expansion of WAITS (the name itself having been arrived at by a rather
-sideways process), but it was frequently glossed as `West-coast Alternative
-to ITS'. Though WAITS was less visible than ITS, there was frequent exchange
-of people and ideas between the two communities, and innovations pioneered at
-WAITS exerted enormous indirect influence. The early screen modes of {EMACS},
-for example, were directly inspired by WAITS's `E' editor -- one of a family
-of editors that were the first to do `real-time editing', in which the
-editing commands were invisible and where one typed text at the point of
-insertion/overwriting. The modern style of multi-region windowing is said to
-have originated there, and WAITS alumni at
+on Suns, L1-A; on Macintoshes, it is <Cmd>-<Power switch> or
+<CMD>-<CTRL>-<POWER>! Also called {three-finger salute}. Compare {quadruple
+bucky}. :vulture capitalist: n. Pejorative hackerism for `venture
+capitalist', deriving from the common practice of pushing contracts that
+deprive inventors of control over their own innovations and most of the money
+they ought to have made from them. = W = ===== :W2K bug: [from `Y2K bug' for
+the Year 2000 problem] The upcoming deployment of Microsoft's Windows 2000
+operating system, which hackers generally expect will be among the worst
+train wrecks in the history of software engineering. Such is the power of
+Microsoft marketing, however, that it is also expected this will not become
+obvious until it has incurred hundreds of millions of dollars in downtime and
+lost opportunity costs. :wabbit: /wab'it/ n. [almost certainly from Elmer
+Fudd's immortal line "You wascawwy wabbit!"] 1. A legendary early hack
+reported on a System/360 at RPI and elsewhere around 1978; this may have
+descended (if only by inspiration) from a hack called RABBITS reported from
+1969 on a Burroughs 5500 at the University of Washington Computer Center. The
+program would make two copies of itself every time it was run, eventually
+crashing the system. 2. By extension, any hack that includes infinite
+self-replication but is not a {virus} or {worm}. see {fork bomb} and {rabbit
+job}, see also {cookie monster}. :WAITS:: /wayts/ n. The mutant cousin of
+{{TOPS-10}} used on a handful of systems at {{SAIL}} up to 1990. There was
+never an `official' expansion of WAITS (the name itself having been arrived
+at by a rather sideways process), but it was frequently glossed as
+`West-coast Alternative to ITS'. Though WAITS was less visible than ITS,
+there was frequent exchange of people and ideas between the two communities,
+and innovations pioneered at WAITS exerted enormous indirect influence. The
+early screen modes of {EMACS}, for example, were directly inspired by WAITS's
+`E' editor -- one of a family of editors that were the first to do `real-time
+editing', in which the editing commands were invisible and where one typed
+text at the point of insertion/overwriting. The modern style of multi-region
+windowing is said to have originated there, and WAITS alumni at
