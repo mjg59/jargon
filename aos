@@ -18,11 +18,14 @@ zero; AOSA added one and then skipped Always; and so on. Just plain AOS
 didn't say when to skip, so it never skipped. For similar reasons, AOJ meant
 `Add One and do not Jump'. Even more bizarre, SKIP meant `Do not SKIP'! If
 you wanted to skip the next instruction, you had to say `SKIPA'. Likewise,
-JUMP means `Do not JUMP'. Such were the perverse mysteries of assembler
-programming. app: /ap/ n. Short for `application program', as opposed to a
-systems program. What systems vendors are forever chasing developers to do
-for their environments so they can sell more boxes. Hackers tend not to think
-of the things they themselves run as apps; thus, in hacker parlance the term
+JUMP means `Do not JUMP'; the unconditional form was JUMPA. However, hackers
+never did this. By some quirk of the 10's design, the {JRST} (Jump and
+Restore Flag with no flag specified) was actually faster, and so was
+invariably used. Such were the perverse mysteries of assembler programming.
+app: /ap/ n. Short for `application program', as opposed to a systems
+program. What systems vendors are forever chasing developers to do for their
+environments so they can sell more boxes. Hackers tend not to think of the
+things they themselves run as apps; thus, in hacker parlance the term
 excludes compilers, program editors, games, and messaging systems, though a
 user would consider all those apps. Oppose {tool}, {operating system}. arc:
 [primarily MSDOS] vt. To create a compressed archive from a group of files
@@ -39,24 +42,29 @@ avoid enormous legal costs (both SEA and PKWare are small companies); as part
 of the settlement, the name of PKARC was changed to PKPAK. The public
 backlash against SEA for bringing suit helped to hasten the demise of ARC as
 a standard when PKWare and others introduced new, incompatible archivers with
-better compression algorithms. arena: [UNIX] n. The area of memory attached
-to a process by `brk(2)' and `sbrk(2)' and used by `malloc(3)' as dynamic
-storage. So named from a semi-mythical `malloc: corrupt arena' message
-supposedly emitted when some early versions became terminally confused. see
-{overrun screw}, {aliasing bug}, {memory leak}, {smash the stack}. arg: /arg/
-n. Abbreviation for `argument' (to a function), used so often as to have
-become a new word (like `piano' from `pianoforte'). "The sine function takes
-one arg, but the arc-tangent function can take either one or two args".
-Compare {param}, {parm}, {var}. armor-plated: n. Syn. for {bulletproof}.
-asbestos: adj. Used as a modifier to anything intended to protect one from
-{flame}s. Important cases of this include {asbestos longjohns} and {asbestos
-cork award}, but it is used more generally. asbestos cork award: n. Once,
-long ago at MIT, there was a {flamer} so consistently obnoxious that another
-hacker designed, had made, and distributed posters announcing that said
-flamer had been nominated for the `asbestos cork award'. Persons in any doubt
-as to the intended application of the cork should consult the etymology under
-{flame}. Since then, it is agreed that only a select few have risen to the
-heights of bombast required to earn this dubious dignity --- but there's no
-agreement on *which* few. asbestos longjohns: n. Notional garments often
-donned by {USENET} posters just before emitting a remark they expect will
-elicit {flamage}. Also `asbestos underwear', `asbestos overcoat', etc.
+better compression algorithms. archive: n. 1. A collection of several files
+bundled into one file with a program such as `ar(1)', `tar(1)', `cpio(1)', or
+{arc} for shipment or archiving (sense #2). see also {tar and feather}. 2. A
+collection of files or archives (sense #1) made available from an `archive
+site' via {FTP} or an email server. arena: [UNIX] n. The area of memory
+attached to a process by `brk(2)' and `sbrk(2)' and used by `malloc(3)' as
+dynamic storage. So named from a semi-mythical `malloc: corrupt arena'
+message supposedly emitted when some early versions became terminally
+confused. see {overrun screw}, {aliasing bug}, {memory leak}, {smash the
+stack}. arg: /arg/ n. Abbreviation for `argument' (to a function), used so
+often as to have become a new word (like `piano' from `pianoforte'). "The
+sine function takes one arg, but the arc-tangent function can take either one
+or two args". Compare {param}, {parm}, {var}. armor-plated: n. Syn. for
+{bulletproof}. asbestos: adj. Used as a modifier to anything intended to
+protect one from {flame}s. Important cases of this include {asbestos
+longjohns} and {asbestos cork award}, but it is used more generally. asbestos
+cork award: n. Once, long ago at MIT, there was a {flamer} so consistently
+obnoxious that another hacker designed, had made, and distributed posters
+announcing that said flamer had been nominated for the `asbestos cork award'.
+Persons in any doubt as to the intended application of the cork should
+consult the etymology under {flame}. Since then, it is agreed that only a
+select few have risen to the heights of bombast required to earn this dubious
+dignity --- but there's no agreement on *which* few. asbestos longjohns: n.
+Notional garments often donned by {USENET} posters just before emitting a
+remark they expect will elicit {flamage}. This is the most common of the
+{asbestos} coinages. Also `asbestos underwear', `asbestos overcoat', etc.

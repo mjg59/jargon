@@ -8,15 +8,15 @@ in my cube". 2. A NeXT machine. cubing: [parallel with `tubing'] vi. 1.
 Hacking on an IPSC (Intel Personal SuperComputer) hypercube. "Louella's gone
 cubing *again*!!" 2. Hacking Rubik's Cube or related puzzles, either
 physically or mathematically. 3. An indescribable form of self-torture (see
-sense #1). cursor dipped in X: n. There are a couple of metaphors in English
-of the form `pen dipped in X' (perhaps the most common values of X are
-`acid', `bile' and `vitriol'). These map over neatly to this hackish usage
-(the cursor being what moves, leaving letters behind, when one is composing
-on-line). cuspy: /kuhs'pee/ [coined at WPI from the DEC acronym CUSP, for
-Commonly Used System Program, i.e., a utility program used by many people]
-adj. 1. (of a program) Well-written. 2. Functionally excellent. A program
-that performs well and interfaces well to users is cuspy. see {rude}. 3.
-[NYU] Said of an attractive woman, especially one regarded as available.
+sense #1 or #2). cursor dipped in X: n. There are a couple of metaphors in
+English of the form `pen dipped in X' (perhaps the most common values of X
+are `acid', `bile' and `vitriol'). These map over neatly to this hackish
+usage (the cursor being what moves, leaving letters behind, when one is
+composing on-line). cuspy: /kuhs'pee/ [coined at WPI from the DEC acronym
+CUSP, for Commonly Used System Program, i.e., a utility program used by many
+people] adj. 1. (of a program) Well-written. 2. Functionally excellent. A
+program that performs well and interfaces well to users is cuspy. see {rude}.
+3. [NYU] Said of an attractive woman, especially one regarded as available.
 Implies a certain curvaceousness. cut a tape: [poss. fr. mainstream `cut a
 check' or from the recording industry's `cut a record'] vi. To write a
 software or document distribution on magnetic tape for shipment. Has nothing
@@ -48,7 +48,8 @@ multiple sources suggest that there are common features to the experience. In
 particular, the dominant colors of this subjective `cyberspace' are often
 gray and silver, and the imagery often involves constellations of marching
 dots, elaborate shifting patterns of lines and angles, or moire patterns.
-cycle: n. The basic unit of computation. What every hacker wants more of. One
+cycle: n. The basic unit of computation. What every hacker wants more of
+(noted hacker Bill Gosper used to describe himself as a "cycle junky"). One
 might think that single machine instructions would be the measure of
 computation, and indeed computers are often compared by how many instructions
 they can process per second, but some instructions take longer than others.
@@ -73,7 +74,7 @@ may be due to a {cycle crunch}, but could also occur because part of the
 computer is temporarily not working, leaving fewer cycles to go around.
 Example: "The {high moby} is {down}, so we're running with only half the
 usual amount of memory. There will be a cycle drought until it's fixed."
-cycle of reincarnation: [coined by Iven Sutherland c.1970] n. Term used to
+cycle of reincarnation: [coined by Ivan Sutherland ca.1970] n. Term used to
 refer to a well-known effect whereby function in a computing system family is
 migrated out to special-purpose peripheral hardware for speed, then the
 peripheral evolves towards more computing power as it does its job, then
@@ -86,30 +87,31 @@ Life', `the Wheel of Samsara', and other variations of the basic
 Hindu/Buddhist theological idea. cycle server: n. A powerful machine that
 exists primarily for running large batch jobs. Implies that interactive tasks
 such as editing are done on other machines on the network, such as
-workstations. = D = ===== daemon: /day'm@n/ or /dee'm@n/ [Disk And Execution
-MONitor] n. A program which is not invoked explicitly, but which lies dormant
-waiting for some condition(s) to occur. The idea is that the perpetrator of
-the condition need not be aware that a daemon is lurking (though often a
-program will commit an action only because it knows that it will implicitly
-invoke a daemon). For example, under {ITS} writing a file on the {LPT}
-spooler's directory would invoke the spooling daemon, which would then print
-the file. The advantage is that programs which want (in this example) files
-printed need not compete for access to the {LPT}. They simply enter their
-implicit requests and let the daemon decide what to do with them. Daemons are
-usually spawned automatically by the system, and may either live forever or
-be regenerated at intervals. Usage: {daemon} and {demon} are often used
-interchangeably, but seem to have distinct connotations. The term {daemon}
-was introduced to computing by {CTSS} people (who pronounced it dee'mon) and
-used it to refer to what ITS called a {dragon}. While the meaning and
-pronunciation have drifted, we think this glossary reflects current (1991)
-usage. dangling pointer: n. A reference that doesn't actually lead anywhere
-(in C and some other languages, a pointer that doesn't actually point at
-anything valid). Usually this is because it formerly pointed to something
-which has moved or disappeared. Used as jargon in a generalization of its
-techspeak meaning; a local phone number for a person who's since moved to the
-other coast, for example. Datamation: n. A magazine that many hackers assume
-all {suit}s read. Used to question an unbelieved quote, as in "Did you read
-that in Datamation?" It used to publish something hackishly funny every once
-in a while, like the original paper on {COME FROM} in 1973; but since then
-it's become much more exclusively {suit}-oriented. day mode: n. see {phase}
-(sense #1). Used of people only.
+workstations. = D = ===== daemon: /day'm*n/ or /dee'm*n/ [from the
+mythological meaning, later rationalized as the acronym `Disk And Execution
+MONitor'] n. A program which is not invoked explicitly, but which lies
+dormant waiting for some condition(s) to occur. The idea is that the
+perpetrator of the condition need not be aware that a daemon is lurking
+(though often a program will commit an action only because it knows that it
+will implicitly invoke a daemon). For example, under {ITS} writing a file on
+the {LPT} spooler's directory would invoke the spooling daemon, which would
+then print the file. The advantage is that programs which want (in this
+example) files printed need not compete for access to the {LPT}. They simply
+enter their implicit requests and let the daemon decide what to do with them.
+Daemons are usually spawned automatically by the system, and may either live
+forever or be regenerated at intervals. Usage: daemon and {demon} are often
+used interchangeably, but seem to have distinct connotations. The term
+`daemon' was introduced to computing by {CTSS} people (who pronounced it
+/dee'mon/) and used it to refer to what ITS called a {dragon}. While the
+meaning and pronunciation have drifted, we think this glossary reflects
+current (1991) usage. dangling pointer: n. A reference that doesn't actually
+lead anywhere (in C and some other languages, a pointer that doesn't actually
+point at anything valid). Usually this is because it formerly pointed to
+something which has moved or disappeared. Used as jargon in a generalization
+of its techspeak meaning; a local phone number for a person who's since moved
+to the other coast, for example. Datamation: n. A magazine that many hackers
+assume all {suit}s read. Used to question an unbelieved quote, as in "Did you
+read that in Datamation?" It used to publish something hackishly funny every
+once in a while, like the original paper on {COME FROM} in 1973; but since
+then it's become much more exclusively {suit}-oriented. day mode: n. see
+{phase} (sense #1). Used of people only.

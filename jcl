@@ -19,7 +19,7 @@ Most programmers confronted with JCL simply copy a working file (or card
 deck), changing the file names. Someone who actually understands and
 generates unique JCL is regarded with the mixed respect which one gives to
 someone who memorizes the phone book. It is reported that hackers at IBM
-itself sometimes sing "I-B-M, J-C-L, M-o-u-s-e" to the toune of the Mickey
+itself sometimes sing "I-B-M, J-C-L, M-o-u-s-e" to the tune of the Mickey
 Mouse Club theme to express their opinion of the beast (think about the
 original lyrics). 2. Any very {rude} software that a hacker is expected to
 use. "That's as bad as JCL." As with {COBOL}, JCL is often used as an

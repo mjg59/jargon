@@ -2,7 +2,7 @@
 {EMACS}-in-C implementation, predating but now largely eclipsed by {GNUMACS}.
 Originally freeware; a commercial version is now modestly popular as
 `UniPress EMACS'. The author (James Gosling) went on to invent {NeWS}.
-Gosperism: /gos'p@r-iz-m/ A hack, invention, or saying by arch-hacker R.
+Gosperism: /gos'p*r-iz-m/ A hack, invention, or saying by arch-hacker R.
 William (Bill) Gosper. This notion merits its own term because there are so
 many of them. Many of the entries in {HAKMEM} are Gosperisms; see also
 {life}. gotcha: n. A {misfeature} of a system, especially a programming

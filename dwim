@@ -3,23 +3,27 @@ correctly, the result intended when bogus input was provided. 2. n.,obs. The
 BBNLISP/INTERLISP function that attempted to accomplish this feat by
 correcting many of the more common errors. see {hairy}. 3. Occasionally, an
 interjection hurled at a balky computer, esp. when one senses one might be
-tripping over legalisms (see {legalese}). DWIM is often suggested in jest as
-a desired feature for a complex program; also, occasionally described as the
-single instruction the ideal computer would have. Back when proofs of program
-correctness were in vogue, there were also jokes about `DWIMC': Do What I
-Mean, Correctly). A related term, more often seen as a verb, is DTRT (Do The
-Right Thing), see {Right Thing}. dynner: /din'r/ 32 bits, by analogy with
-{nybble} and {{byte}}. Usage: rare and extremely silly. see also {playte},
-{tayste}, {crumb}. = E = ===== earthquake: [IBM] n. The ultimate real-world
-shock test for computer hardware. Hackish sources at IBM deny the rumor that
-the Bay Area quake of 1989 was initiated by the company to test quality
-assurance procedures at its California plants. Easter egg: n. 1. A message
-hidden in the object code of a program as a joke, intended to be found by
-persons disassembling or browsing the code. 2. A message, graphic, or
-sound-effect emitted by a program (or, on a PC, the BIOS ROM) in response to
-some undocumented set of commands or keystrokes, intended as a joke or to
+tripping over legalisms (see {legalese}). Warren Teitelman originally wrote
+DWIM to fix his typos and spelling errors, so it was somewhat idiosyncratic
+to his style, and would often make hash of anyone else's typos if they were
+stylistically different. This led a number of victims of DWIM to claim the
+acronym stood for "Damn Warren's Infernal Machine!" DWIM is often suggested
+in jest as a desired feature for a complex program; also, occasionally
+described as the single instruction the ideal computer would have. Back when
+proofs of program correctness were in vogue, there were also jokes about
+`DWIMC': Do What I Mean, Correctly). A related term, more often seen as a
+verb, is DTRT (Do The Right Thing), see {Right Thing}. dynner: /din'r/ 32
+bits, by analogy with {nybble} and {{byte}}. Usage: rare and extremely silly.
+see also {playte}, {tayste}, {crumb}. = E = ===== earthquake: [IBM] n. The
+ultimate real-world shock test for computer hardware. Hackish sources at IBM
+deny the rumor that the Bay Area quake of 1989 was initiated by the company
+to test quality assurance procedures at its California plants. Easter egg: n.
+1. A message hidden in the object code of a program as a joke, intended to be
+found by persons disassembling or browsing the code. 2. A message, graphic,
+or sound-effect emitted by a program (or, on a PC, the BIOS ROM) in response
+to some undocumented set of commands or keystrokes, intended as a joke or to
 display program credits. One well-known early Easter egg found in a couple of
-OSs caused them to respond to the command `make love' with `not war?'. Many
+OSes caused them to respond to the command `make love' with `not war?'. Many
 personal computers have much more elaborate eggs hidden in ROM, including
 lists of the developers' names, political exhortations, snatches of music,
 and (in one case) graphics images of the entire development team. Easter

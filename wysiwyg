@@ -1,21 +1,17 @@
- WYSIWYG: /wiz'ee-wig/ adj. User interface (usu. text or graphics editor)
-characterized as being "what you see is what you get"; as opposed to one
-which uses more-or-less obscure commands which do not result in immediate
-visual feedback. The term can be mildly derogatory, as it is often used to
-refer to dumbed-down {user-friendly} interfaces targeted at non-programmers,
-while a hacker has no fear of obscure commands. On the other hand, EMACS was
-one of the very first WYSIWYG editors, replacing (actually, at first
-overlaying) the extremely obscure, command-based {TECO}. [Oddly enough, this
-term has already made it into the OED --- ESR] = X = ===== X: /eks/ n. 1.
-Used in various speech and writing contexts in roughly its algebraic sense of
-`unknown within a set defined by context' (compare {N}). Thus: the
+ WYSIWYG: /wiz'ee-wig/ adj. Describes a user interface under which "what you
+see is what you get"; as opposed to one which uses more-or-less obscure
+commands which do not result in immediate visual feedback. The term can be
+mildly derogatory, as it is often used to refer to dumbed-down
+{user-friendly} interfaces targeted at non-programmers, while a hacker has no
+fear of obscure commands. On the other hand, EMACS was one of the very first
+WYSIWYG editors, replacing (actually, at first overlaying) the extremely
+obscure, command-based {TECO}. see also {WIMP environment}. [Oddly enough,
+this term has already made it into the OED --- ESR] = X = ===== X: /eks/ n.
+1. Used in various speech and writing contexts in roughly its algebraic sense
+of `unknown within a set defined by context' (compare {N}). Thus: the
 abbreviation 680x0 stands for 68000, 68010, 68020, 68030, or 68040, and 80x86
 stands for 80186, 80286 80386 or 80486 (note that a UNIX hacker might write
-these as 680[01234]0 and 80[1234]86 or 680?0 and 80?86 respectively; see
+these as 680[0-4]0 and 80[1-4]86 or 680?0 and 80?86 respectively; see
 {glob}). 2. [after the name of an earlier window system called `W'] An
 over-sized, over-featured, over-engineered window system developed at MIT and
-widely used on UNIX systems. xor: /eks'ohr/ conj. Exclusive or. `A xor B'
-means `A or B, but not both'. Example: "I want to get cherry pie xor a banana
-split." This derives from the technical use of the term as a function on
-truth-values that is true if either of two arguments is true, but not both.
-xref: /eks'ref/ vt.,n. Hackish standard abbreviation for `cross-reference'.
+widely used on UNIX systems.

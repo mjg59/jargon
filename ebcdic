@@ -1,4 +1,4 @@
- EBCDIC:: /eb's@'dik/, /eb'see-dik/, or /eb'k@-dik/ [Extended Binary Coded
+ EBCDIC:: /eb's*-dik/, /eb'see`dik/, or /eb'k*-dik/ [Extended Binary Coded
 Decimal Interchange Code] n. An alleged character set used on IBM
 {dinosaur}s. It exists in six mutually incompatible versions, all featuring
 such delights as non-contiguous letter sequences and the absence of several
@@ -22,7 +22,7 @@ of doggerel called `The Last Bug', which ends: He died at the console Of
 hunger and thirst. Next day he was buried, Face down, 9-edge first. The
 eighty-column mind is thought by most hackers to dominate IBM's customer
 base, and its thinking. see {{punched card}}, {IBM}, {fear and loathing},
-{card walloper}. El Camino Bignum: /el' k@-mee'noh big'num/ n. El Camino
+{card walloper}. El Camino Bignum: /el' k*-mee'noh big'num/ n. El Camino
 Real. El Camino Real is the name of a street through the San Francisco
 peninsula that originally extended (and still appears in places) all the way
 down to Mexico City. Navigation on the San Francisco peninsula is usually
@@ -37,22 +37,35 @@ larger floating-point number, precise to perhaps fourteen significant digits
 Stanford in 1976 or so, he remarked what a long road El Camino Real was.
 Making a pun on `real', he started calling it `El Camino Double Precision'
 --- but when the hacker was told that the road was hundreds of miles long, he
-renamed it `El Camino Bignum', and that name has stuck. (see {bignum}.)
-elegant: [from mathematical usage] adj. Combining simplicity, power, and a
-certain ineffable grace of design. Higher praise than `clever', `winning', or
-even {cuspy}. elephantine: adj. Used of programs or systems that are both
-conspicuous {hog}s (due perhaps to poor design founded on {brute force and
-ignorance}) and exceedingly {hairy} in source form. An elephantine program
-may be functional and even friendly, but (like the old joke about being in
-bed with an elephant) it's tough to have around all the same (and, like a
-pachyderm, difficult to maintain). In extreme cases, hackers have been known
-to make trumpeting sounds or perform expressive proboscatory mime at the
-mention of the offending program. Usage: semi-humorous. Compare `has the
-elephant nature' and the somewhat more pejorative {monstrosity}. see also
+renamed it `El Camino Bignum', and that name has stuck. (see {bignum}.) elder
+days: n. The heroic age of hackerdom (roughly, pre-1980); the era of the
+{PDP-10}, {TECO}, {ITS}, and the ARPANET. This term has been rather
+consciously adopted from J. R. R. Tolkien's fantasy epic `The Lord of the
+Rings'. Compare {Iron Age}; see also {elvish}. elegant: [from mathematical
+usage] adj. Combining simplicity, power, and a certain ineffable grace of
+design. Higher praise than `clever', `winning', or even {cuspy}. elephantine:
+adj. Used of programs or systems that are both conspicuous {hog}s (due
+perhaps to poor design founded on {brute force and ignorance}) and
+exceedingly {hairy} in source form. An elephantine program may be functional
+and even friendly, but (like the old joke about being in bed with an
+elephant) it's tough to have around all the same (and, like a pachyderm,
+difficult to maintain). In extreme cases, hackers have been known to make
+trumpeting sounds or perform expressive proboscatory mime at the mention of
+the offending program. Usage: semi-humorous. Compare `has the elephant
+nature' and the somewhat more pejorative {monstrosity}. see also
 {second-system effect} and {baroque}. elevator controller: n. Another
-archetypal dumb embedded-systems application, like {toaster}. During the
-deliberations of ANSI X3J11, the C standardization committee, this was the
-canonical example of its type. "You can't require `printf(3)' to be part of
-the default runtime library --- what if you're targeting an elevator
-controller?" Elevator controllers became important rhetorical weapons on both
-sides of several {holy wars}.
+archetypal dumb embedded-systems application, like {toaster} (which
+superseded it). During one period (1983--84) in the deliberations of ANSI
+X3J11, the C standardization committee, this was the canonical example of its
+type. "You can't require `printf(3)' to be part of the default runtime
+library --- what if you're targeting an elevator controller?" Elevator
+controllers became important rhetorical weapons on both sides of several
+{holy wars}. elvish: n. 1. The Tengwar of Feanor, a table of letterforms
+resembling the beautiful Celtic half-uncial hand of the {Book of Kells}.
+These were invented and described by J. R. R. Tolkien in `The Lord of The
+Rings' as an orthography for his fictional `elvish' languages. This system,
+which is both visually and phonetically elegant, has long fascinated hackers
+(who tend to be interested by artificial languages in general). It is
+traditional for graphics printers, plotters, window systems, and the like to
+support a Feanorian font as one of their demo items. 2. By extension, any odd
+or unreadable font produced by a graphics device.

@@ -1,48 +1,59 @@
  PPN: /pip'n/ [from `Project-Programmer Number'] n. A user-ID under {TOPS-10}
 and its various mutant progeny at SAIL, BBN, CompuServe, and elsewhere.
 Old-time hackers from the PDP-10 era sometimes use this to refer to user IDs
-on other systems as well. precedence lossage: /pre's@-dens los'j/ [C
+on other systems as well. precedence lossage: /pre's*-dens los'j/ [C
 programmers] n. Coding error in an expression due to unexpected grouping of
 arithmetic or logical operators by the compiler. Used esp. of certain common
 coding errors in C due to the nonintuitively low precedence levels of `&',
-`|', `^', `<<', and `>>'. Can always be avoided by suitable use of
+`|', `^', `<<', and `>>' (for this reason, experienced C programmers
+deliberately forget the language's {baroque} precedence hierarchy and
+parenthesize defensively). Can always be avoided by suitable use of
 parentheses. {LISP} fans enjoy pointing out that this can't happen in *their*
-favorite language, which requires one to use explicit parentheses everywhere.
-see {aliasing bug}, {memory leak}, {smash the stack}, {fandango on core},
-{overrun screw}. prepend: /pree`pend'/ [by analogy with `append'] vt. To
-prefix. Like `append', but unlike `prefix' or `suffix' as a verb, the direct
-object is always the thing being added and not the original word (character
-string, etc). No, this is *not* standard English, yet! pretty pictures: n.
-[scientific computation] The next step up from {numbers}. Interesting
-graphical output from a program which may not have any real relationship to
-the reality the program is intended to model. Good for showing to
-{management}. prettyprint: /prit'ee-print/ v. 1. To generate `pretty'
-human-readable output from a {hairy} internal representation; esp. used for
-the process of {grind}ing (sense #2) LISP code. 2. To format in some
-particularly slick and nontrivial way. prime time: [from TV programming] n.
-Normal high-usage hours on a timesharing system; the day shift. Avoidance of
-prime time is a major reason for {night mode} hacking. priority interrupt:
-[from the hardware term] n. Describes any stimulus compelling enough to yank
-one right out of {hack mode}. Classically used to describe being dragged away
-by an {SO} for immediate sex, but may also refer to more mundane
-interruptions such as a fire alarm going off in the near vicinity. Also
-called an {NMI} (non-maskable interrupt), especially in PC-land. profile:
-[UNIX] n. 1. A control file for a program, esp. a text file automatically
-read from each user's home directory and intended to be easily modified by
-the user in order to customize the program's behavior. Used to avoid
-{hardcoded} choices. 2. A report on the amounts of time spent in each routine
-of a program, used to find and {tune} away the {hot spot}s in it. This sense
-is often verbed. Some profiling modes report units other than time (such as
-call counts) at granularities other than per-routine, but the idea is
-similar. program: 1. n. A magic spell cast over a computer allowing it to
-turn one's input into error messages. 2. n. An exercise in experimental
-epistemology. 3. vt. To engage in a pastime similar to banging one's head
-against a wall, but with fewer opportunities for reward. Programmer's Cheer:
-"Shift to the left! Shift to the right! Pop up, push down! Byte! Byte! Byte!"
-A joke so old it has hair on it.... programming: n. In folklore, this was
-classically defined as "the art of debugging a blank sheet of paper".
-Following the rise of on-line editing this should probably be recast as "The
-art of debugging an empty source file". propeller head: n. Used by hackers,
+favorite language, which eschews precedence entirely, requiring one to use
+explicit parentheses everywhere. see {aliasing bug}, {memory leak}, {smash
+the stack}, {fandango on core}, {overrun screw}. prepend: /pree`pend'/ [by
+analogy with `append'] vt. To prefix. Like `append', but (unlike `prefix' or
+`suffix' as a verb) the direct object is always the thing being added and not
+the original word (character string, etc). No, this is *not* standard
+English, yet! pretty pictures: n. [scientific computation] The next step up
+from {numbers}. Interesting graphical output from a program which may not
+have any sensible relationship to the system the program is intended to
+model. Good for showing to {management}. prettyprint: /prit'ee-print/ (alt.
+`pretty-print') v. 1. To generate `pretty' human-readable output from a
+{hairy} internal representation; esp. used for the process of {grind}ing
+(sense #2) LISP code. 2. To format in some particularly slick and nontrivial
+way. prime time: [from TV programming] n. Normal high-usage hours on a
+timesharing system; the day shift. Avoidance of prime time is a major reason
+for {night mode} hacking. priority interrupt: [from the hardware term] n.
+Describes any stimulus compelling enough to yank one right out of {hack
+mode}. Classically used to describe being dragged away by an {SO} for
+immediate sex, but may also refer to more mundane interruptions such as a
+fire alarm going off in the near vicinity. Also called an {NMI} (non-maskable
+interrupt), especially in PC-land. profile: [UNIX] n. 1. A control file for a
+program, esp. a text file automatically read from each user's home directory
+and intended to be easily modified by the user in order to customize the
+program's behavior. Used to avoid {hardcoded} choices. 2. [techspeak] A
+report on the amounts of time spent in each routine of a program, used to
+find and {tune} away the {hot spot}s in it. This sense is often verbed. Some
+profiling modes report units other than time (such as call counts) and/or at
+granularities other than per-routine, but the idea is similar. proglet:
+[Britain] n. A short extempore program written to meet an immediate,
+transient need. Often written in BASIC, rarely more than a dozen lines long,
+and contains no subroutines. The largest amount of code that can be written
+off the top of one's head that does not need any editing and that runs
+correctly the first time. Compare {toy program}, {one-liner wars}. program:
+n. 1. A magic spell cast over a computer allowing it to turn one's input into
+error messages. 2. An exercise in experimental epistemology. 3. A form of
+art, ostensibly intended for the instruction of computers, which is
+nevertheless almost inevitably a failure if other programmers can't
+understand it. Programmer's Cheer: "Shift to the left! Shift to the right!
+Pop up, push down! Byte! Byte! Byte!" A joke so old it has hair on it....
+programming: n. 1. In folklore, this was classically defined as "the art of
+debugging a blank sheet of paper". Following the rise of on-line editing this
+should probably be recast as "The art of debugging an empty source file." 2.
+n. A pastime similar to banging one's head against a wall, but with fewer
+opportunities for reward. 3. n. The most fun you can have with your clothes
+on (although clothes are not mandatory). propeller head: n. Used by hackers,
 this is syn. with {computer geek}. Non-hackers sometimes use it to describe
 all techies. Prob. derives from SF fandom's tradition (originally invented by
 old-time fan Ray Faraday Nelson) of propeller beanies as fannish insignia
@@ -58,8 +69,8 @@ this never refers to niceties about the proper form for addressing letters to
 the Papal Nuncio or the order in which one should use the forks in a
 Russian-style place setting; hackers don't care about such things. It is used
 instead to describe any set of rules that allow different machines or pieces
-of software to coordinate with each other without ambiguity; for example, it
-does include niceties about the proper form for addressing packets on a
+of software to coordinate with each other without ambiguity. So for example,
+it does include niceties about the proper form for addressing packets on a
 network or the order in which one should use the forks in the Dining
 Philosophers Problem. It implies that there's some common message format and
 accepted set of primitives or commands that all parties involved understand,
@@ -70,8 +81,8 @@ regularly scheduled intervals to insure that the system remains in a usable
 state. So called because its all too frequently performed by a {field
 servoid} who doesn't know what he is doing; this results in the machine
 remaining in an *un*usable state for an indeterminate amount of time.
-prowler: [UNIX] n. A {demon} that is run periodically (typically once a week)
-to seek out and erase core files (see {core}), truncate administrative
+prowler: [UNIX] n. A {daemon} that is run periodically (typically once a
+week) to seek out and erase core files (see {core}), truncate administrative
 logfiles, nuke `lost+found' directories, and otherwise clean up the {cruft}
 that tends to pile up in the corners of a file system. see also {GFR},
 {reaper}, {skulker}. pseudo: /soo'doh/ [USENET] n. 1. An electronic-mail or
@@ -87,24 +98,28 @@ phrase-frequency-based travesty generator to simulate the styles of several
 well-known flamers based on large samples of their back postings (compare
 {Dissociated Press}). A significant number of people were fooled by these,
 and the debate over their authenticity was only settled when the perpetrator
-of the hoax came publicly forward to admit the deed. pseudoprime: n. A
+of the hoax came forward to publicly admit the deed. pseudoprime: n. A
 backgammon prime (six consecutive occupied points) with one point missing.
 This term is an esoteric pun derived from a mathematical method which, rather
 than determining precisely whether a number is prime (has no divisors), uses
-a statistical technique to decide whether the number is "probably" prime. A
+a statistical technique to decide whether the number is `probably' prime. A
 number that passes this test is called a pseudoprime. The hacker backgammon
 usage stems from the idea that a pseudoprime is almost as good as a prime: it
 does the job of a prime until proven otherwise, and that probably won't
 happen. pseudosuit: n. A {suit} wannabee; a hacker who's decided that he
 wants to be in management or administration and begins wearing ties, sport
-coats, and (shudder!) suits voluntarily. His funeral.... psychedelicware:
-/sie`k@-del'-ik-weir/ [Great Britain] n. Syn. {display hack}. see also
-{smoking clover}. pubic directory: [NYU] n. The `pub' (public) directory on a
-machine that allows {FTP} access; the top-level directory owned by ftp. So
-called because it is the default location for {SEX} (sense #1). puff: vt. To
-decompress data that has been crunched by Huffman coding. At least one widely
-distributed Huffman decoder program was actually *named* `PUFF', but these
-days it isn't usually separate from the encoder. Oppose {huff}. punched
+coats, and (shudder!) suits voluntarily. It's his funeral.... see also
+{lobotomy}. psychedelicware: /sie`k*-del'-ik-weir/ [Great Britain] n. Syn.
+{display hack}. see also {smoking clover}. psyton: [TMRC] n. Elementary
+particle carrying the sinister force. The probability of a process losing is
+proportional to the number of psytons falling on it. [This term appears to
+have been largely superseded by {bogon} -- ESR] pubic directory: [NYU] (also
+`pube directory' /pyoob/) n. The `pub' (public) directory on a machine that
+allows {FTP} access. So called because it is the default location for {SEX}
+(sense #1). "I'll have the source in the /pyoob/ directory by Friday." puff:
+vt. To decompress data that has been crunched by Huffman coding. At least one
+widely distributed Huffman decoder program was actually *named* `PUFF', but
+these days it is usually packaged with the encoder. Oppose {huff}. punched
 card:: alt. `punch card' [techspeak] n.obs. The signature medium of
 computing's {Stone Age}, now obsolescent outside of some IBM shops. The
 punched card actually predated computers considerably, originating as a
@@ -122,80 +137,126 @@ reference cards distributed with many varieties of computers even today. see
 card}, {card walloper}. punt: [from the punch line of an old joke referring
 to American football: "Drop back 15 yards and punt"] vt. 1. To give up,
 typically without any intention of retrying. "Let's punt the movie tonight."
-"I was going to hack all night to get this feature in, but I decided to punt"
-may mean that you've decided not to stay up all night, and may also mean
-you're not ever even going to put in the feature. 2. More specifically, to
-give up on figuring out what the {Right Thing} is and resort to an
-inefficient hack. Purple Book: n. The `System V Interface Definition'. The
-covers of the first editions were an amazingly nauseating shade of
-off-lavender. see also {{book titles}}. push: [based on the stack operation
-that puts the current information on a stack, and the fact that procedure
-return addresses are saved on the stack] Also PUSH or PUSHJ /push-jay/, based
-on the PDP-10 procedure call instruction. 1. To put something onto a {stack}
-or {pdl}. If a person says something has been pushed onto his stack, he means
-yet another thing has been added to the list of things hanging over his head
-for him to do. This may also imply that he will deal with it *before* other
-pending items; otherwise he might have said the thing was "added to his
-queue". 2. vi. To enter upon a digression, to save the current discussion for
-later. Antonym of {pop}; see also {stack}, {pdl}. = Q = ===== quad: n. 1. Two
-bits; syn. for {quarter}, {crumb}, {tayste}. 2. A four-pack of anything
-(compare {hex}, sense #2). 3. The rectangle or box glyph used in the APL
-language for various arcane purposes mostly related to I/O. Ex-Ivy-Leaguers
-and Oxbridge types are said to associate it with nostalgic memories of dear
-old University. quadruple bucky: n., obs. 1. On an MIT {space-cadet
-keyboard}, use of all four of the shifting keys control, meta, hyper, and
-super while typing a character key. 2. On a Stanford or MIT keyboard in {raw
-mode}, use of four shift keys while typing a fifth character, where the four
-shift keys are the control and meta keys on *both* sides of the keyboard.
-This was very difficult to do! One accepted technique was to press the
-left-control and left-meta keys with your left hand, the right-control and
-right-meta keys with your right hand, and the fifth key with your nose.
-Quadruple-bucky combinations were very seldom used in practice, because when
-one invented a new command one usually assigned it to some character that was
-easier to type. If you want to imply that a program has ridiculously many
-commands or features, you can say something like "Oh, the command that makes
-it spin the tapes while whistling Beethoven's 5th Symphony is
-quadruple-bucky-cokebottle". see {double bucky}, {bucky bits}, {cokebottle}.
-quantum bogodynamics: /kwon'tm boh`goh-die-nam'iks/ n. A theory that
-characterizes the universe in terms of bogon sources (such as politicians,
-used-car salesmen, TV evangelists, and {suit}s in general), bogon sinks (such
-as taxpayers and computers), and bogosity potential fields. Bogon absorption,
-of course, causes human beings to behave mindlessly and machines to fail (and
-may cause them to emit secondary bogons as well); however, the precise
-mechanics of the bogon-computron interaction are not yet understood and
-remain to be elucidated. Quantum bogodynamics is most frequently invoked to
-explain the sharp increase in hardware and software failures in the presence
-of suits; the latter emit bogons which the former absorb. see {bogon},
-{computron}, {suit}. quarter: n. Two bits; syn. {tayste}, {crumb}, {quad}.
-The term comes from the `pieces of eight' famed in pirate movies --- Spanish
-gold pieces that could be broken into eight pie-slice-shaped `bits' to make
-change. Early in the U.S.'s history the coin was considered equal to a
-dollar, so each of these `bits' was considered worth 12.5 cents. Usage: rare.
-see also {nickle}, {nybble}, {{byte}}, {dynner}. ques: /kwess/ 1. n. The
-question mark character (`?', ASCII #b0111111). 2. interj. What? Also
-frequently verb-doubled as "Ques ques?" see {wall}. quick and dirty: adj.
-Describes a {crock} put together under time or user pressure. Used esp. when
-you want to convey that you think the fast way might lead to trouble further
-down the road. "I can have a quick-and-dirty fix in place tonight, but I'll
-have to rewrite the whole module to solve the underlying design problem." see
-also {kluge}. quux: /kwuhks/ Mythically, from the Latin semi-deponent verb
-quuxo, quuxare, quuxandum iri; noun form variously `quux' (plural `quuces',
-anglicized to `quuxes') and `quuxu' (genitive plural is `quuxuum', for four
-u-letters out of seven total, using up all the `u' letters in Scrabble in one
-swell foop).] 1. Originally, a meta-word like {foo} and {foobar}. Invented by
-Guy Steele for precisely this purpose when he was young and naive and not yet
-interacting with the real computing community. Many people invent such words;
-this one seems simply to have been lucky enough to have spread a little. In
-an eloquent display of poetic justice, it has returned to the originator in
-the form of a nickname, as punishment for inventing the bletcherous word in
-the first place. 2. interj. see {foo}; however, denotes very little disgust,
-and is uttered mostly for the sake of the sound of it. 3. Guy Steele in his
-persona as `The Great Quux', which is somewhat infamous for light verse and
-for the `Crunchly' cartoons. 4. In some circles, quux is used as a punning
-opposite of `crux'. "Ah, that's the quux of the matter!" implies that the
-point is *not* crucial (compare {tip of the ice-cube}). 5. quuxy: adj. Of or
-pertaining to a quux. qux: /kwuhks/ The fourth of the standard metasyntactic
-variables, after {baz} and before the quuu*x series. see {foo}, {bar}, {baz},
-{quux}. Note that this appears to be a recent mutation from {quux}, and that
-many versions of the standard series just run {foo}, {bar}, {baz}, {quux},
-....
+"I was going to hack all night to get this feature in, but I decided to
+punt." may mean that you've decided not to stay up all night, and may also
+mean you're not ever even going to put in the feature. 2. More specifically,
+to give up on figuring out what the {Right Thing} is and resort to an
+inefficient hack. 3. A design decision to defer solving a problem, typically
+because one cannot define what is desirable sufficiently well to frame an
+algorithmic solution. "No way to know what the right form to to dump the
+graph in is --- we'll punt that for now." 4. To hand a tricky implementation
+problem off to some other section of the design. "It's too hard to get the
+compiler to do that; let's punt to the runtime system." Purple Book: n. The
+`System V Interface Definition'. The covers of the first editions were an
+amazingly nauseating shade of off-lavender. see also {{book titles}}. push:
+[from the operation that puts the current information on a stack, and the
+fact that procedure return addresses are saved on the stack] Also PUSH or
+PUSHJ /push-jay/ (the latter based on the PDP-10 procedure call instruction).
+1. To put something onto a {stack} or {pdl}. If a person says something has
+been pushed onto his stack, it means the Damoclean list lof things hanging
+over his head has grown longer and heavier yet. This may also imply that he
+will deal with it *before* other pending items; otherwise he might say the
+thing was "added to his queue". 2. vi. To enter upon a digression, to save
+the current discussion for later. Antonym of {pop}; see also {stack}, {pdl}.
+= Q = ===== quad: n. 1. Two bits; syn. for {quarter}, {crumb}, {tayste}. 2. A
+four-pack of anything (compare {hex}, sense #2). 3. The rectangle or box
+glyph used in the APL language for various arcane purposes mostly related to
+I/O. Ex-Ivy-Leaguers and Oxbridge types are said to associate it with
+nostalgic memories of dear old University. quadruple bucky: n., obs. 1. On an
+MIT {space-cadet keyboard}, use of all four of the shifting keys control,
+meta, hyper, and super while typing a character key. 2. On a Stanford or MIT
+keyboard in {raw mode}, use of four shift keys while typing a fifth
+character, where the four shift keys are the control and meta keys on *both*
+sides of the keyboard. This was very difficult to do! One accepted technique
+was to press the left-control and left-meta keys with your left hand, the
+right-control and right-meta keys with your right hand, and the fifth key
+with your nose. Quadruple-bucky combinations were very seldom used in
+practice, because when one invented a new command one usually assigned it to
+some character that was easier to type. If you want to imply that a program
+has ridiculously many commands or features, you can say something like "Oh,
+the command that makes it spin the tapes while whistling Beethoven's 5th
+Symphony is quadruple-bucky-cokebottle." see {double bucky}, {bucky bits},
+{cokebottle}. quantifiers:: n. In techspeak and jargon, the standard metric
+prefixes used in scientific measurement have dual uses. With units of time or
+things that come in powers of 10, such as money, they retain their usual
+meanings of multiplication by powers of `1000 = 10 ^ 3'. But when used with
+bytes or other things that naturally come in powers of 2, they usually denote
+multiplication by powers of `1024 = 2 ^ 10'. Here are the magnifying prefixes
+in jargon use: prefix decimal binary kilo- 1000^1 1024^1 = 2^10 = 1,024 mega-
+1000^2 1024^2 = 2^20 = 1,048,576 giga- 1000^3 1024^3 = 2^30 = 1,073,741,824
+tera- 1000^4 1024^4 = 2^40 = 1,099,511,627,776 peta- 1000^5 1024^5 = 2^50 =
+1,125,899,906,842,624 exa- 1000^6 1024^6 = 2^60 = 1,152,921,504,606,846,976
+Here are the fractional prefixes: {prefix decimal jargon usage} milli-
+1000^-1 (not used in jargon) micro- 1000^-2 small or human-scale (see
+{micro-}) nano- 1000^-3 even smaller (see {nano-}) pico- 1000^-4 even smaller
+yet (see {pico-}) femto- 1000^-5 (not used in jargon -- yet) femto- 1000^-6
+(not used in jargon -- yet) The binary peta- and exa- loadings are not yet in
+common use, and the prefix milli- denoting multiplication by `1000^-1' has
+always been rare. see the entries on {micro-}, {pico-}, and {nano-} for more
+information on connotative jargon use of these terms. The remaining standard
+quantifiers are `femto' (`10 ^ -15') and `atto' (`10 ^ -18'); these,
+interestingly, derive not from Greek but from Danish. They have not yet
+acquired jargon loadings, though it is easy to predict what those will be
+once computing technology enters the required realms of magnitude (however,
+see {attoparsec}). There are, of course, some standard unit prefixes for
+powers of ten. In the following table, the `decimal prefix' column is the
+international standard suffix for the appropriate power of ten; the second
+column lists jargon abbreviations and words for the corresponding power of 2.
+The B-suffixed forms are commonly used for byte quantities; the words `meg'
+and `gig' are nouns which may (but do not always) pluralize with `s'. prefix
+decimal binary suffixes & words pronunciation kilo- k K, KB, /kay/ mega- M M,
+MB, meg /meg/ giga- G G, GB, gig /gig/,/jig/ Confusingly, hackers often use K
+as though it were a suffix or numeric multiplier rather than a prefix; thus
+"2K dollars". K, M, and G used alone refer to quantities of bytes; thus, 64G
+is 64 gigabytes and `a K' is a kilobyte (compare mainstream use of `a G' as
+short for `a grand', that is $1000). Whether one pronounces `gig' with hard
+or soft `g' depends on what one thinks the proper pronunciation of `giga-'
+is. Confusion of 1000 and 1024 (or other powers of 2 and 10 close in
+magnitude), for example, describing memory in units of 500K or 524K instead
+of 512K, is a sure sign of the {marketroid}. quantum bogodynamics: /kwon'tm
+boh`goh-die-nam'iks/ n. A theory that characterizes the universe in terms of
+bogon sources (such as politicians, used-car salesmen, TV evangelists, and
+{suit}s in general), bogon sinks (such as taxpayers and computers), and
+bogosity potential fields. Bogon absorption, of course, causes human beings
+to behave mindlessly and machines to fail (and may also cause them to emit
+secondary bogons); however, the precise mechanics of the bogon-computron
+interaction are not yet understood and remain to be elucidated. Quantum
+bogodynamics is most frequently invoked to explain the sharp increase in
+hardware and software failures in the presence of suits; the latter emit
+bogons which the former absorb. see {bogon}, {computron}, {suit}. quarter: n.
+Two bits. This in turn comes from the `pieces of eight' famed in pirate
+movies --- Spanish gold pieces that could be broken into eight
+pie-slice-shaped `bits' to make change. Early in the U.S.'s history the coin
+was considered equal to a dollar, so each of these `bits' was considered
+worth 12.5 cents. Syn. {tayste}, {crumb}, {quad}. Usage: rare. see also
+{nickle}, {nybble}, {{byte}}, {dynner}. ques: /kwess/ 1. n. The question mark
+character (`?', ASCII #b0111111). 2. interj. What? Also frequently
+verb-doubled as "Ques ques?" see {wall}. quick and dirty: adj. Describes a
+{crock} put together under time or user pressure. Used esp. when you want to
+convey that you think the fast way might lead to trouble further down the
+road. "I can have a quick-and-dirty fix in place tonight, but I'll have to
+rewrite the whole module to solve the underlying design problem." see also
+{kluge}. quote chapter and verse: [by analogy with the mainstream phrase] v.
+To reproduce a relevant excerpt from an appropriate {bible}. "I don't care if
+rn gets it wrong; `Followup-To: poster' is explicitly permitted by RFC1036.
+I'll quote chapter and verse if you don't believe me." quux: /kwuhks/
+Mythically, from the Latin semi-deponent verb quuxo, quuxare, quuxandum iri;
+noun form variously `quux' (plural `quuces', anglicized to `quuxes') and
+`quuxu' (genitive plural is `quuxuum', for four u-letters out of seven total,
+using up all the `u' letters in Scrabble in one swell foop).] 1. Originally,
+a metasyntactic variable like {foo} and {foobar}. Invented by Guy Steele for
+precisely this purpose when he was young and naive and not yet interacting
+with the real computing community. Many people invent such words; this one
+seems simply to have been lucky enough to have spread a little. In an
+eloquent display of poetic justice, it has returned to the originator in the
+form of a nickname. 2. interj. see {foo}; however, denotes very little
+disgust, and is uttered mostly for the sake of the sound of it. 3. Guy Steele
+in his persona as `The Great Quux', which is somewhat infamous for light
+verse and for the `Crunchly' cartoons. 4. In some circles, quux is used as a
+punning opposite of `crux'. "Ah, that's the quux of the matter!" implies that
+the point is *not* crucial (compare {tip of the ice-cube}). 5. quuxy: adj. Of
+or pertaining to a quux. qux: /kwuhks/ The fourth of the standard
+metasyntactic variables, after {baz} and before the quu(u...)x series. see
+{foo}, {bar}, {baz}, {quux}. Note that this appears to be a recent mutation
+from {quux}, and that many versions of the standard series just run {foo},
+{bar}, {baz}, {quux}, ....

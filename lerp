@@ -15,7 +15,7 @@ the breakfast cereal, or the human state of existence. 2. The opposite of
 {USENET}. As in {Get a life!}. light pipe: n. Fiber optic cable. Oppose
 {copper}. like kicking dead whales down the beach: adj. A slow, difficult,
 and disgusting process. First popularized by a famous quote about the
-difficulty of getting work done under one of IBM's mainframe OSs. "Well, you
+difficulty of getting work done under one of IBM's mainframe OSes. "Well, you
 *could* write a C compiler in COBOL, but it would be like kicking dead whales
 down the beach." see also {fear and loathing} like nailing jelly to a tree:
 adj. Used to describe a task thought to be impossible, esp. one in which the
@@ -49,20 +49,21 @@ is maintaining several nearly identical copies of the same source tree, e.g.
 when the only difference is architecture-dependent object files. Example use:
 "Let's freeze the source and then rebuild the FROBOZZ-3 and FROBOZZ-4 link
 farms." Link farms may also be used to get around restrictions on the number
-of -I (include directory) arguments on older C preprocessors. lint: [from
-UNIX's `lint(1)', named perhaps for the bits of fluff it picks from programs]
-1. vt. To examine a program closely for style, language usage, and
-portability problems, esp. if in C, esp. if via use of automated analysis
-tools, most esp. if the UNIX utility `lint(1)' is used. This term used to be
-restricted to use of `lint(1)' itself but (judging by references on USENET)
-has become a shorthand for {desk check} at some non-UNIX shops, even in
-languages other than C. see also {delint}. 2. n. Excess verbiage in a
-document, as in "this draft has too much lint". lion food: [IBM] n. Middle
-management or HQ staff (by extension, administrative drones in general). From
-an old joke about two lions who, escaping from the zoo, split up to increase
-their chances but agreed to meet after two months. When they finally meet,
-one is skinny and the other overweight. The thin one says "How did you
-manage? I ate a human just once and they turned out a small army to chase me
---- guns, nets, it was terrible. Since then I've been reduced to eating mice,
-insects, even grass." The fat one replies "Well, *I* hid near an IBM office
-and ate a manager a day. And nobody even noticed!"
+of -I (include directory) arguments on older C preprocessors. link-dead:
+[MUD] adj. Said of a {MUD} character who has frozen in place due to a dropped
+Internet connection. lint: [from UNIX's `lint(1)', named perhaps for the bits
+of fluff it picks from programs] 1. vt. To examine a program closely for
+style, language usage, and portability problems, esp. if in C, esp. if via
+use of automated analysis tools, most esp. if the UNIX utility `lint(1)' is
+used. This term used to be restricted to use of `lint(1)' itself but (judging
+by references on USENET) has become a shorthand for {desk check} at some
+non-UNIX shops, even in languages other than C. see also {delint}. 2. n.
+Excess verbiage in a document, as in "this draft has too much lint". lion
+food: [IBM] n. Middle management or HQ staff (by extension, administrative
+drones in general). From an old joke about two lions who, escaping from the
+zoo, split up to increase their chances but agreed to meet after two months.
+When they finally meet, one is skinny and the other overweight. The thin one
+says "How did you manage? I ate a human just once and they turned out a small
+army to chase me --- guns, nets, it was terrible. Since then I've been
+reduced to eating mice, insects, even grass." The fat one replies "Well, *I*
+hid near an IBM office and ate a manager a day. And nobody even noticed!"

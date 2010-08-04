@@ -6,7 +6,14 @@ of DRECNET in a way that made it incompatible. see also {connector
 conspiracy}. driver: n. 1. The {main loop} of an event-processing program;
 the code that gets commands and dispatches them for execution. 2. In `device
 driver', code designed to handle a particular peripheral device such as a
-magnetic disk or tape. drool-proof paper: n. Documentation that has been
+magnetic disk or tape. droid: n. A person (esp. a low-level bureaucrat or
+service-business employee) exhibiting most of the following characteristics:
+(a) Naive trust in the wisdom of the parent organization or `the system'; (b)
+A propensity to believe obvious nonsense emitted by authority figures; blind
+faith; (c) A rule-governed mentality, one unwilling or unable to look beyond
+the `letter of the law' in exceptional situations; (d) No interest in fixing
+that which is broken; an "It's not my job, man" attitude. Compare {suit},
+{marketroid}; see {-oid}. drool-proof paper: n. Documentation that has been
 obsessively dumbed down, to the point where only a {cretin} could bear to
 read it, is said to have succumbed to the `drool-proof paper syndrome' or to
 have been `written on drool-proof paper'. For example, this is an actual
@@ -33,22 +40,28 @@ pointing device of some computers. The typical symptom is for the mouse
 cursor on the screen to move to random directions and not in sync with the
 moving of the actual mouse. Can usually be corrected by unplugging the mouse
 and plugging it back again. Another recommended fix is to rotate your optical
-mouse pad 90 degrees. dumbass attack: /duhm'ass @-tak'/ [Purdue] n. Notional
-cause of a novice's mistake made by the experienced, especially one made
-while running as root under UNIX, e.g. typing `rm -r *' or `mkfs' on a
-mounted file system. Compare {adger}. dump: n. 1. An undigested and
-voluminous mass of information about a problem or the state of a system,
-especially one routed to the slowest available output device (compare {core
-dump}), and most especially one consisting or hex and octal {runes}
-describing the byte-by-byte state of memory, mass storage, or some file. In
-elder days, debugging was generally done by `grovelling over a dump' (see
-{grovel}); increasing use of high-level languages and interactive debuggers
-has made this uncommon, and the term `dump' now has a faintly archaic flavor.
-2. A backup. This usage is typical only at large timesharing installations.
-dup killer: /d[y]oop killer/ [FidoNet] n. Software which is supposed to
-detect and delete duplicates of a message which may have reached the FidoNet
-system via different routes. dup loop: /d[y]oop loop/ (also `dupe loop')
-[FidoNet] n. An incorrectly configured system or network gateway may
+mouse pad 90 degrees. At Xerox PARC in the 1970s, most people kept a can of
+copier cleaner (isopropyl alcohol) at their desks. When the steel ball on the
+mouse had picked up enough cruft to be unreliable, the mouse was doused in
+cleaner, which restored it for a while. However, this operation left a fine
+residue which accelerated the accumulation of cruft, so the dousings became
+more and more frequent. Finally, the mouse was declared "alcoholic" and sent
+to the clinic to be dried out (in a CFC ultrasonic bath). dumbass attack:
+/duhm'ass *-tak'/ [Purdue] n. Notional cause of a novice's mistake made by
+the experienced, especially one made while running as root under UNIX, e.g.
+typing `rm -r *' or `mkfs' on a mounted file system. Compare {adger}. dump:
+n. 1. An undigested and voluminous mass of information about a problem or the
+state of a system, especially one routed to the slowest available output
+device (compare {core dump}), and most especially one consisting or hex and
+octal {runes} describing the byte-by-byte state of memory, mass storage, or
+some file. In elder days, debugging was generally done by `grovelling over a
+dump' (see {grovel}); increasing use of high-level languages and interactive
+debuggers has made this uncommon, and the term `dump' now has a faintly
+archaic flavor. 2. A backup. This usage is typical only at large timesharing
+installations. dup killer: /d[y]oop killer/ [FidoNet] n. Software which is
+supposed to detect and delete duplicates of a message which may have reached
+the FidoNet system via different routes. dup loop: /d[y]oop loop/ (also `dupe
+loop') [FidoNet] n. An incorrectly configured system or network gateway may
 propagate duplicate messages on one or more {echo}s, with different
 identification information that renders {dup killer}s ineffective. If such a
 duplicate message eventually reaches a system which it has already passed

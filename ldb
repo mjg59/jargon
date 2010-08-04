@@ -17,10 +17,11 @@ software. (A long-ago {Datamation} article by Jackson Granholme said: "An
 ill-assorted collection of poorly matching parts, forming a distressing
 whole.") 2. n. A clever programming trick intended to solve a particular
 nasty case in an expedient, if not clear, manner. Often used to repair bugs.
-Often involves {ad-hockery} and verges on being a {crock}. 3. n. Something
-that works for the wrong reason. 4. vt. To insert a kluge into a program.
-"I've kluged this routine to get around that weird bug, but there's probably
-a better way." 5. [WPI] n. A feature that is implemented in a {rude} manner.
+Often involves {ad-hockery} and verges on being a {crock}. In fact, the TMRC
+dictionary defined `kludge' as "a crock that works'. 3. n. Something that
+works for the wrong reason. 4. vt. To insert a kluge into a program. "I've
+kluged this routine to get around that weird bug, but there's probably a
+better way." 5. [WPI] n. A feature that is implemented in a {rude} manner.
 kluge around: vt. To avoid a bug or difficult condition by inserting a
 {kluge}. Compare {workaround}. kluge up: vt. To lash together a quick hack to
 perform a task; this is milder than {cruft together} and has some of the
@@ -32,9 +33,9 @@ refers to a mathematical formalism invented by Alonzo Church with which LISP
 is intimately connected). There is no enrollment list and the criteria for
 induction are unclear, but one well-known LISPer has been known to give out
 buttons and, in general, the *members* know who they are.... Knuth: [Donald
-Knuth's `The Art of Computer Programming'] n. Mythically, the reference that
-answers all questions about data structures or algorithms. A safe answer when
-you do not know, as in "I think you can find that in Knuth." Contrast
+E. Knuth's `The Art of Computer Programming'] n. Mythically, the reference
+that answers all questions about data structures or algorithms. A safe answer
+when you do not know, as in "I think you can find that in Knuth." Contrast
 {literature, the}. see also {bible}. kremvax: /krem-vaks/ [from the then
 large number of {USENET} {VAXen} with names of the form `foovax'] n. A
 fictitious USENET site at the Kremlin, announced on April 1, 1984, in a
@@ -101,7 +102,7 @@ have redesignated the common dish `lemon chicken' as `Chernobyl Chicken'. The
 name is derived from the color of the sauce, which is considered bright
 enough to glow in the dark (mythically, like some of the inhabitants of
 Chernobyl). laundromat: n. Syn. {disk farm}; see {washing machine}. LDB:
-/l@'d@b/ [from the PDP-10 instruction set] vt. To extract from the middle.
+/l*'d*b/ [from the PDP-10 instruction set] vt. To extract from the middle.
 "LDB me a slice of cake, please" This usage has been kept alive by Common
 LISP's function of the same name. see also {DPB}. leaf site: n. A machine
 that merely originates and reads USENET news or mail, and does not relay any

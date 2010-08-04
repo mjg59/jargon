@@ -27,13 +27,13 @@ cultural attachments as objective technical evaluations. see also {theology}.
 home box: n. A hacker's personal machine, especially one he or she owns.
 "Yeah? Well, *my* home box runs a full 4.2BSD, so there!" hook: n. A software
 or hardware feature included in order to simplify later additions or changes
-by a user. As another example, a simple program that prints numbers might
-always print them in base ten, but a more flexible version would let a
-variable determine what base to use; setting the variable to 5 would make the
-program print numbers in base five. The variable is a simple hook. An even
-more flexible program might examine the variable and treat a value of 16 or
-less as the base to use, but treat any other number as the address of a
-user-supplied routine for printing a number. This is a hairy but powerful
+by a user. For example, a simple program that prints numbers might always
+print them in base ten, but a more flexible version would let a variable
+determine what base to use; setting the variable to 5 would make the program
+print numbers in base five. The variable is a simple hook. An even more
+flexible program might examine the variable and treat a value of 16 or less
+as the base to use, but treat any other number as the address of a
+user-supplied routine for printing a number. This is a {hairy} but powerful
 hook; one can then write a routine to print numbers as Roman numerals, say,
 or as Hebrew characters, and plug it into the program through the hook. Often
 the difference between a good program and a superb one is that the latter has
@@ -57,13 +57,13 @@ derived from the Canadian slang `hoser' popularized by the Bob and Doug
 Mackenzie skits on SCTV. see {hose}. It is also widely used of people in the
 mainstream sense of `in an extremely unfortunate situation'. Once upon a
 time, a Cray which had been experiencing periodic difficulties crashed, and
-it was announced to have been {hosed}. It was discovered that the crash was
-due to the disconnection of some coolant hoses. The problem was corrected,
-and users were then assured that everything was OK because the system had
-been rehosed. hot spot: n. 1. [primarily C/UNIX programmers, but spreading]
-It is received wisdom that in most programs, less than 10% of the code eats
-90% of the execution time; if one were to graph instruction visits versus
-code addresses, one would typically see a few huge spikes amidst a lot of
+it was announced to have been hosed. It was discovered that the crash was due
+to the disconnection of some coolant hoses. The problem was corrected, and
+users were then assured that everything was OK because the system had been
+rehosed. hot spot: n. 1. [primarily C/UNIX programmers, but spreading] It is
+received wisdom that in most programs, less than 10% of the code eats 90% of
+the execution time; if one were to graph instruction visits versus code
+addresses, one would typically see a few huge spikes amidst a lot of
 low-level noise. Such spikes are called `hot spots' and are good candidates
 for heavy optimization or {hand-hacking}. The term is especially used of
 tight loops and recursions in the code's central algorithm, as opposed to

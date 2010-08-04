@@ -11,50 +11,55 @@ methods, and is the one typically stumbled on by {naive} and untutored
 programmers, hackers consider it the canonical example of a naive algorithm.
 The canonical example of a really *bad* algorithm is {bogo-sort}. A bubble
 sort might be used out of ignorance, but any use of bogo-sort could issue
-only from brain-damage or willful perversity. bucky bits: /buh'kee bits/
-[primarily Stanford] n. The bits produced by the CTRL, META, SUPER, and HYPER
-shift keys, esp. on a Stanford or MIT (Knight) keyboard (see {space-cadet
-keyboard}). By extension, bits associated with `extra' shift keys on any
-keyboard, e.g. the ALT on an IBM PC or command and option keys on a
-Macintosh. It is rumored that these were in fact named for Buckminster Fuller
-during a period when he was consulting at Stanford. Unfortunately, legend
-also has it that `Bucky' was Niklaus Wirth's nickname when *he* was
-consulting at Stanford and that he first suggested the idea of the meta key,
-so its bit was named after him. see {double bucky}, {quadruple bucky}. buffer
-overflow: n. What happens when you try to stuff more data into a buffer
-(holding area) than it can handle. This may be due to a mismatch in the
-processing rates of the producing and consuming processes (see {overrun}), or
-because the buffer is simply too small to hold all the data that needs to
-accumulate before a piece of it can be processed. For example, in a text
-processing tool that crunches newline-terminated lines, a short line buffer
-can result in {lossage} as input from a long line overflows the buffer and
-trashes data beyond it. see also {spam}, {overrun screw}. bug: n. An unwanted
-and unintended property of a program or hardware, esp. one which causes it to
-malfunction. Antonym of {feature}. Examples: "There's a bug in the editor: it
-writes things out backwards." "The system crashed because of a hardware bug."
-"Fred is a winner, but he has a few bugs." (i.e., Fred is a good guy, but he
-has a few personality problems.) Some have said this term came from telephone
-company usage, in which "bugs in a telephone cable" were blamed for noisy
-lines, but this appears to be an incorrect folk etymology. Admiral Grace
-Hopper (an early computing pioneer better known for inventing {COBOL}) liked
-to tell a story in which a technician solved a persistent {glitch} in the
-Harvard Mark II machine by pulling an actual physical bug out from between
-the contacts of one of its relays, and she subsequently promulgated {bug} in
-its hackish sense as a joke about the incident (though, as she was careful to
-admit, she was not there when it happened). For many years the logbook
-associated with the incident and the actual bug in question (a moth) sat in a
-display case at the Naval Surface Warfare Center; it now resides in the
-Smithsonian. The entire story, with a picture of the logbook and the moth
-taped into it, is recorded in the Annals of the History of Computing, Volume
-3, Number 3 (July 1981), on pages 285-286. Interestingly, the text of the log
-entry (from September 9th, 1945), which reads "1545 Relay #70 Panel F (moth)
-in relay. First actual case of bug being found", seems to establish that the
-term was already in use at the time. Indeed, the use of `bug' to mean an
-industrial defect was already established in Thomas Edison's time, and `bug'
-in the sense of an disruptive event goes back to Shakespeare! In the First
-Edition of Johnson's Dictionary one meaning of `bug' is "A frightful object;
-a walking spectre"; this is traced to `bugbear', a Welsh term for a variety
-of mythological monster which (to complete the circle) has recently been
+only from brain-damage or willful perversity. bucky bits: /buh'kee bits/ n.
+1. obs. The bits produced by the CONTROL and META shift keys, on a SAIL
+keyboard, resulting in a 9-bit keyboard character set. The MIT-AI TV (Knight)
+keyboards extended this with TOP and separate left and right CONTROL and META
+keys, resulting in a 12-bit character set; later, Lisp Machines added such
+keys as SUPER, HYPER, and GREEK (see {space-cadet keyboard}). 2. By
+extension, bits associated with `extra' shift keys on any keyboard, e.g. the
+ALT on an IBM PC or command and option keys on a Macintosh. It is rumored
+that `bucky bits' were named for Buckminster Fuller during a period when he
+was consulting at Stanford. Actually, `Bucky' was Niklaus Wirth's nickname
+when *he* was at Stanford; he first suggested the idea of an EDIT key to set
+the 8th bit of an otherwise 7-bit ASCII character. This was used in a number
+of editors written at Stanford or environs (TV-EDIT and NLS being the most
+well-known). The term spread to MIT and CMU early and is now in general use.
+see {double bucky}, {quadruple bucky}. buffer overflow: n. What happens when
+you try to stuff more data into a buffer (holding area) than it can handle.
+This may be due to a mismatch in the processing rates of the producing and
+consuming processes (see {overrun}), or because the buffer is simply too
+small to hold all the data that needs to accumulate before a piece of it can
+be processed. For example, in a text processing tool that crunches
+newline-terminated lines, a short line buffer can result in {lossage} as
+input from a long line overflows the buffer and trashes data beyond it. see
+also {spam}, {overrun screw}. bug: n. An unwanted and unintended property of
+a program or hardware, esp. one which causes it to malfunction. Antonym of
+{feature}. Examples: "There's a bug in the editor: it writes things out
+backwards." "The system crashed because of a hardware bug." "Fred is a
+winner, but he has a few bugs." (i.e., Fred is a good guy, but he has a few
+personality problems.) Some have said this term came from telephone company
+usage, in which "bugs in a telephone cable" were blamed for noisy lines, but
+this appears to be an incorrect folk etymology. Admiral Grace Hopper (an
+early computing pioneer better known for inventing {COBOL}) liked to tell a
+story in which a technician solved a persistent {glitch} in the Harvard Mark
+II machine by pulling an actual physical bug out from between the contacts of
+one of its relays, and she subsequently promulgated {bug} in its hackish
+sense as a joke about the incident (though, as she was careful to admit, she
+was not there when it happened). For many years the logbook associated with
+the incident and the actual bug in question (a moth) sat in a display case at
+the Naval Surface Warfare Center; it now resides in the Smithsonian. The
+entire story, with a picture of the logbook and the moth taped into it, is
+recorded in the Annals of the History of Computing, Volume 3, Number 3 (July
+1981), on pages 285--286. Interestingly, the text of the log entry (from
+September 9th, 1945), which reads "1545 Relay #70 Panel F (moth) in relay.
+First actual case of bug being found", seems to establish that the term was
+already in use at the time. Indeed, the use of `bug' to mean an industrial
+defect was already established in Thomas Edison's time, and `bug' in the
+sense of an disruptive event goes back to Shakespeare! In the First Edition
+of Johnson's Dictionary one meaning of `bug' is "A frightful object; a
+walking spectre"; this is traced to `bugbear', a Welsh term for a variety of
+mythological monster which (to complete the circle) has recently been
 reintroduced into the popular lexicon through fantasy role-playing games. In
 any case, in jargon the word almost never refers to insects. Here is a
 plausible conversation that never actually happened: "There is a bug in this
@@ -79,33 +84,39 @@ featurectomy). 3. n. A small change to an algorithm, program, or hardware
 device to make it more efficient. "This hardware bum makes the jump
 instruction faster." Usage: now uncommon, largely superseded by v. {tune}
 (and n. {tweak}, {hack}), though none of these exactly capture sense #2. Note
-that both these uses are rare in Commonwealth hackish, because in the parent
+that all these uses are rare in Commonwealth hackish, because in the parent
 dialects of English `bum' is interpreted as a rude synonym for `buttocks'.
 bump: vt. Synonym for increment. Has the same meaning as C's ++ operator.
 Used esp. of counter variables, pointers, and index dummies in `for',
 `while', and `do-while' loops. burble: vi. Like {flame}, but connotes that
 the source is truly clueless and ineffectual (mere flamers can be competent).
-A term of deep contempt. burn-in period: n. 1. A factory test designed to
-catch systems with {marginal} components before they get out the door; the
-theory is that burn-in will protect customers by outwaiting the steepest part
-of the {bathtub curve} (see {infant mortality}). 2. A period of indeterminate
-length in which a person using a computer is so intensely involved in his
-project that he forgets basic needs such as food, drink, sleep, sex, etc. see
-{hack mode}, {larval stage}. busy-wait: vi. 1. [techspeak] To wait on an
-event by {spin}ning through a tight or timed-delay loop that polls for the
-event on each pass, as opposed to setting up an interrupt handler and
-continuing execution on another part of the task. A wasteful technique, best
-avoided on time-sharing systems where a busy-waiting program may hog the
-processor. Syn. {spin-lock}. 2. May be used of human behavior to convey that
-one is busy waiting for someone or something and that one intends to move
-instantly as soon as it shows up (for example, if one is waiting at the
-office door of a person in conference); thus that one cannot do anything else
-at the moment. buzz: vi. 1. Of a program, to run with no indication of
-progress and perhaps without guarantee of ever finishing; esp. said of
-programs thought to be executing tight loops of code. A program which is
-buzzing appears to be {catatonic}, but you never get out of catatonia, while
-a buzzing loop may eventually end of its own accord. Example: "The program
-buzzes for about ten seconds trying to sort all the names into order." see
-{spin}; see also {grovel}. 2. [ETA Systems] To test a wire or printed circuit
-trace for continuity by applying an AC signal as opposed to applying a DC
-signal. Some wire faults will pass DC tests but fail a buzz test.
+A term of deep contempt. buried treasure: n. A surprising piece of code found
+in some program. While usually not wrong, it tends to vary from {crufty} to
+{bletcherous}, and has lain undiscovered only because it was functionally
+correct, however horrible it is. Used sarcastically, because what is found is
+anything *but* treasure. Buried treasure almost always needs to be dug up and
+removed. "I just found that the scheduler sorts it queue using {bubble sort}!
+Buried Treasure!" burn-in period: n. 1. A factory test designed to catch
+systems with {marginal} components before they get out the door; the theory
+is that burn-in will protect customers by outwaiting the steepest part of the
+{bathtub curve} (see {infant mortality}). 2. A period of indeterminate length
+in which a person using a computer is so intensely involved in his project
+that he forgets basic needs such as food, drink, sleep, sex, etc. see {hack
+mode}, {larval stage}. busy-wait: vi. 1. [techspeak] To wait on an event by
+{spin}ning through a tight or timed-delay loop that polls for the event on
+each pass, as opposed to setting up an interrupt handler and continuing
+execution on another part of the task. A wasteful technique, best avoided on
+time-sharing systems where a busy-waiting program may hog the processor. 2.
+May be used of human behavior to convey that one is busy waiting for someone
+or something and that one intends to move instantly as soon as it shows up
+(for example, if one is waiting at the office door of a person in
+conference); thus that one cannot do anything else at the moment. buzz: vi.
+1. Of a program, to run with no indication of progress and perhaps without
+guarantee of ever finishing; esp. said of programs thought to be executing
+tight loops of code. A program which is buzzing appears to be {catatonic},
+but you never get out of catatonia, while a buzzing loop may eventually end
+of its own accord. Example: "The program buzzes for about ten seconds trying
+to sort all the names into order." see {spin}; see also {grovel}. 2. [ETA
+Systems] To test a wire or printed circuit trace for continuity by applying
+an AC signal as opposed to applying a DC signal. Some wire faults will pass
+DC tests but fail a buzz test.

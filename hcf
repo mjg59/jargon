@@ -39,11 +39,11 @@ the stack}. Helen Keller mode: n. State of a hardware or software system that
 is deaf, dumb, and blind, i.e. accepting no input and generating no output,
 usually due to an infinite loop or some other excursion into {deep space}.
 (Unfair to the real Helen Keller, whose success at learning speech was
-triumphant.) see also {go flatline}, {catatonic}. hello sailor!: interj.
+triumphant.) see also {go flatline}, {catatonic}. hello, sailor!: interj.
 Occasional West Coast equivalent of {hello, world}; seems to have originated
-at SAIL, later associated with the game {Zork} (which also included "hello
-aviator" and "hello implementor"). Originally from the traditional hooker's
-greeting to a swabbie fresh off the boat, of course. hello wall!: excl. see
+at SAIL, later associated with the game {Zork} (which also included "hello,
+aviator" and "hello, implementor"). Originally from the traditional hooker's
+greeting to a swabbie fresh off the boat, of course. hello, wall!: excl. see
 {wall}. hello, world: interj. 1. The canonical minimal test message in the
 C/UNIX universe. 2. Any of the minimal programs that emit this message. In
 folklore, the first program a C coder is supposed to write in a new
@@ -71,8 +71,8 @@ is Latin but incorrect in this context and `hexa-' is Greek. The word `octal'
 is similarly incorrect; correct forms would be `octaval' (to go with
 decimal), or `octonary' (to go with binary). If anyone ever implements a
 base-3 computer, computer scientists will be faced with the unprecedented
-dilemma of a choice between two `correct' forms; both `ternary' and `trinary'
-have a claim to this throne. hexit: /hek'sit/ n. A hexadecimal digit (0-9,
+dilemma of a choice between two *correct* forms; both `ternary' and `trinary'
+have a claim to this throne. hexit: /hek'sit/ n. A hexadecimal digit (0--9,
 and A--F or a--f). Used by people who claim that there are only *ten* digits,
 dammit; sixteen-fingered human beings are rather rare, regardless of what
 some keyboard designs might seem to imply (see {space-cadet keyboard}).
@@ -84,20 +84,20 @@ feature of the existing inputs, such as a negative mass. Liberal use of
 hidden flags can make a program very hard to debug and understand. high bit:
 [from `high order bit'] n. 1. The most significant bit in a byte. 2. Also
 meaning most significant part of something other than a data byte, e.g.
-"Spare me the whole {saga}, just give me the high bit." see also {meta bit}.
-high moby: /hie mohb'ee/ n. The high half of a stock {PDP-10}'s address
-space; the other half was of course the low moby. This usage has been
-generalized in a way that has outlasted the {PDP-10}; for example, at the
-1990 Washington D.C. Area Science Fiction Conclave (Disclave) when a
-miscommunication resulted in two separate wakes being held in commemoration
-of the shutdown of MIT's last {ITS} machines, the one on the upper floor was
-dubbed the high moby and the other the low moby. All parties involved grokked
-this instantly. see {moby}. highly: [scientific computation] adv. The
-preferred modifier for overstating an understatement. As in: `highly
-nonoptimal', the worst possible way to do something; `highly nontrivial',
-either impossible or requiring a major research project; `highly nonlinear',
-completely erratic and unpredictable; `highly nontechnical', drivel written
-for {luser}s, oversimplified to the point of being misleading or incorrect
-(compare {drool-proof paper}). In other computing cultures, postfixing of {in
-the extreme} might be preferred. hirsute: adj. Occasionally used humorously
-as a synonym for {hairy}.
+"Spare me the whole {saga}, just give me the high bit." see also {meta bit},
+{dread high-bit disease}. high moby: /hie mohb'ee/ n. The high half of a
+stock {PDP-10}'s address space; the other half was of course the low moby.
+This usage has been generalized in a way that has outlasted the {PDP-10}; for
+example, at the 1990 Washington D.C. Area Science Fiction Conclave (Disclave)
+when a miscommunication resulted in two separate wakes being held in
+commemoration of the shutdown of MIT's last {ITS} machines, the one on the
+upper floor was dubbed the high moby and the other the low moby. All parties
+involved {grok}ked this instantly. see {moby}. highly: [scientific
+computation] adv. The preferred modifier for overstating an understatement.
+As in: `highly nonoptimal', the worst possible way to do something; `highly
+nontrivial', either impossible or requiring a major research project; `highly
+nonlinear', completely erratic and unpredictable; `highly nontechnical',
+drivel written for {luser}s, oversimplified to the point of being misleading
+or incorrect (compare {drool-proof paper}). In other computing cultures,
+postfixing of {in the extreme} might be preferred. hirsute: adj. Occasionally
+used humorously as a synonym for {hairy}.

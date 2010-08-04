@@ -49,15 +49,16 @@ software by Dave Mills and assorted co-conspirators, used in the early 1980s
 for Internet protocol testbedding and experimentation. These were used as
 NSFnet backbone sites in its early 56KB-line days; a few of these are still
 active on the Internet as of early 1990, doing odd jobs such as network time
-service. = G = ===== gabriel: /gay'bree-@l/ [for Dick Gabriel, SAIL LISP
-hacker and volleyball fanatic] n. An unnecessary (in the opinion of the
-opponent) stalling tactic, e.g., tying one's shoelaces or hair repeatedly,
-asking the time, etc. Also used to refer to the perpetrator of such tactics.
-Also, `pulling a Gabriel', `Gabriel mode'. gag: vi. Equivalent to {choke},
-but connotes more disgust. "Hey, this is FORTRAN code. No wonder the C
-compiler gagged." see also {barf}. gang bang: n. The use of large numbers of
-loosely coupled programmers in an attempt to wedge a great many features into
-a product in a short time. While there have been memorable gang bangs (e.g.,
+service. = G = ===== G: pref. (on units) suff. (on numbers) see
+{{quantifiers}}. gabriel: /gay'bree-*l/ [for Dick Gabriel, SAIL LISP hacker
+and volleyball fanatic] n. An unnecessary (in the opinion of the opponent)
+stalling tactic, e.g., tying one's shoelaces or hair repeatedly, asking the
+time, etc. Also used to refer to the perpetrator of such tactics. Also,
+`pulling a Gabriel', `Gabriel mode'. gag: vi. Equivalent to {choke}, but
+connotes more disgust. "Hey, this is FORTRAN code. No wonder the C compiler
+gagged." see also {barf}. gang bang: n. The use of large numbers of loosely
+coupled programmers in an attempt to wedge a great many features into a
+product in a short time. While there have been memorable gang bangs (e.g.,
 that over-the-weekend assembler port mentioned in Steven Levy's `Hackers'),
 most are perpetrated by large companies trying to meet deadlines and produce
 enormous buggy masses of code entirely lacking in orthogonality (see
@@ -78,6 +79,7 @@ occupied by data that has been deleted; the compression operation that
 removes it is called `degassing' (by analogy, perhaps, with the use of the
 same term in vacuum technology). gaseous: adj. Deserving of being {gas}sed.
 Disseminated by Geoff Goodfellow while at SRI; became particularly popular
-after the Moscone/Milk murders in San Francisco, when it was learned that Dan
-White (who supported Proposition 7) would get the gas chamber under 7 if
-convicted. He was eventually found not guilty by reason of insanity.
+after the Moscone/Milk murders in San Francisco, when it was learned that the
+defendant Dan White (a politician who had who supported Proposition 7) would
+get the gas chamber under Proposition 7 if convicted. He was eventually found
+not guilty by reason of insanity.

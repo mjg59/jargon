@@ -21,16 +21,35 @@ significance (the word is stored `little-end-first'). The PDP-11 and VAX
 families of computers and Intel microprocessors and a lot of communications
 and networking hardware are little-endian. see {big-endian}, {middle-endian},
 {NUXI problem}. The term is sometimes used to describe the ordering of units
-other than bytes; most frequently these are bits within a byte. Live Free Or
-Die!: imp. 1. The state motto of New Hampshire, which used to be on its car
-license plates. 2. A slogan associated with UNIX in the romantic days when
-UNIX aficionados saw themselves as a tiny, beleaguered underground tilting
-against the windmills of industry. The "free" referred specifically to
-freedom from the {fascist} design philosophies and crufty misfeatures common
-on commercial operating systems. Armando Stettner, one of the early UNIX
-developers, used to give out fake license plates bearing this motto under a
-large UNIX, all in New Hampshire colors of green and white. These are now
-valued collector's items. livelock: n. A situation in which some critical
+other than bytes; most frequently these are bits within a byte. live data: n.
+1. Data which is written to be interpreted and takes over program flow when
+triggered by some un-obvious operation, such as viewing it. One particular
+use of such hacks is to break security. For example, some smart terminals
+have commands that allow one to download strings to program keys; this can be
+used to write `live data' which, when listed to the terminal, infects it with
+a security-breaking `virus' that is triggered the next time a hapless user
+strikes that key. For another, there are some well-known bugs in vi which
+allow certain texts to send arbitrary commands back to the machine when they
+are simply viewed. 2. In C code, data which includes pointers to function
+{hook}s. 3. An object such as a {trampoline} which is constructed on the fly
+by a program and intended to be executed as code. 4. `actual real-world
+data', as opposed to `test data'. For example, "I think I have the record
+deletion module finished." "Have you tried it out on live data?" It usually
+carries the connotation that live data is more fragile and must not be
+corrupted, else bad things will happen. So a possible alternate response to
+the above claim might be "Well, make sure it works perfectly before we throw
+live data at it." The implication here is that record deletion is something
+pretty significant, and a haywire record deletion module running amock on
+live data would cause great harm and probably require restoring from backups.
+Live Free Or Die!: imp. 1. The state motto of New Hampshire, which used to be
+on its car license plates. 2. A slogan associated with UNIX in the romantic
+days when UNIX aficionados saw themselves as a tiny, beleaguered underground
+tilting against the windmills of industry. The "free" referred specifically
+to freedom from the {fascist} design philosophies and crufty misfeatures
+common on commercial operating systems. Armando Stettner, one of the early
+UNIX developers, used to give out fake license plates bearing this motto
+under a large UNIX, all in New Hampshire colors of green and white. These are
+now valued collector's items. livelock: n. A situation in which some critical
 stage of a task is unable to finish because its clients perpetually create
 more work for it to do after they've been serviced but before it can clear.
 Differs from {deadlock} in that the process is not blocked or waiting for
@@ -98,12 +117,12 @@ would be a contradiction in terms). see {luser}. losing: adj. Said of
 anything which is or causes a {lose} or {lossage}. loss: n. Something (not a
 person) which loses; a situation in which something is losing. Emphatic forms
 include `moby loss', `total loss', `complete loss'. Common interjections are
-"What a loss!" and "What a moby loss!" (`moby loss' is OK even though `moby
-loser' is not used; applied to an abstract noun, moby is simply a magnifier,
-whereas when applied to a person it implies substance and has positive
-connotations) Compare {lossage}. lossage: /los'@j/ n. The result of a bug or
-malfunction. This is a mass or collective noun. "What a loss!" and "What
-lossage!" are nearly synonymous remarks. The former is slightly more
+"What a loss!" and "What a moby loss!" Note that `moby loss' is OK even
+though `moby loser' is not used; applied to an abstract noun, moby is simply
+a magnifier, whereas when applied to a person it implies substance and has
+positive connotations. Compare {lossage}. lossage: /los'*j/ n. The result of
+a bug or malfunction. This is a mass or collective noun. "What a loss!" and
+"What lossage!" are nearly synonymous remarks. The former is slightly more
 particular to the speaker's present circumstances while the latter implies a
 continuing lose of which the speaker is presently victim. Thus (for example)
 a temporary hardware failure is a loss, but bugs in an important tool (like a
@@ -111,7 +130,7 @@ compiler) are serious lossage. lost in the noise: adj. Syn. {lost in the
 underflow}. This term is from signal processing, where signals of very small
 amplitude cannot be separated from low-intensity noise in the system. Though
 popular among hackers, it is not confined to hackerdom; physicists,
-engineers, astronomers and statisticians all use it. lost in the underflow:
+engineers, astronomers, and statisticians all use it. lost in the underflow:
 adj. Too small to be worth considering; more specifically, small beyond the
 limits of accuracy or measurement. This is a reference to a condition called
 `floating underflow' that can occur when a floating-point arithmetic
@@ -123,7 +142,7 @@ but that effect gets lost in the underflow." see also {overflow bit}. lots of
 MIPS but no I/O: adj. Used to describe a person who is technically brilliant
 but can't seem to communicate with human beings effectively. Technically it
 describes a machine that has lots of processing power but is bottlenecked on
-I/O. low-bandwidth: adj. Used to indicate a talk that although not
-{content-free} was not terribly informative. "That was a low-bandwidth talk,
-but what can you expect for an audience of {suit}s." Compare {zero-content},
-{bandwidth}, {math-out}.
+I/O. low-bandwidth: [from communication theory] adj. Used to indicate a talk
+that although not {content-free} was not terribly informative. "That was a
+low-bandwidth talk, but what can you expect for an audience of {suit}s."
+Compare {zero-content}, {bandwidth}, {math-out}.

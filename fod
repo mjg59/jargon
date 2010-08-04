@@ -20,43 +20,44 @@ Other similar words are {bar}, {baz} (Stanford corruption of {bar}), and
 rarely `rag'. 3. Used very generally as a sample name for absolutely
 anything. 4. First on the standard list of metasyntactic variables used in
 syntax examples. see also: {bar}, {baz}, {qux}, {quux}, {corge}, {grault},
-{garply}, {waldo}, {fred}, {plugh}, {xyzzy}. {foo} is the {canonical} example
-of a `metasyntactic variable'; a name used in examples and understood to
-stand for whatever thing is under discussion, or any random member of a class
-of things under discussion. To avoid confusion, hackers never use `foo' or
-other words like it as permanent names for anything. In filenames, a common
-convention is that any filename beginning `foo' is a scratch file which may
-be deleted at any time. The etymology of hackish `foo' is obscure. When used
-in connection with `bar' it is generally traced to the WWII-era army slang
-acronym FUBAR (Fucked Up Beyond All Recognition), later bowdlerized to
-{foobar}. However, the use of the word `foo' itself has more complicated
-antecedents, including a long history in comic strips and cartoons. The old
-`Smokey Stover' comic strips by Bill Holman often included the word `FOO', in
-particular on license plates of cars; allegedly, `FOO' and `BAR' also
-occurred in Walt Kelly's `Pogo' strips. In a 1938 cartoon Daffy Duck holds up
-a sign saying "SILENCE IS FOO!" It is even possible that hacker usage
-actually springs from the title `FOO, Lampoons and Parody' of a comic book
-first issued 20 years later, in September 1958; the byline read `C. Crumb'
-but this may well have been a sort-of pseudonym for noted weird-comix artist
-Robert Crumb. The title FOO was featured in large letters on the front cover.
-An old-time member reports that in the semi-legendary 1959 "Dictionany of the
-TMRC Language", compiled at at TMRC (the Tech Model Railroad Club at MIT,
-pronounced /tmerk'/), there was an entry which went something like this: FOO:
-The first syllable of the sacred chant phrase "FOO MANE PADME HUM." Our first
-obligation is to keep the foo counters turning. By 1962, TMRC's legendary
-model-railroad layout was already a marvel of complexity for which the
-control system alone featured about 1200 relays. There were {scram switch}es
-located at numerous places around the room which could be pressed if
-something undesirable was about to occur, such as a train going full-bore at
-an obstruction. Another feature of the system was a digital clock on the
-dispatch board. Normally it ran at some multiple of real time, but if someone
-hit a scram switch the clock stopped and the display was replaced with the
-word "FOO". Almost the entire AI staff was involved with the TMRC, so it's
-not clear that anyone can say which group introduced the other to the word
-FOO. Very probably, hackish `foo' had no single origin and derives through
-all these channels from Yiddish `feh' and/or English `fooey!'. foobar: n.
-Another common metasyntactic variable; see {foo}. Note that hackers do *not*
-generally use this to mean FUBAR! fool: n. As used by hackers, specifically
+{garply}, {waldo}, {fred}, {plugh}, {xyzzy}, {thud}. {foo} is the {canonical}
+example of a `metasyntactic variable'; a name used in examples and understood
+to stand for whatever thing is under discussion, or any random member of a
+class of things under discussion. To avoid confusion, hackers never use `foo'
+or other words like it as permanent names for anything. In filenames, a
+common convention is that any filename beginning `foo' is a scratch file
+which may be deleted at any time. The etymology of hackish `foo' is obscure.
+When used in connection with `bar' it is generally traced to the WWII-era
+army slang acronym FUBAR (Fucked Up Beyond All Recognition), later
+bowdlerized to {foobar}. (see also {FUBAR}). However, the use of the word
+`foo' itself has more complicated antecedents, including a long history in
+comic strips and cartoons. The old `Smokey Stover' comic strips by Bill
+Holman often included the word `FOO', in particular on license plates of
+cars; allegedly, `FOO' and `BAR' also occurred in Walt Kelly's `Pogo' strips.
+In a 1938 cartoon Daffy Duck holds up a sign saying "SILENCE IS FOO!" It is
+even possible that hacker usage actually springs from the title `FOO,
+Lampoons and Parody' of a comic book first issued 20 years later, in
+September 1958; the byline read `C. Crumb' but this may well have been a
+sort-of pseudonym for noted weird-comix artist Robert Crumb. The title FOO
+was featured in large letters on the front cover. An old-time member reports
+that in the semi-legendary 1959 "Dictionary of the TMRC Language", compiled
+at TMRC (the Tech Model Railroad Club at MIT, pronounced /tmerk'/), there was
+an entry which went something like this: FOO: The first syllable of the
+sacred chant phrase "FOO MANE PADME HUM." Our first obligation is to keep the
+foo counters turning. By 1962, TMRC's legendary model-railroad layout was
+already a marvel of complexity for which the control system alone featured
+about 1200 relays. There were {scram switch}es located at numerous places
+around the room which could be pressed if something undesirable was about to
+occur, such as a train going full-bore at an obstruction. Another feature of
+the system was a digital clock on the dispatch board. Normally it ran at some
+multiple of real time, but if someone hit a scram switch the clock stopped
+and the display was replaced with the word "FOO". Almost the entire AI staff
+was involved with the TMRC, so it's not clear that anyone can say which group
+introduced the other to the word FOO. Very probably, hackish `foo' had no
+single origin and derives through all these channels from Yiddish `feh'
+and/or English `fooey!'. foobar: n. Another common metasyntactic variable;
+see {foo}. Note that hackers do *not* generally use this to mean {FUBAR} in
+either slang or jargon senses! fool: n. As used by hackers, specifically
 describes a person who habitually reasons from obviously or demonstrably
 incorrect premises and cannot be persuaded by evidence to do otherwise; it is
 not generally used in its other senses, i.e., to describe a person with a
@@ -69,45 +70,46 @@ floor or desk area taken up by a piece of hardware. 2. [IBM] The audit trail
 hardware equipment which is available by its design without needing
 cleverness to implement, e.g, "In APL, we get the matrix operations for
 free", or "And owing to the way revisions are stored in this system, you get
-revision trees for free." Usually it refers to a serendipidous feature of
-doing things a certain way. Compare {big win}. for the rest of us: [from the
-Mac slogan "The computer for the rest of us"] adj. 1. Used to describe a
-{spiffy} product whose affordability shames other comparable products, or
-(more often) used sarcastically to describe {spiffy}, but very overpriced
-products. 2. Describes a program with a limited interface, deliberately
-limited capabilities, non-orthogonality, inability to compose primitives, or
-any other limitation designed to not `confuse' a naive user. This places an
-upper bound on how far that user can go before the program begins to get in
-the way of the task instead of helping accomplish it. Used in reference to
-Macintosh software which doesn't provide obviously necessary capabilities
-(and which are obvious to implement) because it is thought that the users
-wouldn't need them, wouldn't understand them, and other applicable
-patronizing terms. Becomes `the rest of *them*' when used in third-party
-reference; thus, "Yes, it is an attractive program, but it's designed for The
-Rest Of Them" means a program which superficially is neat but has no depth
-beyond the surface flash. see {WIMP environment}, {Macintrash}. foreground:
-[UNIX] adj.,vt. 1. [techspeak] On a time-sharing system, a task executing in
-foreground is one able to accept input from and return output to the user;
-oppose {background}. Nowadays this term is primarily associated with {UNIX},
-but it appears first to have been used in this sense on OS/360. Normally,
-there is only one foreground task per terminal (or terminal window); having
-multiple processes simultaneously reading the keyboard is a good way to
-{lose}. 2. By extension, to `foreground a task' is to bring it to the top of
-one's {stack} for immediate processing, and hackers often use it in this
-sense for non-computer tasks. forked: [UNIX] adj. Terminally slow, or dead.
-Originated when the system slowed to incredibly bad speeds due to a process
-recursively spawning copies of itself (using the UNIX system call `fork(2)')
-and taking up all the process table entries. Fortrash: n. Hackerism for the
-FORTRAN language, referring to its primitive design, gross and irregular
-syntax, limited control constructs, and slippery, exception-filled semantics.
-fortune cookie: [UNIX] n. A random quote, item of trivia, joke, or maxim
-printed to the user's tty at login time or (less commonly) at logout time.
-Items from this lexicon have often been used as fortune cookies. see {cookie
-file}. fossil: n. 1. In software, a misfeature that becomes understandable
-only in historical context, as a remnant of times past retained so as not to
-break compatibility. Example: the retention of octal as default base for
-string escapes in {C}, in spite of the better match of hexadecimal to ASCII
-and modern byte-addressable architectures. see {dusty deck}. 2. More
+revision trees for free." Usually it refers to a serendipitous feature of
+doing things a certain way (compare {big win}), but may refer to an
+intentional but secondary feature. for the rest of us: [from the Mac slogan
+"The computer for the rest of us"] adj. 1. Used to describe a {spiffy}
+product whose affordability shames other comparable products, or (more often)
+used sarcastically to describe {spiffy} but very overpriced products. 2.
+Describes a program with a limited interface, deliberately limited
+capabilities, non-orthogonality, inability to compose primitives, or any
+other limitation designed to not `confuse' a naive user. This places an upper
+bound on how far that user can go before the program begins to get in the way
+of the task instead of helping accomplish it. Used in reference to Macintosh
+software which doesn't provide obviously necessary capabilities (and which
+are obvious to implement) because it is thought that the users wouldn't need
+them, wouldn't understand them, and other applicable patronizing terms.
+Becomes `the rest of *them*' when used in third-party reference; thus, "Yes,
+it is an attractive program, but it's designed for The Rest Of Them" means a
+program which superficially is neat but has no depth beyond the surface
+flash. see {WIMP environment}, {Macintrash}. foreground: [UNIX] adj.,vt. 1.
+[techspeak] On a time-sharing system, a task executing in foreground is one
+able to accept input from and return output to the user; oppose {background}.
+Nowadays this term is primarily associated with {UNIX}, but it appears first
+to have been used in this sense on OS/360. Normally, there is only one
+foreground task per terminal (or terminal window); having multiple processes
+simultaneously reading the keyboard is a good way to {lose}. 2. By extension,
+to `foreground a task' is to bring it to the top of one's {stack} for
+immediate processing, and hackers often use it in this sense for non-computer
+tasks. forked: [UNIX] adj. Terminally slow, or dead. Originated when the
+system slowed to incredibly bad speeds due to a process recursively spawning
+copies of itself (using the UNIX system call `fork(2)') and taking up all the
+process table entries. Fortrash: n. Hackerism for the FORTRAN language,
+referring to its primitive design, gross and irregular syntax, limited
+control constructs, and slippery, exception-filled semantics. fortune cookie:
+[UNIX] n. A random quote, item of trivia, joke, or maxim printed to the
+user's tty at login time or (less commonly) at logout time. Items from this
+lexicon have often been used as fortune cookies. see {cookie file}. fossil:
+n. 1. In software, a misfeature that becomes understandable only in
+historical context, as a remnant of times past retained so as not to break
+compatibility. Example: the retention of octal as default base for string
+escapes in {C}, in spite of the better match of hexadecimal to ASCII and
+modern byte-addressable architectures. see {dusty deck}. 2. More
 restrictively, a feature with past but no present utility. Example: the
 force-all-caps (LCASE) bits in the V7 and {BSD} UNIX tty driver, designed for
 use with monocase terminals. In a perversion of the usual
@@ -136,12 +138,14 @@ Fred}). 2. An acronym for `Flipping Ridiculous Electronic Device'; other
 F-verbs may be substituted for "flipping". frednet: /fred'net/ n. Used to
 refer to some {random} and uncommon protocol encountered on a network. "We're
 implementing bridging in our router to solve the frednet problem." freeware:
-n. Free software, often written by enthusiasts and distributed by users'
+n. 1. Free software, often written by enthusiasts and distributed by users'
 groups, or via electronic mail, local bulletin boards, {USENET}, or other
 electronic media. At one time, `freeware' was a trademark of Andrew
 Fluegelman, the author of the well-known MS-DOS comm program PC-TALK III. It
 wasn't enforced after his mysterious disappearance in 1984. see {shareware}.
-freeze: v. To lock an evolving software distribution or document against
-changes so it can be released with some hope of stability. Carries the strong
-implication that the item in question will `unfreeze' at some future date.
-"OK, fix that bug and we'll freeze for release."
+2: Sometimes more specifically used for software which is given away with no
+conditions nor requests for contributions attached. freeze: v. To lock an
+evolving software distribution or document against changes so it can be
+released with some hope of stability. Carries the strong implication that the
+item in question will `unfreeze' at some future date. "OK, fix that bug and
+we'll freeze for release."

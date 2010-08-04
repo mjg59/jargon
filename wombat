@@ -9,7 +9,7 @@ reply). For some reason `suitable win' is also common at MIT, usually in
 reference to a satisfactory solution to a problem. Oppose {lose}; see also
 {big win}, which isn't quite just an intensification of `win'. win big: vi.
 see {big win}. win win: interj. Expresses pleasure at a {win}. Winchester::
-n. Informal term for the now-standard `floating-head' magnetic-disk
+n. Informal generic term for the now-standard `floating-head' magnetic-disk
 technology in which the read-write head planes over the disk surface on an
 air cushion. The name arose because the original 1973 engineering prototype
 for what later became the IBM 3340 featured two 30-megabyte volumes; 30-30
@@ -17,22 +17,21 @@ became `Winchester' when somebody noticed the similarity to the common term
 for a famous Winchester rifle (in the latter, the first 30 referred to
 caliber and the second to the grain weight of the charge). winged comments:
 n. Comments set on the same line as code, as opposed to {boxed comments}. In
-C, for example: d = sqrt(x*x + y*y); /* d = distance of (x,y) from origin */
-Generally these refer only to the action(s) taken on that line. winnage:
-/win'@j/ n. The situation when a lossage is corrected, or when something is
-winning. Quite rare. Usage: also quite rare. winner: 1. n. An unexpectedly
-good situation, program, programmer or person. 2. `real winner': Often
-sarcastic, but also used as high praise (see also the note following the
-{user} entry). winnitude: /win'i-tood/ n. The quality of winning (as opposed
-to {winnage}, which is the result of winning). "That's really great! Boy,
-what winnitude!" wired: n. see {hardwired}. wirehead: n. [prob. from notional
-SF slang for an electrical brain stimulation junkie] 1. A hardware hacker,
-especially one who concentrates on communications hardware. 2. An expert in
-local-area networks. A wirehead can be a network software wizard too, but
-will always have the ability to deal with network hardware, down to the
-smallest component. Wireheads are known for their ability to lash up an
-Ethernet terminator from spare resistors, for example. wish list: n. A list
-of desired features or bug fixes that probably won't get done for a long
+C, for example: d = sqrt(x*x + y*y); /* compute distance of (x,y) from origin
+*/ Generally these refer only to the action(s) taken on that line. winnage:
+/win'*j/ n. The situation when a lossage is corrected, or when something is
+winning. winner: 1. n. An unexpectedly good situation, program, programmer or
+person. 2. `real winner': Often sarcastic, but also used as high praise (see
+also the note under {user}). winnitude: /win'i-tood/ n. The quality of
+winning (as opposed to {winnage}, which is the result of winning). "That's
+really great! Boy, what winnitude!" wired: n. see {hardwired}. wirehead: n.
+[prob. from SF slang for an electrical brain stimulation junkie] 1. A
+hardware hacker, especially one who concentrates on communications hardware.
+2. An expert in local-area networks. A wirehead can be a network software
+wizard too, but will always have the ability to deal with network hardware,
+down to the smallest component. Wireheads are known for their ability to lash
+up an Ethernet terminator from spare resistors, for example. wish list: n. A
+list of desired features or bug fixes that probably won't get done for a long
 time, usually because the person responsible for the code is too busy or
 can't think of a clean way to do it. Compare {tick-list features}. wizard: n.
 1. A person who knows how a complex piece of software or hardware works (that
@@ -50,76 +49,80 @@ recognized job title at some corporations and to most headhunters. see
 {guru}, {lord high fixer}. See also {deep magic}, {heavy wizardry},
 {incantation}, {magic}, {mutter}, {rain dance}, {voodoo programming}, {wave a
 dead chicken}. Wizard Book: n. Abelson and Sussman's `Structure and
-Interpretation of Computer Programs', an excellent CS text used in
-introductory courses at MIT. So called because of the wizard on the cover of
-the MIT Press edition. wizard mode: [from nethack] n. A special access mode
-of a program or system, usually passworded, that permits some users godlike
-privileges. Generally not used for operating systems themselves (`root mode'
-or `wheel mode' would be used instead). wizardly: adj. Pertaining to wizards.
-A wizardly {feature} is one that only a wizard could understand or use
-properly. WOMBAT: [Waste Of Money, Brains, And Time] adj. Applied to problems
-which are both profoundly {uninteresting} in themselves and unlikely to
-benefit anyone interesting even if solved. Often used in fanciful
-constructions such as `wrestling with a wombat'. see also {crawling horror},
-{SMOP}. Also note the rather different usage as a meta-syntactic variable
-under {{Commonwealth Hackish}}. wonky: /wong'kee/ [from Australian slang]
-adj. Yet another approximate synonym for {broken}. Specifically connotes a
-malfunction which produces behavior seen as crazy, humorous, or amusingly
-perverse. "That was the day the printer's font logic went wonky and
-everybody's listings came out in Elvish." Also in `wonked out'. see {funky},
-{demented}. workaround: n. A temporary {kluge} inserted in a system under
-development or test in order to avoid the effects of a {bug} or {misfeature}
-so that work can continue. Theoretically, workarounds are always replaced by
-{fix}es; in practice, customers often find themselves living with workarounds
-in the first couple of releases. "The code died on nul characters in the
-input, so I fixed it to abort with an error message when it sees one."
-"That's not a fix, that's a workaround!" working as designed: [IBM] adj. 1.
-In conformance to a wrong or inappropriate specification; useful, but
-mis-designed. 2. Frequently used as a sardonic comment on a program's
-utility. 3. Unfortunately also used as a bogus reason for not accepting a
-criticism or suggestion. At {IBM}, this sense is used in official documents!
-see {BAD}. worm: [from `tapeworm' in John Brunner's `The Shockwave Rider',
-via XEROX PARC] n. A program that propagates itself over a network,
-reproducing itself as it goes. Compare {virus}. Nowadays the term has
-negative connotations, as it is assumed that only crackers write worms.
-Perhaps the best known example was Robert T. Morris's `Internet Worm' in
-1988, a `benign' one that got out of control and hogged hundreds of Suns and
-VAXen nationwide. see also {cracker}, {Trojan horse}, {ice}. wound around the
-axle: adj. In an infinite loop. Often used by older computer types. wrap
-around: vi. (also n. `wraparound' and v. shorthand `wrap') 1. This is jargon
-in its normal computer usage, i.e., describing the action of a counter that
-starts over at 0 or at `minus infinity' after its maximum value has been
-reached, and continues incrementing, either because it is programmed to do
-so, or because of an overflow like a car's odometer starting over at 0. 2. To
-change {phase} gradually and continuously by maintaining a steady wake-sleep
-cycle somewhat longer than 24 hours, e.g., living 6 long (28-hour) days in a
-week (or, equivalently, sleeping at the rate of 10 microhertz). write-only
-code: [a play on `read-only memory'] n. Code sufficiently arcane, complex, or
+Interpretation of Computer Programs' (McGraw-Hill 1985, ISBN 0-07-000-422-6,
+QA76.6.A255), an excellent CS text used in introductory courses at MIT. So
+called because of the wizard on the cover of the MIT Press edition. One of
+the {bible}s of the LISP/Scheme world. wizard mode: [from nethack] n. A
+special access mode of a program or system, usually passworded, that permits
+some users godlike privileges. Generally not used for operating systems
+themselves (`root mode' or `wheel mode' would be used instead). wizardly:
+adj. Pertaining to wizards. A wizardly {feature} is one that only a wizard
+could understand or use properly. womb box: n. 1. [TMRC] Storage space for
+equipment. 2. [proposed] A variety of hard-shell equipment case with heavy
+interior padding and/or shaped carrier cutouts in a foam-rubber matrix. Used
+for delicate test equipment, electronics, and musical instruments. WOMBAT:
+[Waste Of Money, Brains, And Time] adj. Applied to problems which are both
+profoundly {uninteresting} in themselves and unlikely to benefit anyone
+interesting even if solved. Often used in fanciful constructions such as
+`wrestling with a wombat'. see also {crawling horror}, {SMOP}. Also note the
+rather different usage as a meta-syntactic variable in {{Commonwealth
+Hackish}}. wonky: /wong'kee/ [from Australian slang] adj. Yet another
+approximate synonym for {broken}. Specifically connotes a malfunction which
+produces behavior seen as crazy, humorous, or amusingly perverse. "That was
+the day the printer's font logic went wonky and everybody's listings came out
+in Tengwar." Also in `wonked out'. see {funky}, {demented}, {bozotic}.
+workaround: n. A temporary {kluge} inserted in a system under development or
+test in order to avoid the effects of a {bug} or {misfeature} so that work
+can continue. Theoretically, workarounds are always replaced by {fix}es; in
+practice, customers often find themselves living with workarounds in the
+first couple of releases. "The code died on NUL characters in the input, so I
+fixed it to abort with an error message when it sees one." "That's not a fix,
+that's a workaround!" working as designed: [IBM] adj. 1. In conformance to a
+wrong or inappropriate specification; useful, but mis-designed. 2. Frequently
+used as a sardonic comment on a program's utility. 3. Unfortunately also used
+as a bogus reason for not accepting a criticism or suggestion. At {IBM}, this
+sense is used in official documents! see {BAD}. worm: [from `tapeworm' in
+John Brunner's `The Shockwave Rider', via XEROX PARC] n. A program that
+propagates itself over a network, reproducing itself as it goes. Compare
+{virus}. Nowadays the term has negative connotations, as it is assumed that
+only crackers write worms. Perhaps the best known example was Robert T.
+Morris's `Internet Worm' in 1988, a `benign' one that got out of control and
+hogged hundreds of Suns and VAXen nationwide. see also {cracker}, {RTFM},
+{Trojan horse}, {ice}. wound around the axle: adj. In an infinite loop. Often
+used by older computer types. wrap around: vi. (also n. `wraparound' and v.
+shorthand `wrap') 1. [techspeak] The action of a counter that starts over at
+0 or at `minus infinity' after its maximum value has been reached, and
+continues incrementing, either because it is programmed to do so, or because
+of an overflow like a car's odometer starting over at 0. 2. To change {phase}
+gradually and continuously by maintaining a steady wake-sleep cycle somewhat
+longer than 24 hours, e.g., living 6 long (28-hour) days in a week (or,
+equivalently, sleeping at the rate of 10 microhertz). write-only code: [a
+play on `read-only memory'] n. Code sufficiently arcane, complex, or
 ill-structured that it cannot be modified or even comprehended by anyone but
-the original author, and possibly not even by him/her. A {Bad Thing}.
-write-only language: n. A language with syntax (or semantics) sufficiently
-dense and bizarre that any routine of significant size is {write-only code}.
-A sobriquet often applied to APL, though {INTERCAL} and {TECO} certainly
-deserve it more. write-only memory: n. The obvious antonym to `read-only
-memory'. In frustration with the long and seemingly useless chain of
-approvals required of component specifications, during which no actual
-checking seemed to occur, an engineer at Signetics created a specification
-for a write-only memory, and included it with a bunch of other specifications
-to be approved. This inclusion only came to the attention of Signetics when
-regular customers started calling and asking for pricing information.
-Signetics published a corrected edition of the data book and requested the
-return of the `erroneous' ones. Later, about 1974, Signetics bought a double
-page spread in Electronics magazine's April issue and used the spec as an
-April Fools' day joke. Instead of the more conventional characteristic
-curves, the 25120 "fully encoded, 9046 x N, Random Access, write-only-memory"
-data sheet included diagrams of "bit capacity vs. Temp.", "Iff vs. Vff",
-"Number of pins remaining vs. number of socket insertions" and "AQL vs.
-selling price". The 25120 required a 6.3 VAC VFF supply, a +10V VCC, and VDD
-of 0V, +/- 2%. Wrong Thing: n. A design, action, or decision which is clearly
-incorrect or inappropriate. Often capitalized; always emphasized in speech as
-if capitalized. The opposite of the Right Thing; more generally, anything
-that is not the Right Thing. In cases where `the good is the enemy of the
-best', the merely good, while good, is nevertheless the Wrong Thing. wugga
-wugga: /wuh'g@ wuh'g@/ n. Imaginary sound that a computer program makes as it
-labors with a tedious or difficult task. Compare {cruncha cruncha cruncha},
-{grind} (sense #4).
+its author, and possibly not even by him/her. A {Bad Thing}. write-only
+language: n. A language with syntax (or semantics) sufficiently dense and
+bizarre that any routine of significant size is {write-only code}. A
+sobriquet occasionally applied to C and often to APL, though {INTERCAL} and
+{TECO} certainly deserve it more. write-only memory: n. The obvious antonym
+to `read-only memory'. In frustration with the long and seemingly useless
+chain of approvals required of component specifications, during which no
+actual checking seemed to occur, an engineer at Signetics created a
+specification for a write-only memory, and included it with a bunch of other
+specifications to be approved. This inclusion came to the attention of
+Signetics only when regular customers started calling and asking for pricing
+information. Signetics published a corrected edition of the data book and
+requested the return of the `erroneous' ones. Later, about 1974, Signetics
+bought a double page spread in Electronics magazine's April issue and used
+the spec as an April Fools' day joke. Instead of the more conventional
+characteristic curves, the 25120 "fully encoded, 9046 x N, Random Access,
+write-only-memory" data sheet included diagrams of "bit capacity vs. Temp.",
+"Iff vs. Vff", "Number of pins remaining vs. number of socket insertions" and
+"AQL vs. selling price". The 25120 required a 6.3 VAC VFF supply, a +10V VCC,
+and VDD of 0V, +/- 2%. Wrong Thing: n. A design, action, or decision which is
+clearly incorrect or inappropriate. Often capitalized; always emphasized in
+speech as if capitalized. The opposite of the {Right Thing}; more generally,
+anything that is not the Right Thing. In cases where `the good is the enemy
+of the best', the merely good (while good) is nevertheless the Wrong Thing.
+wugga wugga: /wuh'g* wuh'g*/ n. Imaginary sound that a computer program makes
+as it labors with a tedious or difficult task. Compare {cruncha cruncha
+cruncha}, {grind} (sense #4).

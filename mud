@@ -17,34 +17,37 @@ copying/improving on the MUD concept, from which sprung several new MUDs
 for social interaction. Because USENET feeds have been spotty and difficult
 to get in Great Britain and the British JANET network doesn't support {FTP}
 or remote login via telnet, the MUDs became major foci of hackish social
-interaction there. LPMUD and other variants crossed the Atlantic around 1988
-and quickly gained popularity in the US; they became nuclei for large hacker
-communities with only loose ties to traditional hackerdom (some observers see
-parallels with the growth of USENET in the early 1980s). More recent MUDs
-(such as TinyMud), esp. in the US, have tended to emphasize social
+interaction there. AberMUD and other variants crossed the Atlantic around
+1988 and quickly gained popularity in the US; they became nuclei for large
+hacker communities with only loose ties to traditional hackerdom (some
+observers see parallels with the growth of USENET in the early 1980s). The
+second wave of MUDs (TinyMUD and variants) tended to emphasize social
 interaction, puzzles, and cooperative world-building as opposed to combat and
-competition. Whether this represents a genuine long-term trend is hard to
-say; the state of the art in MUD design is still moving very rapidly, with
-new simulation designs appearing (seemingly) every month. There is now (early
-1991) a move afoot to deprecate the term {MUD} itself, as newer designs
-exhibit an exploding variety of names corresponding to the different
-simulation styles being explored. see also {BartleMUD}, {berserking},
-{bonk/oif}, {brand brand brand}, {FOD}, {hack-and-slay}, {mudhead}, {posing},
-{talk mode}, {tinycrud}. mudhead: n. Commonly used to refer to a {MUD} player
-who sleeps, breathes, and eats MUD. Mudheads have frequently been known to
-fail their degrees, drop out, etc., with the consolation, however, that they
-made wizard level. When encountered in person, all a mudhead will talk about
-is two topics: the tactic, character, or wizard that in his/her view is
-always unfairly stopping him/her from becoming a wizard or beating a favorite
-MUD, and the MUD he/she is writing/going to write because all existing MUDs
-are so dreadful! see also {wannabee}. multician: /muhl-ti'shn/ [coined at
-Honeywell, c.1970] n. Competent user of {Multics}. Perhaps oddly, no one has
-ever promoted the analogous `Unician'. Multics: /muhl'tiks/ n. [from
-"MULTiplexed Information and Computing Service"] An early (late 1960s)
-timesharing operating system co-designed by a consortium including MIT, GE,
-and Bell Laboratories. Very innovative for its time --- among other things,
-it introduced the idea of treating all devices uniformly as special files.
-All the members but GE eventually pulled out after determining that
+competition. In 1991, over 50% of MUD sites are of a third major variety,
+LPMUD, which synthesizes the combat/puzzle aspects of AberMUD and older
+systems with the extensibility of TinyMud. The trend towards greater
+programmability and flexibility will doubtless continue. The state of the art
+in MUD design is still moving very rapidly, with new simulation designs
+appearing (seemingly) every month. There is now (early 1991) a move afoot to
+deprecate the term {MUD} itself, as newer designs exhibit an exploding
+variety of names corresponding to the different simulation styles being
+explored. see also {BartleMUD}, {berserking}, {bonk/oif}, {brand brand
+brand}, {FOD}, {hack-and-slay}, {link-dead}, {mudhead}, {posing}, {talk
+mode}, {tinycrud}. mudhead: n. Commonly used to refer to a {MUD} player who
+sleeps, breathes, and eats MUD. Mudheads have frequently been known to fail
+their degrees, drop out, etc., with the consolation, however, that they made
+wizard level. When encountered in person, all a mudhead will talk about is
+two topics: the tactic, character, or wizard that in his/her view is always
+unfairly stopping him/her from becoming a wizard or beating a favorite MUD,
+and the MUD he/she is writing/going to write because all existing MUDs are so
+dreadful! see also {wannabee}. multician: /muhl-ti'shn/ [coined at Honeywell,
+ca.1970] n. Competent user of {Multics}. Perhaps oddly, no one has ever
+promoted the analogous `Unician'. Multics: /muhl'tiks/ n. [from "MULTiplexed
+Information and Computing Service"] An early (late 1960s) timesharing
+operating system co-designed by a consortium including MIT, GE, and Bell
+Laboratories. Very innovative for its time --- among other things, it
+introduced the idea of treating all devices uniformly as special files. All
+the members but GE eventually pulled out after determining that
 {second-system effect} had bloated Multics to the point of practical
 unusability (the `lean' predecessor in question was {CTSS}). Honeywell
 commercialized Multics after buying out GE's computer group, but it was never
@@ -57,7 +60,7 @@ Multics design remain a topic of occasional debate among hackers. see also
 has for computers, to describe a person doing several things at once (but see
 {thrash}). The term `multiplex' from communications technology (meaning to
 handle more than one channel at the same time) is used similarly. mumblage:
-/muhm'bl@j/ n. The topic of one's mumbling (see {mumble}). "All that
+/muhm'bl*j/ n. The topic of one's mumbling (see {mumble}). "All that
 mumblage" is used like "all that stuff" when it is not quite clear what it is
 or how it works, or like "all that crap" when "mumble" is being used as an
 implicit replacement for obscenities. mumble: interj. 1. Said when the
@@ -70,14 +73,21 @@ bits for the microcode to use?" "Well, mumble... I'll have to think about
 it." 2. Sometimes used as an expression of disagreement. "I think we should
 buy a {VAX}." "Mumble!" Common variant: `mumble frotz' (see {frotz};
 interestingly, one does not say `mumble frobnitz' even though `frotz' is
-short for `frobnitz'). 3. Yet another metasyntactic variable, like {foo}.
-munch: [often confused with `mung', q.v.] vt. To transform information in a
-serial fashion, often requiring large amounts of computation. To trace down a
-data structure. Related to {crunch} and nearly synonymous with {grovel}, but
-connotes less pain. munching squares: n. A {display hack} dating back to the
-PDP-1 (c.1962, reportedly discovered by Jackson Wright), which employs a
+short for `frobnitz'). 3. Yet another metasyntactic variable, like {foo}. 4.
+When used as a question ("Mumble?") means "I didn't understand you." 5.
+Sometimes used in `public' contexts on-line as a placefiller for things one
+is barred from giving details about. For example, a poster with pre-released
+hardware in his machine might say "Yup, my machine now has an extra 16M of
+mem, thanks to the card I'm testing for Mumbleco." munch: [often confused
+with `mung', q.v.] vt. To transform information in a serial fashion, often
+requiring large amounts of computation. To trace down a data structure.
+Related to {crunch} and nearly synonymous with {grovel}, but connotes less
+pain. munching: n. Exploration of security holes of someone else's computer
+for thrills, notoriety, or to annoy the system manager. Compare {cracker}.
+see also {hacked off}. munching squares: n. A {display hack} dating back to
+the PDP-1 (c.1962, reportedly discovered by Jackson Wright), which employs a
 trivial computation (repeatedly plotting the graph Y = X XOR T for successive
-values of T --- see {HAKMEM} items 146-148) to produce an impressive display
+values of T --- see {HAKMEM} items 146--148) to produce an impressive display
 of moving and growing squares that devour the screen. The initial value of T
 is treated as a parameter, which, when well-chosen, can produce amazing
 effects. Some of these, later (re)discovered on the LISP machine, have been
@@ -146,23 +156,23 @@ of objects; "There were N bugs in that crock!"; also used in its original
 sense of a variable name. "This crock has N bugs, as N goes to infinity." 2.
 A variable whose value is inherited from the current context. For example,
 when ordering a meal at a restaurant, N may be understood to mean however
-many people there are at the table. From the remark "We'd like to order N
-wonton soups and a family dinner for N - 1.", you can deduce that one person
-at the table wants to eat only soup, even though you don't know how many
-people there are (see {great-wall}). 3. `Nth': adj. The ordinal counterpart
-of N, senses #1 and #2. "Now for the Nth and last time..." In the specific
-context "Nth-year grad student", N is generally assumed to be at least 4, and
-is usually 5 or more (see {tenured graduate student}). see also {{random
-numbers}}, {two-to-the-n}. nailed to the wall: [like a trophy] adj. Said of a
-bug finally eliminated after protracted, and even heroic, effort. nailing
-jelly: vi. see {like nailing jelly to a tree}. naive: adj. Untutored in the
-perversities of some particular program or system; one who still tries to do
-things in an intuitive way, rather than the right way (in really good designs
-these coincide, but most designs aren't `really good' in the appropriate
-sense). This is completely unrelated to general maturity or competence or
-even competence at any other program. It is a sad commentary on the primitive
-state of computing that the natural opposite of this term is often claimed to
-be `experienced user' but is really more like `cynical user'. naive user: 1.
-n. A {luser}. Tends to imply someone who is ignorant mainly due to
-inexperience; when applied to someone who *has* experience, there is a
-definite implication of stupidity.
+many people there are at the table. From the remark "We'd like to order `N'
+wonton soups and a family dinner for `N - 1'.", you can deduce that one
+person at the table wants to eat only soup, even though you don't know how
+many people there are (see {great-wall}). 3. `Nth': adj. The ordinal
+counterpart of N, senses #1 and #2. "Now for the Nth and last time..." In the
+specific context "Nth-year grad student", N is generally assumed to be at
+least 4, and is usually 5 or more (see {tenured graduate student}). see also
+{{random numbers}}, {two-to-the-n}. nailed to the wall: [like a trophy] adj.
+Said of a bug finally eliminated after protracted, and even heroic, effort.
+nailing jelly: vi. see {like nailing jelly to a tree}. naive: adj. Untutored
+in the perversities of some particular program or system; one who still tries
+to do things in an intuitive way, rather than the right way (in really good
+designs these coincide, but most designs aren't `really good' in the
+appropriate sense). This is completely unrelated to general maturity or
+competence or even competence at any other program. It is a sad commentary on
+the primitive state of computing that the natural opposite of this term is
+often claimed to be `experienced user' but is really more like `cynical
+user'. naive user: 1. n. A {luser}. Tends to imply someone who is ignorant
+mainly due to inexperience; when applied to someone who *has* experience,
+there is a definite implication of stupidity.

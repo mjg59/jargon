@@ -25,7 +25,7 @@ it. Astrology, BASIC, and the other guy's religion are often considered to be
 examples. This usage is given point by the historical fact that `joiner'
 ideologies like Naziism or various forms of millennarian Christianity have
 exhibited plague-like cycles of exponential growth followed by collapse to
-small reservoir populations. memetics: /m@-met'iks/ [from {meme}] The study
+small reservoir populations. memetics: /m*-met'iks/ [from {meme}] The study
 of memes. As of mid-1991, this is still an extremely informal and speculative
 endeavor, though the first steps towards at least statistical rigor have been
 made by H. Keith Henson and others. Memetics is a popular topic among
@@ -41,20 +41,20 @@ escape. Hackers find this intensely irritating and much prefer the
 flexibility of command-line or language-style interfaces, especially those
 customizable via macros or a special-purpose language in which one can encode
 useful hacks. see {user-obsequious}, {drool-proof paper}, {WIMP environment},
-{for the rest of us}. mess-dos: /mes-dos/ [UNIX hackers] n. Derisory term for
-MS-DOS. Often followed by the ritual expurgation "Just Say No!". see MS-DOS.
-Most hackers (even many MS-DOS hackers) loathe MS-DOS for its single-tasking
-nature, its limits on application size, its nasty primitive interface, and
-its ties to IBMness (see {fear and loathing}). Also `mess-loss', `messy-dos',
-`mess-dog', `mess-dross', and various combinations thereof. In Ireland it is
+{for the rest of us}. mess-dos: /mes-dos/ n. Derisory term for MS-DOS. Often
+followed by the ritual expurgation "Just Say No!". see MS-DOS. Most hackers
+(even many MS-DOS hackers) loathe MS-DOS for its single-tasking nature, its
+limits on application size, its nasty primitive interface, and its ties to
+IBMness (see {fear and loathing}). Also `mess-loss', `messy-dos', `mess-dog',
+`mess-dross', `mush-dos', and various combinations thereof. In Ireland it is
 even sometimes called `Domestos' after a brand of toilet cleanser. meta:
-/me't@/ or /may't@/ or (Commonwealth) /mee't@/ [from analytic philosophy]
+/me't*/ or /may't*/ or (Commonwealth) /mee't*/ [from analytic philosophy]
 adj. One level of description up. Thus, a meta-syntactic variable is a
 variable in notation used to describe syntax and meta-language is language
 used to describe language. This is difficult to explain briefly, but much
 hacker humor turns on deliberate confusion between meta-levels. see {{Humor,
 Hacker}}. meta bit: n. The top bit of an 8-bit character, on in character
-values 128-255. Also called {high bit}, {alt bit}, or {hobbit}. Some
+values 128--255. Also called {high bit}, {alt bit}, or {hobbit}. Some
 terminals and consoles (see {space-cadet keyboard}) have a META shift key.
 Others (including, *mirabile dictu*, keyboards on IBM PC-class machines) have
 an ALT key. see also {bucky bits}.

@@ -1,7 +1,7 @@
  EOF: /ee-oh-ef/ [acronym, End Of File] n. 1. [techspeak] Refers esp. to
 whatever pseudo-character value is returned by C's sequential character input
 functions (and their equivalents in other environments) when the logical end
-of file has been reached (this was 0 under V6 UNIX but, is -1 under V7 and
+of file has been reached (this was 0 under V6 UNIX but, is `-1' under V7 and
 all subsequent versions and all non-UNIX C library implementations). 2. Used
 by extension in non-computer contexts when a human is doing something that
 can be modelled as a sequential read and can't go further. "Yeah, I looked

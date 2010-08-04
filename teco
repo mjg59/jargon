@@ -6,18 +6,18 @@ Editor and Corrector'] n. A text editor developed at MIT and modified by just
 about everybody. If all the dialects are included, TECO might have been the
 single most prolific editor in use before {EMACS}, to which it was directly
 ancestral. Noted for its powerful programming-language-like features and its
-incredibly hairy syntax. It is literally the case that every possible
-sequence of {{ASCII}} characters is a valid, though probably uninteresting,
-TECO program; one common hacker game used to be mentally working out what the
-TECO commands corresponding to human names did. As an example, here is a TECO
-program that takes a list of names like this: Loser, J. Random Quux, The
-Great Dick, Moby sorts them alphabetically according to last name, and then
-puts the last name last, removing the comma, to produce this: Moby Dick J.
-Random Loser The Great Quux The program is: [1 J^P$L$$ J <.-Z; .,(S,$ -D
+unspeakably hairy syntax. It is literally the case that every string of
+characters is a valid TECO program (though probably not a useful one); one
+common hacker game used to be mentally working out what the TECO commands
+corresponding to human names did. As an example of TECO's obtusosity, here is
+a TECO program that takes a list of names like this: Loser, J. Random Quux,
+The Great Dick, Moby sorts them alphabetically according to last name, and
+then puts the last name last, removing the comma, to produce this: Moby Dick
+J. Random Loser The Great Quux The program is: [1 J^P$L$$ J <.-Z; .,(S,$ -D
 .)FX1 @F^B $K :L I $ G1 L>$$ (where ^B means `Control-B' (ASCII #b0000010)
 and $ is actually an {ALT} or escape (ASCII #b0011011) character). In fact,
 this very program was used to produce the second, sorted list from the first
-list! The first hack at it had a {bug}: GLS (the author) had accidentally
+list. The first hack at it had a {bug}: GLS (the author) had accidentally
 omitted the `@' in front of `F^B', which as anyone can see is clearly the
 {Wrong Thing}. It worked fine the second time. There is no space to describe
 all the features of TECO, but it may be of interest that `^P' means `sort'
@@ -30,6 +30,6 @@ however, and remains the focus of some antiquarian interest. see also
 transmission. "Oh, you're sending him the {bits} to that? Slap on a tee for
 me." From the UNIX command `tee(1)', itself named after a pipe fitting (see
 {plumbing}, {pipeline}). Can also mean `save one for me' as in "Tee a slice
-for me!". Also spelled `T'. Telerat: /tel'@-rat/ n. Unflattering hackerism
+for me!". Also spelled `T'. Telerat: /tel'*-rat/ n. Unflattering hackerism
 for `Teleray', a line of extremely losing terminals. see also {terminak},
 {sun-stools}, {HP-SUX}.

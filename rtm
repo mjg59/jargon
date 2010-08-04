@@ -1,28 +1,134 @@
- RTM: /ahr-tee-em/ [USENET, acronym for `Read The Manual'] Politer variant of
-{RTFM}. rude: [WPI] adj. 1. (of a program) Badly written. 2. Functionally
+ RTM: /ahr-tee-em/ [USENET, acronym for `Read The Manual'] 1. Politer variant
+of {RTFM}. 2. Robert T. Morris, perpetrator of the great Internet worm of
+1988; villain to many, naive hacker gone wrong to a few. Morris claimed that
+the worm which brought the Internet to its knees was a benign experiment that
+got out of control due to a coding error. After the storm of negative
+publicity that followed this blunder Morris's name on ITS was hacked from RTM
+to {RTFM}. rude: [WPI] adj. 1. (of a program) Badly written. 2. Functionally
 poor, e.g. a program which is very difficult to use because of gratuitously
 poor (random?) design decisions. see {cuspy}. runes: pl.n. 1. Anything that
 requires {heavy wizardry} or {black art} to {parse}; core dumps, JCL
-commands, or even code in a language you don't have the faintest idea how to
-read. Compare {casting the runes}, {Great Runes}. 2. Special display
-characters (for example, the high-half graphics on an IBM PC). runic: adj.
-Syn. {obscure}. VMS fans sometimes refer to UNIX as `Runix'; UNIX fans return
-the compliment by expanding VMS to `Very Messy Syntax' or `Vachement Mauvais
-Systeme' (French, lit. "Cowlike Bad System"). rusty iron: n. Syn. {tired
-iron}. It has been claimed that this is the inevitable fate of {water MIPS}.
-rusty memory: n. Mass-storage that uses iron-oxide-based magnetic media (esp.
-tape and the pre-Winchester removable disk packs used in {washing machine}s).
-Compare {donuts}. = S = ===== s/n ratio: n. (also `s:n ratio'). see
-{signal-to-noise ratio}. Often abbreviated `SNR'. sacred: adj. Reserved for
-the exclusive use of something (a metaphorical extension of the standard
-meaning). "Register 7 is sacred to the interrupt handler." Often means that
-anyone may look at the sacred object, but clobbering it will screw whatever
-it is sacred to. Example: The comment "Register 7 is sacred to the interrupt
-handler" appearing in a program would be interpreted by a hacker to mean that
-one part of the program, the `interrupt handler', uses register 7, and if any
-other part of the program changes the contents of register 7 dire
-consequences are likely to ensue. saga: [WPI] n. A cuspy but bogus raving
-story dealing with N random broken people. sagan: /say'gn/ [from Carl Sagan's
-TV series `Cosmos'; think `Billions and Billions'] n. A large quantity of
-anything. "There's a sagan different ways to tweak EMACS." "The US Government
-spends sagans on military hardware."
+commands, or even code in a language you hacen't a clue how to {parse}.
+Compare {casting the runes}, {Great Runes}. 2. Special display characters
+(for example, the high-half graphics on an IBM PC). runic: adj. Syn.
+{obscure}. VMS fans sometimes refer to UNIX as `Runix'; UNIX fans return the
+compliment by expanding VMS to `Very Messy Syntax' or `Vachement Mauvais
+Systeme' (French, lit. "Cowlike Bad System", idiomatically "Bitchy Bad
+System"). rusty iron: n. Syn. {tired iron}. It has been claimed that this is
+the inevitable fate of {water MIPS}. rusty memory: n. Mass-storage that uses
+iron-oxide-based magnetic media (esp. tape and the pre-Winchester removable
+disk packs used in {washing machine}s). Compare {donuts}. = S = ===== s/n
+ratio: n. (also `s:n ratio'). Syn. {signal-to-noise ratio}. Often abbreviated
+`SNR'. sacred: adj. Reserved for the exclusive use of something (an extension
+of the standard meaning). Often means that anyone may look at the sacred
+object, but clobbering it will screw whatever it is sacred to. Example: The
+comment "Register 7 is sacred to the interrupt handler." appearing in a
+program would be interpreted by a hacker to mean if any *other* part of the
+program changes the contents of register 7 dire consequences are likely to
+ensue. saga: [WPI] n. A cuspy but bogus raving story dealing with N random
+broken people. Here is a classic example of the saga form, as told by Guy L.
+Steele: Jon L. White (login name JONL) and I (GLS) were office mates at MIT
+for many years. One April we both flew from Boston to California for a week
+on research business, to consult face-to-face with some people at Stanford,
+particularly our mutual friend Richard P. Gabriel (RPG; see {Gabriel}). RPG
+picked us up at the San Francisco airport and drove us back to Palo Alto
+(going {logical} south on route 101, parallel to {El Camino Bignum}). Palo
+Alto is adjacent to Stanford University, and about forty miles south of San
+Francisco. We ate at The Good Earth, a `health food' restaurant, very
+popular, the sort whose milkshakes all contain honey and protein powder. JONL
+ordered such a shake --- the waitress claimed the flavor of the day was
+"lalaberry". I still have no idea what that might be, but it became a running
+joke. It was the color of raspberry, and JONL said it tasted rather bitter. I
+ate a better tostada there than I have ever had in a Mexican restaurant.
+After this we went to the local Uncle Gaylord's Old Fashioned Ice Cream
+Parlor. They make ice cream fresh daily, in a variety of intriguing flavors.
+It's a chain, and they have a slogan: "If you don't live near an Uncle
+Gaylord's --- MOVE!" Also, Uncle Gaylord (a real person) wages a constant
+battle to force big-name ice cream makers to print their ingredients on the
+package (like air and plastic and other non-natural garbage). JONL and I had
+first discovered Uncle Gaylord's the previous August, when we had flown to a
+computer science conference in Berkeley, California, the first time either of
+us had been on the West Coast. When not in the conference sessions, we had
+spent our time wandering the length of Telegraph Street, which, like Harvard
+Square in Cambridge, Massachusetts, in summer was lined with picturesque
+street vendors and interesting little shops. On that street we discovered
+Uncle Gaylord's Berkeley store. The ice cream there was very good. During
+that August visit JONL went absolutely bananas (so to speak) over one
+particular flavor, ginger honey. Therefore, after eating at The Good Earth
+--- indeed, after every lunch and dinner and before bed during our April
+visit --- a trip to Uncle Gaylord's (the one in Palo Alto) was mandatory. We
+had arrived on a Wednesday, and by Thursday evening we had been there at
+least four times. Each time JONL would get ginger honey ice cream, and
+proclaim to all bystanders that "Ginger was the spice that drove the
+Europeans mad! That's why they sought a route to the East! They used it to
+preserve their otherwise off-taste meat." After the third or fourth
+repetition RPG and I were getting a little tired of this spiel, and began to
+paraphrase him: "Wow! Ginger! The spice that makes rotten meat taste good!"
+"Say! Why don't we find some dog that's been run over and sat in the sun for
+a week and put some *ginger* on it for dinner?!" "Right! With a lalaberry
+shake!" And so on. This failed to faze JONL; he took it in good humor, as
+long as we kept returning to Uncle Gaylord's. He loves ginger honey ice
+cream. Now RPG and his wife KBT (Kathy Tracy) were putting us up (putting up
+with us?) in their home for our visit, so to thank them JONL and I took them
+out to a nice French restaurant of their choosing. I unadventurously chose
+the filet mignon, and KBT had `je ne sais quoi du jour', but RPG and JONL had
+`lapin' (rabbit). (Waitress: "`Oui', we have fresh rabbit, fresh today." RPG:
+"Well, JONL, I guess we won't need any *ginger*!") We finished the meal late,
+about 11 PM, which is 2 AM Boston time, so JONL and I were rather droopy. But
+it wasn't yet midnight. Off to Uncle Gaylord's! Now the French resturant was
+in Redwood City, north of Palo Alto. In leaving Redwood City, we somehow got
+onto route 101 going north instead of south. JONL and I woudln't have known
+the difference had RPG not mentioned it. We still knew very little of the
+local geography. I did figure out, however, that we were headed in the
+direction of Berkeley, and half-jokingly suggested that we continue north and
+go to Uncle Gaylord's in Berkeley. RPG said "Fine!" and we drove on for a
+while and talked. I was drowsy, and JONL actually dropped off to sleep for
+five minutes. When he awoke, RPG said, "Gee, JONL, you must have slept all
+the way over the bridge!" referring to the one spanning San Francisco Bay.
+Just then we came to a sign that said "University Avenue". I mumbled
+something about working our way over to Telegraph Street; RPG said "Right!"
+and maneuvered some more. Eventually we pulled up in front of an Uncle
+Gaylord's. Now I hadn't really been paying attention because I was so sleepy,
+and I didn't really understand what was happening until RPG let me in on it a
+few moments later, but I was just alert enough to notice that we had somehow
+some to the Palo Alto Uncle Gaylord's after all. JONL noticed the resemblance
+to the Palo Alto store, but hadn't caught on. (The place is lit with red and
+yellow lights at night, and looks much different from the way it does in
+daylight.) He said, "This isn't the Uncle Gaylord's I went to in Berkeley! It
+looked like a barn! But this place looks *just like* the one back in Palo
+Alto!" RPG deadpanned, "Well, this is the one *I* alwasy come to when I'm in
+Berkeley. They've got two in San Francisco, too. Remember, they're a chain."
+JONL accepted this bit of wisdom. And he was not totally ignorant --- he knew
+perfectly well that University Avenue was in Berkeley, not far from Telegraph
+Street. What he didn't know was that there is a completely different
+University Avenue in Palo Alto. JONL went up to the counter and asked for
+ginger honey. The guy at the counter asked whether JONL would like to taste
+it first, evidently their standard procedure with that flavor, as not too
+many people like it. JONL said, "I'm sure I like it. Just give me a cone."
+The guy behind the counter insisted that JONL try just a taste first. "Some
+people think it tastes like soap." JONL insisted, "Look, I /love/ ginger. I
+eat Chinese food. I eat raw ginger roots. I already went through this hassle
+with the guy back in Palo Alto. I *know* I like that flavor!" At the words
+"back in Palo Alto" the guy behind the counter got a very strange look on his
+face, but said nothing. KBT caught his eye and winked. Through my stupor I
+still hadn't quite grasped what was going on, and thought RPG was rolling on
+the floor laughing and clutching his stomach just because JONL had launched
+into his spiel ("makes rotten meat a dish for princes") for the forty-third
+time. At this point RPG clued me in fully. RPG, KBT, and I retreated to a
+table, trying to stifle our chuckles. JONL remained at the counter, talking
+about ice cream with the guy b.t.c., comparing Uncle Gaylord's to other ice
+cream shops and generally having a good old time. At length the g.b.t.c.
+said, "How's the ginger honey?" JONL said, "Fine! I wonder what exactly is in
+it?" Now Uncle Gaylord publishes all his recipes and even teaches classes on
+how to make his ice cream at home. So the g.b.t.c. got out the recipe, and he
+and JONL pored over it for a while. But the g.b.t.c. could contain his
+curiosity no longer, and asked again, "You really like that stuff, huh?" JONL
+said, "Yeah, I've been eating it constantly back in Palo Alto for the past
+two days. In fact, I think this batch is about as good as the cones I got
+back in Palo Alto!" G.b.t.c. looked him straight in the eye and said, "You're
+*in* Palo Alto!" JONL turned slowly around, and saw the three of us collapse
+in a fit of giggles. He clapped a hand to his forehead and exclaimed, "I've
+been {hack}ed!" sagan: /say'gn/ [from Carl Sagan's TV series `Cosmos'; think
+`Billions and Billions'] n. A large quantity of anything. "There's a sagan
+different ways to tweak EMACS." "The US Government spends sagans on bombs and
+welfare --- hard to say which is more destructive."

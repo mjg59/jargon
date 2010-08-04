@@ -16,16 +16,17 @@ mention the drug problem or he'll go nonlinear for hours." In this context,
 `go nonlinear' connotes `blow up out of proportion' (proportion connotes
 linearity). nontrivial: adj. Requiring real thought or significant computing
 power. Often used as an understated way of saying that a problem is quite
-difficult or impractical. The preferred emphatic form is `decidedly
-nontrivial'. see {trivial}, {uninteresting}, {interesting}. notwork: n. A
-network, when it's acting {flaky} or is {down}. Compare {nyetwork}. Orig.
-referred to a particular period of flakiness on IBM's VNET corporate network,
-c.1988. NP-: /en pee/ pref. Extremely. Used to modify adjectives describing a
-level or quality of difficulty; the connotation is often `more so than it
-should be' (NP-complete problems all seem to be very hard, but so far no one
-has found a good a-priori reason that they should be.) "Getting this
-algorithm to perform correctly in every case is NP-annoying." This is
-generalized from the computer science terms `NP-hard' and `NP-complete'. NP
-is the set of Nondeterministic-Polynomial algorithms, those that can be
-completed by a nondeterministic finite state machine in an amount of time
-that is a polynomial function of the size of the input.
+difficult or impractical, or even entirely unsolvable ("Proving P=NP is
+nontrivial."). The preferred emphatic form is `decidedly nontrivial'. see
+{trivial}, {uninteresting}, {interesting}. notwork: n. A network, when it's
+acting {flaky} or is {down}. Compare {nyetwork}. Orig. referred to a
+particular period of flakiness on IBM's VNET corporate network, ca.1988. NP-:
+/en pee/ pref. Extremely. Used to modify adjectives describing a level or
+quality of difficulty; the connotation is often `more so than it should be'
+(NP-complete problems all seem to be very hard, but so far no one has found a
+good a-priori reason that they should be.) "Getting this algorithm to perform
+correctly in every case is NP-annoying." This is generalized from the
+computer science terms `NP-hard' and `NP-complete'. NP is the set of
+Nondeterministic-Polynomial algorithms, those that can be completed by a
+nondeterministic finite state machine in an amount of time that is a
+polynomial function of the size of the input.
