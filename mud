@@ -27,13 +27,15 @@ in the U.S.; they became nuclei for large hacker communities with only loose
 ties to traditional hackerdom (some observers see parallels with the growth
 of Usenet in the early 1980s). The second wave of MUDs (TinyMUD and variants)
 tended to emphasize social interaction, puzzles, and cooperative
-world-building as opposed to combat and competition. In 1991, over 50% of MUD
-sites are of a third major variety, LPMUD, which synthesizes the
+world-building as opposed to combat and competition. By 1991, over 50% of MUD
+sites were of a third major variety, LPMUD, which synthesizes the
 combat/puzzle aspects of AberMUD and older systems with the extensibility of
-TinyMud. The trend toward greater programmability and flexibility will
-doubtless continue. The state of the art in MUD design is still moving very
-rapidly, with new simulation designs appearing (seemingly) every month.
-Around 1991 there was an unsuccessful movement to deprecate the term {MUD}
-itself, as newer designs exhibit an exploding variety of names corresponding
-to the different simulation styles being explored. It survived. see also
-{bonk/oif}, {FOD}, {link-dead}, {mudhead}, {talk mode}.
+TinyMud. In 1996 the cutting edge of the technology is Pavel Curtis's MOO,
+even more extensible using a built-in object-oriented language. The trend
+toward greater programmability and flexibility will doubtless continue. The
+state of the art in MUD design is still moving very rapidly, with new
+simulation designs appearing (seemingly) every month. Around 1991 there was
+an unsuccessful movement to deprecate the term {MUD} itself, as newer designs
+exhibit an exploding variety of names corresponding to the different
+simulation styles being explored. It survived. see also {bonk/oif}, {FOD},
+{link-dead}, {mudhead}, {talk mode}.

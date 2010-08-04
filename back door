@@ -6,7 +6,7 @@ vendor's maintenance programmers. Syn. {trap door}; may also be called a
 `wormhole'. see also {iron box}, {cracker}, {worm}, {logic bomb}.
 Historically, back doors have often lurked in systems longer than anyone
 expected or planned, and a few have become widely known. Ken Thompson's 1983
-Turing Award lecture to the ACM suggested the possibility of a back door in
+Turing Award lecture to the ACM admitted the existence of a back door in
 early Unix versions that may have qualified as the most fiendishly clever
 security hack of all time. In this scheme, the C compiler contained code that
 would recognize when the `login' command was being recompiled and insert some

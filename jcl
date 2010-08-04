@@ -11,4 +11,6 @@ tune of the "Mickey Mouse Club" theme to express their opinion of the beast.
 2. A comparative for any very {rude} software that a hacker is expected to
 use. "That's as bad as JCL." As with {COBOL}, JCL is often used as an
 archetype of ugliness even by those who haven't experienced it. see also
-{IBM}, {fear and loathing}.
+{IBM}, {fear and loathing}. A (poorly documented, naturally) shell simulating
+JCL syntax is available at the Retrocomputing Museum
+http://www.ccil.org/retro/retromuseum.html.

@@ -77,24 +77,26 @@ the pound graphic happens to replace `#'; thus Britishers sometimes call `#'
 on a U.S.-ASCII keyboard `pound', compounding the American error). The U.S.
 usage derives from an old-fashioned commercial practice of using a `#' suffix
 to tag pound weights on bills of lading. The character is usually pronounced
-`hash' outside the U.S. The `uparrow' name for circumflex and `leftarrow'
-name for underline are historical relics from archaic ASCII (the 1963
-version), which had these graphics in those character positions rather than
-the modern punctuation characters. The `swung dash' or `approximation' sign
-is not quite the same as tilde in typeset material but the ASCII tilde serves
-for both (compare {angle brackets}). Some other common usages cause odd
-overlaps. The `#', `$', `>', and `&' characters, for example, are all
-pronounced "hex" in different communities because various assemblers use them
-as a prefix tag for hexadecimal constants (in particular, `#' in many
-assembler-programming cultures, `$' in the 6502 world, `>' at Texas
-Instruments, and `&' on the BBC Micro, Sinclair, and some Z80 machines). see
-also {splat}. The inability of ASCII text to correctly represent any of the
-world's other major languages makes the designers' choice of 7 bits look more
-and more like a serious {misfeature} as the use of international networks
-continues to increase (see {software rot}). Hardware and software from the
-U.S. still tends to embody the assumption that ASCII is the universal
-character set and that characters have 7 bits; this is a a major irritant to
-people who want to use a character set suited to their own languages.
-Perversely, though, efforts to solve this problem by proliferating `national'
-character sets produce an evolutionary pressure to use a *smaller* subset
-common to all those in use.
+`hash' outside the U.S. There are more culture wars over the correct
+pronunciation of this character than any other, which has led to the {ha ha
+only serious} suggestion that it be pronounced `shibboleth' (see Judges 12.6
+in a Christian Bible). The `uparrow' name for circumflex and `leftarrow' name
+for underline are historical relics from archaic ASCII (the 1963 version),
+which had these graphics in those character positions rather than the modern
+punctuation characters. The `swung dash' or `approximation' sign is not quite
+the same as tilde in typeset material but the ASCII tilde serves for both
+(compare {angle brackets}). Some other common usages cause odd overlaps. The
+`#', `$', `>', and `&' characters, for example, are all pronounced "hex" in
+different communities because various assemblers use them as a prefix tag for
+hexadecimal constants (in particular, `#' in many assembler-programming
+cultures, `$' in the 6502 world, `>' at Texas Instruments, and `&' on the BBC
+Micro, Sinclair, and some Z80 machines). see also {splat}. The inability of
+ASCII text to correctly represent any of the world's other major languages
+makes the designers' choice of 7 bits look more and more like a serious
+{misfeature} as the use of international networks continues to increase (see
+{software rot}). Hardware and software from the U.S. still tends to embody
+the assumption that ASCII is the universal character set and that characters
+have 7 bits; this is a a major irritant to people who want to use a character
+set suited to their own languages. Perversely, though, efforts to solve this
+problem by proliferating `national' character sets produce an evolutionary
+pressure to use a *smaller* subset common to all those in use.

@@ -9,10 +9,11 @@ tight loops and recursions in the code's central algorithm, as opposed to
 {tune}, {bum}, {hand-hacking}. 2. The active location of a cursor on a
 bit-map display. "Put the mouse's hot spot on the `ON' widget and click the
 left button." 3. A screen region that is sensitive to mouse gestures, which
-trigger some action. World Wide Web pages are now the canonical example; WWW
-browsers present hypertext links as hot spots which, when clicked on, point
-the browser at another document. 4. In a massively parallel computer with
-shared memory, the one location that all 10,000 processors are trying to read
-or write at once (perhaps because they are all doing a {busy-wait} on the
-same lock). 5. More generally, any place in a hardware design that turns into
-a performance bottleneck due to resource contention.
+trigger some action. World Wide Web pages are now provide the {canonical}
+examples; WWW browsers present hypertext links as hot spots which, when
+clicked on, point the browser at another document (these are specifically
+called {hotlink}s). 4. In a massively parallel computer with shared memory,
+the one location that all 10,000 processors are trying to read or write at
+once (perhaps because they are all doing a {busy-wait} on the same lock). 5.
+More generally, any place in a hardware design that turns into a performance
+bottleneck due to resource contention.

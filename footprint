@@ -3,7 +3,7 @@
 `footprints'). see also {toeprint}. 3. "RAM footprint": The minimum amount of
 RAM which an OS or other program takes; this figure gives one one an idea of
 how much will be left for other applications. How actively this RAM is used
-is entirely another matter. Recent tendencies to featuritis and software
+is another matter entirely. Recent tendencies to featuritis and software
 bloat can expand the RAM footprint of an OS to the point of making it nearly
 unusable in practice. [This problem is, thankfully, limited to operating
 systems so stupid that they don't do virtual memory -- ESR]

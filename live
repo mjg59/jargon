@@ -1,6 +1,6 @@
  :live: /li:v/ /adj.,adv./ Opposite of `test'. Refers to actual real-world
 data or a program working with it. For example, the response to "I think the
-record deleter is finished." might be "Is it live yet?" "Have you tried it
+record deleter is finished." might be "Is it live yet?" or "Have you tried it
 out on live data?" This usage usually carries the connotation that live data
 is more fragile and must not be corrupted, or bad things will happen. So a
 more appropriate response might be: "Well, make sure it works perfectly

@@ -6,6 +6,6 @@ the Lawrence Berkeley Laboratory and observed that usage has drifted
 slightly; the original sobriquet `Joe code' was intended in sense 1. 1994
 update: This term has now generalized to `<name> code', used to designate
 code with distinct characteristics traceable to its author. "This section
-doesn't check for a NULL return from malloc! Oh. No wonder! It's Ed code!".
+doesn't check for a NULL return from malloc()! Oh. No wonder! It's Ed code!".
 Used most often with a programmer who has left the shop and thus is a
 convenient scapegoat for anything that is wrong with the project.

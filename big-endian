@@ -10,8 +10,9 @@ byte order is also sometimes called `network order'. see {little-endian},
 way round. Most of the world follows the Internet standard and writes email
 addresses starting with the name of the computer and ending up with the name
 of the country. In the U.K. the Joint Networking Team had decided to do it
-the other way round before the Internet domain standard was established;
-e.g., me@as.pys.bris.ac.uk. Most gateway sites have {ad-hockery} in their
-mailers to handle this, but can still be confused. In particular, the address
-above could be in the U.K. (domain uk) or the domain as (American Samoa) on
+the other way round before the Internet domain standard was established. Most
+gateway sites have {ad-hockery} in their mailers to handle this, but can
+still be confused. In particular, the address me@uk.ac.bris.pys.as could be
+interpreted in JANET's big-endian way as one in the U.K. (domain uk) or in
+the standard little-endian way as one in the domain as (American Samoa) on
 the opposite side of the world.

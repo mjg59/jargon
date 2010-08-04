@@ -10,4 +10,9 @@ generator), which provides the necessary {incantation}s to set up some task
 and the control flow to drive it (the term {driver} is sometimes used
 synonymously). The user is meant to fill in whatever code is needed to get
 real work done. This usage is common in the AI and Microsoft Windows worlds,
-and confuses Unix hackers.
+and confuses Unix hackers. Historical note: Apparently, the original Multics
+shell (sense 1) was so called because it was a shell (sense 3); it ran user
+programs not by starting up separate processes, but by dynamically linking
+the programs into its own code, calling them as subroutines, and then
+dynamically de-linking them on return. The VMS command interpreter still does
+something very like this.

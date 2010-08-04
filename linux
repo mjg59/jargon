@@ -1,12 +1,12 @@
- :Linux:: /n./ /lee'nuks/, *not* /li'nuks/ The free Unix workalike created by
-Linus Torvalds and friends starting about 1990 (it's pronounced /lee'nuks/
-because the name `Linus' has a long i in Swedish). This may be the most
-remarkable hacker project in history -- an entire clone of Unix for 386, 486
-and Pentium micros, distributed for free with sources over the net (ports to
-Alpha and Sparc-based machines are underway). This is what {GNU} aimed to be,
-but the Free Software Foundation has not (as of early 1996) produced the
-kernel to go with its Unix toolset (which Linux uses). Other, similar efforts
-like FreeBSD and NetBSD have been much less successful. The secret of Linux's
-success seems to be that Linus worked much harder early on to keep the
-development process open and recruit other hackers, creating a snowball
-effect.
+ :Linux:: /lee'nuhks/ or /li'nux/, *not* /li:'nuhks/ /n./ The free Unix
+workalike created by Linus Torvalds and friends starting about 1990 (the
+pronunciation /lee'nuhks/ is preferred because the name `Linus' has an /ee/
+sound in Swedish). This may be the most remarkable hacker project in history
+-- an entire clone of Unix for 386, 486 and Pentium micros, distributed for
+free with sources over the net (ports to Alpha and Sparc-based machines are
+underway). This is what {GNU} aimed to be, but the Free Software Foundation
+has not (as of early 1996) produced the kernel to go with its Unix toolset
+(which Linux uses). Other, similar efforts like FreeBSD and NetBSD have been
+much less successful. The secret of Linux's success seems to be that Linus
+worked much harder early on to keep the development process open and recruit
+other hackers, creating a snowball effect.

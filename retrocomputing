@@ -9,4 +9,6 @@ corresponding pattern in {{punched card}} code. Other well-known
 retrocomputing hacks have included the programming language {INTERCAL}, a
 {JCL}-emulating shell for Unix, the card-punch-emulating editor named 029,
 and various elaborate PDP-11 hardware emulators and RT-11 OS emulators
-written just to keep an old, sourceless {Zork} binary running.
+written just to keep an old, sourceless {Zork} binary running. A tasty
+selection of retrocomputing programs are made available at the Retrocomputing
+Museum http://www.ccil.org/retro/retromuseum.html.

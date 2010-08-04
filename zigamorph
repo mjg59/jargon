@@ -5,4 +5,4 @@ not assigned to any character, and so is usable as end-of-string. (Unicode (a
 subset of ISO 10646) is a 16-bit character code intended to cover all of the
 world's writing systems, including Roman, Greek, Cyrillic, Chinese, hiragana,
 katakana, Devanagari, Ethiopic, Thai, Laotian and many other languages
-(support for {elvish} is planned for a future release.)
+(support for {elvish} is planned for a future release).

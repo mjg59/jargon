@@ -21,4 +21,5 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 _-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_ _-_-_-_ }
 Note that this program works by computing its own area. For more digits,
-write a bigger program. see also {hello, world}.
+write a bigger program. see also {hello, world}. The IOCC has an official
+home page at http://reality.sgi.com/csp/ioccc.

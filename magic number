@@ -13,13 +13,14 @@ types of executable file by looking for a magic number. Once upon a time,
 these magic numbers were PDP-11 branch instructions that skipped over header
 data to the start of executable code; 0407, for example, was octal for
 `branch 16 bytes relative'. Many other kinds of files now have magic numbers
-somewhere; some magic numbers are, in fact, strings, like the "`!<arch>'" at
-the beginning of a Unix archive file. Nowadays only a {wizard} knows the
-spells to create magic numbers. How do you choose a fresh magic number of
-your own? Simple -- you pick one at random. see? It's magic! *The* magic
-number, on the other hand, is 7+/-2. see "The magical number seven, plus or
-minus two: some limits on our capacity for processing information" by George
-Miller, in the "Psychological Review" 63:81-97 (1956). This classic paper
-established the number of distinct items (such as numeric digits) that humans
-can hold in short-term memory. Among other things, this strongly influenced
-the interface design of the phone system.
+somewhere; some magic numbers are, in fact, strings, like the `!<arch>' at
+the beginning of a Unix archive file or the `%!' leading PostScript files.
+Nowadays only a {wizard} knows the spells to create magic numbers. How do you
+choose a fresh magic number of your own? Simple -- you pick one at random.
+see? It's magic! *The* magic number, on the other hand, is 7+/-2. see "The
+magical number seven, plus or minus two: some limits on our capacity for
+processing information" by George Miller, in the "Psychological Review"
+63:81-97 (1956). This classic paper established the number of distinct items
+(such as numeric digits) that humans can hold in short-term memory. Among
+other things, this strongly influenced the interface design of the phone
+system.
