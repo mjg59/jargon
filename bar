@@ -1,0 +1,3 @@
+ BAR (bar) 1. The second metasyntactic variable, after FOO and before BAZ.
+"Suppose we have two functions FOO and BAR. FOO calls BAR..." 2. Often
+appended to FOO to produce FOOBAR.

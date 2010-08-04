@@ -1,4 +1,4 @@
- SNARF v. To grab, esp. a large document or file for the pur- pose of using
-it either with or without the author's permission. see BLT. Variant: SNARF
-(IT) DOWN. (At MIT on ITS, DDT has a command called :SNARF which grabs a job
-from another (inferior) DDT.)
+ SNARF & BARF (snarf-n-barf) n. The act of grabbing a region of text using a
+WIMP (q.v.) environment (Window, Icon, Mouse, Pointer) and then "stuffing"
+the contents of that region into another region or into the same region, to
+avoid re-typing a command line.

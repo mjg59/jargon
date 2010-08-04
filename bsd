@@ -1,0 +1,7 @@
+ BSD (bee-ess-dee) n. [acronym for Berkeley System Distribution] a family of
+UNIX versions for the DEC VAX developed by Bill Joy and others at UC Berkeley
+starting around 1980, incorporating TCP/IP networking enhancements and many
+other features. The BSD versions (4.1, 4.2, and 4.3) and commercial versions
+derived from them (SunOS and Mt. Xinu) held the technical lead in the UNIX
+world until AT&T's successful standardization efforts after about 1986, and
+are still widely popular. see UNIX, USG UNIX.

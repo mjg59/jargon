@@ -1,4 +1,3 @@
- BIT BUCKET n. 1. A receptacle used to hold the runoff from the computer's
-shift registers. 2. Mythical destination of deleted files, GC'ed memory, and
-other no-longer- accessible data. 3. The physical device associated with
-"NUL:".
+ BIT BUCKET (bit buhk'@t) n. The great data sink in the sky. Data that is
+discarded is said to "go to the bit bucket". On UNIX, often used for
+/dev/null. Sometimes amplified as THE GREAT BIT BUCKET IN THE SKY.

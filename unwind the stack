@@ -1,0 +1,6 @@
+ UNWIND THE STACK (un-wiend' thuh stack) v. During the execution of a
+procedural language one is said to `unwind the stack' from a called procedure
+up to a caller when one discards the stack frame and any number of frames
+above it, popping back up to the level of the given caller. In C this is done
+with longjmp/setjmp; in LISP with THROW/CATCH. This is sometimes necessary
+when handling exceptional conditions. see also SMASH THE STACK.

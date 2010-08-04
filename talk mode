@@ -1,1 +1,30 @@
- TALK MODE see COM MODE.
+ TALK MODE n. The state a terminal is in when linked to another via a
+bidirectional character pipe to support on-line dialogue between two or more
+users. Talk mode has a special set of jargon words, used to save typing,
+which are not used orally: BCNU Be seeing you. BTW By the way... BYE? Are you
+ready to unlink? (This is the standard way to end a com mode conversation;
+the other person types BYE to confirm, or else continues the conversation.)
+CUL see you later. FOO? A greeting, also meaning R U THERE? Often used in the
+case of unexpected links, meaning also "Sorry if I butted in" (linker) or
+"What's up?" (linkee). FYI For your information... GA Go ahead (used when two
+people have tried to type simultaneously; this cedes the right to type to the
+other). HELLOP A greeting, also meaning R U THERE? (An instance of the "-P"
+convention.) NIL No (see the main entry for NIL). OBTW Oh, by the way... R U
+THERE? Are you there? SEC Wait a second (sometimes written SEC...). T Yes
+(see the main entry for T). TNX Thanks. TNX 1.0E6 Thanks a million
+(humorous). WTH What the hell <double CRLF> When the typing party has
+finished, he types two CRLFs to signal that he is done; this leaves a blank
+line between individual "speeches" in the conversation, making it easier to
+re-read the preceding text. <name>: When three or more terminals are linked,
+each speech is preceded by the typist's login name and a colon (or a hyphen)
+to indicate who is typing. The login name often is shortened to a unique
+prefix (possibly a single letter) during a very long conversation. Most of
+the above "sub-jargon" is used at both Stanford and MIT. A few other abbrevs
+have been reported from commercial networks such as GEnie and Compuserve
+where on-line `live' chat including more than two people is common and
+usually involves a more `social' context, notably <g> grin BRB be right back
+HHOJ ha ha only joking HHOS HA HA ONLY SERIOUS LOL laughing out load ROTF
+rolling on the floor AFK away from keyboard b4 before CU l8tr see you later
+MORF Male or Female? TTFN ta-ta for now OIC Oh, I see rehi hello again These
+are not used at universities; conversely, most of the people who know these
+are unfamiliar with FOO?, BCNU, HELLOP, NIL, and T.

@@ -1,0 +1,5 @@
+ BUSY-WAIT (bi'zee-wayt) v. To wait on an event by SPINning through a tight
+or timed-delay loop that checks for the event on each pass, as opposed to
+setting up an interrupt handler and continuing execution on another part of
+the task. A wasteful technique, best avoided on time-sharing systems where a
+busy-waiting program may hog the processor.

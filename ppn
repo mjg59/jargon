@@ -1,7 +1,7 @@
  PPN (pip'in) [DEC terminology, short for Project-Programmer Number] n. 1. A
-combination "project" (directory name) and programmer name, used to identify
-a specific direc- tory belonging to that user. For instance, "FOO,BAR" would
-be the FOO directory for user BAR. Since the name is restricted to three
+combination `project' (directory name) and programmer name, used to identify
+a specific directory belonging to that user. For instance, "FOO,BAR" would be
+the FOO directory for user BAR. Since the name is restricted to three
 letters, the programmer name is usually the person's initials, though
 sometimes it is a nickname or other special sequence. (Standard DEC setup is
 to have two octal numbers instead of characters; hence the original acronym.)

@@ -1,0 +1,10 @@
+ REGULAR EXPRESSIONS (reg'yoo-lr ek-spre-shns) [UNIX] The UNIX conventions
+for filename and regular-expression wildcarding have become sufficiently
+pervasive than many hackers use some of them in written English, especially
+in email or news on technical topics. Those commonly encountered include: *
+wildcard for any string (see UN*X, U*IX). ? wildcard for any character
+(generally only read this way in the middle of a word. [] set-of-characters
+braces. Some examples: "He said his name was [KC]arl" (expresses ambiguity).
+"That got posted to talk.politics.*" (all the talk.politics subgroups on
+USENET). Other examples are given under the entry for `X'. The * wildcard has
+a name of its own; it's a `Kleene star'.

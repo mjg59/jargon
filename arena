@@ -1,0 +1,5 @@
+ ARENA (a-ree'nuh) [UNIX] n. The area of memory attached to a process by
+brk(2) and sbrk(2) and used by malloc(3) as dynamic storage. So named from a
+semi-mythical "malloc: corrupt arena" message supposedly emitted when some
+early versions became terminally confused. see OVERRUN SCREW, ALIASING SCREW,
+MEMORY LEAK, SMASH THE STACK.

@@ -1,0 +1,27 @@
+ PRONUNCIATION GUIDE The pronunciation keys in the jargon listing use the
+following simple system: 1) Syllables are hyphen-separated, except that an
+apostrophe or back-apostrophe follows each accented syllable (the back
+apostrophe marks a secondary accent in some words of four or more syllables).
+2) Consonants are pronounced as in American English. The letter "g" is always
+hard (as in "got" rather than "giant"); "ch" is soft ("church" rather than
+"chemist"). The letter "j" is the sound that occurs twice in "judge". The
+letter "s" is always as in "pass", never a z sound (but it is sometimes
+doubled at the end of syllables to emphasize this). The digraph `dh' is the
+th of `these clothes', not of `thick'. 3) Vowels are represented as follows:
+a back, that ah father, palm ar far, mark aw flaw, caught ay bake, rain e
+less, men ee easy, ski eir their, software i trip, hit ie life, sky o cot,
+top oh flow, sew oo loot, through or more, door ow out, how oy boy, coin uh
+but, some u put, foot y yet yoo few [y]oo oo with optional `fronting' as in
+`news' (noos or nyoos). An at-sign is used for the "schwa" sound of
+unstressed or occluded vowels (the one that is often written with an
+upside-down "e"). The schwa vowel is omitted in syllables containing vocalic
+r, l, m or n; that is, "kitten" and "color" would be rendered "kit'n" and
+"kul'r". THE JARGON ITSELF = = @BEGIN [primarily CMU] with @End, used
+humorously in writing to indicate a context or to remark on the surrounded
+text. From the SCRIBE command of the same name. For example: @Begin(Flame)
+Predicate logic is the only good programming language. Anyone who would use
+anything else is an idiot. Also, computers should be tredecimal instead of
+binary. @End(Flame) On USENET, this construct would more frequently be
+rendered as <FLAME ON> and <FLAME OFF>. = A = ABEND (ab'end) n. Abnormal
+termination (of software); crash; lossage. Derives from an error message on
+the IBM 360, but has passed into more general use.

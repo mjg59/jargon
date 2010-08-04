@@ -1,0 +1,5 @@
+ WALL TIME (wahl tiem) n. 1. `Real world' time (what the clock on the wall
+shows) as opposed to the system clock's idea of time. 2. The real running
+time of a program, as opposed to the number of CLOCKS required to execute it
+(on a timesharing system these will differ, as no one program gets all the
+CLOCKS).

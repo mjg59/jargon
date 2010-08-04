@@ -1,0 +1,5 @@
+ HEISENBUG (hie'sen-buhg) [from quantum physics] n. A bug which disappears or
+alters its behavior when one attempts to probe or isolate it. Antonym of BOHR
+BUG (q.v.). In C, 9 out of 10 heisenbugs result from either FANDANGO ON CORE
+phenomena (esp. lossage related to corruption of the malloc ARENA) or errors
+which SMASH THE STACK.

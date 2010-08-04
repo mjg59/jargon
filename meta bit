@@ -1,0 +1,5 @@
+ META BIT (mayt'@) n. Bit 8 of an 8-bit character, on in values 128-255. Also
+called HIGH BIT or ALT BIT. Some terminals and consoles (especially those
+designed for LISP traditions) have a META-shift key. Others (including,
+mirabile dictu, keyboards on IBM PC-class machines) have an ALT key. see also
+BUCKY BITS.

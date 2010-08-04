@@ -1,6 +1,6 @@
- DWIM [Do What I Mean] 1. adj. Able to guess, sometimes even correctly, what
-result was intended when provided with bogus input. Often suggested in jest
-as a desired feature for a complex program. A related term, more often seen
-as a verb, is DTRT (Do The Right Thing). 2. n. The INTERLISP function that
-attempts to accomplish this feat by correcting many of the more common
-errors. see HAIRY.
+ DWIM (dwim) [Do What I Mean] 1. adj. Able to guess, sometimes even
+correctly, what result was intended when provided with bogus input. Often
+suggested in jest as a desired feature for a complex program. A related term,
+more often seen as a verb, is DTRT (Do The Right Thing). 2. n. The INTERLISP
+function that attempts to accomplish this feat by correcting many of the more
+common errors. see HAIRY. = E =

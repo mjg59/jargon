@@ -1,0 +1,7 @@
+ MAGIC COOKIE (ma'jik cuk'ee) [UNIX] n. 1. A thing that allows another thing
+to do something, usually as part of a crufty hack. A capability ticket.
+Especially used of small data objects which contain data encoded in a strange
+or intrinsically machine-dependent way. 2. Blank left on the screen when your
+terminal changes modes. Some older terminals would print a blank when you
+entered and exited special modes, such as underline or flash. This was also
+called a GLITCH.

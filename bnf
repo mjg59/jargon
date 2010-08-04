@@ -1,0 +1,19 @@
+ BNF (bee-en-ef) n. Hacker acronym for `Backus-Naur Form', a metasyntactic
+notation used to specify the syntax of programming languages, command sets
+and the like. Widely used for language descriptions but seldom documented
+anywhere, so that it must usually be learned by osmosis from other hackers.
+Consider this BNF for a postal address: <postal-address> ::= <name-part>
+<street-address> <zip-part> <name-part> ::= <first-name> [<middle-part>]
+<last-name> <middle-part> ::= <middle-name> | <middle-initial> "."
+<street-address> ::= [<apt>] <street-number> <street-name> <zip-part> ::=
+<town-name> "," <state-code> <zip-code> This translates into English as: A
+postal-address consists of a name-part, followed by a street-address part,
+followed by a zip-code part. A name-part consists of a first-name followed by
+an optional middle-part followed by a last-name. A middle-part consists of
+either a middle name or a middle initial followed by a dot. A street address
+consists of an optional apartment specifier followed by a street number,
+followed by a street name. A zip-part consts of a town-name, followed by a
+state code, followed by a zip code. Note that many things such as the format
+of a first-name, apartment specifier or zip-code are left unspecified. These
+are presumed to be obvious from context or detailed in another part of the
+specification the BNF is part of.

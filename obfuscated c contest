@@ -1,0 +1,8 @@
+ OBFUSCATED C CONTEST (ob'fus-cay-ted see kon'test) n. Annual contest run
+since 1984 over THE NETWORK by Landon Curt Noll & friends. The overall winner
+is he who produces the most unreadable, creative and bizarre working C
+program; various other prizes are awarded at the judges' whim. Given C's
+terse syntax and macro-preprocessor facilities, this given contestants a lot
+of maneuvering room. THe winning programs often manage to be simultaneously
+a) funny, b) breathtaking works of art, and c) Horrible Examples of how *not*
+to code in C.

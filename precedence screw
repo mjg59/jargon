@@ -1,0 +1,6 @@
+ PRECEDENCE SCREW (pre's@-dens scroo) [C programmers] n. Coding error in an
+expression to to unexpected grouping of arithmetic or logical operators by
+the compiler. Used esp. of certain common coding errors in C due to the
+nonintuitively low precedence levels of &, | and ^. Can always be avoided by
+suitable use of parentheses. see ALIASING SCREW, MEMORY LEAK, SMASH THE
+STACK, FANDANGO ON CORE, OVERRUN SCREW.

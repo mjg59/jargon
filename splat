@@ -1,9 +1,9 @@
- SPLAT n. 1. Name used in many places (DEC, IBM, and others) for the ASCII
-star ("*") character. 2. (MIT) Name used by some people for the ASCII
-pound-sign ("#") character. 3. (Stanford) Name used by some people for the
+ SPLAT (splat) n. 1. Name used in many places (DEC, IBM, and others) for the
+ASCII star ("*") character. 2. [MIT] Name used by some people for the ASCII
+pound-sign ("#") character. 3. [Stanford] Name used by some people for the
 Stanford/ITS extended ASCII circle-x character. (This character is also
-called "circle-x," "blobby," and - 30 - "frob," among other names.) 4.
-(Stanford) Name for the semi-mythical extended ASCII circle-plus character.
-5. Canonical name for an output routine that outputs what- ever the the local
-interpretation of splat is. Usage: nobody really agrees what character
-"splat" is, but the term is common.
+called "circle-x", "blobby", and "frob", among other names.) 4. [Stanford]
+Name for the semi-mythical extended ASCII circle-plus character. 5. Canonical
+name for an output routine that outputs whatever the the local interpretation
+of splat is. Usage: nobody really agrees what character "splat" is, but the
+term is common.

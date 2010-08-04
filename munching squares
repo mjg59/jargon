@@ -1,7 +1,7 @@
- MUNCHING SQUARES n. A display hack dating back to the PDP-1, which employs a
-trivial computation (involving XOR'ing of x-y display coordinates - see
-HAKMEM items 146-148) to produce an impressive display of moving, growing,
-and shrinking squares. The hack usually has a parameter (usually taken from
-toggle switches) which when well- chosen can produce amazing effects. Some of
-these, discovered recently on the LISP machine, have been christened MUNCHING
-TRIANGLES, MUNCHING W'S, and MUNCH- ING MAZES.
+ MUNCHING SQUARES (muhnch'ing skweirz) n. A DISPLAY HACK dating back to the
+PDP-1, which employs a trivial computation (involving XOR'ing of x-y display
+coordinates - see HAKMEM items 146-148) to produce an impressive display of
+moving, growing, and shrinking squares. The hack usually has a parameter
+(usually taken from toggle switches) which when well-chosen can produce
+amazing effects. Some of these, discovered recently on the LISP machine, have
+been christened MUNCHING TRIANGLES, MUNCHING W'S, and MUNCHING MAZES.

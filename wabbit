@@ -1,0 +1,6 @@
+ WABBIT (wabb'it) [almost certainly from Elmer Fudd's immortal line "you
+wascal wabbit!"] n. 1. A legendary early hack reported on the PDP-10s at RPI
+and elsewhere around 1978. The program would reproduce itself twice every
+time it was run, eventually crashing the system. 2. By extension, any hack
+that includes infinite self-replication but is not a VIRUS or WORM. see also
+COOKIE MONSTER.

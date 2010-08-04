@@ -1,0 +1,10 @@
+ FIREWALL MACHINE (fier'wal m:-sheen') n. A dedicated gateway machine with
+special security precautions on it, used to service outside network/mail/news
+connections and/or accept remote logins for (read only) shared-file-system
+access via FTP. The idea is to protect cluster of more loosely administered
+machines `hidden' behind it from crackers. The typically `firewall' is an
+inexpensive micro-based UNIX box kept clean of critical data, with a bunch of
+modems and public network ports on it but just one carefully watched
+connection back to the rest of the cluster. The special precautions may
+include threat monitoring, callback, and even a complete IRON BOX keyable to
+particular incoming IDs or activity patterns. Syn. FLYTRAP, VENUS FLYTRAP.

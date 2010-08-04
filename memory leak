@@ -1,0 +1,5 @@
+ MEMORY LEAK (mem'@-ree leek) [C/UNIX programmers] n. An error in a program's
+dynamic-store allocation logic that causes it to fail to reclaim discarded
+memory, leading to attempted hogging of main store and eventual collapse due
+to memory exhaustion. see ALIASING SCREW, FANDANGO ON CORE, SMASH THE STACK,
+PRECEDENCE SCREW, OVERRUN SCREW.

@@ -1,0 +1,7 @@
+ BACKGROUND (bak'grownd) v.,adj. A task running in background is detached
+from the terminal where it was started and running at a lower priority
+(oppose FOREGROUND). Nowadays this term is primarily associated with UNIX,
+but it was appears first to have been used in this sense on OS/360. By
+extension, to do a task "in background" is to do it whenever FOREGROUND
+matters are not claiming your undivided attention, and "to background"
+something means to relegate it to a lower priority. Compare SLOPSUCKER.

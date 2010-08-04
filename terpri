@@ -1,2 +1,2 @@
- TERPRI (tur'pree) [from the LISP 1.5 (and later, MacLISP) function to start
+ TERPRI (ter'pree) [from the LISP 1.5 (and later, MacLISP) function to start
 a new line of output] v. To output a CRLF (q.v.).

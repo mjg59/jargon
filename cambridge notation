@@ -1,0 +1,5 @@
+ CAMBRIDGE NOTATION (kaym'brij no-ta'shn) [LISP] n. The now-standard way of
+writing LISP expressions as nested lists, with parens and spaces; as opposed
+to the earlier and technically purer practice of writing full S-expressions
+with cons dots. Supposedly invented as a KLUGE because a full parser for
+S-expressions would have been harder to write.

@@ -1,0 +1,9 @@
+ UNIX (yoo'nix) [In the authors' words, "A weak pun on MULTICS"] n. A popular
+interactive time-sharing system originally invented in 1969 by Ken Thompson
+after Bell Labs left the MULTICS project, mostly so he could play SPACEWAR on
+a scavenged PDP7. The turning point in UNIX's history came when it was
+reimplemented almost entirely in C in 1974, making it the first
+source-portable operating system. Fifteen years and a lot of changes later
+UNIX is the most widely used multiuser general-purpose operating system in
+the world. This fact probably represents the single most important victory
+yet of hackerdom over industry opposition. see VERSION 7, BSD UNIX, USG UNIX.

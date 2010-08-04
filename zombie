@@ -1,0 +1,3 @@
+ ZOMBIE (zom'bee) [UNIX] n. A process which has been killed but has not yet
+relinquished its process table slot. These show up in ps(1) listings
+occasionally.

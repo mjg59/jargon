@@ -1,0 +1,10 @@
+ MULTICS (muhl'tiks) n. [from Multi-Tasking Computer System] An early (late
+1960s) timesharing operating system co-designed by a consortium including
+Honeywell and Bell Laboratories. All the members but Honeywell eventually
+pulled out after determining that SECOND-SYSTEM SYNDROME had bloated Multics
+to the point of practical unusability (though Honeywell did later
+comercialize it, it was never very successful). One of the developers left in
+the lurch by the project's breakup was Ken Thompson, a circumstance which led
+directly to the birth of UNIX (q.v.). For this and other reasons aspects of
+the Multics design remain a topic of occasional debate among hackers. see
+also BRAIN DAMAGE.

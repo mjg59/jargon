@@ -1,4 +1,7 @@
- PATCH 1. n. A temporary addition to a piece of code, usually as a
-quick-and-dirty remedy to an existing bug or mis- feature. A patch may or may
+ PATCH (pach) 1. n. A temporary addition to a piece of code, usually as a
+quick-and-dirty remedy to an existing bug or misfeature. A patch may or may
 not work, and may or may not eventually be incorporated permanently into the
-pro- gram. 2. v. To insert a patch into a piece of code.
+program. 2. v. To insert a patch into a piece of code. 3. [in the UNIX world]
+n. a set of differences between two versions of code generated with diff(1)
+and intended to be mechanically applied using patch(1); often used as a way
+of distributing permanent C code upgrades and fixes over USENET.

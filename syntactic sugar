@@ -1,0 +1,6 @@
+ SYNTACTIC SUGAR (sin-tak'tik shu'gr) n. Features added to a language or
+formalism to make it `sweeter' for humans, that do not affect the
+expressiveness of the formalism (compare CHROME). Used esp. when there is an
+obvious and trivial translation of the `sugar' feature into other constructs
+already present in the notation. Example: the \n, \t, \r, and \b escapes in C
+strings, which could be expressed as octal escapes.

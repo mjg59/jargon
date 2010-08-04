@@ -1,0 +1,6 @@
+ ASSEMBLER (as'em-bler) 1. A program translator that allows human beings to
+generate machine code using mnemonics and symbolic names for memory locations
+rather than raw binary; distinguished from an HLL (q.v.) by the fact that a
+single assembler step generally maps to a single machine instruction (see
+also LANGUAGES OF CHOICE). 2.A NANOBOT which is a physical REPLICATOR. (This
+is the "official" term, coined by Eric Drexler; see NANOTECHNOLOGY).

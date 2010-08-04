@@ -1,0 +1,8 @@
+ CHAIN (chayn) [orig. from BASIC's CHAIN statement] v. When used of
+programming languages, refers to a statement that allows a parent executable
+to hand off execution to a child without going through the OS command
+interpreter. The state of the parent program is lost and there is no
+returning to it. Though this facility used to be common on memory-limited
+micros and is still widely supported for backward compatibility, the jargon
+usage is semi-obsolescent; in particular most UNIX programmers will think of
+this as an EXEC. Oppose the more modern SUBSHELL.

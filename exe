@@ -1,1 +1,3 @@
- EXE (ex'ee) see BIN.
+ EXE (ex'ee) An executable binary file. Some operating systems use the
+extension .EXE to mark such files. This usage is also found among UNIX
+programmers even though UNIX executables don't have any required extension.

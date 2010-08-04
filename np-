@@ -1,0 +1,7 @@
+ NP- (en pee) pref. Extremely. Used to modify adjectives describing a level
+or quality of difficulty. "Getting this algorithm to perform correctly in
+every case is NP-annoying." This is generalized from the computer science
+terms "NP-hard" and "NP-easy". NP is the set of Nondeterministic-Polynomial
+algorithms, those which can be completed by a nondeterministic finite state
+machine in an amount of time that is a polynomial function of the size of the
+input.)

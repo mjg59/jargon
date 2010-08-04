@@ -1,4 +1,4 @@
- FLAP v. To unload a DECtape (so it goes flap, flap, flap...). Old hackers at
-MIT tell of the days when the disk was device 0 and microtapes were 1, 2,...
-and attempting to flap device 0 would instead start a motor banging inside a
-cabinet near the disk!
+ FLAP (flap) v. To unload a DECtape (so it goes flap, flap, flap...). Old
+hackers at MIT tell of the days when the disk was device 0 and microtapes
+were 1, 2,... and attempting to flap device 0 would instead start a motor
+banging inside a cabinet near the disk!

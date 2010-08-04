@@ -1,0 +1,4 @@
+ SYNC (sink) [from UNIX] n.,v. 1. To force all pending I/O to the disk. 2.
+More generally, to force a number of competing processes or agents to a state
+that would be `safe' if the system were to crash; thus, to checkpoint. see
+FLUSH.

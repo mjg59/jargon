@@ -1,7 +1,4 @@
- WHEEL n. 1. A privilege bit that canonically allows the pos- sessor to
-perform any operation on a timesharing system, such as read or write any file
-on the system regardless of protections, change or or look at any address in
-the running monitor, crash or reload the system, and kill/create jobs and
-user accounts. The term was invented on the TENEX operating system, and
-carried over to TOPS-20, Xerox-IFS and others. 2. A person who posses a wheel
-bit. "We need to find a wheel to unwedge the hung tape drives."
+ WHEEL (hweel) [from Twenex, q.v.] n. A privileged user or WIZARD (sense #2).
+Now spreading into the UNIX culture. Privilege bits are sometimes called
+WHEEL BITS. The state of being in a privileged logon is sometimes called
+WHEEL MODE.

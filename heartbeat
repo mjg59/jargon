@@ -1,0 +1,5 @@
+ HEARTBEAT (hart'beet) n. 1. The master clock signal propagated across an
+Ethernet; by extension, the time-baseline synchronization signal at the
+physical level of any network. 2. The `natural' oscillation frequency of a
+computer's clock crystal, before frequency division down to the machine's
+CLOCK RATE.

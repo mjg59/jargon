@@ -1,0 +1,5 @@
+ DRECNET (drek'net) [fr. Yiddish `dreck'] n. Deliberate distortion of DECNET,
+a networking protocol used in the VMS community. So-called because DEC helped
+write the Ethernet specification, and then (either stupidly or as a malignant
+customer-control tactic) violated that spec in the design of DRECNET (among
+other things, they implemented the wrong HEARTBEAT speed).

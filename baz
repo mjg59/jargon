@@ -1,0 +1,3 @@
+ BAZ (baz) 1. The third metasyntactic variable, after FOO and BAR and before
+QUX. "Suppose we have three functions FOO, BAR, and BAZ. FOO calls BAR, which
+calls BAZ..." 2. Occasionally appended to FOO to produce FOOBAZ.

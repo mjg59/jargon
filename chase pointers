@@ -1,0 +1,3 @@
+ CHASE POINTERS (chays uh poyn'tr) v. To go through multiple levels of
+indirection, as in traversing a linked list or graph structure. Used esp. by
+programmers in C, where explicit pointers are a very common data type.

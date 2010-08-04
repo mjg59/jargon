@@ -1,0 +1,3 @@
+ MARTIAN (mar'shn) n. A packet sent on a TCP/IP network with a source address
+of the test loopback interface (127.0.0.1). As in "The domain server is
+getting lots of packets from Mars. Does that gateway have a Martian filter?"

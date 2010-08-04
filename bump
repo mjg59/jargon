@@ -1,0 +1,3 @@
+ BUMP (buhmp) v. Synonym for increment. Has the same meaning as C's ++
+operator. Used esp. of counter variables, pointers (see POINTER ARITHMETIC)
+and index dummies in for, while, and do-until loops.

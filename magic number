@@ -1,0 +1,8 @@
+ MAGIC NUMBER (ma'jik nuhm'br) [UNIX/C] n. 1. A MAGIC COOKIE located at the
+beginning of a binary data file to indicate its type to a utility. Under UNIX
+the system and various applications programs (especially the linker)
+distinguish between types of executable by looking for a magic number. 2. In
+source code, some non-obvious constant whose value is significant to the
+operation of a program and is inserted inconspicuously in line, rather than
+expanded in by a symbol set by a commented #define. Magic numbers in this
+sense are bad style.
