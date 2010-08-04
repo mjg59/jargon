@@ -23,11 +23,11 @@ met Mel when I went to work for Royal McBee Computer Corp., a now-defunct
 subsidiary of the typewriter company. The firm manufactured the LGP-30, a
 small, cheap (by the standards of the day) drum-memory computer, and had just
 started to manufacture the RPC-4000, a much-improved, bigger, better, faster
--- drum-memory computer. Cores cost too much, and weren't here to stay,
+--- drum-memory computer. Cores cost too much, and weren't here to stay,
 anyway. (That's why you haven't heard of the company, or the computer.) I had
 been hired to write a Fortran compiler for this new marvel and Mel was my
 guide to its wonders. Mel didn't approve of compilers. "If a program can't
-rewrite its own code," he asked, "what good is it?" Mel had written, in
+rewrite its own code", he asked, "what good is it?" Mel had written, in
 hexadecimal, the most popular computer program the company owned. It ran on
 the LGP-30 and played blackjack with potential customers at computer shows.
 Its effect was always dramatic. The LGP-30 booth was packed at every show,
@@ -99,14 +99,14 @@ in a series. He had only to increment the index register each time through.
 Mel never used it. Instead, he would pull the instruction into a machine
 register, add one to its address, and store it back. He would then execute
 the modified instruction right from the register. The loop was written so
-this additional execution time was taken into account -- just as this
+this additional execution time was taken into account --- just as this
 instruction finished, the next one was right under the drum's read head,
 ready to go. But the loop had no test in it. The vital clue came when I
 noticed the index register bit, the bit that lay between the address and the
-operation code in the instruction word, was turned on-- yet Mel never used
+operation code in the instruction word, was turned on--- yet Mel never used
 the index register, leaving it zero all the time. When the light went on it
 nearly blinded me. He had located the data he was working on near the top of
-memory -- the largest locations the instructions could address -- so, after
+memory --- the largest locations the instructions could address --- so, after
 the last datum was handled, incrementing the instruction address would make
 it overflow. The carry would add one to the operation code, changing it to
 the next one in the instruction set: a jump instruction. Sure enough, the
@@ -132,11 +132,11 @@ Intense. Abstracted. Interestingly for a sedentary profession, more hackers
 run to skinny than fat; both extremes are more common than elswhere. Tans are
 rare. Dress: ------ Casual, vaguely post-hippy; T-shirts, jeans, running
 shoes, Birkenstocks (or bare feet). Long hair, beards and moustaches are
-common. High incidence of tie-die and intellectual or humorous `slogan'
+common. High incidence of tie-dye and intellectual or humorous `slogan'
 T-shirts (only rarely computer related, that's too obvious). A substantial
 minority runs to `outdoorsy' clothing --- hiking boots ("in case a mountain
 should suddenly spring up in the machine room", as one famous parody put it),
-khakis, lumberjack or chammy shirts and the like. Very few actually fit the
+khakis, lumberjack or chamois shirts and the like. Very few actually fit the
 National-Lampoon-Nerd stereotype, though it lingers on at MIT and may have
 been more common before 1975. These days, backpacks are more common than
 briefcases, and the hacker `look' is more whole-earth than whole-polyester.
@@ -147,19 +147,19 @@ personal hygiene). They have a very low tolerance of suits or other
 rather than conform to dress codes. Female hackers never wear visible makeup
 and many use none at all. Reading habits: --------------- Omnivorous, but
 usually includes lots of science and science fiction. The typical hacker
-household might subscribe to `Analog', `Scientific American',
-`Co-Evolution_Quarterly' and `Smithsonian'. Hackers often have a reading
-range that astonishes `liberal arts' people but tend not to talk about it as
-much. Many hackers spend as much of their spare time reading as the average
-American burns up watching TV, and often keep shelves and shelves of
-well-thumbed books in their homes. Other interests: ---------------- Some
-hobbies are widely shared and recognized as going with the culture,
-including: science fiction. Music (see the MUSIC entry). Medievalism. Chess,
-go, wargames and intellectual games of all kinds. Role-playing games such as
-Dungeons and Dragons used to be extremely popular among hackers but have lost
-a bit of their former luster as they moved into the mainstream and became
-heavily commercialized. Logic puzzles. Ham radio. Other interests that seem
-to correlate less strongly but positively with hackerdom include: linguistics
+household might subscribe to `Analog', `Scientific American', `Co-Evolution
+Quarterly' and `Smithsonian'. Hackers often have a reading range that
+astonishes `liberal arts' people but tend not to talk about it as much. Many
+hackers spend as much of their spare time reading as the average American
+burns up watching TV, and often keep shelves and shelves of well-thumbed
+books in their homes. Other interests: ---------------- Some hobbies are
+widely shared and recognized as going with the culture. Science fiction.
+Music (see the MUSIC entry). Medievalism. Chess, go, wargames and
+intellectual games of all kinds. Role-playing games such as Dungeons and
+Dragons used to be extremely popular among hackers but have lost a bit of
+their former luster as they moved into the mainstream and became heavily
+commercialized. Logic puzzles. Ham radio. Other interests that seem to
+correlate less strongly but positively with hackerdom include: linguistics
 and theater teching. Physical Activity and Sports:
 ----------------------------- Many (perhaps even most) hackers don't do
 sports at all and are determinedly anti-physical. Among those that do, they
@@ -176,5 +176,5 @@ electrical engineering) physics, mathematics, linguistics, and philosophy.
 Things hackers detest and avoid: -------------------------------- IBM
 mainframes. Smurfs and other forms of offensive cuteness. Bureaucracies.
 Stupid people. Easy listening music. Television (except for cartoons, movies,
-the old _Star_Trek_ and the new _Simpsons_). Business suits. Dishonesty.
+the old `Star Trek' and the new `Simpsons'). Business suits. Dishonesty.
 Incompetence. Boredom.

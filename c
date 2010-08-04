@@ -1,4 +1,4 @@
- ========= THIS IS THE JARGON FILE, VERSION 2.4.1 14 JAN 1991
+ ========= THIS IS THE JARGON FILE, VERSION 2.4.4 25 JAN 1991
 ================= Introduction ************ This document is a collection of
 slang terms used by various subcultures of computer hackers. Though some
 technical material is included for background and flavor, it is not a
@@ -85,22 +85,39 @@ cover not just AI but all the technical computing cultures wherein the true
 hacker-nature is manifested. More than half of the entries now derive from
 USENET and represent slang now current in the C and UNIX communities, but
 special efforts have been made to collect slang from other cultures including
-IBM-PC programmers, Mac fans and even the IBM mainframe world. The present
-maintainer of the jargon file is Eric S. Raymond (eric@snark.thyrsus.com)
-with some assistance from Guy L. Steele (gls@think.com); these are the
-persons primarily reflected in the File's editorial `we', though we take
-pleasure in acknowledging the special contribution of the other coauthors of
-Steele-1983. Please email all additions, corrections and correspondence
-relating to the jargon file to jargon@thyrsus.com (UUCP-only sites without
-connections to an autorouting smart site can use ...!uunet!snark!jargon).
-(Warning: other email addresses appear in this file *but are not guaranteed
-to be correct* later than the revision date on the first line. *Don't* email
-us if an attempt to reach your idol bounces --- we have no magic way of
-checking addresses or looking up people) Some snapshot of this on-line
-version will become the main text of a `New Hacker's Dictionary' possibly as
-early as Fall 1991. The maintainers are committed to updating the on-line
-version of the jargon file through and beyond paper publication, and will
-continue to make it available to archives and public-access sites as a trust
-of the hacker community. Here is a chronology of the recent on-line
-revisions: Version 2.1.1, Jun 12 1990: the jargon file comes alive again
-after a seven-year hiatus. Reorganization and massive additions were by Eric
+IBM-PC programmers, Mac fans and even the IBM mainframe world. Where a term
+can be attributred to a particular subculture or is known to have originated
+there, we have tried to so indicate. Here is a list of abbreviations used in
+etymologies: *Berkeley* University of California at Berkeley. *Cambridge*
+Cambridge University, England (*not* Cambridge, Mass!). *CMU* Carnegie-Mellon
+University *Commodore* Commodore Business Nachines. *Fidonet* see the
+<Fidonet> entry. *IBM* International Business Machines *MIT* Massachusetts
+Institute of Technology; esp. the legendary MIT AI Lab culture of roughly
+1971 to 1983. Some MITisms go back to the MIT Model Railroad Club of c.1960.
+*NYU* New York University. *Purdue* Purdue University. *SAIL* Stanford
+Artificial Intelliegence Laboratory. *Stanford* Stanford University. *Sun*
+Sun Microsystems. *UCLA* University of California at Los Angeles. *USENET*
+see the <USENET> entry. *WPI* Worcester Polytechnic Institute, site of a very
+active community of PDP-10 hackers during the Seventies. *Xerox PARC* Xerox's
+Palo Alto Research Center, site of much pioneering research in user interface
+design and networking. *Yale* Yale University. Some other etymology
+abbreviations such as <UNIX>, <PDP-10>, etc. refer to technical cultures
+surrounding specific operating systems, processors or other environments.
+Eric S. Raymond (eric@snark.thyrsus.com) maintains the new File with
+assistance from Guy L. Steele (gls@think.com); these are the persons
+primarily reflected in the File's editorial `we', though we take pleasure in
+acknowledging the special contribution of the other coauthors of Steele-1983.
+Please email all additions, corrections and correspondence relating to the
+jargon file to jargon@thyrsus.com (UUCP-only sites without connections to an
+autorouting smart site can use ...!uunet!snark!jargon). (Warning: other email
+addresses appear in this file *but are not guaranteed to be correct* later
+than the revision date on the first line. *Don't* email us if an attempt to
+reach your idol bounces --- we have no magic way of checking addresses or
+looking up people) Some snapshot of this on-line version will become the main
+text of a `New Hacker's Dictionary' possibly as early as Fall 1991. The
+maintainers are committed to updating the on-line version of the jargon file
+through and beyond paper publication, and will continue to make it available
+to archives and public-access sites as a trust of the hacker community. Here
+is a chronology of the recent on-line revisions: Version 2.1.1, Jun 12 1990:
+the jargon file comes alive again after a seven-year hiatus. Reorganization
+and massive additions were by Eric
