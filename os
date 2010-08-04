@@ -55,74 +55,80 @@ time of a program, as opposed to the number of {tick}s required to execute it
 (on a timesharing system these always differ, as no one program gets all the
 ticks, and on multiprocessor systems with good thread support one may get
 more processor time than real time). :wall wart: n. A small power-supply
-brick with integral male plug, designed to plug directly into a wall outlet.
-These are frequently associated with modems and other small electronic
-devices which would become unacceptably bulky or hot if they had power
-supplies on board (there are other reasons as well having to do with the cost
-of UL certification). :wallpaper: n. 1. A file containing a listing (e.g.,
-assembly listing) or a transcript, esp. a file containing a transcript of all
-or part of a login session. (The idea was that the paper for such listings
-was essentially good only for wallpaper, as evidenced at Stanford, where it
-was used to cover windows.) Now rare, esp. since other systems have developed
-other terms for it (e.g., PHOTO on TWENEX). However, the Unix world doesn't
-have an equivalent term, so perhaps {wallpaper} will take hold there. The
-term probably originated on ITS, where the commands to begin and end
-transcript files were `:WALBEG' and `:WALEND', with default file `WALL PAPER'
-(the space was a path delimiter). 2. The background pattern used on graphical
-workstations (this is techspeak under the `Windows' graphical user interface
-to MS-DOS). 3. `wallpaper file' n. The file that contains the wallpaper
-information before it is actually printed on paper. (Even if you don't intend
-ever to produce a real paper copy of the file, it is still called a wallpaper
-file.) :wango: /wang'goh/ n. Random bit-level {grovel}ling going on in a
-system during some unspecified operation. Often used in combination with
-{mumble}. For example: "You start with the `.o' file, run it through this
-postprocessor that does mumble-wango -- and it comes out a snazzy
-object-oriented executable." :wank: /wangk/ n.,v.,adj. [Columbia University:
-prob. by mutation from Commonwealth slang v. `wank', to masturbate] Used much
-as {hack} is elsewhere, as a noun denoting a clever technique or person or
-the result of such cleverness. May describe (negatively) the act of hacking
-for hacking's sake ("Quit wanking, let's go get supper!") or (more
-positively) a {wizard}. Adj. `wanky' describes something particularly clever
-(a person, program, or algorithm). Conversations can also get wanky when
-there are too many wanks involved. This excess wankiness is signalled by an
-overload of the `wankometer' (compare {bogometer}). When the wankometer
-overloads, the conversation's subject must be changed, or all non-wanks will
-leave. Compare `neep-neeping' (under {neep-neep}). Usage: U.S. only. In
-Britain and the Commonwealth this word is _extremely_ rude and is best
-avoided unless one intends to give offense. :wannabee: /won'*-bee/ n. (also,
-more plausibly, spelled `wannabe') [from a term recently used to describe
-Madonna fans who dress, talk, and act like their idol; prob. originally from
-biker slang] A would-be {hacker}. The connotations of this term differ
-sharply depending on the age and exposure of the subject. Used of a person
-who is in or might be entering {larval stage}, it is semi-approving; such
-wannabees can be annoying but most hackers remember that they, too, were once
-such creatures. When used of any professional programmer, CS academic,
-writer, or {suit}, it is derogatory, implying that said person is trying to
-cuddle up to the hacker mystique but doesn't, fundamentally, have a prayer of
-understanding what it is all about. Overuse of terms from this lexicon is
-often an indication of the {wannabee} nature. Compare {newbie}. Historical
-note: The wannabee phenomenon has a slightly different flavor now (1993) than
-it did ten or fifteen years ago. When the people who are now hackerdom's
-tribal elders were in {larval stage}, the process of becoming a hacker was
-largely unconscious and unaffected by models known in popular culture --
-communities formed spontaneously around people who, _as individuals_, felt
-irresistibly drawn to do hackerly things, and what wannabees experienced was
-a fairly pure, skill-focused desire to become similarly wizardly. Those days
-of innocence are gone forever; society's adaptation to the advent of the
-microcomputer after 1980 included the elevation of the hacker as a new kind
-of folk hero, and the result is that some people semi-consciously set out to
-_be hackers_ and borrow hackish prestige by fitting the popular image of
-hackers. Fortunately, to do this really well, one has to actually become a
-wizard. Nevertheless, old-time hackers tend to share a poorly articulated
-disquiet about the change; among other things, it gives them mixed feelings
-about the effects of public compendia of lore like this one. :war dialer: n.
-A cracking tool, a program that calls a given list or range of phone numbers
-and records those which answer with handshake tones (and so might be entry
-points to computer or telecommunications systems). Some of these programs
-have become quite sophisticated, and can now detect modem, fax, or PBX tones
-and log each one separately. The war dialer is one of the most important
-tools in the {phreaker}'s kit. These programs evolved from early {demon
-dialer}s. :warez: /weirz/ n. Widely used in {cracker} subcultures to denote
+brick with integral male plug, designed to plug directly into a wall outlet;
+called a `wart' because when installed on a power strip it tends to block up
+at least one more socket than it uses.. These are frequently associated with
+modems and other small electronic devices which would become unacceptably
+bulky or hot if they had power supplies on board (there are other reasons as
+well having to do with the cost of UL certification). :wallpaper: n. 1. A
+file containing a listing (e.g., assembly listing) or a transcript, esp. a
+file containing a transcript of all or part of a login session. (The idea was
+that the paper for such listings was essentially good only for wallpaper, as
+evidenced at Stanford, where it was used to cover windows.) Now rare, esp.
+since other systems have developed other terms for it (e.g., PHOTO on
+TWENEX). However, the Unix world doesn't have an equivalent term, so perhaps
+{wallpaper} will take hold there. The term probably originated on ITS, where
+the commands to begin and end transcript files were `:WALBEG' and `:WALEND',
+with default file `WALL PAPER' (the space was a path delimiter). 2. The
+background pattern used on graphical workstations (this is techspeak under
+the `Windows' graphical user interface to MS-DOS). 3. `wallpaper file' n. The
+file that contains the wallpaper information before it is actually printed on
+paper. (Even if you don't intend ever to produce a real paper copy of the
+file, it is still called a wallpaper file.) :wango: /wang'goh/ n. Random
+bit-level {grovel}ling going on in a system during some unspecified
+operation. Often used in combination with {mumble}. For example: "You start
+with the `.o' file, run it through this postprocessor that does mumble-wango
+-- and it comes out a snazzy object-oriented executable." :wank: /wangk/
+n.,v.,adj. [Columbia University: prob. by mutation from Commonwealth slang v.
+`wank', to masturbate] Used much as {hack} is elsewhere, as a noun denoting a
+clever technique or person or the result of such cleverness. May describe
+(negatively) the act of hacking for hacking's sake ("Quit wanking, let's go
+get supper!") or (more positively) a {wizard}. Adj. `wanky' describes
+something particularly clever (a person, program, or algorithm).
+Conversations can also get wanky when there are too many wanks involved. This
+excess wankiness is signalled by an overload of the `wankometer' (compare
+{bogometer}). When the wankometer overloads, the conversation's subject must
+be changed, or all non-wanks will leave. Compare `neep-neeping' (under
+{neep-neep}). Usage: U.S. only. In Britain and the Commonwealth this word is
+_extremely_ rude and is best avoided unless one intends to give offense.
+:wannabee: /won'*-bee/ n. (also, more plausibly, spelled `wannabe') [from a
+term recently used to describe Madonna fans who dress, talk, and act like
+their idol; prob. originally from biker slang] A would-be {hacker}. The
+connotations of this term differ sharply depending on the age and exposure of
+the subject. Used of a person who is in or might be entering {larval stage},
+it is semi-approving; such wannabees can be annoying but most hackers
+remember that they, too, were once such creatures. When used of any
+professional programmer, CS academic, writer, or {suit}, it is derogatory,
+implying that said person is trying to cuddle up to the hacker mystique but
+doesn't, fundamentally, have a prayer of understanding what it is all about.
+Overuse of terms from this lexicon is often an indication of the {wannabee}
+nature. Compare {newbie}. Historical note: The wannabee phenomenon has a
+slightly different flavor now (1993) than it did ten or fifteen years ago.
+When the people who are now hackerdom's tribal elders were in {larval stage},
+the process of becoming a hacker was largely unconscious and unaffected by
+models known in popular culture -- communities formed spontaneously around
+people who, _as individuals_, felt irresistibly drawn to do hackerly things,
+and what wannabees experienced was a fairly pure, skill-focused desire to
+become similarly wizardly. Those days of innocence are gone forever;
+society's adaptation to the advent of the microcomputer after 1980 included
+the elevation of the hacker as a new kind of folk hero, and the result is
+that some people semi-consciously set out to _be hackers_ and borrow hackish
+prestige by fitting the popular image of hackers. Fortunately, to do this
+really well, one has to actually become a wizard. Nevertheless, old-time
+hackers tend to share a poorly articulated disquiet about the change; among
+other things, it gives them mixed feelings about the effects of public
+compendia of lore like this one. :war dialer: n. A cracking tool, a program
+that calls a given list or range of phone numbers and records those which
+answer with handshake tones (and so might be entry points to computer or
+telecommunications systems). Some of these programs have become quite
+sophisticated, and can now detect modem, fax, or PBX tones and log each one
+separately. The war dialer is one of the most important tools in the
+{phreaker}'s kit. These programs evolved from early {demon dialer}s. :-ware:
+suff. [from `software'] Commonly used to form jargon terms for classes of
+software. For examples, see {annoyware}, {careware}, {crippleware},
+{crudware}, {freeware}, {fritterware}, {guiltware}, {liveware}, {meatware},
+{payware}, {psychedelicware}, {shareware}, {shelfware}, {vaporware},
+{wetware}. :warez: /weirz/ n. Widely used in {cracker} subcultures to denote
 cracked version of commercial software, that is versions from which
 copy-protection has been stripped. Hackers recognize this term but don't use
 it themselves. see {warez d00dz}. :warez d00dz: /weirz doodz/ n. A

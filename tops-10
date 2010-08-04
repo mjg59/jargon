@@ -28,7 +28,7 @@ generate alerts when calls are received from particular sites, or when logins
 are attempted using certain IDs. Named after `Project Tinkerbell', an
 experimental phone-tapping program developed by British Telecom in the early
 1980s. :TINLC: // Abbreviation: "There Is No Lumber Cartel". see {Lumber
-Cartel}. TINLC is a takeoff on {TINC}. :tip of the ice-cube: n. [IBM] The
+Cartel}. TINLC is a takeoff on {TINC}. :tip of the ice-cube: n. // [IBM] The
 visible part of something small and insignificant. Used as an ironic comment
 in situations where `tip of the iceberg' might be appropriate if the subject
 were at all important. :tired iron: n. [IBM] Hardware that is perfectly
@@ -51,21 +51,26 @@ has also been reported. see also {YABA}. The self-effacing phrase "TDM TLA"
 do you think will be the biggest problem in computing in the 90s?" Paul's
 straight-faced response: "There are only 17,000 three-letter acronyms." (To
 be exact, there are 26^3 = 17,576.) There is probably some karmic justice in
-the fact that Paul Boutin subsequently became a journalist. :TMRC: /tmerk'/
-n. The Tech Model Railroad Club at MIT, one of the wellsprings of hacker
-culture. The 1959 "Dictionary of the TMRC Language" compiled by Peter Samson
-included several terms that became basics of the hackish vocabulary (see esp.
-{foo}, {mung}, and {frob}). By 1962, TMRC's legendary layout was already a
-marvel of complexity (and has grown in the thirty years since; all the
-features described here are still present). The control system alone featured
-about 1200 relays. There were {scram switch}es located at numerous places
-around the room that could be thwacked if something undesirable was about to
-occur, such as a train going full-bore at an obstruction. Another feature of
-the system was a digital clock on the dispatch board, which was itself
-something of a wonder in those bygone days before cheap LEDs and
-seven-segment displays. When someone hit a scram switch the clock stopped and
-the display was replaced with the word `FOO'; at TMRC the scram switches are
-therefore called `foo switches'. Steven Levy, in his book "Hackers" (see the
+the fact that Paul Boutin subsequently became a journalist. :(TM): //
+[Usenet] ASCII rendition of the trademark-superscript symbol appended to
+phrases that the author feels should be recorded for posterity, perhaps in
+future editions of this lexicon. Sometimes used ironically as a form of
+protest against the recent spate of software and algorithm patents and `look
+and feel' lawsuits. see also {UN*X}. :TMRC: /tmerk'/ n. The Tech Model
+Railroad Club at MIT, one of the wellsprings of hacker culture. The 1959
+"Dictionary of the TMRC Language" compiled by Peter Samson included several
+terms that became basics of the hackish vocabulary (see esp. {foo}, {mung},
+and {frob}). By 1962, TMRC's legendary layout was already a marvel of
+complexity (and has grown in the thirty years since; all the features
+described here are still present). The control system alone featured about
+1200 relays. There were {scram switch}es located at numerous places around
+the room that could be thwacked if something undesirable was about to occur,
+such as a train going full-bore at an obstruction. Another feature of the
+system was a digital clock on the dispatch board, which was itself something
+of a wonder in those bygone days before cheap LEDs and seven-segment
+displays. When someone hit a scram switch the clock stopped and the display
+was replaced with the word `FOO'; at TMRC the scram switches are therefore
+called `foo switches'. Steven Levy, in his book "Hackers" (see the
 {Bibliography} in Appendix C), gives a stimulating account of those early
 years. TMRC's Signals and Power Committee included many of the early PDP-1
 hackers and the people who later became the core of the MIT AI Lab staff.
@@ -133,44 +138,53 @@ inconvenient choice of shell. Compare {avatar}. :topic drift: n. Term used on
 GEnie, Usenet and other electronic fora to describe the tendency of a
 {thread} to drift away from the original subject of discussion (and thus,
 from the Subject header of the originating message), or the results of that
-tendency. Often used in gentle reminders that the discussion has strayed off
-any useful track. "I think we started with a question about Niven's last
-book, but we've ended up discussing the sexual habits of the common marmoset.
-Now _that's_ topic drift!" :topic group: n. Syn. {forum}. :TOPS-10::
-/tops-ten/ n. {DEC}'s proprietary OS for the fabled {PDP-10} machines, long a
-favorite of hackers but now effectively extinct. A fountain of hacker
-folklore; see Appendix A. see also {{ITS}}, {{TOPS-20}}, {{TWENEX}}, {VMS},
-{operating system}. TOPS-10 was sometimes called BOTS-10 (from `bottoms-ten')
-as a comment on the inappropriateness of describing it as the top of
-anything. :TOPS-20:: /tops-twen'tee/ n. see {{TWENEX}}. :tourist: n. 1. [ITS]
-A guest on the system, especially one who generally logs in over a network
-from a remote location for {comm mode}, email, games, and other trivial
-purposes. One step below {luser}. ITS hackers often used to spell this
-{turist}, perhaps by some sort of tenuous analogy with {luser} (this usage
-may also have expressed the ITS culture's penchant for six-letterisms, and-or
-been some sort of tribute to Alan Turing). Compare {twink}, {lurker},
-{read-only user}. 2. [IRC] An {IRC} user who goes from channel to channel
-without saying anything; see {channel hopping}. :tourist information: n.
-Information in an on-line display that is not immediately useful, but
-contributes to a viewer's gestalt of what's going on with the software or
-hardware behind it. Whether a given piece of info falls in this category
-depends partly on what the user is looking for at any given time. The `bytes
-free' information at the bottom of an MS-DOS `dir' display is tourist
-information; so (most of the time) is the TIME information in a Unix `ps(1)'
-display. :touristic: adj. Having the quality of a {tourist}. Often used as a
-pejorative, as in `losing touristic scum'. Often spelled `turistic' or
-`turistik', so that phrase might be more properly rendered `lusing turistic
-scum'. :toy: n. A computer system; always used with qualifiers. 1. `nice
-toy': One that supports the speaker's hacking style adequately. 2. `just a
-toy': A machine that yields insufficient {computron}s for the speaker's
-preferred uses. This is not condemnatory, as is {bitty box}; toys can at
-least be fun. It is also strongly conditioned by one's expectations; Cray XMP
-users sometimes consider the Cray-1 a `toy', and certainly all RISC boxes and
-mainframes are toys by their standards. see also {Get a real computer!}. :toy
-language: n. A language useful for instructional purposes or as a
-proof-of-concept for some aspect of computer-science theory, but inadequate
-for general-purpose programming. {Bad Thing}s can result when a toy language
-is promoted as a general purpose solution for programming (see
+tendency. The header in each post can be changed to keep current with the
+posts, but usually isn't due to forgetfulness or laziness. A single post may
+often result in several posts each responding to a different point in the
+original. Some subthreads will actually be in response to some off-the-cuff
+side comment, possibly degenerating into a {flame war}, or just as often
+evolving into a separate discussion. Hence, discussions aren't really so much
+threads as they are trees. Except that they don't really have leaves, or
+multiple branching roots; usually some lines of discussion will just sort of
+die off after everyone gets tired of them. This could take anywhere from
+hours to weeks, or even longer. The term `topic drift' is often used in
+gentle reminders that the discussion has strayed off any useful track. "I
+think we started with a question about Niven's last book, but we've ended up
+discussing the sexual habits of the common marmoset. Now _that's_ topic
+drift!" :topic group: n. Syn. {forum}. :TOPS-10:: /tops-ten/ n. {DEC}'s
+proprietary OS for the fabled {PDP-10} machines, long a favorite of hackers
+but now effectively extinct. A fountain of hacker folklore; see Appendix A.
+see also {{ITS}}, {{TOPS-20}}, {{TWENEX}}, {VMS}, {operating system}. TOPS-10
+was sometimes called BOTS-10 (from `bottoms-ten') as a comment on the
+inappropriateness of describing it as the top of anything. :TOPS-20::
+/tops-twen'tee/ n. see {{TWENEX}}. :tourist: n. 1. [ITS] A guest on the
+system, especially one who generally logs in over a network from a remote
+location for {comm mode}, email, games, and other trivial purposes. One step
+below {luser}. ITS hackers often used to spell this {turist}, perhaps by some
+sort of tenuous analogy with {luser} (this usage may also have expressed the
+ITS culture's penchant for six-letterisms, and-or been some sort of tribute
+to Alan Turing). Compare {twink}, {lurker}, {read-only user}. 2. [IRC] An
+{IRC} user who goes from channel to channel without saying anything; see
+{channel hopping}. :tourist information: n. Information in an on-line display
+that is not immediately useful, but contributes to a viewer's gestalt of
+what's going on with the software or hardware behind it. Whether a given
+piece of info falls in this category depends partly on what the user is
+looking for at any given time. The `bytes free' information at the bottom of
+an MS-DOS `dir' display is tourist information; so (most of the time) is the
+TIME information in a Unix `ps(1)' display. :touristic: adj. Having the
+quality of a {tourist}. Often used as a pejorative, as in `losing touristic
+scum'. Often spelled `turistic' or `turistik', so that phrase might be more
+properly rendered `lusing turistic scum'. :toy: n. A computer system; always
+used with qualifiers. 1. `nice toy': One that supports the speaker's hacking
+style adequately. 2. `just a toy': A machine that yields insufficient
+{computron}s for the speaker's preferred uses. This is not condemnatory, as
+is {bitty box}; toys can at least be fun. It is also strongly conditioned by
+one's expectations; Cray XMP users sometimes consider the Cray-1 a `toy', and
+certainly all RISC boxes and mainframes are toys by their standards. see also
+{Get a real computer!}. :toy language: n. A language useful for instructional
+purposes or as a proof-of-concept for some aspect of computer-science theory,
+but inadequate for general-purpose programming. {Bad Thing}s can result when
+a toy language is promoted as a general purpose solution for programming (see
 {bondage-and-discipline language}); the classic example is {{Pascal}}.
 Several moderately well-known formalisms for conceptual tasks such as
 programming Turing machines also qualify as toy languages in a less negative

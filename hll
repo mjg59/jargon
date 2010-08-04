@@ -52,7 +52,7 @@ power of ten; the `binary' column lists jargon abbreviations and words for
 the corresponding power of 2. The B-suffixed forms are commonly used for byte
 quantities; the words `meg' and `gig' are nouns that may (but do not always)
 pluralize with `s'. prefix decimal binary pronunciation kilo- k K, KB, /kay/
-mega- M M, MB, meg /meg/ giga- G G, GB, gig /gig/,/jig/ Confusingly, hackers
+mega- M M, MB, meg /meg/ giga- G G, GB, gig /gig/,jig Confusingly, hackers
 often use K or M as though they were suffix or numeric multipliers rather
 than a prefix; thus "2K dollars", "2M of disk space". This is also true
 (though less commonly) of G. Note that the formal SI metric prefix for 1000
@@ -96,38 +96,39 @@ history the Spanish coin was considered equal to a dollar, so each of these
 Usage: rare. General discussion of such terms is under {nybble}. :ques:
 /kwes/ 1. n. The question mark character (`?', ASCII 0111111). 2. interj.
 What? Also frequently verb-doubled as "Ques ques?" see {wall}.
-:quick-and-dirty: adj. Describes a {crock} put together under time or user
-pressure. Used esp. when you want to convey that you think the fast way might
-lead to trouble further down the road. "I can have a quick-and-dirty fix in
-place tonight, but I'll have to rewrite the whole module to solve the
-underlying design problem." see also {kluge}. :quine: /kwi:n/ n. [from the
-name of the logician Willard van Orman Quine, via Douglas Hofstadter] A
-program that generates a copy of its own source text as its complete output.
-Devising the shortest possible quine in some given programming language is a
-common hackish amusement. Here is one classic quine: ((lambda (x) (list x
-(list (quote quote) x))) (quote (lambda (x) (list x (list (quote quote)
-x))))) This one works in LISP or Scheme. It's relatively easy to write quines
-in other languages such as Postscript which readily handle programs as data;
-much harder (and thus more challenging!) in languages like C which do not.
-Here is a classic C quine for ASCII machines: char*f="char*f=%c%s%c;main()
-{printf(f,34,f,34,10);}%c"; main(){printf(f,34,f,34,10);} For excruciatingly
-exact quinishness, remove the interior line breaks. Some infamous {Obfuscated
-C Contest} entries have been quines that reproduced in exotic ways. :quote
-chapter and verse: v. [by analogy with the mainstream phrase] To cite a
-relevant excerpt from an appropriate {bible}. "I don't care if `rn' gets it
-wrong; `Followup-To: poster' is explicitly permitted by {RFC}-1036. I'll
-quote chapter and verse if you don't believe me." see also {legalese},
-{language lawyer}, {RTFS} (sense 2). :quotient: n. see {coefficient of X}.
-:quux: /kwuhks/ n. [Mythically, from the Latin semi-deponent verb quuxo,
-quuxare, quuxandum iri; noun form variously `quux' (plural `quuces',
-anglicized to `quuxes') and `quuxu' (genitive plural is `quuxuum', for four
-u-letters out of seven in all, using up all the `u' letters in Scrabble).] 1.
-Originally, a {metasyntactic variable} like {foo} and {foobar}. Invented by
-Guy Steele for precisely this purpose when he was young and naive and not yet
-interacting with the real computing community. Many people invent such words;
-this one seems simply to have been lucky enough to have spread a little. In
-an eloquent display of poetic justice, it has returned to the originator in
-the form of a nickname. 2. interj. see {foo}; however, denotes very little
+:quick-and-dirty: adj. [common] Describes a {crock} put together under time
+or user pressure. Used esp. when you want to convey that you think the fast
+way might lead to trouble further down the road. "I can have a
+quick-and-dirty fix in place tonight, but I'll have to rewrite the whole
+module to solve the underlying design problem." see also {kluge}. :quine:
+/kwi:n/ n. [from the name of the logician Willard van Orman Quine, via
+Douglas Hofstadter] A program that generates a copy of its own source text as
+its complete output. Devising the shortest possible quine in some given
+programming language is a common hackish amusement. Here is one classic
+quine: ((lambda (x) (list x (list (quote quote) x))) (quote (lambda (x) (list
+x (list (quote quote) x))))) This one works in LISP or Scheme. It's
+relatively easy to write quines in other languages such as Postscript which
+readily handle programs as data; much harder (and thus more challenging!) in
+languages like C which do not. Here is a classic C quine for ASCII machines:
+char*f="char*f=%c%s%c;main() {printf(f,34,f,34,10);}%c";
+main(){printf(f,34,f,34,10);} For excruciatingly exact quinishness, remove
+the interior line breaks. Some infamous {Obfuscated C Contest} entries have
+been quines that reproduced in exotic ways. :quote chapter and verse: v. [by
+analogy with the mainstream phrase] To cite a relevant excerpt from an
+appropriate {bible}. "I don't care if `rn' gets it wrong; `Followup-To:
+poster' is explicitly permitted by {RFC}-1036. I'll quote chapter and verse
+if you don't believe me." see also {legalese}, {language lawyer}, {RTFS}
+(sense 2). :quotient: n. see {coefficient of X}. :quux: /kwuhks/ n.
+[Mythically, from the Latin semi-deponent verb quuxo, quuxare, quuxandum iri;
+noun form variously `quux' (plural `quuces', anglicized to `quuxes') and
+`quuxu' (genitive plural is `quuxuum', for four u-letters out of seven in
+all, using up all the `u' letters in Scrabble).] 1. Originally, a
+{metasyntactic variable} like {foo} and {foobar}. Invented by Guy Steele for
+precisely this purpose when he was young and naive and not yet interacting
+with the real computing community. Many people invent such words; this one
+seems simply to have been lucky enough to have spread a little. In an
+eloquent display of poetic justice, it has returned to the originator in the
+form of a nickname. 2. interj. see {foo}; however, denotes very little
 disgust, and is uttered mostly for the sake of the sound of it. 3. Guy Steele
 in his persona as `The Great Quux', which is somewhat infamous for light
 verse and for the `Crunchly' cartoons. 4. In some circles, used as a punning
@@ -140,7 +141,7 @@ pertaining to a quux. :qux: /kwuhks/ The fourth of the standard
 just run {foo}, {bar}, {baz}, {quux}, .... :QWERTY: /kwer'tee/ adj. [from the
 keycaps at the upper left] Pertaining to a standard English-language
 typewriter keyboard (sometimes called the Sholes keyboard after its
-inventor), as opposed to Dvorak or foreign-language layouts or a {space-cadet
+inventor), as opposed to Dvorak or non-US-ASCII layouts or a {space-cadet
 keyboard} or APL keyboard. Historical note: The QWERTY layout is a fine
 example of a {fossil}. It is sometimes said that it was designed to slow down
 the typist, but this is wrong; it was designed to allow _faster_ typing --
@@ -278,20 +279,20 @@ always means the Chinese kind rather than the Italian kind. Both consist of a
 filling in a pasta shell, but the Chinese kind includes no cheese, uses a
 thinner pasta, has a pork-vegetable filling (good ones include Chinese
 chives), and is cooked differently, either by steaming or frying. A rav or
-dumpling can be cooked any way, but a potsticker is always the fried kind (so
-called because it sticks to the frying pot and has to be scraped off). "Let's
-get hot-and-sour soup and three orders of ravs." see also {{oriental food}}.
-:raw mode: n. A mode that allows a program to transfer bits directly to or
-from an I/O device (or, under {bogus} systems that make a distinction, a disk
-file) without any processing, abstraction, or interpretation by the operating
-system. Compare {rare mode}, {cooked mode}. This is techspeak under Unix,
-jargon elsewhere. :RBL: /R-B-L/ Abbreviation: "Realtime Blackhole List". A
-service that allows people to blacklist sites for emitting {spam}, and makes
-the blacklist available in real time to electronic-mail transport programs
-that know how to use RBL so they can filter out mail from those sites.
-Drastic but effective. There is an RBL home page
-(http://maps.vix.com/rbl/usage.html). :rc file: /R-C fi:l/ n. [Unix: from
-`runcom files' on the {CTSS} system ca.1955, via the startup script
+dumpling can be cooked any way, but a potsticker is always the pan-fried kind
+(so called because it sticks to the frying pot and has to be scraped off).
+"Let's get hot-and-sour soup and three orders of ravs." see also {{oriental
+food}}. :raw mode: n. A mode that allows a program to transfer bits directly
+to or from an I/O device (or, under {bogus} operating systems that make a
+distinction, a disk file) without any processing, abstraction, or
+interpretation by the operating system. Compare {rare mode}, {cooked mode}.
+This is techspeak under Unix, jargon elsewhere. :RBL: /R-B-L/ Abbreviation:
+"Realtime Blackhole List". A service that allows people to blacklist sites
+for emitting {spam}, and makes the blacklist available in real time to
+electronic-mail transport programs that know how to use RBL so they can
+filter out mail from those sites. Drastic but effective. There is an RBL home
+page (http://maps.vix.com/rbl/usage.html). :rc file: /R-C fi:l/ n. [Unix:
+from `runcom files' on the {CTSS} system ca.1955, via the startup script
 `/etc/rc'] Script file containing startup instructions for an application
 program (or an entire operating system), usually a text file containing
 commands of the sort that might have been invoked manually once the system

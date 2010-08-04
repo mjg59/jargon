@@ -13,7 +13,7 @@ messaging systems, though a user would consider all those to be apps.
 (Broadly, an app is often a self-contained environment for performing some
 well-defined task such as `word processing'; hackers tend to prefer more
 general-purpose tools.) see {killer app}; oppose {tool}, {operating system}.
-:arena: [common; Unix] n. The area of memory attached to a process by
+:arena: n. [common; Unix] The area of memory attached to a process by
 `brk(2)' and `sbrk(2)' and used by `malloc(3)' as dynamic storage. So named
 from a `malloc: corrupt arena' message emitted when some early versions
 detected an impossible value in the free block list. see {overrun screw},

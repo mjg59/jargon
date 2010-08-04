@@ -1,27 +1,295 @@
- :OS and JEDGAR: =============== This story says a lot about the ITS ethos.
-On the ITS system there was a program that allowed you to see what was being
-printed on someone else's terminal. It spied on the other guy's output by
-examining the insides of the monitor system. The output spy program was
-called OS. Throughout the rest of the computer science (and at IBM too) OS
-means `operating system', but among old-time ITS hackers it almost always
-meant `output spy'. OS could work because ITS purposely had very little in
-the way of `protection' that prevented one user from trespassing on another's
-areas. Fair is fair, however. There was another program that would
-automatically notify you if anyone started to spy on your output. It worked
-in exactly the same way, by looking at the insides of the operating system to
-see if anyone else was looking at the insides that had to do with your
-output. This `counterspy' program was called JEDGAR (a six-letterism
-pronounced as two syllables: /jed'gr/), in honor of the former head of the
-FBI. But there's more. JEDGAR would ask the user for `license to kill'. If
-the user said yes, then JEDGAR would actually {gun} the job of the {luser}
-who was spying. Unfortunately, people found that this made life too violent,
-especially when tourists learned about it. One of the systems hackers solved
-the problem by replacing JEDGAR with another program that only pretended to
-do its job. It took a long time to do this, because every copy of JEDGAR had
-to be patched. To this day no one knows how many people never figured out
-that JEDGAR had been defanged. Interestingly, there is still a security
-module named JEDGAR alive as of late 1994 -- in the Unisys MCP for large
-systems. It is unknown to us whether the name is tribute or independent
+ 5. [MIT] n. Energy, drive, or ability. "I think I'll {punt} that change for
+now; I've been up for 30 hours and I've run out of zorch." 6. [MIT] v. To
+flunk an exam or course. :Zork: /zork/ n. The second of the great early
+experiments in computer fantasy gaming; see {ADVENT}. Originally written on
+MIT-DM during 1977-1979, later distributed with BSD Unix (as a patched,
+sourceless RT-11 FORTRAN binary; see {retrocomputing}) and commercialized as
+`The Zork Trilogy' by {Infocom}. The FORTRAN source was later rewritten for
+portability and released to Usenet under the name "Dungeon". Both FORTRAN
+"Dungeon" and translated C versions are available at many FTP sites. see also
+{grue}. :zorkmid: /zork'mid/ n. The canonical unit of currency in
+hacker-written games. This originated in {Zork} but has spread to {nethack}
+and is referred to in several other games. :(Lexicon Entries End Here):
+:Hacker Folklore: ***************** This appendix contains several legends
+and fables that illuminate the meaning of various entries in the lexicon.
+:The Meaning of `Hack': ======================= "The word {hack} doesn't
+really have 69 different meanings", according to MIT hacker Phil Agre. "In
+fact, {hack} has only one meaning, an extremely subtle and profound one which
+defies articulation. Which connotation is implied by a given use of the word
+depends in similarly profound ways on the context. Similar remarks apply to a
+couple of other hacker words, most notably {random}." Hacking might be
+characterized as `an appropriate application of ingenuity'. Whether the
+result is a quick-and-dirty patchwork job or a carefully crafted work of art,
+you have to admire the cleverness that went into it. An important secondary
+meaning of {hack} is `a creative practical joke'. This kind of hack is easier
+to explain to non-hackers than the programming kind. Of course, some hacks
+have both natures; see the lexicon entries for {pseudo} and {kgbvax}. But
+here are some examples of pure practical jokes that illustrate the hacking
+spirit: In 1961, students from Caltech (California Institute of Technology,
+in Pasadena) hacked the Rose Bowl football game. One student posed as a
+reporter and `interviewed' the director of the University of Washington card
+stunts (such stunts involve people in the stands who hold up colored cards to
+make pictures). The reporter learned exactly how the stunts were operated,
+and also that the director would be out to dinner later. While the director
+was eating, the students (who called themselves the `Fiendish Fourteen')
+picked a lock and stole a blank direction sheet for the card stunts. They
+then had a printer run off 2300 copies of the blank. The next day they picked
+the lock again and stole the master plans for the stunts -- large sheets of
+graph paper colored in with the stunt pictures. Using these as a guide, they
+made new instructions for three of the stunts on the duplicated blanks.
+Finally, they broke in once more, replacing the stolen master plans and
+substituting the stack of diddled instruction sheets for the original set.
+The result was that three of the pictures were totally different. Instead of
+`WASHINGTON', the word "CALTECH' was flashed. Another stunt showed the word
+`HUSKIES', the Washington nickname, but spelled it backwards. And what was
+supposed to have been a picture of a husky instead showed a beaver. (Both
+Caltech and MIT use the beaver -- nature's engineer -- as a mascot.) After
+the game, the Washington faculty athletic representative said: "Some thought
+it ingenious; others were indignant." The Washington student body president
+remarked: "No hard feelings, but at the time it was unbelievable. We were
+amazed." This is now considered a classic hack, particularly because revising
+the direction sheets constituted a form of programming. Here is another
+classic hack: On November 20, 1982, MIT hacked the Harvard-Yale football
+game. Just after Harvard's second touchdown against Yale, in the first
+quarter, a small black ball popped up out of the ground at the 40-yard line,
+and grew bigger, and bigger, and bigger. The letters `MIT' appeared all over
+the ball. As the players and officials stood around gawking, the ball grew to
+six feet in diameter and then burst with a bang and a cloud of white smoke.
+The "Boston Globe" later reported: "If you want to know the truth, MIT won
+The Game." The prank had taken weeks of careful planning by members of MIT's
+Delta Kappa Epsilon fraternity. The device consisted of a weather balloon, a
+hydraulic ram powered by Freon gas to lift it out of the ground, and a
+vacuum-cleaner motor to inflate it. They made eight separate expeditions to
+Harvard Stadium between 1 and 5 A.M., locating an unused 110-volt circuit in
+the stadium and running buried wires from the stadium circuit to the 40-yard
+line, where they buried the balloon device. When the time came to activate
+the device, two fraternity members had merely to flip a circuit breaker and
+push a plug into an outlet. This stunt had all the earmarks of a perfect
+hack: surprise, publicity, the ingenious use of technology, safety, and
+harmlessness. The use of manual control allowed the prank to be timed so as
+not to disrupt the game (it was set off between plays, so the outcome of the
+game would not be unduly affected). The perpetrators had even thoughtfully
+attached a note to the balloon explaining that the device was not dangerous
+and contained no explosives. Harvard president Derek Bok commented: "They
+have an awful lot of clever people down there at MIT, and they did it again."
+President Paul E. Gray of MIT said: "There is absolutely no truth to the
+rumor that I had anything to do with it, but I wish there were." The hacks
+above are verifiable history; they can be proved to have happened. Many other
+classic-hack stories from MIT and elsewhere, though retold as history, have
+the characteristics of what Jan Brunvand has called `urban folklore' (see
+{FOAF}). Perhaps the best known of these is the legend of the infamous
+trolley-car hack, an alleged incident in which engineering students are said
+to have welded a trolley car to its tracks with thermite. Numerous versions
+of this have been recorded from the 1940s to the present, most set at MIT but
+at least one very detailed version set at CMU. Brian Leibowitz has researched
+MIT hacks both real and mythical extensively; the interested reader is
+referred to his delightful pictorial compendium "The Journal of the Institute
+for Hacks, Tomfoolery, and Pranks" (MIT Museum, 1990; ISBN 0-917027-03-5).
+The Institute has a World Wide Web page at
+`http://fishwrap.mit.edu/Hacks/Gallery.html'. There is rumored to be a sequel
+entitled "Is This The Way To Baker Street?". The Caltech Alumni Association
+has published two similar books titled "Legends of Caltech" and "More Legends
+of Caltech". Finally, here is a story about one of the classic computer
+hacks. Back in the mid-1970s, several of the system support staff at Motorola
+discovered a relatively simple way to crack system security on the Xerox CP-V
+timesharing system. Through a simple programming strategy, it was possible
+for a user program to trick the system into running a portion of the program
+in `master mode' (supervisor state), in which memory protection does not
+apply. The program could then poke a large value into its `privilege level'
+byte (normally write-protected) and could then proceed to bypass all levels
+of security within the file-management system, patch the system monitor, and
+do numerous other interesting things. In short, the barn door was wide open.
+Motorola quite properly reported this problem to Xerox via an official `level
+1 SIDR' (a bug report with an intended urgency of `needs to be fixed
+yesterday'). Because the text of each SIDR was entered into a database that
+could be viewed by quite a number of people, Motorola followed the approved
+procedure: they simply reported the problem as `Security SIDR', and attached
+all of the necessary documentation, ways-to-reproduce, etc. The CP-V people
+at Xerox sat on their thumbs; they either didn't realize the severity of the
+problem, or didn't assign the necessary operating-system-staff resources to
+develop and distribute an official patch. Months passed. The Motorola guys
+pestered their Xerox field-support rep, to no avail. Finally they decided to
+take direct action, to demonstrate to Xerox management just how easily the
+system could be cracked and just how thoroughly the security safeguards could
+be subverted. They dug around in the operating-system listings and devised a
+thoroughly devilish set of patches. These patches were then incorporated into
+a pair of programs called `Robin Hood' and `Friar Tuck'. Robin Hood and Friar
+Tuck were designed to run as `ghost jobs' (daemons, in Unix terminology);
+they would use the existing loophole to subvert system security, install the
+necessary patches, and then keep an eye on one another's statuses in order to
+keep the system operator (in effect, the superuser) from aborting them. One
+fine day, the system operator on the main CP-V software development system in
+El Segundo was surprised by a number of unusual phenomena. These included the
+following: * Tape drives would rewind and dismount their tapes in the middle
+of a job. * Disk drives would seek back and forth so rapidly that they would
+attempt to walk across the floor (see {walking drives}). * The card-punch
+output device would occasionally start up of itself and punch a {lace card}.
+These would usually jam in the punch. * The console would print snide and
+insulting messages from Robin Hood to Friar Tuck, or vice versa. * The Xerox
+card reader had two output stackers; it could be instructed to stack into A,
+stack into B, or stack into A (unless a card was unreadable, in which case
+the bad card was placed into stacker B). One of the patches installed by the
+ghosts added some code to the card-reader driver... after reading a card, it
+would flip over to the opposite stacker. As a result, card decks would divide
+themselves in half when they were read, leaving the operator to recollate
+them manually. Naturally, the operator called in the operating-system
+developers. They found the bandit ghost jobs running, and {gun}ned them...
+and were once again surprised. When Robin Hood was gunned, the following
+sequence of events took place: !X id1 id1: Friar Tuck... I am under attack!
+Pray save me! id1: Off (aborted) id2: Fear not, friend Robin! I shall rout
+the Sheriff of Nottingham's men! id1: Thank you, my good fellow! Each
+ghost-job would detect the fact that the other had been killed, and would
+start a new copy of the recently slain program within a few milliseconds. The
+only way to kill both ghosts was to kill them simultaneously (very difficult)
+or to deliberately crash the system. Finally, the system programmers did the
+latter -- only to find that the bandits appeared once again when the system
+rebooted! It turned out that these two programs had patched the boot-time OS
+image (the kernel file, in Unix terms) and had added themselves to the list
+of programs that were to be started at boot time (this is similar to the way
+MS-DOS viruses propagate). The Robin Hood and Friar Tuck ghosts were finally
+eradicated when the system staff rebooted the system from a clean boot-tape
+and reinstalled the monitor. Not long thereafter, Xerox released a patch for
+this problem. It is alleged that Xerox filed a complaint with Motorola's
+management about the merry-prankster actions of the two employees in
+question. It is not recorded that any serious disciplinary action was taken
+against either of them. :TV Typewriters: A Tale of Hackish Ingenuity
+============================================ Here is a true story about a
+glass tty: One day an MIT hacker was in a motorcycle accident and broke his
+leg. He had to stay in the hospital quite a while, and got restless because
+he couldn't {hack}. Two of his friends therefore took a terminal and a modem
+for it to the hospital, so that he could use the computer by telephone from
+his hospital bed. Now this happened some years before the spread of home
+computers, and computer terminals were not a familiar sight to the average
+person. When the two friends got to the hospital, a guard stopped them and
+asked what they were carrying. They explained that they wanted to take a
+computer terminal to their friend who was a patient. The guard got out his
+list of things that patients were permitted to have in their rooms: TV,
+radio, electric razor, typewriter, tape player, ... no computer terminals.
+Computer terminals weren't on the list, so the guard wouldn't let it in.
+Rules are rules, you know. (This guard was clearly a {droid}.) Fair enough,
+said the two friends, and they left again. They were frustrated, of course,
+because they knew that the terminal was as harmless as a TV or anything else
+on the list... which gave them an idea. The next day they returned, and the
+same thing happened: a guard stopped them and asked what they were carrying.
+They said: "This is a TV typewriter!" The guard was skeptical, so they
+plugged it in and demonstrated it. "see? You just type on the keyboard and
+what you type shows up on the TV screen." Now the guard didn't stop to think
+about how utterly useless a typewriter would be that didn't produce any paper
+copies of what you typed; but this was clearly a TV typewriter, no doubt
+about it. So he checked his list: "A TV is all right, a typewriter is all
+right ... okay, take it on in!" [Historical note: Many years ago, "Popular
+Electronics" published solder-it-yourself plans for a TV typewriter. Despite
+the essential uselessness of the device, it was an enormously popular
+project. Steve Ciarcia, the man behind "Byte" magazine's "Circuit Cellar"
+feature, resurrected this ghost in one of his books of the early 1980s. He
+ascribed its popularity (no doubt correctly) to the feeling of power the
+builder could achieve by being able to decide himself what would be shown on
+the TV. --ESR] [Antihistorical note: On September 23rd, 1992, the L.A. Times
+ran the following bit of filler: Solomon Waters of Altadena, a 6-year-old
+first-grader, came home from his first day of school and excitedly told his
+mother how he had written on "a machine that looks like a computer - but
+without the TV screen." She asked him if it could have been a "typewriter."
+"Yeah! Yeah!" he said. "That's what it was called." I have since investigated
+this matter and determined that many of today's teenagers have never seen a
+slide rule, either.... - ESR] :A Story About `Magic': =======================
+Some years ago, I (GLS) was snooping around in the cabinets that housed the
+MIT AI Lab's PDP-10, and noticed a little switch glued to the frame of one
+cabinet. It was obviously a homebrew job, added by one of the lab's hardware
+hackers (no one knows who). You don't touch an unknown switch on a computer
+without knowing what it does, because you might crash the computer. The
+switch was labeled in a most unhelpful way. It had two positions, and
+scrawled in pencil on the metal switch body were the words `magic' and `more
+magic'. The switch was in the `more magic' position. I called another hacker
+over to look at it. He had never seen the switch before either. Closer
+examination revealed that the switch had only one wire running to it! The
+other end of the wire did disappear into the maze of wires inside the
+computer, but it's a basic fact of electricity that a switch can't do
+anything unless there are two wires connected to it. This switch had a wire
+connected on one side and no wire on its other side. It was clear that this
+switch was someone's idea of a silly joke. Convinced by our reasoning that
+the switch was inoperative, we flipped it. The computer instantly crashed.
+Imagine our utter astonishment. We wrote it off as coincidence, but
+nevertheless restored the switch to the `more magic' position before reviving
+the computer. A year later, I told this story to yet another hacker, David
+Moon as I recall. He clearly doubted my sanity, or suspected me of a
+supernatural belief in the power of this switch, or perhaps thought I was
+fooling him with a bogus saga. To prove it to him, I showed him the very
+switch, still glued to the cabinet frame with only one wire connected to it,
+still in the `more magic' position. We scrutinized the switch and its lone
+connection, and found that the other end of the wire, though connected to the
+computer wiring, was connected to a ground pin. That clearly made the switch
+doubly useless: not only was it electrically nonoperative, but it was
+connected to a place that couldn't affect anything anyway. So we flipped the
+switch. The computer promptly crashed. This time we ran for Richard
+Greenblatt, a long-time MIT hacker, who was close at hand. He had never
+noticed the switch before, either. He inspected it, concluded it was useless,
+got some diagonal cutters and {dike}d it out. We then revived the computer
+and it has run fine ever since. We still don't know how the switch crashed
+the machine. There is a theory that some circuit near the ground pin was
+marginal, and flipping the switch changed the electrical capacitance enough
+to upset the circuit as millionth-of-a-second pulses went through it. But
+we'll never know for sure; all we can really say is that the switch was
+{magic}. I still have that switch in my basement. Maybe I'm silly, but I
+usually keep it set on `more magic'. 1994: Another explanation of this story
+has since been offered. Note that the switch body was metal. Suppose that the
+non-connected side of the switch was connected to the switch body (usually
+the body is connected to a separate earth lug, but there are exceptions). The
+body is connected to the computer case, which is, presumably, grounded. Now
+the circuit ground within the machine isn't necessarily at the same potential
+as the case ground, so flipping the switch connected the circuit ground to
+the case ground, causing a voltage drop/jump which reset the machine. This
+was probably discovered by someone who found out the hard way that there was
+a potential difference between the two, and who then wired in the switch as a
+joke. :Some AI Koans: =============== These are some of the funniest examples
+of a genre of jokes told at the MIT AI Lab about various noted hackers. The
+original koans were composed by Danny Hillis. In reading these, it is at
+least useful to know that Minsky, Sussman, and Drescher are AI researchers of
+note, that Tom Knight was one of the Lisp machine's principal designers, and
+that David Moon wrote much of Lisp Machine Lisp. * * * A novice was trying to
+fix a broken Lisp machine by turning the power off and on. Knight, seeing
+what the student was doing, spoke sternly: "You cannot fix a machine by just
+power-cycling it with no understanding of what is going wrong." Knight turned
+the machine off and on. The machine worked. * * * One day a student came to
+Moon and said: "I understand how to make a better garbage collector. We must
+keep a reference count of the pointers to each cons." Moon patiently told the
+student the following story: "One day a student came to Moon and said: `I
+understand how to make a better garbage collector... [Ed. note: Pure
+reference-count garbage collectors have problems with circular structures
+that point to themselves.] * * * In the days when Sussman was a novice,
+Minsky once came to him as he sat hacking at the PDP-6. "What are you
+doing?", asked Minsky. "I am training a randomly wired neural net to play
+Tic-Tac-Toe" Sussman replied. "Why is the net wired randomly?", asked Minsky.
+"I do not want it to have any preconceptions of how to play", Sussman said.
+Minsky then shut his eyes. "Why do you close your eyes?", Sussman asked his
+teacher. "So that the room will be empty." At that moment, Sussman was
+enlightened. * * * A disciple of another sect once came to Drescher as he was
+eating his morning meal. "I would like to give you this personality test",
+said the outsider, "because I want you to be happy." Drescher took the paper
+that was offered him and put it into the toaster, saying: "I wish the toaster
+to be happy, too." :OS and JEDGAR: =============== This story says a lot
+about the ITS ethos. On the ITS system there was a program that allowed you
+to see what was being printed on someone else's terminal. It spied on the
+other guy's output by examining the insides of the monitor system. The output
+spy program was called OS. Throughout the rest of the computer science (and
+at IBM too) OS means `operating system', but among old-time ITS hackers it
+almost always meant `output spy'. OS could work because ITS purposely had
+very little in the way of `protection' that prevented one user from
+trespassing on another's areas. Fair is fair, however. There was another
+program that would automatically notify you if anyone started to spy on your
+output. It worked in exactly the same way, by looking at the insides of the
+operating system to see if anyone else was looking at the insides that had to
+do with your output. This `counterspy' program was called JEDGAR (a
+six-letterism pronounced as two syllables: jed'gr), in honor of the former
+head of the FBI. But there's more. JEDGAR would ask the user for `license to
+kill'. If the user said yes, then JEDGAR would actually {gun} the job of the
+{luser} who was spying. Unfortunately, people found that this made life too
+violent, especially when tourists learned about it. One of the systems
+hackers solved the problem by replacing JEDGAR with another program that only
+pretended to do its job. It took a long time to do this, because every copy
+of JEDGAR had to be patched. To this day no one knows how many people never
+figured out that JEDGAR had been defanged. Interestingly, there is still a
+security module named JEDGAR alive as of late 1994 -- in the Unisys MCP for
+large systems. It is unknown to us whether the name is tribute or independent
 invention. :The Story of Mel: ================== This was posted to Usenet by
 its author, Ed Nather (<utastro!nather>), on May 21, 1983. A recent article
 devoted to the _macho_ side of programming made the bald and unvarnished
@@ -213,111 +481,112 @@ better-motivated, and may be more respected, than his school-shaped
 counterpart. Academic areas from which people often gravitate into hackerdom
 include (besides the obvious computer science and electrical engineering)
 physics, mathematics, linguistics, and philosophy. :Things Hackers Detest and
-Avoid: ================================= IBM mainframes. Smurfs, Ewoks, and
-other forms of offensive cuteness. Bureaucracies. Stupid people. Easy
-listening music. Television (except for cartoons, movies, and "Star Trek"
-classic). Business suits. Dishonesty. Incompetence. Boredom. COBOL. BASIC.
-Character-based menu interfaces. :Food: ====== Ethnic. Spicy. Oriental, esp.
-Chinese and most esp. Szechuan, Hunan, and Mandarin (hackers consider
-Cantonese vaguely de'classe'). Hackers prefer the exotic; for example, the
-Japanese-food fans among them will eat with gusto such delicacies as fugu
-(poisonous pufferfish) and whale. Thai food has experienced flurries of
-popularity. Where available, high-quality Jewish delicatessen food is much
-esteemed. A visible minority of Southwestern and Pacific Coast hackers
-prefers Mexican. For those all-night hacks, pizza and microwaved burritos are
-big. Interestingly, though the mainstream culture has tended to think of
-hackers as incorrigible junk-food junkies, many have at least mildly
-health-foodist attitudes and are fairly discriminating about what they eat.
-This may be generational; anecdotal evidence suggests that the stereotype was
-more on the mark before the early 1980s. :Politics: ========== Vaguely
-liberal-moderate, except for the strong libertarian contingent which rejects
-conventional left-right politics entirely. The only safe generalization is
-that hackers tend to be rather anti-authoritarian; thus, both conventional
-conservatism and `hard' leftism are rare. Hackers are far more likely than
-most non-hackers to either (a) be aggressively apolitical or (b) entertain
-peculiar or idiosyncratic political ideas and actually try to live by them
-day-to-day. :Gender and Ethnicity: ====================== Hackerdom is still
-predominantly male. However, the percentage of women is clearly higher than
-the low-single-digit range typical for technical professions, and female
-hackers are generally respected and dealt with as equals. In the U.S.,
-hackerdom is predominantly Caucasian with strong minorities of Jews (East
-Coast) and Orientals (West Coast). The Jewish contingent has exerted a
-particularly pervasive cultural influence (see {Food}, above, and note that
-several common jargon terms are obviously mutated Yiddish). The ethnic
-distribution of hackers is understood by them to be a function of which
-ethnic groups tend to seek and value education. Racial and ethnic prejudice
-is notably uncommon and tends to be met with freezing contempt. When asked,
-hackers often ascribe their culture's gender- and color-blindness to a
-positive effect of text-only network channels, and this is doubtless a
-powerful influence. Also, the ties many hackers have to AI research and SF
-literature may have helped them to develop an idea of personhood that is
-inclusive rather than exclusive -- after all, if one's imagination readily
-grants full human rights to future AI programs, robots, dolphins, and
-extraterrestrial aliens, mere color and gender can't seem very important any
-more. :Religion: ========== Agnostic. Atheist. Non-observant Jewish.
-Neo-pagan. Very commonly, three or more of these are combined in the same
-person. Conventional faith-holding Christianity is rare though not unknown.
-Even hackers who identify with a religious affiliation tend to be relaxed
-about it, hostile to organized religion in general and all forms of religious
-bigotry in particular. Many enjoy `parody' religions such as Discordianism
-and the Church of the SubGenius. Also, many hackers are influenced to varying
-degrees by Zen Buddhism or (less commonly) Taoism, and blend them easily with
-their `native' religions. There is a definite strain of mystical, almost
-Gnostic sensibility that shows up even among those hackers not actively
-involved with neo-paganism, Discordianism, or Zen. Hacker folklore that pays
-homage to `wizards' and speaks of incantations and demons has too much
-psychological truthfulness about it to be entirely a joke. :Ceremonial
-Chemicals: ====================== Most hackers don't smoke tobacco, and use
-alcohol in moderation if at all (though there is a visible contingent of
-exotic-beer fanciers, and a few hackers are serious oenophiles). Limited use
-of non-addictive psychedelic drugs, such as cannabis, LSD, psilocybin, and
-nitrous oxide, etc., used to be relatively common and is still regarded with
-more tolerance than in the mainstream culture. Use of `downers' and opiates,
-on the other hand, appears to be particularly rare; hackers seem in general
-to dislike drugs that make them stupid. On the third hand, many hackers
-regularly wire up on caffeine and/or sugar for all-night hacking runs.
-:Communication Style: ===================== see the discussions of speech and
-writing styles near the beginning of this File. Though hackers often have
-poor person-to-person communication skills, they are as a rule quite
-sensitive to nuances of language and very precise in their use of it. They
-are often better at writing than at speaking. :Geographical Distribution:
-=========================== In the United States, hackerdom revolves on a Bay
-Area-to-Boston axis; about half of the hard core seems to live within a
-hundred miles of Cambridge (Massachusetts) or Berkeley (California), although
-there are significant contingents in Los Angeles, in the Pacific Northwest,
-and around Washington DC. Hackers tend to cluster around large cities,
-especially `university towns' such as the Raleigh-Durham area in North
-Carolina or Princeton, New Jersey (this may simply reflect the fact that many
-are students or ex-students living near their alma maters). :Sexual Habits:
-=============== Hackerdom easily tolerates a much wider range of sexual and
-lifestyle variation than the mainstream culture. It includes a relatively
-large gay and bisexual contingent. Hackers are somewhat more likely to live
-in polygynous or polyandrous relationships, practice open marriage, or live
-in communes or group houses. In this, as in general appearance, hackerdom
-semi-consciously maintains `counterculture' values. :Personality
-Characteristics: ============================= The most obvious common
-`personality' characteristics of hackers are high intelligence, consuming
-curiosity, and facility with intellectual abstractions. Also, most hackers
-are `neophiles', stimulated by and appreciative of novelty (especially
-intellectual novelty). Most are also relatively individualistic and
-anti-conformist. Although high general intelligence is common among hackers,
-it is not the sine qua non one might expect. Another trait is probably even
-more important: the ability to mentally absorb, retain, and reference large
-amounts of `meaningless' detail, trusting to later experience to give it
-context and meaning. A person of merely average analytical intelligence who
-has this trait can become an effective hacker, but a creative genius who
-lacks it will swiftly find himself outdistanced by people who routinely
-upload the contents of thick reference manuals into their brains. [During the
-production of the first book version of this document, for example, I learned
-most of the rather complex typesetting language TeX over about four working
-days, mainly by inhaling Knuth's 477-page manual. My editor's flabbergasted
-reaction to this genuinely surprised me, because years of associating with
-hackers have conditioned me to consider such performances routine and to be
-expected. --ESR] Contrary to stereotype, hackers are _not_ usually
-intellectually narrow; they tend to be interested in any subject that can
-provide mental stimulation, and can often discourse knowledgeably and even
-interestingly on any number of obscure subjects -- if you can get them to
-talk at all, as opposed to, say, going back to their hacking. It is
+Avoid: ================================= IBM mainframes. All the works of
+Microsoft. Smurfs, Ewoks, and other forms of offensive cuteness.
+Bureaucracies. Stupid people. Easy listening music. Television (with
+occasional exceptions for cartoons, movies, and good SF like "Star Trek"
+classic or Babylon 5). Business suits. Dishonesty. Incompetence. Boredom.
+COBOL. BASIC. Character-based menu interfaces. :Food: ====== Ethnic. Spicy.
+Oriental, esp. Chinese and most esp. Szechuan, Hunan, and Mandarin (hackers
+consider Cantonese vaguely de'classe'). Hackers prefer the exotic; for
+example, the Japanese-food fans among them will eat with gusto such
+delicacies as fugu (poisonous pufferfish) and whale. Thai food has
+experienced flurries of popularity. Where available, high-quality Jewish
+delicatessen food is much esteemed. A visible minority of Southwestern and
+Pacific Coast hackers prefers Mexican. For those all-night hacks, pizza and
+microwaved burritos are big. Interestingly, though the mainstream culture has
+tended to think of hackers as incorrigible junk-food junkies, many have at
+least mildly health-foodist attitudes and are fairly discriminating about
+what they eat. This may be generational; anecdotal evidence suggests that the
+stereotype was more on the mark before the early 1980s. :Politics: ==========
+Vaguely liberal-moderate, except for the strong libertarian contingent which
+rejects conventional left-right politics entirely. The only safe
+generalization is that hackers tend to be rather anti-authoritarian; thus,
+both conventional conservatism and `hard' leftism are rare. Hackers are far
+more likely than most non-hackers to either (a) be aggressively apolitical or
+(b) entertain peculiar or idiosyncratic political ideas and actually try to
+live by them day-to-day. :Gender and Ethnicity: ======================
+Hackerdom is still predominantly male. However, the percentage of women is
+clearly higher than the low-single-digit range typical for technical
+professions, and female hackers are generally respected and dealt with as
+equals. In the U.S., hackerdom is predominantly Caucasian with strong
+minorities of Jews (East Coast) and Orientals (West Coast). The Jewish
+contingent has exerted a particularly pervasive cultural influence (see
+{Food}, above, and note that several common jargon terms are obviously
+mutated Yiddish). The ethnic distribution of hackers is understood by them to
+be a function of which ethnic groups tend to seek and value education. Racial
+and ethnic prejudice is notably uncommon and tends to be met with freezing
+contempt. When asked, hackers often ascribe their culture's gender- and
+color-blindness to a positive effect of text-only network channels, and this
+is doubtless a powerful influence. Also, the ties many hackers have to AI
+research and SF literature may have helped them to develop an idea of
+personhood that is inclusive rather than exclusive -- after all, if one's
+imagination readily grants full human rights to future AI programs, robots,
+dolphins, and extraterrestrial aliens, mere color and gender can't seem very
+important any more. :Religion: ========== Agnostic. Atheist. Non-observant
+Jewish. Neo-pagan. Very commonly, three or more of these are combined in the
+same person. Conventional faith-holding Christianity is rare though not
+unknown. Even hackers who identify with a religious affiliation tend to be
+relaxed about it, hostile to organized religion in general and all forms of
+religious bigotry in particular. Many enjoy `parody' religions such as
+Discordianism and the Church of the SubGenius. Also, many hackers are
+influenced to varying degrees by Zen Buddhism or (less commonly) Taoism, and
+blend them easily with their `native' religions. There is a definite strain
+of mystical, almost Gnostic sensibility that shows up even among those
+hackers not actively involved with neo-paganism, Discordianism, or Zen.
+Hacker folklore that pays homage to `wizards' and speaks of incantations and
+demons has too much psychological truthfulness about it to be entirely a
+joke. :Ceremonial Chemicals: ====================== Most hackers don't smoke
+tobacco, and use alcohol in moderation if at all (though there is a visible
+contingent of exotic-beer fanciers, and a few hackers are serious
+oenophiles). Limited use of non-addictive psychedelic drugs, such as
+cannabis, LSD, psilocybin, and nitrous oxide, etc., used to be relatively
+common and is still regarded with more tolerance than in the mainstream
+culture. Use of `downers' and opiates, on the other hand, appears to be
+particularly rare; hackers seem in general to dislike drugs that make them
+stupid. On the third hand, many hackers regularly wire up on caffeine and/or
+sugar for all-night hacking runs. :Communication Style: =====================
+see the discussions of speech and writing styles near the beginning of this
+File. Though hackers often have poor person-to-person communication skills,
+they are as a rule quite sensitive to nuances of language and very precise in
+their use of it. They are often better at writing than at speaking.
+:Geographical Distribution: =========================== In the United States,
+hackerdom revolves on a Bay Area-to-Boston axis; about half of the hard core
+seems to live within a hundred miles of Cambridge (Massachusetts) or Berkeley
+(California), although there are significant contingents in Los Angeles, in
+the Pacific Northwest, and around Washington DC. Hackers tend to cluster
+around large cities, especially `university towns' such as the Raleigh-Durham
+area in North Carolina or Princeton, New Jersey (this may simply reflect the
+fact that many are students or ex-students living near their alma maters).
+:Sexual Habits: =============== Hackerdom easily tolerates a much wider range
+of sexual and lifestyle variation than the mainstream culture. It includes a
+relatively large gay and bisexual contingent. Hackers are somewhat more
+likely to live in polygynous or polyandrous relationships, practice open
+marriage, or live in communes or group houses. In this, as in general
+appearance, hackerdom semi-consciously maintains `counterculture' values.
+:Personality Characteristics: ============================= The most obvious
+common `personality' characteristics of hackers are high intelligence,
+consuming curiosity, and facility with intellectual abstractions. Also, most
+hackers are `neophiles', stimulated by and appreciative of novelty
+(especially intellectual novelty). Most are also relatively individualistic
+and anti-conformist. Although high general intelligence is common among
+hackers, it is not the sine qua non one might expect. Another trait is
+probably even more important: the ability to mentally absorb, retain, and
+reference large amounts of `meaningless' detail, trusting to later experience
+to give it context and meaning. A person of merely average analytical
+intelligence who has this trait can become an effective hacker, but a
+creative genius who lacks it will swiftly find himself outdistanced by people
+who routinely upload the contents of thick reference manuals into their
+brains. [During the production of the first book version of this document,
+for example, I learned most of the rather complex typesetting language TeX
+over about four working days, mainly by inhaling Knuth's 477-page manual. My
+editor's flabbergasted reaction to this genuinely surprised me, because years
+of associating with hackers have conditioned me to consider such performances
+routine and to be expected. --ESR] Contrary to stereotype, hackers are _not_
+usually intellectually narrow; they tend to be interested in any subject that
+can provide mental stimulation, and can often discourse knowledgeably and
+even interestingly on any number of obscure subjects -- if you can get them
+to talk at all, as opposed to, say, going back to their hacking. It is
 noticeable (and contrary to many outsiders' expectations) that the better a
 hacker is at hacking, the more likely he or she is to have outside interests
 at which he or she is more than merely competent. Hackers are `control
@@ -397,7 +666,7 @@ help the culture that created it grow and flourish. Here are several ways you
 can help: * If you are a writer or journalist, don't say or write {hacker}
 when you mean {cracker}. If you work with writers or journalists, educate
 them on this issue and push them to do the right thing. If you catch a
-newspaper or magazine abusing the work `hacker', write them and straigten
+newspaper or magazine abusing the work `hacker', write them and straighten
 them out (this appendix includes a model letter). * If you're a techie or
 computer hobbyist, get involved with one of the free Unixes. Toss out that
 lame Microsoft OS, or confine it to one disk partition and put Linux or
@@ -417,34 +686,31 @@ Square #143, P.O.Box 9171, Cambridge, Massachusetts 02139 USA. * Join the
 continuing fight against Internet censorship, visit the Center for Democracy
 and Technology Home Page at `http://www.cdt.org'. * If you do nothing else,
 please help fight government attempts to seize political control of Internet
-content and restrict strong cryptography. As TNHD III went to press, the
-so-called `Communications Decency Act' had just been declared
-"unconstitutional on its face" by a Federal court, but the government is
-expected to appeal. If it's still law when you read this, please join the
-effort by the Citizens' Internet Empowerment Coalition lawsuit to have the
-CDA quashed or repealed. Surf to the Center for Democracy and technology's
-home page at `http://www.cdt.org' to see what you can do to help fight
-censorship of the net. Here's the text of a letter RMS wrote to the Wall
-Street Journal to complain about their policy of using "hacker" only in a
-pejorative sense. We hear that most major newspapers have the same policy. If
-you'd like to help change this situation, send your favorite newspaper the
-same letter - or, better yet, write your own letter. Dear Editor: This letter
-is not meant for publication, although you can publish it if you wish. It is
-meant specifically for you, the editor, not the public. I am a hacker. That
-is to say, I enjoy playing with computers -- working with, learning about,
-and writing clever computer programs. I am not a cracker; I don't make a
-practice of breaking computer security. There's nothing shameful about the
-hacking I do. But when I tell people I am a hacker, people think I'm
-admitting something naughty -- because newspapers such as yours misuse the
-word "hacker", giving the impression that it means "security breaker" and
-nothing else. You are giving hackers a bad name. The saddest thing is that
-this problem is perpetuated deliberately. Your reporters know the difference
-between "hacker" and "security breaker". They know how to make the
-distinction, but you don't let them! You insist on using "hacker"
-pejoratively. When reporters try to use another word, you change it. When
-reporters try to explain the other meanings, you cut it. Of course, you have
-a reason. You say that readers have become used to your insulting usage of
-"hacker", so that you cannot change it now. Well, you can't undo past
+content and restrict strong cryptography. The so-called `Communications
+Decency Act' was declared unconstitutional by the Supreme Court, but U.S.
+cryptography policy still infringes our Firat Amendment rights. Surf to the
+Center for Democracy and technology's home page at `http://www.cdt.org' to
+see what you can do to help fight censorship of the net. Here's the text of a
+letter RMS wrote to the Wall Street Journal to complain about their policy of
+using "hacker" only in a pejorative sense. We hear that most major newspapers
+have the same policy. If you'd like to help change this situation, send your
+favorite newspaper the same letter - or, better yet, write your own letter.
+Dear Editor: This letter is not meant for publication, although you can
+publish it if you wish. It is meant specifically for you, the editor, not the
+public. I am a hacker. That is to say, I enjoy playing with computers --
+working with, learning about, and writing clever computer programs. I am not
+a cracker; I don't make a practice of breaking computer security. There's
+nothing shameful about the hacking I do. But when I tell people I am a
+hacker, people think I'm admitting something naughty -- because newspapers
+such as yours misuse the word "hacker", giving the impression that it means
+"security breaker" and nothing else. You are giving hackers a bad name. The
+saddest thing is that this problem is perpetuated deliberately. Your
+reporters know the difference between "hacker" and "security breaker". They
+know how to make the distinction, but you don't let them! You insist on using
+"hacker" pejoratively. When reporters try to use another word, you change it.
+When reporters try to explain the other meanings, you cut it. Of course, you
+have a reason. You say that readers have become used to your insulting usage
+of "hacker", so that you cannot change it now. Well, you can't undo past
 mistakes today; but that is no excuse to repeat them tomorrow. If I were what
 you call a "hacker", at this point I would threaten to crack your computer
 and crash it. But I am a hacker, not a cracker. I don't do that kind of
@@ -510,7 +776,7 @@ psychology and evolution of hackerdom. Unfortunately, a number of small
 errors and awkwardnesses suggest that she didn't have the final manuscript
 checked over by a native speaker; the glossary in the back is particularly
 embarrassing, and at least one classic tale (the Magic Switch story, retold
-here under {A Story About `Magic'} in Appendix A is given in incomplete and
+here under {A Story About Magic} in Appendix A is given in incomplete and
 badly mangled form. Nevertheless, this book is a win overall and can be
 enjoyed by hacker and non-hacker alike. :The Soul of a New Machine: Tracy
 Kidder Little, Brown, 1981 (paperback: Avon, 1982 ISBN 0-380-59931-7) This

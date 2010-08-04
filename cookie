@@ -85,42 +85,48 @@ triviality or lack of power; for example, C is compact and FORTRAN is not,
 but C is more powerful than FORTRAN. Designs become non-compact through
 accreting {feature}s and {cruft} that don't merge cleanly into the overall
 design scheme (thus, some fans of {Classic C} maintain that ANSI C is no
-longer compact). :compiler jock: n. see {jock} (sense 2). :compress: [Unix]
-vt. When used without a qualifier, generally refers to {crunch}ing of a file
-using a particular C implementation of compression by Joseph M. Orost et al.
-and widely circulated via {Usenet}; use of {crunch} itself in this sense is
-rare among Unix hackers. Specifically, compress is built around the
-Lempel-Ziv-Welch algorithm as described in "A Technique for High Performance
-Data Compression", Terry A. Welch, "IEEE Computer", vol. 17, no. 6 (June
-1984), pp. 8-19. :Compu$erve: n. see {CI$}. Synonyms CompuSpend and
-Compu$pend are also reported. :computer confetti: n. Syn. {chad}. Though this
-term is common, this use of punched-card chad is not a good idea, as the
-pieces are stiff and have sharp corners that could injure the eyes. GLS
-reports that he once attended a wedding at MIT during which he and a few
-other guests enthusiastically threw chad instead of rice. The groom later
-grumbled that he and his bride had spent most of the evening trying to get
-the stuff out of their hair. :computer geek: n. 1. One who eats (computer)
-bugs for a living. One who fulfills all the dreariest negative stereotypes
-about hackers: an asocial, malodorous, pasty-faced monomaniac with all the
-personality of a cheese grater. Cannot be used by outsiders without implied
-insult to all hackers; compare black-on-black vs. white-on-black usage of
-`nigger'. A computer geek may be either a fundamentally clueless individual
-or a proto-hacker in {larval stage}. Also called `turbo nerd', `turbo geek'.
-see also {propeller head}, {clustergeeking}, {geek out}, {wannabee},
-{terminal junkie}, {spod}, {weenie}. 2. Some self-described computer geeks
-use this term in a positive sense and protest sense 1 (this seems to have
-been a post-1990 development). For one such argument, see
-`http://samsara.circus.com/~omni/geek.html'. see also {geek code}.
-:computron: /kom'pyoo-tron`/ n. 1. [common] A notional unit of computing
-power combining instruction speed and storage capacity, dimensioned roughly
-in instructions-per-second times megabytes-of-main-store times
-megabytes-of-mass-storage. "That machine can't run GNU Emacs, it doesn't have
-enough computrons!" This usage is usually found in metaphors that treat
-computing power as a fungible commodity good, like a crop yield or diesel
-horsepower. see {bitty box}, {Get a real computer!}, {toy}, {crank}. 2. A
-mythical subatomic particle that bears the unit quantity of computation or
-information, in much the same way that an electron bears one unit of electric
-charge (see also {bogon}). An elaborate pseudo-scientific theory of
+longer compact). :compiler jock: n. see {jock} (sense 2). :compo: n.
+[{demoscene}] Finnish-originated slang for `competition'. Demo compos are
+held at a {demoparty}. The usual protocol is that several groups make demos
+for a compo, they are shown on a big screen, and then the party participants
+vote for the best one. Prizes (from sponsors and party entrance fees) are
+given. Standard compo formats include {intro} compos (4k or 64k demos), music
+compos, graphics compos, quick {demo} compos (build a demo within 4 hours for
+example), etc. :compress: [Unix] vt. When used without a qualifier, generally
+refers to {crunch}ing of a file using a particular C implementation of
+compression by Joseph M. Orost et al. and widely circulated via {Usenet}; use
+of {crunch} itself in this sense is rare among Unix hackers. Specifically,
+compress is built around the Lempel-Ziv-Welch algorithm as described in "A
+Technique for High Performance Data Compression", Terry A. Welch, "IEEE
+Computer", vol. 17, no. 6 (June 1984), pp. 8-19. :Compu$erve: n. see {CI$}.
+Synonyms CompuSpend and Compu$pend are also reported. :computer confetti: n.
+Syn. {chad}. Though this term is common, this use of punched-card chad is not
+a good idea, as the pieces are stiff and have sharp corners that could injure
+the eyes. GLS reports that he once attended a wedding at MIT during which he
+and a few other guests enthusiastically threw chad instead of rice. The groom
+later grumbled that he and his bride had spent most of the evening trying to
+get the stuff out of their hair. :computer geek: n. 1. One who eats
+(computer) bugs for a living. One who fulfills all the dreariest negative
+stereotypes about hackers: an asocial, malodorous, pasty-faced monomaniac
+with all the personality of a cheese grater. Cannot be used by outsiders
+without implied insult to all hackers; compare black-on-black vs.
+white-on-black usage of `nigger'. A computer geek may be either a
+fundamentally clueless individual or a proto-hacker in {larval stage}. Also
+called `turbo nerd', `turbo geek'. see also {propeller head},
+{clustergeeking}, {geek out}, {wannabee}, {terminal junkie}, {spod},
+{weenie}. 2. Some self-described computer geeks use this term in a positive
+sense and protest sense 1 (this seems to have been a post-1990 development).
+For one such argument, see `http://samsara.circus.com/~omni/geek.html'. see
+also {geek code}. :computron: /kom'pyoo-tron`/ n. 1. [common] A notional unit
+of computing power combining instruction speed and storage capacity,
+dimensioned roughly in instructions-per-second times megabytes-of-main-store
+times megabytes-of-mass-storage. "That machine can't run GNU Emacs, it
+doesn't have enough computrons!" This usage is usually found in metaphors
+that treat computing power as a fungible commodity good, like a crop yield or
+diesel horsepower. see {bitty box}, {Get a real computer!}, {toy}, {crank}.
+2. A mythical subatomic particle that bears the unit quantity of computation
+or information, in much the same way that an electron bears one unit of
+electric charge (see also {bogon}). An elaborate pseudo-scientific theory of
 computrons has been developed based on the physical fact that the molecules
 in a solid object move more rapidly as it is heated. It is argued that an
 object melts because the molecules have lost their information about where
@@ -132,11 +138,11 @@ explain why machines that work at the factory fail in the computer room: the
 computrons there have been all used up by the other hardware. (The popularity
 of this theory probably owes something to the "Warlock" stories by Larry
 Niven, the best known being "What Good is a Glass Dagger?", in which magic is
-fueled by an exhaustible natural resource called `mana'.) :con: [from SF
-fandom] n. A science-fiction convention. Not used of other sorts of
-conventions, such as professional meetings. This term, unlike many others of
-SF-fan slang, is widely recognized even by hackers who aren't {fan}s. "We'd
-been corresponding on the net for months, then we met face-to-face at a con."
+fueled by an exhaustible natural resource called `mana'.) :con: n. [from SF
+fandom] A science-fiction convention. Not used of other sorts of conventions,
+such as professional meetings. This term, unlike many others of SF-fan slang,
+is widely recognized even by hackers who aren't {fan}s. "We'd been
+corresponding on the net for months, then we met face-to-face at a con."
 :condition out: vt. To prevent a section of code from being compiled by
 surrounding it with a conditional-compilation directive whose condition is
 always false. The {canonical} examples of these directives are `#if 0' (or
@@ -268,42 +274,43 @@ programs. "I give him a packet, he gives me back a cookie." The claim check
 you get from a dry-cleaning shop is a perfect mundane example of a cookie;
 the only thing it's useful for is to relate a later transaction to this one
 (so you get the same clothes back). Compare {magic cookie}; see also {fortune
-cookie}. :cookie bear: n. obs. Original term, pre-Sesame-Street, for what is
-now universally called a {cookie monster}. A correspondent observes "In those
-days, hackers were actually getting their yucks from...sit down now...Andy
-Williams. Yes, _that_ Andy Williams. seems he had a rather hip (by the
-standards of the day) TV variety show. One of the best parts of the show was
-the recurring `cookie bear' sketch. In these sketches, a guy in a bear suit
-tried all sorts of tricks to get a cookie out of Williams. The sketches would
-always end with Williams shrieking (and I don't mean figuratively), `No
-cookies! Not now, not ever...NEVER!!!' And the bear would fall down. Great
-stuff." :cookie file: n. A collection of {fortune cookie}s in a format that
-facilitates retrieval by a fortune program. There are several different
-cookie files in public distribution, and site admins often assemble their own
-from various sources including this lexicon. :cookie jar: n. An area of
-memory set aside for storing {cookie}s. Most commonly heard in the Atari ST
-community; many useful ST programs record their presence by storing a
-distinctive {magic number} in the jar. Programs can inquire after the
-presence or otherwise of other programs by searching the contents of the jar.
-:cookie monster: n. [from the children's TV program "Sesame Street"] Any of a
-family of early (1970s) hacks reported on {{TOPS-10}}, {{ITS}}, {{Multics}},
-and elsewhere that would lock up either the victim's terminal (on a
-time-sharing machine) or the {{console}} (on a batch {mainframe}), repeatedly
-demanding "I WANT A COOKIE". The required responses ranged in complexity from
-"COOKIE" through "HAVE A COOKIE" and upward. Folklorist Jan Brunvand (see
-{FOAF}) has described these programs as urban legends (implying they probably
-never existed) but they existed, all right, in several different versions.
-see also {wabbit}. Interestingly, the term `cookie monster' appears to be a
-{retcon}; the original term was {cookie bear}. :copious free time: n. [Apple;
-orig. fr. the intro to Tom Lehrer's song "It Makes A Fellow Proud To Be A
-Soldier"] 1. [used ironically to indicate the speaker's lack of the quantity
-in question] A mythical schedule slot for accomplishing tasks held to be
-unlikely or impossible. Sometimes used to indicate that the speaker is
-interested in accomplishing the task, but believes that the opportunity will
-not arise. "I'll implement the automatic layout stuff in my copious free
-time." 2. [Archly] Time reserved for bogus or otherwise idiotic tasks, such
-as implementation of {chrome}, or the stroking of {suit}s. "I'll get back to
-him on that feature in my copious free time." :copper: n. Conventional
+cookie}. Now mainstream in the specific sense of web-browser cookies. :cookie
+bear: n. obs. Original term, pre-Sesame-Street, for what is now universally
+called a {cookie monster}. A correspondent observes "In those days, hackers
+were actually getting their yucks from...sit down now...Andy Williams. Yes,
+_that_ Andy Williams. seems he had a rather hip (by the standards of the day)
+TV variety show. One of the best parts of the show was the recurring `cookie
+bear' sketch. In these sketches, a guy in a bear suit tried all sorts of
+tricks to get a cookie out of Williams. The sketches would always end with
+Williams shrieking (and I don't mean figuratively), `No cookies! Not now, not
+ever...NEVER!!!' And the bear would fall down. Great stuff." :cookie file: n.
+A collection of {fortune cookie}s in a format that facilitates retrieval by a
+fortune program. There are several different cookie files in public
+distribution, and site admins often assemble their own from various sources
+including this lexicon. :cookie jar: n. An area of memory set aside for
+storing {cookie}s. Most commonly heard in the Atari ST community; many useful
+ST programs record their presence by storing a distinctive {magic number} in
+the jar. Programs can inquire after the presence or otherwise of other
+programs by searching the contents of the jar. :cookie monster: n. [from the
+children's TV program "Sesame Street"] Any of a family of early (1970s) hacks
+reported on {{TOPS-10}}, {{ITS}}, {{Multics}}, and elsewhere that would lock
+up either the victim's terminal (on a time-sharing machine) or the
+{{console}} (on a batch {mainframe}), repeatedly demanding "I WANT A COOKIE".
+The required responses ranged in complexity from "COOKIE" through "HAVE A
+COOKIE" and upward. Folklorist Jan Brunvand (see {FOAF}) has described these
+programs as urban legends (implying they probably never existed) but they
+existed, all right, in several different versions. see also {wabbit}.
+Interestingly, the term `cookie monster' appears to be a {retcon}; the
+original term was {cookie bear}. :copious free time: n. [Apple; orig. fr. the
+intro to Tom Lehrer's song "It Makes A Fellow Proud To Be A Soldier"] 1.
+[used ironically to indicate the speaker's lack of the quantity in question]
+A mythical schedule slot for accomplishing tasks held to be unlikely or
+impossible. Sometimes used to indicate that the speaker is interested in
+accomplishing the task, but believes that the opportunity will not arise.
+"I'll implement the automatic layout stuff in my copious free time." 2.
+[Archly] Time reserved for bogus or otherwise idiotic tasks, such as
+implementation of {chrome}, or the stroking of {suit}s. "I'll get back to him
+on that feature in my copious free time." :copper: n. Conventional
 electron-carrying network cable with a core conductor of copper -- or
 aluminum! Opposed to {light pipe} or, say, a short-range microwave link.
 :copy protection: n. A class of methods for preventing incompetent pirates

@@ -16,84 +16,87 @@ diode. A {friode} that lost the war. see also {LER}. :segfault: n.,vi. Syn.
 experience a {segmentation fault}. Confusingly, this is often pronounced more
 like the noun `segment' than like mainstream v. segment; this is because it
 is actually a noun shorthand that has been verbed. :segmentation fault: n.
-[Unix] 1. An error in which a running program attempts to access memory not
-allocated to it and {core dump}s with a segmentation violation error. 2. To
-lose a train of thought or a line of reasoning. Also uttered as an
-exclamation at the point of befuddlement. :segv: /seg'vee/ n.,vi. Yet another
-synonym for {segmentation fault} (actually, in this case, `segmentation
-violation'). :self-reference: n. see {self-reference}. :selvage: /sel'v*j/ n.
-[from sewing and weaving] see {chad} (sense 1). :semi: /se'mee/ or /se'mi:/
-1. n. Abbreviation for `semicolon', when speaking. "Commands to {grind} are
-prefixed by semi-semi-star" means that the prefix is `;;*', not 1/4 of a
-star. 2. A prefix used with words such as `immediately' as a qualifier. "When
-is the system coming up?" "Semi-immediately." (That is, maybe not for an
-hour.) "We did consider that possibility semi-seriously." see also
-{infinite}. :semi-automated: adj. [US Geological Survey] A procedure that has
-yet to be completely automated; it still requires a smidge of clueful human
-interaction. Semi-automated programs usually come with written-out operator
-instructions that are worth their weight in gold - without them, very nasty
-things can happen. At USGS semi-automated programs are often referred to as
-"semi-automated weapons". :semi-infinite: n. see {infinite}. :senior bit: n.
-[IBM] Syn. {meta bit}. :September that never ended: All time since September
-1993. One of the seasonal rhythms of the Usenet used to be the annual
-September influx of clueless newbies who, lacking any sense of {netiquette},
-made a general nuisance of themselves. This coincided with people starting
-college, getting their first internet accounts, and plunging in without
-bothering to learn what was acceptable. These relatively small drafts of
-newbies could be assimilated within a few months. But in September 1993, AOL
-users became able to post to Usenet, nearly overwhelming the old-timers'
-capacity to acculturate them; to those who nostalgically recall the period
-before hand, this triggered an inexorable decline in the quality of
-discussions on newsgroups. see also {AOL!}. :server: n. A kind of {daemon}
-that performs a service for the requester and which often runs on a computer
-other than the one on which the server runs. A particularly common term on
-the Internet, which is rife with `web servers', `name servers', `domain
-servers', `news servers', `finger servers', and the like. :SEX: /seks/ [Sun
-Users' Group & elsewhere] n. 1. Software EXchange. A technique invented by
-the blue-green algae hundreds of millions of years ago to speed up their
-evolution, which had been terribly slow up until then. Today, SEX parties are
-popular among hackers and others (of course, these are no longer limited to
-exchanges of genetic software). In general, SEX parties are a {Good Thing},
-but unprotected SEX can propagate a {virus}. see also {pubic directory}. 2.
-The rather Freudian mnemonic often used for Sign EXtend, a machine
-instruction found in the PDP-11 and many other architectures. The RCA 1802
-chip used in the early Elf and SuperElf personal computers had a `SEt X
-register' SEX instruction, but this seems to have had little folkloric
-impact. {DEC}'s engineers nearly got a PDP-11 assembler that used the `SEX'
-mnemonic out the door at one time, but (for once) marketing wasn't asleep and
-forced a change. That wasn't the last time this happened, either. The author
-of "The Intel 8086 Primer", who was one of the original designers of the
-8086, noted that there was originally a `SEX' instruction on that processor,
-too. He says that Intel management got cold feet and decreed that it be
-changed, and thus the instruction was renamed `CBW' and `CWD' (depending on
-what was being extended). Amusingly, the Intel 8048 (the microcontroller used
-in IBM PC keyboards) is also missing straight `SEX' but has logical-or and
-logical-and instructions `ORL' and `ANL'. The Motorola 6809, used in the
-Radio Shack Color Computer and in U.K.'s `Dragon 32' personal computer,
-actually had an official `SEX' instruction; the 6502 in the Apple II with
-which it competed did not. British hackers thought this made perfect mythic
-sense; after all, it was commonly observed, you could (on some theoretical
-level) have sex with a dragon, but you can't have sex with an apple. :sex
-changer: n. Syn. {gender mender}. :shambolic link: /sham-bol'ik link/ n. A
-Unix symbolic link, particularly when it confuses you, points to nothing at
-all, or results in your ending up in some completely unexpected part of the
-filesystem.... :shar file: /shar' fi:l/ n. Syn. {sharchive}. :sharchive:
-/shar'ki:v/ n. [Unix and Usenet; from /bin/sh archive] A {flatten}ed
-representation of a set of one or more files, with the unique property that
-it can be unflattened (the original files restored) by feeding it through a
-standard Unix shell; thus, a sharchive can be distributed to anyone running
-Unix, and no special unpacking software is required. Sharchives are also
-intriguing in that they are typically created by shell scripts; the script
-that produces sharchives is thus a script which produces self-unpacking
-scripts, which may themselves contain scripts. (The downsides of sharchives
-are that they are an ideal venue for {Trojan horse} attacks and that, for
-recipients not running Unix, no simple un-sharchiving program is possible;
-sharchives can and do make use of arbitrarily-powerful shell features.)
-Sharchives are also commonly referred to as `shar files' after the name of
-the most common program for generating them. :Share and enjoy!: imp. 1.
-Commonly found at the end of software release announcements and {README
-file}s, this phrase indicates allegiance to the hacker ethic of free
-information sharing (see {hacker ethic}, sense 1). 2. The motto of the
+[Unix] 1. [techspeak] An error in which a running program attempts to access
+memory not allocated to it and {core dump}s with a segmentation violation
+error. This is often caused by improper usage of pointers in the source code,
+dereferencing a null pointer, or (in C) inadvertently using a non-pointer
+variable as a pointer. The classic example is: int i; scanf ("%d", i); /*
+should have used &i */ 2. To lose a train of thought or a line of reasoning.
+Also uttered as an exclamation at the point of befuddlement. :segv: /seg'vee/
+n.,vi. Yet another synonym for {segmentation fault} (actually, in this case,
+`segmentation violation'). :self-reference: n. see {self-reference}.
+:selvage: /sel'v*j/ n. [from sewing and weaving] see {chad} (sense 1). :semi:
+/se'mee/ or /se'mi:/ 1. n. Abbreviation for `semicolon', when speaking.
+"Commands to {grind} are prefixed by semi-semi-star" means that the prefix is
+`;;*', not 1/4 of a star. 2. A prefix used with words such as `immediately'
+as a qualifier. "When is the system coming up?" "Semi-immediately." (That is,
+maybe not for an hour.) "We did consider that possibility semi-seriously."
+see also {infinite}. :semi-automated: adj. [US Geological Survey] A procedure
+that has yet to be completely automated; it still requires a smidge of
+clueful human interaction. Semi-automated programs usually come with
+written-out operator instructions that are worth their weight in gold -
+without them, very nasty things can happen. At USGS semi-automated programs
+are often referred to as "semi-automated weapons". :semi-infinite: n. see
+{infinite}. :senior bit: n. [IBM; rare] Syn. {meta bit}. :September that
+never ended: All time since September 1993. One of the seasonal rhythms of
+the Usenet used to be the annual September influx of clueless newbies who,
+lacking any sense of {netiquette}, made a general nuisance of themselves.
+This coincided with people starting college, getting their first internet
+accounts, and plunging in without bothering to learn what was acceptable.
+These relatively small drafts of newbies could be assimilated within a few
+months. But in September 1993, AOL users became able to post to Usenet,
+nearly overwhelming the old-timers' capacity to acculturate them; to those
+who nostalgically recall the period before hand, this triggered an inexorable
+decline in the quality of discussions on newsgroups. see also {AOL!}.
+:server: n. A kind of {daemon} that performs a service for the requester and
+which often runs on a computer other than the one on which the server runs. A
+particularly common term on the Internet, which is rife with `web servers',
+`name servers', `domain servers', `news servers', `finger servers', and the
+like. :SEX: /seks/ [Sun Users' Group & elsewhere] n. 1. Software EXchange. A
+technique invented by the blue-green algae hundreds of millions of years ago
+to speed up their evolution, which had been terribly slow up until then.
+Today, SEX parties are popular among hackers and others (of course, these are
+no longer limited to exchanges of genetic software). In general, SEX parties
+are a {Good Thing}, but unprotected SEX can propagate a {virus}. see also
+{pubic directory}. 2. The rather Freudian mnemonic often used for Sign
+EXtend, a machine instruction found in the PDP-11 and many other
+architectures. The RCA 1802 chip used in the early Elf and SuperElf personal
+computers had a `SEt X register' SEX instruction, but this seems to have had
+little folkloric impact. {DEC}'s engineers nearly got a PDP-11 assembler that
+used the `SEX' mnemonic out the door at one time, but (for once) marketing
+wasn't asleep and forced a change. That wasn't the last time this happened,
+either. The author of "The Intel 8086 Primer", who was one of the original
+designers of the 8086, noted that there was originally a `SEX' instruction on
+that processor, too. He says that Intel management got cold feet and decreed
+that it be changed, and thus the instruction was renamed `CBW' and `CWD'
+(depending on what was being extended). Amusingly, the Intel 8048 (the
+microcontroller used in IBM PC keyboards) is also missing straight `SEX' but
+has logical-or and logical-and instructions `ORL' and `ANL'. The Motorola
+6809, used in the Radio Shack Color Computer and in U.K.'s `Dragon 32'
+personal computer, actually had an official `SEX' instruction; the 6502 in
+the Apple II with which it competed did not. British hackers thought this
+made perfect mythic sense; after all, it was commonly observed, you could (on
+some theoretical level) have sex with a dragon, but you can't have sex with
+an apple. :sex changer: n. Syn. {gender mender}. :shambolic link:
+/sham-bol'ik link/ n. A Unix symbolic link, particularly when it confuses
+you, points to nothing at all, or results in your ending up in some
+completely unexpected part of the filesystem.... :shar file: /shar' fi:l/ n.
+Syn. {sharchive}. :sharchive: /shar'ki:v/ n. [Unix and Usenet; from /bin/sh
+archive] A {flatten}ed representation of a set of one or more files, with the
+unique property that it can be unflattened (the original files restored) by
+feeding it through a standard Unix shell; thus, a sharchive can be
+distributed to anyone running Unix, and no special unpacking software is
+required. Sharchives are also intriguing in that they are typically created
+by shell scripts; the script that produces sharchives is thus a script which
+produces self-unpacking scripts, which may themselves contain scripts. (The
+downsides of sharchives are that they are an ideal venue for {Trojan horse}
+attacks and that, for recipients not running Unix, no simple un-sharchiving
+program is possible; sharchives can and do make use of arbitrarily-powerful
+shell features.) Sharchives are also commonly referred to as `shar files'
+after the name of the most common program for generating them. :Share and
+enjoy!: imp. 1. Commonly found at the end of software release announcements
+and {README file}s, this phrase indicates allegiance to the hacker ethic of
+free information sharing (see {hacker ethic}, sense 1). 2. The motto of the
 complaints division of Sirius Cybernetics Corporation (the ultimate gaggle of
 incompetent {suit}s) in Douglas Adams's "Hitch Hiker's Guide to the Galaxy".
 The irony of using this as a cultural recognition signal appeals to hackers.
@@ -482,7 +485,11 @@ CD-ROMs." Also called `Tennis-Net', `Armpit-Net', `Floppy-Net' or `Shoenet';
 in the 1990s, `Nike network' after a well-known sneaker brand. :sniff: v.,n.
 Synonym for {poll}. :snivitz: /sniv'itz/ n. A hiccup in hardware or software;
 a small, transient problem of unknown origin (less serious than a {snark}).
-Compare {glitch}. :SO: /S-O/ n. 1. (also `S.O.') Abbrev. for Significant
+Compare {glitch}. :'Snooze: /snooz/ [FidoNet] n. Fidonews, the weekly
+official on-line newsletter of FidoNet. As the editorial policy of Fidonews
+is "anything that arrives, we print", there are often large articles
+completely unrelated to FidoNet, which in turn tend to elicit {flamage} in
+subsequent issues. :SO: /S-O/ n. 1. (also `S.O.') Abbrev. for Significant
 Other, almost invariably written abbreviated and pronounced /S-O/ by hackers.
 Used to refer to one's primary relationship, esp. a live-in to whom one is
 not married. see {MOTAS}, {MOTOS}, {MOTSS}. 2. [techspeak] The Shift Out
@@ -493,7 +500,7 @@ revealing passwords or other information that compromises a target system's
 security. Classic scams include phoning up a mark who has the required
 information and posing as a field service tech or a fellow employee with an
 urgent access problem. see also the {tiger team} story in the {patch} entry.
-:social science number: n. [IBM] A statistic that is {content-free}, or
+:social science number: n. // [IBM] A statistic that is {content-free}, or
 nearly so. A measure derived via methods of questionable validity from data
 of a dubious and vague nature. Predictively, having a social science number
 in hand is seldom much better than nothing, and can be considerably worse. As

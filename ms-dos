@@ -1,42 +1,19 @@
- :Format For New Entries: ======================== You can mail submissions
-for the Jargon File to <jargon@snark.thyrsus.com>. We welcome new jargon, and
-corrections to or amplifications of existing entries. You can improve your
-submission's chances of being included by adding background information on
-user population and years of currency. References to actual usage via URLs
-and/or DejaNews pointers are particularly welcomed. All contributions and
-suggestions about the Jargon File will be considered donations to be placed
-in the public domain as part of this File, and may be used in subsequent
-paper editions. Submissions may be edited for accuracy, clarity and
-concision. We are looking to expand the File's range of technical specialties
-covered. There are doubtless rich veins of jargon yet untapped in the
-scientific computing, graphics, and networking hacker communities; also in
-numerical analysis, computer architectures and VLSI design, language design,
-and many other related fields. Send us your jargon! We are _not_ interested
-in straight technical terms explained by textbooks or technical dictionaries
-unless an entry illuminates `underground' meanings or aspects not covered by
-official histories. We are also not interested in `joke' entries -- there is
-a lot of humor in the file but it must flow naturally out of the explanations
-of what hackers do and how they think. It is OK to submit items of jargon you
-have originated if they have spread to the point of being used by people who
-are not personally acquainted with you. We prefer items to be attested by
-independent submission from two different sites. An HTML version of the File
-is available at http://www.ccil.org/jargon. Please send us URLs for materials
-related to the entries, so we can enrich the File's link structure. The
-Jargon File will be regularly maintained and made available for browsing on
-the World Wide Web, and will include a version number. Read it, pass it
-around, contribute -- this is _your_ monument! The Jargon Lexicon
-****************** = A = ===== :abbrev: /*-breev'/, /*-brev'/ n. Common
-abbreviation for `abbreviation'. :ABEND: /a'bend/, /*-bend'/ n. [ABnormal
-END] 1. Abnormal termination (of software); {crash}; {lossage}. Derives from
-an error message on the IBM 360; used jokingly by hackers but seriously
-mainly by {code grinder}s. Usually capitalized, but may appear as `abend'.
-Hackers will try to persuade you that ABEND is called `abend' because it is
-what system operators do to the machine late on Friday when they want to call
-it a day, and hence is from the German `Abend' = `Evening'. 2.
-[alt.callahans] Absent By Enforced Net Deprivation - used in the subject
-lines of postings warning friends of an imminent loss of Internet access.
-(This can be because of computer downtime, loss of provider, moving or
-illness.) Variants of this also appear: ABVND = `Absent By Voluntary Net
+ SF convention) over the July 4th weekend in 1980. It is not clear exactly
+when the canonical @-party venue shifted to the Worldcon but it had certainly
+become established by Constellation in 1983. Sadly, the @-party tradition has
+been in decline since about 1996, mainly because having an @-address no
+longer functions as an effective lodge pin. = A = ===== :abbrev: /*-breev'/,
+/*-brev'/ n. Common abbreviation for `abbreviation'. :ABEND: /a'bend/,
+/*-bend'/ n. [ABnormal END] 1. Abnormal termination (of software); {crash};
+{lossage}. Derives from an error message on the IBM 360; used jokingly by
+hackers but seriously mainly by {code grinder}s. Usually capitalized, but may
+appear as `abend'. Hackers will try to persuade you that ABEND is called
+`abend' because it is what system operators do to the machine late on Friday
+when they want to call it a day, and hence is from the German `Abend' =
+`Evening'. 2. [alt.callahans] Absent By Enforced Net Deprivation - used in
+the subject lines of postings warning friends of an imminent loss of Internet
+access. (This can be because of computer downtime, loss of provider, moving
+or illness.) Variants of this also appear: ABVND = `Absent By Voluntary Net
 Deprivation' and ABSEND = `Absent By Self-Enforced Net Deprivation' have been
 sighted. :accumulator: n. obs. 1. Archaic term for a register. On-line use of
 it as a synonym for `register' is a fairly reliable indication that the user
@@ -94,7 +71,7 @@ Defense software projects by the Pentagon. Hackers are nearly unanimous in
 observing that, technically, it is precisely what one might expect given that
 kind of endorsement by fiat; designed by committee, crockish, difficult to
 use, and overall a disastrous, multi-billion-dollar boondoggle (one common
-description is "The PL/I of the 1980s"). Hackers find Ada's
+description wss "The PL/I of the 1980s"). Hackers find Ada's
 exception-handling and inter-process communication features particularly
 hilarious. Ada Lovelace (the daughter of Lord Byron who became the world's
 first programmer while cooperating with Charles Babbage on the design of his
@@ -119,19 +96,19 @@ Compare {postmaster}, {sysop}, {system mangler}. :ADVENT: /ad'vent/ n. The
 prototypical computer adventure game, first designed by Will Crowther on the
 {PDP-10} in the mid-1970s as an attempt at computer-refereed fantasy gaming,
 and expanded into a puzzle-oriented game by Don Woods at Stanford in 1976.
-(Crowther went on to write the first core software for the first TCP/IP
-router.) Now better known as Adventure, but the {{TOPS-10}} operating system
-permitted only six-letter filenames. see also {vadding}, {Zork}, and
-{Infocom}. This game defined the terse, dryly humorous style since expected
-in text adventure games, and popularized several tag lines that have become
-fixtures of hacker-speak: "A huge green fierce snake bars the way!" "I see no
-X here" (for some noun X). "You are in a maze of twisty little passages, all
-alike." "You are in a little maze of twisty passages, all different." The
-`magic words' {xyzzy} and {plugh} also derive from this game. Crowther, by
-the way, participated in the exploration of the Mammoth & Flint Ridge cave
-system; it actually _has_ a `Colossal Cave' and a `Bedquilt' as in the game,
-and the `Y2' that also turns up is cavers' jargon for a map reference to a
-secondary entrance. ADVENT sources are available for FTP at
+(Woods had been one of the authors of {INTERCAL}.) Now better known as
+Adventure, but the {{TOPS-10}} operating system permitted only six-letter
+filenames. see also {vadding}, {Zork}, and {Infocom}. This game defined the
+terse, dryly humorous style since expected in text adventure games, and
+popularized several tag lines that have become fixtures of hacker-speak: "A
+huge green fierce snake bars the way!" "I see no X here" (for some noun X).
+"You are in a maze of twisty little passages, all alike." "You are in a
+little maze of twisty passages, all different." The `magic words' {xyzzy} and
+{plugh} also derive from this game. Crowther, by the way, participated in the
+exploration of the Mammoth & Flint Ridge cave system; it actually _has_ a
+`Colossal Cave' and a `Bedquilt' as in the game, and the `Y2' that also turns
+up is cavers' jargon for a map reference to a secondary entrance. ADVENT
+sources are available for FTP at
 `ftp://ftp.wustl.edu/doc/misc/if-archive/games/source/advent.tar.Z'. :AFAIK:
 // n. [Usenet] Abbrev. for "As Far As I Know". :AFJ: // n. Written-only
 abbreviation for "April Fool's Joke". Elaborate April Fool's hoaxes are a
@@ -152,15 +129,15 @@ to be modular, but all attempts so far (1999) to solve them have foundered on
 the amount of context information and `intelligence' they seem to require.
 see also {gedanken}. :AI koans: /A-I koh'anz/ pl.n. A series of pastiches of
 Zen teaching riddles created by Danny Hillis at the MIT AI Lab around various
-major figures of the Lab's culture (several are included under {AI Koans} in
-Appendix A). see also {ha ha only serious}, {mu}, and {{hacker humor}}.
-:AIDS: /aydz/ n. Short for A* Infected Disk Syndrome (`A*' is a {glob}
-pattern that matches, but is not limited to, Apple or Amiga), this condition
-is quite often the result of practicing unsafe {SEX}. see {virus}, {worm},
-{Trojan horse}, {virgin}. :AIDX: /ayd'k*z/ n. Derogatory term for IBM's
-perverted version of Unix, AIX, especially for the AIX 3.? used in the IBM
-RS/6000 series (some hackers think it is funnier just to pronounce "AIX" as
-"aches"). A victim of the dreaded "hybridism" disease, this attempt to
+major figures of the Lab's culture (several are included under {Some AI
+Koans} in Appendix A). see also {ha ha only serious}, {mu}, and {{hacker
+humor}}. :AIDS: /aydz/ n. Short for A* Infected Disk Syndrome (`A*' is a
+{glob} pattern that matches, but is not limited to, Apple or Amiga), this
+condition is quite often the result of practicing unsafe {SEX}. see {virus},
+{worm}, {Trojan horse}, {virgin}. :AIDX: /ayd'k*z/ n. Derogatory term for
+IBM's perverted version of Unix, AIX, especially for the AIX 3.? used in the
+IBM RS/6000 series (some hackers think it is funnier just to pronounce "AIX"
+as "aches"). A victim of the dreaded "hybridism" disease, this attempt to
 combine the two main currents of the Unix stream ({BSD} and {USG Unix})
 became a {monstrosity} to haunt system administrators' dreams. For example,
 if new accounts are created while many users are logged on, the load average
@@ -272,7 +249,7 @@ course, from the bizarre day-glo colors found in canned fruit salad.) Too
 often one sees similar effects from interface designers using color window
 systems such as {X}; there is a tendency to create displays that are flashy
 and attention-getting but uncomfortable for long-term use. :annoybot:
-/*-noy-bot/ n. [IRC] see {robot}. :annoyware: n. A type of {shareware} that
+/*-noy-bot/ n. [IRC] see {bot}. :annoyware: n. A type of {shareware} that
 frequently disrupts normal program operation to display requests for payment
 to the author in return for the ability to disable the request messages.
 (Also called `nagware') The requests generally require user action to

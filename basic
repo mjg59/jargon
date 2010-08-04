@@ -55,7 +55,8 @@ developed by Larry Wall (<<larry@wall.org>>, author of `patch(1)' and
 much hairier, including many facilities reminiscent of `sed(1)' and shells
 and a comprehensive Unix system-call interface. Unix sysadmins, who are
 almost always incorrigible hackers, generally consider it one of the
-{languages of choice}. Perl has been described, in a parody of a famous
+{languages of choice}, and it is by far the most widely used tool for making
+`live' web pages via CGI. Perl has been described, in a parody of a famous
 remark about `lex(1)', as the "Swiss-Army chainsaw" of Unix programming. see
 also {Camel Book}, {TMTOWTDI}. :person of no account: n. [University of
 California at Santa Cruz] Used when referring to a person with no {network
