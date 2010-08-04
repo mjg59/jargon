@@ -1,9 +1,21 @@
- :VMS: /V-M-S/ n. DEC's proprietary operating system for its VAX
-minicomputer; one of the seven or so environments that loom largest in hacker
-folklore. Many UNIX fans generously concede that VMS would probably be the
-hacker's favorite commercial OS if UNIX didn't exist; though true, this makes
-VMS fans furious. One major hacker gripe with VMS concerns its slowness ---
-thus the following limerick: There once was a system called VMS Of cycles by
-no means abstemious. It's chock-full of hacks And runs on a VAX And makes my
-poor stomach all squeamious. --- The Great Quux see also {VAX}, {{TOPS-10}},
-{{TOPS-20}}, {{UNIX}}, {runic}.
+ VMS: /V-M-S/ n. DEC's proprietary operating system for its VAX minicomputer;
+one of the seven or so environments that loom largest in hacker folklore.
+Many UNIX fans generously concede that VMS would probably be the hacker's
+favorite commercial OS if UNIX didn't exist; though true, this makes VMS fans
+furious. One major hacker gripe with VMS concerns its slowness --- thus the
+following limerick: There once was a system called VMS Of cycles by no means
+abstemious. It's chock-full of hacks And runs on a VAX And makes my poor
+stomach all squeamious. --- The Great Quux see also {VAX}, {{TOPS-10}},
+{{TOPS-20}}, {{UNIX}}, {runic}. voice: vt. To phone someone, as opposed to
+emailing them or connecting in talk mode. "I'm busy now; I'll voice you
+later." voice-net: n. Hackish way of referring to the telephone system,
+analogizing it to a digital network. USENET {sig block}s not uncommonly
+include the sender's phone next to a "Voice:" or "Voice-Net:" header; common
+variants of this are "Voicenet" and "V-Net". Compare {paper-net},
+{snail-mail}. voodoo programming: [from George Bush's "voodoo economics"] n.
+The use by guess or cookbook of an {obscure} or {hairy} system, feature, or
+algorithm that one does not truly understand. The implication is that the
+technique may not work, and if it doesn't, one will never know why. Almost
+synonymous with {black magic}, except that black magic typically isn't
+documented and *nobody* understands it. Compare {magic}, {deep magic}, {heavy
+wizardry}, {rain dance}, {cargo cult programming}, {wave a dead chicken}.

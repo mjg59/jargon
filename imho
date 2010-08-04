@@ -1,5 +1,80 @@
- :IMHO: // [from SF fandom via USENET; abbreviation for `In My Humble
-Opinion'] "IMHO, mixed-case C names should be avoided, as mistyping something
-in the wrong case can cause hard-to-detect errors --- and they look too
-Pascalish anyhow." Also seen in variant forms such as IMNSHO (In My
-Not-So-Humble Opinion) and IMAO (In My Arrogant Opinion).
+ IMHO: // [from SF fandom via USENET; acronym for `In My Humble Opinion']
+"IMHO, mixed-case C names should be avoided, as mistyping something in the
+wrong case can cause hard-to-detect errors --- and they look too Pascalish
+anyhow." Also seen in variant forms such as IMNSHO (In My Not-So-Humble
+Opinion) and IMAO (In My Arrogant Opinion). in the extreme: adj. A preferred
+superlative suffix for many hackish terms. see, for example, `obscure in the
+extreme' under {obscure}, and compare {highly}. incantation: n. Any
+particularly arbitrary or obscure command that one must mutter at a system to
+attain a desired result. Not used of passwords or other explicit security
+features. Especially used of tricks that are so poorly documented they must
+be learned from a {wizard}. "This compiler normally locates initialized data
+in the data segment, but if you {mutter} the right incantation they will be
+forced into text space." include: vt. [USENET] 1. To duplicate a portion (or
+whole) of another's message (typically with attribution to the source) in a
+reply or followup, for clarifying the context of one's response. see the the
+discussion of inclusion styles under "Hacker Writing Style". 2. [from {C}]
+`#include <disclaimer.h>' has appeared in {sig block}s to refer to a notional
+`standard disclaimer file'. include war: n. Excessive multi-leveled including
+within a discussion {thread}, a practice that tends to annoy readers. In a
+forum with high-traffic newsgroups, such as USENET, this can lead to {flame}s
+and the urge to start a {kill file}. indent style: [C programmers] n. The
+rules one uses to indent code in a readable fashion; a subject of {holy
+wars}. There are four major C indent styles, described below; all have the
+aim of making it easier for the reader to visually track the scope of control
+constructs. The significant variable is the placement of `{' and `}' with
+respect to the statement(s) they enclose and the guard or controlling
+statement (`if', `else', `for', `while', or `do') on the block, if any. `K&R
+style' --- Named after Kernighan & Ritchie, because the examples in {K&R} are
+formatted this way. Also called `kernel style' because the UNIX kernel is
+written in it, and the `One True Brace Style' (abbrev. 1TBS) by its
+partisans. The basic indent shown here is eight spaces (or one tab) per
+level; four or are occasionally seen, but are much less common. if (cond) {
+<body> } `Allman style' --- Named for Eric Allman, a Berkeley hacker who
+wrote a lot of the BSD utilities in it (it is sometimes called `BSD style').
+Resembles normal indent style in Pascal and Algol. Basic indent per level
+shown here is eight spaces, but four is just as common (esp. in C++ code). if
+(cond) { <body> } `Whitesmiths style' --- popularized by the examples that
+came with Whitesmiths C, an early commercial C compiler. Basic indent per
+level shown here is eight spaces, but four is occasionally seen. if (cond) {
+<body> } `GNU style' --- Used throughout GNU EMACS and the Free Software
+Foundation code, and just about nowhere else. Indents are always four spaces
+per level, with `{' and `}' halfway between the outer and inner indent
+levels. if (cond) { <body> } Surveys have shown the Allman and Whitesmiths
+styles to be the most common, with about equal mind shares. K&R/1TBS used to
+be nearly universal, but is now much less common (the opening brace tends to
+get lost against the right paren of the guard part in an `if' or `while',
+which is a {Bad Thing}). Defenders of 1TBS argue that any putative gain in
+readability is less important than their style's relative economy with
+vertical space, which enables one to see more code on one's screen at once.
+Doubtless these issues will continue to be the subject of {holy wars}. index:
+n. see {coefficient}. infant mortality: n. It is common lore among hackers
+that the chances of sudden hardware failure drop off exponentially with a
+machine's time since power-up (that is, until the relatively distant time at
+which enough mechanical wear in I/O devices and thermal-cycling stress in
+components has accumulated for the machine to start going senile). Up to half
+of all chip and wire failures happen within a new system's first few weeks;
+such failures are often referred to as `infant mortality' problems (or,
+occasionally, as `sudden infant death syndrome'). see {bathtub curve},
+{burn-in period}. infinite: adj. Consisting of a large number of objects;
+extreme. Used very loosely as in: "This program produces infinite garbage."
+"He is an infinite loser." The word most likely to follow `infinite', though,
+is {hair} (it has been pointed out that fractals are an excellent example of
+infinite hair). These uses are abuses of the word's mathematical meaning. The
+term `semi-infinite', denoting an immoderately large amount of some resource,
+is also heard. "This compiler is taking a semi-infinite amount of time to
+optimize my program." see also {semi}. infinite loop: n. One that never
+terminates (that is, the machine {spin}s or {buzz}es forever; the usual
+symptom is {catatonia}). There is a standard joke that has been made about
+each generation's exemplar of the ultra-fast machine: "The Cray-3 is so fast
+it can execute an infinite loop in under 2 seconds!" infinity: n. 1. The
+largest value that can be represented in a particular type of variable
+(register, memory location, data type, whatever). 2. `minus infinity': The
+smallest such value, not necessarily or even usually the simple negation of
+plus infinity. In N-bit twos-complement arithmetic, infinity is 2^{N-1} - 1
+but minus infinity is - (2^{N-1}), not -(2^{N-1} - 1). Note also that this is
+different from "time T equals minus infinity", which is closer to a
+mathematician's usage of infinity. insanely great: adj. [Mac community, from
+Steve Jobs; also BSD UNIX people via Bill Joy] Something so incredibly
+{elegant} that it is imaginable only to someone possessing the most puissant
+of {hacker}-natures.

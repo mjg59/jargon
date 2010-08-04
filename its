@@ -1,4 +1,4 @@
- :ITS:: /I-T-S/ n. 1. Incompatible Time-sharing System, an influential but
+ ITS:: /I-T-S/ n. 1. Incompatible Time-sharing System, an influential but
 highly idiosyncratic operating system written for PDP-6s and PDP-10s at MIT
 and long used at the MIT AI Lab. Much AI-hacker jargon derives from ITS
 folklore, and to have been `an ITS hacker' qualifies one instantly as an
@@ -12,11 +12,10 @@ nationwide (see {high moby}). The Royal Institute of Technology in Sweden is
 maintaining one `live' ITS site at its computer museum (right next to the
 only TOPS-10 system still on the Internet), so ITS is still alleged to hold
 the record for OS in longest continuous use (however, {{WAITS}} is a credible
-rival for this palm). see {Appendix A}. 2. A mythical image of
-operating-system perfection worshiped by a bizarre, fervent retro-cult of
-old-time hackers and ex-users (see {troglodyte}, sense 2). ITS worshipers
-manage somehow to continue believing that an OS maintained by
-assembly-language hand-hacking that supported only monocase 6-character
-filenames in one directory per account remains superior to today's state of
-commercial art (their venom against UNIX is particularly intense). see also
-{holy wars}, {Weenix}.
+rival for this palm). see appendix A. 2. A mythical image of operating-system
+perfection worshiped by a bizarre, fervent retro-cult of old-time hackers and
+ex-users (see {troglodyte}, sense 2). ITS worshipers manage somehow to
+continue believing that an OS maintained by assembly-language hand-hacking
+that supported only monocase 6-character filenames in one directory per
+account remains superior to today's state of commercial art (their venom
+against UNIX is particularly intense). see also {holy wars}, {Weenix}.

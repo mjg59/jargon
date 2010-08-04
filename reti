@@ -1,1 +1,172 @@
- :RETI: v. Syn. {RTI}
+ README file: n. By convention, the top-level directory of a UNIX source
+distribution always contains a file named `README' (or READ.ME, or rarely
+ReadMe or some other variant), which is a hacker's-eye introduction
+containing a pointer to more detailed documentation, credits, miscellaneous
+revision history notes, etc. When asked, hackers invariably relate this to
+the famous scene in Lewis Carroll's `Alice's Adventures In Wonderland' in
+which Alice confronts magic munchies labeled "Eat Me" and "Drink Me". real
+estate: n. May be used for any critical resource measured in units of area.
+Most frequently used of `chip real estate', the area available for logic on
+the surface of an integrated circuit (see also {nanoacre}). May also be used
+of floor space in a {dinosaur pen}, or even space on a crowded desktop
+(whether physical or electronic). real hack: n. A {crock}. This is sometimes
+used affectionately; see {hack}. real operating system: n. The sort the
+speaker is used to. People from the academic community are likely to issue
+comments like "System V? Why don't you use a *real* operating system?",
+people from the commercial/industrial UNIX sector are known to complain "BSD?
+Why don't you use a *real* operating system?", and people from IBM object
+"UNIX? Why don't you use a *real* operating system?" see {holy wars},
+{religious issues}, {proprietary}, {Get a real computer!} real programmer:
+[indirectly, from the book `Real Men Don't Eat Quiche'] n. A particular
+sub-variety of hacker: one possessed of a flippant attitude toward complexity
+that is arrogant even when justified by experience. The archetypal `real
+programmer' likes to program on the {bare metal} and is very good at same,
+remembers the binary opcodes for every machine he has ever programmed, thinks
+that HLLs are sissy, and uses a debugger to edit his code because full-screen
+editors are for wimps. Real Programmers aren't satisfied with code that
+hasn't been {bum}med into a state of {tense}ness just short of rupture. Real
+Programmers never use comments or write documentation: "If it was hard to
+write", says the Real Programmer, "it should be hard to understand." Real
+Programmers can make machines do things that were never in their spec sheets;
+in fact, they are seldom really happy unless doing so. A Real Programmer's
+code can awe with its fiendish brilliance, even as its crockishness appalls.
+Real Programmers live on junk food and coffee, hang line-printer art on their
+walls, and terrify the crap out of other programmers --- because someday,
+somebody else might have to try to understand their code in order to change
+it. Their successors generally consider it a {Good Thing} that there aren't
+many Real Programmers around any more. For a famous (and somewhat more
+positive) portrait of a Real Programmer, see "The Story of Mel" in appendix
+A. Real Soon Now: [orig. from SF's fanzine community, popularized by Jerry
+Pournelle's column in `BYTE'] adv. 1. Supposed to be available (or fixed, or
+cheap, or whatever) real soon now according to somebody, but the speaker is
+quite skeptical. 2. When one's gods, fates, or other time commitments permit
+one to get to it (in other words, don't hold your breath). Often abbreviated
+RSN. real time: 1. [techspeak] adj. Describes an application which requires a
+program to respond to stimuli within some small upper limit of response time
+(typically milli- or microseconds). Process control at a chemical plant is
+the classic example. Such applications often require special operating
+systems (because everything else must take a back seat to response time) and
+speed-tuned hardware. 2. adv. In jargon, refers to doing something while
+people are watching or waiting. "I asked her how to find the calling
+procedure's program counter on the stack and she came up with an algorithm in
+real time." real user: n. 1. A commercial user. One who is paying *real*
+money for his computer usage. 2. A non-hacker. Someone using the system for
+an explicit purpose (a research project, a course, etc.) other than pure
+exploration. see {user}. Hackers who are also students may also be real
+users. "I need this fixed so I can do a problem set. I'm not complaining out
+of randomness, but as a real user." see also {luser}. Real World: n. 1. Those
+institutions at which `programming' may be used in the same sentence as
+`FORTRAN', `{COBOL}', `RPG', `{IBM}', `DBASE', etc. Places where programs do
+such commercially necessary but intellectually uninspiring things as
+generating payroll checks and invoices. 2. The location of non-programmers
+and activities not related to programming. 3. A bizarre dimension in which
+the standard dress is shirt and tie and in which a person's working hours are
+defined as 9 to 5 (see {code grinder}). 4. Anywhere outside a university.
+"Poor fellow, he's left MIT and gone into the Real World." Used pejoratively
+by those not in residence there. In conversation, talking of someone who has
+entered the Real World is not unlike speaking of a deceased person. see also
+{fear and loathing}, {mundane}, and {uninteresting}. reality check: n. 1. The
+simplest kind of test of software or hardware; doing the equivalent of asking
+it what 2 + 2 is and seeing if you get 4. The software equivalent of a {smoke
+test}. 2. The act of letting a {real user} try out prototype software.
+Compare {sanity check}. reaper: n. A {prowler} that {GFR}s files. A file
+removed in this way is said to have been `reaped'. rectangle slinger: n. see
+{polygon pusher}. recursion: n. see {recursion}. See also {tail recursion}.
+recursive acronym:: pl.n. A hackish (and especially MIT) tradition is to
+choose acronyms that refer humorously to themselves or to other acronyms. The
+classic examples were two MIT editors called EINE ("EINE Is Not EMACS") and
+ZWEI ("ZWEI Was EINE Initially"). More recently, there is a Scheme compiler
+called LIAR (Liar Imitates Apply Recursively), and {GNU} (q.v., sense 1)
+stands for "GNU's Not UNIX!" --- and a company with the name CYGNUS, which
+expands to "Cygnus, Your GNU Support". see also {mung}, {EMACS}. Red Book: n.
+1. Informal name for one of the three standard references on PostScript
+(`PostScript Language Reference Manual', Adobe Systems (Addison-Wesley, 1985;
+QA76.73.P67P67; ISBN 0-201-10174-2); the others are known as the {Green Book}
+and the {Blue Book}. 2. Informal name for one of the 3 standard references on
+Smalltalk (`Smalltalk-80: The Interactive Programming Environment' by Adele
+Goldberg (Addison-Wesley, 1984; QA76.8.S635G638; ISBN 0-201-11372-4); this
+too is associated with blue and green books). 3. Any of the 1984 standards
+issued by the CCITT eighth plenary assembly. Until now, these have changed
+color each review cycle (1988 was {Blue Book}, 1992 will be {Green Book});
+however, it is rumored that this convention is going to be dropped before
+1992. These include, among other things, the X.400 email spec and the Group 1
+through 4 fax standards. 4. The new version of the {Green Book} (sense 4) ---
+IEEE 1003.1-1990, a.k.a ISO 9945-1 --- is (because of the color and the fact
+that it is printed on A4 paper) known in the U.S.A. as "the Ugly Red Book
+That Won't Fit On The Shelf" and in Europe as "the Ugly Red Book That's A
+Sensible Size". 5. The NSA `Trusted Network Interpretation' companion to the
+{Orange Book}. see also {{book titles}}. regexp: /reg'eksp/ [UNIX] n. (alt.
+`regex' or `reg-ex') 1. Common written and spoken abbreviation for `regular
+expression', one of the wildcard patterns used, e.g., by UNIX utilities such
+as `grep(1)', `sed(1)', and `awk(1)'. These use conventions similar to but
+more elaborate than those described under {glob}. For purposes of this
+lexicon, it is sufficient to note that regexps also allow complemented
+character sets using `^'; thus, one can specify `any non-alphabetic
+character' with `[^A-Za-z]'. 2. Name of a well-known PD regexp-handling
+package in portable C, written by revered USENETter Henry Spencer
+(henry@zoo.toronto.edu). reincarnation, cycle of: n. see {cycle of
+reincarnation}. reinvent the wheel: v. To design or implement a tool
+equivalent to an existing one or part of one, with the implication that doing
+so is silly or a waste of time. This is often a valid criticism. On the other
+hand, automobiles don't use wooden rollers, and some kinds of wheel have to
+be reinvented many times before you get them right. On the third hand, people
+reinventing the wheel do tend to come up with the moral equivalent of a
+trapezoid with an offset axle. religious issues: n. Questions which seemingly
+cannot be raised without touching off {holy wars}, such as "What is the best
+operating system (or editor, language, architecture, shell, mail reader, news
+reader)?", "What about that Heinlein guy, eh?", "What should we add to the
+new Jargon File?" see {holy wars}; see also {theology}, {bigot}. This term is
+an example of {ha ha only serious}. People actually develop the most amazing
+and religiously intense attachments to their tools, even when the tools are
+intangible. The most constructive thing one can do when one stumbles into the
+crossfire is mumble {Get a life!} and leave --- unless, of course, one's
+*own* unassailably rational and obviously correct choices are being slammed.
+replicator: n. Any construct that acts to produce copies of itself; this
+could be a living organism, an idea (see {meme}), a program (see {worm},
+{wabbit}, and {virus}), a pattern in a cellular automaton (see {life}, sense
+1), or (speculatively) a robot or {nanobot}. It is even claimed by some that
+{{UNIX}} and {C} are the symbiotic halves of an extremely successful
+replicator; see {UNIX conspiracy}. reply: n. see {followup}. reset: [the MUD
+community] v. In AberMUD, to bring all dead mobiles to life and move items
+back to their initial starting places. New players who can't find anything
+shout "Reset! Reset!" quite a bit. Higher-level players shout back "No way!"
+since they know where points are to be found. Used in {RL}, it means to put
+things back to the way they were when you found them. restriction: n. A {bug}
+or design error that limits a program's capabilities, and which is
+sufficiently egregious that nobody can quite work up enough nerve to describe
+it as a {feature}. Often used (esp. by {marketroid} types) to make it sound
+as though some crippling bogosity had been intended by the designers all
+along, or was forced upon them by arcane technical constraints of a nature no
+mere user could possibly comprehend (these claims are almost invariably
+false). Old-time hacker Joseph M. Newcomer advises that whenever choosing a
+quantifiable but arbitrary restriction, you should make it either a power of
+2 or a power of 2 minus 1. If you impose a limit of 17 items in a list,
+everyone will know it is a random number --- on the other hand, a limit of 15
+or 16 suggests some deep reason (involving 0- or 1-based indexing in binary)
+and you will get less {flamage} for it. Limits which are round numbers in
+base 10 are always especially suspect. retcon: /ret'kon/ [`retroactive
+continuity', from the USENET newsgroup rec.arts.comics] 1. n. The common
+situation in pulp fiction (esp. comics or soap operas) where a new story
+`reveals' things about events in previous stories, usually leaving the
+`facts' the same (thus preserving continuity) while completely changing their
+interpretation. E.g., revealing that a whole season of "Dallas" was a dream
+was a retcon. 2. vt. To write such a story about a character or fictitious
+object. "Byrne has retconned Superman's cape so that it is no longer
+unbreakable." "Marvelman's old adventures were retconned into synthetic
+dreams." "Swamp Thing was retconned from a transformed person into a sentient
+vegetable." [This is included because it is a good example of hackish
+linguistic innovation in a field completely unrelated to computers. The word
+`retcon' will probably spread through comics fandom and lose its association
+with hackerdom within a couple of years; for the record, it started here. ---
+ESR] RETI: v. Syn. {RTI} retrocomputing: /ret'-roh-k*m-pyoo'ting/ n. Refers
+to emulations of way-behind-the-state-of-the-art hardware or software, or
+implementations of never-was-state-of-the-art; esp. if such implementations
+are elaborate practical jokes and/or parodies of more `serious' designs.
+Perhaps the most widely distributed retrocomputing utility was the `pnch(6)'
+or `bcd(6)' program on V7 and other early UNIX versions, which would accept
+up to 80 characters of text argument and display the corresponding pattern in
+{{punched card}} code. Other well-known retrocomputing hacks have included
+the programming language {INTERCAL}, a {JCL}-emulating shell for UNIX, the
+card-punch-emulating editor named 029, and various elaborate PDP-11 hardware
+emulators and RT-11 OS emulators written just to keep an old, sourceless
+{Zork} binary running.

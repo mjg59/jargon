@@ -1,9 +1,36 @@
- :USENET: /yoos'net/ or /yooz'net/ [from `Users' Network'] n. A distributed
+ USENET: /yoos'net/ or /yooz'net/ [from `Users' Network'] n. A distributed
 {bboard} (bulletin board) system supported mainly by UNIX machines.
-Originally implemented in 1979--1980 by Steve Bellovin, Jim Ellis, Tom
+Originally implemented in 1979-1980 by Steve Bellovin, Jim Ellis, Tom
 Truscott, and Steve Daniel at Duke University, it has swiftly grown to become
 international in scope and is now probably the largest decentralized
-information utility in existence. As of early 1993, it hosts well over 1200
-{newsgroup}s and an average of 40 megabytes (the equivalent of several
+information utility in existence. As of early 1991, it hosts well over 700
+{newsgroup}s and an average of 16 megabytes (the equivalent of several
 thousand paper pages) of new technical articles, news, discussion, chatter,
-and {flamage} every day.
+and {flamage} every day. user: n. 1. Someone doing `real work' with the
+computer, using it as a means rather than an end. Someone who pays to use a
+computer. see {real user}. 2. A programmer who will believe anything you tell
+him. One who asks silly questions. [GLS observes: This is slightly unfair. It
+is true that users ask questions (of necessity). Sometimes they are
+thoughtful or deep. Very often they are annoying or downright stupid,
+apparently because the user failed to think for two seconds or look in the
+documentation before bothering the maintainer.] see {luser}. 3. Someone who
+uses a program from the outside, however skillfully, without getting into the
+internals of the program. One who reports bugs instead of just going ahead
+and fixing them. The general theory behind this term is that there are two
+classes of people who work with a program: there are implementors (hackers)
+and {luser}s. The users are looked down on by hackers to a mild degree
+because they don't understand the full ramifications of the system in all its
+glory. (The few users who do are known as `real winners'.) The term is a
+relative one: a skilled hacker may be a user with respect to some program he
+himself does not hack. A LISP hacker might be one who maintains LISP or one
+who uses LISP (but with the skill of a hacker). A LISP user is one who uses
+LISP, whether skillfully or not. Thus there is some overlap between the two
+terms; the subtle distinctions must be resolved by context. user-friendly:
+adj. Programmer-hostile. Generally used by hackers in a critical tone, to
+describe systems that hold the user's hand so obsessively that they make it
+painful for the more experienced and knowledgeable to get any work done. see
+{menuitis}, {drool-proof paper}, {Macintrash}, {user-obsequious}.
+user-obsequious: adj. Emphatic form of {user-friendly}. Connotes a system so
+verbose, inflexible, and determinedly simple-minded that it is nearly
+unusable. "Design a system any fool can use and only a fool will want to use
+it." see {WIMP environment}, {Macintrash}.

@@ -1,4 +1,4 @@
- :SEX: /seks/ [Sun Users' Group & elsewhere] n. 1. Software EXchange. A
+ SEX: /seks/ [Sun Users' Group & elsewhere] n. 1. Software EXchange. A
 technique invented by the blue-green algae hundreds of millions of years ago
 to speed up their evolution, which had been terribly slow up until then.
 Today, SEX parties are popular among hackers and others (of course, these are
@@ -6,20 +6,209 @@ no longer limited to exchanges of genetic software). In general, SEX parties
 are a {Good Thing}, but unprotected SEX can propagate a {virus}. see also
 {pubic directory}. 2. The rather Freudian mnemonic often used for Sign
 EXtend, a machine instruction found in the PDP-11 and many other
-architectures. The RCA 1802 chip used in the early Elf and SuperElf personal
-computers had a `SEt X register' SEX instruction, but this seems to have had
-little folkloric impact. DEC's engineers nearly got a PDP-11 assembler that
-used the `SEX' mnemonic out the door at one time, but (for once) marketing
-wasn't asleep and forced a change. That wasn't the last time this happened,
-either. The author of `The Intel 8086 Primer', who was one of the original
-designers of the 8086, noted that there was originally a `SEX' instruction on
-that processor, too. He says that Intel management got cold feet and decreed
-that it be changed, and thus the instruction was renamed `CBW' and `CWD'
+architectures. DEC's engineers nearly got a PDP-11 assembler that used the
+`SEX' mnemonic out the door at one time, but (for once) marketing wasn't
+asleep and forced a change. That wasn't the last time this happened, either.
+The author of `The Intel 8086 Primer', who was one of the original designers
+of the 8086, noted that there was originally a `SEX' instruction on that
+processor, too. He says that Intel management got cold feet and decreed that
+it be changed, and thus the instruction was renamed `CBW' and `CWD'
 (depending on what was being extended). Amusingly, the Intel 8048 (the
 microcontroller used in IBM PC keyboards) is also missing straight `SEX' but
 has logical-or and logical-and instructions `ORL' and `ANL'. The Motorola
 6809, used in the U.K.'s `Dragon 32' personal computer, actually had an
 official `SEX' instruction; the 6502 in the Apple II it competed with did
 not. British hackers thought this made perfect mythic sense; after all, it
-was commonly observed, you could (on some theoretical level) have sex with a
-dragon, but you can't have sex with an apple.
+was commonly observed, you could have sex with a dragon, but you can't have
+sex with an apple. sex changer: n. Syn. {gender mender}. shareware:
+/sheir'weir/ n. {Freeware} (sense 1) for which the author requests some
+payment, usually in the accompanying documentation files or in an
+announcement made by the software itself. Such payment may or may not buy
+additional support or functionality. see {guiltware}, {crippleware}.
+shelfware: /shelfweir/ n. Software purchased on a whim (by an individual
+user) or in accordance with policy (by a corporation or government agency),
+but not actually required for any particular use. Therefore, it often ends up
+on some shelf. shell: [orig. {{Multics}} techspeak, widely propagated via
+UNIX] n. 1. [techspeak] The command interpreter used to pass commands to an
+operating system; so called because it is the part of the operating system
+that interfaces with the outside world. 2. More generally, any interface
+program that mediates access to a special resource or {server} for
+convenience, efficiency, or security reasons; for this meaning, the usage is
+usually `a shell around' whatever. This sort of program is also called a
+`wrapper'. shell out: [UNIX] n. To spawn an interactive {subshell} from
+within a program (e.g., a mailer or editor). "Bang foo runs foo in a
+subshell, while bang alone shells out." shift left (or right) logical: [from
+any of various machines' instruction sets] 1. vi. To move oneself to the left
+(right). To move out of the way. 2. imper. "Get out of that (my) seat! You
+can shift to that empty one to the left (right)." Often used without the
+`logical', or as `left shift' instead of `shift left'. Sometimes heard as LSH
+/lish/, from the {PDP-10} instruction set. see {Programmer's Cheer}.
+shitogram: /shit'oh-gram/ n. A *really* nasty piece of email. Compare
+{nastygram}, {flame}. short card: n. A half-length IBM PC expansion card or
+adapter that will fit in one of the two short slots located towards the right
+rear of a standard chassis (tucked behind the floppy disk drives). see also
+{tall card}. shotgun debugging: n. The software equivalent of {Easter
+egging}; the making of relatively undirected changes to software in the hope
+that a bug will be perturbed out of existence. This almost never works, and
+usually introduces more bugs. showstopper: n. A hardware or (especially)
+software bug that makes an implementation effectively unusable; one that
+absolutely has to be fixed before development can go on. Opposite in
+connotation from its original theatrical use, which refers to something
+stunningly *good*. shriek: n. see {excl}. Occasional CMU usage, also in
+common use among APL fans and mathematicians, especially category theorists.
+Shub-Internet: /shuhb in't*r-net/ [MUD: from H. P. Lovecraft's evil fictional
+deity `Shub-Niggurath', the Black Goat with a Thousand Young] n. The harsh
+personification of the Internet, Beast of a Thousand Processes, Eater of
+Characters, Avatar of Line Noise, and Imp of Call Waiting; the hideous
+multi-tendriled entity formed of all the manifold connections of the net. A
+sect of MUDders worships Shub-Internet, sacrificing objects and praying for
+good connections. To no avail --- its purpose is malign and evil, and is the
+cause of all network slowdown. Often heard as in "Freela casts a tac nuke at
+Shub-Internet for slowing her down." (A forged response often follows along
+the lines of: "Shub-Internet gulps down the tac nuke and burps happily.")
+Also cursed by users of {FTP} and {telnet} when the system slows down. The
+dread name of Shub-Internet is seldom spoken aloud, as it is said that
+repeating it three times will cause the being to wake, deep within its lair
+beneath the Pentagon. sidecar: n. 1. Syn. {slap on the side}. Esp. used of
+add-ons for the late and unlamented IBM PCjr. 2. The IBM PC compatibility box
+that could be bolted onto the side of an Amiga. Designed and produced by
+Commodore, it broke all of the company's own rules. If it worked with any
+other peripherals, it was by {magic}. sig block: /sig blok/ [UNIX: often
+written `.sig' there] n. Short for `signature', used specifically to refer to
+the electronic signature block that most UNIX mail- and news-posting software
+will {automagically} append to outgoing mail and news. The composition of
+one's sig can be quite an art form, including an ASCII logo or one's choice
+of witty sayings (see {sig quote}, {fool file}); but many consider large sigs
+a waste of {bandwidth}, and it has been observed that the size of one's sig
+block is usually inversely proportional to one's longevity and level of
+prestige on the net. sig quote: /sig kwoht/ [USENET] n. A maxim, quote,
+proverb, joke, or slogan embedded in one's {sig block} and intended to convey
+something of one's philosophical stance, pet peeves, or sense of humor. "Calm
+down, it's only ones and zeroes." signal-to-noise ratio: [from analog
+electronics] n. Used by hackers in a generalization of its technical meaning.
+`Signal' refers to useful information conveyed by some communications medium,
+and `noise' to anything else on that medium. Hence a low ratio implies that
+it is not worth paying attention to the medium in question. Figures for such
+metaphorical ratios are never given. The term is most often applied to
+{USENET} newsgroups during {flame war}s. Compare {bandwidth}. see also
+{coefficient of X}, {lost in the noise}. silicon: n. Hardware, esp. ICs or
+microprocessor-based computer systems (compare {iron}). Contrasted with
+software. see also {sandbender}. silicon foundry: n. A company that {fab}s
+chips to the designs of others. As of the late 1980s, the combination of
+silicon foundries and good computer-aided design software made it much easier
+for hardware-designing startup companies to come into being. The downside of
+using a silicon foundry is that the distance from the actual chip-fabrication
+processes reduces designers' control of detail. This is somewhat analogous to
+the use of {HLL}s versus coding in assembler. silly walk: [from Monty
+Python's Flying Circus] vi. 1. A ridiculous procedure required to accomplish
+a task. Like {grovel}, but more {random} and humorous. "I had to silly-walk
+through half the /usr directories to find the maps file." 2. Syn. {fandango
+on core}. silo: n. The FIFO input-character buffer in an RS-232 line card. So
+called from DEC terminology used on DH and DZ line cards for the VAX and
+PDP-11, presumably because it was a storage space for fungible stuff that you
+put in the top and took out the bottom. Silver Book: n. Jensen and Wirth's
+infamous `Pascal User Manual and Report', so called because of the silver
+cover of the widely distributed Springer-Verlag second edition of 1978 (ISBN
+0-387-90144-2). see {{book titles}}, {Pascal}. since time T equals minus
+infinity: adj. A long time ago; for as long as anyone can remember; at the
+time that some particular frob was first designed. Usually the word `time' is
+omitted. see also {time T}. sitename: /si:t'naym/ [UNIX/Internet] n. The
+unique electronic name of a computer system, used to identify it in UUCP
+mail, USENET, or other forms of electronic information interchange. The
+folklore interest of sitenames stems from the creativity and humor they often
+display. Interpreting a sitename is not unlike interpreting a vanity license
+plate; one has to mentally unpack it, allowing for mono-case and length
+restrictions and the lack of whitespace. Hacker tradition deprecates dull,
+institutional-sounding names in favor of punchy, humorous, and clever
+coinages (except that it is considered appropriate for the official public
+gateway machine of an organization to bear the organization's name or
+acronym). Mythological references, cartoon characters, animal names, and
+allusions to SF or fantasy literature are probably the most popular sources
+for sitenames (in roughly descending order). The obligatory comment when
+discussing these is Harris's Lament: "All the good ones are taken!" see also
+{network address}. skrog: v. Syn. {scrog}. skulker: n. Syn. {prowler}. slap
+on the side: n. (also called a {sidecar}, or abbreviated `SOTS'.) A type of
+external expansion hardware marketed by computer manufacturers (e.g.,
+Commodore for the Amiga 500/1000 series and IBM for the hideous failure
+called `PCjr'). Various SOTS boxes provided necessities such as memory, hard
+drive controllers, and conventional expansion slots. slash: n. Common name
+for the slant (`/', ASCII 0101111) character. see {ASCII} for other synonyms.
+sleep: vi. 1. [techspeak] On a timesharing system, a process that
+relinquishes its claim on the scheduler until some given event occurs or a
+specified time delay elapses is said to `go to sleep'. 2. In jargon, used
+very similarly to v. {block}; also in `sleep on', syn. with `block on'. Often
+used to indicate that the speaker has relinquished a demand for resources
+until some (possibly unspecified) external event: "They can't get the fix
+I've been asking for into the next release, so I'm going to sleep on it until
+the release, then start hassling them again." slim: n. A small, derivative
+change (e.g., to code). slop: n. 1. A one-sided {fudge factor}, that is, an
+allowance for error but in only one of two directions. For example, if you
+need a piece of wire 10 feet long and have to guess when you cut it, you make
+very sure to cut it too long, by a large amount if necessary, rather than too
+short by even a little bit, because you can always cut off the slop but you
+can't paste it back on again. When discrete quantities are involved, slop is
+often introduced to avoid the possibility of being on the losing side of a
+{fencepost error}. 2. The percentage of `extra' code generated by a compiler
+over the size of equivalent assembler code produced by {hand-hacking}; i.e.,
+the space (or maybe time) you lose because you didn't do it yourself. This
+number is often used as a measure of the goodness of a compiler; slop below
+5% is very good, and 10% is usually acceptable. With modern compiler
+technology, esp. on RISC machines, the compiler's slop may actually be
+*negative*; that is, humans may be unable to generate code as good. This is
+one of the reasons assembler programming is no longer common. slopsucker:
+/slop'suhk-r/ n. A lowest-priority task that must wait around until
+everything else has `had its fill' of machine resources. Only when the
+machine would otherwise be idle is the task allowed to `suck up the slop'.
+Also called a {hungry puppy}. One common variety of slopsucker hunts for
+large prime numbers. Compare {background}. slurp: vt. To read a large data
+file entirely into {core} before working on it. This may be contrasted with
+the strategy of reading a small piece at a time, processing it, and then
+reading the next piece. "This program slurps in a 1K-by-1K matrix and does an
+FFT." see also {sponge}. smart: adj. Said of a program that does the {Right
+Thing} in a wide variety of complicated circumstances. There is a difference
+between calling a program smart and calling it intelligent; in particular,
+there do not exist any intelligent programs (yet --- see {AI-complete}).
+Compare {robust} (smart programs can be {brittle}). smart terminal: n. A
+terminal that has enough computing capability to render graphics or to
+offload some kind of front-end processing from the computer it talks to. The
+development of workstations and personal computers has made this term and the
+product it describes semi-obsolescent, but one may still hear variants of the
+phrase `act like a smart terminal' used to describe the behavior of
+workstations or PCs with respect to programs that execute almost entirely out
+of a remote {server}'s storage, using said devices as displays. Compare
+{glass tty}. There is a classic quote from Rob Pike (inventor of the {blit}
+terminal): "A smart terminal is not a smart*ass* terminal, but rather a
+terminal you can educate." This illustrates a common design problem: The
+attempt to make peripherals (or anything else) intelligent sometimes results
+in finicky, rigid `special features' that become just so much dead weight if
+you try to use the device in any way the designer didn't anticipate.
+Flexibility and programmability, on the other hand, are *really* smart.
+Compare {hook}. smash case: vi. To lose or obliterate the uppercase/lowercase
+distinction in text input. "MS-DOS will automatically smash case in the names
+of all the files you create." Compare {fold case}. smash the stack: [C
+programming] n. On many C implementations it is possible to corrupt the
+execution stack by writing past the end of an array declared `auto' in a
+routine. Code that does this is said to `smash the stack', and can cause
+return from the routine to jump to a random address. This can produce some of
+the most insidious data-dependent bugs known to mankind. Variants include
+`trash' the stack, {scribble} the stack, {mangle} the stack; the term *{mung}
+the stack is not used, as this is never done intentionally. see {spam}; see
+also {aliasing bug}, {fandango on core}, {memory leak}, {precedence lossage},
+{overrun screw}. smiley: n. see {emoticon}. smoke test: n. 1. A rudimentary
+form of testing applied to electronic equipment following repair or
+reconfiguration, in which power is applied and the tester checks for sparks,
+smoke, or other dramatic signs of fundamental failure. see {magic smoke}. 2.
+By extension, the first run of a piece of software after construction or a
+critical change. see and compare {reality check}. There is an interesting
+semi-parallel to this term among typographers and printers: When new
+typefaces are being punch-cut by hand, a `smoke test' (hold the letter in
+candle smoke, then press it onto paper) is used to check out new dies.
+smoking clover: [ITS] n. A {display hack} originally due to Bill Gosper. Many
+convergent lines are drawn on a color monitor in {AOS} mode (so that every
+pixel struck has its color incremented). The lines all have one endpoint in
+the middle of the screen; the other endpoints are spaced one pixel apart
+around the perimeter of a large square. The color map is then repeatedly
+rotated. This results in a striking, rainbow-hued, shimmering four-leaf
+clover. Gosper joked about keeping it hidden from the FDA (the U.S.'s Food
+and Drug Administration) lest its hallucinogenic properties cause it to be
+banned.

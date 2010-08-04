@@ -1,7 +1,95 @@
- :PETSCII: /pet'skee/ [abbreviation of PET ASCII] n. The variation (many
-would say perversion) of the {{ASCII}} character set used by the Commodore
-Business Machines PET series of personal computers and the later Commodore
-C64, C16, and C128 machines. The PETSCII set used left-arrow and up-arrow (as
-in old-style ASCII) instead of underscore and caret, placed the unshifted
+ PETSCII: /pet'skee/ [abbreviation of PET ASCII] n. The variation (many would
+say perversion) of the {{ASCII}} character set used by the Commodore Business
+Machines PET series of personal computers and the later Commodore C64, C16,
+and C128 machines. The PETSCII set used left-arrow and up-arrow (as in
+old-style ASCII) instead of underscore and caret, placed the unshifted
 alphabet at positions 65--90, put the shifted alphabet at positions 193--218,
-and added graphics characters.
+and added graphics characters. phase: 1. n. The phase of one's
+waking-sleeping schedule with respect to the standard 24-hour cycle. This is
+a useful concept among people who often work at night and/or according to no
+fixed schedule. It is not uncommon to change one's phase by as much as 6
+hours per day on a regular basis. "What's your phase?" "I've been getting in
+about 8 P.M. lately, but I'm going to {wrap around} to the day schedule by
+Friday." A person who is roughly 12 hours out of phase is sometimes said to
+be in `night mode'. (The term `day mode' is also (but less frequently) used,
+meaning you're working 9 to 5 (or, more likely, 10 to 6).) The act of
+altering one's cycle is called `changing phase'; `phase shifting' has also
+been recently reported from Caltech. 2. `change phase the hard way': To stay
+awake for a very long time in order to get into a different phase. 3. `change
+phase the easy way': To stay asleep, etc. However, some claim that either
+staying awake longer or sleeping longer is easy, and that it is *shortening*
+your day or night that's hard (see {wrap around}). The `jet lag' that
+afflicts travelers who cross many time-zone boundaries may be attributed to
+two distinct causes: the strain of travel per se, and the strain of changing
+phase. Hackers who suddenly find that they must change phase drastically in a
+short period of time, particularly the hard way, experience something very
+like jet lag without traveling. phase of the moon: n. Used humorously as a
+random parameter on which something is said to depend. Sometimes implies
+unreliability of whatever is dependent, or that reliability seems to be
+dependent on conditions nobody has been able to determine. "This feature
+depends on having the channel open in mumble mode, having the foo switch set,
+and on the phase of the moon." True story: Once upon a time there was a bug
+that really did depend on the phase of the moon. There is a little subroutine
+that had traditionally been used in various programs at MIT to calculate an
+approximation to the moon's true phase. GLS incorporated this routine into a
+LISP program that, when it wrote out a file, would print a timestamp line
+almost 80 characters long. Very occasionally the first line of the message
+would be too long and would overflow onto the next line, and when the file
+was later read back in the program would {barf}. The length of the first line
+depended on both the precise date and time and the length of the phase
+specification when the timestamp was printed, and so the bug literally
+depended on the phase of the moon! The first paper edition of the Jargon File
+(Steele-1983) included an example of one of the timestamp lines that
+exhibited this bug, but the typesetter `corrected' it. This has since been
+described as the phase-of-the-moon-bug bug. phreaking: [from `phone phreak']
+n. 1. The art and science of cracking the phone network (so as, for example,
+to make free long-distance calls). 2. By extension, security-cracking in any
+other context (especially, but not exclusively, on communications networks).
+At one time phreaking was a semi-respectable activity among hackers; there
+was a gentleman's agreement that phreaking as an intellectual game and a form
+of exploration was OK, but serious theft of services was taboo. There was
+significant crossover between the hacker community and the hard-core phone
+phreaks who ran semi-underground networks of their own through such media as
+the legendary `TAP Newsletter'. This ethos began to break down in the
+mid-1980s as wider dissemination of the techniques put them in the hands of
+less responsible phreaks. Around the same time, changes in the phone network
+made old-style technical ingenuity less effective as a way of hacking it, so
+phreaking came to depend more on overtly criminal acts such as stealing
+phone-card numbers. The crimes and punishments of gangs like the `414 group'
+turned that game very ugly. A few old-time hackers still phreak casually just
+to keep their hand in, but most these days have hardly even heard of `blue
+boxes' or any of the other paraphernalia of the great phreaks of yore. pico-:
+[SI: a quantifier meaning * 10^-12] pref. Smaller than {nano-}; used in the
+same rather loose connotative way as {nano-} and {micro-}. This usage is not
+yet common in the way {nano-} and {micro-} are, but should be instantly
+recognizable to any hacker. see also {{quantifiers}}, {micro-}. pig, run like
+a: v. To run very slowly on given hardware, said of software. Distinct from
+{hog}. pilot error: [Sun: from aviation] n. A user's misconfiguration or
+misuse of a piece of software, producing apparently buglike results (compare
+{UBD}). "Joe Luser reported a bug in sendmail that causes it to generate
+bogus headers." "That's not a bug, that's pilot error. His `sendmail.cf' is
+hosed." ping: [from the TCP/IP acronym `Packet INternet Groper', prob.
+originally contrived to match the submariners' term for a sonar pulse] 1. n.
+Slang term for a small network message (ICMP ECHO) sent by a computer to
+check for the presence and aliveness of another. Occasionally used as a phone
+greeting. see {ACK}, also {ENQ}. 2. vt. To verify the presence of. 3. vt. To
+get the attention of. From the UNIX command `ping(1)' that sends an ICMP ECHO
+packet to another host. 4. vt. To send a message to all members of a {mailing
+list} requesting an {ACK} (in order to verify that everybody's addresses are
+reachable). "We haven't heard much of anything from Geoff, but he did respond
+with an ACK both times I pinged jargon-friends." The funniest use of `ping'
+to date was described in January 1991 by Steve Hayman on the USENET group
+comp.sys.next. He was trying to isolate a faulty cable segment on a TCP/IP
+Ethernet hooked up to a NeXT machine, and got tired of having to run back to
+his console after each cabling tweak to see if the ping packets were getting
+through. So he used the sound-recording feature on the NeXT, then wrote a
+script that repeatedly invoked `ping(8)', listened for an echo, and played
+back the recording on each returned packet. Result? A program that caused the
+machine to repeat, over and over, "Ping ... ping ... ping ..." as long as the
+network was up. He turned the volume to maximum, ferreted through the
+building with one ear cocked, and found a faulty tee connector in no time.
+Pink-Shirt Book: `The Peter Norton Programmer's Guide to the IBM PC'. The
+original cover featured a picture of Peter Norton with a silly smirk on his
+face, wearing a pink shirt. Perhaps in recognition of this usage, the current
+edition has a different picture of Norton wearing a pink shirt. see also
+{{book titles}}.

@@ -1,3 +1,90 @@
- :LERP: /lerp/ vi.,n. Quasi-acronym for Linear Interpolation, used as a verb
+ LERP: /lerp/ vi.,n. Quasi-acronym for Linear Interpolation, used as a verb
 or noun for the operation. E.g., Bresenham's algorithm lerps incrementally
-between the two endpoints of the line.
+between the two endpoints of the line. let the smoke out: v. To fry hardware
+(see {fried}). see {magic smoke} for the mythology behind this. letterbomb:
+n. A piece of {email} containing {live data} intended to do nefarious things
+to the recipient's machine or terminal. It is possible, for example, to send
+letterbombs that will lock up some specific kinds of terminals when they are
+viewed, so thoroughly that the user must {cycle power} to unwedge them. Under
+UNIX, a letterbomb can also try to get part of its contents interpreted as a
+shell command to the mailer. The results of this could range from silly to
+tragic. see also {Trojan horse}; compare {nastygram}. lexer: /lek'sr/ n.
+Common hacker shorthand for `lexical analyzer', the input-tokenizing stage in
+the parser for a language (the part that breaks it into word-like pieces).
+"Some C lexers get confused by the old-style compound ops like `=-'."
+lexiphage: /lek'si-fayj`/ n. A notorious word {chomper} on ITS. see
+{bagbiter}. life: n. 1. A cellular-automata game invented by John Horton
+Conway and first introduced publicly by Martin Gardner (`Scientific
+American', October 1970). Many hackers pass through a stage of fascination
+with it, and hackers at various places contributed heavily to the
+mathematical analysis of this game (most notably Bill Gosper at MIT, who even
+implemented life in {TECO}!; see {Gosperism}). When a hacker mentions `life',
+he is much more likely to mean this game than the magazine, the breakfast
+cereal, or the human state of existence. 2. The opposite of {USENET}. As in
+{Get a life!} light pipe: n. Fiber optic cable. Oppose {copper}. like kicking
+dead whales down the beach: adj. Describes a slow, difficult, and disgusting
+process. First popularized by a famous quote about the difficulty of getting
+work done under one of IBM's mainframe OSes. "Well, you *could* write a C
+compiler in COBOL, but it would be like kicking dead whales down the beach."
+see also {fear and loathing} like nailing jelly to a tree: adj. Used to
+describe a task thought to be impossible, esp. one in which the difficulty
+arises from poor specification or inherent slipperiness in the problem
+domain. "Trying to display the `prettiest' arrangement of nodes and arcs that
+diagrams a given graph is like nailing jelly to a tree, because nobody's sure
+what `prettiest' means algorithmically." line eater, the: [USENET] n. 1. A
+bug in some now-obsolete versions of the netnews software that used to eat up
+to BUFSIZ bytes of the article text. The bug was triggered by having the text
+of the article start with a space or tab. This bug was quickly personified as
+a mythical creature called the `line eater', and postings often included a
+dummy line of `line eater food'. Ironically, line eater `food' not beginning
+with a space or tab wasn't actually eaten, since the bug was avoided; but if
+there *was* a space or tab before it, then the line eater would eat the food
+*and* the beginning of the text it was supposed to be protecting. The
+practice of `sacrificing to the line eater' continued for some time after the
+bug had been {nailed to the wall}, and is still humorously referred to. The
+bug itself is still (in mid-1991) occasionally reported to be lurking in some
+mail-to-netnews gateways. 2. see {NSA line eater}. line starve: [MIT] 1. vi.
+To feed paper through a printer the wrong way by one line (most printers
+can't do this). On a display terminal, to move the cursor up to the previous
+line of the screen. "To print `X squared', you just output `X', line starve,
+`2', line feed." (The line starve causes the `2' to appear on the line above
+the `X', and the line feed gets back to the original line.) 2. n. A character
+(or character sequence) that causes a terminal to perform this action. Unlike
+`line feed', `line starve' is *not* standard {{ASCII}} terminology. Even
+among hackers it is considered a bit silly. 3. [proposed] A sequence such as
+\c (used in System V echo, as well as nroff/troff) that suppresses a
+{newline} or other character(s) that would normally be emitted. link farm:
+[UNIX] n. A directory tree that contains many links to files in a master
+directory tree of files. Link farms save space when (for example) one is
+maintaining several nearly identical copies of the same source tree, e.g.,
+when the only difference is architecture-dependent object files. "Let's
+freeze the source and then rebuild the FROBOZZ-3 and FROBOZZ-4 link farms."
+Link farms may also be used to get around restrictions on the number of `-I'
+(include-file directory) arguments on older C preprocessors. link-dead: [MUD]
+adj. Said of a {MUD} character who has frozen in place because of a dropped
+Internet connection. lint: [from UNIX's `lint(1)', named perhaps for the bits
+of fluff it picks from programs] 1. vt. To examine a program closely for
+style, language usage, and portability problems, esp. if in C, esp. if via
+use of automated analysis tools, most esp. if the UNIX utility `lint(1)' is
+used. This term used to be restricted to use of `lint(1)' itself, but
+(judging by references on USENET) it has become a shorthand for {desk check}
+at some non-UNIX shops, even in languages other than C. Also as v. {delint}.
+2. n. Excess verbiage in a document, as in "this draft has too much lint".
+lion food: [IBM] n. Middle management or HQ staff (by extension,
+administrative drones in general). From an old joke about two lions who,
+escaping from the zoo, split up to increase their chances but agreed to meet
+after 2 months. When they finally meet, one is skinny and the other
+overweight. The thin one says: "How did you manage? I ate a human just once
+and they turned out a small army to chase me --- guns, nets, it was terrible.
+Since then I've been reduced to eating mice, insects, even grass." The fat
+one replies: "Well, *I* hid near an IBM office and ate a manager a day. And
+nobody even noticed!" Lions Book: n. `Source Code and Commentary on UNIX
+level 6', by John Lions. The two parts of this book contained (1) the entire
+source listing of the UNIX Version 6 kernel, and (2) a commentary on the
+source discussing the algorithms. These were circulated internally at the
+University of New South Wales beginning 1976--77, and were for years after
+the *only* detailed kernel documentation available to anyone outside Bell
+Labs. Because Western Electric wished to maintain trade secret status on the
+kernel, the Lions book was never formally published and was only supposed to
+be distributed to affiliates of source licensees. In spite of this, it soon
+spread by samizdat to a good many of the early UNIX hackers.

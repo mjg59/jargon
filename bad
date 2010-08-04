@@ -1,3 +1,151 @@
- :BAD: /B-A-D/ [IBM: acronym, `Broken As Designed'] adj. Said of a program
+ BAD: /B-A-D/ [IBM: acronym, `Broken As Designed'] adj. Said of a program
 that is {bogus} because of bad design and misfeatures rather than because of
-bugginess. see {working as designed}.
+bugginess. see {working as designed}. Bad Thing: [from the 1930 Sellar &
+Yeatman parody `1066 And All That'] n. Something that can't possibly result
+in improvement of the subject. This term is always capitalized, as in
+"Replacing all of the 9600-baud modems with bicycle couriers would be a Bad
+Thing". Oppose {Good Thing}. British correspondents confirm that {Bad Thing}
+and {Good Thing} (and prob. therefore {Right Thing} and {Wrong Thing}) come
+from the book referenced in the etymology, which discusses rulers who were
+Good Kings but Bad Things. This has apparently created a mainstream idiom on
+the British side of the pond. bag on the side: n. An extension to an
+established hack that is supposed to add some functionality to the original.
+Usually derogatory, implying that the original was being overextended and
+should have been thrown away, and the new product is ugly, inelegant, or
+bloated. Also v. phrase, `to hang a bag on the side [of]'. "C++? That's just
+a bag on the side of C ...." "They want me to hang a bag on the side of the
+accounting system." bagbiter: /bag'bi:t-*r/ n. 1. Something, such as a
+program or a computer, that fails to work, or works in a remarkably clumsy
+manner. "This text editor won't let me make a file with a line longer than 80
+characters! What a bagbiter!" 2. A person who has caused you some trouble,
+inadvertently or otherwise, typically by failing to program the computer
+properly. Synonyms: {loser}, {cretin}, {chomper}. 3. adj. `bagbiting' Having
+the quality of a bagbiter. "This bagbiting system won't let me compute the
+factorial of a negative number." Compare {losing}, {cretinous},
+{bletcherous}, `barfucious' (under {barfulous}) and `chomping' (under
+{chomp}). 4. `bite the bag' vi. To fail in some manner. "The computer keeps
+crashing every 5 minutes." "Yes, the disk controller is really biting the
+bag." The original loading of these terms was almost undoubtedly obscene,
+possibly referring to the scrotum, but in their current usage they have
+become almost completely sanitized. A program called Lexiphage on the old MIT
+AI PDP-10 would draw on a selected victim's bitmapped terminal the words "THE
+BAG" in ornate letters, and then a pair of jaws biting pieces of it off. This
+is the first and to date only known example of a program *intended* to be a
+bagbiter. bamf: /bamf/ 1. [from old X-Men comics] interj. Notional sound made
+by a person or object teleporting in or out of the hearer's vicinity. Often
+used in {virtual reality} (esp. {MUD}) electronic {fora} when a character
+wishes to make a dramatic entrance or exit. 2. The sound of magical
+transformation, used in virtual reality {fora} like sense 1. 3. [from `Don
+Washington's Survival Guide'] n. Acronym for `Bad-Ass Mother Fucker', used to
+refer to one of the handful of nastiest monsters on an LPMUD or other similar
+MUD. banana label: n. The labels often used on the sides of {macrotape}
+reels, so called because they are shaped roughly like blunt-ended bananas.
+This term, like macrotapes themselves, is still current but visibly headed
+for obsolescence. banana problem: n. [from the story of the little girl who
+said "I know how to spell `banana', but I don't know when to stop"]. Not
+knowing where or when to bring a production to a close (compare {fencepost
+error}). One may say `there is a banana problem' of an algorithm with poorly
+defined or incorrect termination conditions, or in discussing the evolution
+of a design that may be succumbing to featuritis (see also {creeping
+elegance}, {creeping featuritis}). see item 176 under {HAKMEM}, which
+describes a banana problem in a {Dissociated Press} implementation.
+bandwidth: n. 1. Used by hackers in a generalization of its technical meaning
+as the volume of information per unit time that a computer, person, or
+transmission medium can handle. "Those are amazing graphics, but I missed
+some of the detail --- not enough bandwidth, I guess." Compare
+{low-bandwidth}. 2. Attention span. 3. On {USENET}, a measure of network
+capacity that is often wasted by people complaining about how items posted by
+others are a waste of bandwidth. bang: 1. n. Common spoken name for `!'
+(ASCII 0100001), especially when used in pronouncing a {bang path} in spoken
+hackish. In {elder days} this was considered a CMUish usage, with MIT and
+Stanford hackers preferring {excl} or {shriek}; but the spread of UNIX has
+carried `bang' with it (esp. via the term {bang path}) and it is now
+certainly the most common spoken name for `!'. Note that it is used
+exclusively for non-emphatic written `!'; one would not say "Congratulations
+bang" (except possibly for humorous purposes), but if one wanted to specify
+the exact characters `foo!' one would speak "Eff oh oh bang". see {shriek},
+{{ASCII}}. 2. interj. An exclamation signifying roughly "I have achieved
+enlightenment!", or "The dynamite has cleared out my brain!" Often used to
+acknowledge that one has perpetrated a {thinko} immediately after one has
+been called on it. bang on: vt. To stress-test a piece of hardware or
+software: "I banged on the new version of the simulator all day yesterday and
+it didn't crash once. I guess it is ready to release." The term {pound on} is
+synonymous. bang path: n. An old-style UUCP electronic-mail address
+specifying hops to get from some assumed-reachable location to the addressee,
+so called because each {hop} is signified by a {bang} sign. Thus, for
+example, the path ...!bigsite!foovax!barbox!me directs people to route their
+mail to machine bigsite (presumably a well-known location accessible to
+everybody) and from there through the machine foovax to the account of user
+me on barbox. In the bad old days of not so long ago, before autorouting
+mailers became commonplace, people often published compound bang addresses
+using the { } convention (see {glob}) to give paths from *several* big
+machines, in the hopes that one's correspondent might be able to get mail to
+one of them reliably (example: ...!{seismo, ut-sally,
+ihnp4}!rice!beta!gamma!me). Bang paths of 8 to 10 hops were not uncommon in
+1981. Late-night dial-up UUCP links would cause week-long transmission times.
+Bang paths were often selected by both transmission time and reliability, as
+messages would often get lost. see {{Internet address}}, {network, the}, and
+{sitename}. banner: n. 1. The title page added to printouts by most print
+spoolers (see {spool}). Typically includes user or account ID information in
+very large character-graphics capitals. Also called a `burst page', because
+it indicates where to burst (tear apart) fanfold paper to separate one user's
+printout from the next. 2. A similar printout generated (typically on
+multiple pages of fan-fold paper) from user-specified text, e.g., by a
+program such as UNIX's `banner({1,6})'. 3. On interactive software, a first
+screen containing a logo and/or author credits and/or a copyright notice.
+bar: /bar/ n. 1. The second metasyntactic variable, after {foo} and before
+{baz}. "Suppose we have two functions: FOO and BAR. FOO calls BAR...." 2.
+Often appended to {foo} to produce {foobar}. bare metal: n. 1. New computer
+hardware, unadorned with such snares and delusions as an {operating system},
+an {HLL}, or even assembler. Commonly used in the phrase `programming on the
+bare metal', which refers to the arduous work of {bit bashing} needed to
+create these basic tools for a new machine. Real bare-metal programming
+involves things like building boot proms and BIOS chips, implementing basic
+monitors used to test device drivers, and writing the assemblers that will be
+used to write the compiler back ends that will give the new machine a real
+development environment. 2. `Programming on the bare metal' is also used to
+describe a style of {hand-hacking} that relies on bit-level peculiarities of
+a particular hardware design, esp. tricks for speed and space optimization
+that rely on crocks such as overlapping instructions (or, as in the famous
+case described in appendix A, interleaving of opcodes on a magnetic drum to
+minimize fetch delays due to the device's rotational latency). This sort of
+thing has become less common as the relative costs of programming time and
+machine resources have changed, but is still found in heavily constrained
+environments such as industrial embedded systems. see {real programmer}. In
+the world of personal computing, bare metal programming (especially in sense
+1 but sometimes also in sense 2) is often considered a {Good Thing}, or at
+least a necessary thing (because these machines have often been sufficiently
+slow and poorly designed to make it necessary; see {ill-behaved}). There, the
+term usually refers to bypassing the BIOS or OS interface and writing the
+application to directly access device registers and machine addresses. "To
+get 19.2 kilobaud on the serial port, you need to get down to the bare
+metal." People who can do this sort of thing are held in high regard. barf:
+/barf/ [from mainstream slang meaning `vomit'] 1. interj. Term of disgust.
+This is the closest hackish equivalent of the Val\-speak "gag me with a
+spoon". (Like, euwww!) see {bletch}. 2. vi. To say "Barf!" or emit some
+similar expression of disgust. "I showed him my latest hack and he barfed"
+means only that he complained about it, not that he literally vomited. 3. vi.
+To fail to work because of unacceptable input. May mean to give an error
+message. Examples: "The division operation barfs if you try to divide by 0."
+(That is, the division operation checks for an attempt to divide by zero, and
+if one is encountered it causes the operation to fail in some unspecified,
+but generally obvious, manner.) "The text editor barfs if you try to read in
+a new file before writing out the old one." see {choke}, {gag}. In
+Commonwealth hackish, `barf' is generally replaced by `puke' or `vom'. {barf}
+is sometimes also used as a metasyntactic variable, like {foo} or {bar}.
+barfulation: /bar`fyoo-lay'sh*n/ interj. Variation of {barf} used around the
+Stanford area. An exclamation, expressing disgust. On seeing some
+particularly bad code one might exclaim, "Barfulation! Who wrote this, Quux?"
+barfulous: /bar'fyoo-l*s/ adj. (alt. `barfucious', /bar-fyoo-sh*s/) Said of
+something that would make anyone barf, if only for esthetic reasons. baroque:
+adj. Feature-encrusted; complex; gaudy; verging on excessive. Said of
+hardware or (esp.) software designs, this has many of the connotations of
+{elephantine} or {monstrosity} but is less extreme and not pejorative in
+itself. "Metafont even has features to introduce random variations to its
+letterform output. Now *that* is baroque!" see also {rococo}. BartleMUD:
+/bar'tl-muhd/ n. Any of the MUDs derived from the original MUD game by
+Richard Bartle (see {MUD}). BartleMUDs are noted for their (usually slightly
+offbeat) humor, dry but friendly syntax, and lack of adjectives in object
+descriptions, so a player is likely to come across `brand172', for instance
+(see {brand brand brand}). Some MUDders intensely dislike Bartle and this
+term, and prefer to speak of `MUD-1'.

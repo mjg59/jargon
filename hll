@@ -1,7 +1,86 @@
- :HLL: /H-L-L/ n. [High-Level Language (as opposed to assembler)] Found
+ HLL: /H-L-L/ n. [High-Level Language (as opposed to assembler)] Found
 primarily in email and news rather than speech. Rarely, the variants `VHLL'
 and `MLL' are found. VHLL stands for `Very-High-Level Language' and is used
 to describe a {bondage-and-discipline language} that the speaker happens to
 like; Prolog and Backus's FP are often called VHLLs. `MLL' stands for
 `Medium-Level Language' and is sometimes used half-jokingly to describe {C},
 alluding to its `structured-assembler' image. see also {languages of choice}.
+hobbit: n. 1. The High Order Bit of a byte; same as the {meta bit} or {high
+bit}. 2. The non-ITS name of vad@ai.mit.edu (*Hobbit*), master of lasers.
+hog: n.,vt. 1. Favored term to describe programs or hardware that seem to eat
+far more than their share of a system's resources, esp. those which
+noticeably degrade interactive response. *Not* used of programs that are
+simply extremely large or complex or that are merely painfully slow
+themselves (see {pig, run like a}). More often than not encountered in
+qualified forms, e.g., `memory hog', `core hog', `hog the processor', `hog
+the disk'. "A controller that never gives up the I/O bus gets killed after
+the bus-hog timer expires." 2. Also said of *people* who use more than their
+fair share of resources (particularly disk, where it seems that 10% of the
+people use 90% of the disk, no matter how big the disk is or how many people
+use it). Of course, once disk hogs fill up one filesystem, they typically
+find some other new one to infect, claiming to the sysadmin that they have an
+important new project to complete. holy wars: [from {USENET}, but may predate
+it] n. {flame war}s over {religious issues}. The paper by Danny Cohen that
+popularized the terms {big-endian} and {little-endian} in connection with the
+LSB-first/MSB-first controversy was entitled "On Holy Wars and a Plea for
+Peace". Other perennial Holy Wars have included {EMACS} vs. {vi}, my personal
+computer vs. everyone else's personal computer, {{ITS}} vs. {{UNIX}},
+{{UNIX}} vs. {VMS}, {BSD} UNIX vs. {USG UNIX}, {C} vs. {{Pascal}}, {C} vs.
+{LISP}, etc., ad nauseam. The characteristic that distinguishes {holy wars}
+from normal technical disputes is that in a holy wars most of the
+participants spend their time trying to pass off personal value choices and
+cultural attachments as objective technical evaluations. see also {theology}.
+home box: n. A hacker's personal machine, especially one he or she owns.
+"Yeah? Well, *my* home box runs a full 4.2 BSD, so there!" hook: n. A
+software or hardware feature included in order to simplify later additions or
+changes by a user. For example, a simple program that prints numbers might
+always print them in base 10, but a more flexible version would let a
+variable determine what base to use; setting the variable to 5 would make the
+program print numbers in base 5. The variable is a simple hook. An even more
+flexible program might examine the variable and treat a value of 16 or less
+as the base to use, but treat any other number as the address of a
+user-supplied routine for printing a number. This is a {hairy} but powerful
+hook; one can then write a routine to print numbers as Roman numerals, say,
+or as Hebrew characters, and plug it into the program through the hook. Often
+the difference between a good program and a superb one is that the latter has
+useful hooks in judiciously chosen places. Both may do the original job about
+equally well, but the one with the hooks is much more flexible for future
+expansion of capabilities ({EMACS}, for example, is *all* hooks). The term
+`user exit' is synonymous but much more formal and less hackish. hop: n. One
+file transmission in a series required to get a file from point A to point B
+on a store-and-forward network. On such networks (including {UUCPNET} and
+{FidoNet}), the important inter-machine metric is the number of hops in the
+shortest path between them, rather than their geographical separation. see
+{bang path}. hose: 1. vt. To make non-functional or greatly degraded in
+performance. "That big ray-tracing program really hoses the system." see
+{hosed}. 2. n. A narrow channel through which data flows under pressure.
+Generally denotes data paths that represent performance bottlenecks. 3. n.
+Cabling, especially thick Ethernet cable. This is sometimes called `bit hose'
+or `hosery' (play on `hosiery') or `etherhose'. see also {washing machine}.
+hosed: adj. Same as {down}. Used primarily by UNIX hackers. Humorous: also
+implies a condition thought to be relatively easy to reverse. Probably
+derived from the Canadian slang `hoser' popularized by the Bob and Doug
+Mackenzie skits on SCTV. see {hose}. It is also widely used of people in the
+mainstream sense of `in an extremely unfortunate situation'. Once upon a
+time, a Cray that had been experiencing periodic difficulties crashed, and it
+was announced to have been hosed. It was discovered that the crash was due to
+the disconnection of some coolant hoses. The problem was corrected, and users
+were then assured that everything was OK because the system had been rehosed.
+see also {dehose}. hot spot: n. 1. [primarily used by C/UNIX programmers, but
+spreading] It is received wisdom that in most programs, less than 10% of the
+code eats 90% of the execution time; if one were to graph instruction visits
+versus code addresses, one would typically see a few huge spikes amidst a lot
+of low-level noise. Such spikes are called `hot spots' and are good
+candidates for heavy optimization or {hand-hacking}. The term is especially
+used of tight loops and recursions in the code's central algorithm, as
+opposed to (say) initial set-up costs or large but infrequent I/O operations.
+see {tune}, {bum}, {hand-hacking}. 2. The active location of a cursor on a
+bit-map display. "Put the mouse's hot spot on the `ON' widget and click the
+left button." 3. In a massively parallel computer with shared memory, the one
+location that all 10,000 processors are trying to read or write at once
+(perhaps because they are all doing a {busy-wait} on the same lock). house
+wizard: [prob. from ad-agency lingo, `house freak'] n. A hacker occupying a
+technical-specialist, R&D, or systems position at a commercial shop. A really
+effective house wizard can have influence out of all proportion to his/her
+ostensible rank and still not have to wear a suit. Used esp. of UNIX wizards.
+The term `house guru' is equivalent.

@@ -1,5 +1,5 @@
- :MIPS: /mips/ [abbreviation] n. 1. A measure of computing speed; formally,
-`Million Instructions Per Second' (that's 10^6 per second, not 2^(20)!);
+ MIPS: /mips/ [acronym] n. 1. A measure of computing speed; formally,
+`Million Instructions Per Second' (that's 10^6 per second, not 2^{20}!);
 often rendered by hackers as `Meaningless Indication of Processor Speed' or
 in other unflattering ways. This joke expresses a nearly universal attitude
 about the value of most {benchmark} claims, said attitude being one of the
@@ -10,4 +10,127 @@ abstractly as sources of {computron}s. "This is just a workstation; the heavy
 MIPS are hidden in the basement." 3. The corporate name of a particular
 RISC-chip company; among other things, they designed the processor chips used
 in DEC's 3100 workstation series. 4. Acronym for `Meaningless Information per
-Second' (a joke, prob. from sense 1).
+Second' (a joke, prob. from sense 1). misbug: /mis-buhg/ [MIT] n. An
+unintended property of a program that turns out to be useful; something that
+should have been a {bug} but turns out to be a {feature}. Usage: rare.
+Compare {green lightning}. see {miswart}. misfeature: /mis-fee'chr/ or
+/mis'fee`chr/ n. A feature that eventually causes lossage, possibly because
+it is not adequate for a new situation which has evolved. It is not the same
+as a bug, because fixing it involves a substantial philosophical change to
+the structure of the system involved. A misfeature is different from a simple
+unforeseen side effect; the term implies that the misfeature was actually
+carefully planned to be that way, but its future consequences or
+circumstances just weren't predicted accurately. This is different from just
+not having thought ahead about it at all. Many misfeatures (especially in
+user-interface design) arise because the designers/implementors mistook their
+personal tastes for laws of nature. Often a former feature becomes a
+misfeature because a tradeoff was made whose parameters subsequently changed
+(possibly only in the judgment of the implementors). "Well, yeah, it is kind
+of a misfeature that file names are limited to 6 characters, but the original
+implementors wanted to save directory space and we're stuck with it for now."
+Missed'em-five: n. Pejorative hackerism for AT&T System V UNIX, generally
+used by {BSD} partisans in a bigoted mood. (The synonym `SysVile' is also
+encountered.) see {software bloat}, {Berzerkeley}. miswart: /mis-wort/ [from
+{wart} by analogy with {misbug}] n. A {feature} that superficially appears to
+be a {wart} but has been determined to be the {Right Thing}. For example, in
+some versions of the {EMACS} text editor, the `transpose characters' command
+exchanges the two characters on either side of the cursor on the screen,
+*except* when the cursor is at the end of a line, in which case the two
+characters before the cursor are exchanged. While this behavior is perhaps
+surprising, and certainly inconsistent, it has been found through extensive
+experimentation to be what most users want. This feature is a miswart. moby:
+/moh'bee/ [MIT: seems to have been in use among model railroad fans years
+ago. Derived from Melville's `Moby Dick' (some say from `Moby Pickle').] 1.
+adj. Large, immense, complex, impressive. "A Saturn V rocket is a truly moby
+frob." "Some MIT undergrads pulled off a moby hack at the Harvard-Yale game."
+(see appendix A). 2. n. obs. The maximum address space of a machine (see
+below). For a 680[234]0 or VAX or most modern 32-bit architectures, it is
+4,294,967,296 8-bit bytes (4 gigabytes). 3. A title of address (never of
+third-person reference), usually used to show admiration, respect, and/or
+friendliness to a competent hacker. "Greetings, moby Dave. How's that
+address-book thing for the Mac going?" 4. adj. In backgammon, doubles on the
+dice, as in `moby sixes', `moby ones', etc. Compare this with {bignum} (sense
+2): double sixes are both bignums and moby sixes, but moby ones are not
+bignums (the use of `moby' to describe double ones is sarcastic). Standard
+emphatic forms: `Moby foo', `moby win', `moby loss'. `Foby moo': a spoonerism
+due to Richard Greenblatt. This term entered hackerdom with the Fabritek 256K
+memory added to the MIT AI PDP-6 machine, which was considered unimaginably
+huge when it was installed in the 1960s (at a time when a more typical memory
+size for a timesharing system was 72 kilobytes). Thus, a moby is classically
+256K 36-bit words, the size of a PDP-6 or PDP-10 moby. Back when address
+registers were narrow the term was more generally useful, because when a
+computer had virtual memory mapping, it might actually have more physical
+memory attached to it than any one program could access directly. One could
+then say "This computer has 6 mobies" meaning that the ratio of physical
+memory to address space is 6, without having to say specifically how much
+memory there actually is. That in turn implied that the computer could
+timeshare six `full-sized' programs without having to swap programs between
+memory and disk. Nowadays the low cost of processor logic means that address
+spaces are usually larger than the most physical memory you can cram onto a
+machine, so most systems have much *less* than one theoretical `native' moby
+of core. Also, more modern memory-management techniques (esp. paging) make
+the `moby count' less significant. However, there is one series of popular
+chips for which the term could stand to be revived --- the Intel 8088 and
+80286 with their incredibly {brain-damaged} segmented-memory designs. On
+these, a `moby' would be the 1-megabyte address span of a segment/offset pair
+(by coincidence, a PDP-10 moby was exactly 1 megabyte of 9-bit bytes). mod:
+vt.,n. 1. Short for `modify' or `modification'. Very commonly used --- in
+fact the full terms are considered markers that one is being formal. The
+plural `mods' is used esp. with reference to bug fixes or minor design
+changes in hardware or software, most esp. with respect to {patch} sets or a
+{diff}. 2. Short for {modulo} but used *only* for its techspeak sense. mode:
+n. A general state, usually used with an adjective describing the state. Use
+of the word `mode' rather than `state' implies that the state is extended
+over time, and probably also that some activity characteristic of that state
+is being carried out. "No time to hack; I'm in thesis mode." In its jargon
+sense, `mode' is most often attributed to people, though it is sometimes
+applied to programs and inanimate objects. In particular, see {hack mode},
+{day mode}, {night mode}, {demo mode}, {fireworks mode}, and {yoyo mode};
+also {talk mode}. One also often hears the verbs `enable' and `disable' used
+in connection with jargon modes. Thus, for example, a sillier way of saying
+"I'm going to crash" is "I'm going to enable crash mode now". One might also
+hear a request to "disable flame mode, please". mode bit: n. A {flag},
+usually in hardware, that selects between two (usually quite different) modes
+of operation. The connotations are different from {flag} bit in that mode
+bits are mainly written during a boot or set-up phase, are seldom explicitly
+read, and seldom change over the lifetime of an ordinary program. The classic
+example was the EBCDIC-vs.-ASCII bit (#12) of the Program Status Word of the
+IBM 360. Another was the bit on a PDP-12 that controlled whether it ran the
+PDP-8 or the LINC instruction set. modulo: /mo'dyu-loh/ prep. Except for.
+From mathematical terminology; one can consider saying that 4 = 22 except for
+the 9s (4 = 22 mod 9). "Well, LISP seems to work okay now, modulo that {GC}
+bug." "I feel fine today modulo a slight headache." molly-guard:
+/mol'ee-gard/ [University of Illinois] n. A shield to prevent tripping of
+some {Big Red Switch} by clumsy or ignorant hands. Originally used of some
+plexiglass covers improvised for the BRS on an IBM 4341 after a programmer's
+toddler daughter (named Molly) frobbed it twice in one day. Later generalized
+to covers over stop/reset switches on disk drives and networking equipment.
+Mongolian Hordes technique: n. Development by {gang bang} (poss. from the
+Sixties counterculture expression `Mongolian clusterfuck' for a public orgy).
+Implies that large numbers of inexperienced programmers are being put on a
+job better performed by a few skilled ones. Also called `Chinese Army
+technique'; see also {Brooks's Law}. monkey up: vt. To hack together hardware
+for a particular task, especially a one-shot job. Connotes an extremely
+{crufty} and consciously temporary solution. Compare {hack up}, {kluge up},
+{cruft together}, {cruft together}. monkey, scratch: n. see {scratch monkey}.
+monstrosity: 1. n. A ridiculously {elephantine} program or system, esp. one
+that is buggy or only marginally functional. 2. The quality of being
+monstrous (see `Overgeneralization' in the discussion of jargonification).
+see also {baroque}. Moof: /moof/ [MAC users] n. The Moof or `dogcow' is a
+semi-legendary creature that lurks in the depths of the Macintosh Technical
+Notes Hypercard stack V3.1; specifically, the full story of the dogcow is
+told in technical note #31 (the particular Moof illustrated is properly named
+`Clarus'). Option-shift-click will cause it to emit a characteristic `Moof!'
+or `!fooM' sound. *Getting* to tech note 31 is the hard part; to discover how
+to do that, one must needs examine the stack script with a hackerly eye.
+Clue: {rot13} is involved. A dogcow also appears if you choose `Page
+Setup...' with a LaserWriter selected and click on the `Options' button.
+Moore's Law: /morz law/ prov. The observation that the logic density of
+silicon integrated circuits has closely followed the curve (bits per square
+inch) = 2^{(n - 1962)}; that is, the amount of information storable in one
+square inch of silicon has roughly doubled yearly every year since the
+technology was invented. see also {Parkinson's Law of Data}. moria:
+/mor'ee-*/ n. Like {nethack} and {rogue}, one of the large PD
+Dungeons-and-Dragons-like simulation games, available for a wide range of
+machines and operating systems. Extremely addictive and a major consumer of
+time better used for hacking.

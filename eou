@@ -1,9 +1,68 @@
- :EOU: /E-O-U/ n. The mnemonic of a mythical ASCII control character (End Of
-User) that would make an ASR-33 Teletype explode on receipt. This
-construction parodies the numerous obscure delimiter and control characters
-left in ASCII from the days when it was associated more with wire-service
-teletypes than computers (e.g., FS, GS, RS, US, EM, SUB, ETX, and esp. EOT).
-It is worth remembering that ASR-33s were big, noisy mechanical beasts with a
-lot of clattering parts; the notion that one might explode was nowhere near
-as ridiculous as it might seem to someone sitting in front of a {tube} or
-flatscreen today.
+ EOU: /E-O-U/ n. The mnemonic of a mythical ASCII control character (End Of
+User) that could make an ASR-33 Teletype explode on receipt. This parodied
+the numerous obscure delimiter and control characters left in ASCII from the
+days when it was associated more with wire-service teletypes than computers
+(e.g., FS, GS, RS, US, EM, SUB, ETX, and esp. EOT). It is worth remembering
+that ASR-33s were big, noisy mechanical beasts with a lot of clattering
+parts; the notion that one might explode was nowhere near as ridiculous as it
+might seem to someone sitting in front of a {tube} or flatscreen today.
+epoch: [UNIX: prob. from astronomical timekeeping] n. The time and date
+corresponding to 0 in an operating system's clock and timestamp values. Under
+most UNIX versions the epoch is 00:00:00 GMT, January 1, 1970. System time is
+measured in seconds or {tick}s past the epoch. Weird problems may ensue when
+the clock wraps around (see {wrap around}), which is not necessarily a rare
+event; on systems counting 10 ticks per second, a signed 32-bit count of
+ticks is good only for 6.8 years. The 1-tick-per-second clock of UNIX is good
+only until January 18, 2038, assuming word lengths don't increase by then.
+see also {wall time}. epsilon: [see {delta}] 1. n. A small quantity of
+anything. "The cost is epsilon." 2. adj. Very small, negligible; less than
+{marginal}. "We can get this feature for epsilon cost." 3. `within epsilon
+of': close enough to be indistinguishable for all practical purposes. This is
+even closer than being `within delta of'. "That's not what I asked for, but
+it's within epsilon of what I wanted." Alternatively, it may mean not close
+enough, but very little is required to get it there: "My program is within
+epsilon of working." epsilon squared: n. A quantity even smaller than
+{epsilon}, as small in comparison to epsilon as epsilon is to something
+normal; completely negligible. If you buy a supercomputer for a million
+dollars, the cost of the thousand-dollar terminal to go with it is {epsilon},
+and the cost of the ten-dollar cable to connect them is epsilon squared.
+Compare {lost in the underflow}, {lost in the noise}. era, the: Syn. {epoch}.
+Webster's Unabridged makes these words almost synonymous, but `era' usually
+connotes a span of time rather than a point in time. The {epoch} usage is
+recommended. Eric Conspiracy: n. A shadowy group of mustachioed hackers named
+Eric first pinpointed as a sinister conspiracy by an infamous talk.bizarre
+posting ca. 1986; this was doubtless influenced by the numerous `Eric' jokes
+in the Monty Python oeuvre. There do indeed seem to be considerably more
+mustachioed Erics in hackerdom than the frequency of these three traits can
+account for unless they are correlated in some arcane way. Well-known
+examples include Eric Allman (he of the `Allman style' described under
+{indent style}) and Erik Fair (co-author of NNTP); your editor has heard from
+about fourteen others by email, and the organization line `Eric Conspiracy
+Secret Laboratories' now emanates regularly from more than one site. Eris:
+/e'ris/ n. The Greek goddess of Chaos, Discord, Confusion, and Things You
+Know Not Of; her name was latinized to Discordia and she was worshiped by
+that name in Rome. Not a very friendly deity in the Classical original, she
+was reinvented as a more benign personification of creative anarchy starting
+in 1959 by the adherents of {Discordianism} and has since been a semi-serious
+subject of veneration in several `fringe' cultures, including hackerdom. see
+{Discordianism}, {Church of the SubGenius}. erotics: /ee-ro'tiks/ n.
+[Helsinki University of Technology, Finland] n. English-language university
+slang for electronics. Often used by hackers in Helsinki, maybe because good
+electronics excites them and makes them warm. essentials: n. Things necessary
+to maintain a productive and secure hacking environment. "A jug of wine, a
+loaf of bread, a 20-megahertz 80386 box with 8 meg of core and a 300-megabyte
+disk supporting full UNIX with source and X windows and EMACS and UUCP via a
+'blazer to a friendly Internet site, and thou." evil: adj. As used by
+hackers, implies that some system, program, person, or institution is
+sufficiently maldesigned as to be not worth the bother of dealing with.
+Unlike the adjectives in the {cretinous}/{losing}/{brain-damaged} series,
+`evil' does not imply incompetence or bad design, but rather a set of goals
+or design criteria fatally incompatible with the speaker's. This is more an
+esthetic and engineering judgment than a moral one in the mainstream sense.
+"We thought about adding a {Blue Glue} interface but decided it was too evil
+to deal with." "{TECO} is neat, but it can be pretty evil if you're prone to
+typos." Often pronounced with the first syllable lengthened, as /eeee'vil/.
+exa-: /ek's*/ [SI] pref. see {{quantifiers}}. examining the entrails: n. The
+process of {grovel}ling through a core dump or hex image in the attempt to
+discover the bug that brought a program or system down. Compare {runes},
+{incantation}, {black art}, {desk check}.

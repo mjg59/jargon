@@ -1,6 +1,88 @@
- :DRECNET: /drek'net/ [from Yiddish/German `dreck', meaning filth] n.
+ DRECNET: /drek'net/ [from Yiddish/German `dreck', meaning dirt] n.
 Deliberate distortion of DECNET, a networking protocol used in the {VMS}
 community. So called because DEC helped write the Ethernet specification and
 then (either stupidly or as a malignant customer-control tactic) violated
 that spec in the design of DRECNET in a way that made it incompatible. see
-also {connector conspiracy}.
+also {connector conspiracy}. driver: n. 1. The {main loop} of an
+event-processing program; the code that gets commands and dispatches them for
+execution. 2. [techspeak] In `device driver', code designed to handle a
+particular peripheral device such as a magnetic disk or tape unit. 3. In the
+TeX general, `driver' also means a program that translates some
+device-independent or other common format to something a real device can
+actually understand. droid: n. A person (esp. a low-level bureaucrat or
+service-business employee) exhibiting most of the following characteristics:
+(a) na"ive trust in the wisdom of the parent organization or `the system';
+(b) a propensity to believe obvious nonsense emitted by authority figures (or
+computers!); blind faith; (c) a rule-governed mentality, one unwilling or
+unable to look beyond the `letter of the law' in exceptional situations; and
+(d) no interest in fixing that which is broken; an "It's not my job, man"
+attitude. Typical droid positions include supermarket checkout assistant and
+bank clerk; the syndrome is also endemic in low-level government employees.
+The implication is that the rules and official procedures constitute software
+that the droid is executing. This becomes a problem when the software has not
+been properly debugged. The term `droid mentality' is also used to describe
+the mindset behind this behavior. Compare {suit}, {marketroid}; see {-oid}.
+drool-proof paper: n. Documentation that has been obsessively {dumbed down},
+to the point where only a {cretin} could bear to read it, is said to have
+succumbed to the `drool-proof paper syndrome' or to have been `written on
+drool-proof paper'. For example, this is an actual quote from Apple's
+LaserWriter manual: "Do not expose your LaserWriter to open fire or flame."
+drop on the floor: vt. To react to an error condition by silently discarding
+messages or other valuable data. "The gateway ran out of memory, so it just
+started dropping packets on the floor." Also frequently used of faulty mail
+and netnews relay sites that lose messages. see also {black hole}, {bit
+bucket}. drop-ins: [prob. by analogy with {drop-outs}] n. Spurious characters
+appearing on a terminal or console as a result of line noise or a system
+malfunction of some sort. Esp. used when these are interspersed with one's
+own typed input. Compare {drop-outs}. drop-outs: n. 1. A variety of `power
+glitch' (see {glitch}); momentary 0 voltage on the electrical mains. 2.
+Missing characters in typed input due to software malfunction or system
+saturation (this can happen under UNIX when a bad connection to a modem
+swamps the processor with spurious character interrupts). 3. Mental glitches;
+used as a way of describing those occasions when the mind just seems to shut
+down for a couple of beats. see {glitch}, {fried}. drugged: adj. (also `on
+drugs') 1. Conspicuously stupid, heading toward {brain-damaged}. Often
+accompanied by a pantomime of toking a joint (but see appendix B). 2. Of
+hardware, very slow relative to normal performance. drunk mouse syndrome: n.
+A malady exhibited by the mouse pointing device of some computers. The
+typical symptom is for the mouse cursor on the screen to move in random
+directions and not in sync with the motion of the actual mouse. Can usually
+be corrected by unplugging the mouse and plugging it back again. Another
+recommended fix for optical mice is to rotate your mouse pad 90 degrees. At
+Xerox PARC in the 1970s, most people kept a can of copier cleaner (isopropyl
+alcohol) at their desks. When the steel ball on the mouse had picked up
+enough {cruft} to be unreliable, the mouse was doused in cleaner, which
+restored it for a while. However, this operation left a fine residue that
+accelerated the accumulation of cruft, so the dousings became more and more
+frequent. Finally, the mouse was declared `alcoholic' and sent to the clinic
+to be dried out in a CFC ultrasonic bath. dumbass attack: /duhm'as *-tak'/
+[Purdue] n. Notional cause of a novice's mistake made by the experienced,
+especially one made while running as root under UNIX, e.g., typing `rm -r *'
+or `mkfs' on a mounted file system. Compare {adger}. dumbed down: adj.
+Simplified, with a strong connotation of *over*simplified. Often, a
+{marketroid} will insist that the interfaces and documentation of software be
+dumbed down after the designer has burned untold gallons of midnight oil
+making it smart. This creates friction. see {user-friendly}. dump: n. 1. An
+undigested and voluminous mass of information about a problem or the state of
+a system, especially one routed to the slowest available output device
+(compare {core dump}), and most especially one consisting of hex or octal
+{runes} describing the byte-by-byte state of memory, mass storage, or some
+file. In {elder days}, debugging was generally done by `groveling over' a
+dump (see {grovel}); increasing use of high-level languages and interactive
+debuggers has made this uncommon, and the term `dump' now has a faintly
+archaic flavor. 2. A backup. This usage is typical only at large timesharing
+installations. dup killer: /d[y]oop kill'r/ [FidoNet] n. Software that is
+supposed to detect and delete duplicates of a message that may have reached
+the FidoNet system via different routes. dup loop: /d[y]oop loop/ (also `dupe
+loop') [FidoNet] n. An incorrectly configured system or network gateway may
+propagate duplicate messages on one or more {echo}es, with different
+identification information that renders {dup killer}s ineffective. If such a
+duplicate message eventually reaches a system through which it has already
+passed (with the original identification information), all systems passed on
+the way back to that system are said to be involved in a {dup loop}. dusty
+deck: n. Old software (especially applications) which one is obliged to
+remain compatible with (or to maintain). The term implies that the software
+in question is a holdover from card-punch days. Used esp. when referring to
+old scientific and {number-crunching} software, much of which was written in
+FORTRAN and very poorly documented but is believed to be too expensive to
+replace. see {fossil}.

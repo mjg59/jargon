@@ -1,6 +1,49 @@
- :CLM: /C-L-M/ [Sun: `Career Limiting Move'] 1. n. An action endangering
-one's future prospects of getting plum projects and raises, and possibly
-one's job: "His Halloween costume was a parody of his manager. He won the
-prize for `best CLM'." 2. adj. Denotes extreme severity of a bug, discovered
-by a customer and obviously missed earlier because of poor testing: "That's a
-CLM bug!"
+ CI$: // n. Hackerism for `CIS', CompuServe Information Service. The dollar
+sign refers to CompuServe's rather steep line charges. Often used in {sig
+block}s just before a CompuServe address. Syn. {Compu$erve}. Classic C:
+/klas'ik C/ [a play on `Coke Classic'] n. The C programming language as
+defined in the first edition of {K&R}, with some small additions. It is also
+known as `K&R C'. The name came into use while C was being standardized by
+the ANSI X3J11 committee. Also `C Classic'. This is sometimes applied
+elsewhere: thus, `X Classic', where X = Star Trek (referring to the original
+TV series) or X = PC (referring to IBM's ISA-bus machines as opposed to the
+PS/2 series). This construction is especially used of product series in which
+the newer versions are considered serious losers relative to the older ones.
+clean: 1. adj. Used of hardware or software designs, implies `elegance in the
+small', that is, a design or implementation that may not hold any surprises
+but does things in a way that is reasonably intuitive and relatively easy to
+comprehend from the outside. The antonym is `grungy' or {crufty}. 2. v. To
+remove unneeded or undesired files in a effort to reduce clutter: "I'm
+cleaning up my account." "I cleaned up the garbage and now have 100 Meg free
+on that partition." CLM: /C-L-M/ [Sun: `Career Limiting Move'] 1. n. An
+action endangering one's future prospects of getting plum projects and
+raises, and possibly one's job: "His Halloween costume was a parody of his
+manager. He won the prize for `best CLM'." 2. adj. Denotes extreme severity
+of a bug, discovered by a customer and obviously missed earlier because of
+poor testing: "That's a CLM bug!" clobber: vt. To overwrite, usually
+unintentionally: "I walked off the end of the array and clobbered the stack."
+Compare {mung}, {scribble}, {trash}, and {smash the stack}. clocks: n.
+Processor logic cycles, so called because each generally corresponds to one
+clock pulse in the processor's timing. The relative execution times of
+instructions on a machine are usually discussed in clocks rather than
+absolute fractions of a second; one good reason for this is that clock speeds
+for various models of the machine may increase as technology improves, and it
+is usually the relative times one is interested in when discussing the
+instruction set. Compare {cycle}. clone: n. 1. An exact duplicate: "Our
+product is a clone of their product." Implies a legal reimplementation from
+documentation or by reverse-engineering. Also connotes lower price. 2. A
+shoddy, spurious copy: "Their product is a clone of our product." 3. A
+blatant ripoff, most likely violating copyright, patent, or trade secret
+protections: "Your product is a clone of my product." This use implies legal
+action is pending. 4. A `PC clone'; a PC-BUS/ISA or EISA-compatible
+80x86-based microcomputer (this use is sometimes spelled `klone' or
+`PClone'). These invariably have much more bang for the buck than the IBM
+archetypes they resemble. 5. In the construction `UNIX clone': An OS designed
+to deliver a UNIX-lookalike environment without UNIX license fees, or with
+additional `mission-critical' features such as support for real-time
+programming. 6. v. To make an exact copy of something. "Let me clone that"
+might mean "I want to borrow that paper so I can make a photocopy" or "Let me
+get a copy of that file before you {mung} it". clover key: [Mac users] n. see
+{command key}. clustergeeking: /kluh'st*r-gee`king/ [CMU] n. Spending more
+time at a computer cluster doing CS homework than most people spend
+breathing.

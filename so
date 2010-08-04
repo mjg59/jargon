@@ -1,5 +1,130 @@
- :SO: /S-O/ n. 1. (also `S.O.') Abbrev. for Significant Other, almost
-invariably written abbreviated and pronounced /S-O/ by hackers. Used to refer
-to one's primary relationship, esp. a live-in to whom one is not married. see
-{MOTAS}, {MOTOS}, {MOTSS}. 2. The Shift Out control character in ASCII
-(Control-N, 0001110).
+ SNAFU principle: /sna'foo prin'si-pl/ [from WWII Army acronym for `Situation
+Normal, All Fucked Up'] n. "True communication is possible only between
+equals, because inferiors are more consistently rewarded for telling their
+superiors pleasant lies than for telling the truth." --- a central tenet of
+{Discordianism}, often invoked by hackers to explain why authoritarian
+hierarchies screw up so reliably and systematically. The effect of the SNAFU
+principle is a progressive disconnection of decision-makers from reality.
+This lightly adapted version of a fable dating back to the early 1960s
+illustrates the phenomenon perfectly: In the beginning was the plan, and then
+the specification; And the plan was without form, and the specification was
+void. And darkness was on the faces of the implementors thereof; And they
+spake unto their leader, saying: "It is a crock of shit, and smells as of a
+sewer." And the leader took pity on them, and spoke to the project leader:
+"It is a crock of excrement, and none may abide the odor thereof." And the
+project leader spake unto his section head, saying: "It is a container of
+excrement, and it is very strong, such that none may abide it." The section
+head then hurried to his department manager, and informed him thus: "It is a
+vessel of fertilizer, and none may abide its strength." The department
+manager carried these words to his general manager, and spoke unto him
+saying: "It containeth that which aideth the growth of plants, and it is very
+strong." And so it was that the general manager rejoiced and delivered the
+good news unto the Vice President. "It promoteth growth, and it is very
+powerful." The Vice President rushed to the President's side, and joyously
+exclaimed: "This powerful new software product will promote the growth of the
+company!" And the President looked upon the product, and saw that it was very
+good. After the subsequent disaster, the {suit}s protect themselves by saying
+"I was misinformed!", and the implementors are demoted or fired. snail: vt.
+To {snail-mail} something. "Snail me a copy of those graphics, will you?"
+snail-mail: n. Paper mail, as opposed to electronic. Sometimes written as the
+single word `SnailMail'. One's postal address is, correspondingly, a `snail
+address'. Derives from earlier coinage `USnail' (from `U.S. Mail'), for which
+there have been parody posters and stamps made. Oppose {email}. snap: v. To
+replace a pointer to a pointer with a direct pointer; to replace an old
+address with the forwarding address found there. If you telephone the main
+number for an institution and ask for a particular person by name, the
+operator may tell you that person's extension before connecting you, in the
+hopes that you will `snap your pointer' and dial direct next time. The
+underlying metaphor may be that of a rubber band stretched through a number
+of intermediate points; if you remove all the thumbtacks in the middle, it
+snaps into a straight line from first to last. see {chase pointers}. Often,
+the behavior of a {trampoline} is to perform an error check once and then
+snap the pointer that invoked it so as henceforth to bypass the trampoline
+(and its one-shot error check). In this context one also speaks of `snapping
+links'. For example, in a Lisp implementation, a function interface
+trampoline might check to make sure that the caller is passing the correct
+number of arguments; if it is, and if the caller and the callee are both
+compiled, then snapping the link allows that particular path to use a direct
+procedure-call instruction with no further overhead. snarf: /snarf/ vt. 1. To
+grab, esp. to grab a large document or file for the purpose of using it with
+or without the author's permission. see also {BLT}. 2. [in the UNIX
+community] To fetch a file or set of files across a network. see also
+{blast}. This term was mainstream in the late 1960s, meaning `to eat
+piggishly'. It may still have this connotation in context. "He's in the
+snarfing phase of hacking --- {FTP}ing megs of stuff a day." 3. To acquire,
+with little concern for legal forms or politesse (but not quite by stealing).
+"They were giving away samples, so I snarfed a bunch of them." 4. Syn. for
+{slurp}. "This program starts by snarfing the entire database into core,
+then...." snarf & barf: /snarf'n-barf`/ n. Under a {WIMP environment}, the
+act of grabbing a region of text and then stuffing the contents of that
+region into another region (or the same one) to avoid retyping a command
+line. In the late 1960s, this was a mainstream expression for an `eat now,
+regret it later' cheap-restaurant expedition. snarf down: v. To {snarf}, with
+the connotation of absorbing, processing, or understanding. "I'll snarf down
+the latest version of the {nethack} user's guide --- It's been a while since
+I played last and I don't know what's changed recently." snark: [Lewis
+Carroll, via the Michigan Terminal System] n. 1. A system failure. When a
+user's process bombed, the operator would get the message "Help, Help, Snark
+in MTS!" 2. More generally, any kind of unexplained or threatening event on a
+computer (especially if it might be a boojum). Often used to refer to an
+event or a log file entry that might indicate an attempted security
+violation. see {snivitz}. 3. UUCP name of snark.thyrsus.com, home site of the
+Jargon File 2.*.* versions (i.e., this lexicon). sneakernet: /snee'ker-net/
+n. Term used (generally with ironic intent) for transfer of electronic
+information by physically carrying tape, disks, or some other media from one
+machine to another. "Never underestimate the bandwidth of a station wagon
+filled with magtape, or a 747 filled with CD-ROMs." Also called `Tennis-Net',
+`Armpit-Net', `Floppy-Net'. sniff: v.,n. Synonym for {poll}. snivitz:
+/sniv'itz/ n. A hiccup in hardware or software; a small, transient problem of
+unknown origin (less serious than a {snark}). Compare {glitch}. SO: /S-O/ n.
+1. (also `S.O.') Abbrev. for Significant Other, almost invariably written
+abbreviated and pronounced /S-O/ by hackers. Used to refer to one's primary
+relationship, esp. a live-in to whom one is not married. see {MOTAS},
+{MOTOS}, {MOTSS}. 2. The Shift Out control character in ASCII (Control-N,
+0001110). social science number: [IBM] n. A statistic that is {content-free},
+or nearly so. A measure derived via methods of questionable validity from
+data of a dubious and vague nature. Predictively, having a social science
+number in hand is seldom much better than nothing, and can be considerably
+worse. {Management} loves them. see also {numbers}, {math-out}, {pretty
+pictures}. soft boot: n. see {boot}. softcopy: /soft'ko-pee/ n. [by analogy
+with `hardcopy'] A machine-readable form of corresponding hardcopy. see
+{bits}, {machinable}. software bloat: n. The results of {second-system
+effect} or {creeping featuritis}. Commonly cited examples include `ls(1)',
+{X}, {BSD}, {Missed'em-five}, and {OS/2}. software rot: n. Term used to
+describe the tendency of software that has not been used in a while to
+{lose}; such failure may be semi-humorously ascribed to {bit rot}. More
+commonly, `software rot' strikes when a program's assumptions become out of
+date. If the design was insufficiently {robust}, this may cause it to fail in
+mysterious ways. For example, owing to endemic shortsightedness in the design
+of COBOL programs, most will succumb to software rot when their 2-digit year
+counters {wrap around} at the beginning of the year 2000. Actually, related
+lossages often afflict centenarians who have to deal with computer software
+designed by unimaginative clods. One such incident became the focus of a
+minor public flap in 1990, when a gentleman born in 1889 applied for a
+driver's license renewal in Raleigh, North Carolina. The new system refused
+to issue the card, probably because with 2-digit years the ages 101 and 1
+cannot be distinguished. Historical note: Software rot in an even funnier
+sense than the mythical one was a real problem on early research computers
+(e.g., the R1; see {grind crank}). If a program that depended on a peculiar
+instruction hadn't been run in quite a while, the user might discover that
+the opcodes no longer did the same things they once did. ("Hey, so-and-so
+needs an instruction to do such-and-such. We can {snarf} this opcode, right?
+No one uses it.") Another classic example of this sprang from the time an MIT
+hacker found a simple way to double the speed of the unconditional jump
+instruction on a PDP-6, so he patched the hardware. Unfortunately, this broke
+some fragile timing software in a music-playing program, throwing its output
+out of tune. This was fixed by adding a defensive initialization routine to
+compare the speed of a timing loop with the real-time clock; in other words,
+it figured out how fast the PDP-6 was that day, and corrected appropriately.
+Compare {bit rot}. softwarily: /soft-weir'i-lee/ adv. In a way pertaining to
+software. "The system is softwarily unreliable." The adjective `softwary' is
+*not* used. see {hardwarily}. softy: [IBM] n. Hardware hackers' term for a
+software expert who is largely ignorant of the mysteries of hardware. some
+random X: adj. Used to indicate a member of class X, with the implication
+that Xs are interchangeable. "I think some random cracker tripped over the
+guest timeout last night." see also {J. Random}. sorcerer's apprentice mode:
+[from the film "Fantasia"] n. A bug in a protocol where, under some
+circumstances, the receipt of a message causes multiple messages to be sent,
+each of which, when received, triggers the same bug. Used esp. of such
+behavior caused by {bounce message} loops in {email} software. Compare
+{broadcast storm}, {network meltdown}.

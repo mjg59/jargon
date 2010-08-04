@@ -1,1 +1,134 @@
- :TOPS-20:: /tops-twen'tee/ n. see {{TWENEX}}.
+ TOPS-20:: /tops-twen'tee/ n. see {{TWENEX}}. toto: /toh'toh/ n. This is
+reported to be the default scratch file name among French-speaking
+programmers --- in other words, a francophone {foo}. tourist: [ITS] n. A
+guest on the system, especially one who generally logs in over a network from
+a remote location for {comm mode}, email, games, and other trivial purposes.
+One step below {luser}. Hackers often spell this {turist}, perhaps by some
+sort of tenuous analogy with {luser} (this also expresses the ITS culture's
+penchant for six-letterisms). Compare {twink}, {read-only user}. tourist
+information: n. Information in an on-line display that is not immediately
+useful, but contributes to a viewer's gestalt of what's going on with the
+software or hardware behind it. Whether a given piece of info falls in this
+category depends partly on what the user is looking for at any given time.
+The `bytes free' information at the bottom of an MS-DOS `dir' display is
+tourist information; so (most of the time) is the TIME information in a UNIX
+`ps(1)' display. touristic: adj. Having the quality of a {tourist}. Often
+used as a pejorative, as in `losing touristic scum'. Often spelled `turistic'
+or `turistik', so that phrase might be more properly rendered `lusing
+turistic scum'. toy: n. A computer system; always used with qualifiers. 1.
+`nice toy': One that supports the speaker's hacking style adequately. 2.
+`just a toy': A machine that yields insufficient {computron}s for the
+speaker's preferred uses. This is not condemnatory, as is {bitty box}; toys
+can at least be fun. It is also strongly conditioned by one's expectations;
+Cray XMP users sometimes consider the Cray-1 a `toy', and certainly all RISC
+boxes and mainframes are toys by their standards. see also {Get a real
+computer!}. toy language: n. A language useful for instructional purposes or
+as a proof-of-concept for some aspect of computer-science theory, but
+inadequate for general-purpose programming. {Bad Thing}s can result when a
+toy language is promoted as a general purpose solution for programming (see
+{bondage-and-discipline language}); the classic example is {{Pascal}}.
+Several moderately well-known formalisms for conceptual tasks such as
+programming Turing machines also qualify as toy languages in a less negative
+sense. see also {MFTL}. toy problem: [AI] n. A deliberately oversimplified
+case of a challenging problem used to investigate, prototype, or test
+algorithms for a real problem. Sometimes used pejoratively. see also
+{gedanken}, {toy program}. toy program: n. 1. One that can be readily
+comprehended; hence, a trivial program (compare {noddy}). 2. One for which
+the effort of initial coding dominates the costs through its life cycle. see
+also {noddy}. trampoline: n. An incredibly {hairy} technique, found in some
+{HLL} and program-overlay implementations (e.g., on the Macintosh), that
+involves on-the-fly generation of small executable (and, likely as not,
+self-modifying) code objects to do indirection between code sections. These
+pieces of {live data} are called `trampolines'. Trampolines are notoriously
+difficult to understand in action; in fact, it is said by those who use this
+term that the trampoline that doesn't bend your brain is not the true
+trampoline. see also {snap}. trap: 1. n. A program interrupt, usually an
+interrupt caused by some exceptional situation in the user program. In most
+cases, the OS performs some action, then returns control to the program. 2.
+vi. To cause a trap. "These instructions trap to the monitor." Also used
+transitively to indicate the cause of the trap. "The monitor traps all
+input/output instructions." This term is associated with assembler
+programming (`interrupt' or `exception' is more common among {HLL}
+programmers) and appears to be fading into history among programmers as the
+role of assembler continues to shrink. However, it is still important to
+computer architects and systems hackers (see {system}, sense 1), who use it
+to distinguish deterministically repeatable exceptions from timing-dependent
+ones (such as I/O interrupts). trap door: alt. `trapdoor' n. 1. Syn. {back
+door}. 2. [techspeak] A `trap-door function' is one which is easy to compute
+but very difficult to compute the inverse of. Such functions have important
+applications in cryptography, specifically in the construction of public-key
+cryptosystems. trash: vt. To destroy the contents of (said of a data
+structure). The most common of the family of near-synonyms including {mung},
+{mangle}, and {scribble}. tree-killer: [Sun] n. 1. A printer. 2. A person who
+wastes paper. This should be interpreted in a broad sense; `wasting paper'
+includes the production of {spiffy} but {content-free} documents. Thus, most
+{suit}s are tree-killers. trit: /trit/ [by analogy with `bit'] n. One base-3
+digit; the amount of information conveyed by a selection among one of three
+equally likely outcomes (see also {bit}). These arise, for example, in the
+context of a {flag} that should actually be able to assume *three* values ---
+such as yes, no, or unknown. Trits are sometimes jokingly called `3-state
+bits'. A trit may be semi-seriously referred to as `a bit and a half',
+although it is linearly equivalent to 1.5849625 bits (that is, log2(3) bits).
+trivial: adj. 1. Too simple to bother detailing. 2. Not worth the speaker's
+time. 3. Complex, but solvable by methods so well known that anyone not
+utterly {cretinous} would have thought of them already. 4. Any problem one
+has already solved (some claim that hackish `trivial' usually evaluates to
+`I've seen it before'). Hackers' notions of triviality may be quite at
+variance with those of non-hackers. see {nontrivial}, {uninteresting}.
+troglodyte: [Commodore] n. 1. A hacker who never leaves his cubicle. The term
+`Gnoll' (from Dungeons & Dragons) is also reported. 2. A curmudgeon attached
+to an obsolescent computing environment. The combination `ITS troglodyte' was
+flung around some during the USENET and email wringle-wrangle attending the
+2.x.x revision of the Jargon File; at least one of the people it was intended
+to describe adopted it with pride. troglodyte mode: [Rice University] n.
+Programming with the lights turned off, sunglasses on, and the terminal
+inverted (black on white) because you've been up for so many days straight
+that your eyes hurt (see {raster burn}). Loud music blaring from a stereo
+stacked in the corner is optional but recommended. see {larval stage}, {hack
+mode}. Trojan horse: [coined by MIT-hacker-turned-NSA-spook Dan Edwards] n. A
+program designed to break security or damage a system that is disguised as
+something else benign, such as a directory lister, archiver, a game, or (in
+one notorious 1990 case on the Mac) a program to find and destroy viruses!
+see {back door}, {virus}, {worm}. true-hacker: [analogy with `trufan' from SF
+fandom] n. One who exemplifies the primary values of hacker culture, esp.
+competence and helpfulness to other hackers. A high compliment. "He spent 6
+hours helping me bring up UUCP and netnews on my FOOBAR 4000 last week ---
+manifestly the act of a true-hacker." Compare {demigod}, oppose {munchkin}.
+tty: /T-T-Y/ [UNIX], /tit'ee/ [ITS, but some UNIX people say it this way as
+well; this pronunciation is not considered to have sexual undertones] n. 1. A
+terminal of the teletype variety, characterized by a noisy mechanical
+printer, a very limited character set, and poor print quality. Usage:
+antiquated (like the TTYs themselves). see also {bit-paired keyboard}. 2.
+[especially UNIX] Any terminal at all; sometimes used to refer to the
+particular terminal controlling a given job. tube: 1. n. A CRT terminal.
+Never used in the mainstream sense of TV; real hackers don't watch TV, except
+for Loony Toons, Rocky & Bullwinkle, Trek Classic, the Simpsons, and the
+occasional cheesy old swashbuckler movie (see appendix B). 2. [IBM] To send a
+copy of something to someone else's terminal. "Tube me that note?" tube time:
+n. Time spent at a terminal or console. More inclusive than hacking time;
+commonly used in discussions of what parts of one's environment one uses most
+heavily. "I find I'm spending too much of my tube time reading mail since I
+started this revision." tunafish: n. In hackish lore, refers to the mutated
+punchline of an age-old joke to be found at the bottom of the manual pages of
+`tunefs(8)' in the original {BSD} 4.2 distribution. The joke was removed in
+later releases once commercial sites started developing in 4.2. Tunefs
+relates to the `tuning' of file-system parameters for optimum performance,
+and at the bottom of a few pages of wizardly inscriptions was a `BUGS'
+section consisting of the line "You can tune a file system, but you can't
+tunafish". Variants of this can be seen in other BSD versions, though it has
+been excised from some versions by humorless management {droid}s. The
+[nt]roff source for SunOS 4.1.1 contains a comment apparently designed to
+prevent this: "Take this out and a Unix Demon will dog your steps from now
+until the `time_t"s wrap around." tune: [from automotive or musical usage]
+vt. To optimize a program or system for a particular environment, esp. by
+adjusting numerical parameters designed as {hook}s for tuning, e.g., by
+changing `#define' lines in C. One may `tune for time' (fastest execution),
+`tune for space' (least memory use), or `tune for configuration' (most
+efficient use of hardware). see {bum}, {hot spot}, {hand-hacking}. turbo
+nerd: n. see {computer geek}. turist: /too'rist/ n. Var. sp. of {tourist},
+q.v. Also in adjectival form, `turistic'. Poss. influenced by {luser} and
+`Turing'. tweak: vt. 1. To change slightly, usually in reference to a value.
+Also used synonymously with {twiddle}. If a program is almost correct, rather
+than figure out the precise problem you might just keep tweaking it until it
+works. see {frobnicate} and {fudge factor}; also see {shotgun debugging}. 2.
+To {tune} or {bum} a program; preferred usage in the U.K.

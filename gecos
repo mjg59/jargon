@@ -1,1 +1,72 @@
- :GECOS:: /jee'kohs/ n. see {{GCOS}}.
+ GECOS:: /jee'kohs/ n. see {{GCOS}}. gedanken: /g*-don'kn/ adj. Ungrounded;
+impractical; not well-thought-out; untried; untested. `Gedanken' is a German
+word for `thought'. A thought experiment is one you carry out in your head.
+In physics, the term `gedanken experiment' is used to refer to an experiment
+that is impractical to carry out, but useful to consider because you can
+reason about it theoretically. (A classic gedanken experiment of relativity
+theory involves thinking about a man in an elevator accelerating through
+space.) Gedanken experiments are very useful in physics, but you have to be
+careful. It's too easy to idealize away some important aspect of the real
+world in contructing your `apparatus'. Among hackers, accordingly, the word
+has a pejorative connotation. It is said of a project, especially one in
+artificial intelligence research, that is written up in grand detail
+(typically as a Ph.D. thesis) without ever being implemented to any great
+extent. Such a project is usually perpetrated by people who aren't very good
+hackers or find programming distasteful or are just in a hurry. A `gedanken
+thesis' is usually marked by an obvious lack of intuition about what is
+programmable and what is not, and about what does and does not constitute a
+clear specification of an algorithm. see also {AI-complete}, {DWIM}. geef: v.
+[ostensibly from `gefingerpoken'] vt. Syn. {mung}. see also {blinkenlights}.
+geek out: vi. To temporarily enter techno-nerd mode while in a non-hackish
+context, for example at parties held near computer equipment. Especially used
+when you need to do something highly technical and don't have time to
+explain: "Pardon me while I geek out for a moment." see {computer geek}. gen:
+/jen/ n.,v. Short for {generate}, used frequently in both spoken and written
+contexts. gender mender: n. A cable connector shell with either two male or
+two female connectors on it, used to correct the mismatches that result when
+some {loser} didn't understand the RS232C specification and the distinction
+between DTE and DCE. Used esp. for RS-232C parts in either the original D-25
+or the IBM PC's bogus D-9 format. Also called `gender bender', `gender
+blender', `sex changer', and even `homosexual adapter'; however, there
+appears to be some confusion as to whether a `male homosexual adapter' has
+pins on both sides (is male) or sockets on both sides (connects two males).
+General Public Virus: n. Pejorative name for some versions of the {GNU}
+project {copyleft} or General Public License (GPL), which requires that any
+tools or {app}s incorporating copylefted code must be source-distributed on
+the same counter-commercial terms as GNU stuff. Thus it is alleged that the
+copyleft `infects' software generated with GNU tools, which may in turn
+infect other software that reuses any of its code. The Free Software
+Foundation's official position as of January 1991 is that copyright law
+limits the scope of the GPL to "programs textually incorporating significant
+amounts of GNU code", and that the `infection' is not passed on to third
+parties unless actual GNU source is transmitted (as in, for example, use of
+the Bison parser skeleton). Nevertheless, widespread suspicion that the
+{copyleft} language is `boobytrapped' has caused many developers to avoid
+using GNU tools and the GPL. Recent (July 1991) changes in the language of
+the version 2.00 language may eliminate this problem. generate: vt. To
+produce something according to an algorithm or program or set of rules, or as
+a (possibly unintended) side effect of the execution of an algorithm or
+program. The opposite of {parse}. This term retains its mechanistic
+connotations (though often humorously) when used of human behavior. "The guy
+is rational most of the time, but mention nuclear energy around him and he'll
+generate {infinite} flamage." gensym: /jen'sim/ [from MacLISP for `generated
+symbol'] 1. v. To invent a new name for something temporary, in such a way
+that the name is almost certainly not in conflict with one already in use. 2.
+n. The resulting name. The canonical form of a gensym is `Gnnnn' where nnnn
+represents a number; any LISP hacker would recognize G0093 (for example) as a
+gensym. 3. A freshly generated data structure with a gensymmed name. These
+are useful for storing or uniquely identifying crufties (see {cruft}). Get a
+life!: imp. Hacker-standard way of suggesting that the person to whom you are
+speaking has succumbed to terminal geekdom (see {computer geek}). Often heard
+on {USENET}, esp. as a way of suggesting that the target is taking some
+obscure issue of {theology} too seriously. This exhortation was popularized
+by William Shatner on a "Saturday Night Live" episode in a speech that ended
+"Get a *life*!", but some respondents believe it to have been in use before
+then. Get a real computer!: imp. Typical hacker response to news that
+somebody is having trouble getting work done on a system that (a) is
+single-tasking, (b) has no hard disk, or (c) has an address space smaller
+than 4 megabytes. This is as of mid-1991; note that the threshold for `real
+computer' rises with time, and it may well be (for example) that machines
+with character-only displays will be generally considered `unreal' in a few
+years (GLS points out that they already are in some circles). see
+{essentials}, {bitty box}, and {toy}.

@@ -1,5 +1,32 @@
- :DEADBEEF: /ded-beef/ n. The hexadecimal word-fill pattern for freshly
+ DEADBEEF: /ded-beef/ n. The hexadecimal word-fill pattern for freshly
 allocated memory (decimal -21524111) under a number of IBM environments,
 including the RS/6000. As in "Your program is DEADBEEF" (meaning gone,
 aborted, flushed from memory); if you start from an odd half-word boundary,
-of course, you have BEEFDEAD.
+of course, you have BEEFDEAD. deadlock: n. 1. [techspeak] A situation wherein
+two or more processes are unable to proceed because each is waiting for one
+of the others to do something. A common example is a program communicating to
+a server, which may find itself waiting for output from the server before
+sending anything more to it, while the server is similarly waiting for more
+input from the controlling program before outputting anything. (It is
+reported that this particular flavor of deadlock is sometimes called a
+`starvation deadlock', though the term `starvation' is more properly used for
+situations where a program can never run simply because it never gets high
+enough priority. Another common flavor is `constipation', where each process
+is trying to send stuff to the other but all buffers are full because nobody
+is reading anything.) see {deadly embrace}. 2. Also used of deadlock-like
+interactions between humans, as when two people meet in a narrow corridor,
+and each tries to be polite by moving aside to let the other pass, but they
+end up swaying from side to side without making any progress because they
+always both move the same way at the same time. deadly embrace: n. Same as
+{deadlock}, though usually used only when exactly 2 processes are involved.
+This is the more popular term in Europe, while {deadlock} predominates in the
+United States. Death Star: [from the movie "Star Wars"] 1. The AT&T corporate
+logo, which appears on computers sold by AT&T and bears an uncanny
+resemblance to the `Death Star' in the movie. This usage is particularly
+common among partisans of {BSD} UNIX, who tend to regard the AT&T versions as
+inferior and AT&T as a bad guy. Copies still circulate of a poster printed by
+Mt. Xinu showing a starscape with a space fighter labeled 4.2 BSD streaking
+away from a broken AT&T logo wreathed in flames. 2. AT&T's internal magazine,
+`Focus', uses `death star' for an incorrectly done AT&T logo in which the
+inner circle in the top left is dark instead of light --- a frequent result
+of dark-on-light logo images.

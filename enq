@@ -1,4 +1,4 @@
- :ENQ: /enkw/ or /enk/ [from the ASCII mnemonic ENQuire for 0000101] An
+ ENQ: /enkw/ or /enk/ [from the ASCII mnemonic ENQuire for 0000101] An
 on-line convention for querying someone's availability. After opening a {talk
 mode} connection to someone apparently in heavy hack mode, one might type
 `SYN SYN ENQ?' (the SYNs representing notional synchronization bytes), and

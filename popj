@@ -1,3 +1,27 @@
- :POPJ: /pop'J/ [from a {PDP-10} return-from-subroutine instruction] n.,v. To
+ POPJ: /pop'J/ [from a {PDP-10} return-from-subroutine instruction] n.,v. To
 return from a digression. By verb doubling, "Popj, popj" means roughly "Now
-let's see, where were we?" see {RTI}.
+let's see, where were we?" see {RTI}. posing: n. On a {MUD}, the use of `:'
+or an equivalent command to announce to other players that one is taking a
+certain physical action that has no effect on the game (it may, however,
+serve as a social signal or propaganda device that induces other people to
+take game actions). For example, if one's character name is Firechild, one
+might type `: looks delighted at the idea and begins hacking on the nearest
+terminal' to broadcast a message that says "Firechild looks delighted at the
+idea and begins hacking on the nearest terminal". see {RL}. post: v. To send
+a message to a {mailing list} or {newsgroup}. Distinguished in context from
+`mail'; one might ask, for example: "Are you going to post the patch or mail
+it to known users?" posting: n. Noun corresp. to v. {post} (but note that
+{post} can be nouned). Distinguished from a `letter' or ordinary {email}
+message by the fact that it is broadcast rather than point-to-point. It is
+not clear whether messages sent to a small mailing list are postings or
+email; perhaps the best dividing line is that if you don't know the names of
+all the potential recipients, it is a posting. postmaster: n. The email
+contact and maintenance person at a site connected to the Internet or
+UUCPNET. Often, but not always, the same as the {admin}. It is conventional
+for each machine to have a `postmaster' address that is aliased to this
+person. pound on: vt. Syn. {bang on}. power cycle: vt. (also, `cycle power'
+or just `cycle') To power off a machine and then power it on immediately,
+with the intention of clearing some kind of {hung} or {gronk}ed state. Syn.
+{120 reset}; see also {Big Red Switch}. Compare {Vulcan nerve pinch},
+{bounce}, and {boot}, and see the AI Koan in appendix A about Tom Knight and
+the novice.

@@ -1,4 +1,4 @@
- :INTERCAL: /in't*r-kal/ [said by the authors to stand for `Compiler Language
+ INTERCAL: /in't*r-kal/ [said by the authors to stand for `Compiler Language
 With No Pronounceable Acronym'] n. A computer language designed by Don Woods
 and James Lyon in 1972. INTERCAL is purposely different from all other
 computer languages in all ways but one; it is purely a written language,
@@ -16,4 +16,62 @@ Woods-Lyons implementation was actually used by many (well, at least several)
 people at Princeton. The language has been recently reimplemented as
 C-INTERCAL and is consequently enjoying an unprecedented level of
 unpopularity; there is even an alt.lang.intercal newsgroup devoted to the
-study and ... appreciation of the language on USENET.
+study and ... appreciation of the language on USENET. interesting: adj. In
+hacker parlance, this word has strong connotations of `annoying', or
+`difficult', or both. Hackers relish a challenge, and enjoy wringing all the
+irony possible out of the ancient Chinese curse "May you live in interesting
+times". Oppose {trivial}, {uninteresting}. Internet address:: n. 1.
+[techspeak] An absolute network address of the form foo@bar.baz, where foo is
+a user name, bar is a {sitename}, and baz is a `domain' name, possibly
+including periods itself. Contrast with {bang path}; see also {network, the}
+and {network address}. All Internet machines and most UUCP sites can now
+resolve these addresses, thanks to a large amount of behind-the-scenes magic
+and PD software written since 1980 or so. see also {bang path}, {domainist}.
+2. More loosely, any network address reachable through Internet; this
+includes {bang path} addresses and some internal corporate and government
+networks. Reading Internet addresses is something of an art. Here are the
+four most important top-level functional Internet domains followed by a
+selection of geographical domains: com commercial organizations edu
+educational institutions gov U.S. government civilian sites mil U.S. military
+sites Note that most of the sites in the com and edu domains are in the U.S.
+or Canada. us sites in the U.S. outside the functional domains su sites in
+the Soviet Union (see {kremvax}). uk sites in the United Kingdom Within the
+us domain, there are subdomains for the fifty states, each generally with a
+name identical to the state's postal abbreviation. Within the uk domain,
+there is an ac subdomain for academic sites and a co domain for commercial
+ones. Other top-level domains may be divided up in similar ways. interrupt:
+1. [techspeak] n. On a computer, an event that interrupts normal processing
+and temporarily diverts flow-of-control through an "interrupt handler"
+routine. see also {trap}. 2. interj. A request for attention from a hacker.
+Often explicitly spoken. "Interrupt --- have you seen Joe recently?" see
+{priority interrupt}. 3. Under MS-DOS, the term `interrupt' is nearly
+synonymous with `system call', because the OS and BIOS routines are both
+called using the INT instruction (see {{interrupt list, the}}) and because
+programmers so often have to bypass the OS (going directly to a BIOS
+interrupt) to get reasonable performance. interrupt list, the:: [MS-DOS] n.
+The list of all known software interrupt calls (both documented and
+undocumented) for IBM PCs and compatibles, maintained and made available for
+free redistribution by Ralf Brown (ralf@cs.cmu.edu). As of early 1991, it had
+grown to approximately a megabyte in length. interrupts locked out: When
+someone is ignoring you. In a restaurant, after several fruitless attempts to
+get the waitress's attention, a hacker might well observe "She must have
+interrupts locked out". The synonym `interrupts disabled' is also common.
+Variations of this abound; "to have one's interrupt mask bit set" or
+"interrupts masked out" is also heard. see also {spl}. iron: n. Hardware,
+especially older and larger hardware of {mainframe} class with big metal
+cabinets housing relatively low-density electronics (but the term is also
+used of modern supercomputers). Often in the phrase {big iron}. Oppose
+{silicon}. see also {dinosaur}. Iron Age: n. In the history of computing,
+1961--1971 --- the formative era of commercial {mainframe} technology, when
+{big iron} {dinosaur}s ruled the earth. These began with the delivery of the
+first PDP-1, coincided with the dominance of ferrite {core}, and ended with
+the introduction of the first commercial microprocessor (the Intel 4004) in
+1971. see also {Stone Age}; compare {elder days}. iron box: [UNIX/Internet]
+n. A special environment set up to trap a {cracker} logging in over remote
+connections long enough to be traced. May include a modified {shell}
+restricting the hacker's movements in unobvious ways, and `bait' files
+designed to keep him interested and logged on. see also {back door},
+{firewall machine}, {Venus flytrap}, and Clifford Stoll's account in `The
+Cuckoo's Egg' of how he made and used one (see the Bibliography). Compare
+{padded cell}. ironmonger: [IBM] n. Derogatory. A hardware specialist.
+Compare {sandbender}, {polygon pusher}.

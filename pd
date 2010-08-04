@@ -1,5 +1,18 @@
- :PD: /P-D/ adj. Common abbreviation for `public domain', applied to software
-distributed over {USENET} and from Internet archive sites. Much of this
-software is not in fact public domain in the legal sense but travels under
-various copyrights granting reproduction and use rights to anyone who can
-{snarf} a copy. see {copyleft}.
+ PC-ism: /P-C-izm/ n. A piece of code or coding technique that takes
+advantage of the unprotected single-tasking environment in IBM PCs and the
+like, e.g., by busy-waiting on a hardware register, direct diddling of screen
+memory, or using hard timing loops. Compare {ill-behaved}, {vaxism},
+{unixism}. Also, `PC-ware' n., a program full of PC-isms on a machine with a
+more capable operating system. Pejorative. PD: /P-D/ adj. Common abbreviation
+for `public domain', applied to software distributed over {USENET} and from
+Internet archive sites. Much of this software is not in fact public domain in
+the legal sense but travels under various copyrights granting reproduction
+and use rights to anyone who can {snarf} a copy. see {copyleft}. pdl: /pid'l/
+or /puhd'l/ [acronym for `Push Down List'] 1. In ITS days, the preferred
+MITism for {stack}. 2. Dave Lebling, one of the co-authors of {Zork}; (his
+{network address} on the ITS machines was at one time pdl@dms). 3. `Program
+Design Language'. Any of a large class of formal and profoundly useless
+pseudo-languages in which {management} forces one to design programs.
+{Management} often expects it to be maintained in parallel with the code. see
+also {{flowchart}}. 4. To design using a program design language. "I've been
+pdling so long my eyes won't focus beyond 2 feet."

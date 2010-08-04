@@ -1,4 +1,4 @@
- :MEGO: /me'goh/ or /mee'goh/ [`My Eyes Glaze Over', often `Mine Eyes Glazeth
+ MEGO: /me'goh/ or /mee'goh/ [`My Eyes Glaze Over', often `Mine Eyes Glazeth
 (sic) Over', attributed to the futurologist Herman Kahn] Also `MEGO factor'.
 1. n. A {handwave} intended to confuse the listener and hopefully induce
 agreement because the listener does not want to admit to not understanding
@@ -7,4 +7,54 @@ and contains a high proportion of {TLA}s. 2. excl. An appropriate response to
 MEGO tactics. 3. Among non-hackers this term often refers not to behavior
 that causes the eyes to glaze, but to the eye-glazing reaction itself, which
 may be triggered by the mere threat of technical detail as effectively as by
-an actual excess of it.
+an actual excess of it. meltdown, network: n. see {network meltdown}. meme:
+/meem/ [coined on analogy with `gene' by Richard Dawkins] n. An idea
+considered as a {replicator}, esp. with the connotation that memes parasitize
+people into propagating them much as viruses do. Used esp. in the phrase
+`meme complex' denoting a group of mutually supporting memes that form an
+organized belief system, such as a religion. This lexicon is an
+(epidemiological) vector of the `hacker subculture' meme complex; each entry
+might be considered a meme. However, `meme' is often misused to mean `meme
+complex'. Use of the term connotes acceptance of the idea that in humans (and
+presumably other tool- and language-using sophonts) cultural evolution by
+selection of adaptive ideas has superseded biological evolution by selection
+of hereditary traits. Hackers find this idea congenial for tolerably obvious
+reasons. meme plague: n. The spread of a successful but pernicious {meme},
+esp. one that parasitizes the victims into giving their all to propagate it.
+Astrology, BASIC, and the other guy's religion are often considered to be
+examples. This usage is given point by the historical fact that `joiner'
+ideologies like Naziism or various forms of millennarian Christianity have
+exhibited plague-like cycles of exponential growth followed by collapses to
+small reservoir populations. memetics: /me-met'iks/ [from {meme}] The study
+of memes. As of mid-1991, this is still an extremely informal and speculative
+endeavor, though the first steps towards at least statistical rigor have been
+made by H. Keith Henson and others. Memetics is a popular topic for
+speculation among hackers, who like to see themselves as the architects of
+the new information ecologies in which memes live and replicate. memory leak:
+n. An error in a program's dynamic-store allocation logic that causes it to
+fail to reclaim discarded memory, leading to eventual collapse due to memory
+exhaustion. Also (esp. at CMU) called {core leak}. see {aliasing bug},
+{fandango on core}, {smash the stack}, {precedence lossage}, {overrun screw},
+{leaky heap}, {leak}. menuitis: /men`yoo-i:'tis/ n. Notional disease suffered
+by software with an obsessively simple-minded menu interface and no escape.
+Hackers find this intensely irritating and much prefer the flexibility of
+command-line or language-style interfaces, especially those customizable via
+macros or a special-purpose language in which one can encode useful hacks.
+see {user-obsequious}, {drool-proof paper}, {WIMP environment}, {for the rest
+of us}. mess-dos: /mes-dos/ n. Derisory term for MS-DOS. Often followed by
+the ritual banishing "Just say No!" see {{MS-DOS}}. Most hackers (even many
+MS-DOS hackers) loathe MS-DOS for its single-tasking nature, its limits on
+application size, its nasty primitive interface, and its ties to IBMness (see
+{fear and loathing}). Also `mess-loss', `messy-dos', `mess-dog',
+`mess-dross', `mush-dos', and various combinations thereof. In Ireland and
+the U.K. it is even sometimes called `Domestos' after a brand of toilet
+cleanser. meta: /me't*/ or /may't*/ or (Commonwealth) /mee't*/ [from analytic
+philosophy] adj.,pref. One level of description up. A meta-syntactic variable
+is a variable in notation used to describe syntax, and meta-language is
+language used to describe language. This is difficult to explain briefly, but
+much hacker humor turns on deliberate confusion between meta-levels. see
+{{Humor, Hacker}}. meta bit: n. The top bit of an 8-bit character, which is
+on in character values 128--255. Also called {high bit}, {alt bit}, or
+{hobbit}. Some terminals and consoles (see {space-cadet keyboard}) have a
+META shift key. Others (including, *mirabile dictu*, keyboards on IBM
+PC-class machines) have an ALT key. see also {bucky bits}.

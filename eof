@@ -1,11 +1,8 @@
- :EOF: /E-O-F/ [abbreviation, `End Of File'] n. 1. [techspeak] The
-{out-of-band} value returned by C's sequential character-input functions (and
-their equivalents in other environments) when end of file has been reached.
-This value is -1 under C libraries postdating V6 UNIX, but was originally 0.
-2. [UNIX] The keyboard character (usually control-D, the ASCII EOT (End Of
-Transmission) character) that is mapped by the terminal driver into an
-end-of-file condition. 3. Used by extension in non-computer contexts when a
-human is doing something that can be modeled as a sequential read and can't
-go further. "Yeah, I looked for a list of 360 mnemonics to post as a joke,
-but I hit EOF pretty fast; all the library had was a {JCL} manual." see also
-{EOL}.
+ EOF: /E-O-F/ [acronym, `End Of File'] n. 1. [techspeak] Refers esp. to
+whatever {out-of-band} value is returned by C's sequential character-input
+functions (and their equivalents in other environments) when end of file has
+been reached. This value is -1 under C libraries postdating V6 UNIX, but was
+originally 0. 2. Used by extension in non-computer contexts when a human is
+doing something that can be modeled as a sequential read and can't go
+further. "Yeah, I looked for a list of 360 mnemonics to post as a joke, but I
+hit EOF pretty fast; all the library had was a {JCL} manual." see also {EOL}.

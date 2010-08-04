@@ -1,4 +1,26 @@
- :NMI: /N-M-I/ n. Non-Maskable Interrupt. An IRQ 7 on the PDP-11 or
-680[01234]0; the NMI line on an 80[1234]86. In contrast with a {priority
+ NMI: /N-M-I/ n. Non-Maskable Interrupt. An IRQ 7 on the PDP-11 or
+680[01234]0; the NMI line on an 80{88,[1234]}86. In contrast with a {priority
 interrupt} (which might be ignored, although that is unlikely), an NMI is
-*never* ignored.
+*never* ignored. no-op: /noh'op/ alt. NOP /nop/ [no operation] n. 1. (also
+v.) A machine instruction that does nothing (sometimes used in
+assembler-level programming as filler for data or patch areas, or to
+overwrite code to be removed in binaries). see also {JFCL}. 2. A person who
+contributes nothing to a project, or has nothing going on upstairs, or both.
+As in "He's a no-op." 3. Any operation or sequence of operations with no
+effect, such as circling the block without finding a parking space, or
+putting money into a vending machine and having it fall immediately into the
+coin-return box, or asking someone for help and being told to go away. "Oh,
+well, that was a no-op." Hot-and-sour soup (see {great-wall}) that is
+insufficiently either is `no-op soup'; so is wonton soup if everybody else is
+having hot-and-sour. noddy: /nod'ee/ [UK: from the children's books] adj. 1.
+Small and un-useful, but demonstrating a point. Noddy programs are often
+written by people learning a new language or system. The archetypal noddy
+program is {hello, world}. Noddy code may be used to demonstrate a feature or
+bug of a compiler. May be used of real hardware or software to imply that it
+isn't worth using. "This editor's a bit noddy." 2. A program that is more or
+less instant to produce. In this use, the term does not necessarily connote
+uselessness, but describes a {hack} sufficiently trivial that it can be
+written and debugged while carrying on (and during the space of) a normal
+conversation. "I'll just throw together a noddy {awk} script to dump all the
+first fields." In North America this might be called a {mickey mouse
+program}. see {toy program}.

@@ -1,8 +1,85 @@
- :FUD: /fuhd/ n. Defined by Gene Amdahl after he left IBM to found his own
-company: "FUD is the fear, uncertainty, and doubt that IBM sales people
-instill in the minds of potential customers who might be considering [Amdahl]
-products." The idea, of course, was to persuade them to go with safe IBM gear
-rather than with competitors' equipment. This implicit coercion was
-traditionally accomplished by promising that Good Things would happen to
-people who stuck with IBM, but Dark Shadows loomed over the future of
-competitors' equipment or software. see {IBM}.
+ FUD wars: /fuhd worz/ n. [from {FUD}] Political posturing engaged in by
+hardware and software vendors ostensibly committed to standardization but
+actually willing to fragment the market to protect their own shares. The UNIX
+International vs. OSF conflict is but one outstanding example. fudge: 1. vt.
+To perform in an incomplete but marginally acceptable way, particularly with
+respect to the writing of a program. "I didn't feel like going through that
+pain and suffering, so I fudged it --- I'll fix it later." 2. n. The
+resulting code. fudge factor: n. A value or parameter that is varied in an ad
+hoc way to produce the desired result. The terms `tolerance' and {slop} are
+also used, though these usually indicate a one-sided leeway, such as a buffer
+that is made larger than necessary because one isn't sure exactly how large
+it needs to be, and it is better to waste a little space than to lose
+completely for not having enough. A fudge factor, on the other hand, can
+often be tweaked in more than one direction. A good example is the `fuzz'
+typically allowed in floating-point calculations: two numbers being compared
+for equality must be allowed to differ by a small amount; if that amount is
+too small, a computation may never terminate, while if it is too large,
+results will be needlessly inaccurate. Fudge factors are frequently adjusted
+incorrectly by programmers who don't fully understand their import. see also
+{coefficient of X}. fuel up: vi. To eat or drink hurriedly in order to get
+back to hacking. "Food-p?" "Yeah, let's fuel up." "Time for a {great-wall}!"
+see also {{oriental food}}. fuggly: /fuhg'lee/ adj. Emphatic form of {funky};
+funky + ugly). Unusually for hacker jargon, this may actually derive from
+black street-jive. To say it properly, the first syllable should be growled
+rather than spoken. Usage: humorous. "Man, the {{ASCII}}-to-{{EBCDIC}} code
+in that printer driver is *fuggly*." see also {wonky}. funky: adj. Said of
+something that functions, but in a slightly strange, klugey way. It does the
+job and would be difficult to change, so its obvious non-optimality is left
+alone. Often used to describe interfaces. The more bugs something has that
+nobody has bothered to fix because workarounds are easier, the funkier it is.
+{TECO} and UUCP are funky. The Intel i860's exception handling is
+extraordinarily funky. Most standards acquire funkiness as they age. "The new
+mailer is installed, but is still somewhat funky; if it bounces your mail for
+no reason, try resubmitting it." "This UART is pretty funky. The data ready
+line is active-high in interrupt mode and active-low in DMA mode." see
+{fuggly}. funny money: n. 1. Notional `dollar' units of computing time and/or
+storage handed to students at the beginning of a computer course; also called
+`play money' or `purple money' (in implicit opposition to real or `green'
+money). When your funny money ran out, your account froze and you needed to
+go to a professor to get more. Fortunately, the plunging cost of timesharing
+cycles has made this less common. The amounts allocated were almost
+invariably too small, even for the non-hackers who wanted to slide by with
+minimum work. In extreme cases, the practice led to small-scale black markets
+in bootlegged computer accounts. 2. By extension, phantom money or quantity
+tickets of any kind used as a resource-allocation hack within a system.
+Antonym: `real money'. fuzzball: [TCP/IP hackers] n. A DEC LSI-11 running a
+particular suite of homebrewed software written by Dave Mills and assorted
+co-conspirators, used in the early 1980s for Internet protocol testbedding
+and experimentation. These were used as NSFnet backbone sites in its early
+56KB-line days; a few are still active on the Internet as of early 1991,
+doing odd jobs such as network time service. = G = ===== G: [SI] pref.,suff.
+see {{quantifiers}}. gabriel: /gay'bree-*l/ [for Dick Gabriel, SAIL LISP
+hacker and volleyball fanatic] n. An unnecessary (in the opinion of the
+opponent) stalling tactic, e.g., tying one's shoelaces or combing one's hair
+repeatedly, asking the time, etc. Also used to refer to the perpetrator of
+such tactics. Also, `pulling a Gabriel', `Gabriel mode'. gag: vi. Equivalent
+to {choke}, but connotes more disgust. "Hey, this is FORTRAN code. No wonder
+the C compiler gagged." see also {barf}. gang bang: n. The use of large
+numbers of loosely coupled programmers in an attempt to wedge a great many
+features into a product in a short time. Though there have been memorable
+gang bangs (e.g., that over-the-weekend assembler port mentioned in Steven
+Levy's `Hackers'), most are perpetrated by large companies trying to meet
+deadlines and produce enormous buggy masses of code entirely lacking in
+{orthogonal}ity. When market-driven managers make a list of all the features
+the competition has and assign one programmer to implement each, they often
+miss the importance of maintaining a coherent design. see also
+{firefighting}, {Mongolian Hordes technique}, {Conway's Law}. garbage
+collect: vi. (also `garbage collection', n.) see {GC}. garply: /gar'plee/
+[Stanford] n. Another meta-syntactic variable (see {foo}); once popular among
+SAIL hackers. gas: [as in `gas chamber'] 1. interj. A term of disgust and
+hatred, implying that gas should be dispensed in generous quantities, thereby
+exterminating the source of irritation. "Some loser just reloaded the system
+for no reason! Gas!" 2. interj. A suggestion that someone or something ought
+to be flushed out of mercy. "The system's getting {wedged} every few minutes.
+Gas!" 3. vt. To {flush} (sense 1). "You should gas that old crufty software."
+4. [IBM] n. Dead space in nonsequentially organized files that was occupied
+by data that has been deleted; the compression operation that removes it is
+called `degassing' (by analogy, perhaps, with the use of the same term in
+vacuum technology). 5. [IBM] n. Empty space on a disk that has been
+clandestinely allocated against future need. gaseous: adj. Deserving of being
+{gas}sed. Disseminated by Geoff Goodfellow while at SRI; became particularly
+popular after the Moscone-Milk killings in San Francisco, when it was learned
+that the defendant Dan White (a politician who had supported Proposition 7)
+would get the gas chamber under Proposition 7 if convicted of first-degree
+murder (he was eventually convicted of manslaughter).

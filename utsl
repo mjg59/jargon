@@ -1,14 +1,15 @@
- :UTSL: // [UNIX] n. On-line acronym for `Use the Source, Luke' (a pun on
+ UTSL: // [UNIX] n. On-line acronym for `Use the Source, Luke' (a pun on
 Obi-Wan Kenobi's "Use the Force, Luke!" in `Star Wars') --- analogous to
 {RTFM} but more polite. This is a common way of suggesting that someone would
 be best off reading the source code that supports whatever feature is causing
 confusion, rather than making yet another futile pass through the manuals or
-broadcasting questions that haven't attracted {wizard}s to answer them. Until
-recently, this objurgation was in theory appropriately directed only at
-associates of some outfit with a UNIX source license; in practice, bootlegs
-of UNIX source code (made precisely for reference purposes) were so
-ubiquitous that one could utter at almost anyone on the network without
-concern. Nowadays, free UNIX clones are becomming common enough that almost
-anyone can read source legally. The most widely distributed is probably
-Linux, with 386BSD (aka {jolix}) running second. Cheap commercial UNIXes with
-source such as BSD/386 and Mach386 are accelerating this trend.
+broadcasting questions that haven't attracted {wizard}s to answer them. In
+theory, this is appropriately directed only at associates of some outfit with
+a UNIX source license; in practice, bootlegs of UNIX source code (made
+precisely for reference purposes) are so ubiquitous that one may utter this
+at almost anyone on {the network} without concern. In the near future (this
+written in 1991) source licenses may become even less important; after the
+recent release of the Mach 3.0 microkernal, given the continuing efforts of
+the {GNU} project, and with the 4.4BSD release on the horizon, complete free
+source code for UNIX-clone toolsets and kernels should soon be widely
+available.

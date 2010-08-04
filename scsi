@@ -1,7 +1,48 @@
- :SCSI: [Small Computer System Interface] n. A bus-independent standard for
+ SCSI: [Small Computer System Interface] n. A bus-independent standard for
 system-level interfacing between a computer and intelligent devices.
 Typically annotated in literature with `sexy' (/sek'see/), `sissy'
 (/sis'ee/), and `scuzzy' (/skuh'zee/) as pronunciation guides --- the last
 being the overwhelmingly predominant form, much to the dismay of the
 designers and their marketing people. One can usually assume that a person
-who pronounces it /S-C-S-I/ is clueless.
+who pronounces it /S-C-S-I/ is clueless. search-and-destroy mode: n.
+Hackerism for the search-and-replace facility in an editor, so called because
+an incautiously chosen match pattern can cause {infinite} damage.
+second-system effect: n. (sometimes, more euphoniously, `second-system
+syndrome') When one is designing the successor to a relatively small,
+elegant, and successful system, there is a tendency to become grandiose in
+one's success and design an {elephantine} feature-laden monstrosity. The term
+was first used by Fred Brooks in his classic `The Mythical Man-Month: Essays
+on Software Engineering' (Addison-Wesley, 1975; ISBN 0-201-00650-2). It
+described the jump from a set of nice, simple operating systems on the IBM
+70xx series to OS/360 on the 360 series. A similar effect can also happen in
+an evolving system; see {Brooks's Law}, {creeping elegance}, {creeping
+featurism}. see also {{Multics}}, {OS/2}, {X}, {software bloat}. This version
+of the jargon lexicon has been described (with altogether too much truth for
+comfort) as an example of second-system effect run amok on jargon-1....
+secondary damage: n. When a fatal error occurs (esp. a {segfault}) the
+immediate cause may be that a pointer has been trashed due to a previous
+{fandango on core}. However, this fandango may have been due to an *earlier*
+fandango, so no amount of analysis will reveal (directly) how the damage
+occurred. "The data structure was clobbered, but it was secondary damage." By
+extension, the corruption resulting from N cascaded fandangoes on core is
+`Nth-level damage'. There is at least one case on record in which 17 hours of
+{grovel}ling with `adb' actually dug up the underlying bug behind an instance
+of seventh-level damage! The hacker who accomplished this near-superhuman
+feat was presented with an award by his fellows. security through obscurity:
+n. A name applied by hackers to most OS vendors' favorite way of coping with
+security holes --- namely, ignoring them and not documenting them and
+trusting that nobody will find out about them and that people who do find out
+about them won't exploit them. This never works for long and occasionally
+sets the world up for debacles like the {RTM} worm of 1988, but once the
+brief moments of panic created by such events subside most vendors are all
+too willing to turn over and go back to sleep. After all, actually fixing the
+bugs would siphon off the resources needed to implement the next
+user-interface frill on marketing's wish list --- and besides, if they
+started fixing security bugs customers might begin to *expect* it and imagine
+that their warranties of merchantability gave them some sort of *right* to a
+system with fewer holes in it than a shotgunned Swiss cheese, and then where
+would we be? Historical note: It is claimed (with dissent from {{ITS}} fans
+who say they used to use `security through obscurity' in a positive sense)
+that this term was first used in the USENET newsgroup in comp.sys.apollo
+during a campaign to get HP/Apollo to fix security problems in its
+UNIX-{clone} Aegis/DomainOS. They didn't change a thing.
