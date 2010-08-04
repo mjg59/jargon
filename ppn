@@ -112,75 +112,77 @@ coats, and (shudder!) suits voluntarily. It's his funeral.... see also
 {lobotomy}. psychedelicware: /sie`k*-del'-ik-weir/ [Great Britain] n. Syn.
 {display hack}. see also {smoking clover}. psyton: [TMRC] n. Elementary
 particle carrying the sinister force. The probability of a process losing is
-proportional to the number of psytons falling on it. [This term appears to
-have been largely superseded by {bogon} -- ESR] pubic directory: [NYU] (also
-`pube directory' /pyoob/) n. The `pub' (public) directory on a machine that
-allows {FTP} access. So called because it is the default location for {SEX}
-(sense #1). "I'll have the source in the /pyoob/ directory by Friday." puff:
-vt. To decompress data that has been crunched by Huffman coding. At least one
-widely distributed Huffman decoder program was actually *named* `PUFF', but
-these days it is usually packaged with the encoder. Oppose {huff}. punched
-card:: alt. `punch card' [techspeak] n.obs. The signature medium of
-computing's {Stone Age}, now obsolescent outside of some IBM shops. The
-punched card actually predated computers considerably, originating as a
-control device for mechanical looms. The version patented by Hollerith and
-used with mechanical tabulating machines in the 1890 U.S. Census was a piece
-of cardboard about 90 mm by 215 mm, designed to fit exactly in the currency
-trays used for that era's larger dollar bills. IBM (which originated as a
-tabulating-machine manufacturer) married the punched card to computers,
-encoding binary information as patterns of small rectangular holes; one
-character per column, 80 columns per card. Later, other coding schemes, sizes
-of card, and hole shape were tried. The 80-column width of most character
-terminals is a legacy of the punched card; so is the size of the quick
-reference cards distributed with many varieties of computers even today. see
-{chad}, {chad box}, {eighty-column mind}, {green card}, {dusty deck}, {lace
-card}, {card walloper}. punt: [from the punch line of an old joke referring
-to American football: "Drop back 15 yards and punt"] vt. 1. To give up,
-typically without any intention of retrying. "Let's punt the movie tonight."
-"I was going to hack all night to get this feature in, but I decided to
-punt." may mean that you've decided not to stay up all night, and may also
-mean you're not ever even going to put in the feature. 2. More specifically,
-to give up on figuring out what the {Right Thing} is and resort to an
-inefficient hack. 3. A design decision to defer solving a problem, typically
-because one cannot define what is desirable sufficiently well to frame an
-algorithmic solution. "No way to know what the right form to to dump the
-graph in is --- we'll punt that for now." 4. To hand a tricky implementation
-problem off to some other section of the design. "It's too hard to get the
-compiler to do that; let's punt to the runtime system." Purple Book: n. The
-`System V Interface Definition'. The covers of the first editions were an
-amazingly nauseating shade of off-lavender. see also {{book titles}}. push:
-[from the operation that puts the current information on a stack, and the
-fact that procedure return addresses are saved on the stack] Also PUSH or
-PUSHJ /push-jay/ (the latter based on the PDP-10 procedure call instruction).
-1. To put something onto a {stack} or {pdl}. If a person says something has
-been pushed onto his stack, it means the Damoclean list lof things hanging
-over his head has grown longer and heavier yet. This may also imply that he
-will deal with it *before* other pending items; otherwise he might say the
-thing was "added to his queue". 2. vi. To enter upon a digression, to save
-the current discussion for later. Antonym of {pop}; see also {stack}, {pdl}.
-= Q = ===== quad: n. 1. Two bits; syn. for {quarter}, {crumb}, {tayste}. 2. A
-four-pack of anything (compare {hex}, sense #2). 3. The rectangle or box
-glyph used in the APL language for various arcane purposes mostly related to
-I/O. Ex-Ivy-Leaguers and Oxbridge types are said to associate it with
-nostalgic memories of dear old University. quadruple bucky: n., obs. 1. On an
-MIT {space-cadet keyboard}, use of all four of the shifting keys control,
-meta, hyper, and super while typing a character key. 2. On a Stanford or MIT
-keyboard in {raw mode}, use of four shift keys while typing a fifth
-character, where the four shift keys are the control and meta keys on *both*
-sides of the keyboard. This was very difficult to do! One accepted technique
-was to press the left-control and left-meta keys with your left hand, the
-right-control and right-meta keys with your right hand, and the fifth key
-with your nose. Quadruple-bucky combinations were very seldom used in
-practice, because when one invented a new command one usually assigned it to
-some character that was easier to type. If you want to imply that a program
-has ridiculously many commands or features, you can say something like "Oh,
-the command that makes it spin the tapes while whistling Beethoven's 5th
-Symphony is quadruple-bucky-cokebottle." see {double bucky}, {bucky bits},
-{cokebottle}. quantifiers:: n. In techspeak and jargon, the standard metric
-prefixes used in scientific measurement have dual uses. With units of time or
-things that come in powers of 10, such as money, they retain their usual
-meanings of multiplication by powers of `1000 = 10 ^ 3'. But when used with
-bytes or other things that naturally come in powers of 2, they usually denote
+proportional to the number of psytons falling on it. Psytons are generated by
+observers, which is why demos are more likely to fail when lots of people are
+watching. [This term appears to have been largely superseded by {bogon}; see
+also {quantum bogodynamics} -- ESR] pubic directory: [NYU] (also `pube
+directory' /pyoob/) n. The `pub' (public) directory on a machine that allows
+{FTP} access. So called because it is the default location for {SEX} (sense
+#1). "I'll have the source in the /pyoob/ directory by Friday." puff: vt. To
+decompress data that has been crunched by Huffman coding. At least one widely
+distributed Huffman decoder program was actually *named* `PUFF', but these
+days it is usually packaged with the encoder. Oppose {huff}. punched card::
+alt. `punch card' [techspeak] n.obs. The signature medium of computing's
+{Stone Age}, now obsolescent outside of some IBM shops. The punched card
+actually predated computers considerably, originating as a control device for
+mechanical looms. The version patented by Hollerith and used with mechanical
+tabulating machines in the 1890 U.S. Census was a piece of cardboard about 90
+mm by 215 mm, designed to fit exactly in the currency trays used for that
+era's larger dollar bills. IBM (which originated as a tabulating-machine
+manufacturer) married the punched card to computers, encoding binary
+information as patterns of small rectangular holes; one character per column,
+80 columns per card. Later, other coding schemes, sizes of card, and hole
+shape were tried. The 80-column width of most character terminals is a legacy
+of the punched card; so is the size of the quick reference cards distributed
+with many varieties of computers even today. see {chad}, {chad box},
+{eighty-column mind}, {green card}, {dusty deck}, {lace card}, {card
+walloper}. punt: [from the punch line of an old joke referring to American
+football: "Drop back 15 yards and punt"] vt. 1. To give up, typically without
+any intention of retrying. "Let's punt the movie tonight." "I was going to
+hack all night to get this feature in, but I decided to punt." may mean that
+you've decided not to stay up all night, and may also mean you're not ever
+even going to put in the feature. 2. More specifically, to give up on
+figuring out what the {Right Thing} is and resort to an inefficient hack. 3.
+A design decision to defer solving a problem, typically because one cannot
+define what is desirable sufficiently well to frame an algorithmic solution.
+"No way to know what the right form to to dump the graph in is --- we'll punt
+that for now." 4. To hand a tricky implementation problem off to some other
+section of the design. "It's too hard to get the compiler to do that; let's
+punt to the runtime system." Purple Book: n. The `System V Interface
+Definition'. The covers of the first editions were an amazingly nauseating
+shade of off-lavender. see also {{book titles}}. push: [from the operation
+that puts the current information on a stack, and the fact that procedure
+return addresses are saved on the stack] Also PUSH or PUSHJ /push-jay/ (the
+latter based on the PDP-10 procedure call instruction). 1. To put something
+onto a {stack} or {pdl}. If a person says something has been pushed onto his
+stack, it means the Damoclean list lof things hanging over his head has grown
+longer and heavier yet. This may also imply that he will deal with it
+*before* other pending items; otherwise he might say the thing was "added to
+his queue". 2. vi. To enter upon a digression, to save the current discussion
+for later. Antonym of {pop}; see also {stack}, {pdl}. = Q = ===== quad: n. 1.
+Two bits; syn. for {quarter}, {crumb}, {tayste}. 2. A four-pack of anything
+(compare {hex}, sense #2). 3. The rectangle or box glyph used in the APL
+language for various arcane purposes mostly related to I/O. Ex-Ivy-Leaguers
+and Oxbridge types are said to associate it with nostalgic memories of dear
+old University. quadruple bucky: n., obs. 1. On an MIT {space-cadet
+keyboard}, use of all four of the shifting keys control, meta, hyper, and
+super while typing a character key. 2. On a Stanford or MIT keyboard in {raw
+mode}, use of four shift keys while typing a fifth character, where the four
+shift keys are the control and meta keys on *both* sides of the keyboard.
+This was very difficult to do! One accepted technique was to press the
+left-control and left-meta keys with your left hand, the right-control and
+right-meta keys with your right hand, and the fifth key with your nose.
+Quadruple-bucky combinations were very seldom used in practice, because when
+one invented a new command one usually assigned it to some character that was
+easier to type. If you want to imply that a program has ridiculously many
+commands or features, you can say something like "Oh, the command that makes
+it spin the tapes while whistling Beethoven's 5th Symphony is
+quadruple-bucky-cokebottle." see {double bucky}, {bucky bits}, {cokebottle}.
+quantifiers:: n. In techspeak and jargon, the standard metric prefixes used
+in scientific measurement have dual uses. With units of time or things that
+come in powers of 10, such as money, they retain their usual meanings of
+multiplication by powers of `1000 = 10 ^ 3'. But when used with bytes or
+other things that naturally come in powers of 2, they usually denote
 multiplication by powers of `1024 = 2 ^ 10'. Here are the magnifying prefixes
 in jargon use: prefix decimal binary kilo- 1000^1 1024^1 = 2^10 = 1,024 mega-
 1000^2 1024^2 = 2^20 = 1,048,576 giga- 1000^3 1024^3 = 2^30 = 1,073,741,824
@@ -189,7 +191,7 @@ tera- 1000^4 1024^4 = 2^40 = 1,099,511,627,776 peta- 1000^5 1024^5 = 2^50 =
 Here are the fractional prefixes: {prefix decimal jargon usage} milli-
 1000^-1 (not used in jargon) micro- 1000^-2 small or human-scale (see
 {micro-}) nano- 1000^-3 even smaller (see {nano-}) pico- 1000^-4 even smaller
-yet (see {pico-}) femto- 1000^-5 (not used in jargon -- yet) femto- 1000^-6
+yet (see {pico-}) femto- 1000^-5 (not used in jargon -- yet) atto- 1000^-6
 (not used in jargon -- yet) The binary peta- and exa- loadings are not yet in
 common use, and the prefix milli- denoting multiplication by `1000^-1' has
 always been rare. see the entries on {micro-}, {pico-}, and {nano-} for more

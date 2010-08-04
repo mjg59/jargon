@@ -90,7 +90,7 @@ also {ding}. feeper: /fee'pr/ n. The device in a terminal or workstation
 creature: [from {feeping creaturism}] n. An unnecessary feature; a bit of
 {chrome} that, in the speaker's judgement, is the camel's nose for a whole
 horde of new features. feeping creaturism: /fee'ping kree`ch*r-izm/ n.
-Deliberate Spoonerism for {creeping featurism}, meant to imply that the
+Deliberate spoonerism for {creeping featurism}, meant to imply that the
 system or program in question has become a misshapen creature of hacks. This
 term isn't really well-defined, but it sounds so neat that most hackers have
 said or heard it. It is probably reinforced by an image of terminals prowling

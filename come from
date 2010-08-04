@@ -16,97 +16,99 @@ following the DO. Some generous FORTRANs would allow arbitrary statements
 I=1,LIMIT C imagine many lines of code here, leaving the original DO C
 statement lost in the spaghetti... WRITE(6,10) I,FROB(I) 10
 FORMAT(1X,I5,G10.4) in which the trapdoor is just after the statement
-labelled 10. While sufficiently astonishing to the unsuspecting reader, this
-form of COME FROM statement isn't completely general. After all, control will
-eventually pass to the following statement. The implementation of the general
-form was left to Univac FORTRAN, ca.1975. The statement `AT 100' would
-perform a `COME FROM 100'. It was intended strictly as a debugging aid, with
-dire consequences promised to anyone so deranged as to use it in production
-code. More horrible things had already been perpetrated in production
-languages, however; doubters need only contemplate COBOL's `ALTER' verb. COME
-FROM was supported under its own name for the first time fifteen years later,
-in C-INTERCAL (see {INTERCAL}, {retrocomputing}); knowledgeable observers are
-still reeling from shock. comm mode: /kom mohd/ [from the ITS feature
-supporting on-line chat, spelled with one or two Ms] Syn. for {talk mode}.
-command key: [Mac users] n. The Macintosh key with the cloverleaf graphic on
-its keytop; sometimes referred to as `flower', `clover', `propeller', or
-`beanie' (an apparent reference to the propeller on a beanie). The Mac's
-equivalent to an {ALT} key. comment out: vt. To surround a section of code
-with comment delimiters or to prefix every line in the section with a comment
-marker; this prevents it from being compiled or interpreted. Often done when
-the code is redundant or obsolete, but you want to leave it in the source to
-make the intent of the active code clearer; also when the code in that
-section is broken and you want to bypass it in order to debug some other part
-of the code. Compare {condition out}, usually the preferred technique in
-languages (like {C}) that make it possible. Commonwealth Hackish:: n. Hacker
-jargon as spoken outside the U.S., esp. in the British Commonwealth. It is
-reported that Commonwealth speakers are more likely to pronounce `char',
-`soc', etc. as spelled (/char/, /sok/) as opposed to American /keir/ or
-/sohsh/. Dots in {newsgroup} names tend to be pronounced more often (so
-soc.wibble is /sok dot wi'bble/ rather than /sohsh wib'ble/). The prefix
-{meta} may be pronounced /mee't*-/; similarly, Greek letter beta is often
-/bee't*/, zeta is often /zee't*/ and so forth. Preferred metasyntactic
-variables include EEK, OOK, FRODO, and BILBO; WIBBLE, WOBBLE, and in
-emergencies WUBBLE; BANANA, WOMBAT, FROG, {fish}, and so on and on (see
-{foo}, sense #4). Alternatives to verb doubling include suffixes `-o-rama',
-`frenzy' (as in feeding frenzy) and `city' (as in "barf city!" "hack-o-rama!"
-"core dump frenzy!"). Finally, note that the American terms `parens',
-`brackets', and `braces' for (), [], and {} are uncommon; Commonwealth
-hackish prefers `brackets', `square brackets', and `curly brackets'. Also,
-the use of `pling' for {bang} is common outside the United States. see also
-{attoparsec}, {calculator}, {chemist}, {console jockey}, {fish}, {grunge},
-{hakspek}, {heavy metal}, {leaky heap}, {lord high fixer}, {noddy},
-{psychedelicware}, {plingnet}, {raster blaster}, {seggie}, {terminal junkie},
-{tick-list features}, {weeble}, {weasel}, {YABA}, and notes or definitions
-under {Bad Thing}, {barf}, {bogus}, {bum}, {chase pointers}, {cosmic rays},
-{crippleware}, {crunch}, {dodgy}, {gonk}, {mess-dos}, {nybble}, {proglet},
-{root}, {tweak}, and {xyzzy}. compact: adj. Of a design, describes the
-valuable property that it can all be apprehended at once in one's head. This
-generally means the thing created from the design can be used with greater
-facility and fewer errors than an equivalent tool that is not compact. Note
-that compactness does not imply triviality or lack of power; for example, C
-is compact and FORTRAN is not, but C is more powerful than FORTRAN. Designs
-become non-compact through accreting {feature}s and {cruft} that don't merge
-cleanly into the overall design scheme. compress: [UNIX] vt. When used
-without a qualifier, generally refers to {crunch}ing of a file using a
-particular C implementation of Lempel-Ziv compression by James A. Woods et
-al. and widely circulated via {USENET}. Use of {crunch} itself in this sense
-is rare among UNIX hackers. computer confetti: n. Syn. {chad}. Though this
-term is common, this use of the punched-card chad is not a good idea, as the
-pieces are stiff and have sharp corners that could injure the eyes. GLS
-reports that he once attended a wedding at MIT during which he and a few
-other guests enthusiastically threw chad instead of rice. The groom later
-grumbled that he and his bride had spent most of the evening trying to get
-the stuff out of their hair. computer geek: n. One who eats (computer) bugs
-for a living. One who fulfills all of the dreariest negative stereotypes
-about hackers: an asocial, malodorous, pasty-faced monomaniac with all the
-personality of a cheese grater. Cannot be used by outsiders without implied
-insult to all hackers; compare black-on-black usage of `nigger'. A computer
-geek may be either a fundamentally clueless individual or a proto-hacker in
-{larval stage}. Also called `turbo nerd', `turbo geek'. see also
-{clustergeeking}, {wannabee}, {terminal junkie}. computron: /kom'pyoo-tron`/
-n. 1. A notional unit of computing power combining instruction speed and
-storage capacity, dimensioned roughly in instructions-per-second times
-megabytes-of-main-store times megabytes-of-mass-storage. "That machine can't
-run GNU EMACS, it doesn't have enough computrons!" This usage is usually
-found in metaphors that treat computing power as a fungible commodity good
-like a crop yield or diesel horsepower. see {bitty box}, {Get a real
-computer!}, {toy}, {crank}. 2. A mythical subatomic particle that bears the
-unit quantity of computation or information, in much the same way that an
-electron bears one unit of electric charge (see {bogon}). An elaborate
-pseudo-scientific theory of computrons has been worked out based on the
-physical fact that the molecules in a solid object move more rapidly as it is
-heated. It is argued that an object melts because the molecules have lost
-their information about where they are supposed to be (that is, they have
-emitted computrons). This explains why computers get so hot and require air
-conditioning; they use up computrons. Conversely, you should be able to cool
-down an object by placing it in the path of a computron beam. It is believed
-that this may also explain why machines that work at the factory fail in the
-computer room --- because the computrons there have been all used up by your
-other hardware. (This may owe something to the group of fantasy stories by
-Larry Niven, beginning with `What Good is a Glass Dagger?', in which magic is
-fueled by an exhaustible natural resource called `mana'). condition out: vt.
-To prevent a section of code from being compiled by surrounding it with a
+labelled 10. (This is particularly surprising because the label doesn't
+appear to have anything to do with the flow of control at all!) While
+sufficiently astonishing to the unsuspecting reader, this form of COME FROM
+statement isn't completely general. After all, control will eventually pass
+to the following statement. The implementation of the general form was left
+to Univac FORTRAN, ca.1975. The statement `AT 100' would perform a `COME FROM
+100'. It was intended strictly as a debugging aid, with dire consequences
+promised to anyone so deranged as to use it in production code. More horrible
+things had already been perpetrated in production languages, however;
+doubters need only contemplate COBOL's `ALTER' verb. COME FROM was supported
+under its own name for the first time fifteen years later, in C-INTERCAL (see
+{INTERCAL}, {retrocomputing}); knowledgeable observers are still reeling from
+shock. comm mode: /kom mohd/ [from the ITS feature supporting on-line chat,
+spelled with one or two Ms] Syn. for {talk mode}. command key: [Mac users] n.
+The Macintosh key with the cloverleaf graphic on its keytop; sometimes
+referred to as `flower', `pretzel', `clover', `propeller', or `beanie' (an
+apparent reference to the propeller on a beanie). The Mac's equivalent to an
+{ALT} key. comment out: vt. To surround a section of code with comment
+delimiters or to prefix every line in the section with a comment marker; this
+prevents it from being compiled or interpreted. Often done when the code is
+redundant or obsolete, but you want to leave it in the source to make the
+intent of the active code clearer; also when the code in that section is
+broken and you want to bypass it in order to debug some other part of the
+code. Compare {condition out}, usually the preferred technique in languages
+(like {C}) that make it possible. Commonwealth Hackish:: n. Hacker jargon as
+spoken outside the U.S., esp. in the British Commonwealth. It is reported
+that Commonwealth speakers are more likely to pronounce `char', `soc', etc.
+as spelled (/char/, /sok/) as opposed to American /keir/ or /sohsh/. Dots in
+{newsgroup} names tend to be pronounced more often (so soc.wibble is /sok dot
+wi'bble/ rather than /sohsh wib'ble/). The prefix {meta} may be pronounced
+/mee't*-/; similarly, Greek letter beta is often /bee't*/, zeta is often
+/zee't*/ and so forth. Preferred metasyntactic variables include EEK, OOK,
+FRODO, and BILBO; WIBBLE, WOBBLE, and in emergencies WUBBLE; BANANA, WOMBAT,
+FROG, {fish}, and so on and on (see {foo}, sense #4). Alternatives to verb
+doubling include suffixes `-o-rama', `frenzy' (as in feeding frenzy) and
+`city' (as in "barf city!" "hack-o-rama!" "core dump frenzy!"). Finally, note
+that the American terms `parens', `brackets', and `braces' for (), [], and {}
+are uncommon; Commonwealth hackish prefers `brackets', `square brackets', and
+`curly brackets'. Also, the use of `pling' for {bang} is common outside the
+United States. see also {attoparsec}, {calculator}, {chemist}, {console
+jockey}, {fish}, {grunge}, {hakspek}, {heavy metal}, {leaky heap}, {lord high
+fixer}, {noddy}, {psychedelicware}, {plingnet}, {raster blaster}, {seggie},
+{terminal junkie}, {tick-list features}, {weeble}, {weasel}, {YABA}, and
+notes or definitions under {Bad Thing}, {barf}, {bogus}, {bum}, {chase
+pointers}, {cosmic rays}, {crippleware}, {crunch}, {dodgy}, {gonk},
+{mess-dos}, {nybble}, {proglet}, {root}, {tweak}, and {xyzzy}. compact: adj.
+Of a design, describes the valuable property that it can all be apprehended
+at once in one's head. This generally means the thing created from the design
+can be used with greater facility and fewer errors than an equivalent tool
+that is not compact. Note that compactness does not imply triviality or lack
+of power; for example, C is compact and FORTRAN is not, but C is more
+powerful than FORTRAN. Designs become non-compact through accreting
+{feature}s and {cruft} that don't merge cleanly into the overall design
+scheme. compress: [UNIX] vt. When used without a qualifier, generally refers
+to {crunch}ing of a file using a particular C implementation of Lempel-Ziv
+compression by James A. Woods et al. and widely circulated via {USENET}. Use
+of {crunch} itself in this sense is rare among UNIX hackers. computer
+confetti: n. Syn. {chad}. Though this term is common, this use of the
+punched-card chad is not a good idea, as the pieces are stiff and have sharp
+corners that could injure the eyes. GLS reports that he once attended a
+wedding at MIT during which he and a few other guests enthusiastically threw
+chad instead of rice. The groom later grumbled that he and his bride had
+spent most of the evening trying to get the stuff out of their hair. computer
+geek: n. One who eats (computer) bugs for a living. One who fulfills all of
+the dreariest negative stereotypes about hackers: an asocial, malodorous,
+pasty-faced monomaniac with all the personality of a cheese grater. Cannot be
+used by outsiders without implied insult to all hackers; compare
+black-on-black usage of `nigger'. A computer geek may be either a
+fundamentally clueless individual or a proto-hacker in {larval stage}. Also
+called `turbo nerd', `turbo geek'. see also {clustergeeking}, {wannabee},
+{terminal junkie}. computron: /kom'pyoo-tron`/ n. 1. A notional unit of
+computing power combining instruction speed and storage capacity, dimensioned
+roughly in instructions-per-second times megabytes-of-main-store times
+megabytes-of-mass-storage. "That machine can't run GNU EMACS, it doesn't have
+enough computrons!" This usage is usually found in metaphors that treat
+computing power as a fungible commodity good like a crop yield or diesel
+horsepower. see {bitty box}, {Get a real computer!}, {toy}, {crank}. 2. A
+mythical subatomic particle that bears the unit quantity of computation or
+information, in much the same way that an electron bears one unit of electric
+charge (see {bogon}). An elaborate pseudo-scientific theory of computrons has
+been worked out based on the physical fact that the molecules in a solid
+object move more rapidly as it is heated. It is argued that an object melts
+because the molecules have lost their information about where they are
+supposed to be (that is, they have emitted computrons). This explains why
+computers get so hot and require air conditioning; they use up computrons.
+Conversely, you should be able to cool down an object by placing it in the
+path of a computron beam. It is believed that this may also explain why
+machines that work at the factory fail in the computer room --- because the
+computrons there have been all used up by your other hardware. (This may owe
+something to a group of 4 fantasy stories by Larry Niven, the best known
+being `What Good is a Glass Dagger?', in which magic is fueled by an
+exhaustible natural resource called `mana'). condition out: vt. To prevent a
+section of code from being compiled by surrounding it with a
 conditional-compilation directive whose condition is always false. The
 {canonical} example is `#if 0' and `#endif' in C. Compare {comment out}.
 condom: n. The protective plastic baggy that accompanies 3.5-inch microfloppy

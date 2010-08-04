@@ -1,14 +1,70 @@
- FOO /foo/ 1. [from Yiddish "feh" or the Anglo-Saxon "fooey!"] interj. Term
-of disgust. 2. [from FUBAR (Fucked Up Beyond All Recognition), from WWII,
-often seen as FOOBAR] Name used for temporary programs, or samples of
-three-letter names. Other similar words are BAR, BAZ (Stanford corruption of
-BAR), and rarely RAG. These have been used in Pogo as well. 3. Used very
-generally as a sample name for absolutely anything. The old `Smokey Stover'
-comic strips often included the word FOO, in particular on license plates of
-cars. 4. First on the standard list of metasyntactic variables used in syntax
-examples. see also: BAR, BAZ, QUX, QUUX, QUUUX, CORGE, GRAULT, GARPLY, WALDO,
-FRED, PLUGH, XYZZY. MOBY FOO: see MOBY. It is possible that hacker usage of
-FOO actually springs from the title "FOO, Lampoons and Parody" of a comic
-book first issued in September 1958; the byline read "C. Crumb" but this may
-well have been a sort-of pseudonym for noted weird-comix artist Robert Crumb.
-The title FOO was featured in large letters on the front cover.
+ 490501 characters, and 1046 entries. Version 2.3.1, Jan 03 1991: the great
+format change --- case is no longer smashed in lexicon keys and
+cross-references. A very few entries from jargon-1 which were basically
+straight techspeak were deleted; this enabled the rest of Appendix B to be
+merged back into main text and the appendix replaced with the Portrait of J.
+Random Hacker. More USENET submissions were added. This version had 10728
+lines, 85070 words, 558261 characters, and 1138 entries. Version 2.4.1, Jan
+14 1991: the Story of Mel and many more USENET submissions merged in. More
+material on hackish writing habits added. Numerous typo fixes. This version
+had 12362 lines, 97819 words, 642899 characters, and 1239 entries. Version
+2.5.1, Jan 29 1991: many new entries merged in. Discussion of inclusion
+styles added. This version had 14145 lines, 111904 words, 734285 characters,
+and 1425 entries. Version 2.6.1, Feb 13 1991: second great format change; no
+more <> around headwords or references. Merged in results of serious
+copy-editing passes by Guy Steele, Mark Brader. Still more entries added.
+This version had 15011 lines, 118277 words, 774942 characters, and 1485
+entries. Version 2.7.1, Mar 1 1991: new section on slang/jargon/techspeak
+added. Results of Guy's 2nd edit pass merged in. This version had 16087
+lines, 126885 words, 831872 characters, and 1533 entries. Version 2.8.1, Mar
+22 1991: material from the TMRC Dictionary and MRC's editing pass merged in.
+This version had 17154 lines, 135647 words, 888333 characters, and 1602
+entries. Version numbering: Read versions as major.minor.revision. Major
+version 1 is reserved for the `old' (ITS) Jargon File, jargon-1. Major
+version 2 encompasses revisions by ESR (Eric S. Raymond) with assistance from
+GLS (Guy L. Steele). Someday, the next maintainer will take over and spawn
+`version 3'. Usually later versions will either completely supersede or
+incorporate earlier versions, so there is generally no point in keeping old
+versions around. Our thanks to the coauthors of Steele-1983 for oversight and
+assistance, and to the hundreds of USENETters (too many to name here) who
+contributed entries and encouragement. More thanks go to several of the
+old-timers on the USENET group alt.folklore.computers, who contributed much
+useful commentary and many corrections and valuable historical perspective:
+Joseph M. Newcomer <jn11+@andrew.cmu.edu>, Bernie Cosell <cosell@bbn.com>,
+Earl Boebert <boebert@SCTC.com>, and Joe Morris <jcmorris@mwunix.mitre.org>.
+We were fortunate enough to have the aid of several accomplished linguists.
+David Stampe and Charles Hoequist contributed valuable criticism; Joe Keane
+<jkg@osc.osc.com> helped us improve the pronunciation guides. A few bits of
+this text quote previous works. We are indebted to Brian A. LaMacchia
+<bal@zurich.ai.mit.edu> for obtaining permission for us to use material from
+the `TMRC Dictionary'; also, Don Libes contributed some appropriate material
+from his excellent book `Life With UNIX'. Scandinavian correspondent Per
+Lindberg (per@front.se), author of the remarkable Swedish language 'zine
+`Hackerbladet', for bringing FOO! comics to our attention and smuggling one
+of the IBM hacker underground's own baby jargon files out to us. Thanks also
+to Maarten Litmaath for generously allowing the inclusion of the ASCII
+pronunciation guide he formerly maintained. Finally, Mark Brader (msb@sq.com)
+submitted many thoughtful comments and did yeoman service in catching typos
+and minor usage bobbles, and Eric Tiedemann (est@thyrsus.com) contributed
+sage advice on rhetoric, amphigory, and philosophunculism. Format For New
+Entries ====================== Try to conform to the format already being
+used --- head-words separated from text by a colon (double colon for topic
+entries), cross-references in curly brackets (doubled for topic entries),
+pronunciations in slashes, etymologies in square brackets, single-space after
+definition numbers and word classes, etc. Stick to the standard ASCII
+character set (7-bit printable, no high-half characters or
+[nt]roff/TeX/Scribe escapes), as one of the versions generated from the
+master file is an info document that has to be viewable on a character tty.
+We are looking to expand the file's range of technical specialties covered.
+There are doubtless rich veins of jargon yet untapped in the scientific
+computing, graphics, and networking hacker communities; also in numerical
+analysis, computer architectures and VLSI design, language design, and many
+other related fields. Send us your jargon! We are *not* interested in
+straight technical terms explained by textbooks or technical dictionaries
+unless an entry illuminates `underground' meanings or aspects not covered by
+official histories. We are also not interested in `joke' entries --- there is
+a lot of humor in the file but it must flow naturally out of the explanations
+of what hackers do and how they think. It is OK to submit items of jargon you
+have originated if they have spread to the point of being used by people who
+are not personally acquainted with you. We prefer items to be attested by
+independent submission from two different sites.

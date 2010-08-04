@@ -46,23 +46,24 @@ which responds inappropriately and disastrously to expected external stimuli,
 e.g., a file system that is usually totally scrambled by a power failure is
 said to be brittle. This term is often used to describe the results of a
 research effort that were never intended to be robust, but can be applied to
-commercially developed software. Oppose {robust}. broadcast storm: n. An
-incorrect packet broadcast on a network that causes most hosts to respond all
-at once, typically with wrong answers that start the process over again. see
-{network meltdown}. broken: adj. 1. Not working properly (of programs). 2.
-Behaving strangely; especially, (when used of people) exhibiting extreme
-depression. broket: /broh'k*t/ or /broh'ket/ [by analogy with `bracket': a
-`broken bracket'] n. Either of the characters `<' and `>', when used as
-paired enclosing delimiters. This word originated as a contraction of the
-phrase `broken bracket', that is, a bracket that is bent in the middle. (At
-MIT, and apparently in the {Real World} as well, these are usually called
-{angle brackets}.) Brooks's Law: prov. "Adding manpower to a late software
-project makes it later" --- a result of the fact that the advantage from
-splitting work between N programmers is O(N), but the complexity and
-communications cost associated with coordinating and then merging their work
-is O(N^2). The quote is from Fred Brooks, a manager of IBM's OS/360 project
-and author of `The Mythical Man-Month' (Addison-Wesley, 1975, ISBN,
-0-201-00650-2), an excellent early book on software engineering; the myth in
-question has been most tersely expressed as "Programmer time is fungible",
-and Brooks established conclusively that it is not. Hackers have never
-forgotten his advice; too often, {management} does.
+commercially developed software. The term `fragile' is sometimes used
+synonymously. Oppose {robust}. broadcast storm: n. An incorrect packet
+broadcast on a network that causes most hosts to respond all at once,
+typically with wrong answers that start the process over again. see {network
+meltdown}. broken: adj. 1. Not working properly (of programs). 2. Behaving
+strangely; especially, (when used of people) exhibiting extreme depression.
+broket: /broh'k*t/ or /broh'ket/ [by analogy with `bracket': a `broken
+bracket'] n. Either of the characters `<' and `>', when used as paired
+enclosing delimiters. This word originated as a contraction of the phrase
+`broken bracket', that is, a bracket that is bent in the middle. (At MIT, and
+apparently in the {Real World} as well, these are usually called {angle
+brackets}.) Brooks's Law: prov. "Adding manpower to a late software project
+makes it later" --- a result of the fact that the advantage from splitting
+work between N programmers is O(N), but the complexity and communications
+cost associated with coordinating and then merging their work is O(N^2). The
+quote is from Fred Brooks, a manager of IBM's OS/360 project and author of
+`The Mythical Man-Month' (Addison-Wesley, 1975, ISBN, 0-201-00650-2), an
+excellent early book on software engineering; the myth in question has been
+most tersely expressed as "Programmer time is fungible", and Brooks
+established conclusively that it is not. Hackers have never forgotten his
+advice; too often, {management} does.

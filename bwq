@@ -163,53 +163,57 @@ through a gateway with both source and destination Ether and IP address set
 as the respective broadcast addresses for the subnetworks being gated
 between. Compare {Christmas tree packet}. chicken head: [Commodore] n. The
 Commodore Business Machines logo, which strongly resembles a poultry part.
-Rendered in ASCII as `C='. chiclet keyboard: n. A keyboard with small
-rectangular or lozenge-shaped rubber or plastic keys that look like pieces of
-chewing gum (Chiclet is a brand-name and also the Spanish common noun for the
-stuff). Used esp. to describe the original IBM PCjr keyboard. Vendors
-unanimously liked these because they were cheap, and a lot of early portable
-and laptop products got launched using them. Customers rejected the idea with
-almost equal unanimity, and chiclets are not often seen on anything larger
-than a digital watch any more. chine nual: /sheen'yu*l/ [MIT] n.,obs. The
-Lisp Machine Manual, so called because the title was wrapped around the cover
-so only those letters show. Chinese Army technique: n. Syn. {Mongolian Hordes
-technique}. choke: vt. To reject input, often ungracefully. "I tried building
-an {EMACS} binary to use {X}, but `cpp(1)' choked on all those `#define's."
-see {barf}, {gag}, {vi}. chomp: vt. To lose; specifically, to chew on
-something of which more was bitten off than one can. Probably related to
-gnashing of teeth. see {bagbiter}. A hand gesture commonly accompanies this,
-consisting of the four fingers held together as if in a mitten or hand
-puppet, and the fingers and thumb open and close rapidly to illustrate a
-biting action (much like what the PacMan does in the classic video game,
-though this pantomime seems to predate that). The gesture alone means "chomp
-chomp" (see Verb Doubling). The hand may be pointed at the object of
-complaint, and for real emphasis you can use both hands at once. For example,
-to do this to a person is equivalent to saying "You chomper!" If you point
-the gesture at yourself, it is a humble but humorous admission of some
-failure. You might do this if someone told you that a program you had written
-had failed in some surprising way and you felt dumb for not having
-anticipated it. chomper: n. Someone or something that is chomping; a loser.
-see {loser}, {bagbiter}, {chomp}. Christmas tree: n. A kind of RS-232 line
-tester or breakout box featuring rows of blinking red and green LEDs like
-Christmas lights. Christmas tree packet: n. A packet with every single option
-set for whatever protocol is in use. see {kamikaze packet}, {Chernobyl
-packet}. chug: vi. To run slowly; to {grind} or {grovel}. "The disk is
-chugging like crazy." chrome: [from automotive slang via wargaming] n. Showy
-features added to attract users but which contribute little or nothing to the
-power of a system. "The 3D icons in Motif are just chrome, but they certainly
-are `pretty' chrome!" Distinguished from {bells and whistles} by the fact
-that the latter are usually added to gratify developers' own desires for
-featurefulness. Often used as a term of contempt. Church of the Sub-Genius:
-n. A mutant offshoot of {Discordianism} launched in 1981 as a spoof of
-fundamentalist Christianity by the `Reverend' Ivan Stang, a brilliant
-satirist with a gift for promotion. Popular among hackers as a rich source of
-bizarre imagery and references such as: `Bob' the divine drilling-equipment
-salesman, the Benevolent Space Xists, and the Stark Fist of Removal. Much
-Sub-Genius theory is concerned with the acquisition of the mystical substance
-or quality of `slack'. see also {ha ha only serious}. Cinderella Book: [CMU]
-n. `Introduction to Automata Theory, Languages, and Computation', by John
-Hopcroft and Jeffrey Ullman, Addison-Wesley, 1979. So-called because the
-cover depicts a girl (putatively Cinderella) sitting in front of a Rube
-Goldberg device and holding a rope from that device. The back cover depicts
-the girl with the Rube Goldberg in shambles after having pulled on the rope.
-see also {{book titles}}.
+Rendered in ASCII as `C='. With the (arguable) exception of the Amiga,
+Commodore's machines are notoriously crocky little {bitty box}es (see also
+{PETSCII}). Thus, this usage may owe something to Phillip K. Dick's novel `Do
+Androids Dream of Electric Sheep?' (the basis for the movie `Bladerunner'),
+in which a `chickenhead' is a mutant with below-average intelligence. chiclet
+keyboard: n. A keyboard with small rectangular or lozenge-shaped rubber or
+plastic keys that look like pieces of chewing gum (Chiclet is a brand-name
+and also the Spanish common noun for the stuff). Used esp. to describe the
+original IBM PCjr keyboard. Vendors unanimously liked these because they were
+cheap, and a lot of early portable and laptop products got launched using
+them. Customers rejected the idea with almost equal unanimity, and chiclets
+are not often seen on anything larger than a digital watch any more. chine
+nual: /sheen'yu*l/ [MIT] n.,obs. The Lisp Machine Manual, so called because
+the title was wrapped around the cover so only those letters show. Chinese
+Army technique: n. Syn. {Mongolian Hordes technique}. choke: vt. To reject
+input, often ungracefully. "I tried building an {EMACS} binary to use {X},
+but `cpp(1)' choked on all those `#define's." see {barf}, {gag}, {vi}. chomp:
+vt. To lose; specifically, to chew on something of which more was bitten off
+than one can. Probably related to gnashing of teeth. see {bagbiter}. A hand
+gesture commonly accompanies this, consisting of the four fingers held
+together as if in a mitten or hand puppet, and the fingers and thumb open and
+close rapidly to illustrate a biting action (much like what the PacMan does
+in the classic video game, though this pantomime seems to predate that). The
+gesture alone means "chomp chomp" (see Verb Doubling). The hand may be
+pointed at the object of complaint, and for real emphasis you can use both
+hands at once. For example, to do this to a person is equivalent to saying
+"You chomper!" If you point the gesture at yourself, it is a humble but
+humorous admission of some failure. You might do this if someone told you
+that a program you had written had failed in some surprising way and you felt
+dumb for not having anticipated it. chomper: n. Someone or something that is
+chomping; a loser. see {loser}, {bagbiter}, {chomp}. Christmas tree: n. A
+kind of RS-232 line tester or breakout box featuring rows of blinking red and
+green LEDs like Christmas lights. Christmas tree packet: n. A packet with
+every single option set for whatever protocol is in use. see {kamikaze
+packet}, {Chernobyl packet}. chug: vi. To run slowly; to {grind} or {grovel}.
+"The disk is chugging like crazy." chrome: [from automotive slang via
+wargaming] n. Showy features added to attract users but which contribute
+little or nothing to the power of a system. "The 3D icons in Motif are just
+chrome, but they certainly are `pretty' chrome!" Distinguished from {bells
+and whistles} by the fact that the latter are usually added to gratify
+developers' own desires for featurefulness. Often used as a term of contempt.
+Church of the Sub-Genius: n. A mutant offshoot of {Discordianism} launched in
+1981 as a spoof of fundamentalist Christianity by the `Reverend' Ivan Stang,
+a brilliant satirist with a gift for promotion. Popular among hackers as a
+rich source of bizarre imagery and references such as: `Bob' the divine
+drilling-equipment salesman, the Benevolent Space Xists, and the Stark Fist
+of Removal. Much Sub-Genius theory is concerned with the acquisition of the
+mystical substance or quality of `slack'. see also {ha ha only serious}.
+Cinderella Book: [CMU] n. `Introduction to Automata Theory, Languages, and
+Computation', by John Hopcroft and Jeffrey Ullman, Addison-Wesley, 1979.
+So-called because the cover depicts a girl (putatively Cinderella) sitting in
+front of a Rube Goldberg device and holding a rope from that device. The back
+cover depicts the girl with the Rube Goldberg in shambles after having pulled
+on the rope. see also {{book titles}}.

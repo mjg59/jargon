@@ -70,22 +70,31 @@ register', `scratch disk', `scratch tape', `scratch volume'. see {scratch
 monkey}. 2. [primarily IBM] vt. To delete (as in a file). scratch monkey: n.
 As in, "Before testing or reconfiguring, always mount a scratch monkey.", a
 proverb used to advise caution when dealing with irreplaceable data or
-devices. Used to refer to any non-expendable device or scratch volume hooked
-to a computer, in memory of Mabel, the Swimming Wonder Monkey who expired
-when a computer vendor {PM}ed a machine which was regulating the gas mixture
-that the monkey was breathing at the time. see Appendix A. see {scratch}.
-screw: [MIT] n. A {lose}, usually in software. Especially used for
-user-visible misbehavior caused by a bug or misfeature. This use has become
-quite widespread outside MIT. screwage: /skroo'*j/ n. Like {lossage} but
-connotes that the failure is due to a designed-in misfeature rather than a
-simple inadequacy or mere bug. scribble: n. To modify a data structure in a
-random and unintentionally destructive way. "Bletch! Somebody's
-disk-compactor program went berserk and scribbled on the i-node table." "It
-was working fine until one of the allocation routines scribbled on low core."
-Synonymous with {trash}; compare {mung}, which conveys a bit more intention,
-and {mangle}, which is more violent and final. scrog: /skrog/ [Bell Labs] vt.
-To damage, trash, or corrupt a data structure. "The cblock got scrogged."
-Also reported as `skrog', and ascribed to `The Wizard of Id' comix.
-Equivalent to {scribble} or {mangle} scrozzle: /skroz'l/ vt. Used when a
-self-modifying code segment runs incorrectly and corrupts the running program
-or vital data. "The damn compiler scrozzled itself again!"
+devices. Used to refer to any scratch volume hooked to a computer during any
+risky operation as a replacement for some precious resource or data that
+might get trashed. This term preserves the memory of Mabel, the Swimming
+Wonder Monkey, star of a biological research program at a great American
+university. Mabel was not (so the legend goes) your ordinary monkey; the
+university had spent years teaching her how to swim, breathing through a
+regulator, in order to study the effects of different gas mixtures on her
+physiology. Mabel suffered an untimely demise one day when a computer vendor
+{PM}ed the machine controlling her regulator (see also {provocative
+maintainance}). It is recorded that, after calming down an understandably
+irate customer sufficiently to ascertain the facts of the matter, the
+vendor's troubleshooter called up the {field circus} manager responsible and
+asked him sweetly "Can you swim?". The moral is clear: when in doubt, always
+mount a scratch monkey. see {scratch}. screw: [MIT] n. A {lose}, usually in
+software. Especially used for user-visible misbehavior caused by a bug or
+misfeature. This use has become quite widespread outside MIT. screwage:
+/skroo'*j/ n. Like {lossage} but connotes that the failure is due to a
+designed-in misfeature rather than a simple inadequacy or mere bug. scribble:
+n. To modify a data structure in a random and unintentionally destructive
+way. "Bletch! Somebody's disk-compactor program went berserk and scribbled on
+the i-node table." "It was working fine until one of the allocation routines
+scribbled on low core." Synonymous with {trash}; compare {mung}, which
+conveys a bit more intention, and {mangle}, which is more violent and final.
+scrog: /skrog/ [Bell Labs] vt. To damage, trash, or corrupt a data structure.
+"The cblock got scrogged." Also reported as `skrog', and ascribed to `The
+Wizard of Id' comix. Equivalent to {scribble} or {mangle} scrozzle: /skroz'l/
+vt. Used when a self-modifying code segment runs incorrectly and corrupts the
+running program or vital data. "The damn compiler scrozzled itself again!"

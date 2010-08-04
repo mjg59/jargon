@@ -6,20 +6,24 @@ said "To log in, type log one comma jay are en" (that is, "log 1,JRN"), the
 listener would have understood that he should use his own computer id in
 place of `JRN'. juggling eggs: vi. Keeping a lot of {state} in your head
 while modifying a program. "Don't bother me now, I'm juggling eggs", meaning
-an interrupt is likely to result in the program being scrambled. see {hack
-mode}. jump off into never-never land: [from J. M. Barrie's `Peter Pan'] v.
-Same as {branch to Fishkill}, but more common in technical cultures
-associated with non-IBM computers that use the term `jump' rather than
-`branch'. Compare {hyperspace}. = K = ===== K: /kay/ [from {kilo-}] n. A
-kilobyte. This is used both as a spoken word and a written suffix (like {meg}
-and {gig} for megabyte and gigabyte). The formal SI metric prefix for 1000 is
-`k'; some use this strictly, reserving `K' for multiplication by 1024 (KB is
-`kilobytes'). see also {{quantifiers}}. K&R: [Kernighan and Ritchie] n. Brian
-Kernighan & Dennis Ritchie's `The C Programming Language', esp. the classic
-and influential first edition (Prentice-Hall 1978, ISBN 0-113-110163-3). Syn.
-{White Book}, {Old Testament}. see also {New Testament}. kahuna: /k*-hoo'nuh/
-[IBM, from the Hawaiian title for a shaman] n. Synonym for {wizard}, {guru}.
-kamikaze packet: n. The `official' jargon for what is more commonly called a
+an interrupt is likely to result in the program being scrambled. In the
+classic first-contact SF novel `The Mote in God's Eye' by Larry Niven and
+Jerry Pournelle, an alien describes a very difficult task by saying "We
+juggle priceless eggs in variable gravity." That was a very hackish use of
+language. see also {hack mode}. jump off into never-never land: [from J. M.
+Barrie's `Peter Pan'] v. Same as {branch to Fishkill}, but more common in
+technical cultures associated with non-IBM computers that use the term `jump'
+rather than `branch'. Compare {hyperspace}. = K = ===== K: /kay/ [from
+{kilo-}] n. A kilobyte. This is used both as a spoken word and a written
+suffix (like {meg} and {gig} for megabyte and gigabyte). The formal SI metric
+prefix for 1000 is `k'; some use this strictly, reserving `K' for
+multiplication by 1024 (KB is `kilobytes'). see also {{quantifiers}}. K&R:
+[Kernighan and Ritchie] n. Brian Kernighan & Dennis Ritchie's `The C
+Programming Language', esp. the classic and influential first edition
+(Prentice-Hall 1978, ISBN 0-113-110163-3). Syn. {White Book}, {Old
+Testament}. see also {New Testament}. kahuna: /k*-hoo'nuh/ [IBM, from the
+Hawaiian title for a shaman] n. Synonym for {wizard}, {guru}. kamikaze
+packet: n. The `official' jargon for what is more commonly called a
 {Christmas tree packet}. RFC1025, `TCP and IP Bake Off' says: 10 points for
 correctly being able to process a "Kamikaze" packet (AKA nastygram, christmas
 tree packet, lamp test segment, et al.). That is, correctly handle a segment

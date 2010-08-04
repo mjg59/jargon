@@ -100,13 +100,13 @@ waiting for (something). "Lunch is blocked on Phil's arrival." block transfer
 computations: n. From the Dr. Who television series: in the show, it referred
 to computations so fiendishly subtle and complex that they could not be
 performed by machines. Used to refer to any task that should be expressible
-as an algorithm in theory, but isn't. blow an EPROM: v. To program a
-read-only memory, e.g. for use with an embedded system. This term arises
-because the programming process for the Programmable Read-Only Memories
-(PROMs) that preceded present-day Erasable Programmable Read-Only Memories
-(EPROMs) involved intentionally blowing tiny electrical fuses on the chip.
-Thus, one was said to "blow a PROM" and the terminology carried over even
-though the write process on EPROMs is nondestructive. blow away: vt. To
+as an algorithm in theory, but isn't. blow an EPROM: v. (alt. `blast a PROM')
+To program a read-only memory, e.g. for use with an embedded system. This
+term arises because the programming process for the Programmable Read-Only
+Memories (PROMs) that preceded present-day Erasable Programmable Read-Only
+Memories (EPROMs) involved intentionally blowing tiny electrical fuses on the
+chip. Thus, one was said to "blow a PROM" and the terminology carried over
+even though the write process on EPROMs is nondestructive. blow away: vt. To
 remove files and directories from permanent storage with extreme prejudice,
 generally by accident. Oppose {nuke}. blow out: vi. Of software, to fail
 spectacularly; almost as serious as {crash and burn}. see {blow past}. blow

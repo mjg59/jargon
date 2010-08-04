@@ -130,22 +130,23 @@ the material is printed on ordinary paper in B&W as an indication of
 superficiality. Four-color-glossy manuals are *never* useful for finding a
 problem. 2. [rare] Applied by extension to manual pages that don't contain
 enough information to diagnose why the program doesn't produce the expected
-or desired output. fred: n. 1. The personal name most frequently used as a
-metasyntactic variable (see {foo}). Allegedly popular because it's easy to
-type on a standard QWERTY keyboard. Unlike {J. Random Hacker} or `J. Random
-Loser', this name has no positive or negative loading (but see {Mbogo, Dr.
-Fred}). 2. An acronym for `Flipping Ridiculous Electronic Device'; other
-F-verbs may be substituted for "flipping". frednet: /fred'net/ n. Used to
-refer to some {random} and uncommon protocol encountered on a network. "We're
-implementing bridging in our router to solve the frednet problem." freeware:
-n. 1. Free software, often written by enthusiasts and distributed by users'
-groups, or via electronic mail, local bulletin boards, {USENET}, or other
-electronic media. At one time, `freeware' was a trademark of Andrew
-Fluegelman, the author of the well-known MS-DOS comm program PC-TALK III. It
-wasn't enforced after his mysterious disappearance in 1984. see {shareware}.
-2: Sometimes more specifically used for software which is given away with no
-conditions nor requests for contributions attached. freeze: v. To lock an
-evolving software distribution or document against changes so it can be
-released with some hope of stability. Carries the strong implication that the
-item in question will `unfreeze' at some future date. "OK, fix that bug and
-we'll freeze for release."
+or desired output. fragile: adj. Syn {brittle}. fred: n. 1. The personal name
+most frequently used as a metasyntactic variable (see {foo}). Allegedly
+popular because it's easy to type on a standard QWERTY keyboard. Unlike {J.
+Random Hacker} or `J. Random Loser', this name has no positive or negative
+loading (but see {Mbogo, Dr. Fred}). 2. An acronym for `Flipping Ridiculous
+Electronic Device'; other F-verbs may be substituted for "flipping". frednet:
+/fred'net/ n. Used to refer to some {random} and uncommon protocol
+encountered on a network. "We're implementing bridging in our router to solve
+the frednet problem." freeware: n. 1. Free software, often written by
+enthusiasts and distributed by users' groups, or via electronic mail, local
+bulletin boards, {USENET}, or other electronic media. At one time, `freeware'
+was a trademark of Andrew Fluegelman, the author of the well-known MS-DOS
+comm program PC-TALK III. It wasn't enforced after his mysterious
+disappearance in 1984. see {shareware}. 2: Sometimes more specifically used
+for software which is given away with no conditions nor requests for
+contributions attached. freeze: v. To lock an evolving software distribution
+or document against changes so it can be released with some hope of
+stability. Carries the strong implication that the item in question will
+`unfreeze' at some future date. "OK, fix that bug and we'll freeze for
+release."

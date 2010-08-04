@@ -202,37 +202,38 @@ improvement, with the frequent result that the code has become
 incomprehensible. 2. aimless small modification to a program, esp. for some
 pointless goal. 3. Approx. syn. for {bit bashing}; esp. used for the act of
 frobbing the device control register of a peripheral in an attempt to get it
-back to a known state. bit-paired keyboard: n. obs. A non-standard keyboard
-layout which seems to have originated with the Teletype ASR-33 and remained
-common for several years on early computer equipment. The ASR-33 was a
-mechanical device (see {EOU}), so the only way to generate the character
-codes from keystrokes was by some physical linkage. The design of the ASR-33
-assigned each character key a basic pattern which could be modified by
-flipping bits if the SHIFT or CTRL key were pressed. In order to avoid making
-the thing more of a Rube Goldberg kluge than it already was, the design had
-to group characters which shared the same basic bit pattern on one key.
-Looking at the ASCII chart, we find: 3 high 4 low bits bits 0000 0001 0010
-0011 0100 0101 0110 0111 1000 1001 010 space ! " # $ % & ' ( ) 011 0 1 2 3 4
-5 6 7 8 9 That's why the characters !"#$%&'() appear where they do on a
-Teletype. This was *not* the weirdest variant of the {QWERTY} layout widely
-seen, by the way; that prize should probably go to one of several (differing)
-arrangements on IBM's even clunkier 026 and 029 card punches. When electronic
-terminals became popular in the early 1970s there was no agreement in the
-industry over how the keyboards should be laid out. Some vendors opted to
-emulate the Teletype keyboard, while others used the flexibility of
-electronic circuitry to make their product look like an office typewriter.
-These alternatives became known as `bit-paired' and `typewriter-paired'
-keyboards. To a hacker, the bit-paired keyboard seemed far more logical ---
-and because most hackers in those days had never learned to touch-type, there
-was little pressure from the pioneering users to adapt keyboards to the
-typewriter standard. The doom of the bit-paired keyboard was the large-scale
-introduction of the computer terminal into the normal office environment,
-where out-and-out technophobes were expected to use the equipment. The
-`typewriter-paired' standard became universal, `bit-paired' hardware was
-quickly junked or relegated to dusty corners, and both terms passed into
-disuse. bitblt: /bit'blit/ n. [from {BLT}, q.v.] 1. Any of a closely related
-family of algorithms for moving and copying rectangles of bits between main
-and display memory on a bit-mapped device, or between two areas of either
-main or display memory (the requirement to do the {Right Thing} in the case
-of overlapping source and destination rectangles is what makes BitBlt
-tricky). 2. Synonym for {blit} or {BLT}. Both uses are borderline techspeak.
+back to a known state. bit-paired keyboard: n. obs. (alt. `bit-shift
+keyboard') A non-standard keyboard layout which seems to have originated with
+the Teletype ASR-33 and remained common for several years on early computer
+equipment. The ASR-33 was a mechanical device (see {EOU}), so the only way to
+generate the character codes from keystrokes was by some physical linkage.
+The design of the ASR-33 assigned each character key a basic pattern which
+could be modified by flipping bits if the SHIFT or CTRL key were pressed. In
+order to avoid making the thing more of a Rube Goldberg kluge than it already
+was, the design had to group characters which shared the same basic bit
+pattern on one key. Looking at the ASCII chart, we find: 3 high 4 low bits
+bits 0000 0001 0010 0011 0100 0101 0110 0111 1000 1001 010 space ! " # $ % &
+' ( ) 011 0 1 2 3 4 5 6 7 8 9 That's why the characters !"#$%&'() appear
+where they do on a Teletype. This was *not* the weirdest variant of the
+{QWERTY} layout widely seen, by the way; that prize should probably go to one
+of several (differing) arrangements on IBM's even clunkier 026 and 029 card
+punches. When electronic terminals became popular in the early 1970s there
+was no agreement in the industry over how the keyboards should be laid out.
+Some vendors opted to emulate the Teletype keyboard, while others used the
+flexibility of electronic circuitry to make their product look like an office
+typewriter. These alternatives became known as `bit-paired' and
+`typewriter-paired' keyboards. To a hacker, the bit-paired keyboard seemed
+far more logical --- and because most hackers in those days had never learned
+to touch-type, there was little pressure from the pioneering users to adapt
+keyboards to the typewriter standard. The doom of the bit-paired keyboard was
+the large-scale introduction of the computer terminal into the normal office
+environment, where out-and-out technophobes were expected to use the
+equipment. The `typewriter-paired' standard became universal, `bit-paired'
+hardware was quickly junked or relegated to dusty corners, and both terms
+passed into disuse. bitblt: /bit'blit/ n. [from {BLT}, q.v.] 1. Any of a
+closely related family of algorithms for moving and copying rectangles of
+bits between main and display memory on a bit-mapped device, or between two
+areas of either main or display memory (the requirement to do the {Right
+Thing} in the case of overlapping source and destination rectangles is what
+makes BitBlt tricky). 2. Synonym for {blit} or {BLT}. Both uses are
+borderline techspeak.
