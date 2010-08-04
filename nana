@@ -31,16 +31,16 @@ It may imply naivete on the part of the programmer, although there are
 situations where a naive algorithm is preferred, because it is more important
 to keep the code comprehensible than to go for maximum performance. "I know
 the linear search is naive, but in this case the list typically only has half
-a dozen items." :naive user: n. A {luser}. Tends to imply someone who is
-ignorant mainly owing to inexperience. When this is applied to someone who
-_has_ experience, there is a definite implication of stupidity. :NAK: /nak/
-interj. [from the ASCII mnemonic for 0010101] 1. On-line joke answer to
-{ACK}?: "I'm not here." 2. On-line answer to a request for chat: "I'm not
-available." 3. Used to politely interrupt someone to tell them you don't
-understand their point or that they have suddenly stopped making sense. see
-{ACK}, sense 3. "And then, after we recode the project in COBOL...." "Nak,
-Nak, Nak! I thought I heard you say COBOL!" 4. A negative answer. "OK if I
-boot the server?" "NAK!" :NANA: // [Usenet] The newsgroups
+a dozen items." Compare {brute force}. :naive user: n. A {luser}. Tends to
+imply someone who is ignorant mainly owing to inexperience. When this is
+applied to someone who _has_ experience, there is a definite implication of
+stupidity. :NAK: /nak/ interj. [from the ASCII mnemonic for 0010101] 1.
+On-line joke answer to {ACK}?: "I'm not here." 2. On-line answer to a request
+for chat: "I'm not available." 3. Used to politely interrupt someone to tell
+them you don't understand their point or that they have suddenly stopped
+making sense. see {ACK}, sense 3. "And then, after we recode the project in
+COBOL...." "Nak, Nak, Nak! I thought I heard you say COBOL!" 4. A negative
+answer. "OK if I boot the server?" "NAK!" :NANA: // [Usenet] The newsgroups
 news.admin.net-abuse.*, devoted to fighting {spam} and network abuse. Each
 individual newsgroup is often referred to by adding a letter to NANA. For
 example, NANAU would refer to news.admin.net-abuse.usenet. When spam began to

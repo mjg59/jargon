@@ -15,7 +15,10 @@ said to have a "connection to the twilight zone". :twink: /twink/ n. 1.
 [Berkeley] A clue-repellant user; the next step beyond a clueless one. 2.
 [UCSC] A {read-only user}. Also reported on the Usenet group soc.motss; may
 derive from gay slang for a cute young thing with nothing upstairs (compare
-mainstream `chick'). :twirling baton: n. [PLATO] The overstrike sequence
+mainstream `chick'). 3. On MU* systems that specialize in role-playing,
+refers to behavior of a (usually inexperienced) player that either ignores
+rules or social convention, or disrupts the natural flow of a scene to show
+of super powers. :twirling baton: n. [PLATO] The overstrike sequence
 -/|\-/|\- which produces an animated twirling baton. If you output it with a
 single backspace between characters, the baton spins in place. If you output
 the sequence BS SP between characters, the baton spins from left to right. If
@@ -45,7 +48,7 @@ letter looks a lot like the English letter "u"). :UBD: /U-B-D/ n.
 [abbreviation for `User Brain Damage'] An abbreviation used to close out
 trouble reports obviously due to utter cluelessness on the user's part.
 Compare {pilot error}; oppose {PBD}; see also {brain-damaged}. :UBE: // n.
-[abbrev., Unsoliclited Bulk Email] A widespread, more formal term for email
+[abbrev., Unsolicited Bulk Email] A widespread, more formal term for email
 {spam}. Compare {UCE}. The UBE term recognizes that spam is uttered by
 nonprofit and advocacy groups whose motives are not commercial. :UCE: n.
 [abbrev., Unsolicited Commercial Email] A widespread, more formal term for
@@ -53,22 +56,24 @@ email {spam}. Compare {UBE}, which may be superseding it. :UDP: /U-D-P/ v.,n.
 [Usenet] Abbreviation for {Usenet Death Penalty}. Common (probably now more
 so than the full form), and frequently verbed. Compare {IDP}. :UN*X: n. Used
 to refer to the Unix operating system (a trademark of AT&T, then of Novell,
-then of SCO, and then of Caldera) in writing, but avoiding the need for the
-ugly {(TM)} typography. Also used to refer to any or all varieties of Unixoid
-operating systems. Ironically, lawyers now say that the requirement for the
-trademark postfix has no legal force, but the asterisk usage is entrenched
-anyhow. It has been suggested that there may be a psychological connection to
-practice in certain religions (especially Judaism) in which the name of the
-deity is never written out in full, e.g., `YHWH' or `G-d' is used. see also
-{glob} and {splat out}. :undefined external reference: excl. [Unix] A message
-from Unix's linker. Used in speech to flag loose ends or dangling references
-in an argument or discussion. :under the hood: adj. [hot-rodder talk] 1. Used
-to introduce the underlying implementation of a product (hardware, software,
-or idea). Implies that the implementation is not intuitively obvious from the
-appearance, but the speaker is about to enable the listener to {grok} it.
-"Let's now look under the hood to see how ...." 2. Can also imply that the
-implementation is much simpler than the appearance would indicate: "Under the
-hood, we are just fork/execing the shell." 3. Inside a chassis, as in "Under
-the hood, this baby has a 40MHz 68030!" :undocumented feature: n. see
-{feature}. :uninteresting: adj. 1. Said of a problem that, although
-{nontrivial}, can be solved simply by throwing sufficient resources at it.
+then of Univel, then of the Open Group; the source code parted company with
+it after Novell and was owned by SCO, which was acquired by Caldera) in
+writing, but avoiding the need for the ugly {(TM)} typography. Also used to
+refer to any or all varieties of Unixoid operating systems. Ironically,
+lawyers now say that the requirement for the trademark postfix has no legal
+force, but the asterisk usage is entrenched anyhow. It has been suggested
+that there may be a psychological connection to practice in certain religions
+(especially Judaism) in which the name of the deity is never written out in
+full, e.g., `YHWH' or `G-d' is used. see also {glob} and {splat out}.
+:undefined external reference: excl. [Unix] A message from Unix's linker.
+Used in speech to flag loose ends or dangling references in an argument or
+discussion. :under the hood: adj. [hot-rodder talk] 1. Used to introduce the
+underlying implementation of a product (hardware, software, or idea). Implies
+that the implementation is not intuitively obvious from the appearance, but
+the speaker is about to enable the listener to {grok} it. "Let's now look
+under the hood to see how ...." 2. Can also imply that the implementation is
+much simpler than the appearance would indicate: "Under the hood, we are just
+fork/execing the shell." 3. Inside a chassis, as in "Under the hood, this
+baby has a 40MHz 68030!" :undocumented feature: n. see {feature}.
+:uninteresting: adj. 1. Said of a problem that, although {nontrivial}, can be
+solved simply by throwing sufficient resources at it.

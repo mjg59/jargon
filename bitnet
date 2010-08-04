@@ -109,39 +109,51 @@ Another part of it is that radio-frequency leakage from the lamp wiring was
 beginning to be a problem as far back as transistor machines. But the most
 fundamental fact is that there are very few signals slow enough to blink an
 LED these days! With slow CPUs, you could watch the bus register or
-instruction counter tick, but at 33/66/150MHz it's all a blur. Finally, a
-version updated for the Internet has been seen on news.admin.net-abuse.email:
-ACHTUNG! ALLES LOOKENSPEEPERS! Das Internet is nicht fuer gefingerclicken und
-giffengrabben. Ist easy droppenpacket der routers und overloaden der backbone
-mit der spammen und der me-tooen. Ist nicht fuer gewerken bei das dumpkopfen.
-Das mausklicken sichtseeren keepen das bandwit-spewin hans in das pockets
-muss; relaxen und watchen das cursorblinken. This newest version partly
-reflects reports that the word `blinkenlights' is (in 1999) undergoing
-something of a revival in usage, but applied to networking equipment. The
-transmit and receive lights on routers, activity lights on switches and hubs,
-and other network equipment often blink in visually pleasing and seemingly
-coordinated ways. Although this is different in some ways from register
-readings, a tall stack of Cisco equipment or a 19-inch rack of ISDN terminals
-can provoke a similar feeling of hypnotic awe, especially in a darkened
-network operations center or server room. :blit: /blit/ vt. 1. [common] To
-copy a large array of bits from one part of a computer's memory to another
-part, particularly when the memory is being used to determine what is shown
-on a display screen. "The storage allocator picks through the table and
-copies the good parts up into high memory, and then blits it all back down
-again." see {bitblt}, {BLT}, {dd}, {cat}, {blast}, {snarf}. More generally,
-to perform some operation (such as toggling) on a large array of bits while
-moving them. 2. [historical, rare] Sometimes all-capitalized as `BLIT': an
-early experimental bit-mapped terminal designed by Rob Pike at Bell Labs,
-later commercialized as the AT&T 5620. (The folk etymology from `Bell Labs
-Intelligent Terminal' is incorrect. Its creators liked to claim that "Blit"
-stood for the Bacon, Lettuce, and Interactive Tomato.) :blitter: /blit'r/ n.
-[common] A special-purpose chip or hardware system built to perform {blit}
-operations, esp. used for fast implementation of bit-mapped graphics. The
-Commodore Amiga and a few other micros have these, but since 1990 the trend
-has been away from them (however, see {cycle of reincarnation}). Syn. {raster
-blaster}. :blivet: /bliv'*t/ n. [allegedly from a World War II military term
-meaning "ten pounds of manure in a five-pound bag"] 1. An intractable
-problem. 2. A crucial piece of hardware that can't be fixed or replaced if it
-breaks. 3. A tool that has been hacked over by so many incompetent
-programmers that it has become an unmaintainable tissue of hacks. 4. An
-out-of-control but unkillable development effort.
+instruction counter tick, but at 33/66/150MHz it's all a blur. Despite this,
+a couple of relatively recent computer designs of note have featured
+programmable blinkenlights that were added just because they looked cool. The
+Connection Machine, a 65,536-processor parallel computer designed in the
+mid-1980s, was a black cube with one side covered with a grid of red
+blinkenlights; the sales demo had them evolving {life} patterns. A few years
+later the ill-fated BeBox (a personal computer designed to run the BeOS
+operating system) featured twin rows of blinkenlights on the case front. When
+Be, Inc. decided to get out of the hardware business in 1996 and instead
+ported their OS to the PowerPC and later to the Intel architecture, many
+users severly suffered from the absence of their beloved blinkenlights.
+Before long an external version of the blinkenlights driven by a PC serial
+port became available; there is some sort of plot symmetry in the fact that
+it was assembled by a German. Finally, a version updated for the Internet has
+been seen on news.admin.net-abuse.email: ACHTUNG! ALLES LOOKENSPEEPERS! Das
+Internet is nicht fuer gefingerclicken und giffengrabben. Ist easy
+droppenpacket der routers und overloaden der backbone mit der spammen und der
+me-tooen. Ist nicht fuer gewerken bei das dumpkopfen. Das mausklicken
+sichtseeren keepen das bandwit-spewin hans in das pockets muss; relaxen und
+watchen das cursorblinken. This newest version partly reflects reports that
+the word `blinkenlights' is (in 1999) undergoing something of a revival in
+usage, but applied to networking equipment. The transmit and receive lights
+on routers, activity lights on switches and hubs, and other network equipment
+often blink in visually pleasing and seemingly coordinated ways. Although
+this is different in some ways from register readings, a tall stack of Cisco
+equipment or a 19-inch rack of ISDN terminals can provoke a similar feeling
+of hypnotic awe, especially in a darkened network operations center or server
+room. :blit: /blit/ vt. 1. [common] To copy a large array of bits from one
+part of a computer's memory to another part, particularly when the memory is
+being used to determine what is shown on a display screen. "The storage
+allocator picks through the table and copies the good parts up into high
+memory, and then blits it all back down again." see {bitblt}, {BLT}, {dd},
+{cat}, {blast}, {snarf}. More generally, to perform some operation (such as
+toggling) on a large array of bits while moving them. 2. [historical, rare]
+Sometimes all-capitalized as `BLIT': an early experimental bit-mapped
+terminal designed by Rob Pike at Bell Labs, later commercialized as the AT&T
+5620. (The folk etymology from `Bell Labs Intelligent Terminal' is incorrect.
+Its creators liked to claim that "Blit" stood for the Bacon, Lettuce, and
+Interactive Tomato.) :blitter: /blit'r/ n. [common] A special-purpose chip or
+hardware system built to perform {blit} operations, esp. used for fast
+implementation of bit-mapped graphics. The Commodore Amiga and a few other
+micros have these, but since 1990 the trend has been away from them (however,
+see {cycle of reincarnation}). Syn. {raster blaster}. :blivet: /bliv'*t/ n.
+[allegedly from a World War II military term meaning "ten pounds of manure in
+a five-pound bag"] 1. An intractable problem. 2. A crucial piece of hardware
+that can't be fixed or replaced if it breaks. 3. A tool that has been hacked
+over by so many incompetent programmers that it has become an unmaintainable
+tissue of hacks. 4. An out-of-control but unkillable development effort.

@@ -26,18 +26,18 @@ old-timers' capacity to acculturate them; to those who nostalgically recall
 the period before hand, this triggered an inexorable decline in the quality
 of discussions on newsgroups. see also {AOL!}. :server: n. A kind of {daemon}
 that performs a service for the requester and which often runs on a computer
-other than the one on which the server runs. A particularly common term on
-the Internet, which is rife with `web servers', `name servers', `domain
-servers', `news servers', `finger servers', and the like. :SEX: /seks/ [Sun
-Users' Group & elsewhere] n. 1. Software EXchange. A technique invented by
-the blue-green algae hundreds of millions of years ago to speed up their
-evolution, which had been terribly slow up until then. Today, SEX parties are
-popular among hackers and others (of course, these are no longer limited to
-exchanges of genetic software). In general, SEX parties are a {Good Thing},
-but unprotected SEX can propagate a {virus}. see also {pubic directory}. 2.
-The rather Freudian mnemonic often used for Sign EXtend, a machine
-instruction found in the PDP-11 and many other architectures. The RCA 1802
-chip used in the early Elf and SuperElf personal computers had a `SEt X
+other than the one on which the requestor/client runs. A particularly common
+term on the Internet, which is rife with `web servers', `name servers',
+`domain servers', `news servers', `finger servers', and the like. :SEX:
+/seks/ [Sun Users' Group & elsewhere] n. 1. Software EXchange. A technique
+invented by the blue-green algae hundreds of millions of years ago to speed
+up their evolution, which had been terribly slow up until then. Today, SEX
+parties are popular among hackers and others (of course, these are no longer
+limited to exchanges of genetic software). In general, SEX parties are a
+{Good Thing}, but unprotected SEX can propagate a {virus}. see also {pubic
+directory}. 2. The rather Freudian mnemonic often used for Sign EXtend, a
+machine instruction found in the PDP-11 and many other architectures. The RCA
+1802 chip used in the early Elf and SuperElf personal computers had a `SEt X
 register' SEX instruction, but this seems to have had little folkloric
 impact. The Data General instruction set also had `SEX'. {DEC}'s engineers
 nearly got a PDP-11 assembler that used the `SEX' mnemonic out the door at

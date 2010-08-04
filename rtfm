@@ -135,50 +135,49 @@ use; it has since become one of Unix's most important and heavily used
 application libraries. Nethack, Omega, Larn, Angband, and an entire subgenre
 of computer dungeon games (all known as `roguelikes') all took off from the
 inspiration provided by `rogue(6)'; the popular Windows game Diablo, though
-graphics-intensive, has very similar play logic. see also {nethack}. 2.
-[Usenet] adj. An {ISP} which permits net abuse (usually in the form of
-{spam}ming) by its customers, or which itself engages in such activities.
-Rogue ISPs are sometimes subject to {IDP}s or {UDP}s. Sometimes deliberately
-mispelled as "rouge". see also {nethack}, {moria}, {Angband}.
-:room-temperature IQ: quant. [IBM] 80 or below (nominal room temperature is
-72 degrees Fahrenheit, 22 degrees Celsius). Used in describing the expected
-intelligence range of the {luser}. "Well, but how's this interface going to
-play with the room-temperature IQ crowd?" see {drool-proof paper}. This is a
-much more insulting phrase in countries that use Celsius thermometers. :root:
-n. [Unix] 1. The {superuser} account (with user name `root') that ignores
-permission bits, user number 0 on a Unix system. The term {avatar} is also
-used. 2. The top node of the system directory structure; historically the
-home directory of the root user, but probably named after the root of an
-(inverted) tree. 3. By extension, the privileged system-maintenance login on
-any OS. see {root mode}, {go root}, see also {wheel}. :root mode: n. Syn.
-with {wizard mode} or `wheel mode'. Like these, it is often generalized to
-describe privileged states in systems other than OSes. :rot13: /rot
-ther'teen/ n.,v. [Usenet: from `rotate alphabet 13 places'] The simple
-Caesar-cypher encryption that replaces each English letter with the one 13
-places forward or back along the alphabet, so that "The butler did it!"
-becomes "Gur ohgyre qvq vg!" Most Usenet news reading and posting programs
-include a rot13 feature. It is used to enclose the text in a sealed wrapper
-that the reader must choose to open -- e.g., for posting things that might
-offend some readers, or {spoiler}s. A major advantage of rot13 over rot(N)
-for other N is that it is self-inverse, so the same code can be used for
-encoding and decoding. see also {spoiler space}, which has partly displaced
-rot13 since non-Unix-based newsreaders became common. :rotary debugger: n.
-[Commodore] Essential equipment for those late-night or early-morning
-debugging sessions. Mainly used as sustenance for the hacker. Comes in many
-decorator colors, such as Sausage, Pepperoni, and Garbage. see {ANSI standard
-pizza}. :round tape: n. Industry-standard 1/2-inch magnetic tape (7- or
-9-track) on traditional circular reels. see {macrotape}, oppose {square
-tape}. :RSN: /R-S-N/ adj. see {Real Soon Now}. :RTBM: /R-T-B-M/ imp. [Unix]
-Commonwealth Hackish variant of {RTFM}; expands to `Read The Bloody Manual'.
-RTBM is often the entire text of the first reply to a question from a
-{newbie}; the _second_ would escalate to "RTFM". :RTFAQ: /R-T-F-A-Q/ imp.
-[Usenet: primarily written, by analogy with {RTFM}] Abbrev. for `Read the
-FAQ!', an exhortation that the person addressed ought to read the newsgroup's
-{FAQ list} before posting questions. :RTFB: /R-T-F-B/ imp. [Unix]
-Abbreviation for `Read The Fucking Binary'. Used when neither documentation
-nor source for the problem at hand exists, and the only thing to do is use
-some debugger or monitor and directly analyze the assembler or even the
-machine code. "No source for the buggy port driver? Aaargh! I _hate_
+graphics-intensive, has very similar play logic. see also {nethack}. See also
+{nethack}, {moria}, {Angband}. 2. [Usenet] adj. An {ISP} which permits net
+abuse (usually in the form of {spam}ming) by its customers, or which itself
+engages in such activities. Rogue ISPs are sometimes subject to {IDP}s or
+{UDP}s. Sometimes deliberately mispelled as "rouge". :room-temperature IQ:
+quant. [IBM] 80 or below (nominal room temperature is 72 degrees Fahrenheit,
+22 degrees Celsius). Used in describing the expected intelligence range of
+the {luser}. "Well, but how's this interface going to play with the
+room-temperature IQ crowd?" see {drool-proof paper}. This is a much more
+insulting phrase in countries that use Celsius thermometers. :root: n. [Unix]
+1. The {superuser} account (with user name `root') that ignores permission
+bits, user number 0 on a Unix system. The term {avatar} is also used. 2. The
+top node of the system directory structure; historically the home directory
+of the root user, but probably named after the root of an (inverted) tree. 3.
+By extension, the privileged system-maintenance login on any OS. see {root
+mode}, {go root}, see also {wheel}. :root mode: n. Syn. with {wizard mode} or
+`wheel mode'. Like these, it is often generalized to describe privileged
+states in systems other than OSes. :rot13: /rot ther'teen/ n.,v. [Usenet:
+from `rotate alphabet 13 places'] The simple Caesar-cypher encryption that
+replaces each English letter with the one 13 places forward or back along the
+alphabet, so that "The butler did it!" becomes "Gur ohgyre qvq vg!" Most
+Usenet news reading and posting programs include a rot13 feature. It is used
+to enclose the text in a sealed wrapper that the reader must choose to open
+-- e.g., for posting things that might offend some readers, or {spoiler}s. A
+major advantage of rot13 over rot(N) for other N is that it is self-inverse,
+so the same code can be used for encoding and decoding. see also {spoiler
+space}, which has partly displaced rot13 since non-Unix-based newsreaders
+became common. :rotary debugger: n. [Commodore] Essential equipment for those
+late-night or early-morning debugging sessions. Mainly used as sustenance for
+the hacker. Comes in many decorator colors, such as Sausage, Pepperoni, and
+Garbage. see {ANSI standard pizza}. :round tape: n. Industry-standard
+1/2-inch magnetic tape (7- or 9-track) on traditional circular reels. see
+{macrotape}, oppose {square tape}. :RSN: /R-S-N/ adj. see {Real Soon Now}.
+:RTBM: /R-T-B-M/ imp. [Unix] Commonwealth Hackish variant of {RTFM}; expands
+to `Read The Bloody Manual'. RTBM is often the entire text of the first reply
+to a question from a {newbie}; the _second_ would escalate to "RTFM". :RTFAQ:
+/R-T-F-A-Q/ imp. [Usenet: primarily written, by analogy with {RTFM}] Abbrev.
+for `Read the FAQ!', an exhortation that the person addressed ought to read
+the newsgroup's {FAQ list} before posting questions. :RTFB: /R-T-F-B/ imp.
+[Unix] Abbreviation for `Read The Fucking Binary'. Used when neither
+documentation nor source for the problem at hand exists, and the only thing
+to do is use some debugger or monitor and directly analyze the assembler or
+even the machine code. "No source for the buggy port driver? Aaargh! I _hate_
 proprietary operating systems. Time to RTFB." Of the various RTF? forms,
 `RTFB' is the least pejorative against anyone asking a question for which
 RTFB is the answer; the anger here is directed at the absence of both source

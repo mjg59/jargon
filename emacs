@@ -48,17 +48,17 @@ access to shared resources. 2. Simulated; performing the functions of
 something that isn't really there. An imaginative child's doll may be a
 virtual playmate. Oppose {real}. :virtual beer: n. Praise or thanks. Used
 universally in the Linux community. Originally this term signified cash,
-after a famous incident in which some some Britishers who wanted to buy Linus
-a beer and sent him money to Finland to do so. :virtual Friday: n. (also
-`logical Friday') The last day before an extended weekend, if that day is not
-a `real' Friday. For example, the U.S. holiday Thanksgiving is always on a
-Thursday. The next day is often also a holiday or taken as an extra day off,
-in which case Wednesday of that week is a virtual Friday (and Thursday is a
-virtual Saturday, as is Friday). There are also `virtual Mondays' that are
-actually Tuesdays, after the three-day weekends associated with many national
-holidays in the U.S. :virtual reality: n. 1. Computer simulations that use
-3-D graphics and devices such as the Dataglove to allow the user to interact
-with the simulation. see {cyberspace}. 2. A form of network interaction
+after a famous incident in which some Britishers who wanted to buy Linus a
+beer sent him money to Finland to do so. :virtual Friday: n. (also `logical
+Friday') The last day before an extended weekend, if that day is not a `real'
+Friday. For example, the U.S. holiday Thanksgiving is always on a Thursday.
+The next day is often also a holiday or taken as an extra day off, in which
+case Wednesday of that week is a virtual Friday (and Thursday is a virtual
+Saturday, as is Friday). There are also `virtual Mondays' that are actually
+Tuesdays, after the three-day weekends associated with many national holidays
+in the U.S. :virtual reality: n. 1. Computer simulations that use 3-D
+graphics and devices such as the Dataglove to allow the user to interact with
+the simulation. see {cyberspace}. 2. A form of network interaction
 incorporating aspects of role-playing games, interactive theater,
 improvisational comedy, and `true confessions' magazines. In a virtual
 reality forum (such as Usenet's alt.callahans newsgroup or the {MUD}

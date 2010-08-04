@@ -304,111 +304,117 @@ files. Often abbreviated `FReq'; files are often announced as being
 "available for/by anonymous FTP" on the Internet. 2. vt. The act of getting a
 copy of a file by using the File Request option of the FidoNet mailer. :file
 signature: n. A {magic number}, sense 3. :filk: /filk/ n.,v. [from SF fandom,
-where a typo for `folk' was adopted as a new word] A popular or folk song
-with lyrics revised or completely new lyrics and/or music, intended for
-humorous effect when read, and/or to be sung late at night at SF conventions.
-There is a flourishing subgenre of these called `computer filks', written by
-hackers and often containing rather sophisticated technical humor. see
-{double bucky} for an example. Compare {grilf}, {hing}, {pr0n}, and
-{newsfroup}. :film at 11: [MIT: in parody of TV newscasters] 1. Used in
-conversation to announce ordinary events, with a sarcastic implication that
-these events are earth-shattering. "{{ITS}} crashes; film at 11." "Bug found
-in scheduler; film at 11." 2. Also widely used outside MIT to indicate that
-additional information will be available at some future time, _without_ the
-implication of anything particularly ordinary about the referenced event. For
-example, "The mail file server died this morning; we found garbage all over
-the root directory. Film at 11." would indicate that a major failure had
-occurred but that the people working on it have no additional information
-about it as yet; use of the phrase in this way suggests gently that the
-problem is liable to be fixed more quickly if the people doing the fixing can
-spend time doing the fixing rather than responding to questions, the answers
-to which will appear on the normal "11:00 news", if people will just be
-patient. The variant "MPEGs at 11" has recently been cited (MPEG is a
-digital-video format.) :filter: n. [very common; orig. {{Unix}}, now also in
-{{MS-DOS}}] A program that processes an input data stream into an output data
-stream in some well-defined way, and does no I/O to anywhere else except
-possibly on error conditions; one designed to be used as a stage in a
-`pipeline' (see {plumbing}). Compare {sponge}. :Finagle's Law: n. The
-generalized or `folk' version of {Murphy's Law}, fully named "Finagle's Law
-of Dynamic Negatives" and usually rendered "Anything that can go wrong,
-will". One variant favored among hackers is "The perversity of the Universe
-tends towards a maximum" (but see also {Hanlon's Razor}). The label
-`Finagle's Law' was popularized by SF author Larry Niven in several stories
-depicting a frontier culture of asteroid miners; this `Belter' culture
-professed a religion and/or running joke involving the worship of the dread
-god Finagle and his mad prophet Murphy. Some technical and scientific
-cultures (e.g., paleontologists) know it under the name `Sod's Law'; this
-usage may be more common in Great Britain. :fine: adj. [WPI] Good, but not
-good enough to be {cuspy}. The word `fine' is used elsewhere, of course, but
-without the implicit comparison to the higher level implied by {cuspy}.
-:finger: [WAITS, via BSD Unix] 1. n. A program that displays information
-about a particular user or all users logged on the system, or a remote
-system. Typically shows full name, last login time, idle time, terminal line,
-and terminal location (where applicable). May also display a {plan file} left
-by the user (see also {Hacking X for Y}). 2. vt. To apply finger to a
-username. 3. vt. By extension, to check a human's current state by any means.
-"Foodp?" "T!" "OK, finger Lisa and see if she's idle." 4. Any picture
-(composed of ASCII characters) depicting `the finger'. Originally a humorous
-component of one's plan file to deter the curious fingerer (sense 2), it has
-entered the arsenal of some {flamer}s. :finger trouble: n. Mistyping, typos,
-or generalized keyboard incompetence (this is surprisingly common among
-hackers, given the amount of time they spend at keyboards). "I keep putting
-colons at the end of statements instead of semicolons", "Finger trouble
-again, eh?". :finger-pointing syndrome: n. All-too-frequent result of bugs,
-esp. in new or experimental configurations. The hardware vendor points a
-finger at the software. The software vendor points a finger at the hardware.
-All the poor users get is the finger. :finn: v. [IRC] To pull rank on
-somebody based on the amount of time one has spent on {IRC}. The term derives
-from the fact that IRC was originally written in Finland in 1987. There may
-be some influence from the `Finn' character in William Gibson's seminal
-cyberpunk novel "Count Zero", who at one point says to another (much younger)
-character "I have a pair of shoes older than you are, so shut up!"
-:firebottle: n.obs. A large, primitive, power-hungry active electrical
-device, similar in function to a FET but constructed out of glass, metal, and
-vacuum. Characterized by high cost, low density, low reliability,
-high-temperature operation, and high power dissipation. Sometimes mistakenly
-called a `tube' in the U.S. or a `valve' in England; another hackish term is
-{glassfet}. :firefighting: n. 1. What sysadmins have to do to correct sudden
-operational problems. An opposite of hacking. "Been hacking your new
-newsreader?" "No, a power glitch hosed the network and I spent the whole
-afternoon fighting fires." 2. The act of throwing lots of manpower and late
-nights at a project, esp. to get it out before deadline. see also {gang
-bang}, {Mongolian Hordes technique}; however, the term `firefighting'
-connotes that the effort is going into chasing bugs rather than adding
-features. :firehose syndrome: n. In mainstream folklore it is observed that
-trying to drink from a firehose can be a good way to rip your lips off. On
-computer networks, the absence or failure of flow control mechanisms can lead
-to situations in which the sending system sprays a massive flood of packets
-at an unfortunate receiving system, more than it can handle. Compare
-{overrun}, {buffer overflow}. :firewall code: n. 1. The code you put in a
-system (say, a telephone switch) to make sure that the users can't do any
-damage. Since users always want to be able to do everything but never want to
-suffer for any mistakes, the construction of a firewall is a question not
-only of defensive coding but also of interface presentation, so that users
-don't even get curious about those corners of a system where they can burn
-themselves. 2. Any sanity check inserted to catch a {can't happen} error.
-Wise programmers often change code to fix a bug twice: once to fix the bug,
-and once to insert a firewall which would have arrested the bug before it did
-quite as much damage. :firewall machine: n. A dedicated gateway machine with
-special security precautions on it, used to service outside network
-connections and dial-in lines. The idea is to protect a cluster of more
-loosely administered machines hidden behind it from {cracker}s. The typical
-firewall is an inexpensive micro-based Unix box kept clean of critical data,
-with a bunch of modems and public network ports on it but just one carefully
-watched connection back to the rest of the cluster. The special precautions
-may include threat monitoring, callback, and even a complete {iron box}
-keyable to particular incoming IDs or activity patterns. Syn. {flytrap},
-{Venus flytrap}. [When first coined in the mid-1980s this term was pure
-jargon. Now (1999) it is techspeak, and has been retained only as an example
-of uptake --ESR] :fireworks mode: n. 1. The mode a machine is sometimes said
-to be in when it is performing a {crash and burn} operation. 2. There is (or
-was) a more specific meaning of this term in the Amiga community. The word
-fireworks described the effects of a particularly serious crash which
-prevented the video pointer(s) from getting reset at the start of the
-vertical blank. This caused the DAC to scroll through the entire contents of
-CHIP (video or video+CPU) memory. Since each bit plane would scroll
-separately this was quite a spectacular effect. :firmware: /ferm'weir/ n.
-Embedded software contained in EPROM or flash memory. It isn't quite
+where a typo for `folk' was adopted as a new word] Originally, a popular or
+folk song with lyrics revised or completely new lyrics and/or music, intended
+for humorous effect when read, and/or to be sung late at night at SF
+conventions. More recently (especially since the late 1980s), filk has come
+to include a great deal of originally-composed music on SFnal or fantasy
+themes and a range of moods wider than simple parody or humor. Worthy of
+mention here because there is a flourishing subgenre of filks called
+`computer filks', written by hackers and often containing rather
+sophisticated technical humor. see {double bucky} for an example. Compare
+{grilf}, {hing}, {pr0n}, and {newsfroup}. :film at 11: [MIT: in parody of TV
+newscasters] 1. Used in conversation to announce ordinary events, with a
+sarcastic implication that these events are earth-shattering. "{{ITS}}
+crashes; film at 11." "Bug found in scheduler; film at 11." 2. Also widely
+used outside MIT to indicate that additional information will be available at
+some future time, _without_ the implication of anything particularly ordinary
+about the referenced event. For example, "The mail file server died this
+morning; we found garbage all over the root directory. Film at 11." would
+indicate that a major failure had occurred but that the people working on it
+have no additional information about it as yet; use of the phrase in this way
+suggests gently that the problem is liable to be fixed more quickly if the
+people doing the fixing can spend time doing the fixing rather than
+responding to questions, the answers to which will appear on the normal
+"11:00 news", if people will just be patient. The variant "MPEGs at 11" has
+recently been cited (MPEG is a digital-video format.) :filter: n. [very
+common; orig. {{Unix}}, now also in {{MS-DOS}}] A program that processes an
+input data stream into an output data stream in some well-defined way, and
+does no I/O to anywhere else except possibly on error conditions; one
+designed to be used as a stage in a `pipeline' (see {plumbing}). Compare
+{sponge}. :Finagle's Law: n. The generalized or `folk' version of {Murphy's
+Law}, fully named "Finagle's Law of Dynamic Negatives" and usually rendered
+"Anything that can go wrong, will". May have been first published by Francis
+P. Chisholm in his 1963 essay "The Chisholm Effect", later reprinted in the
+classic anthology "A Stress Analysis Of A Strapless Evening Gown: And Other
+Essays For A Scientific Eye" (Robert Baker ed, Prentice-Hall, ISBN
+0-13-852608-7). The label `Finagle's Law' was popularized by SF author Larry
+Niven in several stories depicting a frontier culture of asteroid miners;
+this `Belter' culture professed a religion and/or running joke involving the
+worship of the dread god Finagle and his mad prophet Murphy. Some technical
+and scientific cultures (e.g., paleontologists) know it under the name `Sod's
+Law'; this usage may be more common in Great Britain. One variant favored
+among hackers is "The perversity of the Universe tends towards a maximum"
+(but see also {Hanlon's Razor}). :fine: adj. [WPI] Good, but not good enough
+to be {cuspy}. The word `fine' is used elsewhere, of course, but without the
+implicit comparison to the higher level implied by {cuspy}. :finger: [WAITS,
+via BSD Unix] 1. n. A program that displays information about a particular
+user or all users logged on the system, or a remote system. Typically shows
+full name, last login time, idle time, terminal line, and terminal location
+(where applicable). May also display a {plan file} left by the user (see also
+{Hacking X for Y}). 2. vt. To apply finger to a username. 3. vt. By
+extension, to check a human's current state by any means. "Foodp?" "T!" "OK,
+finger Lisa and see if she's idle." 4. Any picture (composed of ASCII
+characters) depicting `the finger'. Originally a humorous component of one's
+plan file to deter the curious fingerer (sense 2), it has entered the arsenal
+of some {flamer}s. :finger trouble: n. Mistyping, typos, or generalized
+keyboard incompetence (this is surprisingly common among hackers, given the
+amount of time they spend at keyboards). "I keep putting colons at the end of
+statements instead of semicolons", "Finger trouble again, eh?".
+:finger-pointing syndrome: n. All-too-frequent result of bugs, esp. in new or
+experimental configurations. The hardware vendor points a finger at the
+software. The software vendor points a finger at the hardware. All the poor
+users get is the finger. :finn: v. [IRC] To pull rank on somebody based on
+the amount of time one has spent on {IRC}. The term derives from the fact
+that IRC was originally written in Finland in 1987. There may be some
+influence from the `Finn' character in William Gibson's seminal cyberpunk
+novel "Count Zero", who at one point says to another (much younger) character
+"I have a pair of shoes older than you are, so shut up!" :firebottle: n.obs.
+A large, primitive, power-hungry active electrical device, similar in
+function to a FET but constructed out of glass, metal, and vacuum.
+Characterized by high cost, low density, low reliability, high-temperature
+operation, and high power dissipation. Sometimes mistakenly called a `tube'
+in the U.S. or a `valve' in England; another hackish term is {glassfet}.
+:firefighting: n. 1. What sysadmins have to do to correct sudden operational
+problems. An opposite of hacking. "Been hacking your new newsreader?" "No, a
+power glitch hosed the network and I spent the whole afternoon fighting
+fires." 2. The act of throwing lots of manpower and late nights at a project,
+esp. to get it out before deadline. see also {gang bang}, {Mongolian Hordes
+technique}; however, the term `firefighting' connotes that the effort is
+going into chasing bugs rather than adding features. :firehose syndrome: n.
+In mainstream folklore it is observed that trying to drink from a firehose
+can be a good way to rip your lips off. On computer networks, the absence or
+failure of flow control mechanisms can lead to situations in which the
+sending system sprays a massive flood of packets at an unfortunate receiving
+system, more than it can handle. Compare {overrun}, {buffer overflow}.
+:firewall code: n. 1. The code you put in a system (say, a telephone switch)
+to make sure that the users can't do any damage. Since users always want to
+be able to do everything but never want to suffer for any mistakes, the
+construction of a firewall is a question not only of defensive coding but
+also of interface presentation, so that users don't even get curious about
+those corners of a system where they can burn themselves. 2. Any sanity check
+inserted to catch a {can't happen} error. Wise programmers often change code
+to fix a bug twice: once to fix the bug, and once to insert a firewall which
+would have arrested the bug before it did quite as much damage. :firewall
+machine: n. A dedicated gateway machine with special security precautions on
+it, used to service outside network connections and dial-in lines. The idea
+is to protect a cluster of more loosely administered machines hidden behind
+it from {cracker}s. The typical firewall is an inexpensive micro-based Unix
+box kept clean of critical data, with a bunch of modems and public network
+ports on it but just one carefully watched connection back to the rest of the
+cluster. The special precautions may include threat monitoring, callback, and
+even a complete {iron box} keyable to particular incoming IDs or activity
+patterns. Syn. {flytrap}, {Venus flytrap}. [When first coined in the
+mid-1980s this term was pure jargon. Now (1999) it is techspeak, and has been
+retained only as an example of uptake --ESR] :fireworks mode: n. 1. The mode
+a machine is sometimes said to be in when it is performing a {crash and burn}
+operation. 2. There is (or was) a more specific meaning of this term in the
+Amiga community. The word fireworks described the effects of a particularly
+serious crash which prevented the video pointer(s) from getting reset at the
+start of the vertical blank. This caused the DAC to scroll through the entire
+contents of CHIP (video or video+CPU) memory. Since each bit plane would
+scroll separately this was quite a spectacular effect. :firmware: /ferm'weir/
+n. Embedded software contained in EPROM or flash memory. It isn't quite
 hardware, but at least doesn't have to be loaded from a disk like regular
 software. Hacker usage differs from straight techspeak in that hackers don't
 normally apply it to stuff that you can't possibly get at, such as the

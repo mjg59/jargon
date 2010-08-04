@@ -22,7 +22,7 @@ involves on-the-fly generation of small executable (and, likely as not,
 self-modifying) code objects to do indirection between code sections. Under
 BSD and possibly in other Unixes, trampoline code is used to transfer control
 from the kernel back to user mode when a signal (which has had a handler
-installed) is sent to a process. hese pieces of {live data} are called
+installed) is sent to a process. These pieces of {live data} are called
 `trampolines'. Trampolines are notoriously difficult to understand in action;
 in fact, it is said by those who use this term that the trampoline that
 doesn't bend your brain is not the true trampoline. see also {snap}. :trap:
@@ -48,37 +48,38 @@ postings, FTP archives, or the Jargon File) looking for something of
 interest. :tree-killer: n. [Sun] 1. A printer. 2. A person who wastes paper.
 This epithet should be interpreted in a broad sense; `wasting paper' includes
 the production of {spiffy} but {content-free} documents. Thus, most {suit}s
-are tree-killers. The negative loading of this term may reflect the epithet
-`tree-killer' applied by Treebeard the Ent to the Orcs in J.R.R. Tolkien's
-"Lord of the Rings" (see also {elvish}, {elder days}). :treeware: /tree'weir/
-n. Printouts, books, and other information media made from pulped dead trees.
-Compare {tree-killer}, see {documentation}. :trit: /trit/ n. [by analogy with
-`bit'] One base-3 digit; the amount of information conveyed by a selection
-among one of three equally likely outcomes (see also {bit}). Trits arise, for
-example, in the context of a {flag} that should actually be able to assume
-_three_ values -- such as yes, no, or unknown. Trits are sometimes jokingly
-called `3-state bits'. A trit may be semi-seriously referred to as `a bit and
-a half', although it is linearly equivalent to 1.5849625 bits (that is,
-log2(3) bits). :trivial: adj. 1. Too simple to bother detailing. 2. Not worth
-the speaker's time. 3. Complex, but solvable by methods so well known that
-anyone not utterly {cretinous} would have thought of them already. 4. Any
-problem one has already solved (some claim that hackish `trivial' usually
-evaluates to `I've seen it before'). Hackers' notions of triviality may be
-quite at variance with those of non-hackers. see {nontrivial},
-{uninteresting}. The physicist Richard Feynman, who had the hacker nature to
-an amazing degree (see his essay "Los Alamos From Below" in "Surely You're
-Joking, Mr. Feynman!"), defined `trivial theorem' as "one that has already
-been proved". :troff:: /T'rof/ or /trof/ n. [Unix] The gray eminence of Unix
-text processing; a formatting and phototypesetting program, written
-originally in PDP-11 assembler and then in barely-structured early C by the
-late Joseph Ossanna, modeled after the earlier ROFF which was in turn modeled
-after the {Multics} and {CTSS} program RUNOFF by Jerome Saltzer (_that_ name
-came from the expression "to run off a copy"). A companion program, {nroff},
-formats output for terminals and line printers. In 1979, Brian Kernighan
-modified troff so that it could drive phototypesetters other than the Graphic
-Systems CAT. His paper describing that work ("A Typesetter-independent
-troff," AT&T CSTR #97) explains troff's durability. After discussing the
-program's "obvious deficiencies -- a rebarbative input syntax, mysterious and
+are tree-killers. It is likely that both senses derive their flavor from the
+epithet `tree-killer' applied by Treebeard the Ent to the Orcs in J.R.R.
+Tolkien's "Lord of the Rings". see also {elvish}, {elder days}, and
+especially {dead-tree version}. :treeware: /tree'weir/ n. Printouts, books,
+and other information media made from pulped dead trees. Compare
+{tree-killer}, see {documentation}. :trit: /trit/ n. [by analogy with `bit']
+One base-3 digit; the amount of information conveyed by a selection among one
+of three equally likely outcomes (see also {bit}). Trits arise, for example,
+in the context of a {flag} that should actually be able to assume _three_
+values -- such as yes, no, or unknown. Trits are sometimes jokingly called
+`3-state bits'. A trit may be semi-seriously referred to as `a bit and a
+half', although it is linearly equivalent to 1.5849625 bits (that is, log2(3)
+bits). :trivial: adj. 1. Too simple to bother detailing. 2. Not worth the
+speaker's time. 3. Complex, but solvable by methods so well known that anyone
+not utterly {cretinous} would have thought of them already. 4. Any problem
+one has already solved (some claim that hackish `trivial' usually evaluates
+to `I've seen it before'). Hackers' notions of triviality may be quite at
+variance with those of non-hackers. see {nontrivial}, {uninteresting}. The
+physicist Richard Feynman, who had the hacker nature to an amazing degree
+(see his essay "Los Alamos From Below" in "Surely You're Joking, Mr.
+Feynman!"), defined `trivial theorem' as "one that has already been proved".
+:troff:: /T'rof/ or /trof/ n. [Unix] The gray eminence of Unix text
+processing; a formatting and phototypesetting program, written originally in
+PDP-11 assembler and then in barely-structured early C by the late Joseph
+Ossanna, modeled after the earlier ROFF which was in turn modeled after the
+{Multics} and {CTSS} program RUNOFF by Jerome Saltzer (_that_ name came from
+the expression "to run off a copy"). A companion program, {nroff}, formats
+output for terminals and line printers. In 1979, Brian Kernighan modified
+troff so that it could drive phototypesetters other than the Graphic Systems
+CAT. His paper describing that work ("A Typesetter-independent troff," AT&T
+CSTR #97) explains troff's durability. After discussing the program's
+"obvious deficiencies -- a rebarbative input syntax, mysterious and
 undocumented properties in some areas, and a voracious appetite for computer
 resources" and noting the ugliness and extreme hairiness of the code and
 internals, Kernighan concludes: None of these remarks should be taken as
@@ -120,86 +121,87 @@ someone or disrupt a discussion. Trolls are recognizable by the fact that the
 have no real interest in learning about the topic at hand - they simply want
 to utter flame bait. Like the ugly creatures they are named after, they
 exhibit no redeeming characteristics, and as such, they are recognized as a
-lower form of life on the net, as in, "Oh, ignore him, he's just a troll." 3.
-[Berkeley] Computer lab monitor. A popular campus job for CS students. Duties
-include helping newbies and ensuring that lab policies are followed. Probably
-so-called because it involves lurking in dark cavelike corners. Some people
-claim that the troll (sense 1) is properly a narrower category than {flame
-bait}, that a troll is categorized by containing some assertion that is wrong
-but not overtly controversial. see also {Troll-O-Meter}. The use of `troll'
-in either sense is a live metaphor that readily produces elaborations and
-combining forms. For example, one not infrequently sees the warning "Do not
-feed the troll" as part of a followup to troll postings. :Troll-O-Meter: n.
-Common Usenet jargon for a notional instrument used to measure the quality of
-a Usenet {troll}. "Come on, everyone! If the above doesn't set off the
-Troll-O-Meter, we're going to have to get him to run around with a big
-blinking sign saying `I am a troll, I'm only in it for the controversy and
-flames' and shooting random gobs of Jell-O(tm) at us before the point is
-proven." Mentions of the Troll-O-Meter are often accompanied by an ASCII
-picture of an arrow pointing at a numeric scale. Compare {bogometer}. :tron:
-v. [NRL, CMU; prob. fr. the movie "Tron"] To become inaccessible except via
-email or `talk(1)', especially when one is normally available via telephone
-or in person. Frequently used in the past tense, as in: "Ran seems to have
-tronned on us this week" or "Gee, Ran, glad you were able to un-tron
-yourself". One may also speak of `tron mode'; compare {spod}. Note that many
-dialects of BASIC have a TRON/TROFF command pair that enables/disables line
-number tracing; this has no obvious relationship to the slang usage.
-:true-hacker: n. [analogy with `trufan' from SF fandom] One who exemplifies
-the primary values of hacker culture, esp. competence and helpfulness to
-other hackers. A high compliment. "He spent 6 hours helping me bring up UUCP
-and netnews on my FOOBAR 4000 last week -- manifestly the act of a
-true-hacker." Compare {demigod}, oppose {munchkin}. :tty: /T-T-Y/, /tit'ee/
-n. The latter pronunciation was primarily ITS, but some Unix people say it
-this way as well; this pronunciation is _not_ considered to have sexual
-undertones. 1. A terminal of the teletype variety, characterized by a noisy
-mechanical printer, a very limited character set, and poor print quality.
-Usage: antiquated (like the TTYs themselves). see also {bit-paired keyboard}.
-2. [especially Unix] Any terminal at all; sometimes used to refer to the
-particular terminal controlling a given job. 3. [Unix] Any serial port,
-whether or not the device connected to it is a terminal; so called because
-under Unix such devices have names of the form tty*. Ambiguity between senses
-2 and 3 is common but seldom bothersome. :tube: 1. n. A CRT terminal. Never
-used in the mainstream sense of TV; real hackers don't watch TV, except for
-Loony Toons, Rocky & Bullwinkle, Trek Classic, the Simpsons, and the
-occasional cheesy old swashbuckler movie. 2. [IBM] To send a copy of
-something to someone else's terminal. "Tube me that note?" :tube time: n.
-Time spent at a terminal or console. More inclusive than hacking time;
-commonly used in discussions of what parts of one's environment one uses most
-heavily. "I find I'm spending too much of my tube time reading mail since I
-started this revision." :tunafish: n. In hackish lore, refers to the mutated
-punchline of an age-old joke to be found at the bottom of the manual pages of
-`tunefs(8)' in the original {BSD} 4.2 distribution. The joke was removed in
-later releases once commercial sites started using 4.2, but apparently
-restored on the 4.4BSD tape and in {Net,Free,Open}BSD. Tunefs relates to the
-`tuning' of file-system parameters for optimum performance, and at the bottom
-of a few pages of wizardly inscriptions was a `BUGS' section consisting of
-the line "You can tune a file system, but you can't tunafish". Variants of
-this can be seen in other BSD versions, though it has been excised from some
-versions by humorless management {droid}s. The [nt]roff source for SunOS
-4.1.1 contains a comment apparently designed to prevent this: "Take this out
-and a Unix Demon will dog your steps from now until the `time_t"s wrap
-around." [It has since been pointed out that indeed you can tunafish. Usually
-at a canning factory... --ESR] :tune: vt. [from automotive or musical usage]
-To optimize a program or system for a particular environment, esp. by
-adjusting numerical parameters designed as {hook}s for tuning, e.g., by
-changing `#define' lines in C. One may `tune for time' (fastest execution),
-`tune for space' (least memory use), or `tune for configuration' (most
-efficient use of hardware). see {bum}, {hot spot}, {hand-hacking}. :turbo
-nerd: n. see {computer geek}. :Turing tar-pit: n. 1. A place where anything
-is possible but nothing of interest is practical. Alan Turing helped lay the
-foundations of computer science by showing that all machines and languages
-capable of expressing a certain very primitive set of operations are
-logically equivalent in the kinds of computations they can carry out, and in
-principle have capabilities that differ only in speed from those of the most
-powerful and elegantly designed computers. However, no machine or language
-exactly matching Turing's primitive set has ever been built (other than
-possibly as a classroom exercise), because it would be horribly slow and far
-too painful to use. A `Turing tar-pit' is any computer language or other tool
-that shares this property. That is, it's theoretically universal -- but in
-practice, the harder you struggle to get any real work done, the deeper its
-inadequacies suck you in. Compare {bondage-and-discipline language}. 2. The
-perennial {holy wars} over whether language A or B is the "most powerful".
-:turist: /too'rist/ n. Var. sp. of {tourist}, q.v. Also in adjectival form,
+lower form of life on the net, as in, "Oh, ignore him, he's just a troll."
+Compare {kook}. 3. [Berkeley] Computer lab monitor. A popular campus job for
+CS students. Duties include helping newbies and ensuring that lab policies
+are followed. Probably so-called because it involves lurking in dark cavelike
+corners. Some people claim that the troll (sense 1) is properly a narrower
+category than {flame bait}, that a troll is categorized by containing some
+assertion that is wrong but not overtly controversial. see also
+{Troll-O-Meter}. The use of `troll' in either sense is a live metaphor that
+readily produces elaborations and combining forms. For example, one not
+infrequently sees the warning "Do not feed the troll" as part of a followup
+to troll postings. :Troll-O-Meter: n. Common Usenet jargon for a notional
+instrument used to measure the quality of a Usenet {troll}. "Come on,
+everyone! If the above doesn't set off the Troll-O-Meter, we're going to have
+to get him to run around with a big blinking sign saying `I am a troll, I'm
+only in it for the controversy and flames' and shooting random gobs of
+Jell-O(tm) at us before the point is proven." Mentions of the Troll-O-Meter
+are often accompanied by an ASCII picture of an arrow pointing at a numeric
+scale. Compare {bogometer}. :tron: v. [NRL, CMU; prob. fr. the movie "Tron"]
+To become inaccessible except via email or `talk(1)', especially when one is
+normally available via telephone or in person. Frequently used in the past
+tense, as in: "Ran seems to have tronned on us this week" or "Gee, Ran, glad
+you were able to un-tron yourself". One may also speak of `tron mode';
+compare {spod}. Note that many dialects of BASIC have a TRON/TROFF command
+pair that enables/disables line number tracing; this has no obvious
+relationship to the slang usage. :true-hacker: n. [analogy with `trufan' from
+SF fandom] One who exemplifies the primary values of hacker culture, esp.
+competence and helpfulness to other hackers. A high compliment. "He spent 6
+hours helping me bring up UUCP and netnews on my FOOBAR 4000 last week --
+manifestly the act of a true-hacker." Compare {demigod}, oppose {munchkin}.
+:tty: /T-T-Y/, /tit'ee/ n. The latter pronunciation was primarily ITS, but
+some Unix people say it this way as well; this pronunciation is _not_
+considered to have sexual undertones. 1. A terminal of the teletype variety,
+characterized by a noisy mechanical printer, a very limited character set,
+and poor print quality. Usage: antiquated (like the TTYs themselves). see
+also {bit-paired keyboard}. 2. [especially Unix] Any terminal at all;
+sometimes used to refer to the particular terminal controlling a given job.
+3. [Unix] Any serial port, whether or not the device connected to it is a
+terminal; so called because under Unix such devices have names of the form
+tty*. Ambiguity between senses 2 and 3 is common but seldom bothersome.
+:tube: 1. n. A CRT terminal. Never used in the mainstream sense of TV; real
+hackers don't watch TV, except for Loony Toons, Rocky & Bullwinkle, Trek
+Classic, the Simpsons, and the occasional cheesy old swashbuckler movie. 2.
+[IBM] To send a copy of something to someone else's terminal. "Tube me that
+note?" :tube time: n. Time spent at a terminal or console. More inclusive
+than hacking time; commonly used in discussions of what parts of one's
+environment one uses most heavily. "I find I'm spending too much of my tube
+time reading mail since I started this revision." :tunafish: n. In hackish
+lore, refers to the mutated punchline of an age-old joke to be found at the
+bottom of the manual pages of `tunefs(8)' in the original {BSD} 4.2
+distribution. The joke was removed in later releases once commercial sites
+started using 4.2, but apparently restored on the 4.4BSD tape and in
+{Net,Free,Open}BSD. Tunefs relates to the `tuning' of file-system parameters
+for optimum performance, and at the bottom of a few pages of wizardly
+inscriptions was a `BUGS' section consisting of the line "You can tune a file
+system, but you can't tunafish". Variants of this can be seen in other BSD
+versions, though it has been excised from some versions by humorless
+management {droid}s. The [nt]roff source for SunOS 4.1.1 contains a comment
+apparently designed to prevent this: "Take this out and a Unix Demon will dog
+your steps from now until the `time_t"s wrap around." [It has since been
+pointed out that indeed you can tunafish. Usually at a canning factory...
+--ESR] :tune: vt. [from automotive or musical usage] To optimize a program or
+system for a particular environment, esp. by adjusting numerical parameters
+designed as {hook}s for tuning, e.g., by changing `#define' lines in C. One
+may `tune for time' (fastest execution), `tune for space' (least memory use),
+or `tune for configuration' (most efficient use of hardware). see {bum}, {hot
+spot}, {hand-hacking}. :turbo nerd: n. see {computer geek}. :Turing tar-pit:
+n. 1. A place where anything is possible but nothing of interest is
+practical. Alan Turing helped lay the foundations of computer science by
+showing that all machines and languages capable of expressing a certain very
+primitive set of operations are logically equivalent in the kinds of
+computations they can carry out, and in principle have capabilities that
+differ only in speed from those of the most powerful and elegantly designed
+computers. However, no machine or language exactly matching Turing's
+primitive set has ever been built (other than possibly as a classroom
+exercise), because it would be horribly slow and far too painful to use. A
+`Turing tar-pit' is any computer language or other tool that shares this
+property. That is, it's theoretically universal -- but in practice, the
+harder you struggle to get any real work done, the deeper its inadequacies
+suck you in. Compare {bondage-and-discipline language}. 2. The perennial
+{holy wars} over whether language A or B is the "most powerful". :turist:
+/too'rist/ n. Var. sp. of {tourist}, q.v. Also in adjectival form,
 `turistic'. Poss. influenced by {luser} and `Turing'. :Tux: Tux the Penguin
 is the official emblem of {Linux}, This eventuated after a logo contest in
 1996, during which Linus Torvalds endorsed the idea of a penguin logo in a

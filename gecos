@@ -14,94 +14,104 @@ produce the expected or desired output. :frag: n.,v. [from Vietnam-era U.S.
 military slang via the games Doom and Quake] 1. To kill another player's
 {avatar} in a multiuser game. "I hold the office Quake record with 40 frags."
 2. To completely ruin something. "Forget that power supply, the lightning
-strike fragged it. see also {gib}. :fragile: adj. Syn {brittle}. :fred: n. 1.
-The personal name most frequently used as a {metasyntactic variable} (see
-{foo}). Allegedly popular because it's easy for a non-touch-typist to type on
-a standard QWERTY keyboard. In Great Britain, `fred', `jim' and `sheila' are
-common metasyntactic variables because their uppercase versions were
-_official_ names given to the 3 memory areas that held I/O status registers
-on the lovingly-remembered BBC Microcomputer! (It is reported that SHEILA was
-poked the most often.) Unlike {J. Random Hacker} or `J. Random Loser', the
-name `fred' has no positive or negative loading (but see {Dr. Fred Mbogo}).
-see also {barney}. 2. An acronym for `Flipping Ridiculous Electronic Device';
-other F-verbs may be substituted for `flipping'. :Fred Foobar: n. {J. Random
-Hacker}'s cousin. Any typical human being, more or less synomous with
-`someone' except that Fred Foobar can be {backreference}d by name later on.
-"So Fred Foobar will enter his phone number into the database, and it'll be
-archived with the others. Months later, when Fred searches..." see also
-{Bloggs Family} and {Dr. Fred Mbogo} :frednet: /fred'net/ n. Used to refer to
-some {random} and uncommon protocol encountered on a network. "We're
-implementing bridging in our router to solve the frednet problem." :free
-software: n. As defined by Richard M. Stallman and used by the Free Software
-movement, this means software that gives users enough freedom to be used by
-the free software community. Specifically, users must be free to modify the
-software for their private use, and free to redistribute it either with or
-without modifications, either commercially or noncommercially, either gratis
-or charging a distribution fee. Free software has existed since the dawn of
-computing; Free Software as a movement began in 1984 with the GNU Project.
-see also {open source}. :freeware: n. [common] Free software, often written
-by enthusiasts and distributed by users' groups, or via electronic mail,
-local bulletin boards, {Usenet}, or other electronic media. At one time,
-`freeware' was a trademark of Andrew Fluegelman, the author of the well-known
-MS-DOS comm program PC-TALK III. It wasn't enforced after his mysterious
-disappearance and presumed death in 1984. see {shareware}, {FRS}. :freeze: v.
-To lock an evolving software distribution or document against changes so it
-can be released with some hope of stability. Carries the strong implication
-that the item in question will `unfreeze' at some future date. "OK, fix that
-bug and we'll freeze for release." There are more specific constructions on
-this term. A `feature freeze', for example, locks out modifications intended
-to introduce new features but still allows bugfixes and completion of
-existing features; a `code freeze' connotes no more changes at all. At Sun
-Microsystems and elsewhere, one may also hear references to `code slush' --
-that is, an almost-but-not-quite frozen state. :fried: adj. 1. [common]
-Non-working due to hardware failure; burnt out. Especially used of hardware
-brought down by a `power glitch' (see {glitch}), {drop-outs}, a short, or
-some other electrical event. (Sometimes this literally happens to electronic
-circuits! In particular, resistors can burn out and transformers can melt
-down, emitting noxious smoke -- see {friode}, {SED} and {LER}. However, this
-term is also used metaphorically.) Compare {frotzed}. 2. [common] Of people,
-exhausted. Said particularly of those who continue to work in such a state.
-Often used as an explanation or excuse. "Yeah, I know that fix destroyed the
-file system, but I was fried when I put it in." Esp. common in conjunction
-with `brain': "My brain is fried today, I'm very short on sleep." :frink:
-/frink/ v. The unknown ur-verb, fill in your own meaning. Found esp. on the
-Usenet newsgroup alt.fan.lemurs, where it is said that the lemurs know what
-`frink' means, but they aren't telling. Compare {gorets}. :friode: /fri:'ohd/
-n. [TMRC] A reversible (that is, fused or blown) diode. Compare {fried}; see
-also {SED}, {LER}. :fritterware: n. An excess of capability that serves no
-productive end. The canonical example is font-diddling software on the Mac
-(see {macdink}); the term describes anything that eats huge amounts of time
-for quite marginal gains in function but seduces people into using it anyway.
-see also {window shopping}. :frob: /frob/ 1. n. [MIT; very common] The {TMRC}
-definition was "FROB = a protruding arm or trunnion"; by metaphoric
-extension, a `frob' is any random small thing; an object that you can
-comfortably hold in one hand; something you can frob (sense 2). see
-{frobnitz}. 2. vt. Abbreviated form of {frobnicate}. 3. [from the {MUD}
-world] A command on some MUDs that changes a player's experience level (this
-can be used to make wizards); also, to request {wizard} privileges on the
-`professional courtesy' grounds that one is a wizard elsewhere. The command
-is actually `frobnicate' but is universally abbreviated to the shorter form.
-:frobnicate: /frob'ni-kayt/ vt. [Poss. derived from {frobnitz}, and usually
-abbreviated to {frob}, but `frobnicate' is recognized as the official full
-form.] To manipulate or adjust, to tweak. One frequently frobs bits or other
-2-state devices. Thus: "Please frob the light switch" (that is, flip it), but
-also "Stop frobbing that clasp; you'll break it". One also sees the
-construction `to frob a frob'. see {tweak} and {twiddle}. Usage: frob,
-twiddle, and tweak sometimes connote points along a continuum. `Frob'
-connotes aimless manipulation; `twiddle' connotes gross manipulation, often a
-coarse search for a proper setting; `tweak' connotes fine-tuning. If someone
-is turning a knob on an oscilloscope, then if he's carefully adjusting it, he
-is probably tweaking it; if he is just turning it but looking at the screen,
-he is probably twiddling it; but if he's just doing it because turning a knob
-is fun, he's frobbing it. The variant `frobnosticate' has been recently
-reported. :frobnitz: /frob'nits/, pl. `frobnitzem' /frob'nit-zm/ or `frobni'
-/frob'ni:/ n. [TMRC] An unspecified physical object, a widget. Also refers to
-electronic black boxes. This rare form is usually abbreviated to `frotz', or
-more commonly to {frob}. Also used are `frobnule' (/frob'n[y]ool/) and
-`frobule' (/frob'yool/). Starting perhaps in 1979, `frobozz' /fr*-boz'/
-(plural: `frobbotzim' /fr*-bot'zm/) has also become very popular, largely
-through its exposure as a name via {Zork}. These variants can also be applied
-to nonphysical objects, such as data structures. Pete Samson, compiler of the
+strike fragged it. see also {gib}. :fragile: adj. Syn {brittle}.
+:Frankenputer: n. 1. A mostly-working computer thrown together from the spare
+parts of several machines out of which the {magic smoke} had been let. Most
+shops have a closet full of nonworking machines. When a new machine is needed
+immediately (for testing, for example) and there is no time (or budget) to
+requisition a new box, someone (often an intern) is tasked with building a
+Frankenputer. 2. Also used in referring to a machine that once was a
+name-brand computer, but has been upgraded long beyond its useful life, to
+the point at which the nameplate violates truth-in-advertising laws (e.g., a
+Pentium II-class machine inexplicably living in a case marked "Gateway
+486/66"). :fred: n. 1. The personal name most frequently used as a
+{metasyntactic variable} (see {foo}). Allegedly popular because it's easy for
+a non-touch-typist to type on a standard QWERTY keyboard. In Great Britain,
+`fred', `jim' and `sheila' are common metasyntactic variables because their
+uppercase versions were _official_ names given to the 3 memory areas that
+held I/O status registers on the lovingly-remembered BBC Microcomputer! (It
+is reported that SHEILA was poked the most often.) Unlike {J. Random Hacker}
+or `J. Random Loser', the name `fred' has no positive or negative loading
+(but see {Dr. Fred Mbogo}). see also {barney}. 2. An acronym for `Flipping
+Ridiculous Electronic Device'; other F-verbs may be substituted for
+`flipping'. :Fred Foobar: n. {J. Random Hacker}'s cousin. Any typical human
+being, more or less synomous with `someone' except that Fred Foobar can be
+{backreference}d by name later on. "So Fred Foobar will enter his phone
+number into the database, and it'll be archived with the others. Months
+later, when Fred searches..." see also {Bloggs Family} and {Dr. Fred Mbogo}
+:frednet: /fred'net/ n. Used to refer to some {random} and uncommon protocol
+encountered on a network. "We're implementing bridging in our router to solve
+the frednet problem." :free software: n. As defined by Richard M. Stallman
+and used by the Free Software movement, this means software that gives users
+enough freedom to be used by the free software community. Specifically, users
+must be free to modify the software for their private use, and free to
+redistribute it either with or without modifications, either commercially or
+noncommercially, either gratis or charging a distribution fee. Free software
+has existed since the dawn of computing; Free Software as a movement began in
+1984 with the GNU Project. see also {open source}. :freeware: n. [common]
+Free software, often written by enthusiasts and distributed by users' groups,
+or via electronic mail, local bulletin boards, {Usenet}, or other electronic
+media. At one time, `freeware' was a trademark of Andrew Fluegelman, the
+author of the well-known MS-DOS comm program PC-TALK III. It wasn't enforced
+after his mysterious disappearance and presumed death in 1984. see
+{shareware}, {FRS}. :freeze: v. To lock an evolving software distribution or
+document against changes so it can be released with some hope of stability.
+Carries the strong implication that the item in question will `unfreeze' at
+some future date. "OK, fix that bug and we'll freeze for release." There are
+more specific constructions on this term. A `feature freeze', for example,
+locks out modifications intended to introduce new features but still allows
+bugfixes and completion of existing features; a `code freeze' connotes no
+more changes at all. At Sun Microsystems and elsewhere, one may also hear
+references to `code slush' -- that is, an almost-but-not-quite frozen state.
+:fried: adj. 1. [common] Non-working due to hardware failure; burnt out.
+Especially used of hardware brought down by a `power glitch' (see {glitch}),
+{drop-outs}, a short, or some other electrical event. (Sometimes this
+literally happens to electronic circuits! In particular, resistors can burn
+out and transformers can melt down, emitting noxious smoke -- see {friode},
+{SED} and {LER}. However, this term is also used metaphorically.) Compare
+{frotzed}. 2. [common] Of people, exhausted. Said particularly of those who
+continue to work in such a state. Often used as an explanation or excuse.
+"Yeah, I know that fix destroyed the file system, but I was fried when I put
+it in." Esp. common in conjunction with `brain': "My brain is fried today,
+I'm very short on sleep." :frink: /frink/ v. The unknown ur-verb, fill in
+your own meaning. Found esp. on the Usenet newsgroup alt.fan.lemurs, where it
+is said that the lemurs know what `frink' means, but they aren't telling.
+Compare {gorets}. :friode: /fri:'ohd/ n. [TMRC] A reversible (that is, fused
+or blown) diode. Compare {fried}; see also {SED}, {LER}. :fritterware: n. An
+excess of capability that serves no productive end. The canonical example is
+font-diddling software on the Mac (see {macdink}); the term describes
+anything that eats huge amounts of time for quite marginal gains in function
+but seduces people into using it anyway. see also {window shopping}. :frob:
+/frob/ 1. n. [MIT; very common] The {TMRC} definition was "FROB = a
+protruding arm or trunnion"; by metaphoric extension, a `frob' is any random
+small thing; an object that you can comfortably hold in one hand; something
+you can frob (sense 2). see {frobnitz}. 2. vt. Abbreviated form of
+{frobnicate}. 3. [from the {MUD} world] A command on some MUDs that changes a
+player's experience level (this can be used to make wizards); also, to
+request {wizard} privileges on the `professional courtesy' grounds that one
+is a wizard elsewhere. The command is actually `frobnicate' but is
+universally abbreviated to the shorter form. :frobnicate: /frob'ni-kayt/ vt.
+[Poss. derived from {frobnitz}, and usually abbreviated to {frob}, but
+`frobnicate' is recognized as the official full form.] To manipulate or
+adjust, to tweak. One frequently frobs bits or other 2-state devices. Thus:
+"Please frob the light switch" (that is, flip it), but also "Stop frobbing
+that clasp; you'll break it". One also sees the construction `to frob a
+frob'. see {tweak} and {twiddle}. Usage: frob, twiddle, and tweak sometimes
+connote points along a continuum. `Frob' connotes aimless manipulation;
+`twiddle' connotes gross manipulation, often a coarse search for a proper
+setting; `tweak' connotes fine-tuning. If someone is turning a knob on an
+oscilloscope, then if he's carefully adjusting it, he is probably tweaking
+it; if he is just turning it but looking at the screen, he is probably
+twiddling it; but if he's just doing it because turning a knob is fun, he's
+frobbing it. The variant `frobnosticate' has been recently reported.
+:frobnitz: /frob'nits/, pl. `frobnitzem' /frob'nit-zm/ or `frobni' /frob'ni:/
+n. [TMRC] An unspecified physical object, a widget. Also refers to electronic
+black boxes. This rare form is usually abbreviated to `frotz', or more
+commonly to {frob}. Also used are `frobnule' (/frob'n[y]ool/) and `frobule'
+(/frob'yool/). Starting perhaps in 1979, `frobozz' /fr*-boz'/ (plural:
+`frobbotzim' /fr*-bot'zm/) has also become very popular, largely through its
+exposure as a name via {Zork}. These variants can also be applied to
+nonphysical objects, such as data structures. Pete Samson, compiler of the
 original {TMRC} lexicon, adds, "Under the TMRC [railroad] layout were many
 storage boxes, managed (in 1958) by David R. Sawyer. Several had fanciful
 designations written on them, such as `Frobnitz Coil Oil'. Perhaps DRS
@@ -151,7 +161,7 @@ non-working. Usage: never said of software, only of hardware and humans. see
 {hose} a piece of hardware. Never used of software or humans, but compare
 {fried}. :fscking: /fus'-king/ or /eff'-seek-ing/ adj. [Usenet; common]
 Fucking, in the expletive sense (it refers to the Unix filesystem-repair
-command fsck(1), of which it can be said that if you have to use it at all
+command fsck(8), of which it can be said that if you have to use it at all
 you are having a bad day). Originated on {scary devil monastery} and the
 bofh.net newsgroups, but became much more widespread following the passage of
 {CDA}. Also occasionally seen in the variant "What the fsck?" :FSF: /F-S-F/

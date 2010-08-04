@@ -1,7 +1,68 @@
- :SCSI: /n./ [Small Computer System Interface] A bus-independent standard for
-system-level interfacing between a computer and intelligent devices.
-Typically annotated in literature with `sexy' (/sek'see/), `sissy'
-(/sis'ee/), and `scuzzy' (/skuh'zee/) as pronunciation guides -- the last
-being the overwhelmingly predominant form, much to the dismay of the
-designers and their marketing people. One can usually assume that a person
-who pronounces it /S-C-S-I/ is clueless.
+ SCSI termination is added or removed (sometimes double-termination or _no_
+termination will fix the problem), or particular devices are given particular
+SCSI IDs. The skills needed to trick the naturally skittish demons of SCSI
+into working are collectively known as SCSI voodoo. Compare {magic}, {deep
+magic}, {heavy wizardry}, {rain dance}, {cargo cult programming}, {wave a
+dead chicken}, {voodoo programming}. While ordinary mortals frequently
+experience near-terminal frustration when attempting to configure SCSI device
+chains, it is said that a true master of this arcane art can (through rituals
+involving chicken blood, ground rhino horn, hairs of a virgin, eye of newt,
+etc.) hook up your personal computer with three scanners, a Zip drive, an IDE
+hard drive, a home weather station, a Smith-Corona typewriter, and the
+neighbor's garage door. :ScumOS: /skuhm'os/ or /skuhm'O-S/ n. Unflattering
+hackerism for SunOS, the BSD Unix variant supported on Sun Microsystems's
+Unix workstations (see also {sun-stools}), and compare {AIDX}, {Macintrash},
+{Nominal Semidestructor}, {HP-SUX}. Despite what this term might suggest, Sun
+was founded by hackers and still enjoys excellent relations with hackerdom;
+usage is more often in exasperation than outright loathing.
+:search-and-destroy mode: n. Hackerism for a noninteractive
+search-and-replace facility in an editor, so called because an incautiously
+chosen match pattern can cause {infinite} damage. :second-system effect: n.
+(sometimes, more euphoniously, `second-system syndrome') When one is
+designing the successor to a relatively small, elegant, and successful
+system, there is a tendency to become grandiose in one's success and design
+an {elephantine} feature-laden monstrosity. The term was first used by Fred
+Brooks in his classic "The Mythical Man-Month: Essays on Software
+Engineering" (Addison-Wesley, 1975; ISBN 0-201-00650-2). It described the
+jump from a set of nice, simple operating systems on the IBM 70xx series to
+OS/360 on the 360 series. A similar effect can also happen in an evolving
+system; see {Brooks's Law}, {creeping elegance}, {creeping featurism}. see
+also {{Multics}}, {OS/2}, {X}, {software bloat}. This version of the jargon
+lexicon has been described (with altogether too much truth for comfort) as an
+example of second-system effect run amok on jargon-1.... :secondary damage:
+n. When a fatal error occurs (esp. a {segfault}) the immediate cause may be
+that a pointer has been trashed due to a previous {fandango on core}.
+However, this fandango may have been due to an _earlier_ fandango, so no
+amount of analysis will reveal (directly) how the damage occurred. "The data
+structure was clobbered, but it was secondary damage." By extension, the
+corruption resulting from N cascaded fandangoes on core is `Nth-level
+damage'. There is at least one case on record in which 17 hours of
+{grovel}ling with `adb' actually dug up the underlying bug behind an instance
+of seventh-level damage! The hacker who accomplished this near-superhuman
+feat was presented with an award by his fellows. :security through obscurity:
+(alt. `security by obscurity') A term applied by hackers to most OS vendors'
+favorite way of coping with security holes -- namely, ignoring them,
+documenting neither any known holes nor the underlying security algorithms,
+trusting that nobody will find out about them and that people who do find out
+about them won't exploit them. This "strategy" never works for long and
+occasionally sets the world up for debacles like the {RTM} worm of 1988 (see
+{Great Worm}), but once the brief moments of panic created by such events
+subside most vendors are all too willing to turn over and go back to sleep.
+After all, actually fixing the bugs would siphon off the resources needed to
+implement the next user-interface frill on marketing's wish list -- and
+besides, if they started fixing security bugs customers might begin to
+_expect_ it and imagine that their warranties of merchantability gave them
+some sort of _right_ to a system with fewer holes in it than a shotgunned
+Swiss cheese, and _then_ where would we be? Historical note: There are
+conflicting stories about the origin of this term. It has been claimed that
+it was first used in the Usenet newsgroup in comp.sys.apollo during a
+campaign to get HP/Apollo to fix security problems in its Unix-{clone}
+Aegis/DomainOS (they didn't change a thing). {ITS} fans, on the other hand,
+say it was coined years earlier in opposition to the incredibly paranoid
+{Multics} people down the hall, for whom security was everything. In the ITS
+culture it referred to (1) the fact that by the time a tourist figured out
+how to make trouble he'd generally gotten over the urge to make it, because
+he felt part of the community; and (2) (self-mockingly) the poor coverage of
+the documentation and obscurity of many commands. One instance of
+_deliberate_ security through obscurity is recorded; the command to allow
+patching the running

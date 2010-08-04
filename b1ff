@@ -8,39 +8,49 @@ to the recycling center." :bathtub curve: n. Common term for the curve
 bathtubs) that describes the expected failure rate of electronics with time:
 initially high, dropping to near 0 for most of the system's lifetime, then
 rising again as it `tires out'. see also {burn-in period}, {infant
-mortality}. :baud: /bawd/ n. [simplified from its technical meaning] n. Bits
-per second. Hence kilobaud or Kbaud, thousands of bits per second. The
-technical meaning is `level transitions per second'; this coincides with bps
-only for two-level modulation with no framing or stop bits. Most hackers are
-aware of these nuances but blithely ignore them. Historical note: `baud' was
-originally a unit of telegraph signalling speed, set at one pulse per second.
-It was proposed at the November, 1926 conference of the Comite' Consultatif
-International Des Communications Te'le'graphiques as an improvement on the
-then standard practice of referring to line speeds in terms of words per
-minute, and named for Jean Maurice Emile Baudot (1845-1903), a French
-engineer who did a lot of pioneering work in early teleprinters. :baud barf:
-/bawd barf/ n. The garbage one gets a terminal (or terminal emulator) when
-using a modem connection with some protocol setting (esp. line speed)
-incorrect, or when someone picks up a voice extension on the same line, or
-when really bad line noise disrupts the connection. Baud barf is not
-completely {random}, by the way; hackers with a lot of serial-line experience
-can usually tell whether the device at the other end is expecting a higher or
-lower speed than the terminal is set to. _Really_ experienced ones can
-identify particular speeds. :baz: /baz/ n. 1. [common] The third
-{metasyntactic variable} "Suppose we have three functions: FOO, BAR, and BAZ.
-FOO calls BAR, which calls BAZ...." (see also {fum}) 2. interj. A term of
-mild annoyance. In this usage the term is often drawn out for 2 or 3 seconds,
-producing an effect not unlike the bleating of a sheep; /baaaaaaz/. 3.
-Occasionally appended to {foo} to produce `foobaz'. Earlier versions of this
-lexicon derived `baz' as a Stanford corruption of {bar}. However, Pete Samson
-(compiler of the {TMRC} lexicon) reports it was already current when he
-joined TMRC in 1958. He says "It came from "Pogo". Albert the Alligator, when
-vexed or outraged, would shout `Bazz Fazz!' or `Rowrbazzle!' The club layout
-was said to model the (mythical) New England counties of Rowrfolk and Bassex
-(Rowrbazzle mingled with (Norfolk/Suffolk/Middlesex/Essex)." :bazaar: n.,adj.
-In 1997, after meditatating on the success of {Linux} for three years, the
-Jargon File's own editor ESR wrote an analytical paper on hacker culture and
-development models titled The Cathedral and the Bazaar
+mortality}. :Batman factor: n. 1. An integer number representing the number
+of items hanging from a {batbelt}. In most settings, a Batman factor of more
+than 3 is not acceptable without odd stares and whispering. This encourages
+the hacker in question to choose items for the batbelt carefully to avoid
+awkward social situations, usually amoungst non-hackers. 2. A somewhat more
+vaguely defined index of contribution to sense 1. Devices that are especially
+obtrusive, such as large, older model cell phones, "Pocket" PC devices and
+walkie talkies are said to have a high batman factor. Sleeker devices such as
+a later-model Palm or StarTac phone are prized for their low batman factor
+and lessened obtrusiveness and weight. :baud: /bawd/ n. [simplified from its
+technical meaning] n. Bits per second. Hence kilobaud or Kbaud, thousands of
+bits per second. The technical meaning is `level transitions per second';
+this coincides with bps only for two-level modulation with no framing or stop
+bits. Most hackers are aware of these nuances but blithely ignore them.
+Historical note: `baud' was originally a unit of telegraph signalling speed,
+set at one pulse per second. It was proposed at the November, 1926 conference
+of the Comite' Consultatif International Des Communications Te'le'graphiques
+as an improvement on the then standard practice of referring to line speeds
+in terms of words per minute, and named for Jean Maurice Emile Baudot
+(1845-1903), a French engineer who did a lot of pioneering work in early
+teleprinters. :baud barf: /bawd barf/ n. The garbage one gets a terminal (or
+terminal emulator) when using a modem connection with some protocol setting
+(esp. line speed) incorrect, or when someone picks up a voice extension on
+the same line, or when really bad line noise disrupts the connection. Baud
+barf is not completely {random}, by the way; hackers with a lot of
+serial-line experience can usually tell whether the device at the other end
+is expecting a higher or lower speed than the terminal is set to. _Really_
+experienced ones can identify particular speeds. :baz: /baz/ n. 1. [common]
+The third {metasyntactic variable} "Suppose we have three functions: FOO,
+BAR, and BAZ. FOO calls BAR, which calls BAZ...." (see also {fum}) 2. interj.
+A term of mild annoyance. In this usage the term is often drawn out for 2 or
+3 seconds, producing an effect not unlike the bleating of a sheep;
+/baaaaaaz/. 3. Occasionally appended to {foo} to produce `foobaz'. Earlier
+versions of this lexicon derived `baz' as a Stanford corruption of {bar}.
+However, Pete Samson (compiler of the {TMRC} lexicon) reports it was already
+current when he joined TMRC in 1958. He says "It came from "Pogo". Albert the
+Alligator, when vexed or outraged, would shout `Bazz Fazz!' or `Rowrbazzle!'
+The club layout was said to model the (mythical) New England counties of
+Rowrfolk and Bassex (Rowrbazzle mingled with
+(Norfolk/Suffolk/Middlesex/Essex)." :bazaar: n.,adj. In 1997, after
+meditatating on the success of {Linux} for three years, the Jargon File's own
+editor ESR wrote an analytical paper on hacker culture and development models
+titled The Cathedral and the Bazaar
 (http://www.tuxedo.org/~esr/writings/cathedral-bazaar/). The main argument of
 the paper was that {Brooks's Law} is not the whole story; given the right
 social machinery, debugging can be efficiently parallelized across large
@@ -94,21 +104,20 @@ techspeak under MS-DOS and OS/2, and seems to be generally preferred among
 micro hobbyists. :Befunge: n. A worthy companion to {INTERCAL}; a computer
 language family which escapes the quotidian limitation of linear control flow
 and embraces program counters flying through multiple dimensions with exotic
-topologies. Sadly, the Befunge home page has vanished, but a Befunge version
-of the {hello world} program is at
-`http://www.catseye.mb.ca/esoteric/befunge.html'. :beige toaster: n. A
-Macintosh. see {toaster}; compare {Macintrash}, {maggotbox}. :bells and
-whistles: n. [common] Features added to a program or system to make it more
-{flavorful} from a hacker's point of view, without necessarily adding to its
-utility for its primary function. Distinguished from {chrome}, which is
-intended to attract users. "Now that we've got the basic program working,
-let's go back and add some bells and whistles." No one seems to know what
-distinguishes a bell from a whistle. The recognized emphatic form is "bells,
-whistles, and gongs". It used to be thought that this term derived from the
-toyboxes on theater organs. However, the "and gongs" strongly suggests a
-different origin, at sea. Before powered horns, ships routinely used bells,
-whistles, and gongs to signal each other over longer distances than voice can
-carry. :bells whistles and gongs: n. A standard elaborated form of {bells and
+topologies. The Befunge home page is at
+`http://www.catseye.mb.ca/esoteric/befunge/'. :beige toaster: n. A Macintosh.
+see {toaster}; compare {Macintrash}, {maggotbox}. :bells and whistles: n.
+[common] Features added to a program or system to make it more {flavorful}
+from a hacker's point of view, without necessarily adding to its utility for
+its primary function. Distinguished from {chrome}, which is intended to
+attract users. "Now that we've got the basic program working, let's go back
+and add some bells and whistles." No one seems to know what distinguishes a
+bell from a whistle. The recognized emphatic form is "bells, whistles, and
+gongs". It used to be thought that this term derived from the toyboxes on
+theater organs. However, the "and gongs" strongly suggests a different
+origin, at sea. Before powered horns, ships routinely used bells, whistles,
+and gongs to signal each other over longer distances than voice can carry.
+:bells whistles and gongs: n. A standard elaborated form of {bells and
 whistles}; typically said with a pronounced and ironic accent on the `gongs'.
 :benchmark: n. [techspeak] An inaccurate measure of computer performance. "In
 the computer industry, there are three kinds of lies: lies, damn lies, and
@@ -154,7 +163,7 @@ B-test performed on early samples of the production design, and the D test
 was the C test repeated after the model had been in production a while. :BFI:
 /B-F-I/ n. see {brute force and ignorance}. Also encountered in the variants
 `BFMI', `brute force and _massive_ ignorance' and `BFBI' `brute force and
-bloody ignorance'. In dome parts of the U.S. this abbreviation was probably
+bloody ignorance'. In some parts of the U.S. this abbreviation was probably
 reinforced by a company called Browning-Ferris Industries who used to be in
 the waste-management business; a large BFI logo in white-on-blue could be
 seen on the sides of garbage trucks. :bible: n. 1. One of a small number of
