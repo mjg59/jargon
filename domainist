@@ -1,4 +1,4 @@
- :domainist: /doh-mayn'ist/ adj. 1. Said of an {{Internet address}} (as
+ :domainist: /doh-mayn'ist/ adj.,obs. 1. Said of an {{Internet address}} (as
 opposed to a {bang path}) because the part to the right of the `@' specifies
 a nested series of `domains'; for example, esr@snark.thyrsus.com specifies
 the machine called snark in the subdomain called thyrsus within the top-level
@@ -6,4 +6,5 @@ domain called com. see also {big-endian}, sense 2. 2. Said of a site, mailer,
 or routing program which knows how to handle domainist addresses. 3. Said of
 a person (esp. a site admin) who prefers domain addressing, supports a
 domainist mailer, or proselytizes for domainist addressing and disdains {bang
-path}s. This term is now (1993) semi-obsolete, as most sites have converted.
+path}s. This term is now (1996) obsolete, as effectively all sites have
+converted.

@@ -1,6 +1,6 @@
  :tool: 1. n. A program used primarily to create, manipulate, modify, or
 analyze other programs, such as a compiler or an editor or a
-cross-referencing program. Oppose {app}, {operating system}. 2. [UNIX] An
+cross-referencing program. Oppose {app}, {operating system}. 2. [Unix] An
 application program with a simple, `transparent' (typically text-stream)
 interface designed specifically to be used in programmed combination with
 other tools (see {filter}, {plumbing}). 3. [MIT: general to students there]

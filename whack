@@ -1,7 +1,7 @@
- :whack: v. According to arch-hacker James Gosling, to "...modify a program
-with no idea whatsoever how it works." (see {whacker}.) It is actually
-possible to do this in nontrivial circumstances if the change is small and
-well-defined and you are very good at {glark}ing things from context. As a
-trivial example, it is relatively easy to change all `stderr' writes to
-`stdout' writes in a piece of C filter code which remains otherwise
-mysterious.
+ :whack: v. According to arch-hacker James Gosling (designer oof {NeWS} and
+{GOSMACS}), to "...modify a program with no idea whatsoever how it works."
+(see {whacker}.) It is actually possible to do this in nontrivial
+circumstances if the change is small and well-defined and you are very good
+at {glark}ing things from context. As a trivial example, it is relatively
+easy to change all `stderr' writes to `stdout' writes in a piece of C filter
+code which remains otherwise mysterious.

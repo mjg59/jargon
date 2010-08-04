@@ -8,4 +8,6 @@ pages of wizardly inscriptions was a `BUGS' section consisting of the line
 seen in other BSD versions, though it has been excised from some versions by
 humorless management {droid}s. The [nt]roff source for SunOS 4.1.1 contains a
 comment apparently designed to prevent this: "Take this out and a Unix Demon
-will dog your steps from now until the `time_t"s wrap around."
+will dog your steps from now until the `time_t"s wrap around." [It has since
+been pointed out that indeed you can tunafish. Usually at a canning
+factory... --ESR]

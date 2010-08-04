@@ -13,6 +13,6 @@ network of machines is frozen -- worst of all, the user can't even abort the
 file access that started the problem! Many of NFS's problems are excused by
 partisans as being an inevitable result of its statelessness, which is held
 to be a great feature (critics, of course, call it a great {misfeature}).
-(ITS partisans are apt to cite this as proof of UNIX's alleged bogosity; ITS
+(ITS partisans are apt to cite this as proof of Unix's alleged bogosity; ITS
 had a working NFS-like shared file system with none of these problems in the
 early 1970s.) see also {broadcast storm}.

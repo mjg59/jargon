@@ -4,6 +4,6 @@ shooting torpedoes at each other and jumping through hyperspace. This game
 was first implemented on the PDP-1 at MIT in 1960--61. SPACEWAR aficionados
 formed the core of the early hacker culture at MIT. Nine years later, a
 descendant of the game motivated Ken Thompson to build, in his spare time on
-a scavenged PDP-7, the operating system that became {{UNIX}}. Less than nine
+a scavenged PDP-7, the operating system that became {{Unix}}. Less than nine
 years after that, SPACEWAR was commercialized as one of the first video
 games; descendants are still {feep}ing in video arcades everywhere.

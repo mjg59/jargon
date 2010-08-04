@@ -1,10 +1,10 @@
  :vaxocentrism: /vak`soh-sen'trizm/ n. [analogy with `ethnocentrism'] A
 notional disease said to afflict C programmers who persist in coding
-according to certain assumptions that are valid (esp. under UNIX) on {VAXen}
+according to certain assumptions that are valid (esp. under Unix) on {VAXen}
 but false elsewhere. Among these are: 1. The assumption that dereferencing a
 null pointer is safe because it is all bits 0, and location 0 is readable and
 0. Problem: this may instead cause an illegal-address trap on non-VAXen, and
-even on VAXen under OSes other than BSD UNIX. Usually this is an implicit
+even on VAXen under OSes other than BSD Unix. Usually this is an implicit
 assumption of sloppy code (forgetting to check the pointer before using it),
 rather than deliberate exploitation of a misfeature. 2. The assumption that
 characters are signed. 3. The assumption that a pointer to any one type can
@@ -47,7 +47,7 @@ or (nearly equivalently) the assumption that `sizeof(int) == sizeof(long)'.
 Problem: this fails on PDP-11s, 286-based systems and even on 386 and 68000
 systems under some compilers. 14. The assumption that `argv[]' is writable.
 Problem: this fails in many embedded-systems C environments and even under a
-few flavors of UNIX. Note that a programmer can validly be accused of
+few flavors of Unix. Note that a programmer can validly be accused of
 vaxocentrism even if he or she has never seen a VAX. Some of these
 assumptions (esp. 2--5) were valid on the PDP-11, the original C machine, and
 became endemic years before the VAX. The terms `vaxocentricity' and

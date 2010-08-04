@@ -10,7 +10,7 @@ powerful and expensive as {HLL}s, only to fall from favor as improving
 compiler technology marginalized assembler programming (see {languages of
 choice}). Nowadays the term is most often used in connection with the C
 preprocessor, LISP, or one of several special-purpose languages built around
-a macro-expansion facility (such as TeX or UNIX's [nt]roff suite). Indeed,
+a macro-expansion facility (such as TeX or Unix's [nt]roff suite). Indeed,
 the meaning has drifted enough that the collective `macros' is now sometimes
 used for code in any special-purpose application control language (whether or
 not the language is actually translated by text expansion), and for

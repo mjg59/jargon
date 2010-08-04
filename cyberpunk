@@ -9,8 +9,8 @@ and microwaved burritos are big. Interestingly, though the mainstream culture
 has tended to think of hackers as incorrigible junk-food junkies, many have
 at least mildly health-foodist attitudes and are fairly discriminating about
 what they eat. This may be generational; anecdotal evidence suggests that the
-stereotype was more on the mark 10--15 years ago. :Politics: ==========
-Vaguely left of center, except for the strong libertarian contingent which
+stereotype was more on the mark before the early 1980s. :Politics: ==========
+Vaguely liberal-moderate, except for the strong libertarian contingent which
 rejects conventional left-right politics entirely. The only safe
 generalization is that hackers tend to be rather anti-authoritarian; thus,
 both conventional conservatism and `hard' leftism are rare. Hackers are far
@@ -32,7 +32,7 @@ color-blindness to a positive effect of text-only network channels, and this
 is doubtless a powerful influence. Also, the ties many hackers have to AI
 research and SF literature may have helped them to develop an idea of
 personhood that is inclusive rather than exclusive --- after all, if one's
-imagination readily grants full human rights to AI programs, robots,
+imagination readily grants full human rights to future AI programs, robots,
 dolphins, and extraterrestrial aliens, mere color and gender can't seem very
 important any more. :Religion: ========== Agnostic. Atheist. Non-observant
 Jewish. Neo-pagan. Very commonly, three or more of these are combined in the
@@ -132,7 +132,7 @@ of their passionate embrace of (what they consider to be) the {Right Thing},
 hackers can be unfortunately intolerant and bigoted on technical issues, in
 marked contrast to their general spirit of camaraderie and tolerance of
 alternative viewpoints otherwise. Old-time {{ITS}} partisans look down on the
-ever-growing hordes of {{UNIX}} hackers; UNIX aficionados despise {VMS} and
+ever-growing hordes of {{Unix}} hackers; Unix aficionados despise {VMS} and
 {{MS-DOS}}; and hackers who are used to conventional command-line user
 interfaces loudly loathe mouse-and-menu based systems such as the Macintosh.
 Hackers who don't indulge in {Usenet} consider it a huge waste of time and
@@ -200,7 +200,7 @@ about the hacker way of thought. "When you have learned to snatch the error
 code from the trap frame, it will be time for you to leave." :Hackers: Steven
 Levy Anchor/Doubleday 1984 ISBN 0-385-19195-2 Levy's book is at its best in
 describing the early MIT hackers at the Model Railroad Club and the early
-days of the microcomputer revolution. He never understood UNIX or the
+days of the microcomputer revolution. He never understood Unix or the
 networks, though, and his enshrinement of Richard Stallman as "the last true
 hacker" turns out (thankfully) to have been quite misleading. Numerous minor
 factual errors also mar the text; for example, Levy's claim that the original
@@ -211,15 +211,18 @@ book that inflame the passions of old-timers; as Dan Murphy, the author of
 TECO, once said: "You would have thought he'd take the trouble to spell the
 name of a winning editor right." Nevertheless, this remains a useful and
 stimulating book that captures the feel of several important hackish
-subcultures. :The Devil's DP Dictionary: Stan Kelly-Bootle McGraw-Hill, 1981
-ISBN 0-07-034022-6 This pastiche of Ambrose Bierce's famous work is similar
-in format to the Jargon File (and quotes several entries from jargon-1) but
-somewhat different in tone and intent. It is more satirical and less
+subcultures. :The Computer Contradictionary: Stan Kelly-Bootle MIT Press,
+1995 ISBN 0-262-61112-0 This pastiche of Ambrose Bierce's famous work is
+similar in format to the Jargon File (and quotes several entries from TNHD-2)
+but somewhat different in tone and intent. It is more satirical and less
 anthropological, and is largely a product of the author's literate and quirky
 imagination. For example, it defines `computer science' as "a study akin to
 numerology and astrology, but lacking the precision of the former and the
-success of the latter" and "the boring art of coping with a large number of
-trivialities." :The Devouring Fungus: Tales from the Computer Age: Karla
+success of the latter" and `implementation' as "The fruitless struggle by the
+talented and underpaid to fulfill promises made by the rich and ignorant";
+`flowchart' becomes "to obfuscate a problem with esoteric cartoons". Revised
+and expanded from "The Devil's DP Dictionary", McGraw-Hill 1981, ISBN
+0-07-034022-6. :The Devouring Fungus: Tales from the Computer Age: Karla
 Jennings Norton, 1990 ISBN 0-393-30732-8 The author of this pioneering
 compendium knits together a great deal of computer- and hacker-related
 folklore with good writing and a few well-chosen cartoons. She has a keen eye
@@ -244,12 +247,12 @@ engineers departed the company, leaving behind a note on his terminal as his
 letter of resignation: "I am going to a commune in Vermont and will deal with
 no unit of time shorter than a season." :Life with UNIX: a Guide for
 Everyone: Don Libes and Sandy Ressler Prentice-Hall, 1989 ISBN 0-13-536657-7
-The authors of this book set out to tell you all the things about UNIX that
+The authors of this book set out to tell you all the things about Unix that
 tutorials and technical books won't. The result is gossipy, funny,
 opinionated, downright weird in spots, and invaluable. Along the way they
-expose you to enough of UNIX's history, folklore and humor to qualify as a
+expose you to enough of Unix's history, folklore and humor to qualify as a
 first-class source for these things. Because so much of today's hackerdom is
-involved with UNIX, this in turn illuminates many of its in-jokes and
+involved with Unix, this in turn illuminates many of its in-jokes and
 preoccupations. :True Names ... and Other Dangers: Vernor Vinge Baen Books,
 1987 ISBN 0-671-65363-6 Hacker demigod Richard Stallman used to say that the
 title story of this book "expresses the spirit of hacking best". Until the

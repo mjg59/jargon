@@ -1,4 +1,4 @@
- :finger: [WAITS, via BSD UNIX] 1. n. A program that displays information
+ :finger: [WAITS, via BSD Unix] 1. n. A program that displays information
 about a particular user or all users logged on the system, or a remote
 system. Typically shows full name, last login time, idle time, terminal line,
 and terminal location (where applicable). May also display a {plan file} left

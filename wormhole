@@ -3,7 +3,7 @@ some versions of General Relativity theory] 1. obs. A location in a monitor
 which contains the address of a routine, with the specific intent of making
 it easy to substitute a different routine. This term is now obsolescent;
 modern operating systems use clusters of wormholes extensively (for
-modularization of I/O handling in particular, as in the UNIX device-driver
+modularization of I/O handling in particular, as in the Unix device-driver
 organization) but the preferred techspeak for these clusters is `device
 tables', `jump tables' or `capability tables'. 2. [Amateur Packet Radio] A
 network path using a commercial satellite link to join two or more amateur

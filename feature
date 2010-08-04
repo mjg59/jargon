@@ -29,4 +29,7 @@ nonstandard-length ceiling panels to fit over the displaced seats." A: "A
 miswart, actually. If they increased spacing throughout they'd lose several
 rows and a chunk out of the profit margin. So unequal spacing would actually
 be the Right Thing." B: "Indeed." `Undocumented feature' is a common,
-allegedly humorous euphemism for a {bug}.
+allegedly humorous euphemism for a {bug}. There's a related joke that is
+sometimes referred to as the "one-question geek test". You say to someone "I
+saw a Volkswagen Beetle today with a vanity license plate that read FEATURE".
+If he/she laughs, he/she is a geek (see {computer geek}, sense #2).

@@ -1,6 +1,6 @@
  :grep: /grep/ vt. [from the qed/ed editor idiom g/re/p , where re stands for
 a regular expression, to Globally search for the Regular Expression and Print
-the lines containing matches to it, via {{UNIX}} `grep(1)'] To rapidly scan a
+the lines containing matches to it, via {{Unix}} `grep(1)'] To rapidly scan a
 file or set of files looking for a particular string or pattern (when
 browsing through a large set of files, one may speak of `grepping around').
 By extension, to look for something by pattern. "Grep the bulletin board for

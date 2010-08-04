@@ -4,5 +4,5 @@ character-graphics capitals. Also called a `burst page', because it indicates
 where to burst (tear apart) fanfold paper to separate one user's printout
 from the next. 2. A similar printout generated (typically on multiple pages
 of fan-fold paper) from user-specified text, e.g., by a program such as
-UNIX's `banner({1,6})'. 3. On interactive software, a first screen containing
+Unix's `banner({1,6})'. 3. On interactive software, a first screen containing
 a logo and/or author credits and/or a copyright notice.

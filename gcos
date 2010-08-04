@@ -8,11 +8,11 @@ as `God's Chosen Operating System', allegedly in reaction to the GCOS crowd's
 uninformed and snotty attitude about the superiority of their product. All
 this might be of zero interest, except for two facts: (1) The GCOS people won
 the political war, and this led in the orphaning and eventual death of
-Honeywell {{Multics}}, and (2) GECOS/GCOS left one permanent mark on UNIX.
-Some early UNIX systems at Bell Labs used GCOS machines for print spooling
+Honeywell {{Multics}}, and (2) GECOS/GCOS left one permanent mark on Unix.
+Some early Unix systems at Bell Labs used GCOS machines for print spooling
 and various other services; the field added to `/etc/passwd' to carry GCOS ID
 information was called the `GECOS field' and survives today as the `pw_gecos'
 member used for the user's full name and other human-ID information. GCOS
 later played a major role in keeping Honeywell a dismal also-ran in the
-mainframe market, and was itself ditched for UNIX in the late 1980s when
+mainframe market, and was itself ditched for Unix in the late 1980s when
 Honeywell retired its aging {big iron} designs.

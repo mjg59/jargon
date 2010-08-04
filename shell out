@@ -1,3 +1,3 @@
- :shell out: n. [UNIX] To spawn an interactive subshell from within a program
+ :shell out: n. [Unix] To spawn an interactive subshell from within a program
 (e.g., a mailer or editor). "Bang foo runs foo in a subshell, while bang
 alone shells out."

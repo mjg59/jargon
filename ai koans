@@ -99,7 +99,7 @@ system could be cracked and just how thoroughly the security safeguards could
 be subverted. They dug around in the operating-system listings and devised a
 thoroughly devilish set of patches. These patches were then incorporated into
 a pair of programs called `Robin Hood' and `Friar Tuck'. Robin Hood and Friar
-Tuck were designed to run as `ghost jobs' (daemons, in UNIX terminology);
+Tuck were designed to run as `ghost jobs' (daemons, in Unix terminology);
 they would use the existing loophole to subvert system security, install the
 necessary patches, and then keep an eye on one another's statuses in order to
 keep the system operator (in effect, the superuser) from aborting them. One
@@ -118,36 +118,37 @@ ghosts added some code to the card-reader driver... after reading a card, it
 would flip over to the opposite stacker. As a result, card decks would divide
 themselves in half when they were read, leaving the operator to recollate
 them manually. Naturally, the operator called in the operating-system
-developers. They found the bandit ghost jobs running, and X'ed them... and
-were once again surprised. When Robin Hood was X'ed, the following sequence
-of events took place: !X id1 id1: Friar Tuck... I am under attack! Pray save
-me! id1: Off (aborted) id2: Fear not, friend Robin! I shall rout the Sheriff
-of Nottingham's men! id1: Thank you, my good fellow! Each ghost-job would
-detect the fact that the other had been killed, and would start a new copy of
-the recently slain program within a few milliseconds. The only way to kill
-both ghosts was to kill them simultaneously (very difficult) or to
-deliberately crash the system. Finally, the system programmers did the latter
--- only to find that the bandits appeared once again when the system
+developers. They found the bandit ghost jobs running, and {gun}ned them...
+and were once again surprised. When Robin Hood was gunned, the following
+sequence of events took place: !X id1 id1: Friar Tuck... I am under attack!
+Pray save me! id1: Off (aborted) id2: Fear not, friend Robin! I shall rout
+the Sheriff of Nottingham's men! id1: Thank you, my good fellow! Each
+ghost-job would detect the fact that the other had been killed, and would
+start a new copy of the recently slain program within a few milliseconds. The
+only way to kill both ghosts was to kill them simultaneously (very difficult)
+or to deliberately crash the system. Finally, the system programmers did the
+latter -- only to find that the bandits appeared once again when the system
 rebooted! It turned out that these two programs had patched the boot-time OS
-image (the kernel file, in UNIX terms) and had added themselves to the list
-of programs that were to be started at boot time. The Robin Hood and Friar
-Tuck ghosts were finally eradicated when the system staff rebooted the system
-from a clean boot-tape and reinstalled the monitor. Not long thereafter,
-Xerox released a patch for this problem. It is alleged that Xerox filed a
-complaint with Motorola's management about the merry-prankster actions of the
-two employees in question. It is not recorded that any serious disciplinary
-action was taken against either of them. :TV Typewriters: A Tale of Hackish
-Ingenuity ============================================ Here is a true story
-about a glass tty: One day an MIT hacker was in a motorcycle accident and
-broke his leg. He had to stay in the hospital quite a while, and got restless
-because he couldn't {hack}. Two of his friends therefore took a terminal and
-a modem for it to the hospital, so that he could use the computer by
-telephone from his hospital bed. Now this happened some years before the
-spread of home computers, and computer terminals were not a familiar sight to
-the average person. When the two friends got to the hospital, a guard stopped
-them and asked what they were carrying. They explained that they wanted to
-take a computer terminal to their friend who was a patient. The guard got out
-his list of things that patients were permitted to have in their rooms: TV,
+image (the kernel file, in Unix terms) and had added themselves to the list
+of programs that were to be started at boot time (this is similar to the way
+MS-DOS viruses propagate). The Robin Hood and Friar Tuck ghosts were finally
+eradicated when the system staff rebooted the system from a clean boot-tape
+and reinstalled the monitor. Not long thereafter, Xerox released a patch for
+this problem. It is alleged that Xerox filed a complaint with Motorola's
+management about the merry-prankster actions of the two employees in
+question. It is not recorded that any serious disciplinary action was taken
+against either of them. :TV Typewriters: A Tale of Hackish Ingenuity
+============================================ Here is a true story about a
+glass tty: One day an MIT hacker was in a motorcycle accident and broke his
+leg. He had to stay in the hospital quite a while, and got restless because
+he couldn't {hack}. Two of his friends therefore took a terminal and a modem
+for it to the hospital, so that he could use the computer by telephone from
+his hospital bed. Now this happened some years before the spread of home
+computers, and computer terminals were not a familiar sight to the average
+person. When the two friends got to the hospital, a guard stopped them and
+asked what they were carrying. They explained that they wanted to take a
+computer terminal to their friend who was a patient. The guard got out his
+list of things that patients were permitted to have in their rooms: TV,
 radio, electric razor, typewriter, tape player, ... no computer terminals.
 Computer terminals weren't on the list, so the guard wouldn't let it in.
 Rules are rules, you know. (This guard was clearly a {droid}.) Fair enough,

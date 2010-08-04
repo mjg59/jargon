@@ -1,4 +1,4 @@
- :hot spot: n. 1. [primarily used by C/UNIX programmers, but spreading] It is
+ :hot spot: n. 1. [primarily used by C/Unix programmers, but spreading] It is
 received wisdom that in most programs, less than 10% of the code eats 90% of
 the execution time; if one were to graph instruction visits versus code
 addresses, one would typically see a few huge spikes amidst a lot of
@@ -9,10 +9,10 @@ tight loops and recursions in the code's central algorithm, as opposed to
 {tune}, {bum}, {hand-hacking}. 2. The active location of a cursor on a
 bit-map display. "Put the mouse's hot spot on the `ON' widget and click the
 left button." 3. A screen region that is sensitive to mouse clicks, which
-trigger some action. Hypertext help screens are an example, in which a hot
-spot exists in the vicinity of any word for which additional material is
-available. 4. In a massively parallel computer with shared memory, the one
-location that all 10,000 processors are trying to read or write at once
-(perhaps because they are all doing a {busy-wait} on the same lock). 5. More
-generally, any place in a hardware design that turns into a performance
-bottleneck due to resource contention.
+trigger some action. World-Wide Web pages are now the canonical example; WWW
+browsers present hypertext links as hot spots which, when clicked on, point
+the browser at another document. 4. In a massively parallel computer with
+shared memory, the one location that all 10,000 processors are trying to read
+or write at once (perhaps because they are all doing a {busy-wait} on the
+same lock). 5. More generally, any place in a hardware design that turns into
+a performance bottleneck due to resource contention.

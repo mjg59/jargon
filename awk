@@ -1,4 +1,4 @@
- :awk: /awk/ 1. n. [UNIX techspeak] An interpreted language for massaging
+ :awk: /awk/ 1. n. [Unix techspeak] An interpreted language for massaging
 text data developed by Alfred Aho, Peter Weinberger, and Brian Kernighan (the
 name derives from their initials). It is characterized by C-like syntax, a
 declaration-free approach to variable typing and declarations, associative

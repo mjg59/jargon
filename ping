@@ -1,6 +1,6 @@
  :ping: [from the submariners' term for a sonar pulse] 1. n. Slang term for a
 small network message (ICMP ECHO) sent by a computer to check for the
-presence and alertness of another. The UNIX command `ping(8)' can be used to
+presence and alertness of another. The Unix command `ping(8)' can be used to
 do this manually (note that `ping(8)"s author denies the widespread folk
 etymology that the name was ever intended as acronym `Packet INternet
 Groper'). Occasionally used as a phone greeting. see {ACK}, also {ENQ}. 2.

@@ -2,13 +2,13 @@
 FROM' <label> would cause the referenced label to act as a sort of trapdoor,
 so that if the program ever reached it control would quietly and
 {automagically} be transferred to the statement following the `COME FROM'.
-`COME FROM' was first proposed in R.L. Clark's "A Linguistic Contribution to
-GOTO-less programming", which appeared in a 1973 {Datamation} issue (and was
-reprinted in the April 1984 issue of "Communications of the ACM"). This
-parodied the then-raging `structured programming' {holy wars} (see
-{considered harmful}). Mythically, some variants are the `assigned COME FROM'
-and the `computed COME FROM' (parodying some nasty control constructs in
-FORTRAN and some extended BASICs). Of course, multi-tasking (or
+`COME FROM' was first proposed in R. Lawrence Clark's "A Linguistic
+Contribution to GOTO-less programming", which appeared in a 1973 {Datamation}
+issue (and was reprinted in the April 1984 issue of "Communications of the
+ACM"). This parodied the then-raging `structured programming' {holy wars}
+(see {considered harmful}). Mythically, some variants are the `assigned COME
+FROM' and the `computed COME FROM' (parodying some nasty control constructs
+in FORTRAN and some extended BASICs). Of course, multi-tasking (or
 non-determinism) could be implemented by having more than one `COME FROM'
 statement coming from the same label. In some ways the FORTRAN `DO' looks
 like a `COME FROM' statement. After the terminating statement

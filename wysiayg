@@ -10,5 +10,5 @@ of fonts and graphics in them, especially things like newsletters and
 presentation slides. When typesetting book-length manuscripts, on the other
 hand, scale changes the nature of the task; one quickly runs into WYSIAYG
 limitations, and the increased power and flexibility of a command-driven
-formatter like {{TeX}} or UNIX's {{troff}} becomes not just desirable but a
+formatter like {{TeX}} or Unix's {{troff}} becomes not just desirable but a
 necessity. Compare {YAFIYGI}.

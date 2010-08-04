@@ -2,6 +2,6 @@
 organization of the software team will be congruent; originally stated as "If
 you have four groups working on a compiler, you'll get a 4-pass compiler".
 The law was named after Melvin Conway, an early proto-hacker who wrote an
-assembler for the Burroughs 220 called SAVE. The name `SAVE' didn't stand for
-anything; it was just that you lost fewer card decks and listings because
-they all had SAVE written on them.
+assembler for the Burroughs 220 called SAVE. (The name `SAVE' didn't stand
+for anything; it was just that you lost fewer card decks and listings because
+they all had SAVE written on them.)

@@ -6,7 +6,7 @@ customizable, extensible real-time display editor". It has since been
 reimplemented any number of times, by various hackers, and versions exist
 that run under most major operating systems. Perhaps the most widely used
 version, also written by Stallman and now called "{GNU} EMACS" or {GNUMACS},
-runs principally under UNIX. It includes facilities to run compilation
+runs principally under Unix. It includes facilities to run compilation
 subprocesses and send and receive mail; many hackers spend up to 80% of their
 {tube time} inside it. Other variants include {GOSMACS}, CCA EMACS, UniPress
 EMACS, Montgomery EMACS, jove, epsilon, and MicroEMACS. Some EMACS versions

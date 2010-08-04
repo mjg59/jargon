@@ -6,7 +6,7 @@ of the three standard references on SmallTalk: "Smalltalk-80: Bits of
 History, Words of Advice", by Glenn Krasner (Addison-Wesley, 1983;
 QA76.8.S635S58; ISBN 0-201-11669-3) (this, too, is associated with blue and
 red books). 3. The "X/Open Compatibility Guide", which defines an
-international standard {{UNIX}} environment that is a proper superset of
+international standard {{Unix}} environment that is a proper superset of
 POSIX/SVID; also includes descriptions of a standard utility toolkit, systems
 administrations features, and the like. This grimoire is taken with
 particular seriousness in Europe. see {Purple Book}. 4. The IEEE 1003.1 POSIX

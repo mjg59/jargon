@@ -20,7 +20,7 @@ operating system under which it is compiled: "Is the output of a FORTRAN
 program acceptable as input to the FORTRAN compiler?" In other words, can you
 write programs that write programs? (see {toolsmith}.) Alarming numbers of
 (language, OS) pairs fail this test, particularly when the language is
-FORTRAN; aficionados are quick to point out that {UNIX} (even using FORTRAN)
+FORTRAN; aficionados are quick to point out that {Unix} (even using FORTRAN)
 passes it handily. That the test could ever be failed is only surprising to
 those who have had the good fortune to have worked only under modern systems
 which lack OS-supported and -imposed "file types".)

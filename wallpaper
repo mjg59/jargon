@@ -3,7 +3,7 @@ transcript, esp. a file containing a transcript of all or part of a login
 session. (The idea was that the paper for such listings was essentially good
 only for wallpaper, as evidenced at Stanford, where it was used to cover
 windows.) Now rare, esp. since other systems have developed other terms for
-it (e.g., PHOTO on TWENEX). However, the UNIX world doesn't have an
+it (e.g., PHOTO on TWENEX). However, the Unix world doesn't have an
 equivalent term, so perhaps {wallpaper} will take hold there. The term
 probably originated on ITS, where the commands to begin and end transcript
 files were `:WALBEG' and `:WALEND', with default file `WALL PAPER' (the space

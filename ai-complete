@@ -6,6 +6,6 @@ AI-complete is, in other words, just too hard. Examples of AI-complete
 problems are `The Vision Problem' (building a system that can see as well as
 a human) and `The Natural Language Problem' (building a system that can
 understand and speak a natural language as well as a human). These may appear
-to be modular, but all attempts so far (1993) to solve them have foundered on
+to be modular, but all attempts so far (1996) to solve them have foundered on
 the amount of context information and `intelligence' they seem to require.
 see also {gedanken}.

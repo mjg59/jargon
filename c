@@ -1,6 +1,6 @@
  :C: n. 1. The third letter of the English alphabet. 2. ASCII 1000011. 3. The
 name of a programming language designed by Dennis Ritchie during the early
-1970s and immediately used to reimplement {{UNIX}}; so called because many
+1970s and immediately used to reimplement {{Unix}}; so called because many
 features derived from an earlier compiler named `B' in commemoration of *its*
 parent, BCPL. (BCPL was in turn descended from an earlier Algol-derived
 language, CPL.) Before Bjarne Stroustrup settled the question by designing

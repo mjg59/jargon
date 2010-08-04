@@ -1,8 +1,8 @@
- :guru meditation: n. Amiga equivalent of `panic' in UNIX (sometimes just
+ :guru meditation: n. Amiga equivalent of `panic' in Unix (sometimes just
 called a `guru' or `guru event'). When the system crashes, a cryptic message
 of the form "GURU MEDITATION #XXXXXXXX.YYYYYYYY" may appear, indicating what
 the problem was. An Amiga guru can figure things out from the numbers.
-Generally a {guru} event must be followed by a {Vulcan nerve pinch}. This
+Sometimes a {guru} event must be followed by a {Vulcan nerve pinch}. This
 term is (no surprise) an in-joke from the earliest days of the Amiga. There
 used to be a device called a `Joyboard' which was basically a plastic board
 built onto a joystick-like device; it was sold with a skiing game cartridge

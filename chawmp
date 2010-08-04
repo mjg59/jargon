@@ -6,6 +6,6 @@ bits; `word' has an additional special meaning for FORTH hacks that made the
 overloading intolerable. For similar reasons, /gaw'bl/ (spelled `gawble' or
 possibly `gawbul') was in use as a term for 32 or 48 bits (presumably a full
 machine word, but our sources are unclear on this). These terms are more
-easily understood if one thinks of them as `chomp' and `gobble' pronounced in
-a Florida or other Southern U.S. dialect. For general discussion of similar
-terms, see {nybble}.
+easily understood if one thinks of them as faithful phonetic spellings of
+`chomp' and `gobble' pronounced in a Florida or other Southern U.S. dialect.
+For general discussion of similar terms, see {nybble}.

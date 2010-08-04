@@ -2,4 +2,8 @@
 silicon integrated circuits has closely followed the curve (bits per square
 inch) = 2^((t - 1962)) where t is time in years; that is, the amount of
 information storable on a given amount of silicon has roughly doubled every
-year since the technology was invented. see also {Parkinson's Law of Data}.
+year since the technology was invented. This relation, first uttered in 1964
+by semiconductor engineer Gordon Moore (who co-founded Intel four years
+later) held until the late 1970s, at which point the doubling period slowed
+to 18 months. It remained at that value through time of writing (late 1995).
+see also {Parkinson's Law of Data}.

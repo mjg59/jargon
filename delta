@@ -2,7 +2,7 @@
 incremental one (this use is general in physics and engineering). "I just
 doubled the speed of my program!" "What was the delta on program size?"
 "About 30 percent." (He doubled the speed of his program, but increased its
-size by only 30 percent.) 2. [UNIX] A {diff}, especially a {diff} stored
+size by only 30 percent.) 2. [Unix] A {diff}, especially a {diff} stored
 under the set of version-control tools called SCCS (Source Code Control
 System) or RCS (Revision Control System). 3. n. A small quantity, but not as
 small as {epsilon}. The jargon usage of {delta} and {epsilon} stems from the

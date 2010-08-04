@@ -26,9 +26,9 @@ terribly big, the extra CPU time spent on a brute-force solution may cost
 less than the programmer time it would take to develop a more `intelligent'
 algorithm. Additionally, a more intelligent algorithm may imply more
 long-term complexity cost and bug-chasing than are justified by the speed
-improvement. Ken Thompson, co-inventor of UNIX, is reported to have uttered
+improvement. Ken Thompson, co-inventor of Unix, is reported to have uttered
 the epigram "When in doubt, use brute force". He probably intended this as a
-{ha ha only serious}, but the original UNIX kernel's preference for simple,
+{ha ha only serious}, but the original Unix kernel's preference for simple,
 robust, and portable algorithms over {brittle} `smart' ones does seem to have
 been a significant factor in the success of that OS. Like so many other
 tradeoffs in software design, the choice between brute force and complex,

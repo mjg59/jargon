@@ -1,4 +1,4 @@
- :hello, world: interj. 1. The canonical minimal test message in the C/UNIX
+ :hello, world: interj. 1. The canonical minimal test message in the C/Unix
 universe. 2. Any of the minimal programs that emit this message.
 Traditionally, the first program a C coder is supposed to write in a new
 environment is one that just prints "hello, world" to standard output (and

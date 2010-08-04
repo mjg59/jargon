@@ -32,7 +32,8 @@ LPMUD, which synthesizes the combat/puzzle aspects of AberMUD and older
 systems with the extensibility of TinyMud. The trend toward greater
 programmability and flexibility will doubtless continue. The state of the art
 in MUD design is still moving very rapidly, with new simulation designs
-appearing (seemingly) every month. There is now (early 1991) a move afoot to
-deprecate the term {MUD} itself, as newer designs exhibit an exploding
-variety of names corresponding to the different simulation styles being
-explored. see also {bonk/oif}, {FOD}, {link-dead}, {mudhead}, {talk mode}.
+appearing (seemingly) every month. Around 1991 there was an unsuccessful
+movement to deprecate the term {MUD} itself, as newer designs exhibit an
+exploding variety of names corresponding to the different simulation styles
+being explored. It survived. see also {bonk/oif}, {FOD}, {link-dead},
+{mudhead}, {talk mode}.

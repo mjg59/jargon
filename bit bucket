@@ -1,7 +1,7 @@
  :bit bucket: n. 1. The universal data sink (originally, the mythical
 receptacle used to catch bits when they fall off the end of a register during
 a shift instruction). Discarded, lost, or destroyed data is said to have
-`gone to the bit bucket'. On {{UNIX}}, often used for {/dev/null}. Sometimes
+`gone to the bit bucket'. On {{Unix}}, often used for {/dev/null}. Sometimes
 amplified as `the Great Bit Bucket in the Sky'. 2. The place where all lost
 mail and news messages eventually go. The selection is performed according to
 {Finagle's Law}; important mail is much more likely to end up in the bit

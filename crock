@@ -1,7 +1,7 @@
  :crock: n. [from the American scatologism `crock of shit'] 1. An awkward
 feature or programming technique that ought to be made cleaner. For example,
 using small integers to represent error codes without the program
-interpreting them to the user (as in, for example, UNIX `make(1)', which
+interpreting them to the user (as in, for example, Unix `make(1)', which
 returns code 139 for a process that dies due to {segfault}). 2. A technique
 that works acceptably, but which is quite prone to failure if disturbed in
 the least. For example, a too-clever programmer might write an assembler

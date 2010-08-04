@@ -1,9 +1,9 @@
- :Linux:: n. The free UNIX workalike created by Linus Torvalds and friends
+ :Linux:: n. The free Unix workalike created by Linus Torvalds and friends
 starting about 1990. This may be the most remarkable hacker project in
-history -- an entire clone of UNIX for 386 and 486 micros, distributed for
+history -- an entire clone of Unix for 386 and 486 micros, distributed for
 free with sources over the net. This is what {GNU} aimed to be, but the Free
-Software Foundation never produced the kernel to go with its UNIX toolset
-(which Linux uses). Other, similar efforts like FreeBSD and NetBSD have been
-much less successful. The secret of Linux's success may be that Linus worked
-much harder early on to keep the development process open and recruit other
-hackers, creating a snowball effect.
+Software Foundation has not (as of early 1995) produced the kernel to go with
+its Unix toolset (which Linux uses). Other, similar efforts like FreeBSD and
+NetBSD have been much less successful. The secret of Linux's success may be
+that Linus worked much harder early on to keep the development process open
+and recruit other hackers, creating a snowball effect.

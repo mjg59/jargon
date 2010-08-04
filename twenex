@@ -16,12 +16,12 @@ TOPS-20 as the name of the operating system, and it was as TOPS-20 that it
 was marketed. The hacker community, mindful of its origins, quickly dubbed it
 TWENEX (a contraction of `twenty TENEX'), even though by this point very
 little of the original TENEX code remained (analogously to the differences
-between AT&T V6 UNIX and BSD). DEC people cringed when they heard "TWENEX",
+between AT&T V6 Unix and BSD). DEC people cringed when they heard "TWENEX",
 but the term caught on nevertheless (the written abbreviation `20x' was also
 used). TWENEX was successful and very popular; in fact, there was a period in
-the early 1980s when it commanded as fervent a culture of partisans as UNIX
+the early 1980s when it commanded as fervent a culture of partisans as Unix
 or ITS -- but DEC's decision to scrap all the internal rivals to the VAX
 architecture and its relatively stodgy VMS OS killed the DEC-20 and put a sad
 end to TWENEX's brief day in the sun. DEC attempted to convince TOPS-20 users
 to convert to {VMS}, but instead, by the late 1980s, most of the TOPS-20
-hackers had migrated to UNIX.
+hackers had migrated to Unix.

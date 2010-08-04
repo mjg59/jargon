@@ -1,8 +1,8 @@
- :magic cookie: n. [UNIX] 1. Something passed between routines or programs
+ :magic cookie: n. [Unix] 1. Something passed between routines or programs
 that enables the receiver to perform some operation; a capability ticket or
 opaque identifier. Especially used of small data objects that contain data
 encoded in a strange or intrinsically machine-dependent way. E.g., on
-non-UNIX OSes with a non-byte-stream model of files, the result of `ftell(3)'
+non-Unix OSes with a non-byte-stream model of files, the result of `ftell(3)'
 may be a magic cookie rather than a byte offset; it can be passed to
 `fseek(3)', but not operated on in any meaningful way. The phrase `it hands
 you a magic cookie' means it returns a result whose contents are not defined

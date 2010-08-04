@@ -1,4 +1,4 @@
- :magic number: n. [UNIX/C] 1. In source code, some non-obvious constant
+ :magic number: n. [Unix/C] 1. In source code, some non-obvious constant
 whose value is significant to the operation of a program and that is inserted
 inconspicuously in-line ({hardcoded}), rather than expanded in by a symbol
 set by a commented `#define'. Magic numbers in this sense are bad style. 2. A
@@ -7,7 +7,7 @@ way. The classic examples of these are the numbers used in hash or CRC
 functions, or the coefficients in a linear congruential generator for
 pseudo-random numbers. This sense actually predates and was ancestral to the
 more common sense 1. 3. Special data located at the beginning of a binary
-data file to indicate its type to a utility. Under UNIX, the system and
+data file to indicate its type to a utility. Under Unix, the system and
 various applications programs (especially the linker) distinguish between
 types of executable file by looking for a magic number. Once upon a time,
 these magic numbers were PDP-11 branch instructions that skipped over header

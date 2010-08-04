@@ -5,7 +5,7 @@ of control constructs. The significant variable is the placement of `{' and
 `}' with respect to the statement(s) they enclose and to the guard or
 controlling statement (`if', `else', `for', `while', or `do') on the block,
 if any. `K&R style' -- Named after Kernighan & Ritchie, because the examples
-in {K&R} are formatted this way. Also called `kernel style' because the UNIX
+in {K&R} are formatted this way. Also called `kernel style' because the Unix
 kernel is written in it, and the `One True Brace Style' (abbrev. 1TBS) by its
 partisans. The basic indent shown here is eight spaces (or one tab) per
 level; four spaces are occasionally seen, but are much less common. if (cond)
