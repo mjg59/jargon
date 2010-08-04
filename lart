@@ -96,14 +96,18 @@ in particular) that without a last name `Ken' refers only to Ken Thompson.
 Similarly, Dennis without last name means Dennis Ritchie (and he is often
 known as dmr). see also {demigod}, {{Unix}}. 2. A flaming user. This was
 originated by the Software Support group at Symbolics because the two
-greatest flamers in the user community were both named Ken. :kgbvax:
-/K-G-B'vaks/ n. see {kremvax}. :KIBO: /ki:'boh/ 1. [acronym] Knowledge In,
-Bullshit Out. A summary of what happens whenever valid data is passed through
-an organization (or person) that deliberately or accidentally disregards or
-ignores its significance. Consider, for example, what an advertising campaign
-can do with a product's actual specifications. Compare {GIGO}; see also
-{SNAFU principle}. 2. James Parry <kibo@world.std.com>, a Usenetter infamous
-for various surrealist net.pranks and an uncanny, machine-assisted knack for
+greatest flamers in the user community were both named Ken.
+:kernel-of-the-week club: The fictional society that {BSD} {bigot}s claim
+[Linux] users belong to, alluding to the release-early-release-often style
+preferred by the kernel maintainers. see {bazaar}. This was almost certainly
+inspired by the earlier {bug-of-the-month club}. :kgbvax: /K-G-B'vaks/ n. see
+{kremvax}. :KIBO: /ki:'boh/ 1. [acronym] Knowledge In, Bullshit Out. A
+summary of what happens whenever valid data is passed through an organization
+(or person) that deliberately or accidentally disregards or ignores its
+significance. Consider, for example, what an advertising campaign can do with
+a product's actual specifications. Compare {GIGO}; see also {SNAFU
+principle}. 2. James Parry <kibo@world.std.com>, a Usenetter infamous for
+various surrealist net.pranks and an uncanny, machine-assisted knack for
 joining any thread in which his nom de guerre is mentioned. He has a website
 at `http://www.kibo.com/'. :kiboze: v. [Usenet] To {grep} the Usenet news for
 a string, especially with the intention of posting a follow-up. This activity

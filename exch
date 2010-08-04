@@ -53,73 +53,74 @@ to the point where only a {cretin} could bear to read it, is said to have
 succumbed to the `drool-proof paper syndrome' or to have been `written on
 drool-proof paper'. For example, this is an actual quote from Apple's
 LaserWriter manual: "Do not expose your LaserWriter to open fire or flame."
-:drop on the floor: vt. To react to an error condition by silently discarding
-messages or other valuable data. "The gateway ran out of memory, so it just
-started dropping packets on the floor." Also frequently used of faulty mail
-and netnews relay sites that lose messages. see also {black hole}, {bit
-bucket}. :drop-ins: n. [prob. by analogy with {drop-outs}] Spurious
-characters appearing on a terminal or console as a result of line noise or a
-system malfunction of some sort. Esp. used when these are interspersed with
-one's own typed input. Compare {drop-outs}, sense 2. :drop-outs: n. 1. A
-variety of `power glitch' (see {glitch}); momentary 0 voltage on the
-electrical mains. 2. Missing characters in typed input due to software
-malfunction or system saturation (one cause of such behavior under Unix when
-a bad connection to a modem swamps the processor with spurious character
-interrupts; see {screaming tty}). 3. Mental glitches; used as a way of
-describing those occasions when the mind just seems to shut down for a couple
-of beats. see {glitch}, {fried}. :drugged: adj. (also `on drugs') 1.
-Conspicuously stupid, heading toward {brain-damaged}. Often accompanied by a
-pantomime of toking a joint. 2. Of hardware, very slow relative to normal
-performance. :drum: adj, n. Ancient techspeak term referring to slow,
-cylindrical magnetic media that were once state-of-the-art storage devices.
-Under BSD Unix the disk partition used for swapping is still called
-`/dev/drum'; this has led to considerable humor and not a few straight-faced
-but utterly bogus `explanations' getting foisted on {newbie}s. see also "{The
-Story of Mel}" in Appendix A. :drunk mouse syndrome: n. (also `mouse on
-drugs') A malady exhibited by the mouse pointing device of some computers.
-The typical symptom is for the mouse cursor on the screen to move in random
-directions and not in sync with the motion of the actual mouse. Can usually
-be corrected by unplugging the mouse and plugging it back again. Another
-recommended fix for optical mice is to rotate your mouse pad 90 degrees. At
-Xerox PARC in the 1970s, most people kept a can of copier cleaner (isopropyl
-alcohol) at their desks. When the steel ball on the mouse had picked up
-enough {cruft} to be unreliable, the mouse was doused in cleaner, which
-restored it for a while. However, this operation left a fine residue that
-accelerated the accumulation of cruft, so the dousings became more and more
-frequent. Finally, the mouse was declared `alcoholic' and sent to the clinic
-to be dried out in a CFC ultrasonic bath. :dub dub dub: [common] Spoken-only
-shorthand for the "www" (double-u double-u double-u) in many web host names.
-Nothing to do with the style of reggae music called `dub'. :Duff's device: n.
-The most dramatic use yet seen of {fall through} in C, invented by Tom Duff
-when he was at Lucasfilm. Trying to {bum} all the instructions he could out
-of an inner loop that copied data serially onto an output port, he decided to
-unroll it. He then realized that the unrolled version could be implemented by
-_interlacing_ the structures of a switch and a loop: register n = (count + 7)
-/ 8; /* count > 0 assumed */ switch (count % 8) { case 0: do { *to = *from++;
-case 7: *to = *from++; case 6: *to = *from++; case 5: *to = *from++; case 4:
-*to = *from++; case 3: *to = *from++; case 2: *to = *from++; case 1: *to =
-*from++; } while (--n > 0); } Shocking though it appears to all who encounter
-it for the first time, the device is actually perfectly valid, legal C. C's
-default {fall through} in case statements has long been its most
-controversial single feature; Duff observed that "This code forms some sort
-of argument in that debate, but I'm not sure whether it's for or against."
-Duff has discussed the device in detail at
-`http://www.lysator.liu.se/c/duffs-device.html'. Note that the omission of
-postfix `++' from `*to' was intentional (though confusing). Duff's device can
-be used to implement memory copy, but the original aim was to copy values
-serially into a magic IO register. [For maximal obscurity, the outermost pair
-of braces above could be actually be removed -- GLS] :dumb terminal: n. A
-terminal that is one step above a {glass tty}, having a minimally addressable
-cursor but no on-screen editing or other features normally supported by a
-{smart terminal}. Once upon a time, when glass ttys were common and
-addressable cursors were something special, what is now called a dumb
-terminal could pass for a smart terminal. :dumbass attack: /duhm'as *-tak'/
-n. [Purdue] Notional cause of a novice's mistake made by the experienced,
-especially one made while running as {root} under Unix, e.g., typing `rm -r
-*' or `mkfs' on a mounted file system. Compare {adger}. :dumbed down: adj.
-Simplified, with a strong connotation of _over_simplified. Often, a
-{marketroid} will insist that the interfaces and documentation of software be
-dumbed down after the designer has burned untold gallons of midnight oil
+The SGI Indy manual is said to include the line "Do not dangle the mouse by
+the cord or throw it at coworkers.", but this sounds like parody. :drop on
+the floor: vt. To react to an error condition by silently discarding messages
+or other valuable data. "The gateway ran out of memory, so it just started
+dropping packets on the floor." Also frequently used of faulty mail and
+netnews relay sites that lose messages. see also {black hole}, {bit bucket}.
+:drop-ins: n. [prob. by analogy with {drop-outs}] Spurious characters
+appearing on a terminal or console as a result of line noise or a system
+malfunction of some sort. Esp. used when these are interspersed with one's
+own typed input. Compare {drop-outs}, sense 2. :drop-outs: n. 1. A variety of
+`power glitch' (see {glitch}); momentary 0 voltage on the electrical mains.
+2. Missing characters in typed input due to software malfunction or system
+saturation (one cause of such behavior under Unix when a bad connection to a
+modem swamps the processor with spurious character interrupts; see {screaming
+tty}). 3. Mental glitches; used as a way of describing those occasions when
+the mind just seems to shut down for a couple of beats. see {glitch},
+{fried}. :drugged: adj. (also `on drugs') 1. Conspicuously stupid, heading
+toward {brain-damaged}. Often accompanied by a pantomime of toking a joint.
+2. Of hardware, very slow relative to normal performance. :drum: adj, n.
+Ancient techspeak term referring to slow, cylindrical magnetic media that
+were once state-of-the-art storage devices. Under BSD Unix the disk partition
+used for swapping is still called `/dev/drum'; this has led to considerable
+humor and not a few straight-faced but utterly bogus `explanations' getting
+foisted on {newbie}s. see also "{The Story of Mel}" in Appendix A. :drunk
+mouse syndrome: n. (also `mouse on drugs') A malady exhibited by the mouse
+pointing device of some computers. The typical symptom is for the mouse
+cursor on the screen to move in random directions and not in sync with the
+motion of the actual mouse. Can usually be corrected by unplugging the mouse
+and plugging it back again. Another recommended fix for optical mice is to
+rotate your mouse pad 90 degrees. At Xerox PARC in the 1970s, most people
+kept a can of copier cleaner (isopropyl alcohol) at their desks. When the
+steel ball on the mouse had picked up enough {cruft} to be unreliable, the
+mouse was doused in cleaner, which restored it for a while. However, this
+operation left a fine residue that accelerated the accumulation of cruft, so
+the dousings became more and more frequent. Finally, the mouse was declared
+`alcoholic' and sent to the clinic to be dried out in a CFC ultrasonic bath.
+:dub dub dub: [common] Spoken-only shorthand for the "www" (double-u double-u
+double-u) in many web host names. Nothing to do with the style of reggae
+music called `dub'. :Duff's device: n. The most dramatic use yet seen of
+{fall through} in C, invented by Tom Duff when he was at Lucasfilm. Trying to
+{bum} all the instructions he could out of an inner loop that copied data
+serially onto an output port, he decided to unroll it. He then realized that
+the unrolled version could be implemented by _interlacing_ the structures of
+a switch and a loop: register n = (count + 7) / 8; /* count > 0 assumed */
+switch (count % 8) { case 0: do { *to = *from++; case 7: *to = *from++; case
+6: *to = *from++; case 5: *to = *from++; case 4: *to = *from++; case 3: *to =
+*from++; case 2: *to = *from++; case 1: *to = *from++; } while (--n > 0); }
+Shocking though it appears to all who encounter it for the first time, the
+device is actually perfectly valid, legal C. C's default {fall through} in
+case statements has long been its most controversial single feature; Duff
+observed that "This code forms some sort of argument in that debate, but I'm
+not sure whether it's for or against." Duff has discussed the device in
+detail at `http://www.lysator.liu.se/c/duffs-device.html'. Note that the
+omission of postfix `++' from `*to' was intentional (though confusing).
+Duff's device can be used to implement memory copy, but the original aim was
+to copy values serially into a magic IO register. [For maximal obscurity, the
+outermost pair of braces above could actually be removed -- GLS] :dumb
+terminal: n. A terminal that is one step above a {glass tty}, having a
+minimally addressable cursor but no on-screen editing or other features
+normally supported by a {smart terminal}. Once upon a time, when glass ttys
+were common and addressable cursors were something special, what is now
+called a dumb terminal could pass for a smart terminal. :dumbass attack:
+/duhm'as *-tak'/ n. [Purdue] Notional cause of a novice's mistake made by the
+experienced, especially one made while running as {root} under Unix, e.g.,
+typing `rm -r *' or `mkfs' on a mounted file system. Compare {adger}. :dumbed
+down: adj. Simplified, with a strong connotation of _over_simplified. Often,
+a {marketroid} will insist that the interfaces and documentation of software
+be dumbed down after the designer has burned untold gallons of midnight oil
 making it smart. This creates friction. see {user-friendly}. :dump: n. 1. An
 undigested and voluminous mass of information about a problem or the state of
 a system, especially one routed to the slowest available output device
@@ -306,32 +307,32 @@ canonical example of a really stupid, memory-limited computation environment.
 what if you're targeting an elevator controller?" Elevator controllers became
 important rhetorical weapons on both sides of several {holy wars}. :elite:
 adj. Clueful. Plugged-in. One of the cognoscenti. Also used as a general
-positive adjective. This term is not actually hacker slang in the strict
-sense; it is used primarily by crackers and {warez d00dz}, for which reason
-hackers use it only with heavy irony. The term used to refer to the folks
-allowed in to the "hidden" or "privileged" sections of BBSes in the early
-1980s (which, typically, contained pirated software). Frequently, early
-boards would only let you post, or even see, a certain subset of the sections
-(or `boards') on a BBS. Those who got to the frequently legendary `triple
-super secret' boards were elite. Misspellings of this term in warez d00dz
-style abound; the forms `eleet', and `31337' (among others) have been
-sighted. A true hacker would be more likely to use `wizardly'. Oppose
-{lamer}. :ELIZA effect: /*-li:'z* *-fekt'/ n. [AI community] The tendency of
-humans to attach associations to terms from prior experience. For example,
-there is nothing magic about the symbol `+' that makes it well-suited to
-indicate addition; it's just that people associate it with addition. Using
-`+' or `plus' to mean addition in a computer language is taking advantage of
-the ELIZA effect. This term comes from the famous ELIZA program by Joseph
-Weizenbaum, which simulated a Rogerian psychotherapist by rephrasing many of
-the patient's statements as questions and posing them to the patient. It
-worked by simple pattern recognition and substitution of key words into
-canned phrases. It was so convincing, however, that there are many anecdotes
-about people becoming very emotionally caught up in dealing with ELIZA. All
-this was due to people's tendency to attach to words meanings which the
-computer never put there. The ELIZA effect is a {Good Thing} when writing a
-programming language, but it can blind you to serious shortcomings when
-analyzing an Artificial Intelligence system. Compare {ad-hockery}; see also
-{AI-complete}. Sources for a clone of the original Eliza are available at
+positive adjective. This term is not actually native hacker slang; it is used
+primarily by crackers and {warez d00dz}, for which reason hackers use it only
+with heavy irony. The term used to refer to the folks allowed in to the
+"hidden" or "privileged" sections of BBSes in the early 1980s (which,
+typically, contained pirated software). Frequently, early boards would only
+let you post, or even see, a certain subset of the sections (or `boards') on
+a BBS. Those who got to the frequently legendary `triple super secret' boards
+were elite. Misspellings of this term in warez d00dz style abound; the forms
+`eleet', and `31337' (among others) have been sighted. A true hacker would be
+more likely to use `wizardly'. Oppose {lamer}. :ELIZA effect: /*-li:'z*
+*-fekt'/ n. [AI community] The tendency of humans to attach associations to
+terms from prior experience. For example, there is nothing magic about the
+symbol `+' that makes it well-suited to indicate addition; it's just that
+people associate it with addition. Using `+' or `plus' to mean addition in a
+computer language is taking advantage of the ELIZA effect. This term comes
+from the famous ELIZA program by Joseph Weizenbaum, which simulated a
+Rogerian psychotherapist by rephrasing many of the patient's statements as
+questions and posing them to the patient. It worked by simple pattern
+recognition and substitution of key words into canned phrases. It was so
+convincing, however, that there are many anecdotes about people becoming very
+emotionally caught up in dealing with ELIZA. All this was due to people's
+tendency to attach to words meanings which the computer never put there. The
+ELIZA effect is a {Good Thing} when writing a programming language, but it
+can blind you to serious shortcomings when analyzing an Artificial
+Intelligence system. Compare {ad-hockery}; see also {AI-complete}. Sources
+for a clone of the original Eliza are available at
 `ftp://ftp.cc.utexas.edu/pub/AI_ATTIC/Programs/Classic/Eliza/Eliza.c'.
 :elvish: n. 1. The Tengwar of Feanor, a table of letterforms resembling the
 beautiful Celtic half-uncial hand of the "Book of Kells". Invented and

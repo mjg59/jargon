@@ -3,27 +3,27 @@ and the people who later became the core of the MIT AI Lab staff. Thirty
 years later that connection is still very much alive, and this lexicon
 accordingly includes a number of entries from a recent revision of the TMRC
 dictionary. TMRC has a web page at `http://web.mit.edu/tmrc/www/'. :TMRCie:
-/tmerk'ee/, n. [MIT] A denizen of {TMRC}. :TMTOWTDI: There's More Than One
-Way To Do It. This abbreviation of the official motto of {Perl} is frequently
-used on newsgroups and mailing lists related to that language. :to a first
-approximation: adj. 1. [techspeak] When one is doing certain numerical
-computations, an approximate solution may be computed by any of several
-heuristic methods, then refined to a final value. By using the starting point
-of a first approximation of the answer, one can write an algorithm that
-converges more quickly to the correct result. 2. In jargon, a preface to any
-comment that indicates that the comment is only approximately true. The
-remark "To a first approximation, I feel good" might indicate that deeper
-questioning would reveal that not all is perfect (e.g., a nagging cough still
-remains after an illness). :to a zeroth approximation: [from `to a first
-approximation'] A _really_ sloppy approximation; a wild guess. Compare
-{social science number}. :toad: vt. [MUD] 1. Notionally, to change a {MUD}
-player into a toad. 2. To permanently and totally exile a player from the
-MUD. A very serious action, which can only be done by a MUD {wizard}; often
-involves a lot of debate among the other characters first. see also {frog},
-{FOD}. :toast: 1. n. Any completely inoperable system or component, esp. one
-that has just crashed and burned: "Uh, oh ... I think the serial board is
-toast." 2. vt. To cause a system to crash accidentally, especially in a
-manner that requires manual rebooting. "Rick just toasted the {firewall
+/tmerk'ee/, n. [MIT] A denizen of {TMRC}. :TMTOWTDI: /tim-toh'-dee/ There's
+More Than One Way To Do It. This abbreviation of the official motto of {Perl}
+is frequently used on newsgroups and mailing lists related to that language.
+:to a first approximation: adj. 1. [techspeak] When one is doing certain
+numerical computations, an approximate solution may be computed by any of
+several heuristic methods, then refined to a final value. By using the
+starting point of a first approximation of the answer, one can write an
+algorithm that converges more quickly to the correct result. 2. In jargon, a
+preface to any comment that indicates that the comment is only approximately
+true. The remark "To a first approximation, I feel good" might indicate that
+deeper questioning would reveal that not all is perfect (e.g., a nagging
+cough still remains after an illness). :to a zeroth approximation: [from `to
+a first approximation'] A _really_ sloppy approximation; a wild guess.
+Compare {social science number}. :toad: vt. [MUD] 1. Notionally, to change a
+{MUD} player into a toad. 2. To permanently and totally exile a player from
+the MUD. A very serious action, which can only be done by a MUD {wizard};
+often involves a lot of debate among the other characters first. see also
+{frog}, {FOD}. :toast: 1. n. Any completely inoperable system or component,
+esp. one that has just crashed and burned: "Uh, oh ... I think the serial
+board is toast." 2. vt. To cause a system to crash accidentally, especially
+in a manner that requires manual rebooting. "Rick just toasted the {firewall
 machine} again." Compare {fried}. :toaster: n. 1. The archetypal really
 stupid application for an embedded microprocessor controller; often used in
 comments that imply that a scheme is inappropriate technology (but see

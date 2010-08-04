@@ -199,30 +199,30 @@ fired the first salvo in the structured programming wars (text at
 `http://www.acm.org/classics'). Amusingly, the ACM considered the resulting
 acrimony sufficiently harmful that it will (by policy) no longer print an
 article taking so assertive a position against a coding practice. (Years
-afterwards, a contrary view contrary view was uttered in a CACM letter
-called, inevitably, "`Goto considered harmful' considered harmful'"'. In the
-ensuing decades, a large number of both serious papers and parodies have
-borne titles of the form "X considered Y". The structured-programming wars
-eventually blew over with the realization that both sides were wrong, but use
-of such titles has remained as a persistent minor in-joke (the `considered
-silly' found at various places in this lexicon is related). :console:: n. 1.
-The operator's station of a {mainframe}. In times past, this was a privileged
-location that conveyed godlike powers to anyone with fingers on its keys.
-Under Unix and other modern timesharing OSes, such privileges are guarded by
-passwords instead, and the console is just the {tty} the system was booted
-from. Some of the mystique remains, however, and it is traditional for
-sysadmins to post urgent messages to all users from the console (on Unix,
-/dev/console). 2. On microcomputer Unix boxes, the main screen and keyboard
-(as opposed to character-only terminals talking to a serial port). Typically
-only the console can do real graphics or run {X}. :console jockey: n. see
-{terminal junkie}. :content-free: adj. [by analogy with techspeak
-`context-free'] Used of a message that adds nothing to the recipient's
-knowledge. Though this adjective is sometimes applied to {flamage}, it more
-usually connotes derision for communication styles that exalt form over
-substance or are centered on concerns irrelevant to the subject ostensibly at
-hand. Perhaps most used with reference to speeches by company presidents and
-other professional manipulators. "Content-free? Uh... that's anything printed
-on glossy paper." (see also {four-color glossies}.) "He gave a talk on the
+afterwards, a contrary view was uttered in a CACM letter called, inevitably,
+"`Goto considered harmful' considered harmful'"'. In the ensuing decades, a
+large number of both serious papers and parodies have borne titles of the
+form "X considered Y". The structured-programming wars eventually blew over
+with the realization that both sides were wrong, but use of such titles has
+remained as a persistent minor in-joke (the `considered silly' found at
+various places in this lexicon is related). :console:: n. 1. The operator's
+station of a {mainframe}. In times past, this was a privileged location that
+conveyed godlike powers to anyone with fingers on its keys. Under Unix and
+other modern timesharing OSes, such privileges are guarded by passwords
+instead, and the console is just the {tty} the system was booted from. Some
+of the mystique remains, however, and it is traditional for sysadmins to post
+urgent messages to all users from the console (on Unix, /dev/console). 2. On
+microcomputer Unix boxes, the main screen and keyboard (as opposed to
+character-only terminals talking to a serial port). Typically only the
+console can do real graphics or run {X}. :console jockey: n. see {terminal
+junkie}. :content-free: adj. [by analogy with techspeak `context-free'] Used
+of a message that adds nothing to the recipient's knowledge. Though this
+adjective is sometimes applied to {flamage}, it more usually connotes
+derision for communication styles that exalt form over substance or are
+centered on concerns irrelevant to the subject ostensibly at hand. Perhaps
+most used with reference to speeches by company presidents and other
+professional manipulators. "Content-free? Uh... that's anything printed on
+glossy paper." (see also {four-color glossies}.) "He gave a talk on the
 implications of electronic networks for postmodernism and the fin-de-siecle
 aesthetic. It was content-free." :control-C: vi. 1. "Stop whatever you are
 doing." From the interrupt character used on many operating systems to abort
