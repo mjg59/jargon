@@ -1,11 +1,185 @@
- HE RITES REEL AWESUM THINGZ IN CAPITULL LETTRS LIKE THIS!!!), use (and often
-misuse) of fragments of {talk mode} abbreviations, a long {sig block}
-(sometimes even a {doubled sig}), and unbounded naivete. B1FF posts articles
-using his elder brother's VIC-20. B1FF's location is a mystery, as his
-articles appear to come from a variety of sites. However, {BITNET} seems to
-be the most frequent origin. The theory that B1FF is a denizen of BITNET is
-supported by B1FF's (unfortunately invalid) electronic mail address:
-B1FF@BIT.NET. [1993: Now It Can Be Told! My spies inform me that B1FF was
-originally created by Joe Talmadge <jat@cup.hp.com>, also the author of the
-infamous and much-plagiarized "Flamer's Bible". The BIFF filter he wrote was
-later passed to Richard Sexton, who posted
+ 2. Performance of dreary tasks all at one sitting. "I finally sat down in
+batch mode and wrote out checks for all those bills; I guess they'll turn the
+electricity back on next week..." 3. `batching up': Accumulation of a number
+of small tasks that can be lumped together for greater efficiency. "I'm
+batching up those letters to send sometime" "I'm batching up bottles to take
+to the recycling center." :bathtub curve: n. Common term for the curve
+(resembling an end-to-end section of one of those claw-footed antique
+bathtubs) that describes the expected failure rate of electronics with time:
+initially high, dropping to near 0 for most of the system's lifetime, then
+rising again as it `tires out'. see also {burn-in period}, {infant
+mortality}. :baud: /bawd/ n. [simplified from its technical meaning] n. Bits
+per second. Hence kilobaud or Kbaud, thousands of bits per second. The
+technical meaning is `level transitions per second'; this coincides with bps
+only for two-level modulation with no framing or stop bits. Most hackers are
+aware of these nuances but blithely ignore them. Historical note: `baud' was
+originally a unit of telegraph signalling speed, set at one pulse per second.
+It was proposed at the November, 1926 conference of the Comite' Consultatif
+International Des Communications Te'le'graphiques as an improvement on the
+then standard practice of referring to line speeds in terms of words per
+minute, and named for Jean Maurice Emile Baudot (1845-1903), a French
+engineer who did a lot of pioneering work in early teleprinters. :baud barf:
+/bawd barf/ n. The garbage one gets a terminal (or terminal emulator) when
+using a modem connection with some protocol setting (esp. line speed)
+incorrect, or when someone picks up a voice extension on the same line, or
+when really bad line noise disrupts the connection. Baud barf is not
+completely {random}, by the way; hackers with a lot of serial-line experience
+can usually tell whether the device at the other end is expecting a higher or
+lower speed than the terminal is set to. _Really_ experienced ones can
+identify particular speeds. :baz: /baz/ n. 1. [common] The third
+{metasyntactic variable} "Suppose we have three functions: FOO, BAR, and BAZ.
+FOO calls BAR, which calls BAZ...." (see also {fum}) 2. interj. A term of
+mild annoyance. In this usage the term is often drawn out for 2 or 3 seconds,
+producing an effect not unlike the bleating of a sheep; /baaaaaaz/. 3.
+Occasionally appended to {foo} to produce `foobaz'. Earlier versions of this
+lexicon derived `baz' as a Stanford corruption of {bar}. However, Pete Samson
+(compiler of the {TMRC} lexicon) reports it was already current when he
+joined TMRC in 1958. He says "It came from "Pogo". Albert the Alligator, when
+vexed or outraged, would shout `Bazz Fazz!' or `Rowrbazzle!' The club layout
+was said to model the (mythical) New England counties of Rowrfolk and Bassex
+(Rowrbazzle mingled with (Norfolk/Suffolk/Middlesex/Essex)." :bazaar: n.,adj.
+In 1997, after meditatating on the success of {Linux} for three years, the
+Jargon File's own editor ESR wrote an analytical paper on hacker culture and
+development models titled The Cathedral and the Bazaar
+(http://www.tuxedo.org/~esr/writings/cathedral-bazaar/). The main argument of
+the paper was that {Brooks's Law} is not the whole story; given the right
+social machinery, debugging can be efficiently parallelized across large
+numbers of programmers. The title metaphor caught on (see also {cathedral}),
+and the style of development typical in the Linux community is now often
+referred to as the bazaar mode. Its characteristics include releasing code
+early and often, and actively seeking the largest possible pool of peer
+reviewers. :bboard: /bee'bord/ n. [contraction of `bulletin board'] 1. Any
+electronic bulletin board; esp. used of {BBS} systems running on personal
+micros, less frequently of a Usenet {newsgroup} (in fact, use of this term
+for a newsgroup generally marks one either as a {newbie} fresh in from the
+BBS world or as a real old-timer predating Usenet). 2. At CMU and other
+colleges with similar facilities, refers to campus-wide electronic bulletin
+boards. 3. The term `physical bboard' is sometimes used to refer to an
+old-fashioned, non-electronic cork-and-thumbtack memo board. At CMU, it
+refers to a particular one outside the CS Lounge. In either of senses 1 or 2,
+the term is usually prefixed by the name of the intended board (`the
+Moonlight Casino bboard' or `market bboard'); however, if the context is
+clear, the better-read bboards may be referred to by name alone, as in (at
+CMU) "Don't post for-sale ads on general". :BBS: /B-B-S/ n. [common;
+abbreviation, `Bulletin Board System'] An electronic bulletin board system;
+that is, a message database where people can log in and leave broadcast
+messages for others grouped (typically) into {topic group}s. The term was
+especially applied to the thousands of local BBS systems that operated during
+the pre-Internet microcomputer era of roughly 1980 to 1995, typically run by
+amateurs for fun out of their homes on MS-DOS boxes with a single modem line
+each. Fans of Usenet and Internet or the big commercial timesharing bboards
+such as CompuServe and GEnie tended to consider local BBSes the low-rent
+district of the hacker culture, but they served a valuable function by
+knitting together lots of hackers and users in the personal-micro world who
+would otherwise have been unable to exchange code at all. Post-Internet, BBSs
+are likely to be local newsgroups on an ISP; efficiency has increased but a
+certain flavor has been lost. see also {bboard}. :BCPL: // n. [abbreviation,
+`Basic Combined Programming Language') A programming language developed by
+Martin Richards in Cambridge in 1967. It is remarkable for its rich syntax,
+small size of compiler (it can be run in 16k) and extreme portability. It
+reached break-even point at a very early stage, and was the language in which
+the original {hello world} program was written. It has been ported to so many
+different systems that its creator confesses to having lost count. It has
+only one data type (a machine word) which can be used as an integer, a
+character, a floating point number, a pointer, or almost anything else,
+depending on context. BCPL was a precursor of C, which inherited some of its
+features. :beam: vt. [from Star Trek Classic's "Beam me up, Scotty!"] 1. To
+transfer {softcopy} of a file electronically; most often in combining forms
+such as `beam me a copy' or `beam that over to his site'. 2. Palm Pilot users
+very commonly use this term for the act of exchanging bits via the infrared
+links on their machines (this term seems to have originated with the
+ill-fated Newton Message Pad). Compare {blast}, {snarf}, {BLT}. :beanie key:
+n. [Mac users] see {command key}. :beep: n.,v. Syn. {feep}. This term is
+techspeak under MS-DOS and OS/2, and seems to be generally preferred among
+micro hobbyists. :Befunge: n. A worthy companion to {INTERCAL}; a computer
+language family which escapes the quotidian limitation of linear control flow
+and embraces program counters flying through multiple dimensions with exotic
+topologies. Sadly, the Befunge home page has vanished, but a Befunge version
+of the {hello world} program is at
+`http://www.catseye.mb.ca/esoteric/befunge.html'. :beige toaster: n. A
+Macintosh. see {toaster}; compare {Macintrash}, {maggotbox}. :bells and
+whistles: n. [common] Features added to a program or system to make it more
+{flavorful} from a hacker's point of view, without necessarily adding to its
+utility for its primary function. Distinguished from {chrome}, which is
+intended to attract users. "Now that we've got the basic program working,
+let's go back and add some bells and whistles." No one seems to know what
+distinguishes a bell from a whistle. The recognized emphatic form is "bells,
+whistles, and gongs". It used to be thought that this term derived from the
+toyboxes on theater organs. However, the "and gongs" strongly suggests a
+different origin, at sea. Before powered horns, ships routinely used bells,
+whistles, and gongs to signal each other over longer distances than voice can
+carry. :bells whistles and gongs: n. A standard elaborated form of {bells and
+whistles}; typically said with a pronounced and ironic accent on the `gongs'.
+:benchmark: n. [techspeak] An inaccurate measure of computer performance. "In
+the computer industry, there are three kinds of lies: lies, damn lies, and
+benchmarks." Well-known ones include Whetstone, Dhrystone, Rhealstone (see
+{h}), the Gabriel LISP benchmarks (see {gabriel}), the SPECmark suite, and
+LINPACK. see also {machoflops}, {MIPS}, {smoke and mirrors}. :Berkeley
+Quality Software: adj. (often abbreviated `BQS') Term used in a pejorative
+sense to refer to software that was apparently created by rather spaced-out
+hackers late at night to solve some unique problem. It usually has
+nonexistent, incomplete, or incorrect documentation, has been tested on at
+least two examples, and core dumps when anyone else attempts to use it. This
+term was frequently applied to early versions of the `dbx(1)' debugger. see
+also {Berzerkeley}. Note to British and Commonwealth readers: that's
+/berk'lee/, not /bark'lee/ as in British Received Pronunciation. :berklix:
+/berk'liks/ n.,adj. [contraction of `Berkeley Unix'] see {BSD}. Not used at
+Berkeley itself. May be more common among {suit}s attempting to sound like
+cognoscenti than among hackers, who usually just say `BSD'. :Berzerkeley:
+/b*r-zer'klee/ n. [from `berserk', via the name of a now-deceased record
+label; poss. originated by famed columnist Herb Caen] Humorous distortion of
+`Berkeley' used esp. to refer to the practices or products of the {BSD} Unix
+hackers. see {software bloat}, {Missed'em-five}, {Berkeley Quality Software}.
+Mainstream use of this term in reference to the cultural and political
+peculiarities of UC Berkeley as a whole has been reported from as far back as
+the 1960s. :beta: /bay't*/, /be't*/ or (Commonwealth) /bee't*/ n. 1. Mostly
+working, but still under test; usu. used with `in': `in beta'. In the {Real
+World}, systems (hardware or software) software often go through two stages
+of release testing: Alpha (in-house) and Beta (out-house?). Beta releases are
+generally made to a group of lucky (or unlucky) trusted customers. 2.
+Anything that is new and experimental. "His girlfriend is in beta" means that
+he is still testing for compatibility and reserving judgment. 3. Flaky;
+dubious; suspect (since beta software is notoriously buggy). Historical note:
+More formally, to beta-test is to test a pre-release (potentially unreliable)
+version of a piece of software by making it available to selected (or
+self-selected) customers and users. This term derives from early 1960s
+terminology for product cycle checkpoints, first used at IBM but later
+standard throughout the industry. `Alpha Test' was the unit, module, or
+component test phase; `Beta Test' was initial system test. These themselves
+came from earlier A- and B-tests for hardware. The A-test was a feasibility
+and manufacturability evaluation done before any commitment to design and
+development. The B-test was a demonstration that the engineering model
+functioned as specified. The C-test (corresponding to today's beta) was the
+B-test performed on early samples of the production design, and the D test
+was the C test repeated after the model had been in production a while. :BFI:
+/B-F-I/ n. see {brute force and ignorance}. Also encountered in the variants
+`BFMI', `brute force and _massive_ ignorance' and `BFBI' `brute force and
+bloody ignorance'. In dome parts of the U.S. this abbreviation was probably
+reinforced by a company called Browning-Ferris Industries who used to be in
+the waste-management business; a large BFI logo in white-on-blue could be
+seen on the sides of garbage trucks. :bible: n. 1. One of a small number of
+fundamental source books such as {Knuth}, {K&R}, or the {Camel Book}. 2. The
+most detailed and authoritative reference for a particular language,
+operating system, or other complex software system. :BiCapitalization: n. The
+act said to have been performed on trademarks (such as {PostScript}, NeXT,
+{NeWS}, VisiCalc, FrameMaker, TK!solver, EasyWriter) that have been raised
+above the ruck of common coinage by nonstandard capitalization. Too many
+{marketroid} types think this sort of thing is really cute, even the 2,317th
+time they do it. Compare {studlycaps}. :B1FF: /bif/ [Usenet] (alt. `BIFF') n.
+The most famous {pseudo}, and the prototypical {newbie}. Articles from B1FF
+feature all uppercase letters sprinkled liberally with bangs, typos, `cute'
+misspellings (EVRY BUDY LUVS GOOD OLD BIFF CUZ HE"S A K00L DOOD AN HE RITES
+REEL AWESUM THINGZ IN CAPITULL LETTRS LIKE THIS!!!), use (and often misuse)
+of fragments of {talk mode} abbreviations, a long {sig block} (sometimes even
+a {doubled sig}), and unbounded naivete. B1FF posts articles using his elder
+brother's VIC-20. B1FF's location is a mystery, as his articles appear to
+come from a variety of sites. However, {BITNET} seems to be the most frequent
+origin. The theory that B1FF is a denizen of BITNET is supported by B1FF's
+(unfortunately invalid) electronic mail address: B1FF@BIT.NET. [1993: Now It
+Can Be Told! My spies inform me that B1FF was originally created by Joe
+Talmadge <jat@cup.hp.com>, also the author of the infamous and
+much-plagiarized "Flamer's Bible". The BIFF filter he wrote was later passed
+to Richard Sexton, who posted BIFFisms much more widely. Versions have since
+been posted for the amusement of the net at large. see also {Jeff K.} --ESR]
+:BI: // Common written abbreviation for {Breidbart Index}. :biff: /bif/ vt.
+To notify someone of incoming mail. From the

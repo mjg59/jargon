@@ -1,146 +1,125 @@
- A display of some sort that's presented to {luser}s to keep them distracted
-while the program performs necessary background tasks. "Give 'em some eye
-candy while the back-end {slurp}s that {BLOB} into core." Reported as
-mainstream usage among players of graphics-heavy computer games. We're also
-told this term is mainstream slang for soft pornography, but that sense does
-not appear to be live among hackers. :eyeball search: n.,v. To look for
-something in a mass of code or data with one's own native optical sensors, as
-opposed to using some sort of pattern matching software like {grep} or any
-other automated search tool. Also called a {vgrep}; compare {vdiff}, {desk
-check}. = F = ===== :face time: n. [common] Time spent interacting with
-somebody face-to-face (as opposed to via electronic links). "Oh, yeah, I
-spent some face time with him at the last Usenix." :factor: n. see
-{coefficient of X}. :fairings: n. /fer'ingz/ [FreeBSD; orig. a typo for
-`fairness'] A term thrown out in discussion whenever a completely and
-transparently nonsensical argument in one's favor(?) seems called for, e,g.
-at the end of a really long thread for which the outcome is no longer even
-cared about since everyone is now so sick of it; or in rebuttal to another
-nonsensical argument ("Change the loader to look for /kernel.pl? What about
-fairings?") :fall over: vi. [IBM] Yet another synonym for {crash} or {lose}.
-`Fall over hard' equates to {crash and burn}. :fall through: v. (n.
-`fallthrough', var. `fall-through') 1. To exit a loop by exhaustion, i.e., by
-having fulfilled its exit condition rather than via a break or exception
-condition that exits from the middle of it. This usage appears to be _really_
-old, dating from the 1940s and 1950s. 2. To fail a test that would have
-passed control to a subroutine or some other distant portion of code. 3. In
-C, `fall-through' occurs when the flow of execution in a switch statement
-reaches a `case' label other than by jumping there from the switch header,
-passing a point where one would normally expect to find a `break'. A trivial
-example: switch (color) { case GREEN: do_green(); break; case PINK:
-do_pink(); /* FALL THROUGH */ case RED: do_red(); break; default: do_blue();
-break; } The variant spelling `/* FALL THRU */' is also common. The effect of
-the above code is to `do_green()' when color is `GREEN', `do_red()' when
-color is `RED', `do_blue()' on any other color other than `PINK', and (and
-this is the important part) `do_pink()' _and then_ `do_red()' when color is
-`PINK'. Fall-through is {considered harmful} by some, though there are
-contexts (such as the coding of state machines) in which it is natural; it is
-generally considered good practice to include a comment highlighting the
-fall-through where one would normally expect a break. see also {Duff's
-device}. :fan: n. Without qualification, indicates a fan of science fiction,
-especially one who goes to {con}s and tends to hang out with other fans. Many
-hackers are fans, so this term has been imported from fannish slang; however,
-unlike much fannish slang it is recognized by most non-fannish hackers. Among
-SF fans the plural is correctly `fen', but this usage is not automatic to
-hackers. "Laura reads the stuff occasionally but isn't really a fan."
-:fandango on core: n. [Unix/C hackers, from the Iberian dance] In C, a wild
-pointer that runs out of bounds, causing a {core dump}, or corrupts the
-`malloc(3)' {arena} in such a way as to cause mysterious failures later on,
-is sometimes said to have `done a fandango on core'. On low-end personal
-machines without an MMU (or Windows boxes, which have an MMU but use it
-incompetently), this can corrupt the OS itself, causing massive lossage.
-Other frenetic dances such as the cha-cha or the watusi, may be substituted.
-see {aliasing bug}, {precedence lossage}, {smash the stack}, {memory leak},
-{memory smash}, {overrun screw}, {core}. :FAQ: /F-A-Q/ or /fak/ n. [Usenet]
-1. A Frequently Asked Question. 2. A compendium of accumulated lore, posted
-periodically to high-volume newsgroups in an attempt to forestall such
-questions. Some people prefer the term `FAQ list' or `FAQL' /fa'kl/,
-reserving `FAQ' for sense 1. This lexicon itself serves as a good example of
-a collection of one kind of lore, although it is far too big for a regular
-FAQ posting. Examples: "What is the proper type of NULL?" and "What's that
-funny name for the `#' character?" are both Frequently Asked Questions.
-Several FAQs refer readers to this file. :FAQ list: /F-A-Q list/ or /fak
-list/ n. [common; Usenet] Syn {FAQ}, sense 2. :FAQL: /fa'kl/ n. Syn. {FAQ
-list}. :faradize: /far'*-di:z/ v. [US Geological Survey] To start any
-hyper-addictive process or trend, or to continue adding current to such a
-trend. Telling one user about a new octo-tetris game you compiled would be a
-faradizing act -- in two weeks you might find your entire department playing
-the faradic game. :farkled: /far'kld/ adj. [DeVry Institute of Technology,
-Atlanta] Syn. {hosed}. Poss. owes something to Yiddish `farblondjet' and/or
-the `Farkle Family' skits on "Rowan and Martin's Laugh-In", a popular comedy
-show of the late 1960s. :farming: n. [Adelaide University, Australia] What
-the heads of a disk drive are said to do when they plow little furrows in the
-magnetic media. Associated with a {crash}. Typically used as follows: "Oh no,
-the machine has just crashed; I hope the hard drive hasn't gone {farming}
-again." No longer common; modern drives automatically park their heads in a
-safe zone on power-down, so it takes a real mechanical problem to induce
-this. :fascist: adj. 1. [common] Said of a computer system with excessive or
-annoying security barriers, usage limits, or access policies. The implication
-is that said policies are preventing hackers from getting interesting work
-done. The variant `fascistic' seems to have been preferred at MIT, poss. by
-analogy with `touristic' (see {tourist} or under the influence of
-German/Yiddish `faschistisch'). 2. In the design of languages and other
-software tools, `the fascist alternative' is the most restrictive and
-structured way of capturing a particular function; the implication is that
-this may be desirable in order to simplify the implementation or provide
-tighter error checking. Compare {bondage-and-discipline language}, although
-that term is global rather than local. :fat electrons: n. Old-time hacker
-David Cargill's theory on the causation of computer glitches. Your typical
-electric utility draws its line current out of the big generators with a pair
-of coil taps located near the top of the dynamo. When the normal tap brushes
-get dirty, they take them off line to clean them up, and use special
-auxiliary taps on the _bottom_ of the coil. Now, this is a problem, because
-when they do that they get not ordinary or `thin' electrons, but the
-fat'n'sloppy electrons that are heavier and so settle to the bottom of the
-generator. These flow down ordinary wires just fine, but when they have to
-turn a sharp corner (as in an integrated-circuit via), they're apt to get
-stuck. This is what causes computer glitches. [Fascinating. Obviously, fat
-electrons must gain mass by {bogon} absorption --ESR] Compare {bogon}, {magic
-smoke}. :fat-finger: vt. 1. To introduce a typo while editing in such a way
-that the resulting manglification of a configuration file does something
-useless, damaging, or wildly unexpected. "NSI fat-fingered their DNS zone
-file and took half the net down again." 2. More generally, any typo that
-produces dramatically bad results. :faulty: adj. Non-functional; buggy. Same
-denotation as {bletcherous}, {losing}, q.v., but the connotation is much
-milder. :fd leak: /F-D leek/ n. A kind of programming bug analogous to a
-{core leak}, in which a program fails to close file descriptors (`fd's) after
-file operations are completed, and thus eventually runs out of them. see
-{leak}. :fear and loathing: n. [from Hunter S. Thompson] A state inspired by
-the prospect of dealing with certain real-world systems and standards that
-are totally {brain-damaged} but ubiquitous -- Intel 8086s, or {COBOL}, or
-{{EBCDIC}}, or any {IBM} machine bigger than a workstation. "Ack! They want
-PCs to be able to talk to the AI machine. Fear and loathing time!" :feature:
-n. 1. [common] A good property or behavior (as of a program). Whether it was
-intended or not is immaterial. 2. [common] An intended property or behavior
-(as of a program). Whether it is good or not is immaterial (but if bad, it is
-also a {misfeature}). 3. A surprising property or behavior; in particular,
-one that is purposely inconsistent because it works better that way -- such
-an inconsistency is therefore a {feature} and not a {bug}. This kind of
-feature is sometimes called a {miswart}; see that entry for a classic
-example. 4. A property or behavior that is gratuitous or unnecessary, though
-perhaps also impressive or cute. For example, one feature of Common LISP's
-`format' function is the ability to print numbers in two different
-Roman-numeral formats (see {bells whistles and gongs}). 5. A property or
-behavior that was put in to help someone else but that happens to be in your
-way. 6. [common] A bug that has been documented. To call something a feature
-sometimes means the author of the program did not consider the particular
-case, and that the program responded in a way that was unexpected but not
-strictly incorrect. A standard joke is that a bug can be turned into a
-{feature} simply by documenting it (then theoretically no one can complain
-about it because it's in the manual), or even by simply declaring it to be
-good. "That's not a bug, that's a feature!" is a common catchphrase. see also
-{feetch feetch}, {creeping featurism}, {wart}, {green lightning}. The
-relationship among bugs, features, misfeatures, warts, and miswarts might be
-clarified by the following hypothetical exchange between two hackers on an
-airliner: A: "This seat doesn't recline." B: "That's not a bug, that's a
-feature. There is an emergency exit door built around the window behind you,
-and the route has to be kept clear." A: "Oh. Then it's a misfeature; they
-should have increased the spacing between rows here." B: "Yes. But if they'd
-increased spacing in only one section it would have been a wart -- they
-would've had to make nonstandard-length ceiling panels to fit over the
-displaced seats." A: "A miswart, actually. If they increased spacing
-throughout they'd lose several rows and a chunk out of the profit margin. So
-unequal spacing would actually be the Right Thing." B: "Indeed."
-`Undocumented feature' is a common, allegedly humorous euphemism for a {bug}.
-There's a related joke that is sometimes referred to as the "one-question
-geek test". You say to someone "I saw a Volkswagen Beetle today with a vanity
-license plate that read
+ 2. [techspeak] A report on the amounts of time spent in each routine of a
+program, used to find and {tune} away the {hot spot}s in it. This sense is
+often verbed. Some profiling modes report units other than time (such as call
+counts) and/or report at granularities other than per-routine, but the idea
+is similar. 3.[techspeak] A subset of a standard used for a particular
+purpose. This sense confuses hackers who wander into the weird world of ISO
+standards no end! :progasm: /proh'gaz-m/ n. [University of Wisconsin] The
+euphoria experienced upon the completion of a program or other
+computer-related project. :proggy: n. 1. Any computer program that is
+considered a full application. 2. Any computer program that is made up of or
+otherwise contains {proglet}s. 3. Any computer program that is large enough
+to be normally distributed as an RPM or {tarball}. :proglet: /prog'let/ n.
+[UK] A short extempore program written to meet an immediate, transient need.
+Often written in BASIC, rarely more than a dozen lines long, and containing
+no subroutines. The largest amount of code that can be written off the top of
+one's head, that does not need any editing, and that runs correctly the first
+time (this amount varies significantly according to one's skill and the
+language one is using). Compare {toy program}, {noddy}, {one-liner wars}.
+:program: n. 1. A magic spell cast over a computer allowing it to turn one's
+input into error messages. 2. An exercise in experimental epistemology. 3. A
+form of art, ostensibly intended for the instruction of computers, which is
+nevertheless almost inevitably a failure if other programmers can't
+understand it. :Programmer's Cheer: "Shift to the left! Shift to the right!
+Pop up, push down! Byte! Byte! Byte!" A joke so old it has hair on it.
+:programming: n. 1. The art of debugging a blank sheet of paper (or, in these
+days of on-line editing, the art of debugging an empty file). "Bloody
+instructions which, being taught, return to plague their inventor"
+("Macbeth", Act 1, Scene 7) 2. A pastime similar to banging one's head
+against a wall, but with fewer opportunities for reward. 3. The most fun you
+can have with your clothes on. 4. The least fun you can have with your
+clothes off. :programming fluid: n. 1. Coffee. 2. Cola. 3. Any caffeinacious
+stimulant. Many hackers consider these essential for those all-night hacking
+runs. see {wirewater}. :propeller head: n. Used by hackers, this is syn. with
+{computer geek}. Non-hackers sometimes use it to describe all techies. Prob.
+derives from SF fandom's tradition (originally invented by old-time fan Ray
+Faraday Nelson) of propeller beanies as fannish insignia (though nobody
+actually wears them except as a joke). :propeller key: n. [Mac users] see
+{feature key}. :proprietary: adj. 1. In {marketroid}-speak, superior; implies
+a product imbued with exclusive magic by the unmatched brilliance of the
+company's own hardware or software designers. 2. In the language of hackers
+and users, inferior; implies a product not conforming to open-systems
+standards, and thus one that puts the customer at the mercy of a vendor able
+to gouge freely on service and upgrade charges after the initial sale has
+locked the customer in. Often in the phrase "proprietary crap". 3. Synonym
+for closed-source, e.g. software issued in binary without source and under a
+restructive license. Since the coining of the term {open source}, many
+hackers have made a conscious effort to distinguish between `proprietary' and
+`commercial' software. It is possible for software to be commercial (that is,
+intended to make a profit for the producers) without being proprietary. The
+reverse is also possible, for example in binary-only freeware. :protocol: n.
+As used by hackers, this never refers to niceties about the proper form for
+addressing letters to the Papal Nuncio or the order in which one should use
+the forks in a Russian-style place setting; hackers don't care about such
+things. It is used instead to describe any set of rules that allow different
+machines or pieces of software to coordinate with each other without
+ambiguity. So, for example, it does include niceties about the proper form
+for addressing packets on a network or the order in which one should use the
+forks in the Dining Philosophers Problem. It implies that there is some
+common message format and an accepted set of primitives or commands that all
+parties involved understand, and that transactions among them follow
+predictable logical sequences. see also {handshaking}, {do protocol}.
+:provocative maintenance: n. [common ironic mutation of `preventive
+maintenance'] Actions performed upon a machine at regularly scheduled
+intervals to ensure that the system remains in a usable state. So called
+because it is all too often performed by a {field servoid} who doesn't know
+what he is doing; such `maintenance' often _induces_ problems, or otherwise
+results in the machine's remaining in an _un_usable state for an
+indeterminate amount of time. see also {scratch monkey}. :prowler: n. [Unix]
+A {daemon} that is run periodically (typically once a week) to seek out and
+erase {core} files, truncate administrative logfiles, nuke `lost+found'
+directories, and otherwise clean up the {cruft} that tends to pile up in the
+corners of a file system. see also {GFR}, {reaper}, {skulker}. :pseudo:
+/soo'doh/ n. [Usenet: truncation of `pseudonym'] 1. An electronic-mail or
+{Usenet} persona adopted by a human for amusement value or as a means of
+avoiding negative repercussions of one's net.behavior; a `nom de Usenet',
+often associated with forged postings designed to conceal message origins.
+Perhaps the best-known and funniest hoax of this type is {B1FF}. see also
+{tentacle}. 2. Notionally, a {flamage}-generating AI program simulating a
+Usenet user. Many flamers have been accused of actually being such entities,
+despite the fact that no AI program of the required sophistication yet
+exists. However, in 1989 there was a famous series of forged postings that
+used a phrase-frequency-based travesty generator to simulate the styles of
+several well-known flamers; it was based on large samples of their back
+postings (compare {Dissociated Press}). A significant number of people were
+fooled by the forgeries, and the debate over their authenticity was settled
+only when the perpetrator came forward to publicly admit the hoax.
+:pseudoprime: n. A backgammon prime (six consecutive occupied points) with
+one point missing. This term is an esoteric pun derived from number theory: a
+number that passes a certain kind of "primality test" may be called a
+`pseudoprime' (all primes pass any such test, but so do some composite
+numbers), and any number that passes several is, in some sense, almost
+certainly prime. The hacker backgammon usage stems from the idea that a
+pseudoprime is almost as good as a prime: it will do the same job unless you
+are unlucky. :pseudosuit: /soo'doh-s[y]oot`/ n. A {suit} wannabee; a hacker
+who has decided that he wants to be in management or administration and
+begins wearing ties, sport coats, and (shudder!) suits voluntarily. It's his
+funeral. see also {lobotomy}. :psychedelicware: /si:`k*-del'-ik-weir/ n. [UK]
+Syn. {display hack}. see also {smoking clover}. :psyton: /si:'ton/ n. [TMRC]
+The elementary particle carrying the sinister force. The probability of a
+process losing is proportional to the number of psytons falling on it.
+Psytons are generated by observers, which is why demos are more likely to
+fail when lots of people are watching. [This term appears to have been
+largely superseded by {bogon}; see also {quantum bogodynamics}. --ESR] :pubic
+directory: /pyoob'ik d*-rek't*-ree/) n. [NYU] (also `pube directory' /pyoob'
+d*-rek't*-ree/) The `pub' (public) directory on a machine that allows {FTP}
+access. So called because it is the default location for {SEX} (sense 1).
+"I'll have the source in the pube directory by Friday." :puff: vt. To
+decompress data that has been crunched by Huffman coding. At least one widely
+distributed Huffman decoder program was actually _named_ `PUFF', but these
+days it is usually packaged with the encoder. Oppose {huff}, see {inflate}.
+:pumpkin holder: n. see {patch pumpkin}. :pumpking: n. Syn. for {pumpkin
+holder}; see {patch pumpkin}. :punched card:: n.obs. [techspeak] (alt. `punch
+card') The signature medium of computing's {Stone Age}, now obsolescent
+outside of some IBM shops. The punched card actually predated computers
+considerably, originating in 1801 as a control device for mechanical looms.
+The version patented by Hollerith and used with mechanical tabulating
+machines in the 1890 U.S. Census was a piece of cardboard about 90 mm by 215
+mm. There is a widespread myth that it was designed to fit in the currency
+trays used for that era's larger dollar bills, but recent investigations have
+falsified this. IBM (which originated as a tabulating-machine manufacturer)
+married the punched card to computers, encoding binary information as
+patterns of small rectangular holes; one character per column, 80 columns per
+card. Other coding schemes, sizes of card, and hole shapes were tried at
+various times. The 80-column width of most character terminals is a legacy of
+the

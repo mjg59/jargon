@@ -1,59 +1,30 @@
- 2-5) were valid on the PDP-11, the original C machine, and became endemic
-years before the VAX. The terms `vaxocentricity' and `all-the-world's-a-VAX
-syndrome' have been used synonymously. :vdiff: /vee'dif/ v.,n. Visual diff.
-The operation of finding differences between two files by {eyeball search}.
-The term `optical diff' has also been reported, and is sometimes more
-specifically used for the act of superimposing two nearly identical printouts
-on one another and holding them up to a light to spot differences. Though
-this method is poor for detecting omissions in the `rear' file, it can also
-be used with printouts of graphics, a claim few if any diff programs can
-make. see {diff}. :veeblefester: /vee'b*l-fes`tr/ n. [from the "Born Loser"
-comix via Commodore; prob. originally from "Mad" Magazine's `Veeblefetzer'
-parodies beginning in #15, 1954] Any obnoxious person engaged in the
-(alleged) professions of marketing or management. Antonym of {hacker}.
-Compare {suit}, {marketroid}. :velveeta: n. [USENET: by analogy with {spam}]
-Also knows as {ECP}; a message that is excessively cross-posted, as opposed
-to {spam} which is too frequently posted. This term is widely recognized but
-not commonly used; most people refer to both kinds of abuse as spam. Compare
-{jello}. :ventilator card: n. Syn. {lace card}. :Venus flytrap: n. [after the
-insect-eating plant] see {firewall machine}. :verbage: /ver'b*j/ n. A
-deliberate misspelling and mispronunciation of {verbiage} that assimilates it
-to the word `garbage'. Compare {content-free}. More pejorative than
-`verbiage'. :verbiage: n. When the context involves a software or hardware
-system, this refers to {{documentation}}. This term borrows the connotations
-of mainstream `verbiage' to suggest that the documentation is of marginal
-utility and that the motives behind its production have little to do with the
-ostensible subject. :Version 7: alt. V7 /vee' se'vn/ n. The first widely
-distributed version of {Unix}, released unsupported by Bell Labs in 1978. The
-term is used adjectivally to describe Unix features and programs that date
-from that release, and are thus guaranteed to be present and portable in all
-Unix versions (this was the standard gauge of portability before the POSIX
-and IEEE 1003 standards). Note that this usage does _not_ derive from the
-release being the "seventh version of {Unix}"; research {Unix} at Bell Labs
-has traditionally been numbered according to the edition of the associated
-documentation. Indeed, only the widely-distributed Sixth and Seventh Editions
-are widely known as V[67]; the OS that might today be known as `V10' is
-instead known in full as "Tenth Edition Research Unix" or just "Tenth
-Edition" for short. For this reason, "V7" is often read by cognoscenti as
-"Seventh Edition". see {BSD}, {USG Unix}, {{Unix}}. Some old-timers impatient
-with commercialization and kernel bloat still maintain that V7 was the Last
-True Unix. :vgrep: /vee'grep/ v.,n. Visual grep. The operation of finding
-patterns in a file optically rather than digitally (also called an `optical
-grep'). see {grep}; compare {vdiff}. :vi: /V-I/, _not_ /vi:/ and _never_
-/siks/ n. [from `Visual Interface'] A screen editor crufted together by Bill
-Joy for an early {BSD} release. Became the de facto standard Unix editor and
-a nearly undisputed hacker favorite outside of MIT until the rise of {EMACS}
-after about 1984. Tends to frustrate new users no end, as it will neither
-take commands while expecting input text nor vice versa, and the default
-setup on older versions provides no indication of which mode the editor is in
-(one correspondent accordingly reports that he has often heard the editor's
-name pronounced /vi:l/). Nevertheless it is still widely used (about half the
-respondents in a 1991 Usenet poll preferred it), and even EMACS fans often
-resort to it as a mail editor and for small editing jobs (mainly because it
-starts up faster than the bulkier versions of EMACS). see {holy wars}. :video
-toaster: n. Historically, an Amiga running LightWave and fitted out with a
-particular line of special video-display hardware from NewTek - long a
-popular platform at special-effects and videop production houses. More
+ POSIX and IEEE 1003 standards). Note that this usage does _not_ derive from
+the release being the "seventh version of {Unix}"; research {Unix} at Bell
+Labs has traditionally been numbered according to the edition of the
+associated documentation. Indeed, only the widely-distributed Sixth and
+Seventh Editions are widely known as V[67]; the OS that might today be known
+as `V10' is instead known in full as "Tenth Edition Research Unix" or just
+"Tenth Edition" for short. For this reason, "V7" is often read by cognoscenti
+as "Seventh Edition". see {BSD}, {USG Unix}, {{Unix}}. Some old-timers
+impatient with commercialization and kernel bloat still maintain that V7 was
+the Last True Unix. :vgrep: /vee'grep/ v.,n. Visual grep. The operation of
+finding patterns in a file optically rather than digitally (also called an
+`optical grep'). see {grep}; compare {vdiff}. :vi: /V-I/, _not_ /vi:/ and
+_never_ /siks/ n. [from `Visual Interface'] A screen editor crufted together
+by Bill Joy for an early {BSD} release. Became the de facto standard Unix
+editor and a nearly undisputed hacker favorite outside of MIT until the rise
+of {EMACS} after about 1984. Tends to frustrate new users no end, as it will
+neither take commands while expecting input text nor vice versa, and the
+default setup on older versions provides no indication of which mode the
+editor is in (years ago, a correspondent reported that he has often heard the
+editor's name pronounced /vi:l/; there is now a vi clone named `vile').
+Nevertheless vi (and variants such as vim and elvis) is still widely used
+(about half the respondents in a 1991 Usenet poll preferred it), and even
+EMACS fans often resort to it as a mail editor and for small editing jobs
+(mainly because it starts up faster than the bulkier versions of EMACS). see
+{holy wars}. :video toaster: n. Historically, an Amiga fitted with a
+particular line of special video effects hardware from NewTek - long a
+popular platform at special-effects and video production houses. More
 generally, any computer system designed specifically for video production and
 manipulation. Compare {web toaster} and see {toaster}. :videotex: n. obs. An
 electronic service offering people the privilege of paying to read the
@@ -115,10 +86,10 @@ things like writing cute messages on the terminal or playing strange tricks
 with the display (some viruses include nice {display hack}s). Many nasty
 viruses, written by particularly perversely minded {cracker}s, do
 irreversible damage, like nuking all the user's files. In the 1990s, viruses
-have become a serious problem, especially among IBM PC and Macintosh users;
-the lack of security on these machines enables viruses to spread easily, even
-infecting the operating system (Unix machines, by contrast, are immune to
-such attacks). The production of special anti-virus software has become an
+became a serious problem, especially among Windows users; the lack of
+security on these machines enables viruses to spread easily, even infecting
+the operating system (Unix machines, by contrast, are immune to such
+attacks). The production of special anti-virus software has become an
 industry, and a number of exaggerated media reports have caused outbreaks of
 near hysteria among users; many {luser}s tend to blame _everything_ that
 doesn't work as they had expected on virus attacks. Accordingly, this sense

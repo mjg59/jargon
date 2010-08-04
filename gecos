@@ -1,1 +1,341 @@
- :GECOS:: /jee'kohs/ /n./ see {{GCOS}}.
+ 9600; the use of a semistandard FOSSIL library is preferable to the {bare
+metal} serial port programming otherwise required. Since the FOSSIL
+specification allows additional functionality to be hooked in, drivers that
+use the {hook} but do not provide serial-port access themselves are named
+with a modifier, as in `video fossil'. :four-color glossies: n. 1. Literature
+created by {marketroid}s that allegedly contains technical specs but which is
+in fact as superficial as possible without being totally {content-free}.
+"Forget the four-color glossies, give me the tech ref manuals." Often applied
+as an indication of superficiality even when the material is printed on
+ordinary paper in black and white. Four-color-glossy manuals are _never_
+useful for solving a problem. 2. [rare] Applied by extension to manual pages
+that don't contain enough information to diagnose why the program doesn't
+produce the expected or desired output. :frag: n.,v. [from Vietnam-era U.S.
+military slang via the games Doom and Quake] 1. To kill another player's
+{avatar} in a multiuser game. "I hold the office Quake record with 40 frags."
+2. To completely ruin something. "Forget that power supply, the lightning
+strike fragged it. see also {gib}. :fragile: adj. Syn {brittle}. :fred: n. 1.
+The personal name most frequently used as a {metasyntactic variable} (see
+{foo}). Allegedly popular because it's easy for a non-touch-typist to type on
+a standard QWERTY keyboard. In Great Britain, `fred', `jim' and `sheila' are
+common metasyntactic variables because their uppercase versions were
+_official_ names given to the 3 memory areas that held I/O status registers
+on the lovingly-remembered BBC Microcomputer! (It is reported that SHEILA was
+poked the most often.) Unlike {J. Random Hacker} or `J. Random Loser', the
+name `fred' has no positive or negative loading (but see {Dr. Fred Mbogo}).
+see also {barney}. 2. An acronym for `Flipping Ridiculous Electronic Device';
+other F-verbs may be substituted for `flipping'. :Fred Foobar: n. {J. Random
+Hacker}'s cousin. Any typical human being, more or less synomous with
+`someone' except that Fred Foobar can be {backreference}d by name later on.
+"So Fred Foobar will enter his phone number into the database, and it'll be
+archived with the others. Months later, when Fred searches..." see also
+{Bloggs Family} and {Dr. Fred Mbogo} :frednet: /fred'net/ n. Used to refer to
+some {random} and uncommon protocol encountered on a network. "We're
+implementing bridging in our router to solve the frednet problem." :free
+software: n. As defined by Richard M. Stallman and used by the Free Software
+movement, this means software that gives users enough freedom to be used by
+the free software community. Specifically, users must be free to modify the
+software for their private use, and free to redistribute it either with or
+without modifications, either commercially or noncommercially, either gratis
+or charging a distribution fee. Free software has existed since the dawn of
+computing; Free Software as a movement began in 1984 with the GNU Project.
+see also {open source}. :freeware: n. [common] Free software, often written
+by enthusiasts and distributed by users' groups, or via electronic mail,
+local bulletin boards, {Usenet}, or other electronic media. At one time,
+`freeware' was a trademark of Andrew Fluegelman, the author of the well-known
+MS-DOS comm program PC-TALK III. It wasn't enforced after his mysterious
+disappearance and presumed death in 1984. see {shareware}, {FRS}. :freeze: v.
+To lock an evolving software distribution or document against changes so it
+can be released with some hope of stability. Carries the strong implication
+that the item in question will `unfreeze' at some future date. "OK, fix that
+bug and we'll freeze for release." There are more specific constructions on
+this term. A `feature freeze', for example, locks out modifications intended
+to introduce new features but still allows bugfixes and completion of
+existing features; a `code freeze' connotes no more changes at all. At Sun
+Microsystems and elsewhere, one may also hear references to `code slush' --
+that is, an almost-but-not-quite frozen state. :fried: adj. 1. [common]
+Non-working due to hardware failure; burnt out. Especially used of hardware
+brought down by a `power glitch' (see {glitch}), {drop-outs}, a short, or
+some other electrical event. (Sometimes this literally happens to electronic
+circuits! In particular, resistors can burn out and transformers can melt
+down, emitting noxious smoke -- see {friode}, {SED} and {LER}. However, this
+term is also used metaphorically.) Compare {frotzed}. 2. [common] Of people,
+exhausted. Said particularly of those who continue to work in such a state.
+Often used as an explanation or excuse. "Yeah, I know that fix destroyed the
+file system, but I was fried when I put it in." Esp. common in conjunction
+with `brain': "My brain is fried today, I'm very short on sleep." :frink:
+/frink/ v. The unknown ur-verb, fill in your own meaning. Found esp. on the
+Usenet newsgroup alt.fan.lemurs, where it is said that the lemurs know what
+`frink' means, but they aren't telling. Compare {gorets}. :friode: /fri:'ohd/
+n. [TMRC] A reversible (that is, fused or blown) diode. Compare {fried}; see
+also {SED}, {LER}. :fritterware: n. An excess of capability that serves no
+productive end. The canonical example is font-diddling software on the Mac
+(see {macdink}); the term describes anything that eats huge amounts of time
+for quite marginal gains in function but seduces people into using it anyway.
+see also {window shopping}. :frob: /frob/ 1. n. [MIT; very common] The {TMRC}
+definition was "FROB = a protruding arm or trunnion"; by metaphoric
+extension, a `frob' is any random small thing; an object that you can
+comfortably hold in one hand; something you can frob (sense 2). see
+{frobnitz}. 2. vt. Abbreviated form of {frobnicate}. 3. [from the {MUD}
+world] A command on some MUDs that changes a player's experience level (this
+can be used to make wizards); also, to request {wizard} privileges on the
+`professional courtesy' grounds that one is a wizard elsewhere. The command
+is actually `frobnicate' but is universally abbreviated to the shorter form.
+:frobnicate: /frob'ni-kayt/ vt. [Poss. derived from {frobnitz}, and usually
+abbreviated to {frob}, but `frobnicate' is recognized as the official full
+form.] To manipulate or adjust, to tweak. One frequently frobs bits or other
+2-state devices. Thus: "Please frob the light switch" (that is, flip it), but
+also "Stop frobbing that clasp; you'll break it". One also sees the
+construction `to frob a frob'. see {tweak} and {twiddle}. Usage: frob,
+twiddle, and tweak sometimes connote points along a continuum. `Frob'
+connotes aimless manipulation; `twiddle' connotes gross manipulation, often a
+coarse search for a proper setting; `tweak' connotes fine-tuning. If someone
+is turning a knob on an oscilloscope, then if he's carefully adjusting it, he
+is probably tweaking it; if he is just turning it but looking at the screen,
+he is probably twiddling it; but if he's just doing it because turning a knob
+is fun, he's frobbing it. The variant `frobnosticate' has been recently
+reported. :frobnitz: /frob'nits/, pl. `frobnitzem' /frob'nit-zm/ or `frobni'
+/frob'ni:/ n. [TMRC] An unspecified physical object, a widget. Also refers to
+electronic black boxes. This rare form is usually abbreviated to `frotz', or
+more commonly to {frob}. Also used are `frobnule' (/frob'n[y]ool/) and
+`frobule' (/frob'yool/). Starting perhaps in 1979, `frobozz' /fr*-boz'/
+(plural: `frobbotzim' /fr*-bot'zm/) has also become very popular, largely
+through its exposure as a name via {Zork}. These variants can also be applied
+to nonphysical objects, such as data structures. Pete Samson, compiler of the
+original {TMRC} lexicon, adds, "Under the TMRC [railroad] layout were many
+storage boxes, managed (in 1958) by David R. Sawyer. Several had fanciful
+designations written on them, such as `Frobnitz Coil Oil'. Perhaps DRS
+intended Frobnitz to be a proper name, but the name was quickly taken for the
+thing". This was almost certainly the origin of the term. :frog: alt. `phrog'
+1. interj. Term of disgust (we seem to have a lot of them). 2. Used as a name
+for just about anything. see {foo}. 3. n. Of things, a crock. 4. n. Of
+people, somewhere in between a turkey and a toad. 5. `froggy': adj. Similar
+to {bagbiting}, but milder. "This froggy program is taking forever to run!"
+:frogging: [University of Waterloo] v. 1. Partial corruption of a text file
+or input stream by some bug or consistent glitch, as opposed to random events
+like line noise or media failures. Might occur, for example, if one bit of
+each incoming character on a tty were stuck, so that some characters were
+correct and others were not. see {terminak} for a historical example and
+compare {dread high-bit disease}. 2. By extension, accidental display of text
+in a mode where the output device emits special symbols or mnemonics rather
+than conventional ASCII. This often happens, for example, when using a
+terminal or comm program on a device like an IBM PC with a special
+`high-half' character set and with the bit-parity assumption wrong. A hacker
+sufficiently familiar with ASCII bit patterns might be able to read the
+display anyway. :front end: n. 1. An intermediary computer that does set-up
+and filtering for another (usually more powerful but less friendly) machine
+(a `back end'). 2. What you're talking to when you have a conversation with
+someone who is making replies without paying attention. "Look at the dancing
+elephants!" "Uh-huh." "Do you know what I just said?" "Sorry, you were
+talking to the front end." 3. Software that provides an interface to another
+program `behind' it, which may not be as user-friendly. Probably from analogy
+with hardware front-ends (see sense 1) that interfaced with mainframes.
+:frotz: /frots/ 1. n. see {frobnitz}. 2. `mumble frotz': An interjection of
+mildest disgust. :frotzed: /frotst/ adj. {down} because of hardware problems.
+Compare {fried}. A machine that is merely frotzed may be fixable without
+replacing parts, but a fried machine is more seriously damaged. :frowney: n.
+(alt. `frowney face') see {emoticon}. :FRS: // n.,obs. Abbreviation for
+"Freely Redistributable Software" which entered general use on the Internet
+in 1995 after years of low-level confusion over what exactly to call software
+written to be passed around and shared (contending terms including
+{freeware}, {shareware}, and `sourceware' were never universally felt to be
+satisfactory for various subtle reasons). The first formal conference on
+freely redistributable software was held in Cambridge, Massachussetts, in
+February 1996 (sponsored by the Free Software Foundation). The conference
+organizers used the FRS abbreviation heavily in its calls for papers and
+other literature during 1995. The term was in steady though not common use
+until 1998 and the invention of {open source}. :fry: 1. vi. To fail. Said
+especially of smoke-producing hardware failures. More generally, to become
+non-working. Usage: never said of software, only of hardware and humans. see
+{fried}, {magic smoke}. 2. vt. To cause to fail; to {roach}, {toast}, or
+{hose} a piece of hardware. Never used of software or humans, but compare
+{fried}. :fscking: /fus'-king/ or /eff'-seek-ing/ adj. [Usenet; common]
+Fucking, in the expletive sense (it refers to the Unix filesystem-repair
+command fsck(1), of which it can be said that if you have to use it at all
+you are having a bad day). Originated on {scary devil monastery} and the
+bofh.net newsgroups, but became much more widespread following the passage of
+{CDA}. Also occasionally seen in the variant "What the fsck?" :FSF: /F-S-F/
+abbrev. Common abbreviation (both spoken and written) for the name of the
+Free Software Foundation, a nonprofit educational association formed to
+support the {GNU} project. :FTP: /F-T-P/, _not_ /fit'ip/ 1. [techspeak] n.
+The File Transfer Protocol for transmitting files between systems on the
+Internet. 2. vt. To {beam} a file using the File Transfer Protocol. 3.
+Sometimes used as a generic even for file transfers not using {FTP}. "Lemme
+get a copy of "Wuthering Heights" ftp'd from uunet." :-fu: [common;
+generalized from `kung-fu'] Combining form denoting expert practice of a
+skill. "That's going to take some serious code-fu." First sighted in
+connection with the GIMP's remote-scripting facility, script-fu, in 1998.
+:FUBAR: n. The Failed UniBus Address Register in a VAX. A good example of how
+jargon can occasionally be snuck past the {suit}s; see {foobar}, and {foo}
+for a fuller etymology. :fuck me harder: excl. Sometimes uttered in response
+to egregious misbehavior, esp. in software, and esp. of misbehaviors which
+seem unfairly persistent (as though designed in by the imp of the perverse).
+Often theatrically elaborated: "Aiighhh! Fuck me with a piledriver and 16
+feet of curare-tipped wrought-iron fence _and no lubricants_!" The phrase is
+sometimes heard abbreviated `FMH' in polite company. [This entry is an
+extreme example of the hackish habit of coining elaborate and evocative terms
+for lossage. Here we see a quite self-conscious parody of mainstream
+expletives that has become a running gag in part of the hacker culture; it
+illustrates the hackish tendency to turn any situation, even one of extreme
+frustration, into an intellectual game (the point being, in this case, to
+creatively produce a long-winded description of the most anatomically absurd
+mental image possible -- the short forms implicitly allude to all the
+ridiculous long forms ever spoken). Scatological language is actually
+relatively uncommon among hackers, and there was some controversy over
+whether this entry ought to be included at all. As it reflects a live usage
+recognizably peculiar to the hacker culture, we feel it is in the hackish
+spirit of truthfulness and opposition to all forms of censorship to record it
+here. --ESR & GLS] :FUD: /fuhd/ n. Defined by Gene Amdahl after he left IBM
+to found his own company: "FUD is the fear, uncertainty, and doubt that IBM
+sales people instill in the minds of potential customers who might be
+considering [Amdahl] products." The idea, of course, was to persuade them to
+go with safe IBM gear rather than with competitors' equipment. This implicit
+coercion was traditionally accomplished by promising that Good Things would
+happen to people who stuck with IBM, but Dark Shadows loomed over the future
+of competitors' equipment or software. see {IBM}. After 1990 the term FUD was
+associated increasingly frequently with {Microsoft}, and has become
+generalized to refer to any kind of disinformation used as a competitive
+weapon. :FUD wars: /fuhd worz/ n. [from {FUD}] Political posturing engaged in
+by hardware and software vendors ostensibly committed to standardization but
+actually willing to fragment the market to protect their own shares. The Unix
+International vs. OSF conflict about Unix standards was one outstanding
+example; Microsoft vs. Netscape vs. W3C about HTML standards is another.
+:fudge: 1. vt. To perform in an incomplete but marginally acceptable way,
+particularly with respect to the writing of a program. "I didn't feel like
+going through that pain and suffering, so I fudged it -- I'll fix it later."
+2. n. The resulting code. :fudge factor: n. [common] A value or parameter
+that is varied in an ad hoc way to produce the desired result. The terms
+`tolerance' and {slop} are also used, though these usually indicate a
+one-sided leeway, such as a buffer that is made larger than necessary because
+one isn't sure exactly how large it needs to be, and it is better to waste a
+little space than to lose completely for not having enough. A fudge factor,
+on the other hand, can often be tweaked in more than one direction. A good
+example is the `fuzz' typically allowed in floating-point calculations: two
+numbers being compared for equality must be allowed to differ by a small
+amount; if that amount is too small, a computation may never terminate, while
+if it is too large, results will be needlessly inaccurate. Fudge factors are
+frequently adjusted incorrectly by programmers who don't fully understand
+their import. see also {coefficient of X}. :fuel up: vi. To eat or drink
+hurriedly in order to get back to hacking. "Food-p?" "Yeah, let's fuel up."
+"Time for a {great-wall}!" see also {{oriental food}}. :Full Monty: n. see
+{monty}, sense 2. :fum: n. [XEROX PARC] At PARC, often the third of the
+standard {metasyntactic variable}s (after {foo} and {bar}). Competes with
+{baz}, which is more common outside PARC. :functino: n. [uncommon, U.K.;
+originally a serendipitous typo in 1994] A pointer to a function in C and
+C++. By association with sub-atomic particles such as the neutrino, it
+accurately conveys an impression of smallness (one pointer is four bytes on
+most systems) and speed (hackers can and do use arrays of functinos to
+replace a switch() statement). :funky: adj. Said of something that functions,
+but in a slightly strange, klugey way. It does the job and would be difficult
+to change, so its obvious non-optimality is left alone. Often used to
+describe interfaces. The more bugs something has that nobody has bothered to
+fix because workarounds are easier, the funkier it is. {TECO} and UUCP are
+funky. The Intel i860's exception handling is extraordinarily funky. Most
+standards acquire funkiness as they age. "The new mailer is installed, but is
+still somewhat funky; if it bounces your mail for no reason, try resubmitting
+it." "This UART is pretty funky. The data ready line is active-high in
+interrupt mode and active-low in DMA mode." :funny money: n. 1. Notional
+`dollar' units of computing time and/or storage handed to students at the
+beginning of a computer course; also called `play money' or `purple money'
+(in implicit opposition to real or `green' money). In New Zealand and Germany
+the odd usage `paper money' has been recorded; in Germany, the particularly
+amusing synonym `transfer ruble' commemmorates the funny money used for trade
+between COMECON countries back when the Soviet Bloc still existed. When your
+funny money ran out, your account froze and you needed to go to a professor
+to get more. Fortunately, the plunging cost of timesharing cycles has made
+this less common. The amounts allocated were almost invariably too small,
+even for the non-hackers who wanted to slide by with minimum work. In extreme
+cases, the practice led to small-scale black markets in bootlegged computer
+accounts. 2. By extension, phantom money or quantity tickets of any kind used
+as a resource-allocation hack within a system. Antonym: `real money'.
+:furrfu: excl. [Usenet; written, only rarely spoken] Written-only equivalent
+of "Sheesh!"; it is, in fact, "sheesh" modified by {rot13}. Evolved in
+mid-1992 as a response to notably silly postings repeating urban myths on the
+Usenet newsgroup alt.folklore.urban, after some posters complained that
+"Sheesh!" as a response to {newbie}s was being overused. see also {FOAF}.
+:fuzzball: n. [TCP/IP hackers] A DEC LSI-11 running a particular suite of
+homebrewed software written by Dave Mills and assorted co-conspirators, used
+in the early 1980s for Internet protocol testbedding and experimentation.
+These were used as NSFnet backbone sites in its early 56kb-line days; a few
+were still active on the Internet as late as mid-1993, doing odd jobs such as
+network time service. = G = ===== :G: pref.,suff. [SI] see {{quantifiers}}.
+:g-file: n. [Commodore BBS culture] Any file that is written with the
+intention of being read by a human rather than a machine, such as the Jargon
+File, documentation, humor files, hacker lore, and technical materials. This
+term survives from the nearly forgotten Commodore 64 underground and BBS
+community. In the early 80s, C-Net had emerged as the most popular C64 BBS
+software for systems which encouraged messaging (as opposed to file
+transfer). There were three main options for files: Program files (p-files),
+which served the same function as `doors' in today's systems, UD files (the
+user upload/download section), and g-files. Anything that was meant to be
+read was included in g-files. :gabriel: /gay'bree-*l/ n. [for Dick Gabriel,
+SAIL LISP hacker and volleyball fanatic] An unnecessary (in the opinion of
+the opponent) stalling tactic, e.g., tying one's shoelaces or combing one's
+hair repeatedly, asking the time, etc. Also used to refer to the perpetrator
+of such tactics. Also, `pulling a Gabriel', `Gabriel mode'. :gag: vi.
+Equivalent to {choke}, but connotes more disgust. "Hey, this is FORTRAN code.
+No wonder the C compiler gagged." see also {barf}. :gang bang: n. The use of
+large numbers of loosely coupled programmers in an attempt to wedge a great
+many features into a product in a short time. Though there have been
+memorable gang bangs (e.g., that over-the-weekend assembler port mentioned in
+Steven Levy's "Hackers"), most are perpetrated by large companies trying to
+meet deadlines; the inevitable result is enormous buggy masses of code
+entirely lacking in {orthogonal}ity. When market-driven managers make a list
+of all the features the competition has and assign one programmer to
+implement each, the probability of maintaining a coherent (or even
+functional) design goes infinitesimal. see also {firefighting}, {Mongolian
+Hordes technique}, {Conway's Law}. :garbage collect: vi. (also `garbage
+collection', n.) see {GC}. :garply: /gar'plee/ n. [Stanford] Another
+metasyntactic variable (see {foo}); once popular among SAIL hackers. :gas:
+[as in `gas chamber'] 1. interj. A term of disgust and hatred, implying that
+gas should be dispensed in generous quantities, thereby exterminating the
+source of irritation. "Some loser just reloaded the system for no reason!
+Gas!" 2. interj. A suggestion that someone or something ought to be flushed
+out of mercy. "The system's getting {wedged} every few minutes. Gas!" 3. vt.
+To {flush} (sense 1). "You should gas that old crufty software." 4. [IBM] n.
+Dead space in nonsequentially organized files that was occupied by data that
+has since been deleted; the compression operation that removes it is called
+`degassing' (by analogy, perhaps, with the use of the same term in vacuum
+technology). 5. [IBM] n. Empty space on a disk that has been clandestinely
+allocated against future need. :gaseous: adj. Deserving of being {gas}sed.
+Disseminated by Geoff Goodfellow while at SRI; became particularly popular
+after the Moscone-Milk killings in San Francisco, when it was learned that
+the defendant Dan White (a politician who had supported Proposition 7) would
+get the gas chamber under Proposition 7 if convicted of first-degree murder
+(he was eventually convicted of manslaughter). :Gates's Law: "The speed of
+software halves every 18 months." This oft-cited law is an ironic comment on
+the tendency of software bloat to outpace the every-18-month doubling in
+hardware caopacity per dollar predicted by {Moore's Law}. The reference is to
+Bill Gates; Microsoft is widely considered among the worst if not the worst
+of the perpetrators of bloat. :gawble: /gaw'bl/ n. see {chawmp}. :GC: /G-C/
+[from LISP terminology; `Garbage Collect'] 1. vt. To clean up and throw away
+useless things. "I think I'll GC the top of my desk today." When said of
+files, this is equivalent to {GFR}. 2. vt. To recycle, reclaim, or put to
+another use. 3. n. An instantiation of the garbage collector process.
+`Garbage collection' is computer-science techspeak for a particular class of
+strategies for dynamically but transparently reallocating computer memory
+(i.e., without requiring explicit allocation and deallocation by higher-level
+software). One such strategy involves periodically scanning all the data in
+memory and determining what is no longer accessible; useless data items are
+then discarded so that the memory they occupy can be recycled and used for
+another purpose. Implementations of the LISP language usually use garbage
+collection. In jargon, the full phrase is sometimes heard but the {abbrev} GC
+is more frequently used because it is shorter. Note that there is an
+ambiguity in usage that has to be resolved by context: "I'm going to
+garbage-collect my desk" usually means to clean out the drawers, but it could
+also mean to throw away or recycle the desk itself. :GCOS:: /jee'kohs/ n. A
+{quick-and-dirty} {clone} of System/360 DOS that emerged from GE around 1970;
+originally called GECOS (the General Electric Comprehensive Operating
+System). Later kluged to support primitive timesharing and transaction
+processing. After the buyout of GE's computer division by Honeywell, the name
+was changed to General Comprehensive Operating System (GCOS). Other OS groups
+at Honeywell began referring to it as `God's Chosen Operating System',
+allegedly in reaction to the GCOS crowd's uninformed and snotty attitude
+about the superiority of their product. All this might be of zero interest,
+except for two facts: (1) The GCOS people won the political war, and this led
+in the orphaning and eventual death of Honeywell {{Multics}}, and (2)
+GECOS/GCOS left one permanent mark on Unix. Some early Unix systems at Bell
+Labs used GCOS machines for print spooling and various other services; the
+field added to `/etc/passwd' to carry GCOS ID information was called the
+`GECOS field' and survives today as the `pw_gecos' member used for the user's
+full name and other human-ID information.

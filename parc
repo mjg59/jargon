@@ -1,187 +1,158 @@
- 1984, 1996; ISBN 0-262-01153-0), an excellent computer science text used in
-introductory courses at MIT. So called because of the wizard on the jacket.
-One of the {bible}s of the LISP/Scheme world. Also, less commonly, known as
-the {Purple Book}. :wizard hat: n. [also, after Terry Pratchett, `pointy
-hat'] Notional headgear worn by whoever is the {wizard} in a particular
-context. The implication is that it's a transferable role. "Talk to Alice,
-she's wearing the TCP/IP wizard hat while Bob is on vacation." This metaphor
-is sufficiently live that one may actually see hackers miming the act of
-putting on, taking off, or transferring a phantom hat. Compare {patch
-pumpkin}. :wizard mode: n. [from {rogue}] A special access mode of a program
-or system, usually passworded, that permits some users godlike privileges.
-Generally not used for operating systems themselves (`root mode' or `wheel
-mode' would be used instead). This term is often used with respect to games
-that have editable state. :wizardly: adj. Pertaining to wizards. A wizardly
-{feature} is one that only a wizard could understand or use properly.
-:wok-on-the-wall: n. A small microwave dish antenna used for cross-campus
-private network circuits, from the obvious resemblance between a microwave
-dish and the Chinese culinary utensil. :womb box: n. 1. [TMRC] Storage space
-for equipment. 2. [proposed] A variety of hard-shell equipment case with
-heavy interior padding and/or shaped carrier cutouts in a foam-rubber matrix;
-mundanely called a `flight case'. Used for delicate test equipment,
-electronics, and musical instruments. :WOMBAT: /wom'bat/ adj. [acronym: Waste
-Of Money, Brains, And Time] Applied to problems which are both profoundly
-{uninteresting} in themselves and unlikely to benefit anyone interesting even
-if solved. Often used in fanciful constructions such as `wrestling with a
-wombat'. see also {crawling horror}, {SMOP}. Also note the rather different
-usage as a metasyntactic variable in {{Commonwealth Hackish}}. Users of the
-PDP-11 database program DATATRIEVE adopted the wombat as their notional
-mascot; the program's help file responded to "HELP WOMBAT" with factual
-information about Real World wombats. :womble: n. [Unisys UK: from British
-cartoon characters] A user who has great difficulty in communicating their
-requirements and/or in using the resulting software. Extreme case of {luser}.
-An especially senior or high-ranking womble is referred to as Great-Uncle
-Bulgaria. :wonky: /wong'kee/ adj. [from Australian slang] Yet another
-approximate synonym for {broken}. Specifically connotes a malfunction that
-produces behavior seen as crazy, humorous, or amusingly perverse. "That was
-the day the printer's font logic went wonky and everybody's listings came out
-in Tengwar." Also in `wonked out'. see {funky}, {demented}, {bozotic}.
-:woofer: n. [University of Waterloo] Some varieties of wide paper for
-printers have a perforation 8.5 inches from the left margin that allows the
-excess on the right-hand side to be torn off when the print format is 80
-columns or less wide. The right-hand excess may be called `woofer'. This term
-(like {tweeter}) has been in use at Waterloo since 1972, but is elsewhere
-unknown. In audio jargon, the word refers to the bass speaker(s) on a hi-fi.
-:workaround: n. 1. A temporary {kluge} used to bypass, mask, or otherwise
-avoid a {bug} or {misfeature} in some system. Theoretically, workarounds are
-always replaced by {fix}es; in practice, customers often find themselves
-living with workarounds for long periods of time. "The code died on NUL
-characters in the input, so I fixed it to interpret them as spaces." "That's
-not a fix, that's a workaround!" 2. A procedure to be employed by the user in
-order to do what some currently non-working feature should do. Hypothetical
-example: "Using META-F7 {crash}es the 4.43 build of Weemax, but as a
-workaround you can type CTRL-R, then SHIFT-F5, and delete the remaining
-{cruft} by hand." :working as designed: adj. [IBM] 1. In conformance to a
-wrong or inappropriate specification; useful, but misdesigned. 2. Frequently
-used as a sardonic comment on a program's utility. 3. Unfortunately also used
-as a bogus reason for not accepting a criticism or suggestion. At {IBM}, this
-sense is used in official documents! see {BAD}. :worm: n. [from `tapeworm' in
-John Brunner's novel "The Shockwave Rider", via XEROX PARC] A program that
-propagates itself over a network, reproducing itself as it goes. Compare
-{virus}. Nowadays the term has negative connotations, as it is assumed that
-only {cracker}s write worms. Perhaps the best-known example was Robert T.
-Morris's {Great Worm} of 1988, a `benign' one that got out of control and
-hogged hundreds of Suns and VAXen across the U.S. see also {cracker}, {RTM},
-{Trojan horse}, {ice}. :wormhole: /werm'hohl/ n. [from the `wormhole'
-singularities hypothesized in some versions of General Relativity theory] 1.
-[n.,obs.] A location in a monitor which contains the address of a routine,
-with the specific intent of making it easy to substitute a different routine.
-This term is now obsolescent; modern operating systems use clusters of
-wormholes extensively (for modularization of I/O handling in particular, as
-in the Unix device-driver organization) but the preferred techspeak for these
-clusters is `device tables', `jump tables' or `capability tables'. 2.
-[Amateur Packet Radio] A network path using a commercial satellite link to
-join two or more amateur VHF networks. So called because traffic routed
-through a wormhole leaves and re-enters the amateur network over great
-distances with usually little clue in the message routing header as to how it
-got from one relay to the other. Compare {gopher hole} (sense 2). :wound
-around the axle: adj. In an infinite loop. Often used by older computer
-types. :wrap around: vi. (also n. `wraparound' and v. shorthand `wrap') 1.
-[techspeak] The action of a counter that starts over at zero or at `minus
-infinity' (see {infinity}) after its maximum value has been reached, and
-continues incrementing, either because it is programmed to do so or because
-of an overflow (as when a car's odometer starts over at 0). 2. To change
-{phase} gradually and continuously by maintaining a steady wake-sleep cycle
-somewhat longer than 24 hours, e.g., living six long (28-hour) days in a week
-(or, equivalently, sleeping at the rate of 10 microhertz). This sense is also
-called {phase-wrapping}. :write-only code: n. [a play on `read-only memory']
-Code so arcane, complex, or ill-structured that it cannot be modified or even
-comprehended by anyone but its author, and possibly not even by him/her. A
-{Bad Thing}. :write-only language: n. A language with syntax (or semantics)
-sufficiently dense and bizarre that any routine of significant size is
-automatically {write-only code}. A sobriquet applied occasionally to C and
-often to APL, though {INTERCAL} and {TECO} certainly deserve it more. see
-also {Befunge}. :write-only memory: n. The obvious antonym to `read-only
-memory'. Out of frustration with the long and seemingly useless chain of
-approvals required of component specifications, during which no actual
-checking seemed to occur, an engineer at Signetics once created a
-specification for a write-only memory and included it with a bunch of other
-specifications to be approved. This inclusion came to the attention of
-Signetics {management} only when regular customers started calling and asking
-for pricing information. Signetics published a corrected edition of the data
-book and requested the return of the `erroneous' ones. Later, around 1974,
-Signetics bought a double-page spread in "Electronics" magazine's April issue
-and used the spec as an April Fools' Day joke. Instead of the more
-conventional characteristic curves, the 25120 "fully encoded, 9046 x N,
-Random Access, write-only-memory" data sheet included diagrams of "bit
-capacity vs. Temp.", "Iff vs. Vff", "Number of pins remaining vs. number of
-socket insertions", and "AQL vs. selling price". The 25120 required a 6.3 VAC
-VFF supply, a +10V VCC, and VDD of 0V, +/- 2%. :Wrong Thing: n. A design,
-action, or decision that is clearly incorrect or inappropriate. Often
-capitalized; always emphasized in speech as if capitalized. The opposite of
-the {Right Thing}; more generally, anything that is not the Right Thing. In
-cases where `the good is the enemy of the best', the merely good -- although
-good -- is nevertheless the Wrong Thing. "In C, the default is for
-module-level declarations to be visible everywhere, rather than just within
-the module. This is clearly the Wrong Thing." :wugga wugga: /wuh'g* wuh'g*/
-n. Imaginary sound that a computer program makes as it labors with a tedious
-or difficult task.{grind} (sense 4). :wumpus: /wuhm'p*s/ n. The central
-monster (and, in many versions, the name) of a famous family of very early
-computer games called "Hunt The Wumpus'. The original was invented in 1970
-(several years before {ADVENT}) by Gregory Yob. The wumpus lived somewhere in
-a cave with the topology of an dodecahedron's edge/vertex graph (later
-versions supported other topologies, including an icosahedron and Mo"bius
-strip). The player started somewhere at random in the cave with five `crooked
-arrows'; these could be shot through up to three connected rooms, and would
-kill the wumpus on a hit (later versions introduced the wounded wumpus, which
-got very angry). Unfortunately for players, the movement necessary to map the
-maze was made hazardous not merely by the wumpus (which would eat you if you
-stepped on him) but also by bottomless pits and colonies of super bats that
-would pick you up and drop you at a random location (later versions added
-`anaerobic termites' that ate arrows, bat migrations, and earthquakes that
-randomly changed pit locations). This game appears to have been the first to
-use a non-random graph-structured map (as opposed to a rectangular grid like
-the even older Star Trek games). In this respect, as in the dungeon-like
-setting and its terse, amusing messages, it prefigured {ADVENT} and {Zork}
-and was directly ancestral to the latter (Zork acknowledged this heritage by
-including a super-bat colony). A C emulation of the original Basic game is
-available at the Retrocomputing Museum, `http://www.ccil.org/retro'.
-:WYSIAYG: /wiz'ee-ayg/ adj. Describes a user interface under which "What You
-see Is _All_ You Get"; an unhappy variant of {WYSIWYG}. Visual,
-`point-and-shoot'-style interfaces tend to have easy initial learning curves,
-but also to lack depth; they often frustrate advanced users who would be
-better served by a command-style interface. When this happens, the frustrated
-user has a WYSIAYG problem. This term is most often used of editors, word
-processors, and document formatting programs. WYSIWYG `desktop publishing'
-programs, for example, are a clear win for creating small documents with lots
-of fonts and graphics in them, especially things like newsletters and
-presentation slides. When typesetting book-length manuscripts, on the other
-hand, scale changes the nature of the task; one quickly runs into WYSIAYG
-limitations, and the increased power and flexibility of a command-driven
-formatter like {{TeX}} or Unix's {{troff}} becomes not just desirable but a
-necessity. Compare {YAFIYGI}. :WYSIWYG: /wiz'ee-wig/ adj. [Traced to Flip
-Wilson's "Geraldine" character c.1970] Describes a user interface under which
-"What You see Is What You Get", as opposed to one that uses more-or-less
-obscure commands that do not result in immediate visual feedback. True
-WYSIWYG in environments supporting multiple fonts or graphics is a a
-rarely-attained ideal; there are variants of this term to express real-world
-manifestations including WYSIAWYG (What You see Is _Almost_ What You Get) and
-WYSIMOLWYG (What You see Is More or Less What You Get). All these can be
-mildly derogatory, as they are often used to refer to dumbed-down
-{user-friendly} interfaces targeted at non-programmers; a hacker has no fear
-of obscure commands (compare {WYSIAYG}). On the other hand, {EMACS} was one
-of the very first WYSIWYG editors, replacing (actually, at first overlaying)
-the extremely obscure, command-based {TECO}. see also {WIMP environment}.
-[Oddly enough, WYSIWYG has already made it into the OED, in lower case yet.
---ESR] = X = ===== :X: /X/ n. 1. Used in various speech and writing contexts
-(also in lowercase) in roughly its algebraic sense of `unknown within a set
-defined by context' (compare {N}). Thus, the abbreviation 680x0 stands for
-68000, 68010, 68020, 68030, or 68040, and 80x86 stands for 80186, 80286,
-80386, 80486, 80586 or 80686 (note that a Unix hacker might write these as
-680[0-6]0 and 80[1-6]86 or 680?0 and 80?86 respectively; see {glob}). 2.
-[after the name of an earlier window system called `W'] An over-sized,
-over-featured, over-engineered and incredibly over-complicated window system
-developed at MIT and widely used on Unix systems. :XEROX PARC: /zee'roks
-park'/ n. The famed Palo Alto Research Center. For more than a decade, from
-the early 1970s into the mid-1980s, PARC yielded an astonishing volume of
-groundbreaking hardware and software innovations. The modern mice, windows,
-and icons style of software interface was invented there. So was the laser
-printer and the local-area network; and PARC's series of D machines
-anticipated the powerful personal computers of the 1980s by a decade. Sadly,
-the prophets at PARC were without honor in their own company, so much so that
-it became a standard joke to describe PARC as a place that specialized in
-developing brilliant ideas for everyone else. The stunning shortsightedness
-and obtusity of XEROX's top-level {suit}s has been well anatomized in
-"Fumbling The Future: How XEROX Invented, Then Ignored, the First Personal
-Computer" by Douglas K. Smith and Robert C. Alexander (William Morrow & Co.,
-1988, ISBN
+ 4.43 build of Weemax, but as a workaround you can type CTRL-R, then
+SHIFT-F5, and delete the remaining {cruft} by hand." :working as designed:
+adj. [IBM] 1. In conformance to a wrong or inappropriate specification;
+useful, but misdesigned. 2. Frequently used as a sardonic comment on a
+program's utility. 3. Unfortunately also used as a bogus reason for not
+accepting a criticism or suggestion. At {IBM}, this sense is used in official
+documents! see {BAD}. :worm: n. [from `tapeworm' in John Brunner's novel "The
+Shockwave Rider", via XEROX PARC] A program that propagates itself over a
+network, reproducing itself as it goes. Compare {virus}. Nowadays the term
+has negative connotations, as it is assumed that only {cracker}s write worms.
+Perhaps the best-known example was Robert T. Morris's {Great Worm} of 1988, a
+`benign' one that got out of control and hogged hundreds of Suns and VAXen
+across the U.S. see also {cracker}, {RTM}, {Trojan horse}, {ice}. :wormhole:
+/werm'hohl/ n. [from the `wormhole' singularities hypothesized in some
+versions of General Relativity theory] 1. [n.,obs.] A location in a monitor
+which contains the address of a routine, with the specific intent of making
+it easy to substitute a different routine. This term is now obsolescent;
+modern operating systems use clusters of wormholes extensively (for
+modularization of I/O handling in particular, as in the Unix device-driver
+organization) but the preferred techspeak for these clusters is `device
+tables', `jump tables' or `capability tables'. 2. [Amateur Packet Radio] A
+network path using a commercial satellite link to join two or more amateur
+VHF networks. So called because traffic routed through a wormhole leaves and
+re-enters the amateur network over great distances with usually little clue
+in the message routing header as to how it got from one relay to the other.
+Compare {gopher hole} (sense 2). :wound around the axle: adj. In an infinite
+loop. Often used by older computer types. :wrap around: vi. (also n.
+`wraparound' and v. shorthand `wrap') 1. [techspeak] The action of a counter
+that starts over at zero or at `minus infinity' (see {infinity}) after its
+maximum value has been reached, and continues incrementing, either because it
+is programmed to do so or because of an overflow (as when a car's odometer
+starts over at 0). 2. To change {phase} gradually and continuously by
+maintaining a steady wake-sleep cycle somewhat longer than 24 hours, e.g.,
+living six long (28-hour) days in a week (or, equivalently, sleeping at the
+rate of 10 microhertz). This sense is also called {phase-wrapping}.
+:write-only code: n. [a play on `read-only memory'] Code so arcane, complex,
+or ill-structured that it cannot be modified or even comprehended by anyone
+but its author, and possibly not even by him/her. A {Bad Thing}. :write-only
+language: n. A language with syntax (or semantics) sufficiently dense and
+bizarre that any routine of significant size is automatically {write-only
+code}. A sobriquet applied occasionally to C and often to APL, though
+{INTERCAL} and {TECO} certainly deserve it more. see also {Befunge}.
+:write-only memory: n. The obvious antonym to `read-only memory'. Out of
+frustration with the long and seemingly useless chain of approvals required
+of component specifications, during which no actual checking seemed to occur,
+an engineer at Signetics once created a specification for a write-only memory
+and included it with a bunch of other specifications to be approved. This
+inclusion came to the attention of Signetics {management} only when regular
+customers started calling and asking for pricing information. Signetics
+published a corrected edition of the data book and requested the return of
+the `erroneous' ones. Later, in 1972, Signetics bought a double-page spread
+in "Electronics" magazine's April issue and used the spec as an April Fools'
+Day joke. Instead of the more conventional characteristic curves, the 25120
+"fully encoded, 9046 x N, Random Access, write-only-memory" data sheet
+included diagrams of "bit capacity vs. Temp.", "Iff vs. Vff", "Number of pins
+remaining vs. number of socket insertions", and "AQL vs. selling price". The
+25120 required a 6.3 VAC VFF supply, a +10V VCC, and VDD of 0V, +/- 2%.
+:Wrong Thing: n. A design, action, or decision that is clearly incorrect or
+inappropriate. Often capitalized; always emphasized in speech as if
+capitalized. The opposite of the {Right Thing}; more generally, anything that
+is not the Right Thing. In cases where `the good is the enemy of the best',
+the merely good -- although good -- is nevertheless the Wrong Thing. "In C,
+the default is for module-level declarations to be visible everywhere, rather
+than just within the module. This is clearly the Wrong Thing." :wugga wugga:
+/wuh'g* wuh'g*/ n. Imaginary sound that a computer program makes as it labors
+with a tedious or difficult task.{grind} (sense 4). :wumpus: /wuhm'p*s/ n.
+The central monster (and, in many versions, the name) of a famous family of
+very early computer games called "Hunt The Wumpus'. The original was invented
+in 1970 (several years before {ADVENT}) by Gregory Yob. The wumpus lived
+somewhere in a cave with the topology of an dodecahedron's edge/vertex graph
+(later versions supported other topologies, including an icosahedron and
+Mo"bius strip). The player started somewhere at random in the cave with five
+`crooked arrows'; these could be shot through up to three connected rooms,
+and would kill the wumpus on a hit (later versions introduced the wounded
+wumpus, which got very angry). Unfortunately for players, the movement
+necessary to map the maze was made hazardous not merely by the wumpus (which
+would eat you if you stepped on him) but also by bottomless pits and colonies
+of super bats that would pick you up and drop you at a random location (later
+versions added `anaerobic termites' that ate arrows, bat migrations, and
+earthquakes that randomly changed pit locations). This game appears to have
+been the first to use a non-random graph-structured map (as opposed to a
+rectangular grid like the even older Star Trek games). In this respect, as in
+the dungeon-like setting and its terse, amusing messages, it prefigured
+{ADVENT} and {Zork} and was directly ancestral to the latter (Zork
+acknowledged this heritage by including a super-bat colony). A C emulation of
+the original Basic game is available at the Retrocomputing Museum,
+`http://www.ccil.org/retro'. :WYSIAYG: /wiz'ee-ayg/ adj. Describes a user
+interface under which "What You see Is _All_ You Get"; an unhappy variant of
+{WYSIWYG}. Visual, `point-and-shoot'-style interfaces tend to have easy
+initial learning curves, but also to lack depth; they often frustrate
+advanced users who would be better served by a command-style interface. When
+this happens, the frustrated user has a WYSIAYG problem. This term is most
+often used of editors, word processors, and document formatting programs.
+WYSIWYG `desktop publishing' programs, for example, are a clear win for
+creating small documents with lots of fonts and graphics in them, especially
+things like newsletters and presentation slides. When typesetting book-length
+manuscripts, on the other hand, scale changes the nature of the task; one
+quickly runs into WYSIAYG limitations, and the increased power and
+flexibility of a command-driven formatter like {{TeX}} or Unix's {{troff}}
+becomes not just desirable but a necessity. Compare {YAFIYGI}. :WYSIWYG:
+/wiz'ee-wig/ adj. [Traced to Flip Wilson's "Geraldine" character c.1970]
+Describes a user interface under which "What You see Is What You Get", as
+opposed to one that uses more-or-less obscure commands that do not result in
+immediate visual feedback. True WYSIWYG in environments supporting multiple
+fonts or graphics is a a rarely-attained ideal; there are variants of this
+term to express real-world manifestations including WYSIAWYG (What You see Is
+_Almost_ What You Get) and WYSIMOLWYG (What You see Is More or Less What You
+Get). All these can be mildly derogatory, as they are often used to refer to
+dumbed-down {user-friendly} interfaces targeted at non-programmers; a hacker
+has no fear of obscure commands (compare {WYSIAYG}). On the other hand,
+{EMACS} was one of the very first WYSIWYG editors, replacing (actually, at
+first overlaying) the extremely obscure, command-based {TECO}. see also {WIMP
+environment}. [Oddly enough, WYSIWYG has already made it into the OED, in
+lower case yet. --ESR] = X = ===== :X: /X/ n. 1. Used in various speech and
+writing contexts (also in lowercase) in roughly its algebraic sense of
+`unknown within a set defined by context' (compare {N}). Thus, the
+abbreviation 680x0 stands for 68000, 68010, 68020, 68030, or 68040, and 80x86
+stands for 80186, 80286, 80386, 80486, 80586 or 80686 (note that a Unix
+hacker might write these as 680[0-6]0 and 80[1-6]86 or 680?0 and 80?86
+respectively; see {glob}). 2. [after the name of an earlier window system
+called `W'] An over-sized, over-featured, over-engineered and incredibly
+over-complicated window system developed at MIT and widely used on Unix
+systems. :XEROX PARC: /zee'roks park'/ n. The famed Palo Alto Research
+Center. For more than a decade, from the early 1970s into the mid-1980s, PARC
+yielded an astonishing volume of groundbreaking hardware and software
+innovations. The modern mice, windows, and icons style of software interface
+was invented there. So was the laser printer and the local-area network; and
+PARC's series of D machines anticipated the powerful personal computers of
+the 1980s by a decade. Sadly, the prophets at PARC were without honor in
+their own company, so much so that it became a standard joke to describe PARC
+as a place that specialized in developing brilliant ideas for everyone else.
+The stunning shortsightedness and obtusity of XEROX's top-level {suit}s has
+been well anatomized in "Fumbling The Future: How XEROX Invented, Then
+Ignored, the First Personal Computer" by Douglas K. Smith and Robert C.
+Alexander (William Morrow & Co., 1988, ISBN 0-688-09511-9). :XOFF: /X-of/ n.
+Syn. {control-S}. :XON: /X-on/ n. Syn. {control-Q}. :xor: /X'or/, /kzor/
+conj. Exclusive or. `A xor B' means `A or B, but not both'. "I want to get
+cherry pie xor a banana split." This derives from the technical use of the
+term as a function on truth-values that is true if exactly one of its two
+arguments is true. :xref: /X'ref/ v.,n. Hackish standard abbreviation for
+`cross-reference'. :XXX: /X-X-X/ n. A marker that attention is needed.
+Commonly used in program comments to indicate areas that are kluged up or
+need to be. Some hackers liken `XXX' to the notional heavy-porn movie rating.
+Compare {FIXME}. :xyzzy: /X-Y-Z-Z-Y/, /X-Y-ziz'ee/, /ziz'ee/, or /ik-ziz'ee/
+adj. [from the ADVENT game] The {canonical} `magic word'. This comes from
+{ADVENT}, in which the idea is to explore an underground cave with many rooms
+and to collect the treasures you find there. If you type `xyzzy' at the
+appropriate time, you can move instantly between two otherwise distant
+points. If, therefore, you encounter some bit of {magic}, you might remark on
+this quite succinctly by saying simply "Xyzzy!" "Ordinarily you can't look at
+someone else's screen if he has protected it, but if you type
+quadruple-bucky-clear the system will let you do it anyway." "Xyzzy!" It's
+traditional for xyzzy to be an {Easter egg} in games with text interfaces.
+Xyzzy has actually been implemented as an undocumented no-op command on
+several OSes; in Data General's AOS/VS, for example, it would typically
+respond "Nothing happens", just as {ADVENT} did if the magic was invoked at
+the wrong spot or before a player had performed the action that enabled the
+word. In more recent 32-bit versions, by the way,

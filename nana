@@ -1,0 +1,56 @@
+ N - 1" you can deduce that one person at the table wants to eat only soup,
+even though you don't know how many people there are (see {great-wall}). 3.
+`Nth': adj. The ordinal counterpart of N, senses 1 and 2. "Now for the Nth
+and last time..." In the specific context "Nth-year grad student", N is
+generally assumed to be at least 4, and is usually 5 or more (see {tenured
+graduate student}). see also {{random numbers}}, {two-to-the-N}. :nadger:
+/nad'jr/ v. [UK, from rude slang noun `nadgers' for testicles; compare
+American & British `bollixed'] Of software or hardware (not people), to
+twiddle some object in a hidden manner, generally so that it conforms better
+to some format. For instance, string printing routines on 8-bit processors
+often take the string text from the instruction stream, thus a print call
+looks like `jsr print:"Hello world"'. The print routine has to `nadger' the
+saved instruction pointer so that the processor doesn't try to execute the
+text as instructions when the subroutine returns. see {adger}. :nagware:
+/nag'weir/ n. [Usenet] The variety of {shareware} that displays a large
+screen at the beginning or end reminding you to register, typically requiring
+some sort of keystroke to continue so that you can't use the software in
+batch mode. Compare {annoyware}, {crippleware}. :nailed to the wall: adj.
+[like a trophy] Said of a bug finally eliminated after protracted, and even
+heroic, effort. :nailing jelly: vi. see {like nailing jelly to a tree}.
+:naive: adj. 1. Untutored in the perversities of some particular program or
+system; one who still tries to do things in an intuitive way, rather than the
+right way (in really good designs these coincide, but most designs aren't
+`really good' in the appropriate sense). This trait is completely unrelated
+to general maturity or competence, or even competence at any other specific
+program. It is a sad commentary on the primitive state of computing that the
+natural opposite of this term is often claimed to be `experienced user' but
+is really more like `cynical user'. 2. Said of an algorithm that doesn't take
+advantage of some superior but advanced technique, e.g., the {bubble sort}.
+It may imply naivete on the part of the programmer, although there are
+situations where a naive algorithm is preferred, because it is more important
+to keep the code comprehensible than to go for maximum performance. "I know
+the linear search is naive, but in this case the list typically only has half
+a dozen items." :naive user: n. A {luser}. Tends to imply someone who is
+ignorant mainly owing to inexperience. When this is applied to someone who
+_has_ experience, there is a definite implication of stupidity. :NAK: /nak/
+interj. [from the ASCII mnemonic for 0010101] 1. On-line joke answer to
+{ACK}?: "I'm not here." 2. On-line answer to a request for chat: "I'm not
+available." 3. Used to politely interrupt someone to tell them you don't
+understand their point or that they have suddenly stopped making sense. see
+{ACK}, sense 3. "And then, after we recode the project in COBOL...." "Nak,
+Nak, Nak! I thought I heard you say COBOL!" 4. A negative answer. "OK if I
+boot the server?" "NAK!" :NANA: // [Usenet] The newsgroups
+news.admin.net-abuse.*, devoted to fighting {spam} and network abuse. Each
+individual newsgroup is often referred to by adding a letter to NANA. For
+example, NANAU would refer to news.admin.net-abuse.usenet. When spam began to
+be a serious problem around 1995, and a loose network of anti-spammers formed
+to combat it, spammers immediately accused them of being the {backbone
+cabal}, or the Cabal reborn. Though this was not true, spam-fighters
+ironically accepted the label and the tag line "There is No Cabal" reappeared
+(later, and now commonly, abbreviated to "TINC"). Nowadays "the Cabal" is
+generally understood to refer to the NANA regulars. :nano: /nan'oh/ n. [CMU:
+from `nanosecond'] A brief period of time. "Be with you in a nano" means you
+really will be free shortly, i.e., implies what mainstream people mean by "in
+a jiffy" (whereas the hackish use of `jiffy' is quite different -- see
+{jiffy}). :nano-: pref. [SI: the next quantifier below {micro-}; meaning *

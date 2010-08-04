@@ -1,329 +1,113 @@
- SF convention) over the July 4th weekend in 1980. It is not clear exactly
-when the canonical @-party venue shifted to the Worldcon but it had certainly
-become established by Constellation in 1983. Sadly, the @-party tradition has
-been in decline since about 1996, mainly because having an @-address no
-longer functions as an effective lodge pin. = A = ===== :abbrev: /*-breev'/,
-/*-brev'/ n. Common abbreviation for `abbreviation'. :ABEND: /a'bend/,
-/*-bend'/ n. [ABnormal END] 1. Abnormal termination (of software); {crash};
-{lossage}. Derives from an error message on the IBM 360; used jokingly by
-hackers but seriously mainly by {code grinder}s. Usually capitalized, but may
-appear as `abend'. Hackers will try to persuade you that ABEND is called
-`abend' because it is what system operators do to the machine late on Friday
-when they want to call it a day, and hence is from the German `Abend' =
-`Evening'. 2. [alt.callahans] Absent By Enforced Net Deprivation - used in
-the subject lines of postings warning friends of an imminent loss of Internet
-access. (This can be because of computer downtime, loss of provider, moving
-or illness.) Variants of this also appear: ABVND = `Absent By Voluntary Net
-Deprivation' and ABSEND = `Absent By Self-Enforced Net Deprivation' have been
-sighted. :accumulator: n. obs. 1. Archaic term for a register. On-line use of
-it as a synonym for `register' is a fairly reliable indication that the user
-has been around for quite a while and/or that the architecture under
-discussion is quite old. The term in full is almost never used of
-microprocessor registers, for example, though symbolic names for arithmetic
-registers beginning in `A' derive from historical use of the term
-`accumulator' (and not, actually, from `arithmetic'). Confusingly, though, an
-`A' register name prefix may also stand for `address', as for example on the
-Motorola 680x0 family. 2. A register being used for arithmetic or logic (as
-opposed to addressing or a loop index), especially one being used to
-accumulate a sum or count of many items. This use is in context of a
-particular routine or stretch of code. "The FOOBAZ routine uses A3 as an
-accumulator." 3. One's in-basket (esp. among old-timers who might use sense
-1). "You want this reviewed? Sure, just put it in the accumulator." (see
-{stack}.) :ACK: /ak/ interj. 1. [common; from the ASCII mnemonic for 0000110]
-Acknowledge. Used to register one's presence (compare mainstream _Yo!_). An
-appropriate response to {ping} or {ENQ}. 2. [from the comic strip "Bloom
-County"] An exclamation of surprised disgust, esp. in "Ack pffft!"
-Semi-humorous. Generally this sense is not spelled in caps (ACK) and is
-distinguished by a following exclamation point. 3. Used to politely interrupt
-someone to tell them you understand their point (see {NAK}). Thus, for
-example, you might cut off an overly long explanation with "Ack. Ack. Ack. I
-get it now". There is also a usage "ACK?" (from sense 1) meaning "Are you
-there?", often used in email when earlier mail has produced no reply, or
-during a lull in {talk mode} to see if the person has gone away (the standard
-humorous response is of course {NAK} (sense 1), i.e., "I'm not here"). :Acme:
-n. The canonical supplier of bizarre, elaborate, and non-functional gadgetry
-- where Rube Goldberg and Heath Robinson (two cartoonists who specialized in
-elaborate contraptions) shop. The name has been humorously expanded as A (or
-American) Company Making Everything. (In fact, Acme was a real brand sold
-from Sears Roebuck catalogs in the early 1900s.) Describing some X as an
-"Acme X" either means "This is {insanely great}", or, more likely, "This
-looks {insanely great} on paper, but in practice it's really easy to shoot
-yourself in the foot with it." Compare {pistol}. This term, specially
-cherished by American hackers and explained here for the benefit of our
-overseas brethren, comes from the Warner Brothers' series of "Roadrunner"
-cartoons. In these cartoons, the famished Wile E. Coyote was forever
-attempting to catch up with, trap, and eat the Roadrunner. His attempts
-usually involved one or more high-technology Rube Goldberg devices - rocket
-jetpacks, catapults, magnetic traps, high-powered slingshots, etc. These were
-usually delivered in large cardboard boxes, labeled prominently with the Acme
-name. These devices invariably malfunctioned in improbable and violent ways.
-:acolyte: n. obs. [TMRC] An {OSU} privileged enough to submit data and
-programs to a member of the {priesthood}. :ad-hockery: /ad-hok'*r-ee/ n.
-[Purdue] 1. Gratuitous assumptions made inside certain programs, esp. expert
-systems, which lead to the appearance of semi-intelligent behavior but are in
-fact entirely arbitrary. For example, fuzzy-matching of input tokens that
-might be typing errors against a symbol table can make it look as though a
-program knows how to spell. 2. Special-case code to cope with some awkward
-input that would otherwise cause a program to {choke}, presuming normal
-inputs are dealt with in some cleaner and more regular way. Also called
-`ad-hackery', `ad-hocity' (/ad-hos'*-tee/), `ad-crockery'. see also {ELIZA
-effect}. :Ada:: n. A {{Pascal}}-descended language that has been made
-mandatory for Department of Defense software projects by the Pentagon.
-Hackers are nearly unanimous in observing that, technically, it is precisely
-what one might expect given that kind of endorsement by fiat; designed by
-committee, crockish, difficult to use, and overall a disastrous,
-multi-billion-dollar boondoggle (one common description wss "The PL/I of the
-1980s"). Hackers find Ada's exception-handling and inter-process
-communication features particularly hilarious. Ada Lovelace (the daughter of
-Lord Byron who became the world's first programmer while cooperating with
-Charles Babbage on the design of his mechanical computing engines in the
-mid-1800s) would almost certainly blanch at the use to which her name has
-latterly been put; the kindest thing that has been said about it is that
-there is probably a good small language screaming to get out from inside its
-vast, {elephantine} bulk. :address harvester: n. A robot that searches web
-pages and/or filters netnews traffic looking for valid email addresses. Some
-address harvesters are benign, used only for compiling address directories.
-Most, unfortunately, are run by miscreants compiling address lists to {spam}.
-Address harvesters can be foiled by a {teergrube}. :adger: /aj'r/ vt. [UCLA
-mutant of {nadger}, poss. also from the middle name of an infamous {tenured
-graduate student}] To make a bonehead move with consequences that could have
-been foreseen with even slight mental effort. E.g., "He started removing
-files and promptly adgered the whole project". Compare {dumbass attack}.
-:admin: /ad-min'/ n. Short for `administrator'; very commonly used in speech
-or on-line to refer to the systems person in charge on a computer. Common
-constructions on this include `sysadmin' and `site admin' (emphasizing the
-administrator's role as a site contact for email and news) or `newsadmin'
-(focusing specifically on news). Compare {postmaster}, {sysop}, {system
-mangler}. :ADVENT: /ad'vent/ n. The prototypical computer adventure game,
-first designed by Will Crowther on the {PDP-10} in the mid-1970s as an
-attempt at computer-refereed fantasy gaming, and expanded into a
-puzzle-oriented game by Don Woods at Stanford in 1976. (Woods had been one of
-the authors of {INTERCAL}.) Now better known as Adventure, but the
-{{TOPS-10}} operating system permitted only six-letter filenames. see also
-{vadding}, {Zork}, and {Infocom}. This game defined the terse, dryly humorous
-style since expected in text adventure games, and popularized several tag
-lines that have become fixtures of hacker-speak: "A huge green fierce snake
-bars the way!" "I see no X here" (for some noun X). "You are in a maze of
-twisty little passages, all alike." "You are in a little maze of twisty
-passages, all different." The `magic words' {xyzzy} and {plugh} also derive
-from this game. Crowther, by the way, participated in the exploration of the
-Mammoth & Flint Ridge cave system; it actually _has_ a `Colossal Cave' and a
-`Bedquilt' as in the game, and the `Y2' that also turns up is cavers' jargon
-for a map reference to a secondary entrance. ADVENT sources are available for
-FTP at `ftp://ftp.wustl.edu/doc/misc/if-archive/games/source/advent.tar.Z'.
-There's a version implemented as a set of web scripts at
-`http://tjwww.stanford.edu/adventure/'. :AFAIK: // n. [Usenet] Abbrev. for
-"As Far As I Know". :AFJ: // n. Written-only abbreviation for "April Fool's
-Joke". Elaborate April Fool's hoaxes are a long-established tradition on
-Usenet and Internet; see {kremvax} for an example. In fact, April Fool's Day
-is the _only_ seasonal holiday consistently marked by customary observances
-on Internet and other hacker networks. :AFK: [MUD] Abbrev. for "Away From
-Keyboard". Used to notify others that you will be momentarily unavailable
-online. eg. "Let's not go kill that frost giant yet, I need to go AFK to make
-a phone call". Often MUDs will have a command to politely inform others of
-your absence when they try to talk with you. The term is not restricted to
-MUDs, however, and has become common in many chat situations, from IRC to
-Unix talk. :AI: /A-I/ n. Abbreviation for `Artificial Intelligence', so
-common that the full form is almost never written or spoken among hackers.
-:AI-complete: /A-I k*m-pleet'/ adj. [MIT, Stanford: by analogy with
-`NP-complete' (see {NP-})] Used to describe problems or subproblems in AI, to
-indicate that the solution presupposes a solution to the `strong AI problem'
-(that is, the synthesis of a human-level intelligence). A problem that is
-AI-complete is, in other words, just too hard. Examples of AI-complete
-problems are `The Vision Problem' (building a system that can see as well as
-a human) and `The Natural Language Problem' (building a system that can
-understand and speak a natural language as well as a human). These may appear
-to be modular, but all attempts so far (1999) to solve them have foundered on
-the amount of context information and `intelligence' they seem to require.
-see also {gedanken}. :AI koans: /A-I koh'anz/ pl.n. A series of pastiches of
-Zen teaching riddles created by Danny Hillis at the MIT AI Lab around various
-major figures of the Lab's culture (several are included under {Some AI
-Koans} in Appendix A). see also {ha ha only serious}, {mu}, and {{hacker
-humor}}. :AIDS: /aydz/ n. Short for A* Infected Disk Syndrome (`A*' is a
-{glob} pattern that matches, but is not limited to, Apple or Amiga), this
-condition is quite often the result of practicing unsafe {SEX}. see {virus},
-{worm}, {Trojan horse}, {virgin}. :AIDX: /ayd'k*z/ n. Derogatory term for
-IBM's perverted version of Unix, AIX, especially for the AIX 3.? used in the
-IBM RS/6000 series (some hackers think it is funnier just to pronounce "AIX"
-as "aches"). A victim of the dreaded "hybridism" disease, this attempt to
-combine the two main currents of the Unix stream ({BSD} and {USG Unix})
-became a {monstrosity} to haunt system administrators' dreams. For example,
-if new accounts are created while many users are logged on, the load average
-jumps quickly over 20 due to silly implementation of the user databases. For
-a quite similar disease, compare {HP-SUX}. Also, compare {Macintrash},
-{Nominal Semidestructor}, {ScumOS}, {sun-stools}. :airplane rule: n.
-"Complexity increases the possibility of failure; a twin-engine airplane has
-twice as many engine problems as a single-engine airplane." By analogy, in
-both software and electronics, the rule that simplicity increases robustness.
-It is correspondingly argued that the right way to build reliable systems is
-to put all your eggs in one basket, after making sure that you've built a
-really _good_ basket. see also {KISS Principle}, {elegant}. :Alderson loop:
-n. [Intel] A special version of an {infinite loop} where there is an exit
-condition available, but inaccessible in the current implementation of the
-code. Typically this is created while debugging user interface code. An
-example would be when there is a menu stating, "Select 1-3 or 9 to quit" and
-9 is not allowed by the function that takes the selection from the user. This
-term received its name from a programmer who had coded a modal message box in
-MSAccess with no Ok or Cancel buttons, thereby disabling the entire program
-whenever the box came up. The message box had the proper code for dismissal
-and even was set up so that when the non-existent Ok button was pressed the
-proper code would be called. :aliasing bug: n. A class of subtle programming
-errors that can arise in code that does dynamic allocation, esp. via
-`malloc(3)' or equivalent. If several pointers address (`aliases for') a
-given hunk of storage, it may happen that the storage is freed or reallocated
-(and thus moved) through one alias and then referenced through another, which
-may lead to subtle (and possibly intermittent) lossage depending on the state
-and the allocation history of the malloc {arena}. Avoidable by use of
-allocation strategies that never alias allocated core, or by use of
-higher-level languages, such as {LISP}, which employ a garbage collector (see
-{GC}). Also called a {stale pointer bug}. see also {precedence lossage},
-{smash the stack}, {fandango on core}, {memory leak}, {memory smash},
-{overrun screw}, {spam}. Historical note: Though this term is nowadays
-associated with C programming, it was already in use in a very similar sense
-in the Algol-60 and FORTRAN communities in the 1960s. :Alice and Bob: n. The
-archetypal individuals used as examples in discussions of cryptographic
-protocols. Originally, theorists would say something like: "A communicates
-with someone who claims to be B, So to be sure, A tests that B knows a secret
-number K. So A sends to B a random number X. B then forms Y by encrypting X
-under key K and sends Y back to A" Because this sort of thing is is quite
-hard to follow, theorists stopped using the unadorned letters A and B to
-represent the main players and started calling them Alice and Bob. So now we
-say "Alice communicates with someone claiming to be Bob, and to be sure, So
-Alice tests that Bob knows a secret number K. Alice sends to Bob a random
-number X. Bob then forms Y by encrypting X under key K and sends Y back to
-Alice". A whole mythology rapidly grew up around Alice and Bob; see
-`http://www.conceptlabs.co.uk/alicebob.html'. In Bruce Schneier's definitive
-introductory text "Applied Cryptography" (2nd ed., 1996, John Wiley & Sons,
-ISBN 0-471-11709-9) he introduces a table of dramatis personae headed by
-Alice and Bob. Others include Carol (a participant in three- and four-party
-protocols), Dave (a participant in four-party protocols), Eve (an
-eavesdropper), Mallory (a malicious active attacker), Trent (a trusted
-arbitrator), Walter (a warden), Peggy (a prover) and Victor (a verifier).
-These names for roles are either already standard or, given the wide
-popularity of the book, may be expected to quickly become so. :all-elbows:
-adj. [MS-DOS] Of a TSR (terminate-and-stay-resident) IBM PC program, such as
-the N pop-up calendar and calculator utilities that circulate on {BBS}
-systems: unsociable. Used to describe a program that rudely steals the
-resources that it needs without considering that other TSRs may also be
-resident. One particularly common form of rudeness is lock-up due to programs
-fighting over the keyboard interrupt. see {rude}, also {mess-dos}. :alpha
-geek: n. [from animal ethologists' `alpha male'] The most technically
-accomplished or skillful person in some implied context. "Ask Larry, he's the
-alpha geek here." :alpha particles: n. see {bit rot}. :alt: /awlt/ 1. n. The
-alt shift key on an IBM PC or {clone} keyboard; see {bucky bits}, sense 2
-(though typical PC usage does not simply set the 0200 bit). 2. n. The
-`option' key on a Macintosh; use of this term usually reveals that the
-speaker hacked PCs before coming to the Mac (see also {feature key}, which is
-sometimes _incorrectly_ called `alt'). 3. n.,obs. [PDP-10; often capitalized
-to ALT] Alternate name for the ASCII ESC character (ASCII 0011011), after the
-keycap labeling on some older terminals; also `altmode' (/awlt'mohd/). This
-character was almost never pronounced `escape' on an ITS system, in {TECO},
-or under TOPS-10 -- always alt, as in "Type alt alt to end a TECO command" or
-"alt-U onto the system" (for "log onto the [ITS] system"). This usage
-probably arose because alt is more convenient to say than `escape',
-especially when followed by another alt or a character (or another alt _and_
-a character, for that matter). 4. The alt hierarchy on Usenet, the tree of
-newsgroups created by users without a formal vote and approval procedure.
-There is a myth, not entirely implausible, that alt is acronymic for
-"anarchists, lunatics, and terrorists"; but in fact it is simply short for
-"alternative". :alt bit: /awlt bit/ [from alternate] adj. see {meta bit}.
-:Aluminum Book: n. [MIT] "Common LISP: The Language", by Guy L. Steele Jr.
-(Digital Press, first edition 1984, second edition 1990). Note that due to a
-technical screwup some printings of the second edition are actually of a
-color the author describes succinctly as "yucky green". see also {{book
-titles}}. :ambimouseterous: /am-b*-mows'ter-us/ or /am-b*-mows'trus/ adj.
-[modeled on ambidextrous] Able to use a mouse with either hand. :Amiga: n A
-series of personal computer models originally sold by Commodore, based on
-680x0 processors, custom support chips and an operating system that combined
-some of the best features of Macintosh and Unix with compatibility with
-neither. The Amiga was released just as the personal computing world
-standardized on IBM-PC clones. This prevented it from gaining serious market
-share, despite the fact that the first Amigas had a substantial technological
-lead on the IBM XTs of the time. Instead, it acquired a small but zealous
-population of enthusiastic hackers who dreamt of one day unseating the clones
-(see {Amiga Persecution Complex}). The traits of this culture are both
-spoofed and illuminated in The BLAZE Humor Viewer
-(http://www-ccsl.cs.umass.edu/~barrett/bm/Viewer_Sections/Main.HTML). The
-strength of the Amiga platform seeded a small industry of companies building
-software and hardware for the platform, especially in graphics and video
-applications (see {video toaster}). Due to spectacular mismanagement,
-Commodore did hardly any R&D, allowing the competition to close Amiga's
-technological lead. After Commodore went bankrupt in 1994 the technology
-passed through several hands, none of whom did much with it. However, the
-Amiga is still being produced in Europe under license and has a substantial
-number of fans, which will probably extend the platform's life considerably.
-:Amiga Persecution Complex: n. The disorder suffered by a particularly
-egregious variety of {bigot}, those who believe that the marginality of their
-preferred machine is the result of some kind of industry-wide conspiracy (for
-without a conspiracy of some kind, the eminent superiority of their beloved
-shining jewel of a platform would obviously win over all, market pressures be
-damned!) Those afflicted are prone to engaging in {flame war}s and calling
-for boycotts and mailbombings. Amiga Persecution Complex is by no means
-limited to Amiga users; NeXT, {NeWS}, {OS/2}, Macintosh, {LISP}, and {GNU}
-users are also common victims. {Linux} users used to display symptoms very
-frequently before Linux started winning; some still do. see also {newbie},
-{troll}, {holy wars}, {weenie}, {Get a life!}. :amoeba: n. Humorous term for
-the Commodore Amiga personal computer. :amp off: vt. [Purdue] To run in
-{background}. From the Unix shell `&' operator. :amper: n. Common
-abbreviation for the name of the ampersand (`&', ASCII 0100110) character.
-see {{ASCII}} for other synonyms. :Angband: n. /ang'band/ Like {nethack},
-{moria}, and {rogue}, one of the large freely distributed
-Dungeons-and-Dragons-like simulation games, available for a wide range of
-machines and operating systems. The name is from Tolkien's Pits of Angband
-(compare {elder days}, {elvish}). Has been described as "Moria on steroids";
-but, unlike Moria, many aspects of the game are customizable. This leads many
-hackers and would-be hackers into fooling with these instead of doing
-productive work. There are many Angband variants, of which the most notorious
-is probably the rather whimsical Zangband. In this game, when a key that does
-not correspond to a command is pressed, the game will display "Type ? for
-help" 50% of the time. The other 50% of the time, random error messages
-including "An error has occurred because an error of type 42 has occurred"
-and "Windows 95 uninstalled successfully" will be displayed. Zangband also
-allows the player to kill Santa Claus (who has some really good stuff, but
-also has a lot of friends), "Bull Gates", and Barney the Dinosaur (but be
-watchful; Barney has a nasty case of halitosis). There is an official angband
-home page at `http://www.phial.com/angband' and a zangband one at
-`http://thangorodrim.angband.org'. see also {Random Number God}. :angle
-brackets: n. Either of the characters `<' (ASCII 0111100) and `>' (ASCII
-0111110) (ASCII less-than or greater-than signs). Typographers in the {Real
-World} use angle brackets which are either taller and slimmer (the ISO `Bra'
-and `Ket' characters), or significantly smaller (single or double guillemets)
-than the less-than and greater-than signs. see {broket}, {{ASCII}}. :angry
-fruit salad: n. A bad visual-interface design that uses too many colors.
-(This term derives, of course, from the bizarre day-glo colors found in
-canned fruit salad.) Too often one sees similar effects from interface
-designers using color window systems such as {X}; there is a tendency to
-create displays that are flashy and attention-getting but uncomfortable for
-long-term use. :annoybot: /*-noy-bot/ n. [IRC] see {bot}. :annoyware: n. A
-type of {shareware} that frequently disrupts normal program operation to
-display requests for payment to the author in return for the ability to
-disable the request messages. (Also called `nagware') The requests generally
-require user action to acknowledge the message before normal operation is
-resumed and are often tied to the most frequently used features of the
-software. see also {careware}, {charityware}, {crippleware}, {freeware},
-{FRS}, {guiltware}, {postcardware}, and {-ware}; compare {payware}. :ANSI:
-/an'see/ 1. n. [techspeak] The American National Standards Institute. ANSI,
-along with the International Organization for Standards (ISO), standardized
-the C programming language (see {K&R}, {Classic C}), and promulgates many
-other important software standards. 2. n. [techspeak] A terminal may be said
-to be `ANSI' if it meets the ANSI X.364 standard for terminal control.
-Unfortunately, this standard was both over-complicated and too permissive. It
-has been retired and replaced by the ECMA-48 standard, which shares both
-flaws. 3. n. [BBS jargon] The set of screen-painting codes that most MS-DOS
-and Amiga computers accept. This comes from the ANSI.SYS device driver that
-must be loaded on an MS-DOS computer to view such codes. Unfortunately,
-neither DOS ANSI nor the BBS ANSIs derived from it exactly match the ANSI
-X.364 terminal standard. For example, the ESC-[1m code turns on the bold
-highlight on large machines, but in IBM PC/MS-DOS ANSI, it turns on `intense'
-(bright) colors. Also, in BBS-land, the term `ANSI' is often used to imply
-that a particular computer uses or can emulate the IBM high-half character
-set from MS-DOS. Particular use depends on context. Occasionally, the vanilla
-ASCII character set is used with the color codes, but on BBSs, ANSI and `IBM
-characters' tend to go together. :ANSI standard: /an'see stan'd*rd/ The ANSI
-standard usage of `ANSI standard' refers to any practice which is typical or
-broadly done. It's most appropriately applied to things that everyone does
-that are not quite regulation. For example: ANSI standard shaking of a laser
-printer cartridge to get extra life from it, or the ANSI standard word
-tripling in names of usenet alt groups. :ANSI standard pizza: /an'see
-stan'd*rd peet'z*/ [CMU] Pepperoni and mushroom pizza. Coined allegedly
-because most pizzas ordered by
+ 1985, most customers had already made the traumatic decision to abandon the
+PDP-10, usually for VMS or Unix boxes. Most of the Mars computers built ended
+up being purchased by CompuServe. This tale and the related saga of {Foonly}
+hold a lesson for hackers: if you want to play in the {Real World}, you need
+to learn Real World moves. :martian: n. A packet sent on a TCP/IP network
+with a source address of the test loopback interface [127.0.0.1]. This means
+that it will come back labeled with a source address that is clearly not of
+this earth. "The domain server is getting lots of packets from Mars. Does
+that gateway have a martian filter?" Compare {Christmas tree packet},
+{Godzillagram}. :massage: vt. [common] Vague term used to describe `smooth'
+transformations of a data set into a different form, esp. transformations
+that do not lose information. Connotes less pain than {munch} or {crunch}.
+"He wrote a program that massages X bitmap files into GIF format." Compare
+{slurp}. :math-out: n. [poss. from `white-out' (the blizzard variety)] A
+paper or presentation so encrusted with mathematical or other formal notation
+as to be incomprehensible. This may be a device for concealing the fact that
+it is actually {content-free}. see also {numbers}, {social science number}.
+:Matrix: n. [FidoNet] 1. What the Opus BBS software and sysops call
+{FidoNet}. 2. Fanciful term for a {cyberspace} expected to emerge from
+current networking experiments (see {the network}). The name of the rather
+good 1999 {cypherpunk} movie "The Matrix" played on this sense, which however
+had been established for years before. 3. The totality of present-day
+computer networks (popularized in this sense by John Quarterman; rare outside
+academic literature). :maximum Maytag mode: n. What a {washing machine} or,
+by extension, any disk drive is in when it's being used so heavily that it's
+shaking like an old Maytag with an unbalanced load. If prolonged for any
+length of time, can lead to disks becoming {walking drives}. In 1999 it's
+been some years since hard disks were large enough to do this, but the same
+phenomenon has recently been reported with 24X CD-ROM drives. :meatspace:
+/meet'spays/ n. The physical world, where the meat lives - as opposed to
+{cyberspace}. Hackers are actually more willing to use this term than
+`cyberspace', because it's not speculative - we already have a running
+meatspace implementation (the universe). Compare {RL}. :meatware: n. Synonym
+for {wetware}. Less common. :meeces: /mees'*z/ n. [TMRC] Occasional furry
+visitors who are not {urchin}s. [That is, mice. This may no longer be in live
+use; it clearly derives from the refrain of the early-1960s cartoon character
+Mr. Jinx: "I hate meeces to _pieces_!" -- ESR] :meg: /meg/ n. see
+{{quantifiers}}. :mega-: /me'g*/ pref. [SI] see {{quantifiers}}. :megapenny:
+/meg'*-pen`ee/ n. $10,000 (1 cent * 10^6). Used semi-humorously as a unit in
+comparing computer cost and performance figures. :MEGO: /me'goh/ or /mee'goh/
+[`My Eyes Glaze Over', often `Mine Eyes Glazeth (sic) Over', attributed to
+the futurologist Herman Kahn] Also `MEGO factor'. 1. n. A {handwave} intended
+to confuse the listener and hopefully induce agreement because the listener
+does not want to admit to not understanding what is going on. MEGO is usually
+directed at senior management by engineers and contains a high proportion of
+{TLA}s. 2. excl. An appropriate response to MEGO tactics. 3. Among
+non-hackers, often refers not to behavior that causes the eyes to glaze, but
+to the eye-glazing reaction itself, which may be triggered by the mere threat
+of technical detail as effectively as by an actual excess of it. :meltdown,
+network: n. see {network meltdown}. :meme: /meem/ n. [coined by analogy with
+`gene', by Richard Dawkins] An idea considered as a {replicator}, esp. with
+the connotation that memes parasitize people into propagating them much as
+viruses do. Used esp. in the phrase `meme complex' denoting a group of
+mutually supporting memes that form an organized belief system, such as a
+religion. This lexicon is an (epidemiological) vector of the `hacker
+subculture' meme complex; each entry might be considered a meme. However,
+`meme' is often misused to mean `meme complex'. Use of the term connotes
+acceptance of the idea that in humans (and presumably other tool- and
+language-using sophonts) cultural evolution by selection of adaptive ideas
+has superseded biological evolution by selection of hereditary traits.
+Hackers find this idea congenial for tolerably obvious reasons. :meme plague:
+n. The spread of a successful but pernicious {meme}, esp. one that
+parasitizes the victims into giving their all to propagate it. Astrology,
+BASIC, and the other guy's religion are often considered to be examples. This
+usage is given point by the historical fact that `joiner' ideologies like
+Naziism or various forms of millennarian Christianity have exhibited
+plague-like cycles of exponential growth followed by collapses to small
+reservoir populations. :memetics: /me-met'iks/ n. [from {meme}] The study of
+memes. As of early 1999, this is still an extremely informal and speculative
+endeavor, though the first steps towards at least statistical rigor have been
+made by H. Keith Henson and others. Memetics is a popular topic for
+speculation among hackers, who like to see themselves as the architects of
+the new information ecologies in which memes live and replicate. :memory
+farts: n. The flatulent sounds that some DOS box BIOSes (most notably AMI's)
+make when checking memory on bootup. :memory leak: n. An error in a program's
+dynamic-store allocation logic that causes it to fail to reclaim discarded
+memory, leading to eventual collapse due to memory exhaustion. Also (esp. at
+CMU) called {core leak}. These problems were severe on older machines with
+small, fixed-size address spaces, and special "leak detection" tools were
+commonly written to root them out. With the advent of virtual memory, it is
+unfortunately easier to be sloppy about wasting a bit of memory (although
+when you run out of memory on a VM machine, it means you've got a _real_
+leak!). see {aliasing bug}, {fandango on core}, {smash the stack},
+{precedence lossage}, {overrun screw}, {leaky heap}, {leak}. :memory smash:
+n. [XEROX PARC] Writing through a pointer that doesn't point to what you
+think it does. This occasionally reduces your machine to a rubble of bits.
+Note that this is subtly different from (and more general than) related terms
+such as a {memory leak} or {fandango on core} because it doesn't imply an
+allocation error or overrun condition. :menuitis: /men`yoo-i:'tis/ n.
+Notional disease suffered by software with an obsessively simple-minded menu
+interface and no escape. Hackers find this intensely irritating and much
+prefer the flexibility of command-line or language-style interfaces,
+especially those customizable via macros or a special-purpose language in
+which one can encode useful hacks. see {user-obsequious}, {drool-proof
+paper}, {WIMP environment}, {for the rest of us}. :mess-dos: /mes-dos/ n.
+[semi-obsolescent now that DOS is] Derisory term for MS-DOS. Often followed
+by the ritual banishing "Just say No!" see {{MS-DOS}}. Most hackers (even
+many MS-DOS hackers) loathed MS-DOS for its single-tasking nature, its limits
+on application size, its nasty primitive interface, and its ties to IBMness
+and Microsoftness (see {fear and loathing}). Also `mess-loss', `messy-dos',
+`mess-dog', `mess-dross', `mush-dos', and various combinations thereof. In
+Ireland and the U.K. it is even sometimes called `Domestos' after a brand of
+toilet cleanser. :meta: /me't*/ or /may't*/ or (Commonwealth) /mee't*/
+adj.,pref. [from analytic philosophy] One level of description up. A
+metasyntactic variable is a variable in notation used to describe syntax, and
+meta-language is language used to describe language. This is difficult to
+explain briefly, but much hacker humor turns on deliberate confusion between
+meta-levels. see {{hacker humor}}. :meta bit: n. The top bit of an 8-bit
+character, which is on in character values 128-255. Also called {high bit},
+{alt bit}, or (rarely) {hobbit}. Some terminals and consoles (see
+{space-cadet keyboard}) have a META shift key. Others (including, _mirabile
+dictu_, keyboards on IBM PC-class machines) have an ALT key. see also {bucky
+bits}. Historical note: although in modern usage shaped by a universe of

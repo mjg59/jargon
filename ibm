@@ -1,147 +1,115 @@
- 3.[techspeak] A subset of a standard used for a particular purpose. This
-sense confuses hackers who wander into the weird world of ISO standards no
-end! :progasm: /proh'gaz-m/ n. [University of Wisconsin] The euphoria
-experienced upon the completion of a program or other computer-related
-project. :proggy: n. 1. Any computer program that is considered a full
-application. 2. Any computer program that is made up of or otherwise contains
-{proglet}s. 3. Any computer program that is large enough to be normally
-distributed as an RPM or {tarball}. :proglet: /prog'let/ n. [UK] A short
-extempore program written to meet an immediate, transient need. Often written
-in BASIC, rarely more than a dozen lines long, and containing no subroutines.
-The largest amount of code that can be written off the top of one's head,
-that does not need any editing, and that runs correctly the first time (this
-amount varies significantly according to one's skill and the language one is
-using). Compare {toy program}, {noddy}, {one-liner wars}. :program: n. 1. A
-magic spell cast over a computer allowing it to turn one's input into error
-messages. 2. An exercise in experimental epistemology. 3. A form of art,
-ostensibly intended for the instruction of computers, which is nevertheless
-almost inevitably a failure if other programmers can't understand it.
-:Programmer's Cheer: "Shift to the left! Shift to the right! Pop up, push
-down! Byte! Byte! Byte!" A joke so old it has hair on it. :programming: n. 1.
-The art of debugging a blank sheet of paper (or, in these days of on-line
-editing, the art of debugging an empty file). "Bloody instructions which,
-being taught, return to plague their inventor" ("Macbeth", Act 1, Scene 7) 2.
-A pastime similar to banging one's head against a wall, but with fewer
-opportunities for reward. 3. The most fun you can have with your clothes on.
-4. The least fun you can have with your clothes off. :programming fluid: n.
-1. Coffee. 2. Cola. 3. Any caffeinacious stimulant. Many hackers consider
-these essential for those all-night hacking runs. see {wirewater}. :propeller
-head: n. Used by hackers, this is syn. with {computer geek}. Non-hackers
-sometimes use it to describe all techies. Prob. derives from SF fandom's
-tradition (originally invented by old-time fan Ray Faraday Nelson) of
-propeller beanies as fannish insignia (though nobody actually wears them
-except as a joke). :propeller key: n. [Mac users] see {feature key}.
-:proprietary: adj. 1. In {marketroid}-speak, superior; implies a product
-imbued with exclusive magic by the unmatched brilliance of the company's own
-hardware or software designers. 2. In the language of hackers and users,
-inferior; implies a product not conforming to open-systems standards, and
-thus one that puts the customer at the mercy of a vendor able to gouge freely
-on service and upgrade charges after the initial sale has locked the customer
-in. Often in the phrase "proprietary crap". 3. Synonym for closed-source,
-e.g. software issued in binary without source and under a restructive
-license. Since the coining of the term {open source}, many hackers have made
-a conscious effort to distinguish between `proprietary' and `commercial'
-software. It is possible for software to be commercial (that is, intended to
-make a profit for the producers) without being proprietary. The reverse is
-also possible, for example in binary-only freeware. :protocol: n. As used by
-hackers, this never refers to niceties about the proper form for addressing
-letters to the Papal Nuncio or the order in which one should use the forks in
-a Russian-style place setting; hackers don't care about such things. It is
-used instead to describe any set of rules that allow different machines or
-pieces of software to coordinate with each other without ambiguity. So, for
-example, it does include niceties about the proper form for addressing
-packets on a network or the order in which one should use the forks in the
-Dining Philosophers Problem. It implies that there is some common message
-format and an accepted set of primitives or commands that all parties
-involved understand, and that transactions among them follow predictable
-logical sequences. see also {handshaking}, {do protocol}. :provocative
-maintenance: n. [common ironic mutation of `preventive maintenance'] Actions
-performed upon a machine at regularly scheduled intervals to ensure that the
-system remains in a usable state. So called because it is all too often
-performed by a {field servoid} who doesn't know what he is doing; such
-`maintenance' often _induces_ problems, or otherwise results in the machine's
-remaining in an _un_usable state for an indeterminate amount of time. see
-also {scratch monkey}. :prowler: n. [Unix] A {daemon} that is run
-periodically (typically once a week) to seek out and erase {core} files,
-truncate administrative logfiles, nuke `lost+found' directories, and
-otherwise clean up the {cruft} that tends to pile up in the corners of a file
-system. see also {GFR}, {reaper}, {skulker}. :pseudo: /soo'doh/ n. [Usenet:
-truncation of `pseudonym'] 1. An electronic-mail or {Usenet} persona adopted
-by a human for amusement value or as a means of avoiding negative
-repercussions of one's net.behavior; a `nom de Usenet', often associated with
-forged postings designed to conceal message origins. Perhaps the best-known
-and funniest hoax of this type is {B1FF}. see also {tentacle}. 2. Notionally,
-a {flamage}-generating AI program simulating a Usenet user. Many flamers have
-been accused of actually being such entities, despite the fact that no AI
-program of the required sophistication yet exists. However, in 1989 there was
-a famous series of forged postings that used a phrase-frequency-based
-travesty generator to simulate the styles of several well-known flamers; it
-was based on large samples of their back postings (compare {Dissociated
-Press}). A significant number of people were fooled by the forgeries, and the
-debate over their authenticity was settled only when the perpetrator came
-forward to publicly admit the hoax. :pseudoprime: n. A backgammon prime (six
-consecutive occupied points) with one point missing. This term is an esoteric
-pun derived from number theory: a number that passes a certain kind of
-"primality test" may be called a `pseudoprime' (all primes pass any such
-test, but so do some composite numbers), and any number that passes several
-is, in some sense, almost certainly prime. The hacker backgammon usage stems
-from the idea that a pseudoprime is almost as good as a prime: it will do the
-same job unless you are unlucky. :pseudosuit: /soo'doh-s[y]oot`/ n. A {suit}
-wannabee; a hacker who has decided that he wants to be in management or
-administration and begins wearing ties, sport coats, and (shudder!) suits
-voluntarily. It's his funeral. see also {lobotomy}. :psychedelicware:
-/si:`k*-del'-ik-weir/ n. [UK] Syn. {display hack}. see also {smoking clover}.
-:psyton: /si:'ton/ n. [TMRC] The elementary particle carrying the sinister
-force. The probability of a process losing is proportional to the number of
-psytons falling on it. Psytons are generated by observers, which is why demos
-are more likely to fail when lots of people are watching. [This term appears
-to have been largely superseded by {bogon}; see also {quantum bogodynamics}.
---ESR] :pubic directory: /pyoob'ik d*-rek't*-ree/) n. [NYU] (also `pube
-directory' /pyoob' d*-rek't*-ree/) The `pub' (public) directory on a machine
-that allows {FTP} access. So called because it is the default location for
-{SEX} (sense 1). "I'll have the source in the pube directory by Friday."
-:puff: vt. To decompress data that has been crunched by Huffman coding. At
-least one widely distributed Huffman decoder program was actually _named_
-`PUFF', but these days it is usually packaged with the encoder. Oppose
-{huff}, see {inflate}. :pumpkin holder: n. see {patch pumpkin}. :pumpking: n.
-Syn. for {pumpkin holder}; see {patch pumpkin}. :punched card:: n.obs.
-[techspeak] (alt. `punch card') The signature medium of computing's {Stone
-Age}, now obsolescent outside of some IBM shops. The punched card actually
-predated computers considerably, originating in 1801 as a control device for
-mechanical looms. The version patented by Hollerith and used with mechanical
-tabulating machines in the 1890 U.S. Census was a piece of cardboard about 90
-mm by 215 mm. There is a widespread myth that it was designed to fit in the
-currency trays used for that era's larger dollar bills, but recent
-investigations have falsified this. IBM (which originated as a
-tabulating-machine manufacturer) married the punched card to computers,
-encoding binary information as patterns of small rectangular holes; one
-character per column, 80 columns per card. Other coding schemes, sizes of
-card, and hole shapes were tried at various times. The 80-column width of
-most character terminals is a legacy of the IBM punched card; so is the size
-of the quick-reference cards distributed with many varieties of computers
-even today. see {chad}, {chad box}, {eighty-column mind}, {green card},
-{dusty deck}, {lace card}, {card walloper}. :punt: v. [from the punch line of
-an old joke referring to American football: "Drop back 15 yards and punt!"]
-1. To give up, typically without any intention of retrying. "Let's punt the
-movie tonight." "I was going to hack all night to get this feature in, but I
-decided to punt" may mean that you've decided not to stay up all night, and
-may also mean you're not ever even going to put in the feature. 2. More
-specifically, to give up on figuring out what the {Right Thing} is and resort
-to an inefficient hack. 3. A design decision to defer solving a problem,
-typically because one cannot define what is desirable sufficiently well to
-frame an algorithmic solution. "No way to know what the right form to dump
-the graph in is -- we'll punt that for now." 4. To hand a tricky
-implementation problem off to some other section of the design. "It's too
-hard to get the compiler to do that; let's punt to the runtime system." 5. To
-knock someone off an Internet or chat connection; a `punter' thus, is a
-person or program that does this. :Purple Book: n. 1. The "System V Interface
-Definition". The covers of the first editions were an amazingly nauseating
-shade of off-lavender. 2. Syn. {Wizard Book}. Donald Lewine's "POSIX
-Programmer's Guide" (O'Reilly, 1991, ISBN 0-937175-73-0). see also {{book
-titles}}. :purple wire: n. [IBM] Wire installed by Field Engineers to work
-around problems discovered during testing or debugging. These are called
-`purple wires' even when (as is frequently the case) their actual physical
-color is yellow.... Compare {blue wire}, {yellow wire}, and {red wire}.
-:push: [from the operation that puts the current information on a stack, and
-the fact that procedure return addresses are saved on a stack] (Also PUSH
-/push/ or PUSHJ /push'J/, the latter based on the
+ 1000000) character. see {ASCII} for other synonyms. :stubroutine:
+/stuhb'roo-teen/ n. [contraction of `stub subroutine'] Tiny, often vacuous
+placeholder for a subroutine that is to be written or fleshed out later.
+:studly: adj. Impressive; powerful. Said of code and designs which exhibit
+both complexity and a virtuoso flair. Has connotations similar to {hairy} but
+is more positive in tone. Often in the emphatic `most studly' or as noun-form
+`studliness'. "Smail 3.0's configuration parser is most studly." :studlycaps:
+/stuhd'lee-kaps/ n. A hackish form of silliness similar to {BiCapitalization}
+for trademarks, but applied randomly and to arbitrary text rather than to
+trademarks. ThE oRigiN and SigNificaNce of thIs pRacTicE iS oBscuRe.
+:stunning: adj. Mind-bogglingly stupid. Usually used in sarcasm. "You want to
+code _what_ in ADA? That's a ... stunning idea!" :stupid-sort: n. Syn.
+{bogo-sort}. :Stupids: n. Term used by {samurai} for the {suit}s who employ
+them; succinctly expresses an attitude at least as common, though usually
+better disguised, among other subcultures of hackers. There may be intended
+reference here to an SF story originally published in 1952 but much
+anthologized since, Mark Clifton's "Star, Bright". In it, a super-genius
+child classifies humans into a very few `Brights' like herself, a huge
+majority of `Stupids', and a minority of `Tweens', the merely ordinary
+geniuses. :Sturgeon's Law: prov. "Ninety percent of everything is crap".
+Derived from a quote by science fiction author Theodore Sturgeon, who once
+said, "Sure, 90% of science fiction is crud. That's because 90% of everything
+is crud." Oddly, when Sturgeon's Law is cited, the final word is almost
+invariably changed to `crap'. Compare {Hanlon's Razor}, {Ninety-Ninety Rule}.
+Though this maxim originated in SF fandom, most hackers recognize it and are
+all too aware of its truth. :sucking mud: adj. [Applied Data Research] (also
+`pumping mud') Crashed or {wedged}. Usually said of a machine that provides
+some service to a network, such as a file server. This Dallas regionalism
+derives from the East Texas oilfield lament, "Shut 'er down, Ma, she's
+a-suckin' mud". Often used as a query. "We are going to reconfigure the
+network, are you ready to suck mud?" :sufficiently small: adj. Syn. {suitably
+small}. :suit: n. 1. Ugly and uncomfortable `business clothing' often worn by
+non-hackers. Invariably worn with a `tie', a strangulation device that
+partially cuts off the blood supply to the brain. It is thought that this
+explains much about the behavior of suit-wearers. Compare {droid}. 2. A
+person who habitually wears suits, as distinct from a techie or hacker. see
+{pointy-haired}, {burble}, {management}, {Stupids}, {SNAFU principle}, {PHB},
+and {brain-damaged}. :suitable win: n. see {win}. :suitably small: adj.
+[perverted from mathematical jargon] An expression used ironically to
+characterize unquantifiable behavior that differs from expected or required
+behavior. For example, suppose a newly created program came up with a correct
+full-screen display, and one publicly exclaimed: "It works!" Then, if the
+program dumped core on the first mouse click, one might add: "Well, for
+suitably small values of `works'." Compare the characterization of pi under
+{{random numbers}}. :Sun: n. Sun Microsystems. Hackers remember that the name
+was originally an acronym, Stanford University Network. Sun started out
+around 1980 with some hardware hackers (mainly) from Stanford talking to some
+software hackers (mainly) from UC Berkeley; Sun's original technology concept
+married a clever board design based on the Motorola 68000 to {BSD} Unix. Sun
+went on to lead the worstation industry through the 1980s, and for years
+afterwards remained an engineering-driven company and a good place for
+hackers to work. Though Sun drifted away from its techie origins after 1990
+and has since made some strategic moves that disappointed and annoyed many
+hackers (especially by maintaining proprietary control of Java and rejecting
+Linux), it's still considered within the family in much the same way {DEC}
+was in the 1970s and early 1980s. :sun lounge: n. [UK] The room where all the
+Sun workstations live. The humor in this term comes from the fact that it's
+also in mainstream use to describe a solarium, and all those Sun workstations
+clustered together give off an amazing amount of heat. :sun-stools: n.
+Unflattering hackerism for SunTools, a pre-X windowing environment notorious
+in its day for size, slowness, and misfeatures. {X}, however, is larger and
+(some claim) slower; see {second-system effect}. :sunspots: n. 1. Notional
+cause of an odd error. "Why did the program suddenly turn the screen blue?"
+"Sunspots, I guess." 2. Also the cause of {bit rot} -- from the myth that
+sunspots will increase {cosmic rays}, which can flip single bits in memory.
+see also {phase of the moon}. :super source quench: n. A special packet
+designed to shut up an Internet host. The Internet Protocol (IP) has a
+control message called Source Quench that asks a host to transmit more slowly
+on a particular connection to avoid congestion. It also has a Redirect
+control message intended to instruct a host to send certain packets to a
+different local router. A "super source quench" is actually a redirect
+control packet, forged to look like it came from a local router, that
+instructs a host to send all packets to its own local loopback address. This
+will effectively tie many Internet hosts up in knots. Compare {Godzillagram},
+{breath-of-life packet}. :superloser: n. [Unix] A superuser with no clue -
+someone with root privileges on a Unix system and no idea what he/she is
+doing, the moral equivalent of a three-year-old with an unsafetied Uzi.
+Anyone who thinks this is an uncommon situation reckons without the
+territorial urges of {management}. :superprogrammer: n. A prolific
+programmer; one who can code exceedingly well and quickly. Not all hackers
+are superprogrammers, but many are. (Productivity can vary from one
+programmer to another by three orders of magnitude. For example, one
+programmer might be able to write an average of 3 lines of working code in
+one day, while another, with the proper tools, might be able to write 3,000.
+This range is astonishing; it is matched in very few other areas of human
+endeavor.) The term `superprogrammer' is more commonly used within such
+places as IBM than in the hacker community. It tends to stress naive measures
+of productivity and to underweight creativity, ingenuity, and getting the job
+_done_ -- and to sidestep the question of whether the 3,000 lines of code do
+more or less useful work than three lines that do the {Right Thing}. Hackers
+tend to prefer the terms {hacker} and {wizard}. :superuser: n. [Unix] Syn.
+{root}, {avatar}. This usage has spread to non-Unix environments; the
+superuser is any account with all {wheel} bits on. A more specific term than
+{wheel}. :support: n. After-sale handholding; something many software vendors
+promise but few deliver. To hackers, most support people are useless --
+because by the time a hacker calls support he or she will usually know the
+software and the relevant manuals better than the support people (sadly, this
+is _not_ a joke or exaggeration). A hacker's idea of `support' is a
+te^te-a`-te^te with the software's designer. :surf: v. [from the `surf' idiom
+for rapidly flipping TV channels] To traverse the Internet in search of
+interesting stuff, used esp. if one is doing so with a World Wide Web
+browser. It is also common to speak of `surfing in' to a particular resource.
+Hackers adopted this term early, but many have stopped using it since it went
+completely mainstream around 1995. The passive, couch-potato connotations
+that go with TV channel surfing were never pleasant, and hearing non-hackers
+wax enthusiastic about "surfing the net" tends to make hackers feel a bit as
+though their home is being overrun by ignorami. :Suzie COBOL: /soo'zee
+koh'bol/ 1. [IBM: prob. from Frank Zappa's `Suzy Creamcheese'] n. A coder
+straight out of training school who knows everything except the value of
+comments in plain English. Also (fashionable among personkind wishing to
+avoid accusations of sexism) `Sammy Cobol' or (in some non-IBM circles)
+`Cobol Charlie'. 2. [proposed] Meta-name for any {code grinder}, analogous to
+{J. Random Hacker}. :swab: /swob/ [From the mnemonic for the PDP-11 `SWAp
+Byte' instruction, as immortalized in the `dd(1)' option `conv=swab' (see
+{dd})] 1. vt. To solve the {NUXI problem} by swapping bytes in a file.

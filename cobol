@@ -1,75 +1,52 @@
- HP/Apollo to fix security problems in its Unix-{clone} Aegis/DomainOS (they
-didn't change a thing). {ITS} fans, on the other hand, say it was coined
-years earlier in opposition to the incredibly paranoid {Multics} people down
-the hall, for whom security was everything. In the ITS culture it referred to
-(1) the fact that by the time a tourist figured out how to make trouble he'd
-generally gotten over the urge to make it, because he felt part of the
-community; and (2) (self-mockingly) the poor coverage of the documentation
-and obscurity of many commands. One instance of _deliberate_ security through
-obscurity is recorded; the command to allow patching the running ITS system
-(escape escape control-R) echoed as $$^D. If you actually typed alt alt ^D,
-that set a flag that would prevent patching the system even if you later got
-it right. :SED: /S-E-D/ n. [TMRC, from `Light-Emitting Diode'] Smoke-emitting
-diode. A {friode} that lost the war. see also {LER}. :segfault: n.,vi. Syn.
-{segment}, {segmentation fault}. :seggie: /seg'ee/ n. [Unix] Shorthand for
-{segmentation fault} reported from Britain. :segment: /seg'ment/ vi. To
-experience a {segmentation fault}. Confusingly, this is often pronounced more
-like the noun `segment' than like mainstream v. segment; this is because it
-is actually a noun shorthand that has been verbed. :segmentation fault: n.
-[Unix] 1. [techspeak] An error in which a running program attempts to access
-memory not allocated to it and {core dump}s with a segmentation violation
-error. This is often caused by improper usage of pointers in the source code,
-dereferencing a null pointer, or (in C) inadvertently using a non-pointer
-variable as a pointer. The classic example is: int i; scanf ("%d", i); /*
-should have used &i */ 2. To lose a train of thought or a line of reasoning.
-Also uttered as an exclamation at the point of befuddlement. :segv: /seg'vee/
-n.,vi. Yet another synonym for {segmentation fault} (actually, in this case,
-`segmentation violation'). :self-reference: n. see {self-reference}.
-:selvage: /sel'v*j/ n. [from sewing and weaving] see {chad} (sense 1). :semi:
-/se'mee/ or /se'mi:/ 1. n. Abbreviation for `semicolon', when speaking.
-"Commands to {grind} are prefixed by semi-semi-star" means that the prefix is
-`;;*', not 1/4 of a star. 2. A prefix used with words such as `immediately'
-as a qualifier. "When is the system coming up?" "Semi-immediately." (That is,
-maybe not for an hour.) "We did consider that possibility semi-seriously."
-see also {infinite}. :semi-automated: adj. [US Geological Survey] A procedure
-that has yet to be completely automated; it still requires a smidge of
-clueful human interaction. Semi-automated programs usually come with
-written-out operator instructions that are worth their weight in gold -
-without them, very nasty things can happen. At USGS semi-automated programs
-are often referred to as "semi-automated weapons". :semi-infinite: n. see
-{infinite}. :senior bit: n. [IBM; rare] Syn. {meta bit}. :September that
-never ended: All time since September 1993. One of the seasonal rhythms of
-the Usenet used to be the annual September influx of clueless newbies who,
-lacking any sense of {netiquette}, made a general nuisance of themselves.
-This coincided with people starting college, getting their first internet
-accounts, and plunging in without bothering to learn what was acceptable.
-These relatively small drafts of newbies could be assimilated within a few
-months. But in September 1993, AOL users became able to post to Usenet,
-nearly overwhelming the old-timers' capacity to acculturate them; to those
-who nostalgically recall the period before hand, this triggered an inexorable
-decline in the quality of discussions on newsgroups. see also {AOL!}.
-:server: n. A kind of {daemon} that performs a service for the requester and
-which often runs on a computer other than the one on which the server runs. A
-particularly common term on the Internet, which is rife with `web servers',
-`name servers', `domain servers', `news servers', `finger servers', and the
-like. :SEX: /seks/ [Sun Users' Group & elsewhere] n. 1. Software EXchange. A
-technique invented by the blue-green algae hundreds of millions of years ago
-to speed up their evolution, which had been terribly slow up until then.
-Today, SEX parties are popular among hackers and others (of course, these are
-no longer limited to exchanges of genetic software). In general, SEX parties
-are a {Good Thing}, but unprotected SEX can propagate a {virus}. see also
-{pubic directory}. 2. The rather Freudian mnemonic often used for Sign
-EXtend, a machine instruction found in the PDP-11 and many other
-architectures. The RCA 1802 chip used in the early Elf and SuperElf personal
-computers had a `SEt X register' SEX instruction, but this seems to have had
-little folkloric impact. The Data General instruction set also had `SEX'.
-{DEC}'s engineers nearly got a PDP-11 assembler that used the `SEX' mnemonic
-out the door at one time, but (for once) marketing wasn't asleep and forced a
-change. That wasn't the last time this happened, either. The author of "The
-Intel 8086 Primer", who was one of the original designers of the 8086, noted
-that there was originally a `SEX' instruction on that processor, too. He says
-that Intel management got cold feet and decreed that it be changed, and thus
-the instruction was renamed `CBW' and `CWD' (depending on what was being
+ 2. To lose a train of thought or a line of reasoning. Also uttered as an
+exclamation at the point of befuddlement. :segv: /seg'vee/ n.,vi. Yet another
+synonym for {segmentation fault} (actually, in this case, `segmentation
+violation'). :self-reference: n. see {self-reference}. :selvage: /sel'v*j/ n.
+[from sewing and weaving] see {chad} (sense 1). :semi: /se'mee/ or /se'mi:/
+1. n. Abbreviation for `semicolon', when speaking. "Commands to {grind} are
+prefixed by semi-semi-star" means that the prefix is `;;*', not 1/4 of a
+star. 2. A prefix used with words such as `immediately' as a qualifier. "When
+is the system coming up?" "Semi-immediately." (That is, maybe not for an
+hour.) "We did consider that possibility semi-seriously." see also
+{infinite}. :semi-automated: adj. [US Geological Survey] A procedure that has
+yet to be completely automated; it still requires a smidge of clueful human
+interaction. Semi-automated programs usually come with written-out operator
+instructions that are worth their weight in gold - without them, very nasty
+things can happen. At USGS semi-automated programs are often referred to as
+"semi-automated weapons". :semi-infinite: n. see {infinite}. :senior bit: n.
+[IBM; rare] Syn. {meta bit}. :September that never ended: All time since
+September 1993. One of the seasonal rhythms of the Usenet used to be the
+annual September influx of clueless newbies who, lacking any sense of
+{netiquette}, made a general nuisance of themselves. This coincided with
+people starting college, getting their first internet accounts, and plunging
+in without bothering to learn what was acceptable. These relatively small
+drafts of newbies could be assimilated within a few months. But in September
+1993, AOL users became able to post to Usenet, nearly overwhelming the
+old-timers' capacity to acculturate them; to those who nostalgically recall
+the period before hand, this triggered an inexorable decline in the quality
+of discussions on newsgroups. see also {AOL!}. :server: n. A kind of {daemon}
+that performs a service for the requester and which often runs on a computer
+other than the one on which the server runs. A particularly common term on
+the Internet, which is rife with `web servers', `name servers', `domain
+servers', `news servers', `finger servers', and the like. :SEX: /seks/ [Sun
+Users' Group & elsewhere] n. 1. Software EXchange. A technique invented by
+the blue-green algae hundreds of millions of years ago to speed up their
+evolution, which had been terribly slow up until then. Today, SEX parties are
+popular among hackers and others (of course, these are no longer limited to
+exchanges of genetic software). In general, SEX parties are a {Good Thing},
+but unprotected SEX can propagate a {virus}. see also {pubic directory}. 2.
+The rather Freudian mnemonic often used for Sign EXtend, a machine
+instruction found in the PDP-11 and many other architectures. The RCA 1802
+chip used in the early Elf and SuperElf personal computers had a `SEt X
+register' SEX instruction, but this seems to have had little folkloric
+impact. The Data General instruction set also had `SEX'. {DEC}'s engineers
+nearly got a PDP-11 assembler that used the `SEX' mnemonic out the door at
+one time, but (for once) marketing wasn't asleep and forced a change. That
+wasn't the last time this happened, either. The author of "The Intel 8086
+Primer", who was one of the original designers of the 8086, noted that there
+was originally a `SEX' instruction on that processor, too. He says that Intel
+management got cold feet and decreed that it be changed, and thus the
+instruction was renamed `CBW' and `CWD' (depending on what was being
 extended). Amusingly, the Intel 8048 (the microcontroller used in IBM PC
 keyboards) is also missing straight `SEX' but has logical-or and logical-and
 instructions `ORL' and `ANL'. The Motorola 6809, used in the Radio Shack
@@ -278,22 +255,23 @@ site was mentioned in an interesting article on the popular Slashdot
 (http://slashdot.org/) news service. The term is quite widely used by /.
 readers, including variants like "That site has been slashdotted again!" 2.
 In a perhaps inevitable generation, the term is being used to describe any
-similar effect from being listed on a popular site. :sleep: vi. 1.
-[techspeak] To relinquish a claim (of a process on a multitasking system) for
-service; to indicate to the scheduler that a process may be deactivated until
-some given event occurs or a specified time delay elapses. 2. In jargon, used
-very similarly to v. {block}; also in `sleep on', syn. with `block on'. Often
-used to indicate that the speaker has relinquished a demand for resources
-until some (possibly unspecified) external event: "They can't get the fix
-I've been asking for into the next release, so I'm going to sleep on it until
-the release, then start hassling them again." :slim: n. A small, derivative
-change (e.g., to code). :slop: n. 1. A one-sided {fudge factor}, that is, an
-allowance for error but in only one of two directions. For example, if you
-need a piece of wire 10 feet long and have to guess when you cut it, you make
-very sure to cut it too long, by a large amount if necessary, rather than too
-short by even a little bit, because you can always cut off the slop but you
-can't paste it back on again. When discrete quantities are involved, slop is
-often introduced to avoid the possibility of being on the losing side of a
+similar effect from being listed on a popular site. This would better be
+described as a {flash crowd}. :sleep: vi. 1. [techspeak] To relinquish a
+claim (of a process on a multitasking system) for service; to indicate to the
+scheduler that a process may be deactivated until some given event occurs or
+a specified time delay elapses. 2. In jargon, used very similarly to v.
+{block}; also in `sleep on', syn. with `block on'. Often used to indicate
+that the speaker has relinquished a demand for resources until some (possibly
+unspecified) external event: "They can't get the fix I've been asking for
+into the next release, so I'm going to sleep on it until the release, then
+start hassling them again." :slim: n. A small, derivative change (e.g., to
+code). :slop: n. 1. A one-sided {fudge factor}, that is, an allowance for
+error but in only one of two directions. For example, if you need a piece of
+wire 10 feet long and have to guess when you cut it, you make very sure to
+cut it too long, by a large amount if necessary, rather than too short by
+even a little bit, because you can always cut off the slop but you can't
+paste it back on again. When discrete quantities are involved, slop is often
+introduced to avoid the possibility of being on the losing side of a
 {fencepost error}. 2. The percentage of `extra' code generated by a compiler
 over the size of equivalent assembler code produced by {hand-hacking}; i.e.,
 the space (or maybe time) you lose because you didn't do it yourself. This
@@ -307,9 +285,9 @@ else has `had its fill' of machine resources. Only when the machine would
 otherwise be idle is the task allowed to `suck up the slop'. Also called a
 `hungry puppy' or `bottom feeder'. One common variety of slopsucker hunts for
 large prime numbers. Compare {background}. :Slowlaris: /slo'-lahr-is/ n.
-[Usenet; poss. from the variety of sloth called a "slow loris". The variant
-`Slowlartus' is also common, related to {LART}] Common hackish term for
-Solaris, Sun's System VR4 version of UNIX that came out of the
+[Usenet; poss. from the variety of prosimian called a "slow loris". The
+variant `Slowlartus' is also common, related to {LART}] Common hackish term
+for Solaris, Sun's System VR4 version of UNIX that came out of the
 standardization wars of the early 1990s. So named because especially on older
 hardware, responsiveness was much less crisp than under the preceding SunOS.
 Early releases of Solaris (that is, Solaris 2, as some {marketroid}s at Sun
@@ -387,105 +365,118 @@ around the perimeter of a large square. The color map is then repeatedly
 rotated. This results in a striking, rainbow-hued, shimmering four-leaf
 clover. Gosper joked about keeping it hidden from the FDA (the U.S.'s Food
 and Drug Administration) lest its hallucinogenic properties cause it to be
-banned. :SMOP: /S-M-O-P/ n. [Simple (or Small) Matter of Programming] 1. A
-piece of code, not yet written, whose anticipated length is significantly
-greater than its complexity. Used to refer to a program that could obviously
-be written, but is not worth the trouble. Also used ironically to imply that
-a difficult problem can be easily solved because a program can be written to
-do it; the irony is that it is very clear that writing such a program will be
-a great deal of work. "It's easy to enhance a FORTRAN compiler to compile
-COBOL as well; it's just an SMOP." 2. Often used ironically by the intended
-victim when a suggestion for a program is made which seems easy to the
-suggester, but is obviously (to the victim) a lot of work. :smurf: /smerf/ n.
-[from the soc.motss newsgroup on Usenet, after some obnoxiously gooey cartoon
-characters] A newsgroup regular with a habitual style that is irreverent,
-silly, and cute. Like many other hackish terms for people, this one may be
-praise or insult depending on who uses it. In general, being referred to as a
-smurf is probably not going to make your day unless you've previously adopted
-the label yourself in a spirit of irony. Compare {old fart}. :SNAFU
-principle: /sna'foo prin'si-pl/ n. [from a WWII Army acronym for `Situation
-Normal, All Fucked Up'] "True communication is possible only between equals,
-because inferiors are more consistently rewarded for telling their superiors
-pleasant lies than for telling the truth." -- a central tenet of
-{Discordianism}, often invoked by hackers to explain why authoritarian
-hierarchies screw up so reliably and systematically. The effect of the SNAFU
-principle is a progressive disconnection of decision-makers from reality.
-This lightly adapted version of a fable dating back to the early 1960s
-illustrates the phenomenon perfectly: In the beginning was the plan, and then
-the specification; And the plan was without form, and the specification was
-void. And darkness was on the faces of the implementors thereof; And they
-spake unto their leader, saying: "It is a crock of shit, and smells as of a
-sewer." And the leader took pity on them, and spoke to the project leader:
-"It is a crock of excrement, and none may abide the odor thereof." And the
-project leader spake unto his section head, saying: "It is a container of
-excrement, and it is very strong, such that none may abide it." The section
-head then hurried to his department manager, and informed him thus: "It is a
-vessel of fertilizer, and none may abide its strength." The department
-manager carried these words to his general manager, and spoke unto him
-saying: "It containeth that which aideth the growth of plants, and it is very
-strong." And so it was that the general manager rejoiced and delivered the
-good news unto the Vice President. "It promoteth growth, and it is very
-powerful." The Vice President rushed to the President's side, and joyously
-exclaimed: "This powerful new software product will promote the growth of the
-company!" And the President looked upon the product, and saw that it was very
-good. After the subsequent and inevitable disaster, the {suit}s protect
-themselves by saying "I was misinformed!", and the implementors are demoted
-or fired. Compare {Conway's Law}. :snail: vt. To {snail-mail} something.
-"Snail me a copy of those graphics, will you?" :snail-mail: n. Paper mail, as
-opposed to electronic. Sometimes written as the single word `SnailMail'.
-One's postal address is, correspondingly, a `snail address'. Derives from
-earlier coinage `USnail' (from `U.S. Mail'), for which there have even been
-parody posters and stamps made. Also (less commonly) called `P-mail', from
-`paper mail' or `physical mail'. Oppose {email}. :snap: v. To replace a
-pointer to a pointer with a direct pointer; to replace an old address with
-the forwarding address found there. If you telephone the main number for an
-institution and ask for a particular person by name, the operator may tell
-you that person's extension before connecting you, in the hopes that you will
-`snap your pointer' and dial direct next time. The underlying metaphor may be
-that of a rubber band stretched through a number of intermediate points; if
-you remove all the thumbtacks in the middle, it snaps into a straight line
-from first to last. see {chase pointers}. Often, the behavior of a
-{trampoline} is to perform an error check once and then snap the pointer that
-invoked it so as henceforth to bypass the trampoline (and its one-shot error
-check). In this context one also speaks of `snapping links'. For example, in
-a LISP implementation, a function interface trampoline might check to make
-sure that the caller is passing the correct number of arguments; if it is,
-and if the caller and the callee are both compiled, then snapping the link
-allows that particular path to use a direct procedure-call instruction with
-no further overhead. :snarf: /snarf/ vt. 1. To grab, esp. to grab a large
-document or file for the purpose of using it with or without the author's
-permission. see also {BLT}. 2. [in the Unix community] To fetch a file or set
-of files across a network. see also {blast}. This term was mainstream in the
-late 1960s, meaning `to eat piggishly'. It may still have this connotation in
-context. "He's in the snarfing phase of hacking -- {FTP}ing megs of stuff a
-day." 3. To acquire, with little concern for legal forms or politesse (but
-not quite by stealing). "They were giving away samples, so I snarfed a bunch
-of them." 4. Syn. for {slurp}. "This program starts by snarfing the entire
-database into core, then...." 5. [GEnie] To spray food or {programming
-fluid}s due to laughing at the wrong moment. "I was drinking coffee, and when
-I read your post I snarfed all over my desk." "If I keep reading this topic,
-I think I'll have to snarf-proof my computer with a keyboard {condom}." [This
-sense appears to be widespread among mundane teenagers --ESR] :snarf & barf:
-/snarf'n-barf`/ n. Under a {WIMP environment}, the act of grabbing a region
-of text and then stuffing the contents of that region into another region (or
-the same one) to avoid retyping a command line. In the late 1960s, this was a
-mainstream expression for an `eat now, regret it later' cheap-restaurant
-expedition. :snarf down: v. To {snarf}, with the connotation of absorbing,
-processing, or understanding. "I'll snarf down the latest version of the
-{nethack} user's guide -- it's been a while since I played last and I don't
-know what's changed recently." :snark: n. [Lewis Carroll, via the Michigan
-Terminal System] 1. A system failure. When a user's process bombed, the
-operator would get the message "Help, Help, Snark in MTS!" 2. More generally,
-any kind of unexplained or threatening event on a computer (especially if it
-might be a boojum). Often used to refer to an event or a log file entry that
-might indicate an attempted security violation. see {snivitz}. 3. UUCP name
-of snark.thyrsus.com, home site of the Jargon File versions from 2.*.* on
-(i.e., this lexicon). :sneaker: n. An individual hired to break into places
-in order to test their security; analogous to {tiger team}. Compare
-{samurai}. :sneakernet: /snee'ker-net/ n. Term used (generally with ironic
-intent) for transfer of electronic information by physically carrying tape,
-disks, or some other media from one machine to another. "Never underestimate
-the bandwidth of a station wagon filled with magtape, or a 747 filled with
+banned. :smoot: /smoot/ n. [MIT] A unit of length equal five feet seven
+inches. The length of the Harvard Bridge in Boston is famously 364.4 smoots
+plus or minus an ear (the ear stands for {epsilon}). This legend began with a
+fraternity prank in 1958 during which the body length of Oliver Smoot (class
+of '62) was actually used to measure out that distance. It is commemorated by
+smoot marks that MIT students repaint every few years; the tradition even
+survived the demolition and rebuilding of the bridge in the late 1980s. The
+Boston police have been known to use smoot markers to indicate accident
+locations on the bridge. :SMOP: /S-M-O-P/ n. [Simple (or Small) Matter of
+Programming] 1. A piece of code, not yet written, whose anticipated length is
+significantly greater than its complexity. Used to refer to a program that
+could obviously be written, but is not worth the trouble. Also used
+ironically to imply that a difficult problem can be easily solved because a
+program can be written to do it; the irony is that it is very clear that
+writing such a program will be a great deal of work. "It's easy to enhance a
+FORTRAN compiler to compile COBOL as well; it's just an SMOP." 2. Often used
+ironically by the intended victim when a suggestion for a program is made
+which seems easy to the suggester, but is obviously (to the victim) a lot of
+work. :smurf: /smerf/ n. 1. [from the soc.motss newsgroup on Usenet, after
+some obnoxiously gooey cartoon characters] A newsgroup regular with a
+habitual style that is irreverent, silly, and cute. Like many other hackish
+terms for people, this one may be praise or insult depending on who uses it.
+In general, being referred to as a smurf is probably not going to make your
+day unless you've previously adopted the label yourself in a spirit of irony.
+Compare {old fart}. 2. [techspeak] A ping packet with a forged source address
+sent to some other network's broadcast address. All the machines on the
+destination network will send a ping response to the forged source address
+(the victim). This both overloads the victim's network and hides the location
+of the attacker. :SNAFU principle: /sna'foo prin'si-pl/ n. [from a WWII Army
+acronym for `Situation Normal, All Fucked Up'] "True communication is
+possible only between equals, because inferiors are more consistently
+rewarded for telling their superiors pleasant lies than for telling the
+truth." -- a central tenet of {Discordianism}, often invoked by hackers to
+explain why authoritarian hierarchies screw up so reliably and
+systematically. The effect of the SNAFU principle is a progressive
+disconnection of decision-makers from reality. This lightly adapted version
+of a fable dating back to the early 1960s illustrates the phenomenon
+perfectly: In the beginning was the plan, and then the specification; And the
+plan was without form, and the specification was void. And darkness was on
+the faces of the implementors thereof; And they spake unto their leader,
+saying: "It is a crock of shit, and smells as of a sewer." And the leader
+took pity on them, and spoke to the project leader: "It is a crock of
+excrement, and none may abide the odor thereof." And the project leader spake
+unto his section head, saying: "It is a container of excrement, and it is
+very strong, such that none may abide it." The section head then hurried to
+his department manager, and informed him thus: "It is a vessel of fertilizer,
+and none may abide its strength." The department manager carried these words
+to his general manager, and spoke unto him saying: "It containeth that which
+aideth the growth of plants, and it is very strong." And so it was that the
+general manager rejoiced and delivered the good news unto the Vice President.
+"It promoteth growth, and it is very powerful." The Vice President rushed to
+the President's side, and joyously exclaimed: "This powerful new software
+product will promote the growth of the company!" And the President looked
+upon the product, and saw that it was very good. After the subsequent and
+inevitable disaster, the {suit}s protect themselves by saying "I was
+misinformed!", and the implementors are demoted or fired. Compare {Conway's
+Law}. :snail: vt. To {snail-mail} something. "Snail me a copy of those
+graphics, will you?" :snail-mail: n. Paper mail, as opposed to electronic.
+Sometimes written as the single word `SnailMail'. One's postal address is,
+correspondingly, a `snail address'. Derives from earlier coinage `USnail'
+(from `U.S. Mail'), for which there have even been parody posters and stamps
+made. Also (less commonly) called `P-mail', from `paper mail' or `physical
+mail'. Oppose {email}. :snap: v. To replace a pointer to a pointer with a
+direct pointer; to replace an old address with the forwarding address found
+there. If you telephone the main number for an institution and ask for a
+particular person by name, the operator may tell you that person's extension
+before connecting you, in the hopes that you will `snap your pointer' and
+dial direct next time. The underlying metaphor may be that of a rubber band
+stretched through a number of intermediate points; if you remove all the
+thumbtacks in the middle, it snaps into a straight line from first to last.
+see {chase pointers}. Often, the behavior of a {trampoline} is to perform an
+error check once and then snap the pointer that invoked it so as henceforth
+to bypass the trampoline (and its one-shot error check). In this context one
+also speaks of `snapping links'. For example, in a LISP implementation, a
+function interface trampoline might check to make sure that the caller is
+passing the correct number of arguments; if it is, and if the caller and the
+callee are both compiled, then snapping the link allows that particular path
+to use a direct procedure-call instruction with no further overhead. :snarf:
+/snarf/ vt. 1. To grab, esp. to grab a large document or file for the purpose
+of using it with or without the author's permission. see also {BLT}. 2. [in
+the Unix community] To fetch a file or set of files across a network. see
+also {blast}. This term was mainstream in the late 1960s, meaning `to eat
+piggishly'. It may still have this connotation in context. "He's in the
+snarfing phase of hacking -- {FTP}ing megs of stuff a day." 3. To acquire,
+with little concern for legal forms or politesse (but not quite by stealing).
+"They were giving away samples, so I snarfed a bunch of them." 4. Syn. for
+{slurp}. "This program starts by snarfing the entire database into core,
+then...." 5. [GEnie] To spray food or {programming fluid}s due to laughing at
+the wrong moment. "I was drinking coffee, and when I read your post I snarfed
+all over my desk." "If I keep reading this topic, I think I'll have to
+snarf-proof my computer with a keyboard {condom}." [This sense appears to be
+widespread among mundane teenagers --ESR] :snarf & barf: /snarf'n-barf`/ n.
+Under a {WIMP environment}, the act of grabbing a region of text and then
+stuffing the contents of that region into another region (or the same one) to
+avoid retyping a command line. In the late 1960s, this was a mainstream
+expression for an `eat now, regret it later' cheap-restaurant expedition.
+:snarf down: v. To {snarf}, with the connotation of absorbing, processing, or
+understanding. "I'll snarf down the latest version of the {nethack} user's
+guide -- it's been a while since I played last and I don't know what's
+changed recently." :snark: n. [Lewis Carroll, via the Michigan Terminal
+System] 1. A system failure. When a user's process bombed, the operator would
+get the message "Help, Help, Snark in MTS!" 2. More generally, any kind of
+unexplained or threatening event on a computer (especially if it might be a
+boojum). Often used to refer to an event or a log file entry that might
+indicate an attempted security violation. see {snivitz}. 3. UUCP name of
+snark.thyrsus.com, home site of the Jargon File versions from 2.*.* on (i.e.,
+this lexicon). :sneaker: n. An individual hired to break into places in order
+to test their security; analogous to {tiger team}. Compare {samurai}.
+:sneakernet: /snee'ker-net/ n. Term used (generally with ironic intent) for
+transfer of electronic information by physically carrying tape, disks, or
+some other media from one machine to another. "Never underestimate the
+bandwidth of a station wagon filled with magtape, or a 747 filled with
 CD-ROMs." Also called `Tennis-Net', `Armpit-Net', `Floppy-Net' or `Shoenet';
 in the 1990s, `Nike network' after a well-known sneaker brand. :sniff: v.,n.
 1. To watch IP packets traversing a local network. Most often in the phrase
@@ -538,51 +529,35 @@ kind. :software rot: n. Term used to describe the tendency of software that
 has not been used in a while to {lose}; such failure may be semi-humorously
 ascribed to {bit rot}. More commonly, `software rot' strikes when a program's
 assumptions become out of date. If the design was insufficiently {robust},
-this may cause it to fail in mysterious ways. For example, owing to endemic
-shortsightedness in the design of COBOL programs, most will succumb to
-software rot when their 2-digit year counters {wrap around} at the beginning
-of the year 2000. Actually, related lossages often afflict centenarians who
-have to deal with computer software designed by unimaginative clods. One such
-incident became the focus of a minor public flap in 1990, when a gentleman
-born in 1889 applied for a driver's license renewal in Raleigh, North
-Carolina. The new system refused to issue the card, probably because with
-2-digit years the ages 101 and 1 cannot be distinguished. Historical note:
-Software rot in an even funnier sense than the mythical one was a real
-problem on early research computers (e.g., the R1; see {grind crank}). If a
-program that depended on a peculiar instruction hadn't been run in quite a
-while, the user might discover that the opcodes no longer did the same things
-they once did. ("Hey, so-and-so needs an instruction to do such-and-such. We
-can {snarf} this opcode, right? No one uses it.") Another classic example of
-this sprang from the time an MIT hacker found a simple way to double the
-speed of the unconditional jump instruction on a PDP-6, so he patched the
-hardware. Unfortunately, this broke some fragile timing software in a
-music-playing program, throwing its output out of tune. This was fixed by
-adding a defensive initialization routine to compare the speed of a timing
-loop with the real-time clock; in other words, it figured out how fast the
-PDP-6 was that day, and corrected appropriately. Compare {bit rot}.
-:softwarily: /soft-weir'i-lee/ adv. In a way pertaining to software. "The
-system is softwarily unreliable." The adjective **`softwary' is _not_ used.
-see {hardwarily}. :softy: n. [IBM] Hardware hackers' term for a software
-expert who is largely ignorant of the mysteries of hardware. :some random X:
-adj. Used to indicate a member of class X, with the implication that Xs are
+this may cause it to fail in mysterious ways. Syn. `code rot'. see also {link
+rot}. For example, owing to endemic shortsightedness in the design of COBOL
+programs, a good number of them succumbed to software rot when their 2-digit
+year counters underwent {wrap around} at the beginning of the year 2000.
+Actually, related lossages often afflict centenarians who have to deal with
+computer software designed by unimaginative clods. One such incident became
+the focus of a minor public flap in 1990, when a gentleman born in 1889
+applied for a driver's license renewal in Raleigh, North Carolina. The new
+system refused to issue the card, probably because with 2-digit years the
+ages 101 and 1 cannot be distinguished. Historical note: Software rot in an
+even funnier sense than the mythical one was a real problem on early research
+computers (e.g., the R1; see {grind crank}). If a program that depended on a
+peculiar instruction hadn't been run in quite a while, the user might
+discover that the opcodes no longer did the same things they once did. ("Hey,
+so-and-so needs an instruction to do such-and-such. We can {snarf} this
+opcode, right? No one uses it.") Another classic example of this sprang from
+the time an MIT hacker found a simple way to double the speed of the
+unconditional jump instruction on a PDP-6, so he patched the hardware.
+Unfortunately, this broke some fragile timing software in a music-playing
+program, throwing its output out of tune. This was fixed by adding a
+defensive initialization routine to compare the speed of a timing loop with
+the real-time clock; in other words, it figured out how fast the PDP-6 was
+that day, and corrected appropriately. Compare {bit rot}. :softwarily:
+/soft-weir'i-lee/ adv. In a way pertaining to software. "The system is
+softwarily unreliable." The adjective **`softwary' is _not_ used. see
+{hardwarily}. :softy: n. [IBM] Hardware hackers' term for a software expert
+who is largely ignorant of the mysteries of hardware. :some random X: adj.
+Used to indicate a member of class X, with the implication that Xs are
 interchangeable. "I think some random cracker tripped over the guest timeout
 last night." see also {J. Random}. :sorcerer's apprentice mode: n. [from
 Goethe's "Der Zauberlehrling" via Paul Dukas's "L'apprenti sorcier" the film
-"Fantasia"] A bug in a protocol where, under some circumstances, the receipt
-of a message causes multiple messages to be sent, each of which, when
-received, triggers the same bug. Used esp. of such behavior caused by {bounce
-message} loops in {email} software. Compare {broadcast storm}, {network
-meltdown}, {software laser}, {ARMM}. :SOS: /S-O-S/ n.,obs. An infamously
-{losing} text editor. Once, back in the 1960s, when a text editor was needed
-for the PDP-6, a hacker crufted together a {quick-and-dirty} `stopgap editor'
-to be used until a better one was written. Unfortunately, the old one was
-never really discarded when new ones came along. SOS is a descendant (`Son of
-Stopgap') of that editor, and many PDP-10 users gained the dubious pleasure
-of its acquaintance. Since then other programs similar in style to SOS have
-been written, notably the early font editor BILOS /bye'lohs/, the
-Brother-In-Law Of Stopgap (the alternate expansion `Bastard Issue, Loins of
-Stopgap' has been proposed). :source of all good bits: n. A person from whom
-(or a place from which) useful information may be obtained. If you need to
-know about a program, a {guru} might be the source of all good bits. The
-title is often applied to a particularly competent secretary. :space-cadet
-keyboard: n. A now-legendary device used on MIT
+"Fantasia"]

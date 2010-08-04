@@ -1,4 +1,63 @@
- :xor: /X'or/, /kzor/ /conj./ Exclusive or. `A xor B' means `A or B, but not
-both'. "I want to get cherry pie xor a banana split." This derives from the
-technical use of the term as a function on truth-values that is true if
-exactly one of its two arguments is true.
+ GE's computer group, but it was never very successful: at its peak in the
+1980s, there were between 75 and 100 Multics sites, each a multi-million
+dollar mainframe. One of the former Multics developers from Bell Labs was Ken
+Thompson, and {Unix} deliberately carried through and extended many of
+Multics' design ideas; indeed, Thompson described the very name `Unix' as `a
+weak pun on Multics'. For this and other reasons, aspects of the Multics
+design remain a topic of occasional debate among hackers. see also
+{brain-damaged} and {GCOS}. MIT ended its development association with
+Multics in 1977. Honeywell sold its computer business to Bull in the mid 80s,
+and development on Multics was stopped in 1988. Four Multics sites were known
+to be still in use as late as 1998. There is a Multics page at
+`http://www.stratus.com/pub/vos/multics/tvv/multics.html'. :multitask: n.
+Often used of humans in the same meaning it has for computers, to describe a
+person doing several things at once (but see {thrash}). The term `multiplex',
+from communications technology (meaning to handle more than one channel at
+the same time), is used similarly. :mumblage: /muhm'bl*j/ n. The topic of
+one's mumbling (see {mumble}). "All that mumblage" is used like "all that
+stuff" when it is not quite clear how the subject of discussion works, or
+like "all that crap" when `mumble' is being used as an implicit replacement
+for pejoratives. :mumble: interj. 1. Said when the correct response is too
+complicated to enunciate, or the speaker has not thought it out. Often
+prefaces a longer answer, or indicates a general reluctance to get into a
+long discussion. "Don't you think that we could improve LISP performance by
+using a hybrid reference-count transaction garbage collector, if the cache is
+big enough and there are some extra cache bits for the microcode to use?"
+"Well, mumble ... I'll have to think about it." 2. [MIT] Expression of
+not-quite-articulated agreement, often used as an informal vote of consensus
+in a meeting: "So, shall we dike out the COBOL emulation?" "Mumble!" 3.
+Sometimes used as an expression of disagreement (distinguished from sense 2
+by tone of voice and other cues). "I think we should buy a {VAX}." "Mumble!"
+Common variant: `mumble frotz' (see {frotz}; interestingly, one does not say
+`mumble frobnitz' even though `frotz' is short for `frobnitz'). 4. Yet
+another {metasyntactic variable}, like {foo}. 5. When used as a question
+("Mumble?") means "I didn't understand you". 6. Sometimes used in `public'
+contexts on-line as a placefiller for things one is barred from giving
+details about. For example, a poster with pre-released hardware in his
+machine might say "Yup, my machine now has an extra 16M of memory, thanks to
+the card I'm testing for Mumbleco." 7. A conversational wild card used to
+designate something one doesn't want to bother spelling out, but which can be
+{glark}ed from context. Compare {blurgle}. 8. [XEROX PARC] A colloquialism
+used to suggest that further discussion would be fruitless. :munch: vt.
+[often confused with {mung}, q.v.] To transform information in a serial
+fashion, often requiring large amounts of computation. To trace down a data
+structure. Related to {crunch} and nearly synonymous with {grovel}, but
+connotes less pain. :munching: n. Exploration of security holes of someone
+else's computer for thrills, notoriety, or to annoy the system manager.
+Compare {cracker}. see also {hacked off}. :munching squares: n. A {display
+hack} dating back to the PDP-1 (ca. 1962, reportedly discovered by Jackson
+Wright), which employs a trivial computation (repeatedly plotting the graph Y
+= X XOR T for successive values of T -- see {HAKMEM} items 146-148) to
+produce an impressive display of moving and growing squares that devour the
+screen. The initial value of T is treated as a parameter, which, when
+well-chosen, can produce amazing effects. Some of these, later (re)discovered
+on the LISP machine, have been christened `munching triangles' (try AND for
+XOR and toggling points instead of plotting them), `munching w's', and
+`munching mazes'. More generally, suppose a graphics program produces an
+impressive and ever-changing display of some basic form, foo, on a display
+terminal, and does it using a relatively simple program; then the program (or
+the resulting display) is likely to be referred to as `munching foos'. [This
+is a good example of the use of the word {foo} as a {metasyntactic
+variable}.] :munchkin: /muhnch'kin/ n. [from the squeaky-voiced little people
+in L. Frank Baum's "The Wizard of Oz"] A teenage-or-younger micro enthusiast
+hacking BASIC or something else equally constricted.

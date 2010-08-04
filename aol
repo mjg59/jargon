@@ -1,6 +1,338 @@
- UUCP and {Usenet} `networks', plus the corporate in-house networks and
-commercial time-sharing services (such as CompuServe, GEnie and AOL) that
-gateway to them. A site is generally considered `on the network' if it can be
-reached through some combination of Internet-style (@-sign) and UUCP
-(bang-path) addresses. see {Internet}, {bang path}, {{Internet address}},
-{network address}.
+ A personal-part consists of either a first name or an initial followed by a
+dot. A name-part consists of either: a personal-part followed by a last name
+followed by an optional `jr-part' (Jr., Sr., or dynastic number) and
+end-of-line, or a personal part followed by a name part (this rule
+illustrates the use of recursion in BNFs, covering the case of people who use
+multiple first and middle names and/or initials). A street address consists
+of an optional apartment specifier, followed by a street number, followed by
+a street name. A zip-part consists of a town-name, followed by a comma,
+followed by a state code, followed by a ZIP-code followed by an end-of-line."
+Note that many things (such as the format of a personal-part, apartment
+specifier, or ZIP-code) are left unspecified. These are presumed to be
+obvious from context or detailed somewhere nearby. see also {parse}. 2. Any
+of a number of variants and extensions of BNF proper, possibly containing
+some or all of the {regexp} wildcards such as `*' or `+'. In fact the example
+above isn't the pure form invented for the Algol-60 report; it uses `[]',
+which was introduced a few years later in IBM's PL/I definition but is now
+universally recognized. 3. In {{science-fiction fandom}}, a `Big-Name Fan'
+(someone famous or notorious). Years ago a fan started handing out
+black-on-green BNF buttons at SF conventions; this confused the hacker
+contingent terribly. :boa: [IBM] n. Any one of the fat cables that lurk under
+the floor in a {dinosaur pen}. Possibly so called because they display a
+ferocious life of their own when you try to lay them straight and flat after
+they have been coiled for some time. It is rumored within IBM that channel
+cables for the 370 are limited to 200 feet because beyond that length the
+boas get dangerous -- and it is worth noting that one of the major cable
+makers uses the trademark `Anaconda'. :board: n. 1. In-context synonym for
+{bboard}; sometimes used even for Usenet newsgroups (but see usage note under
+{bboard}, sense 1). 2. An electronic circuit board. :boat anchor: n. [common;
+from ham radio] 1. Like {doorstop} but more severe; implies that the
+offending hardware is irreversibly dead or useless. "That was a working
+motherboard once. One lightning strike later, instant boat anchor!" 2. A
+person who just takes up space. 3. Obsolete but still working hardware,
+especially when used of an old S100-bus hobbyist system; originally a term of
+annoyance, but became more and more affectionate as the hardware became more
+and more obsolete. :bob: n. At Demon Internet (http://www.demon.net/), all
+tech support personnel are called "Bob". (Female support personnel have an
+option on "Bobette"). This has nothing to do with Bob the divine
+drilling-equipment salesman of the {Church of the SubGenius}. Nor is it
+acronymized from "Brother Of {BOFH}", though all parties agree it could have
+been. Rather, it was triggered by an unusually large draft of new
+tech-support people in 1995. It was observed that there would be much
+duplication of names. To ease the confusion, it was decided that all support
+techs would henceforth be known as "Bob", and identity badges were created
+labelled "Bob 1" and "Bob 2". ("No, we never got any further" reports a
+witness). The reason for "Bob" rather than anything else is due to a {luser}
+calling and asking to speak to "Bob", despite the fact that no "Bob" was
+currently working for Tech Support. Since we all know "the customer is always
+right", it was decided that there had to be at least one "Bob" on duty at all
+times, just in case. This sillyness inexorably snowballed. Shift leaders and
+managers began to refer to their groups of "bobs". Whole ranks of support
+machines were set up (and still exist in the DNS as of 1999) as bob1 through
+bobN. Then came alt.tech-support.recovery, and it was filled with Demon
+support personnel. They all referred to themselves, and to others, as `bob',
+and after a while it caught on. There is now a Bob Code
+(http://bob.bob.bofh.org/~giolla/bobcode.html) describing the Bob nature.
+:bodysurf code: n. A program or segment of code written quickly in the heat
+of inspiration without the benefit of formal design or deep thought. Like its
+namesake sport, the result is too often a wipeout that leaves the programmer
+eating sand. :BOF: /B-O-F/ or /bof/ n. 1. [common] Abbreviation for the
+phrase "Birds Of a Feather" (flocking together), an informal discussion group
+and/or bull session scheduled on a conference program. It is not clear where
+or when this term originated, but it is now associated with the USENIX
+conferences for Unix techies and was already established there by 1984. It
+was used earlier than that at DECUS conferences and is reported to have been
+common at SHARE meetings as far back as the early 1960s. 2. Acronym,
+`Beginning of File'. :BOFH: // n. [common] Acronym, Bastard Operator From
+Hell. A system administrator with absolutely no tolerance for {luser}s. "You
+say you need more filespace? <massive-global-delete> seems to me you have
+plenty left..." Many BOFHs (and others who would be BOFHs if they could get
+away with it) hang out in the newsgroup alt.sysadmin.recovery, although there
+has also been created a top-level newsgroup hierarchy (bofh.*) of their own.
+Several people have written stories about BOFHs. The set usually considered
+canonical is by Simon Travaglia and may be found at the Bastard Home Page
+(http://bofh.ntk.net/Bastard.html). BOFHs and BOFH wannabes hang out on
+{scary devil monastery} and wield {LART}s. :bogo-sort: /boh`goh-sort'/ n.
+(var. `stupid-sort') The archetypical perversely awful algorithm (as opposed
+to {bubble sort}, which is merely the generic _bad_ algorithm). Bogo-sort is
+equivalent to repeatedly throwing a deck of cards in the air, picking them up
+at random, and then testing whether they are in order. It serves as a sort of
+canonical example of awfulness. Looking at a program and seeing a dumb
+algorithm, one might say "Oh, I see, this program uses bogo-sort." Esp.
+appropriate for algorithms with factorial or super-exponential running time
+in the average case and probabilistically infinite worst-case running time.
+Compare {bogus}, {brute force}, {lasherism}. A spectacular variant of
+bogo-sort has been proposed which has the interesting property that, if the
+Many Worlds interpretation of quantum mechanics is true, it can sort an
+arbitrarily large array in constant time. (In the Many-Worlds model, the
+result of any quantum action is to split the universe-before into a sheaf of
+universes-after, one for each possible way the state vector can collapse; in
+any one of the universes-after the result appears random.) The steps are: 1.
+Permute the array randomly using a quantum process, 2. If the array is not
+sorted, destroy the universe. Implementation of step 2 is left as an exercise
+for the reader. :bogometer: /boh-gom'-*t-er/ n. A notional instrument for
+measuring {bogosity}. Compare the {Troll-O-Meter} and the `wankometer'
+described in the {wank} entry; see also {bogus}. :BogoMIPS: /bo'go-mips/ n.
+The number of million times a second a processor can do absolutely nothing.
+The {Linux} OS measures BogoMIPS at startup in order to calibrate some soft
+timing loops that will be used later on; details at the BogoMIPS mini-HOWTO
+(http://www.hobby.nl/~clifton). The name Linus chose, of course, is an ironic
+comment on the uselessness of all _other_ {MIPS} figures. :bogon: /boh'gon/
+n. [very common; by analogy with proton/electron/neutron, but doubtless
+reinforced after 1980 by the similarity to Douglas Adams's `Vogons'; see the
+{Bibliography} in Appendix C and note that Arthur Dent actually mispronounces
+`Vogons' as `Bogons' at one point] 1. The elementary particle of bogosity
+(see {quantum bogodynamics}). For instance, "the Ethernet is emitting bogons
+again" means that it is broken or acting in an erratic or bogus fashion. 2. A
+query packet sent from a TCP/IP domain resolver to a root server, having the
+reply bit set instead of the query bit. 3. Any bogus or incorrectly formed
+packet sent on a network. 4. By synecdoche, used to refer to any bogus thing,
+as in "I'd like to go to lunch with you but I've got to go to the weekly
+staff bogon". 5. A person who is bogus or who says bogus things. This was
+historically the original usage, but has been overtaken by its derivative
+senses 1-4. see also {bogosity}, {bogus}; compare {psyton}, {fat electrons},
+{magic smoke}. The bogon has become the type case for a whole bestiary of
+nonce particle names, including the `clutron' or `cluon' (indivisible
+particle of cluefulness, obviously the antiparticle of the bogon) and the
+futon (elementary particle of {randomness}, or sometimes of lameness). These
+are not so much live usages in themselves as examples of a live meta-usage:
+that is, it has become a standard joke or linguistic maneuver to "explain"
+otherwise mysterious circumstances by inventing nonce particle names. And
+these imply nonce particle theories, with all their dignity or lack thereof
+(we might note parenthetically that this is a generalization from "(bogus
+particle) theories" to "bogus (particle theories)"!). Perhaps such particles
+are the modern-day equivalents of trolls and wood-nymphs as standard
+starting-points around which to construct explanatory myths. Of course,
+playing on an existing word (as in the `futon') yields additional flavor.
+Compare {magic smoke}. :bogon filter: /boh'gon fil'tr/ n. Any device,
+software or hardware, that limits or suppresses the flow and/or emission of
+bogons. "Engineering hacked a bogon filter between the Cray and the VAXen,
+and now we're getting fewer dropped packets." see also {bogosity}, {bogus}.
+:bogon flux: /boh'gon fluhks/ n. A measure of a supposed field of {bogosity}
+emitted by a speaker, measured by a {bogometer}; as a speaker starts to
+wander into increasing bogosity a listener might say "Warning, warning, bogon
+flux is rising". see {quantum bogodynamics}. :bogosity: /boh-go's*-tee/ n. 1.
+[orig. CMU, now very common] The degree to which something is {bogus}.
+Bogosity is measured with a {bogometer}; in a seminar, when a speaker says
+something bogus, a listener might raise his hand and say "My bogometer just
+triggered". More extremely, "You just pinned my bogometer" means you just
+said or did something so outrageously bogus that it is off the scale, pinning
+the bogometer needle at the highest possible reading (one might also say "You
+just redlined my bogometer"). The agreed-upon unit of bogosity is the
+{microLenat}. 2. The potential field generated by a {bogon flux}; see
+{quantum bogodynamics}. see also {bogon flux}, {bogon filter}, {bogus}.
+:bogotify: /boh-go't*-fi:/ vt. To make or become bogus. A program that has
+been changed so many times as to become completely disorganized has become
+bogotified. If you tighten a nut too hard and strip the threads on the bolt,
+the bolt has become bogotified and you had better not use it any more. This
+coinage led to the notional `autobogotiphobia' defined as `the fear of
+becoming bogotified'; but is not clear that the latter has ever been `live'
+jargon rather than a self-conscious joke in jargon about jargon. see also
+{bogosity}, {bogus}. :bogue out: /bohg owt/ vi. To become bogus, suddenly and
+unexpectedly. "His talk was relatively sane until somebody asked him a trick
+question; then he bogued out and did nothing but {flame} afterwards." see
+also {bogosity}, {bogus}. :bogus: adj. 1. Non-functional. "Your patches are
+bogus." 2. Useless. "OPCON is a bogus program." 3. False. "Your arguments are
+bogus." 4. Incorrect. "That algorithm is bogus." 5. Unbelievable. "You claim
+to have solved the halting problem for Turing Machines? That's totally
+bogus." 6. Silly. "Stop writing those bogus sagas." Astrology is bogus. So is
+a bolt that is obviously about to break. So is someone who makes blatantly
+false claims to have solved a scientific problem. (This word seems to have
+some, but not all, of the connotations of {random} -- mostly the negative
+ones.) It is claimed that `bogus' was originally used in the hackish sense at
+Princeton in the late 1960s. It was spread to CMU and Yale by Michael Shamos,
+a migratory Princeton alumnus. A glossary of bogus words was compiled at Yale
+when the word was first popularized there about 1975-76. These coinages
+spread into hackerdom from CMU and MIT. Most of them remained wordplay
+objects rather than actual vocabulary items or live metaphors. Examples:
+`amboguous' (having multiple bogus interpretations); `bogotissimo' (in a
+gloriously bogus manner); `bogotophile' (one who is pathologically fascinated
+by the bogus); `paleobogology' (the study of primeval bogosity). Some
+bogowords, however, obtained sufficient live currency to be listed elsewhere
+in this lexicon; see {bogometer}, {bogon}, {bogotify}, and {quantum
+bogodynamics} and the related but unlisted {Dr. Fred Mbogo}. By the early
+1980s `bogus' was also current in something like hacker usage sense in West
+Coast teen slang, and it had gone mainstream by 1985. A correspondent from
+Cambridge reports, by contrast, that these uses of `bogus' grate on British
+nerves; in Britain the word means, rather specifically, `counterfeit', as in
+"a bogus 10-pound note". :Bohr bug: /bohr buhg/ n. [from quantum physics] A
+repeatable {bug}; one that manifests reliably under a possibly unknown but
+well-defined set of conditions. Antonym of {heisenbug}; see also {mandelbug},
+{schroedinbug}. :boink: /boynk/ [Usenet: variously ascribed to the TV series
+"Cheers" "Moonlighting", and "Soap"] 1. v. To have sex with; compare
+{bounce}, sense 3. (This is mainstream slang.) In Commonwealth hackish the
+variant `bonk' is more common. 2. n. After the original Peter Korn `Boinkon'
+{Usenet} parties, used for almost any net social gathering, e.g., Miniboink,
+a small boink held by Nancy Gillett in 1988; Minniboink, a Boinkcon in
+Minnesota in 1989; Humpdayboinks, Wednesday get-togethers held in the San
+Francisco Bay Area. Compare {@-party}. 3. Var of `bonk'; see {bonk/oif}.
+:bomb: 1. v. General synonym for {crash} (sense 1) except that it is not used
+as a noun; esp. used of software or OS failures. "Don't run Empire with less
+than 32K stack, it'll bomb." 2. n.,v. Atari ST and Macintosh equivalents of a
+Unix `panic' or Amiga {guru meditation}, in which icons of little
+black-powder bombs or mushroom clouds are displayed, indicating that the
+system has died. On the Mac, this may be accompanied by a decimal (or
+occasionally hexadecimal) number indicating what went wrong, similar to the
+Amiga {guru meditation} number. {{MS-DOS}} machines tend to get {locked up}
+in this situation. :bondage-and-discipline language: n. A language (such as
+{{Pascal}}, {{Ada}}, APL, or Prolog) that, though ostensibly general-purpose,
+is designed so as to enforce an author's theory of `right programming' even
+though said theory is demonstrably inadequate for systems hacking or even
+vanilla general-purpose programming. Often abbreviated `B&D'; thus, one may
+speak of things "having the B&D nature". see {{Pascal}}; oppose {languages of
+choice}. :bonk/oif: /bonk/, /oyf/ interj. In the U.S. {MUD} community, it has
+become traditional to express pique or censure by `bonking' the offending
+person. Convention holds that one should acknowledge a bonk by saying `oif!'
+and there is a myth to the effect that failing to do so upsets the cosmic
+bonk/oif balance, causing much trouble in the universe. Some MUDs have
+implemented special commands for bonking and oifing. Note: in parts of the
+U.K. `bonk' is a sexually loaded slang term; care is advised in transatlantic
+conversations (see {boink}). Commonwealth hackers report a similar convention
+involving the `fish/bang' balance. see also {talk mode}. :book titles:: There
+is a tradition in hackerdom of informally tagging important textbooks and
+standards documents with the dominant color of their covers or with some
+other conspicuous feature of the cover. Many of these are described in this
+lexicon under their own entries. see {Aluminum Book}, {Blue Book}, {Camel
+Book}, {Cinderella Book}, {Devil Book}, {Dragon Book}, {Green Book}, {Orange
+Book}, {Purple Book}, {Red Book}, {Silver Book}, {White Book}, {Wizard Book},
+{Yellow Book}, and {bible}; see also {rainbow series}. Since about 1983 this
+tradition has gotten a boost from the popular O'Reilly and Associates line of
+technical books, which usually feature some kind of exotic animal on the
+cover. :boot: v.,n. [techspeak; from `by one's bootstraps'] To load and
+initialize the operating system on a machine. This usage is no longer jargon
+(having passed into techspeak) but has given rise to some derivatives that
+are still jargon. The derivative `reboot' implies that the machine hasn't
+been down for long, or that the boot is a {bounce} (sense 4) intended to
+clear some state of {wedgitude}. This is sometimes used of human thought
+processes, as in the following exchange: "You've lost me." "OK, reboot.
+Here's the theory...." This term is also found in the variants `cold boot'
+(from power-off condition) and `warm boot' (with the CPU and all devices
+already powered up, as after a hardware reset or software crash). Another
+variant: `soft boot', reinitialization of only part of a system, under
+control of other software still running: "If you're running the {mess-dos}
+emulator, control-alt-insert will cause a soft-boot of the emulator, while
+leaving the rest of the system running." Opposed to this there is `hard
+boot', which connotes hostility towards or frustration with the machine being
+booted: "I'll have to hard-boot this losing Sun." "I recommend booting it
+hard." One often hard-boots by performing a {power cycle}. Historical note:
+this term derives from `bootstrap loader', a short program that was read in
+from cards or paper tape, or toggled in from the front panel switches. This
+program was always very short (great efforts were expended on making it short
+in order to minimize the labor and chance of error involved in toggling it
+in), but was just smart enough to read in a slightly more complex program
+(usually from a card or paper tape reader), to which it handed control; this
+program in turn was smart enough to read the application or operating system
+from a magnetic tape drive or disk drive. Thus, in successive steps, the
+computer `pulled itself up by its bootstraps' to a useful operating state.
+Nowadays the bootstrap is usually found in ROM or EPROM, and reads the first
+stage in from a fixed location on the disk, called the `boot block'. When
+this program gains control, it is powerful enough to load the actual OS and
+hand control over to it. :Borg: n. In "Star Trek: The Next Generation" the
+Borg is a species of cyborg that ruthlessly seeks to incorporate all sentient
+life into itself; their slogan is "You will be assimilated. Resistance is
+futile." In hacker parlance, the Borg is usually {Microsoft}, which is
+thought to be trying just as ruthlessly to assimilate all computers and the
+entire Internet to itself (there is a widely circulated image of Bill Gates
+as a Borg). Being forced to use Windows or NT is often referred to as being
+"Borged". Interestingly, the {Halloween Documents} reveal that this jargon is
+live within Microsoft itself. (Other companies, notably Intel and UUNet, have
+also occasionally been equated to the Borg.) see also {Evil Empire},
+{Internet Exploiter}. In IETF circles, where direct pressure from Microsoft
+is not a daily reality, the Borg is sometimes Cisco. This usage commemmorates
+their tendency to pay any price to hire talent away from their competitors.
+In fact, at the Spring 1997 IETF, a large number of ex-Cisco employees, all
+former members of Routing Geeks, showed up with t-shirts printed with
+"Recovering Borg". :borken: adj. (also `borked') Common deliberate typo for
+`broken'. :bot: n [common on IRC, MUD and among gamers; from `robot'] 1. An
+{IRC} or {MUD} user who is actually a program. On IRC, typically the robot
+provides some useful service. Examples are NickServ, which tries to prevent
+random users from adopting {nick}s already claimed by others, and MsgServ,
+which allows one to send asynchronous messages to be delivered when the
+recipient signs on. Also common are `annoybots', such as KissServ, which
+perform no useful function except to send cute messages to other people.
+Service bots are less common on MUDs; but some others, such as the `Julia'
+bot active in 1990-91, have been remarkably impressive Turing-test
+experiments, able to pass as human for as long as ten or fifteen minutes of
+conversation. 2. An AI-controlled player in a computer game (especially a
+first-person shooter such as Quake) which, unlike ordinary monsters, operates
+like a human-controlled player, with access to a player's weapons and
+abilities. An example can be found at `http://www.telefragged.com/thefatal/'.
+3. Term used, though less commonly, for a web {spider}. The file for
+controlling spider behavior on your site is officially the "Robots Exclusion
+File" and its URL is "http://<somehost>/robots.txt") Note that bots in all
+senses were `robots' when the terms first appeared in the early 1990s, but
+the shortened form is now habitual. :bot spot: n. [MUD] The user on a MUD
+with the longest connect time. Derives from the fact that {bot}s on MUDS
+often stay constantly connected and appear at the bottom of the list. :bottom
+feeder: n. 1. An Internet user that leeches off ISPs - the sort you can never
+provide good enough services for, always complains about the price, no matter
+how low it may be, and will bolt off to another service the moment there is
+even the slimmest price difference. While most bottom feeders infest free or
+almost free services such as AOL, MSN, and Hotmail, too many flock to
+whomever happens to be the cheapest regional ISP at the time. Bottom feeders
+are often the classic problem user, known for unleashing spam, flamage, and
+other breaches of {netiquette}. 2. Syn. for {slopsucker}, derived from the
+fishermen's and naturalists' term for finny creatures who subsist on the
+primordial ooze. (This sense is older.) :bottom-up implementation: n. Hackish
+opposite of the techspeak term `top-down design'. It has been received wisdom
+in most programming cultures that it is best to design from higher levels of
+abstraction down to lower, specifying sequences of action in increasing
+detail until you get to actual code. Hackers often find (especially in
+exploratory designs that cannot be closely specified in advance) that it
+works best to _build_ things in the opposite order, by writing and testing a
+clean set of primitive operations and then knitting them together. Naively
+applied, this leads to hacked-together bottom-up implementations; a more
+sophisticated response is `middle-out implementation', in which scratch code
+within primitives at the mid-level of the system is gradually replaced with a
+more polished version of the lowest level at the same time the structure
+above the midlevel is being built. :bounce: v. 1. [common; perhaps by analogy
+to a bouncing check] An electronic mail message that is undeliverable and
+returns an error notification to the sender is said to `bounce'. see also
+{bounce message}. 2. [Stanford] To play volleyball. The now-demolished {D. C.
+Power Lab} building used by the Stanford AI Lab in the 1970s had a volleyball
+court on the front lawn. From 5 P.M. to 7 P.M. was the scheduled maintenance
+time for the computer, so every afternoon at 5 would come over the intercom
+the cry: "Now hear this: bounce, bounce!", followed by Brian McCune loudly
+bouncing a volleyball on the floor outside the offices of known
+volleyballers. 3. To engage in sexual intercourse; prob. from the expression
+`bouncing the mattress', but influenced by Roo's psychosexually loaded "Try
+bouncing me, Tigger!" from the "Winnie-the-Pooh" books. Compare {boink}. 4.
+To casually reboot a system in order to clear up a transient problem.
+Reported primarily among {VMS} and {Unix} users. 5. [VM/CMS programmers]
+_Automatic_ warm-start of a machine after an error. "I logged on this morning
+and found it had bounced 7 times during the night" 6. [IBM] To {power cycle}
+a peripheral in order to reset it. :bounce message: n. [common] Notification
+message returned to sender by a site unable to relay {email} to the intended
+{{Internet address}} recipient or the next link in a {bang path} (see
+{bounce}, sense 1). Reasons might include a nonexistent or misspelled
+username or a {down} relay site. Bounce messages can themselves fail, with
+occasionally ugly results; see {sorcerer's apprentice mode} and {software
+laser}. The terms `bounce mail' and `barfmail' are also common.
+:boustrophedon: n. [from a Greek word for turning like an ox while plowing]
+An ancient method of writing using alternate left-to-right and right-to-left
+lines. This term is actually philologists' techspeak and typesetters' jargon.
+Erudite hackers use it for an optimization performed by some computer
+typesetting software and moving-head printers. The adverbial form
+`boustrophedonically' is also found (hackers purely love constructions like
+this). :box: n. 1. A computer; esp. in the construction `foo box' where foo
+is some functional qualifier, like `graphics', or the name of an
