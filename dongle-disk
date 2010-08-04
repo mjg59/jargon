@@ -1,3 +1,6 @@
- DONGLE-DISK /don'g@l disk/ n. see DONGLE; a DONGLE-DISK is a floppy disk
-with some coding which allows an application to identify it uniquely. It can
-therefore be used as a DONGLE. Also called a "key disk".
+ :dongle-disk: /don'gl disk/ n. see {dongle}; a `dongle-disk' is a floppy
+disk which is required in order to perform some task. Some contain special
+coding that allows an application to identify it uniquely, others *are*
+special code that does something that normally-resident programs don't or
+can't. (For example, AT&T's "Unix PC" would only come up in {root mode} with
+a special boot disk.) Also called a `key disk'.

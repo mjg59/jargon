@@ -1,3 +1,10 @@
- SNARF & BARF /snarf-n-barf/ n. The act of grabbing a region of text using a
-WIMP (q.v.) environment and then stuffing the contents of that region into
-another region or into the same region, to avoid re-typing a command line.
+ :snarf: /snarf/ vt. 1. To grab, esp. to grab a large document or file for
+the purpose of using it with or without the author's permission. see also
+{BLT}. 2. [in the UNIX community] To fetch a file or set of files across a
+network. see also {blast}. This term was mainstream in the late 1960s,
+meaning `to eat piggishly'. It may still have this connotation in context.
+"He's in the snarfing phase of hacking --- {FTP}ing megs of stuff a day." 3.
+To acquire, with little concern for legal forms or politesse (but not quite
+by stealing). "They were giving away samples, so I snarfed a bunch of them."
+4. Syn. for {slurp}. "This program starts by snarfing the entire database
+into core, then...."

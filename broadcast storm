@@ -1,4 +1,3 @@
- BROADCAST STORM n. An incorrect packet broadcast on a network that causes
+ :broadcast storm: n. An incorrect packet broadcast on a network that causes
 most hosts to respond all at once, typically with wrong answers that start
-the process over again. Also called NETWORK MELTDOWN. see also CHERNOBYL
-PACKET.
+the process over again. see {network meltdown}.

@@ -1,3 +1,7 @@
- CROSS-POST [USENET] v. To post a single article directed to several
+ :cross-post: [USENET] vi. To post a single article simultaneously to several
 newsgroups. Distinguished from posting the article repeatedly, once to each
-newsgroup, which causes people to see it multiple times.
+newsgroup, which causes people to see it multiple times (this is very bad
+form). Gratuitous cross-posting without a Followup-To line directing
+responses to a single followup group is frowned upon, as it tends to cause
+{followup} articles to go to inappropriate newsgroups when people respond to
+only one part of the original posting.

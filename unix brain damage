@@ -1,0 +1,11 @@
+ :UNIX brain damage: n. Something that has to be done to break a network
+program (typically a mailer) on a non-UNIX system so that it will
+interoperate with UNIX systems. The hack may qualify as `UNIX brain damage'
+if the program conforms to published standards and the UNIX program in
+question does not. UNIX brain damage happens because it is much easier for
+other (minority) systems to change their ways to match non-conforming
+behavior than it is to change all the hundreds of thousands of UNIX systems
+out there. An example of UNIX brain damage is a {kluge} in a mail server to
+recognize bare line feed (the UNIX newline) as an equivalent form to the
+Internet standard newline, which is a carriage return followed by a line
+feed. Such things can make even a hardened {jock} weep.

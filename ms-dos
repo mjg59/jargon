@@ -1,14 +1,17 @@
- MS-DOS: /em-es-dos/ [MicroSoft Disk Operating System] n. A {clone} of {CP/M}
-for the 8088 crufted together in six weeks by hacker Tim Paterson, who is
-said to have regretted it ever since. Numerous features including vaguely
+ :MS-DOS:: /M-S-dos/ [MicroSoft Disk Operating System] n. A {clone} of
+{{CP/M}} for the 8088 crufted together in 6 weeks by hacker Tim Paterson, who
+is said to have regretted it ever since. Numerous features, including vaguely
 UNIX-like but rather broken support for subdirectories, I/O redirection, and
-pipelines were hacked into 2.0 and subsequent versions; as a result, there
-are two incompatible versions of many system calls, and MS-DOS programmers
-can never agree on basic things like what character to use as an option
-switch or whether to be case-sensitive. The resulting mess is now the
+pipelines, were hacked into 2.0 and subsequent versions; as a result, there
+are two or more incompatible versions of many system calls, and MS-DOS
+programmers can never agree on basic things like what character to use as an
+option switch or whether to be case-sensitive. The resulting mess is now the
 highest-unit-volume OS in history. Often known simply as DOS, which annoys
 people familiar with other similarly abbreviated operating systems (the name
 goes back to the mid-1960s, when it was attached to IBM's first disk
-operating system for the 360). Some people like to pronounce DOS like "dose",
-as in "I don't work on dose, man!", or to compare it with a dose of
-brain-damaging drugs. see {mess-dos}, {ill-behaved}.
+operating system for the 360). The name further annoys those who know what
+the term {operating system} does (or ought to) connote; DOS is more properly
+a set of relatively simple interrupt services. Some people like to pronounce
+DOS like "dose", as in "I don't work on dose, man!", or to compare it to a
+dose of brain-damaging drugs (a slogan button in wide circulation among
+hackers exhorts: "MS-DOS: Just say No!"). see {mess-dos}, {ill-behaved}.

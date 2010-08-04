@@ -1,8 +1,10 @@
- DISPLAY HACK n. A program with the same approximate purpose as a
-kaleidoscope: to make pretty pictures. Famous display hacks include MUNCHING
-SQUARES, SMOKING CLOVER, the BSD UNIX rain(6) program, worms(6) on
-miscellaneous UNIXes, and the X kaleid program. Display hacks can also be
-implemented without programming by creating text files containing numerous
+ :display hack: n. A program with the same approximate purpose as a
+kaleidoscope: to make pretty pictures. Famous display hacks include {munching
+squares}, {smoking clover}, the BSD UNIX `rain(6)' program, `worms(6)' on
+miscellaneous UNIXes, and the {X} `kaleid(1)' program. Display hacks can also
+be implemented without programming by creating text files containing numerous
 escape sequences for interpretation by a video terminal; one notable example
-displayed, on any VT100, a christmas tree with twinkling lights and a toy
-train circling its base.
+displayed, on any VT100, a Christmas tree with twinkling lights and a toy
+train circling its base. The {hack value} of a display hack is proportional
+to the esthetic value of the images times the cleverness of the algorithm
+divided by the size of the code. Syn. {psychedelicware}.

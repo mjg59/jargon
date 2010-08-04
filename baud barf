@@ -1,7 +1,7 @@
- BAUD BARF /bawd barf/ n. The garbage one gets on the monitor when using a
+ :baud barf: /bawd barf/ n. The garbage one gets on the monitor when using a
 modem connection with some protocol setting (esp. line speed) incorrect, or
 when someone picks up a voice extension on the same line, or when really bad
-line noise disrupts the connection. Baud barf is not completely RANDOM, by
+line noise disrupts the connection. Baud barf is not completely {random}, by
 the way; hackers with a lot of serial-line experience can usually tell
 whether the device at the other end is expecting a higher or lower speed than
 the terminal is set to. *Really* experienced ones can identify particular

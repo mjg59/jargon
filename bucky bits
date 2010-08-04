@@ -1,8 +1,15 @@
- BUCKY BITS /buh'kee bits/ [primarily Stanford] n. The bits produced by the
-CTRL and META shift keys, esp. on a Stanford (or Knight) keyboard (see
-SPACE-CADET KEYBOARD). It is rumored that these were in fact named for
-Buckminster Fuller during a period when he was consulting at Stanford.
-Unfortunately, legend also has it that "Bucky" was Niklaus Wirth's nickname
-when *he* was consulting at Stanford and that he first suggested the idea of
-the meta key, so its bit was named after him. see DOUBLE BUCKY, QUADRUPLE
-BUCKY.
+ :bucky bits: /buh'kee bits/ n. 1. obs. The bits produced by the CONTROL and
+META shift keys on a SAIL keyboard (octal 200 and 400 respectively),
+resulting in a 9-bit keyboard character set. The MIT AI TV (Knight) keyboards
+extended this with TOP and separate left and right CONTROL and META keys,
+resulting in a 12-bit character set; later, LISP Machines added such keys as
+SUPER, HYPER, and GREEK (see {space-cadet keyboard}). 2. By extension, bits
+associated with `extra' shift keys on any keyboard, e.g., the ALT on an IBM
+PC or command and option keys on a Macintosh. It is rumored that `bucky bits'
+were named for Buckminster Fuller during a period when he was consulting at
+Stanford. Actually, `Bucky' was Niklaus Wirth's nickname when *he* was at
+Stanford; he first suggested the idea of an EDIT key to set the 8th bit of an
+otherwise 7-bit ASCII character. This was used in a number of editors written
+at Stanford or in its environs (TV-EDIT and NLS being the best-known). The
+term spread to MIT and CMU early and is now in general use. see {double
+bucky}, {quadruple bucky}.

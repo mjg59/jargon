@@ -1,10 +1,22 @@
- OBFUSCATED C CONTEST n. Annual contest run since 1984 over THE NETWORK by
-Landon Curt Noll & friends. The overall winner is he who produces the most
-unreadable, creative and bizarre working C program; various other prizes are
-awarded at the judges' whim. Given C's terse syntax and macro-preprocessor
-facilities, this gives contestants a lot of maneuvering room. The winning
-programs often manage to be simultaneously a) funny, b) breathtaking works of
-art, and c) Horrible Examples of how *not* to code in C. This relatively
-short and sweet entry might help convey the flavor of obfuscated C:
-main(v,c)char**c;{for(v[c++]="Hello, world!\n)";(!!c)[*c]&&
-(v--||--c&&execlp(*c,*c,c[!!c]+!!c,!c));**c=!c)write(!!*c,*c, !!**c);}
+ :Obfuscated C Contest: n. An annual contest run since 1984 over USENET by
+Landon Curt Noll and friends. The overall winner is whoever produces the most
+unreadable, creative, and bizarre (but working) C program; various other
+prizes are awarded at the judges' whim. C's terse syntax and
+macro-preprocessor facilities give contestants a lot of maneuvering room. The
+winning programs often manage to be simultaneously (a) funny, (b)
+breathtaking works of art, and (c) horrible examples of how *not* to code in
+C. This relatively short and sweet entry might help convey the flavor of
+obfuscated C: /* * HELLO WORLD program * by Jack Applin and Robert
+Heckendorn, 1985 */ main(v,c)char**c;{for(v[c++]="Hello, world!\n)";
+(!!c)[*c]&&(v--||--c&&execlp(*c,*c,c[!!c]+!!c,!c));
+**c=!c)write(!!*c,*c,!!**c);} Here's another good one: /* * Program to
+compute an approximation of pi * by Brian Westley, 1988 */ #define _
+-F<00||--F-OO--; int F=00,OO=00;
+main(){F_OO();printf("%1.3f\n",4.*-F/OO/OO);}F_OO() { _-_-_-_
+_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_-_-_
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+_-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_ _-_-_-_ }
+see also {hello, world}.

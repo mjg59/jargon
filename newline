@@ -1,6 +1,8 @@
- NEWLINE /n[y]oo'lien/ n. 1. [UNIX] The ASCII LF character (decimal 10), used
-under UNIX as a text line terminator. A Bell-Labs-ism rather than a
-Berkeleyism; interestingly (and unusually for UNIX slang) it is said
-originally to have been an IBM usage. 2. More generally, any magic character
-sequence or operation (like Pascal's writeln() function) required to
-terminate a text record. see CRLF, TERPRI.
+ :newline: /n[y]oo'li:n/ n. 1. [techspeak, primarily UNIX] The ASCII LF
+character (0001010), used under {{UNIX}} as a text line terminator. A
+Bell-Labs-ism rather than a Berkeleyism; interestingly (and unusually for
+UNIX jargon), it is said to have originally been an IBM usage. (Though the
+term `newline' appears in ASCII standards, it never caught on in the general
+computing world before UNIX). 2. More generally, any magic character,
+character sequence, or operation (like Pascal's writeln procedure) required
+to terminate a text record or separate lines. see {crlf}, {terpri}.

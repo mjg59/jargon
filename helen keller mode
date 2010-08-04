@@ -1,5 +1,11 @@
- HELEN KELLER MODE n. State of a hardware or software system which is deaf,
-dumb, and blind, i.e. accepting no input and generating no output, usually
-due to an infinite loop or some other excursion into DEEP SPACE. (Unfair to
-the real Helen Keller, whose success at learning speech was triumphant.) see
-also GO FLATLINE.
+ :Helen Keller mode: n. 1. State of a hardware or software system that is
+deaf, dumb, and blind, i.e., accepting no input and generating no output,
+usually due to an infinite loop or some other excursion into {deep space}.
+(Unfair to the real Helen Keller, whose success at learning speech was
+triumphant.) see also {go flatline}, {catatonic}. 2. On IBM PCs under DOS,
+refers to a specific failure mode in which a screen saver has kicked in over
+an {ill-behaved} application which bypasses the interrupts the screen saver
+watches for activity. Your choices are to try to get from the program's
+current state through a successful save-and-exit without being able to see
+what you're doing, or re-boot the machine. This isn't (strictly speaking) a
+crash.

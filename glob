@@ -1,13 +1,15 @@
- GLOB /glob/, *not* /glohb/ [UNIX, from "glob", the name of a subprogram that
-translated wildcards in archaic Bourne Shell versions] v. To expand special
-characters in a wildcarded name (the action is "globbing"). The UNIX
-conventions for filename wildcarding have become sufficiently pervasive that
-many hackers use some of them in written English, especially in email or news
-on technical topics. Those commonly encountered include: * wildcard for any
-string (see UN*X, U*IX). ? wildcard for any character (generally only read
-this way at the beginning or in the middle of a word). [] wildcard matching
-one character from a specified set. Some examples: "He said his name was
-[KC]arl" (expresses ambiguity). "That got posted to talk.politics.*" (all the
-talk.politics subgroups on USENET). Other examples are given under the entry
-for `X'. GLOB as a noun refers to the act of expanding a string using these
-conventions. It is also used as a verb.
+ :glob: /glob/, *not* /glohb/ [UNIX] vt.,n. To expand special characters in a
+wildcarded name, or the act of so doing (the action is also called
+`globbing'). The UNIX conventions for filename wildcarding have become
+sufficiently pervasive that many hackers use some of them in written English,
+especially in email or news on technical topics. Those commonly encountered
+include the following: * wildcard for any string (see also {UN*X}) ? wildcard
+for any character (generally read this way only at the beginning or in the
+middle of a word) [] delimits a wildcard matching any of the enclosed
+characters {} alternation of comma-separated alternatives; thus,
+`foo{baz,qux}' would be read as `foobaz' or `fooqux' Some examples: "He said
+his name was [KC]arl" (expresses ambiguity). "I don't read talk.politics.*"
+(any of the talk.politics subgroups on {USENET}). Other examples are given
+under the entry for {X}. Compare {regexp}. Historical note: The jargon usage
+derives from `glob', the name of a subprogram that expanded wildcards in
+archaic pre-Bourne versions of the UNIX shell.

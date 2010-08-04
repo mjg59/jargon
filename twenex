@@ -1,31 +1,25 @@
- TWENEX: /twe'neks/ n. The TOPS-20 operating system by DEC. TOPS-10 was a
-typically crufty DEC operating system for the PDP-10, so TOPS-20 was the
-obvious name for the DECSYSTEM-20 OS. Bolt, Beranek, and Newman (BBN) had
-developed its own system, called *TENEX* (TEN EXecutive), and in creating
-TOPS-20 DEC copied TENEX and adapted it for the '20. The term TWENEX was
-therefore a contraction of `twenty TENEX'. DEC people cringed when they heard
-TOPS-20 referred to as `TWENEX', but the term caught on nevertheless. The
-written abbreviation `20x' was also used. TWENEX was successful and very
+ :TWENEX:: /twe'neks/ n. The TOPS-20 operating system by DEC --- the second
+proprietary OS for the PDP-10 --- preferred by most PDP-10 hackers over
+TOPS-10 (that is, by those who were not {{ITS}} or {{WAITS}} partisans).
+TOPS-20 began in 1969 as Bolt, Beranek & Newman's TENEX operating system
+using special paging hardware. By the early 1970s, almost all of the systems
+on the ARPANET ran TENEX. DEC purchased the rights to TENEX from BBN and
+began work to make it their own. The first in-house code name for the
+operating system was VIROS (VIRtual memory Operating System); when customers
+started asking questions, the name was changed to SNARK so DEC could
+truthfully deny that there was any project called VIROS. When the name SNARK
+became known, the name was briefly reversed to become KRANS; this was quickly
+abandoned when it was discovered that `krans' meant `funeral wreath' in
+Swedish. Ultimately DEC picked TOPS-20 as the name of the operating system,
+and it was as TOPS-20 that it was marketed. The hacker community, mindful of
+its origins, quickly dubbed it {{TWENEX}} (a contraction of `twenty TENEX'),
+even though by this point very little of the original TENEX code remained
+(analogously to the differences between AT&T V6 UNIX and BSD). DEC people
+cringed when they heard "TWENEX", but the term caught on nevertheless (the
+written abbreviation `20x' was also used). TWENEX was successful and very
 popular; in fact, there was a period in the early 1980s when it commanded as
 fervent a culture of partisans as UNIX or ITS --- but DEC's decision to scrap
 all the internal rivals to the VAX architecture and its relatively stodgy VMS
-OS killed the DEC-20 and put a sad end to TWENEX's brief day in the sun.
-twiddle: n. 1. Tilde (ASCII #b1111110, `~'). Also called `squiggle',
-`sqiggle' (sic --- pronounced /skig'l/), and `twaddle', but twiddle is the
-most common term. 2. A small and insignificant change to a program. Usually
-fixes one bug and generates several new ones. 3. vt. To change something in a
-small way. Bits, for example, are often twiddled. Twiddling a switch or knob
-implies much less sense of purpose than toggling or tweaking it; see
-{frobnicate}. To speak of twiddling a bit connotes aimlessness, and at best
-doesn't specify what you're doing to the bit; by contrast, toggling a bit has
-a more specific meaning (see {bit twiddling}, {toggle}). twink: /twink/
-[UCSC] n. Equivalent to {read-only user}. two pi: quant. The number of years
-it takes to finish one's thesis. Occurs in stories in the form: "He started
-on his thesis; two pi years later...". two-to-the-n: quant. An amount much
-larger than {N}, but smaller than {infinity}. "I have two-to-the-N things to
-do before I can go out for lunch." means you probably won't show up. twonkie:
-n. The software equivalent of a Twinkie; a useless `feature' added to look
-sexy and placate a {marketroid}. This may be related to the `The Twonky',
-title menace of a classic SF short story by Lewis Padgett (Henry Kuttner & C.
-L. Moore), first published in the September 1942 `Astounding Science Fiction'
-and subsequently much anthologized. = U = =====
+OS killed the DEC-20 and put a sad end to TWENEX's brief day in the sun. DEC
+attempted to convince TOPS-20 hackers to convert to {VMS}, but instead, by
+the late 1980s, most of the TOPS-20 hackers had migrated to UNIX.

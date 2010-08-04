@@ -1,6 +1,12 @@
- SECOND-SYSTEM EFFECT n. When designing the successor to a relatively small,
-elegant and successful system, there is a tendency to become grandiose in
-one's success and perpetrate an ELEPHANTINE feature-laden monstrosity. The
-term was first used by Fred Brooks in his classic book "The Mythical
-Man-Month". It described the jump from a set of nice, simple, operating
-monitors on the IBM 70xx series to OS/360 on the 360 series.
+ :second-system effect: n. (sometimes, more euphoniously, `second-system
+syndrome') When one is designing the successor to a relatively small,
+elegant, and successful system, there is a tendency to become grandiose in
+one's success and design an {elephantine} feature-laden monstrosity. The term
+was first used by Fred Brooks in his classic `The Mythical Man-Month: Essays
+on Software Engineering' (Addison-Wesley, 1975; ISBN 0-201-00650-2). It
+described the jump from a set of nice, simple operating systems on the IBM
+70xx series to OS/360 on the 360 series. A similar effect can also happen in
+an evolving system; see {Brooks's Law}, {creeping elegance}, {creeping
+featurism}. see also {{Multics}}, {OS/2}, {X}, {software bloat}. This version
+of the jargon lexicon has been described (with altogether too much truth for
+comfort) as an example of second-system effect run amok on jargon-1....

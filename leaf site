@@ -1,0 +1,5 @@
+ :leaf site: n. A machine that merely originates and reads USENET news or
+mail, and does not relay any third-party traffic. Often uttered in a critical
+tone; when the ratio of leaf sites to backbone, rib, and other relay sites
+gets too high, the network tends to develop bottlenecks. Compare {backbone
+site}, {rib site}.

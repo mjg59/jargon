@@ -1,0 +1,7 @@
+ :vdiff: /vee'dif/ v.,n. Visual diff. The operation of finding differences
+between two files by {eyeball search}. The term `optical diff' has also been
+reported, and is sometimes more specifically used for the act of
+superimposing two nearly identical printouts on one another and holding them
+up to a light to spot differences. Though this method is poor for detecting
+omissions in the `rear' file, it can also be used with printouts of graphics,
+a claim few if any diff programs can make. see {diff}.

@@ -1,0 +1,9 @@
+ :bubble sort: n. Techspeak for a particular sorting technique in which pairs
+of adjacent values in the list to be sorted are compared and interchanged if
+they are out of order; thus, list entries `bubble upward' in the list until
+they bump into one with a lower sort value. Because it is not very good
+relative to other methods and is the one typically stumbled on by {na"ive}
+and untutored programmers, hackers consider it the {canonical} example of a
+na"ive algorithm. The canonical example of a really *bad* algorithm is
+{bogo-sort}. A bubble sort might be used out of ignorance, but any use of
+bogo-sort could issue only from brain damage or willful perversity.

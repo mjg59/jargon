@@ -1,7 +1,11 @@
- EPOCH, THE [UNIX] n. The time and date corresponding to zero in an operating
-system's clock and timestamp values. Under most UNIX versions, 00:00 of
-January 1st 1970 GMT. System time is measured in seconds or TICKS past the
-era. Syn. with EPOCH. see TICKS, WALL TIME. Note that weird problems may
-ensue when the clock wraps around, and that this is actually not a rare
-event; on systems counting 10 TICKS per second, a 32 bit count of ticks is
-only good for 6.8 years.
+ :epoch: [UNIX: prob. from astronomical timekeeping] n. The time and date
+corresponding to 0 in an operating system's clock and timestamp values. Under
+most UNIX versions the epoch is 00:00:00 GMT, January 1, 1970; under VMS,
+it's 00:00:00 GMT of November 17, 1858 (base date of the U.S. Naval
+Observatory's ephemerides). System time is measured in seconds or {tick}s
+past the epoch. Weird problems may ensue when the clock wraps around (see
+{wrap around}), which is not necessarily a rare event; on systems counting 10
+ticks per second, a signed 32-bit count of ticks is good only for 6.8 years.
+The 1-tick-per-second clock of UNIX is good only until January 18, 2038,
+assuming at least some software continues to consider it signed and that word
+lengths don't increase by then. see also {wall time}.

@@ -1,0 +1,8 @@
+ :bottom-up implementation: n. Hackish opposite of the techspeak term
+`top-down design'. It is now received wisdom in most programming cultures
+that it is best to design from higher levels of abstraction down to lower,
+specifying sequences of action in increasing detail until you get to actual
+code. Hackers often find (especially in exploratory designs that cannot be
+closely specified in advance) that it works best to *build* things in the
+opposite order, by writing and testing a clean set of primitive operations
+and then knitting them together.

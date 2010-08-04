@@ -1,5 +1,7 @@
- GREP /grep/ [from the qed/ed editor idiom g/re/p (Global search for Regular
-Expression and Print) via UNIX grep(1)] vt. To rapidly scan a file or file
-set looking for a particular string or pattern. By extension, to look for
-something by pattern. "Grep the bulletin board for the system backup
-schedule, would you?"
+ :grep: /grep/ [from the qed/ed editor idiom g/re/p , where re stands for a
+regular expression, to Globally search for the Regular Expression and Print
+the lines containing matches to it, via {{UNIX}} `grep(1)'] vt. To rapidly
+scan a file or set of files looking for a particular string or pattern (when
+browsing through a large set of files, one may speak of `grepping around').
+By extension, to look for something by pattern. "Grep the bulletin board for
+the system backup schedule, would you?" see also {vgrep}.

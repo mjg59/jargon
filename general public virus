@@ -1,9 +1,14 @@
- GENERAL PUBLIC VIRUS n. Pejorative name for some versions of the GNU project
-COPYLEFT (q.v.) or General Public License, which requires that any tools or
-apps incorporating copylefted code must be source-distributed on the same
-anti-commercial terms as GNU stuff. Thus it is alleged that the copyleft
-`infects' software generated with GNU tools. FSF's official position is that
-only code incorporating either the Bison parser skeleton or GNU CC libraries
-is so infected. Nevertheless, widespread suspicion that the COPYLEFT language
-is `boobytrapped' has caused many developers to avoid using GNU tools and the
-GPL license.
+ :General Public Virus: n. Pejorative name for some versions of the {GNU}
+project {copyleft} or General Public License (GPL), which requires that any
+tools or {app}s incorporating copylefted code must be source-distributed on
+the same counter-commercial terms as GNU stuff. Thus it is alleged that the
+copyleft `infects' software generated with GNU tools, which may in turn
+infect other software that reuses any of its code. The Free Software
+Foundation's official position as of January 1991 is that copyright law
+limits the scope of the GPL to "programs textually incorporating significant
+amounts of GNU code", and that the `infection' is not passed on to third
+parties unless actual GNU source is transmitted (as in, for example, use of
+the Bison parser skeleton). Nevertheless, widespread suspicion that the
+{copyleft} language is `boobytrapped' has caused many developers to avoid
+using GNU tools and the GPL. Recent (July 1991) changes in the language of
+the version 2.00 license may eliminate this problem.

@@ -1,22 +1,21 @@
- HACK 1. n. Originally a quick job that produces what is needed, but not
+ :hack: 1. n. Originally, a quick job that produces what is needed, but not
 well. 2. n. An incredibly good, and perhaps very time-consuming, piece of
-work that produces exactly what is needed. 3. The result of a hack (sense 1
-or 2); 3. NEAT HACK: A clever technique. Also, a brilliant practical joke,
-where neatness is correlated with cleverness, harmlessness, and surprise
-value. Example: the Caltech Rose Bowl card display switch circa 1961. 4. REAL
-HACK: A crock (occasionally affectionate). vt. 5. With "together", to throw
-something together so it will work. 6. To bear emotionally or physically. "I
-can't hack this heat!" 7. To work on something (typically a program). In
-specific sense: "What are you doing?" "I'm hacking TECO." In general sense:
-"What do you do around here?" "I hack TECO." (The former is time-immediate,
-the latter time-extended.) More generally, "I hack x" is roughly equivalent
-to "x is my major interest (or project)". "I hack solid-state physics." 8. To
-pull a prank on. see definition 3 and HACKER (def #6). 9. v.i. To waste time
-(as opposed to TOOL). "Watcha up to?" "Oh, just hacking." 10. HACK UP (ON):
-To hack, but generally implies that the result is meanings 1-2. 11. [UNIX] A
-dungeon game similar to ROGUE (q.v.) but more elaborate, distributed in C
-source over USENET and very popular at UNIX sites and on PC-class machines.
-Recent versions are called `nethack'. HAPPY HACKING: A farewell. HOW'S
-HACKING?: A friendly greeting among hackers. HACK HACK: A somewhat pointless
-but friendly comment, often used as a temporary farewell. For more on the
-meaning of HACK, see Appendix A.
+work that produces exactly what is needed. 3. vt. To bear emotionally or
+physically. "I can't hack this heat!" 4. vt. To work on something (typically
+a program). In an immediate sense: "What are you doing?" "I'm hacking TECO."
+In a general (time-extended) sense: "What do you do around here?" "I hack
+TECO." More generally, "I hack `foo'" is roughly equivalent to "`foo' is my
+major interest (or project)". "I hack solid-state physics." 5. vt. To pull a
+prank on. see sense 2 and {hacker} (sense 5). 6. vi. To interact with a
+computer in a playful and exploratory rather than goal-directed way. "Whatcha
+up to?" "Oh, just hacking." 7. n. Short for {hacker}. 8. see {nethack}. 9.
+[MIT] v. To explore the basements, roof ledges, and steam tunnels of a large,
+institutional building, to the dismay of Physical Plant workers and (since
+this is usually performed at educational institutions) the Campus Police.
+This activity has been found to be eerily similar to playing adventure games
+such as Dungeons and Dragons and {Zork}. see also {vadding}. Constructions on
+this term abound. They include `happy hacking' (a farewell), `how's hacking?'
+(a friendly greeting among hackers) and `hack, hack' (a fairly content-free
+but friendly comment, often used as a temporary farewell). For more on this
+totipotent term see "{The Meaning of `Hack'}". see also {neat hack}, {real
+hack}.

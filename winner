@@ -1,2 +1,6 @@
- WINNER 1. n. An unexpectedly good situation, program, programmer or person.
-2. REAL WINNER: Often sarcastic, but also used as high praise.
+ :winner: 1. n. An unexpectedly good situation, program, programmer, or
+person. "So it turned out I could use a {lexer} generator instead of
+hand-coding my own pattern recognizer. What a win!" 2. `real winner': Often
+sarcastic, but also used as high praise (see also the note under {user}).
+"He's a real winner --- never reports a bug till he can duplicate it and send
+in an example."

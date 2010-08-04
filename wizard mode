@@ -1,4 +1,4 @@
- WIZARD MODE [from nethack] n. A special access mode of a program or system,
-usually passworded, that permits some users godlike privileges. Generally not
-used for operating systems themselves (ROOT MODE or WHEEL MODE would be used
-instead).
+ :wizard mode: [from {rogue}] n. A special access mode of a program or
+system, usually passworded, that permits some users godlike privileges.
+Generally not used for operating systems themselves (`root mode' or `wheel
+mode' would be used instead).

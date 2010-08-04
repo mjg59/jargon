@@ -1,8 +1,91 @@
- CYBERPUNK /sie'ber-puhnk/ [orig. by SF critic Gardner Dozois] n.,adj. A
-subgenre of SF launched in 1982 by William Gibson's epoch-making novel
-_Neuromancer_. Gibson's near-total ignorance of computers and the present-day
-hacker culture enabled him to speculate about the role of computers and
-hackers in futures in ways hackers have since found both irritatingly naive
-and tremendously stimulating. Gibson's work was widely imitated, in
-particular by the short-lived but innovative "Max Headroom" TV series. see
-CYBERSPACE, ICE, GO FLATLINE.
+ :Miscellaneous: =============== Hackers are more likely to have cats than
+dogs (in fact, it is widely grokked that cats have the hacker nature). Many
+drive incredibly decrepit heaps and forget to wash them; richer ones drive
+spiffy Porsches and RX-7s and then forget to have them washed. Almost all
+hackers have terribly bad handwriting, and often fall into the habit of
+block-printing everything like junior draftsmen. :Appendix C: Bibliography
+************************* Here are some other books you can read to help you
+understand the hacker mindset. :G"odel, Escher, Bach: An Eternal Golden
+Braid: Douglas Hofstadter Basic Books, 1979 ISBN 0-394-74502-7 This book
+reads like an intellectual Grand Tour of hacker preoccupations. Music,
+mathematical logic, programming, speculations on the nature of intelligence,
+biology, and Zen are woven into a brilliant tapestry themed on the concept of
+encoded self-reference. The perfect left-brain companion to `Illuminatus'.
+:Illuminatus!: I. `The Eye in the Pyramid' II. `The Golden Apple' III.
+`Leviathan'. Robert Shea and Robert Anton Wilson Dell, 1988 ISBN
+0-440-53981-1 This work of alleged fiction is an incredible
+berserko-surrealist rollercoaster of world-girdling conspiracies, intelligent
+dolphins, the fall of Atlantis, who really killed JFK, sex, drugs,
+rock'n'roll, and the Cosmic Giggle Factor. First published in three volumes,
+but there is now a one-volume trade paperback, carried by most chain
+bookstores under SF. The perfect right-brain companion to Hofstadter's
+`G"odel, Escher, Bach'. see {Eris}, {Discordianism}, {random numbers},
+{Church Of The SubGenius}. :The Hitchhiker's Guide to the Galaxy: Douglas
+Adams Pocket Books, 1981 ISBN 0-671-46149-4 This `Monty Python in Space'
+spoof of SF genre traditions has been popular among hackers ever since the
+original British radio show. Read it if only to learn about Vogons (see
+{bogon}) and the significance of the number 42 (see {random numbers}) --- and
+why the winningest chess program of 1990 was called `Deep Thought'. :The Tao
+of Programming: James Geoffrey Infobooks, 1987 ISBN 0-931137-07-1 This
+gentle, funny spoof of the `Tao Te Ching' contains much that is illuminating
+about the hacker way of thought. "When you have learned to snatch the error
+code from the trap frame, it will be time for you to leave." :Hackers: Steven
+Levy Anchor/Doubleday 1984 ISBN 0-385-19195-2 Levy's book is at its best in
+describing the early MIT hackers at the Model Railroad Club and the early
+days of the microcomputer revolution. He never understood UNIX or the
+networks, though, and his enshrinement of Richard Stallman as "the last true
+hacker" turns out (thankfully) to have been quite misleading. Numerous minor
+factual errors also mar the text; for example, Levy's claim that the original
+Jargon File derived from the TMRC Dictionary (the File originated at Stanford
+and was brought to MIT in 1976; the co-authors of the first edition had never
+seen the dictionary in question). There are also numerous misspellings in the
+book that inflame the passions of old-timers; as Dan Murphy, the author of
+TECO, once said: "You would have thought he'd take the trouble to spell the
+name of a winning editor right." Nevertheless, this remains a useful and
+stimulating book that captures the feel of several important hackish
+subcultures. :The Devil's DP Dictionary: Stan Kelly-Bootle McGraw-Hill, 1981
+ISBN 0-07-034022-6 This pastiche of Ambrose Bierce's famous work is similar
+in format to the Jargon File (and quotes several entries from jargon-1) but
+somewhat different in tone and intent. It is more satirical and less
+anthropological, and is largely a product of the author's literate and quirky
+imagination. For example, it defines `computer science' as "a study akin to
+numerology and astrology, but lacking the precision of the former and the
+success of the latter" and "the boring art of coping with a large number of
+trivialities." :The Devouring Fungus: Tales from the Computer Age: Karla
+Jennings Norton, 1990 ISBN 0-393-30732-8 The author of this pioneering
+compendium knits together a great deal of computer- and hacker-related
+folklore with good writing and a few well-chosen cartoons. She has a keen eye
+for the human aspects of the lore and is very good at illuminating the
+psychology and evolution of hackerdom. Unfortunately, a number of small
+errors and awkwardnesses suggest that she didn't have the final manuscript
+checked over by a native speaker; the glossary in the back is particularly
+embarrassing, and at least one classic tale (the Magic Switch story, retold
+here under {A Story About `Magic'} in {appendix A}) is given in incomplete
+and badly mangled form. Nevertheless, this book is a win overall and can be
+enjoyed by hacker and non-hacker alike. :The Soul of a New Machine: Tracy
+Kidder Little, Brown, 1981 (paperback: Avon, 1982 ISBN 0-380-59931-7) This
+book (a 1982 Pulitzer Prize winner) documents the adventure of the design of
+a new Data General computer, the Eclipse. It is an amazingly well-done
+portrait of the hacker mindset --- although largely the hardware hacker ---
+done by a complete outsider. It is a bit thin in spots, but with enough
+technical information to be entertaining to the serious hacker while
+providing non-technical people a view of what day-to-day life can be like ---
+the fun, the excitement, the disasters. During one period, when the microcode
+and logic were glitching at the nanosecond level, one of the overworked
+engineers departed the company, leaving behind a note on his terminal as his
+letter of resignation: "I am going to a commune in Vermont and will deal with
+no unit of time shorter than a season." :Life with UNIX: a Guide for
+Everyone: Don Libes and Sandy Ressler Prentice-Hall, 1989 ISBN 0-13-536657-7
+The authors of this book set out to tell you all the things about UNIX that
+tutorials and technical books won't. The result is gossipy, funny,
+opinionated, downright weird in spots, and invaluable. Along the way they
+expose you to enough of UNIX's history, folklore and humor to qualify as a
+first-class source for these things. Because so much of today's hackerdom is
+involved with UNIX, this in turn illuminates many of its in-jokes and
+preoccupations. :True Names ... and Other Dangers: Vernor Vinge Baen Books,
+1987 ISBN 0-671-65363-6 Hacker demigod Richard Stallman believes the title
+story of this book "expresses the spirit of hacking best". This may well be
+true; it's certainly difficult to recall a better job. The other stories in
+this collection are also fine work by an author who is perhaps one of today's
+very best practitioners of hard SF. :Cyberpunk: Outlaws and Hackers on the
+Computer Frontier: Katie Hafner & John Markoff Simon & Schuster 1991

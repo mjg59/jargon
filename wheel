@@ -1,6 +1,3 @@
- WHEEL [from Twenex, q.v.] n. A privileged user or WIZARD (sense #2). The
-term was invented on the TENEX operating system, and carried over to TWENEX,
-Xerox-IFS, and others. It entered the UNIX culture from TWENEX and has been
-gaining popularity there (esp. at university sites). Privilege bits are
-sometimes called WHEEL BITS. The state of being in a privileged logon is
-sometimes called WHEEL MODE. see also ROOT.
+ :wheel: [from slang `big wheel' for a powerful person] n. A person who has
+an active {wheel bit}. "We need to find a wheel to unwedge the hung tape
+drives." (see {wedged}, sense 1.)

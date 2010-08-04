@@ -1,15 +1,6 @@
- YOU KNOW YOU'VE BEEN HACKING TOO LONG WHEN... The set-up line for a genre of
-one-liners told by hackers about themselves. These include the following: *
-not only do you check your email more often than your paper mail, but you
-remember your NETWORK ADDRESS faster than your postal one. * your SO kisses
-you on the neck and the first thing you think is "Uh, oh, PRIORITY INTERRUPT"
-(q.v.). * you go to balance your checkbook and discover that you're doing it
-in octal. * your computers have a higher street value than your car. * `round
-numbers' are powers of 2, not 10. * you've woken up more than once to recall
-of a dream in C or LISP. * you realize you've never met half of your best
-friends. All but one of these have been reliably reported as hacker traits
-(some of them quite often). Even hackers may have trouble spotting the
-ringer. YOUR MILEAGE MAY VARY cav. [from the standard disclaimer attached to
-EPA mileage ratings by American car manufacturers] A ritual warning often
+ :Your mileage may vary: cav. [from the standard disclaimer attached to EPA
+mileage ratings by American car manufacturers] 1. A ritual warning often
 found in UNIX freeware distributions. Translates roughly as "Hey, I tried to
-write this portably but who *knows* what'll happen on your system?"
+write this portably, but who *knows* what'll happen on your system?" 2. A
+qualifier more generally attached to advice. "I find that sending flowers
+works well, but your mileage may vary."

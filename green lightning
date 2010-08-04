@@ -1,7 +1,9 @@
- GREEN LIGHTNING [IBM] n. Apparently random flashing streaks on the face of
-3278-9 terminals while a programmable symbol set is being loaded. This
-hardware bug was left deliberately unfixed, as some bright spark suggested
-that this would let the user know that `something is happening'. It certainly
-does. 2. [proposed] Any bug perverted into an alleged feature by adroit
-rationalization or marketing. E.g. "Motorola calls the CISC cruft in the 8800
-architecture `compatibility logic', but I call it green lightning".
+ :green lightning: [IBM] n. 1. Apparently random flashing streaks on the face
+of 3278-9 terminals while a new symbol set is being downloaded. This hardware
+bug was left deliberately unfixed, as some genius within IBM suggested it
+would let the user know that `something is happening'. That, it certainly
+does. Later microprocessor-driven IBM color graphics displays were actually
+*programmed* to produce green lightning! 2. [proposed] Any bug perverted into
+an alleged feature by adroit rationalization or marketing. "Motorola calls
+the CISC cruft in the 88000 architecture `compatibility logic', but I call it
+green lightning". see also {feature}.

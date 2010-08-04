@@ -1,12 +1,37 @@
- KLUGE /klooj/ alt. KLUDGE /kluhj/ [from the German "klug", clever] (`klooj'
-is the original pronunciation, more common in the US; `kluhj' is reported
-more common in England). n. 1. A Rube Goldberg (or Heath Robinson) device in
-hardware or software. (A long-ago Datamation article said: "An ill-assorted
-collection of poorly matching parts, forming a distressing whole.") 2. n. A
-clever programming trick intended to solve a particular nasty case in an
-expedient, if not clear, manner. Often used to repair bugs. Often involves
-AD-HOCKERY and verges on being a CROCK. 3. Something that works for the wrong
-reason. 4. v. To insert a kluge into a program. "I've kluged this routine to
-get around that weird bug, but there's probably a better way." Also KLUGE UP.
-5. KLUGE AROUND: To avoid by inserting a kluge. 6. [WPI] A feature which is
-implemented in a RUDE manner.
+ :kluge: /klooj/ [from the German `klug', clever] 1. n. A Rube Goldberg (or
+Heath Robinson) device, whether in hardware or software. (A long-ago
+`Datamation' article by Jackson Granholme said: "An ill-assorted collection
+of poorly matching parts, forming a distressing whole.") 2. n. A clever
+programming trick intended to solve a particular nasty case in an expedient,
+if not clear, manner. Often used to repair bugs. Often involves {ad-hockery}
+and verges on being a {crock}. In fact, the TMRC Dictionary defined `kludge'
+as "a crock that works". 3. n. Something that works for the wrong reason. 4.
+vt. To insert a kluge into a program. "I've kluged this routine to get around
+that weird bug, but there's probably a better way." 5. [WPI] n. A feature
+that is implemented in a {rude} manner. Nowadays this term is often
+encountered in the variant spelling `kludge'. Reports from {old fart}s are
+consistent that `kluge' was the original spelling, reported around computers
+as far back as the mid-1950s and, at that time, used exclusively of
+*hardware* kluges. In 1947, the `New York Folklore Quarterly' reported a
+classic shaggy-dog story `Murgatroyd the Kluge Maker' then current in the
+Armed Forces, in which a `kluge' was a complex and puzzling artifact with a
+trivial function. However, there is reason to believe this slang use may be a
+decade older. Several respondents have connected it to the brand name of a
+device called a "Kluge paper feeder" dating back at least to 1935, an adjunct
+to mechanical printing presses. The Kluge feeder was designed before small,
+cheap electric motors and control electronics; it relied on a fiendishly
+complex assortment of cams, belts, and linkages to both power and synchronize
+all its operations from one motive driveshaft. It was accordingly
+tempermental, subject to frequent breakdowns, and devilishly difficult to
+repair --- but oh, so clever! One traditional folk etymology of `kluge' makes
+it the name of a design engineer; in fact, `Kluge' is a surname in German,
+and the designer of the Kluge feeder may well have been the man behind this
+myth. The variant `kludge' was apparently popularized by the {Datamation}
+article mentioned above; it was titled "How to Design a Kludge" (February
+1962, pages 30 and 31). Some people who encountered the word first in print
+or on-line jumped to the reasonable but incorrect conclusion that the word
+should be pronounced /kluhj/ (rhyming with `sludge'). The result of this
+tangled history is a mess; in 1991, many (perhaps even most) hackers
+pronounce the word correctly as /klooj/ but spell it incorrectly as `kludge'
+(compare the pronunciation drift of {mung}). Some observers consider this
+appropriate in view of its meaning.

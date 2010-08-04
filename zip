@@ -1,0 +1,5 @@
+ :zip: [primarily MS-DOS] vt. To create a compressed archive from a group of
+files using PKWare's PKZIP or a compatible archiver. Its use is spreading now
+that portable implementations of the algorithm have been written. Commonly
+used as follows: "I'll zip it up and send it to you." see {arc}, {tar and
+feather}.

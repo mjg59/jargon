@@ -1,4 +1,3 @@
- EOL: /ee-oh-el/ [End Of Line] n. Syn. for {newline} derived perhaps from the
+ :EOL: /E-O-L/ [End Of Line] n. Syn. for {newline}, derived perhaps from the
 original CDC6600 Pascal. Now rare, but widely recognized and occasionally
-used because it's shorter. It's used in the example entry under {BNF}. see
-also {EOF}.
+used for brevity. Used in the example entry under {BNF}. see also {EOF}.

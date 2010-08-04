@@ -1,0 +1,7 @@
+ :rc file: /R-C fi:l/ [UNIX: from the startup script `/etc/rc', but this is
+commonly believed to have been named after older scripts to `run commands']
+n. Script file containing startup instructions for an application program (or
+an entire operating system), usually a text file containing commands of the
+sort that might have been invoked manually once the system was running but
+are to be executed automatically each time the system starts up. see also
+{dot file}.

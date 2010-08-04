@@ -1,5 +1,6 @@
- SCRATCH [from "scratchpad"] 1. adj. A device or recording medium attached to
-a machine for testing or temporary-use purposes; one which can be SCRIBBLED
-on without loss. Usually in the combining forms SCRATCH MEMORY, SCRATCH DISK,
-SCRATCH TAPE, SCRATCH VOLUME. see SCRATCH MONKEY. 2. [primarily IBM] v. To
-delete (as in a file).
+ :scratch: 1. [from `scratchpad'] adj. Describes a data structure or
+recording medium attached to a machine for testing or temporary-use purposes;
+one that can be {scribble}d on without loss. Usually in the combining forms
+`scratch memory', `scratch register', `scratch disk', `scratch tape',
+`scratch volume'. see {scratch monkey}. 2. [primarily IBM] vt. To delete (as
+in a file).

@@ -1,5 +1,9 @@
- BUSY-WAIT vi. To wait on an event by SPINning through a tight or timed-delay
-loop that polls for the event on each pass, as opposed to setting up an
-interrupt handler and continuing execution on another part of the task. A
+ :busy-wait: vi. Used of human behavior, conveys that the subject is busy
+waiting for someone or something, intends to move instantly as soon as it
+shows up, and thus cannot do anything else at the moment. "Can't talk now,
+I'm busy-waiting till Bill gets off the phone." Technically, `busy-wait'
+means to wait on an event by {spin}ning through a tight or timed-delay loop
+that polls for the event on each pass, as opposed to setting up an interrupt
+handler and continuing execution on another part of the task. This is a
 wasteful technique, best avoided on time-sharing systems where a busy-waiting
-program may hog the processor. Syn. SPIN-LOCK
+program may {hog} the processor.

@@ -1,41 +1,4 @@
- UUCPNET: n. The store-and-forward network consisting of all the world's
+ :UUCPNET: n. The store-and-forward network consisting of all the world's
 connected UNIX machines (and others running some clone of the UUCP
-(UNIX-to-UNIX CoPy) software). Any machine reachable via a {bang path} is on
-UUCPNET. see {network address}. = V = ===== vadding: /vad'ing/ [from VAD, a
-permutation of ADV (i.e. {ADVENT}), used to avoid a particular {admin}'s
-continual search-and-destroy sweeps for the game] n. A leisure-time activity
-of certain hackers involving the covert exploration of the `secret' parts of
-large buildings --- basements, roofs, freight elevators, maintenance
-crawlways, steam tunnels, and the like. A few go so far as to learn
-locksmithing in order to synthesize vadding keys. The verb is `to vad'
-(compare {phreaking}). The most extreme and dangerous form of vadding is
-`elevator rodeo', aka `elevator surfing', a sport played by wrasslin' down a
-thousand-pound elevator car with a three-foot piece of string, and then
-exploiting this mastery in various stimulating ways (such as elevator
-hopping, shaft exploration, rat-racing, and the ever-popular drop
-experiments). Kids, don't try this at home! see also {hobbit} (sense #2).
-vanilla: [from the default flavor of ice cream in the U.S.] adj. Ordinary
-{flavor}, standard. When used of food, very often does not mean that the food
-is flavored with vanilla extract! For example, `vanilla wonton soup' means
-ordinary wonton soup, as opposed to hot and sour wonton soup. Applied to
-hardware and software, as in "Vanilla Version 7 UNIX can't run on a vanilla
-11/34." Also used to orthogonalize chip nomenclature; for instance, a 74V00
-means what TI calls a 7400, as distinct from a 74LS00, etc. This word differs
-from {canonical} in that the latter means `default', whereas vanilla simply
-means `ordinary'. For example, when hackers go on a {great-wall},
-hot-and-sour wonton soup is the {canonical} wonton soup to get (because that
-is what most of them usually order) even though it isn't the vanilla wonton
-soup. vannevar: /van'*-var/ n. A bogus technological prediction or foredoomed
-engineering concept, esp. one which fails by implicitly assuming that
-technologies develop linearly, incrementally, and in isolation from one
-another when in fact the learning curve tends to be highly nonlinear,
-revolutions are common, and competition is the rule. The prototype was
-Vannevar Bush's prediction of `electronic brains' the size of the Empire
-State Building with a Niagara-Falls-equivalent cooling system for their tubes
-and relays, at a time when the semiconductor effect had already been
-demonstrated. Other famous vannevars have included magnetic-bubble memory,
-LISP machines, videotex, and a paper from the late 1970s that computed a
-purported ultimate limit on areal density for ICs which was in fact less than
-the routine densities of five years later. vaporware: n. Products announced
-far in advance of any release (which may or may not actually take place).
-var: /veir/ or /vahr/ n. Short for `variable'. Compare {arg}, {param}.
+(UNIX-to-UNIX CoPy) software). Any machine reachable only via a {bang path}
+is on UUCPNET. see {network address}. = V = =====

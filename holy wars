@@ -1,10 +1,11 @@
- HOLY WARS [from USENET, but may predate it] n. FLAME WARS over RELIGIOUS
-ISSUES. The 1980 paper by Danny Cohen that popularized the terms BIG-ENDIAN
-and LITTLE-ENDIAN in connection with the LSB-first/MSB-first controversy was
-entitled "On Holy Wars and a Plea for Peace". Other perennial Holy Wars have
-included: EMACS vs. VI, <my personal computer> vs. <everyone else's personal
-computer>, UNIX vs. VMS, BSD UNIX vs. AT&T UNIX, C vs. Pascal, etc. etc. etc.
-The characteristic that distinguishes HOLY WARS from normal technical
-disputes is that (regardless of the technical merits of the case on either
-side) most participants spend their time trying to pass off personal value
-choices and cultural attachments as objective technical evaluations.
+ :holy wars: [from {USENET}, but may predate it] n. {flame war}s over
+{religious issues}. The paper by Danny Cohen that popularized the terms
+{big-endian} and {little-endian} in connection with the LSB-first/MSB-first
+controversy was entitled "On Holy Wars and a Plea for Peace". Other perennial
+Holy Wars have included {EMACS} vs. {vi}, my personal computer vs. everyone
+else's personal computer, {{ITS}} vs. {{UNIX}}, {{UNIX}} vs. {VMS}, {BSD}
+UNIX vs. {USG UNIX}, {C} vs. {{Pascal}}, {C} vs. {LISP}, etc., ad nauseam.
+The characteristic that distinguishes holy wars from normal technical
+disputes is that in a holy wars most of the participants spend their time
+trying to pass off personal value choices and cultural attachments as
+objective technical evaluations. see also {theology}.

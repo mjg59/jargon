@@ -1,5 +1,5 @@
- NUXI PROBLEM, THE /nuk'see pro'blm, dh@/ n. This refers to the problem of
+ :NUXI problem: /nuk'see pro'bl*m/ n. This refers to the problem of
 transferring data between machines with differing byte-order. The string
-"UNIX" might look like "NUXI" on a machine with a different "byte sex" (i.e.
-when transferring data from a little-endian to a big endian or vice-versa).
-see also, BIG-ENDIAN, LITTLE-ENDIAN, SWAB, and BYTESEXUAL.
+`UNIX' might look like `NUXI' on a machine with a different `byte sex' (e.g.,
+when transferring data from a {little-endian} to a {big-endian}, or
+vice-versa). see also {middle-endian}, {swab}, and {bytesexual}.

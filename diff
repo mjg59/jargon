@@ -1,0 +1,8 @@
+ :diff: /dif/ n. 1. A change listing, especially giving differences between
+(and additions to) source code or documents (the term is often used in the
+plural `diffs'). "Send me your diffs for the Jargon File!" Compare {vdiff}.
+2. Specifically, such a listing produced by the `diff(1)' command, esp. when
+used as specification input to the `patch(1)' utility (which can actually
+perform the modifications; see {patch}). This is a common method of
+distributing patches and source updates in the UNIX/C world. see also
+{vdiff}, {mod}.

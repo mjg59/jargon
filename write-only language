@@ -1,4 +1,4 @@
- WRITE-ONLY LANGUAGE n. A language with syntax (or semantics) sufficiently
-dense and bizarre that any routine of significant size is WRITE-ONLY CODE. A
-sobriquet often applied to APL (q.v.), though INTERCAL certainly deserves it
-more.
+ :write-only language: n. A language with syntax (or semantics) sufficiently
+dense and bizarre that any routine of significant size is {write-only code}.
+A sobriquet applied occasionally to C and often to APL, though {INTERCAL} and
+{TECO} certainly deserve it more.

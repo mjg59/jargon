@@ -1,0 +1,11 @@
+ :README file: n. By convention, the top-level directory of a UNIX source
+distribution always contains a file named `README' (or READ.ME, or rarely
+ReadMe or some other variant), which is a hacker's-eye introduction
+containing a pointer to more detailed documentation, credits, miscellaneous
+revision history notes, etc. In the Mac and PC worlds, software is not
+usually distributed in source form and a README is more likely to contain
+user-oriented material like last-minute documentation changes, error
+workarounds, and restrictions. When asked, hackers invariably relate the
+README convention to the famous scene in Lewis Carroll's `Alice's Adventures
+In Wonderland' in which Alice confronts magic munchies labeled "Eat Me" and
+"Drink Me".

@@ -1,2 +1,4 @@
- SILO n. The FIFO input-character buffer in an RS-232 line card. So called
-from DEC terminology used on DH and DZ line cards for the VAX and PDP-11.
+ :silo: n. The FIFO input-character buffer in an RS-232 line card. So called
+from DEC terminology used on DH and DZ line cards for the VAX and PDP-11,
+presumably because it was a storage space for fungible stuff that you put in
+the top and took out the bottom.

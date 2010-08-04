@@ -1,7 +1,17 @@
- MAGIC NUMBER [UNIX/C] n. 1. Special data located at the beginning of a
-binary data file to indicate its type to a utility. Under UNIX the system and
+ :magic number: [UNIX/C] n. 1. In source code, some non-obvious constant
+whose value is significant to the operation of a program and that is inserted
+inconspicuously in-line ({hardcoded}), rather than expanded in by a symbol
+set by a commented `#define'. Magic numbers in this sense are bad style. 2. A
+number that encodes critical information used in an algorithm in some opaque
+way. The classic examples of these are the numbers used in hash or CRC
+functions, or the coefficients in a linear congruential generator for
+pseudo-random numbers. This sense actually predates and was ancestral to the
+more common sense 1. 3. Special data located at the beginning of a binary
+data file to indicate its type to a utility. Under UNIX, the system and
 various applications programs (especially the linker) distinguish between
-types of executable by looking for a magic number. 2. In source code, some
-non-obvious constant whose value is significant to the operation of a program
-and is inserted inconspicuously in line, rather than expanded in by a symbol
-set by a commented #define. Magic numbers in this sense are bad style.
+types of executable file by looking for a magic number. Once upon a time,
+these magic numbers were PDP-11 branch instructions that skipped over header
+data to the start of executable code; the 0407, for example, was octal for
+`branch 16 bytes relative'. Nowadays only a {wizard} knows the spells to
+create magic numbers. How do you choose a fresh magic number of your own?
+Simple --- you pick one at random. see? It's magic!

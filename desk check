@@ -1,0 +1,5 @@
+ :desk check: n.,v. To {grovel} over hardcopy of source code, mentally
+simulating the control flow; a method of catching bugs. No longer common
+practice in this age of on-screen editing, fast compiles, and sophisticated
+debuggers --- though some maintain stoutly that it ought to be. Compare
+{eyeball search}, {vdiff}, {vgrep}.

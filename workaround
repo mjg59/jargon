@@ -1,0 +1,7 @@
+ :workaround: n. A temporary {kluge} inserted in a system under development
+or test in order to avoid the effects of a {bug} or {misfeature} so that work
+can continue. Theoretically, workarounds are always replaced by {fix}es; in
+practice, customers often find themselves living with workarounds in the
+first couple of releases. "The code died on NUL characters in the input, so I
+fixed it to interpret them as spaces." "That's not a fix, that's a
+workaround!"

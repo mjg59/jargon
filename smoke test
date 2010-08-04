@@ -1,5 +1,9 @@
- SMOKE TEST n. 1. A rudimentary form of testing applied to electronic
-equipment following repair or reconfiguration in which AC power is applied
-and during which the tester checks for sparks, smoke, or other dramatic signs
-of fundamental failure. 2. By extension, the first run of a piece of software
-after construction or a critical change. see MAGIC SMOKE.
+ :smoke test: n. 1. A rudimentary form of testing applied to electronic
+equipment following repair or reconfiguration, in which power is applied and
+the tester checks for sparks, smoke, or other dramatic signs of fundamental
+failure. see {magic smoke}. 2. By extension, the first run of a piece of
+software after construction or a critical change. see and compare {reality
+check}. There is an interesting semi-parallel to this term among typographers
+and printers: When new typefaces are being punch-cut by hand, a `smoke test'
+(hold the letter in candle smoke, then press it onto paper) is used to check
+out new dies.

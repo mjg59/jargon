@@ -1,6 +1,6 @@
- TAR AND FEATHER [from UNIX tar(1)] v. To create a transportable archive from
-a group of files by first sticking them together with the tape archiver
-tar(1) and then compressing the result (see COMPRESS). The latter is dubbed
-`feathering' by analogy to what you do with an airplane propeller to decrease
-wind resistance; smaller files, after all, slip through comm links more
-easily.
+ :tar and feather: [from UNIX `tar(1)'] vt. To create a transportable archive
+from a group of files by first sticking them together with `tar(1)' (the Tape
+ARchiver) and then compressing the result (see {compress}). The latter action
+is dubbed `feathering' by analogy to what you do with an airplane propeller
+to decrease wind resistance, or with an oar to reduce water resistance;
+smaller files, after all, slip through comm links more easily.

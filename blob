@@ -1,0 +1,4 @@
+ :BLOB: [acronym, Binary Large OBject] n. Used by database people to refer to
+any random large block of bits which needs to be stored in a database, such
+as a picture or sound file. The essential point about a BLOB is that it's an
+object you can't interpret within the database itself.

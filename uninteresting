@@ -1,13 +1,10 @@
- UNINTERESTING adj. 1. Said of a problem which, while NONTRIVIAL, can be
-solved simply by throwing sufficient resources at it. 2. Also said of
+ :uninteresting: adj. 1. Said of a problem that, although {nontrivial}, can
+be solved simply by throwing sufficient resources at it. 2. Also said of
 problems for which a solution would neither advance the state of the art nor
-be fun to design and code. True hackers regard uninteresting problems as an
-intolerable waste of time, to be solved (if at all) by lesser mortals. see
-WOMBAT, SMOP; oppose INTERESTING. U*IX, UN*X n. Used to refer to the Unix
-operating system (trademark and/or copyright AT&T) in writing, but avoiding
-the need for the ugly (tm) typography. Also used to refer to any or all
-varieties of Unixoid operating systems. Ironically, lawyers now say (1990)
-that the requirement for superscript-tm has no legal force, but the asterisk
-usage is entrenched anyhow. It has been suggested that there may be a
-psychological connection to practice in certain religions where the name of
-the deity is never written out in full, e.g. JHWH or G-d is used.
+be fun to design and code. Hackers regard uninteresting problems as
+intolerable wastes of time, to be solved (if at all) by lesser mortals.
+*Real* hackers (see {toolsmith}) generalize uninteresting problems enough to
+make them interesting and solve them --- thus solving the original problem as
+a special case (and, it must be admitted, occasionally turning a molehill
+into a mountain, or a mountain into a tectonic plate). see {WOMBAT}, {SMOP};
+compare {toy problem}, oppose {interesting}.

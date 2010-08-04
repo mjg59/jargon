@@ -1,8 +1,8 @@
- FANDANGO ON CORE [UNIX/C hackers, from the Mexican dance] n. In C, a wild
-pointer that runs out of bounds causing a CORE DUMP, or corrupts the
-malloc(3) ARENA in such a way as to cause mysterious failures later on, is
-sometimes said to have `done a fandango on core'. On low-end personal
-machines without an MMU this can corrupt the OS itself, causing massive
-lossage. Other third-world dances such as the rhumba, cha-cha or watusi may
-be substituted. see ALIASING BUG, PRECEDENCE LOSSAGE, SMASH THE STACK, MEMORY
-LEAK, OVERRUN SCREW, CORE.
+ :fandango on core: [UNIX/C hackers, from the Mexican dance] n. In C, a wild
+pointer that runs out of bounds, causing a {core dump}, or corrupts the
+`malloc(3)' {arena} in such a way as to cause mysterious failures later on,
+is sometimes said to have `done a fandango on core'. On low-end personal
+machines without an MMU, this can corrupt the OS itself, causing massive
+lossage. Other frenetic dances such as the rhumba, cha-cha, or watusi, may be
+substituted. see {aliasing bug}, {precedence lossage}, {smash the stack},
+{memory leak}, {memory smash}, {overrun screw}, {core}.

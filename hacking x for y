@@ -1,0 +1,7 @@
+ :Hacking X for Y: [ITS] n. The information ITS made publicly available about
+each user (the INQUIR record) was a sort of form in which the user could fill
+out fields. On display, two of these fields were combined into a project
+description of the form "Hacking X for Y" (e.g., `"Hacking perceptrons for
+Minsky"'). This form of description became traditional and has since been
+carried over to other systems with more general facilities for
+self-advertisement (such as UNIX {plan file}s).

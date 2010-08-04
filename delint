@@ -1,2 +1,2 @@
- DELINT vt. To modify code to remove problems detected when linting. see
-LINT.
+ :delint: /dee-lint/ v. To modify code to remove problems detected when
+{lint}ing. Confusingly, this is also referred to as `linting' code.

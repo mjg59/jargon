@@ -1,7 +1,8 @@
- GLASS TTY /glas tee-tee-wie/ or /glas ti-tee/ n. A terminal which has a
-display screen but which, because of hardware or software limitations,
-behaves like a teletype or other printing terminal , thereby combining the
-disadvantages of both: like a printing terminal, it can't do fancy display
-hacks, and like a display terminal, it doesn't produce hard copy An example
-is Lear-Siegler the ADM-3 (without cursor control). see TUBE, TTY. See
-Appendix A for an interesting true story about glass TTYs.
+ :glass tty: /glas T-T-Y/ or /glas ti'tee/ n. A terminal that has a display
+screen but which, because of hardware or software limitations, behaves like a
+teletype or some other printing terminal, thereby combining the disadvantages
+of both: like a printing terminal, it can't do fancy display hacks, and like
+a display terminal, it doesn't produce hard copy. An example is the early
+`dumb' version of Lear-Siegler ADM 3 (without cursor control). see {tube},
+{tty}; compare {dumb terminal}, {smart terminal}. see "{TV Typewriters}"
+(appendix A) for an interesting true story about a glass tty.

@@ -1,3 +1,7 @@
- CORE n. Main storage or DRAM. Dates from the days of ferrite-core memory;
-now archaic, but still used in the UNIX community and by old-time hackers or
-those who would sound like same. see CORE DUMP.
+ :core: n. Main storage or RAM. Dates from the days of ferrite-core memory;
+now archaic as techspeak most places outside IBM, but also still used in the
+UNIX community and by old-time hackers or those who would sound like them.
+Some derived idioms are quite current; `in core', for example, means `in
+memory' (as opposed to `on disk'), and both {core dump} and the `core image'
+or `core file' produced by one are terms in favor. Commonwealth hackish
+prefers {store}.

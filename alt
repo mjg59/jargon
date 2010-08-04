@@ -1,22 +1,12 @@
- ALT: /awlt/ 1. n. The ALT shift key on an IBM PC or {clone}. 2. [possibly
-lowercased] n. The `clover' or `Command' key on a Macintosh; use of this term
-usually reveals that the speaker hacked PCs before coming to the Mac (see
-also {command key}). Some Mac hackers, confusingly, reserve `ALT' for the
-Option key. 3. n.obs. [PDP-10] Alternate name for the ASCII ESC character,
-after the keycap labeling on some older terminals. Also `ALTMODE'. This
-character was almost never pronounced "escape" on an ITS system, in {TECO},
-or under TOPS-10 --- always ALT, as in "Type ALT ALT to end a TECO command"
-or "ALT U onto the system" (for "log onto the [ITS] system"). This was
-probably because ALT is more convenient to say than "escape", especially when
-followed by another ALT or a character (or another ALT *and* a character, for
-that matter!). alt bit: /awlt bit/ [from alternate] adj. see {meta bit}.
-Aluminum Book: [MIT] n. `Common Lisp: The Language', by Guy L. Steele Jr.,
-Digital Press, first edition, 1984, second edition 1990. Strictly speaking,
-only the first edition is the aluminum book, since the second edition has a
-yucky pale green cover. see also {{book titles}}. amoeba: /*-mee'b*/ n.
-Humorous term for the Commodore Amiga personal computer. amp off: [Purdue]
-vt. To run in {background}. From the UNIX shell `&' operator. angle brackets:
-n. Either of the characters `<' and `>' (ASCII less-than or greater-than
-signs). The {Real World} angle brackets used by typographers are actually
-taller than a less-than or greater-than sign. see {broket}, {{ASCII}}. angry
-fruit salad: n. A bad interface design that uses too many colors.
+ :alt: /awlt/ 1. n. The alt shift key on an IBM PC or {clone}. 2. n. The
+`clover' or `Command' key on a Macintosh; use of this term usually reveals
+that the speaker hacked PCs before coming to the Mac (see also {feature
+key}). Some Mac hackers, confusingly, reserve `alt' for the Option key. 3.
+n.obs. [PDP-10; often capitalized to ALT] Alternate name for the ASCII ESC
+character (ASCII 0011011), after the keycap labeling on some older terminals.
+Also `altmode' (/awlt'mohd/). This character was almost never pronounced
+`escape' on an ITS system, in {TECO}, or under TOPS-10 --- always alt, as in
+"Type alt alt to end a TECO command" or "alt-U onto the system" (for "log
+onto the [ITS] system"). This was probably because alt is more convenient to
+say than `escape', especially when followed by another alt or a character (or
+another alt *and* a character, for that matter).

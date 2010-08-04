@@ -1,1 +1,8 @@
- NETHACK /net'hak/ n. see HACK, sense #12.
+ :nethack: /net'hak/ [UNIX] n. A dungeon game similar to {rogue} but more
+elaborate, distributed in C source over {USENET} and very popular at UNIX
+sites and on PC-class machines (nethack is probably the most widely
+distributed of the freeware dungeon games). The earliest versions, written by
+Jay Fenlason and later considerably enhanced by Andries Brouwer, were simply
+called `hack'. The name changed when maintenance was taken over by a group of
+hackers originally organized by Mike Stephenson; the current contact address
+(as of mid-1991) is nethack-bugs@linc.cis.upenn.edu.

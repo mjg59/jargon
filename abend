@@ -1,39 +1,7 @@
- 120 reset: [from 120 volts, U.S. wall current] n. To cycle power on a
-machine in order to reset or unjam it. Compare {Big Red Switch}, {power
-cycle}. 2: infix. In translation software written by hackers, infix 2 often
-represents the syllable *to* with the connotation `translate to'; as in
-dvi2ps (DVI to PostScript), int2string (integer to string) and texi2roff
-(Texinfo to [nt]roff). @-party: /at'par`tee/ [from the @-sign in an Internet
-address] n. (also `@-sign party' /at'sien par`tee/) Semi-closed parties
-thrown at science-fiction conventions (esp. the annual Worldcon) for hackers;
-one must have a {network address} to get in, or at least be in company with
-someone who does. One of the most reliable opportunities for hackers to meet
-face to face with people who might otherwise be represented by mere phosphor
-dots on their screens. Compare {boink}. @Begin: // [primarily CMU] n.
-Equivalent of {\begin} in the Scribe text formatting language; used as an
-idiom by Scribe users. \begin: // [from the LaTeX command] With \end, used
-humorously in writing to indicate a context or to remark on the surrounded
-text. For example: \begin{flame} Predicate logic is the only good programming
-language. Anyone who would use anything else is an idiot. Also, computers
-should be tredecimal instead of binary. \end{flame} The Scribe users at CMU
-and elsewhere used to use @Begin/@End in an identical way. On USENET, this
-construct would more frequently be rendered as "<FLAME ON>" and "<FLAME
-OFF>". = A = ===== abbrev: /*'breev/, /*'brev/ n. Common abbreviation for
-`abbreviation'. ABEND: [ABnormal END] /ab'end/ n. Abnormal termination (of
+ :ABEND: [ABnormal END] /ah'bend/, /*-bend'/ n. Abnormal termination (of
 software); {crash}; {lossage}. Derives from an error message on the IBM 360;
 used jokingly by hackers but seriously mainly by {code grinder}s. Usually
 capitalized, but may appear as `abend'. Hackers will try to persuade you that
 ABEND is called `abend' because it is what system operators do to the machine
 late on Friday when they want to call it a day, and hence is from the German
-`Abend' == `Evening'. accumulator: n. 1. Archaic term for a register. Cited
-here because on-line use of it is as a synonym for `register' a fairly
-reliable indication that the user has been around for quite a while and/or
-that the architecture under discussion is quite old. The term in full is
-almost never used of microprocessor registers, for example, though symbolic
-names for arithmetic registers beginning in `A' derive from historical use of
-the term `accumulator' (and not, actually, from `arithmetic'!). Confusingly,
-though, an `a' register name prefix may also stand for `address', as for
-example on the Motorola 680x0 family. 2. A register being used for arithmetic
-or logic (as opposed to addressing or a loop index). This use is in context
-of a particular routine or stretch of code. "The FOOBAZ routine uses A3 as an
-accumulator."
+`Abend' = `Evening'.

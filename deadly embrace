@@ -1,5 +1,3 @@
- DEADLY EMBRACE n. Same as DEADLOCK (q.v.), though usually used only when
-exactly two processes are involved. DEADLY EMBRACE is the more popular term
-in Europe; DEADLOCK in the United States. Also DEADLY EMBRACE is often
-restricted to the case where exactly two processes are involved, while
-DEADLOCK can involve any number.
+ :deadly embrace: n. Same as {deadlock}, though usually used only when
+exactly 2 processes are involved. This is the more popular term in Europe,
+while {deadlock} predominates in the United States.

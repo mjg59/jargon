@@ -1,1 +1,1 @@
- LEAKY HEAP [Cambridge] n. Syn. MEMORY LEAK (q.v.).
+ :leaky heap: [Cambridge] n. An {arena} with a {memory leak}.

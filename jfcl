@@ -1,7 +1,7 @@
- JFCL: /jif'kl/ or /jaf'kl/ vt., obs. (alt. `jfcl') To cancel or annul
-something. "Why don't you jfcl that out?" The fastest do-nothing instruction
-on older models of the PDP-10 happened to be JFCL, which stands for "Jump if
-Flag set and then CLear the flag"; this does something useful, but is a very
-fast no-operation if no flag is specified. Geoff Goodfellow, one of the
-jargon-1 co-authors, has long had JFCL on the license plate of his BMW.
-Usage: rare except among old-time PDP-10 hackers.
+ :JFCL: /jif'kl/, /jaf'kl/, /j*-fi'kl/ vt., obs. (alt. `jfcl') To cancel or
+annul something. "Why don't you jfcl that out?" The fastest do-nothing
+instruction on older models of the PDP-10 happened to be JFCL, which stands
+for "Jump if Flag set and then CLear the flag"; this does something useful,
+but is a very fast no-operation if no flag is specified. Geoff Goodfellow,
+one of the jargon-1 co-authors, had JFCL on the license plate of his BMW for
+years. Usage: rare except among old-time PDP-10 hackers.

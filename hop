@@ -1,0 +1,5 @@
+ :hop: n. One file transmission in a series required to get a file from point
+A to point B on a store-and-forward network. On such networks (including
+{UUCPNET} and {FidoNet}), the important inter-machine metric is the number of
+hops in the shortest path between them, rather than their geographical
+separation. see {bang path}.

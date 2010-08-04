@@ -1,3 +1,2 @@
- SEGGIE /seg'ee/ [UNIX] n. Reported from Britain as a shorthand for `segment
-violation', an attempted access to a protected memory area usually resulting
-in a CORE DUMP.
+ :seggie: /seg'ee/ [UNIX] n. Shorthand for {segmentation fault} reported from
+Britain.

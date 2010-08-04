@@ -1,0 +1,9 @@
+ :hash bucket: n. A notional receptacle into which more than one thing
+accessed by the same key or short code might be dropped. When you look up a
+name in the phone book (for example), you typically hash it by extracting its
+first letter; the hash buckets are the alphabetically ordered letter
+sections. This is used as techspeak with respect to code that uses actual
+hash functions; in jargon, it is used for human associative memory as well.
+Thus, two things `in the same hash bucket' may be confused with each other.
+"If you hash English words only by length, you get too many common grammar
+words in the first couple of hash buckets." Compare {hash collision}.

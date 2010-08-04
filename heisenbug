@@ -1,5 +1,6 @@
- HEISENBUG /hie'sen-buhg/ [from Heisenberg's Uncertainty Principle quantum
-physics] n. A bug which disappears or alters its behavior when one attempts
-to probe or isolate it. Antonym of BOHR BUG (q.v.). In C, 9 out of 10
-heisenbugs result from either FANDANGO ON CORE phenomena (esp. lossage
-related to corruption of the malloc ARENA) or errors which SMASH THE STACK.
+ :heisenbug: /hi:'zen-buhg/ [from Heisenberg's Uncertainty Principle in
+quantum physics] n. A bug that disappears or alters its behavior when one
+attempts to probe or isolate it. Antonym of {Bohr bug}; see also {mandelbug},
+{schroedinbug}. In C, nine out of ten heisenbugs result from either {fandango
+on core} phenomena (esp. lossage related to corruption of the malloc {arena})
+or errors that {smash the stack}.

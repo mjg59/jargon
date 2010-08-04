@@ -1,5 +1,5 @@
- RTI: /ahr-tee-ie/ interj. The mnemonic for the `return from interrupt'
+ :RTI: /R-T-I/ interj. The mnemonic for the `return from interrupt'
 instruction on many computers including the 6502 and 6800. The variant `RETI'
-is found among ex-Z80 hackers (almost nobody programs these things in
+is found among former Z80 hackers (almost nobody programs these things in
 assembler anymore). Equivalent to "Now, where was I?" or used to end a
 conversational digression. see {pop}; see also {POPJ}.

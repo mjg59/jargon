@@ -1,3 +1,3 @@
- BYTESEXUAL /biet-seks'u-@l/ adj. Said of hardware, denotes willingness to
-compute or pass data in either BIG ENDIAN or LITTLE ENDIAN format (depending,
-presumably, on a mode bit somewhere). {= C =}
+ :bytesexual: /bi:t`sek'shu-*l/ adj. Said of hardware, denotes willingness to
+compute or pass data in either {big-endian} or {little-endian} format
+(depending, presumably, on a {mode bit} somewhere). see also {NUXI problem}.

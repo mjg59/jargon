@@ -1,4 +1,4 @@
- SUBSHELL [UNIX, MS-DOS] n. An OS command interpreter (see SHELL) spawned
-from within a program, such that exit from the command interpreter returns
-one to the parent program in a state that allows it to continue execution.
-Oppose CHAIN.
+ :subshell: /suhb'shel/ [UNIX, MS-DOS] n. An OS command interpreter (see
+{shell}) spawned from within a program, such that exit from the command
+interpreter returns one to the parent program in a state that allows it to
+continue execution. Compare {shell out}; oppose {chain}.

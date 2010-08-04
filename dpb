@@ -1,6 +1,6 @@
- DPB: /d*-pib'/ [from the PDP-10 instruction set] vt. To plop something down
-in the middle. Usage: silly. Example: "DPB yourself into that couch, there."
-The connotation would be that the couch is full except for one slot just big
+ :DPB: /d*-pib'/ [from the PDP-10 instruction set] vt. To plop something down
+in the middle. Usage: silly. "DPB yourself into that couch there." The
+connotation would be that the couch is full except for one slot just big
 enough for you to sit in. DPB means `DePosit Byte', and was the name of a
 PDP-10 instruction that inserts some bits into the middle of some other bits.
-This usage has been kept alive by the Common Lisp function of the same name.
+This usage has been kept alive by the Common LISP function of the same name.

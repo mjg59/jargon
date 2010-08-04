@@ -1,7 +1,20 @@
- INTERNET ADDRESS n. An `absolute' network address of the form foo@bar.baz,
-where foo is a user name, bar is a SITENAME (q.v.), and baz is a `domain'
-name, possibly including periods itself. Contrasts with BANG PATH, q.v.; see
-also NETWORK, THE and NETWORK ADDRESS. All Internet machines and most UUCP
-sites can now resolve these addresses, thanks to a large amount of
+ :Internet address:: n. 1. [techspeak] An absolute network address of the
+form foo@bar.baz, where foo is a user name, bar is a {sitename}, and baz is a
+`domain' name, possibly including periods itself. Contrast with {bang path};
+see also {network, the} and {network address}. All Internet machines and most
+UUCP sites can now resolve these addresses, thanks to a large amount of
 behind-the-scenes magic and PD software written since 1980 or so. see also
-BANG PATH.
+{bang path}, {domainist}. 2. More loosely, any network address reachable
+through Internet; this includes {bang path} addresses and some internal
+corporate and government networks. Reading Internet addresses is something of
+an art. Here are the four most important top-level functional Internet
+domains followed by a selection of geographical domains: com commercial
+organizations edu educational institutions gov U.S. government civilian sites
+mil U.S. military sites Note that most of the sites in the com and edu
+domains are in the U.S. or Canada. us sites in the U.S. outside the
+functional domains su sites in the ex-Soviet Union (see {kremvax}). uk sites
+in the United Kingdom Within the us domain, there are subdomains for the
+fifty states, each generally with a name identical to the state's postal
+abbreviation. Within the uk domain, there is an ac subdomain for academic
+sites and a co domain for commercial ones. Other top-level domains may be
+divided up in similar ways.

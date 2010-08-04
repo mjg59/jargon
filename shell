@@ -1,5 +1,7 @@
- SHELL [UNIX, now used elsewhere] n. 1. The command interpreter used to pass
-commands to an operating system. 2. More generally, any interface program
-which mediates access to a special resource or SERVER for convenience,
-efficiency or security reasons; for this meaning, the usage is usually "a
-shell around" whatever. This sort of program is also called a "wrapper".
+ :shell: [orig. {{Multics}} techspeak, widely propagated via UNIX] n. 1.
+[techspeak] The command interpreter used to pass commands to an operating
+system; so called because it is the part of the operating system that
+interfaces with the outside world. 2. More generally, any interface program
+that mediates access to a special resource or {server} for convenience,
+efficiency, or security reasons; for this meaning, the usage is usually `a
+shell around' whatever. This sort of program is also called a `wrapper'.

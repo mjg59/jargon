@@ -1,9 +1,7 @@
- TICK n. 1. The width of one tick of the system clock on the computer. Often
-1 AC cycle time (1/60 second in the U.S. and 1/50 elsewhere) but more
-recently 1/100 sec has become common. Syn JIFFY. 2. In simulations, the
-discrete unit of time that passes "between" iterations of the simulation
-mechanism. In AI applications, this amount of time is often left unspecified,
-since the only constraint of interest is that caused things happen after
-their causes. This sort of AI simulation is often pejoratively referred to as
-"tick-tick-tick" simulation, especially when the issue of simultaneity of
-events with long, independent chains of causes is handwaved.
+ :tick: n. 1. A {jiffy} (sense 1). 2. In simulations, the discrete unit of
+time that passes between iterations of the simulation mechanism. In AI
+applications, this amount of time is often left unspecified, since the only
+constraint of interest is the ordering of events. This sort of AI simulation
+is often pejoratively referred to as `tick-tick-tick' simulation, especially
+when the issue of simultaneity of events with long, independent chains of
+causes is {handwave}d. 3. In the FORTH language, a single quote character.

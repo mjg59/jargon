@@ -1,6 +1,7 @@
- BLACK HOLE n. When a piece of email or netnews disappears mysteriously
-between its origin and destination sites it is commonly said to have "fallen
-into a black hole". Similarly, one might say "I think there's a black hole at
-foovax!" to convey suspicion that site foovax has been dropping a lot of
-stuff on the floor lately. The implied metaphor of email as interstellar
-travel is interesting in itself.
+ :black hole: n. When a piece of email or netnews disappears mysteriously
+between its origin and destination sites (that is, without returning a
+{bounce message}) it is commonly said to have `fallen into a black hole'. "I
+think there's a black hole at foovax!" conveys suspicion that site foovax has
+been dropping a lot of stuff on the floor lately (see {drop on the floor}).
+The implied metaphor of email as interstellar travel is interesting in
+itself. Compare {bit bucket}.

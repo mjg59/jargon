@@ -1,9 +1,5 @@
- ROOT n. [UNIX] 1. The top node of the system directory structure (home
-directory of the root user). 2. The "superuser" account that ignores
-permission bits, user number zero on a UNIX system. This account has the user
-name `root'. 3. By extension, the privileged system-maintenance login on any
-OS. 4. Thus, ROOT MODE: Syn. with WIZARD MODE or WHEEL MODE. Like these, it
-is often generalized to describe privileged states in systems other than OSs.
-5. GO ROOT: to temporarily enter ROOT MODE in order to perform a privileged
-operation. This use is deprecated in Australia, where v. "root" is slang for
-"to have sex with".
+ :root: [UNIX] n. 1. The {superuser} account that ignores permission bits,
+user number 0 on a UNIX system. This account has the user name `root'. The
+term {avatar} is also used. 2. The top node of the system directory structure
+(home directory of the root user). 3. By extension, the privileged
+system-maintenance login on any OS. see {root mode}, {go root}.

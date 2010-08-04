@@ -1,0 +1,10 @@
+ :dread high-bit disease: n. A condition endemic to PRIME (a.k.a. PR1ME)
+minicomputers that results in all the characters having their high (0x80) bit
+ON rather than OFF. This of course makes transporting files to other systems
+much more difficult, not to mention talking to true 8-bit devices. Folklore
+had it that PRIME adopted the reversed-8-bit convention in order to save 25
+cents per serial line per machine; PRIME old-timers, on the other hand, claim
+they inherited the disease from Honeywell via customer NASA's compatibility
+requirements and struggled manfully to cure it. Whoever was responsible, this
+probably qualifies as one of the most {cretinous} design tradeoffs ever made.
+see {meta bit}. A few other machines have exhibited similar brain damage.

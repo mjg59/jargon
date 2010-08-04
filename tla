@@ -1,53 +1,13 @@
- TLA: /tee el ay/ [Three-Letter Acronym] n. 1. Self-describing acronym for a
-species with which computing terminology is infested. 2. Any confusing
-acronym at all. Examples include MCA, FTP, SNA, CPU, MMU, SCCS, DMU, FPU,
-TLA, NNTP. People who like this looser usage argue that not all TLAs have
-three letters, just as not all four-letter words have four letters. One also
-hears of `ETLA' (Extended Three Letter Acronym, pronounced /ee tee el ay/)
-being used to describe four-letter acronyms. The term `SFLA' (Stupid
-Four-Letter Acronym) has also been reported. see also {YABA}. The
-self-effacing phrase "TDM TLA" (Too Damn Many...) is often used to bemoan the
-plethora of TLAs in use. In 1989, a random of the journalistic persuasion
-asked hacker Paul Boutin "What do you think will be the biggest problem in
-computing in the 90s?" Paul's straight-faced response: "There are only
-seventeen thousand three-letter acronyms." to a first approximation: 1.
-[techspeak] when doing certain numerical computations, an approximate
-solution may be computed by any of several heuristic methods, then refined to
-a final value. By using the technique of a first approximation of the answer,
-an algorithm can be written that converges more quickly to the correct
-result. 2. In jargon, a preface to any comment that indicates that the
-comment is only approximately true. The remark "To a first approximation, I
-feel good" might indicate that deeper questioning would reveal that all is
-not perfect (e.g., a nagging cough still remains after an illness). toast: 1.
-n. Any completely inoperable system, esp. one that has just crashed; "Uh,
-oh...I think the serial board is toast." 2. vt. To cause a system to crash
-accidentally, especially in a manner that requires manual rebooting. "Rick
-just toasted the {firewall machine} again." toaster: n. 1. The archetypal
-really stupid application for an embedded microprocessor controller; often
-used in comments which imply that a scheme is inappropriate technology (but
-see {elevator controller}). "{DWIM} for an assembler? That'd be as silly as
-running UNIX on your toaster!" 2. A very, very dumb computer. "You could run
-this program on any dumb toaster." see {bitty box}, {Get a real computer!},
-{toy}, {beige toaster}. 3. A Macintosh, esp. the Classic Mac. Some hold that
-this is implied by sense #2. 4. A peripheral device. "I bought my box without
-toasters, but since then I've added two boards and a second disk drive."
-toeprint: n. A {footprint} of especially small size. toggle: vt. To change a
-{bit} from whatever state it is in to the other state; to change from 1 to 0
-or from 0 to 1. This probably comes from `toggle switches', such as standard
-light switches, though the word `toggle' actually refers to the mechanism
-that keeps the switch in the position to which it is flipped, rather than to
-the fact that the switch has two positions. There are four things you can do
-to a bit: set it (force it to be 1), clear (or zero) it, leave it alone, or
-toggle it. (Mathematically, one would say that there are four distinct
-boolean-valued functions of one boolean argument, but saying that is much
-less fun than talking about toggling bits.) tool: 1. n. A program primarily
-used to create, manipulate, modify, or analyze other programs, such as a
-compiler or editor or cross-referencing program. Oppose {app}, {operating
-system}. 2. [UNIX] An application program with a simple, `transparent'
-(typically text-stream) interface designed specifically to be used in
-programmed combination with other tools (see {filter}). 3. [MIT] vi. To work;
-to study (connotes tedium). The TMRC Dictionary defined this as "to set one's
-brain to the grindstone". see {hack}. 4. [MIT] n. A student who studies too
-much and hacks too little. toolsmith: n. The software equivalent of a
-tool-and-die specialist; one who specializes in making the {tool}s with which
-other programmers create applications. see also {uninteresting}.
+ :TLA: /T-L-A/ [Three-Letter Acronym] n. 1. Self-describing abbreviation for
+a species with which computing terminology is infested. 2. Any confusing
+acronym. Examples include MCA, FTP, SNA, CPU, MMU, SCCS, DMU, FPU, NNTP, TLA.
+People who like this looser usage argue that not all TLAs have three letters,
+just as not all four-letter words have four letters. One also hears of `ETLA'
+(Extended Three-Letter Acronym, pronounced /ee tee el ay/) being used to
+describe four-letter acronyms. The term `SFLA' (Stupid Four-Letter Acronym)
+has also been reported. see also {YABA}. The self-effacing phrase "TDM TLA"
+(Too Damn Many...) is often used to bemoan the plethora of TLAs in use. In
+1989, a random of the journalistic persuasion asked hacker Paul Boutin "What
+do you think will be the biggest problem in computing in the 90s?" Paul's
+straight-faced response: "There are only 17,000 three-letter acronyms." (To
+be exact, there are 26^3 = 17,576.)

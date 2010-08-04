@@ -1,24 +1,3 @@
- POPJ: /pop'jay/ [from a {PDP-10} return-from-subroutine instruction] n.v. To
-return from a digression. By verb doubling, "Popj, popj" means roughly, "Now
-let's see, where were we?" see {RTI}. posing: n. On a {MUD}, the use of `:'
-or an equivalent command to announce to other players that one is taking a
-certain physical action, which however has no effect on the game. For
-example, if one's character name is Firechild, one might type `: begins
-hacking on the nearest terminal' to broadcast a message that says `Firechild
-begins hacking on the nearest terminal'. post: v. To send a message to a
-{mailing list} or {newsgroup}. Distinguished in context from `mail'; one
-might ask, for example, "Are you going to post the patch or mail it to known
-users?" posting: n. Noun corresp. to v. {post} (but note that the {post} can
-be nouned). Distinguished from a `letter' or ordinary {email} message by the
-fact that it's broadcast rather than point-to-point. It is unclear whether
-messages sent to a small mailing list are postings or email; perhaps the best
-dividing line is that if you don't know the names of all the potential
-recipients, it's a posting. postmaster: n. The email contact and maintenance
-person at a site connected to the Internet or UUCPNET. Often, but not always,
-the same as the {admin}. It is conventional for each machine to have a
-`postmaster' address that is aliased to this person. pound on: vt. Syn. {bang
-on}. power cycle: vt. (also, `cycle power' or just `cycle') To power off a
-machine and then power it on immediately, with the intention of clearing some
-kind of {hung} or {gronk}ed state. Syn. {120 reset}; see also {Big Red
-Switch}. Compare {vulcan nerve pinch}, {bounce}, {boot}, and see the AI Koan
-in Appendix A about Tom Knight and the novice.
+ :POPJ: /pop'J/ [from a {PDP-10} return-from-subroutine instruction] n.,v. To
+return from a digression. By verb doubling, "Popj, popj" means roughly "Now
+let's see, where were we?" see {RTI}.

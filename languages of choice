@@ -1,6 +1,15 @@
- LANGUAGES OF CHOICE n. C or LISP. Essentially all hackers know one of these
-and most good ones are fluent in both. Smalltalk and Prolog are popular in
-small but influential communities. Assembler used to be a language of choice,
-but is generally no longer considered interesting or appropriate for anything
-but compiler code generation and a few time-critical uses in systems
-programs.
+ :languages of choice: n. {C} and {LISP}. Nearly every hacker knows one of
+these, and most good ones are fluent in both. Smalltalk and Prolog are also
+popular in small but influential communities. There is also a rapidly
+dwindling category of older hackers with FORTRAN, or even assembler, as their
+language of choice. They often prefer to be known as {real programmer}s, and
+other hackers consider them a bit odd (see "{The Story of Mel, a Real
+Programmer}" in {appendix A}). Assembler is generally no longer considered
+interesting or appropriate for anything but {HLL} implementation, {glue}, and
+a few time-critical and hardware-specific uses in systems programs. FORTRAN
+occupies a shrinking niche in scientific programming. Most hackers tend to
+frown on languages like {{Pascal}} and {{Ada}}, which don't give them the
+near-total freedom considered necessary for hacking (see
+{bondage-and-discipline language}), and to regard everything that's even
+remotely connected with {COBOL} or other traditional {card walloper}
+languages as a total and unmitigated {loss}.

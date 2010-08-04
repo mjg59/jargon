@@ -1,7 +1,5 @@
- SYSTEM n. 1. The supervisor program or OS on a computer. 2. n. The entire
+ :system: n. 1. The supervisor program or OS on a computer. 2. The entire
 computer system, including input/output devices, the supervisor program or
 OS, and possibly other software. 3. Any large-scale program. 4. Any method or
-algorithm. 5. The way things are usually done. Usage: a fairly ambiguous
-word. "You can't beat the system." SYSTEM HACKER: one who hacks the system
-(in sense 1 only; for sense 2 one mentions the particular program: e.g., LISP
-HACKER) {= T =}
+algorithm. 5. `System hacker': one who hacks the system (in senses 1 and 2
+only; for sense 3 one mentions the particular program: e.g., `LISP hacker')

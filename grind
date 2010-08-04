@@ -1,7 +1,12 @@
- GRIND vt. 1. [MIT and Berkeley] To format code, especially LISP code, by
+ :grind: vt. 1. [MIT and Berkeley] To format code, especially LISP code, by
 indenting lines so that it looks pretty. This usage was associated with the
-MACLISP community and is now rare; PRETTY PRINT was and is the generic term
+MacLISP community and is now rare; {prettyprint} was and is the generic term
 for such operations. 2. [UNIX] To generate the formatted version of a
-document from the nroff, troff, TeX or Scribe source. 3. To run seemingly
-interminably, performing some tedious and inherently useless task. Similar to
-CRUNCH, GROVEL. 3. GRIND GRIND excl. "Isn't the machine slow today!"
+document from the nroff, troff, TeX, or Scribe source. The BSD program
+`vgrind(1)' grinds code for printing on a Versatec bitmapped printer. 3. To
+run seemingly interminably, esp. (but not necessarily) if performing some
+tedious and inherently useless task. Similar to {crunch} or {grovel}.
+Grinding has a connotation of using a lot of CPU time, but it is possible to
+grind a disk, network, etc. see also {hog}. 4. To make the whole system slow.
+"Troff really grinds a PDP-11." 5. `grind grind' excl. Roughly, "Isn't the
+machine slow today!"

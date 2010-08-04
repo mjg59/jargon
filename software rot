@@ -1,17 +1,26 @@
- SOFTWARE ROT n. (Also known as BIT DECAY, BIT ROT) Hypothetical disease the
-existence of which has been deduced from the observation that unused programs
-or features will often stop working after sufficient time has passed, even if
-"nothing has changed". The theory explains that bits decay as if they were
-radioactive. As time passes, the contents of a file or the code in a program
-will become increasingly garbled. There actually are physical processes that
-produce such effects (the alpha particles such as are found in cosmic rays
-can change the contents of a computer memory unpredictably, and various kinds
-of subtle media failures can corrupt files in mass storage) but they are
-quite rare. Nevertheless, when you can't figure out why something stopped
-working, it is often humorously convenient to blame SOFTWARE ROT. Historical
-note: software rot in an even funnier sense than the mythical one was a real
-problem on early research computers (e. g. the R1, see GRIND CRANK). If a
-program that depended on a peculiar instuction hadn't been run in quite a
-while, the user might discover that the opcodes no longer did the things as
-they used to. ("Hey, so-and-so needs an instruction to do such-and-such. We
-can snarf this one, right? No one uses it.")
+ :software rot: n. Term used to describe the tendency of software that has
+not been used in a while to {lose}; such failure may be semi-humorously
+ascribed to {bit rot}. More commonly, `software rot' strikes when a program's
+assumptions become out of date. If the design was insufficiently {robust},
+this may cause it to fail in mysterious ways. For example, owing to endemic
+shortsightedness in the design of COBOL programs, most will succumb to
+software rot when their 2-digit year counters {wrap around} at the beginning
+of the year 2000. Actually, related lossages often afflict centenarians who
+have to deal with computer software designed by unimaginative clods. One such
+incident became the focus of a minor public flap in 1990, when a gentleman
+born in 1889 applied for a driver's license renewal in Raleigh, North
+Carolina. The new system refused to issue the card, probably because with
+2-digit years the ages 101 and 1 cannot be distinguished. Historical note:
+Software rot in an even funnier sense than the mythical one was a real
+problem on early research computers (e.g., the R1; see {grind crank}). If a
+program that depended on a peculiar instruction hadn't been run in quite a
+while, the user might discover that the opcodes no longer did the same things
+they once did. ("Hey, so-and-so needs an instruction to do such-and-such. We
+can {snarf} this opcode, right? No one uses it.") Another classic example of
+this sprang from the time an MIT hacker found a simple way to double the
+speed of the unconditional jump instruction on a PDP-6, so he patched the
+hardware. Unfortunately, this broke some fragile timing software in a
+music-playing program, throwing its output out of tune. This was fixed by
+adding a defensive initialization routine to compare the speed of a timing
+loop with the real-time clock; in other words, it figured out how fast the
+PDP-6 was that day, and corrected appropriately. Compare {bit rot}.

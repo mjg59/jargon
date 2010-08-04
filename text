@@ -1,0 +1,6 @@
+ :text: n. 1. [techspeak] Executable code, esp. a `pure code' portion shared
+between multiple instances of a program running in a multitasking OS (compare
+{English}). 2. Textual material in the mainstream sense; data in ordinary
+{{ASCII}} or {{EBCDIC}} representation (see {flat-ASCII}). "Those are text
+files; you can review them using the editor." These two contradictory senses
+confuse hackers, too.

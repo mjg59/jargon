@@ -1,5 +1,5 @@
- CRLF /ker'l@f/, sometimes /kru'l@f/ n. A carriage return (CR) followed by a
-line feed (LF). More loosely, whatever it takes to get you from the end of
-one line of text to the beginning of the next line. see NEWLINE, TERPRI.
-Under UNIX influence this usage has become less common (UNIX uses a bare line
-feed as its `CRLF').
+ :crlf: /ker'l*f/, sometimes /kru'l*f/ or /C-R-L-F/ n. (often capitalized as
+`CRLF') A carriage return (CR) followed by a line feed (LF). More loosely,
+whatever it takes to get you from the end of one line of text to the
+beginning of the next line. see {newline}, {terpri}. Under {{UNIX}} influence
+this usage has become less common (UNIX uses a bare line feed as its `CRLF').

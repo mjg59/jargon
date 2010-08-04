@@ -1,0 +1,10 @@
+ :plumbing: [UNIX] n. Term used for {shell} code, so called because of the
+prevalence of `pipelines' that feed the output of one program to the input of
+another. Under UNIX, user utilities can often be implemented or at least
+prototyped by a suitable collection of pipelines and temp-file grinding
+encapsulated in a shell script; this is much less effort than writing C every
+time, and the capability is considered one of UNIX's major winning features.
+A few other OSs such as IBM's VM/CMS support similar facilities. Esp. used in
+the construction `hairy plumbing' (see {hairy}). "You can kluge together a
+basic spell-checker out of `sort(1)', `comm(1)', and `tr(1)' with a little
+plumbing." see also {tee}.

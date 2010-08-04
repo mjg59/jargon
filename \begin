@@ -1,0 +1,8 @@
+ :\begin: // [from the LaTeX command] With \end, used humorously in writing
+to indicate a context or to remark on the surrounded text. For example:
+\begin{flame} Predicate logic is the only good programming language. Anyone
+who would use anything else is an idiot. Also, all computers should be
+tredecimal instead of binary. \end{flame} The Scribe users at CMU and
+elsewhere used to use @Begin/@End in an identical way (LaTeX was built to
+resemble Scribe). On USENET, this construct would more frequently be rendered
+as `<FLAME ON>' and `<FLAME OFF>'.

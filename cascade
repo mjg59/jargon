@@ -1,0 +1,7 @@
+ :cascade: n. 1. A huge volume of spurious error-message output produced by a
+compiler with poor error recovery. This can happen when one initial error
+throws the parser out of synch so that much of the remaining program text is
+interpreted as garbaged or ill-formed. 2. A chain of USENET followups each
+adding some trivial variation of riposte to the text of the previous one, all
+of which is reproduced in the new message; an {include war} in which the
+object is to create a sort of communal graffito.

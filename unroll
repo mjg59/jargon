@@ -1,0 +1,5 @@
+ :unroll: v. To repeat the body of a loop several times in succession. This
+optimization technique reduces the number of times the loop-termination test
+has to be executed. But it only works if the number of iterations desired is
+a multiple of the number of repetitions of the body. Something has to be done
+to take care of any leftover iterations --- such as {Duff's device}.

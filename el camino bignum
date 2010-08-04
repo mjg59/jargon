@@ -1,18 +1,16 @@
- EL CAMINO BIGNUM /el' k@-mee'noh big'num/ n. El Camino Real. El Camino Real
-is the name of a street through the San Francisco peninsula that originally
-extended (and still appears in places) all the way down to Mexico City.
-Navigation on the San Francisco peninsula is usually done relative to El
-Camino Real, which is assumed to run north and south even though it doesn't
-really in many places (see LOGICAL). El Camino Real runs right past Stanford
-University, and so is familiar to hackers. The Spanish word "real" (which has
-two syllables (ree-ahl')) means "royal"; El Camino Real is "the royal road".
-Now the English word "real" is used in mathematics to describe numbers (and
-by analogy is misused in computer jargon to mean floating-point numbers). In
-the FORTRAN language, for example, a "real" quantity is a number typically
-precise to seven decimal places, and a "double precision" quantity is a
-larger floating-point number, precise to perhaps fourteen decimal places.
-When a hacker from MIT visited Stanford in 1976 or so, he remarked what a
-long road El Camino Real was. Making a pun on "real", he started calling it
-"El Camino Double Precision" --- but when the hacker was told that the road
-was hundreds of miles long, he renamed it "El Camino Bignum", and that name
-has stuck. (see BIGNUM.)
+ :El Camino Bignum: /el' k*-mee'noh big'nuhm/ n. The road mundanely called El
+Camino Real, a road through the San Francisco peninsula that originally
+extended all the way down to Mexico City and many portions of which are still
+intact. Navigation on the San Francisco peninsula is usually done relative to
+El Camino Real, which defines {logical} north and south even though it isn't
+really north-south many places. El Camino Real runs right past Stanford
+University and so is familiar to hackers. The Spanish word `real' (which has
+two syllables: /ray-ahl'/) means `royal'; El Camino Real is `the royal road'.
+In the FORTRAN language, a `real' quantity is a number typically precise to 7
+significant digits, and a `double precision' quantity is a larger
+floating-point number, precise to perhaps fourteen significant digits (other
+languages have similar `real' types). When a hacker from MIT visited Stanford
+in 1976, he remarked what a long road El Camino Real was. Making a pun on
+`real', he started calling it `El Camino Double Precision' --- but when the
+hacker was told that the road was hundreds of miles long, he renamed it `El
+Camino Bignum', and that name has stuck. (see {bignum}.)

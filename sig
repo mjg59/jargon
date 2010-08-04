@@ -1,9 +1,7 @@
- SIG /sig/ or SIG BLOCK /sig blok/ [UNIX; often written ".sig" there] n.
-Short for "signature", used specifically to refer to the electronic signature
-block which most UNIX mail- and news-posting software will allow you to
-automatically append to outgoing mail and news. The composition of one's sig
-can be quite an art form, including an ASCII logo or one's choice of witty
-sayings (see SIG QUOTE); but many consider large sigs a waste of bandwidth,
-and it has been observed that the size of one's sig block is usually
-inversely proportional to one's longevity and level of prestige on THE
-NETWORK.
+ :SIG: n. The Association for Computing Machinery traditionally sponsors
+Special Interest Groups in various technical areas; well-known ones include
+SIGARCH (the Special Interest Group for Computer Architecture) and SIGGRAPH
+(the Special Interest Group for Computer Graphics). Hackers, not
+surprisingly, like to overextend this naming convention to less formal
+associations like SIGBEER (at ACM conferences) and SIGFOOD (at University of
+Illinois).

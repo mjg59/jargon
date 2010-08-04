@@ -1,13 +1,13 @@
- WEDGED adj. 1. To be stuck, incapable of proceeding without help. This is
-different from having CRASHED. If the system has crashed, then it has become
-totally non-functioning. If the system is wedged, it is trying to do
-something but cannot make progress; it may be capable of doing a few things,
-but not be fully operational. For example, the system may become wedged if
-the disk controller fries; there are some things you can do without using the
-disks, but not many. Being wedged is slightly milder than being HUNG. Also
-see GRONK, LOCKED UP, HOSED. 2. This term is sometimes used as a synonym for
-DEADLOCKED (q.v). 3. Often refers to humans suffering misconceptions. 4.
-[UNIX] Specifically used to describe the state of a TTY left in a losing
-state by abort of a screen-oriented program or one that has messed with the
-line discipline in some obscure way. 5. WEDGITUDE (wedj'i-tood) n. The
-quality or state of being wedged.
+ :wedged: [from a common description of recto-cranial inversion] adj. 1. To
+be stuck, incapable of proceeding without help. This is different from having
+crashed. If the system has crashed, then it has become totally
+non-functioning. If the system is wedged, it is trying to do something but
+cannot make progress; it may be capable of doing a few things, but not be
+fully operational. For example, a process may become wedged if it {deadlock}s
+with another (but not all instances of wedging are deadlocks). see also
+{gronk}, {locked up}, {hosed}. Describes a {deadlock}ed condition. 2. Often
+refers to humans suffering misconceptions. "He's totally wedged --- he's
+convinced that he can levitate through meditation." 3. [UNIX] Specifically
+used to describe the state of a TTY left in a losing state by abort of a
+screen-oriented program or one that has messed with the line discipline in
+some obscure way.

@@ -1,20 +1,18 @@
- BOGUS [WPI, Yale, Stanford] adj. 1. Non-functional. "Your patches are
-bogus." 2. Useless. "OPCON is a bogus program." 3. False. "Your arguments are
-bogus." 4. Incorrect. "That algorithm is bogus." 5. Unbelievable. "You claim
-to have solved the halting problem for Turing Machines? That's totally
-bogus." 6. Silly. "Stop writing those bogus sagas." Astrology is bogus. So is
-a bolt that is obviously about to break. So is someone who makes blatantly
-false claims to have solved a scientific problem. (This word seems to have
-some, but not all, of the connotations of RANDOM.) [Etymological note:
-"Bogus" was originally used in the hackish sense at Princeton, in the late
-60s. It was used not particularly in the CS department, but all over campus.
-It came to Yale, where one of us (Lehman) was an undergraduate, and (we
-assume) elsewhere through the efforts of Princeton alumni who brought the
-word with them from their alma mater. In the Yale case, the alumnus is
-Michael Shamos, who was a graduate student at Yale and is now a faculty
-member here. A glossary of bogus words was compiled at Yale when the word was
-first popularized (see AUTOBOGOTIPHOBIA under BOGOTIFY). By the mid-1980s it
-was also current in something like the hackish sense in West Coast teen
-slang] Further note: A correspondent at Cambridge claims these uses of bogus
-grate on British nerves; in Britain the word means rather specifically
-`counterfeit' as in "a bogus pound note".
+ :bogus: adj. 1. Non-functional. "Your patches are bogus." 2. Useless. "OPCON
+is a bogus program." 3. False. "Your arguments are bogus." 4. Incorrect.
+"That algorithm is bogus." 5. Unbelievable. "You claim to have solved the
+halting problem for Turing Machines? That's totally bogus." 6. Silly. "Stop
+writing those bogus sagas." Astrology is bogus. So is a bolt that is
+obviously about to break. So is someone who makes blatantly false claims to
+have solved a scientific problem. (This word seems to have some, but not all,
+of the connotations of {random} --- mostly the negative ones.) It is claimed
+that `bogus' was originally used in the hackish sense at Princeton in the
+late 1960s. It was spread to CMU and Yale by Michael Shamos, a migratory
+Princeton alumnus. A glossary of bogus words was compiled at Yale when the
+word was first popularized (see {autobogotiphobia} under {bogotify}). The
+word spread into hackerdom from CMU and MIT. By the early 1980s it was also
+current in something like the hackish sense in West Coast teen slang, and it
+had gone mainstream by 1985. A correspondent from Cambridge reports, by
+contrast, that these uses of `bogus' grate on British nerves; in Britain the
+word means, rather specifically, `counterfeit', as in "a bogus 10-pound
+note".

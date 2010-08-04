@@ -1,0 +1,5 @@
+ :machoflops: /mach'oh-flops/ [pun on `megaflops', a coinage for `millions of
+FLoating-point Operations Per Second'] n. Refers to artificially inflated
+performance figures often quoted by computer manufacturers. Real applications
+are lucky to get half the quoted speed. see {Your mileage may vary},
+{benchmark}.

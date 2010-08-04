@@ -1,5 +1,5 @@
- SMART adj. Said of a program that does the RIGHT THING (q.v.) in a wide
-variety of complicated circumstances. There is a difference between calling a
-program smart and calling it intelligent; in particular, there do not exist
-any intelligent programs (yet). Compare ROBUST (smart programs can be
-BRITTLE).
+ :smart: adj. Said of a program that does the {Right Thing} in a wide variety
+of complicated circumstances. There is a difference between calling a program
+smart and calling it intelligent; in particular, there do not exist any
+intelligent programs (yet --- see {AI-complete}). Compare {robust} (smart
+programs can be {brittle}).

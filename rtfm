@@ -1,6 +1,7 @@
- RTFM: /ahr-tee-ef-em/ [UNIX] imp. Abbrev. for `Read The Fucking Manual'. 1.
-Used by GURUs to brush off questions they consider trivial or annoying.
-Compare {Don't do that, then!}. 2. Used when reporting a problem to indicate
-that you aren't just asking out of {randomness}. "No, I can't figure out how
-to interface UNIX to my toaster, and yes, I have RTFM." Unlike sense #1, this
-use is considered polite. see also {RTFAQ}, {RTM}.
+ :RTFM: /R-T-F-M/ [UNIX] imp. Acronym for `Read The Fucking Manual'. 1. Used
+by {guru}s to brush off questions they consider trivial or annoying. Compare
+{Don't do that, then!} 2. Used when reporting a problem to indicate that you
+aren't just asking out of {randomness}. "No, I can't figure out how to
+interface UNIX to my toaster, and yes, I have RTFM." Unlike sense 1, this use
+is considered polite. see also {FM}, {RTFAQ}, {RTFB}, {RTFS}, {RTM}, all of
+which mutated from RTFM, and compare {UTSL}.

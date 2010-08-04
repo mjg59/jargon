@@ -1,9 +1,24 @@
- THUNK n. [from the implementation model for ALGOL-60's "call by name", a
-design accident that resulted from a THINKO when attempting to describe "call
-by reference"] 1. An expression, frozen together with its environment for
-later evaluation if and when needed. The process of unfreezing a THUNK is
-called `forcing'. 2. Stub routine, in an overlay programming environment,
-which loads and jumps to the correct overlay. 3. People and and activities
-scheduled in a thunklike manner. "It occurred to me the other day that I am
-rather accurately modelled by a thunk --- I frequently need to be forced to
-completion." --- paraphrased from a .plan file.
+ :thunk: /thuhnk/ n. 1. "A piece of coding which provides an address",
+according to P. Z. Ingerman, who invented thunks in 1961 as a way of binding
+actual parameters to their formal definitions in Algol-60 procedure calls. If
+a procedure is called with an expression in the place of a formal parameter,
+the compiler generates a {thunk} to compute the expression and leave the
+address of the result in some standard location. 2. Later generalized into:
+an expression, frozen together with its environment, for later evaluation if
+and when needed (similar to what in techspeak is called a `closure'). The
+process of unfreezing these thunks is called `forcing'. 3. A {stubroutine},
+in an overlay programming environment, that loads and jumps to the correct
+overlay. Compare {trampoline}. 4. People and activities scheduled in a
+thunklike manner. "It occurred to me the other day that I am rather
+accurately modeled by a thunk --- I frequently need to be forced to
+completion." --- paraphrased from a {plan file}. Historical note: There are a
+couple of onomatopoeic myths circulating about the origin of this term. The
+most common is that it is the sound made by data hitting the stack; another
+holds that the sound is that of the data hitting an accumulator. Yet another
+holds that it is the sound of the expression being unfrozen at
+argument-evaluation time. In fact, according to the inventors, it was coined
+after they realized (in the wee hours after hours of discussion) that the
+type of an argument in Algol-60 could be figured out in advance with a little
+compile-time thought, simplifying the evaluation machinery. In other words,
+it had `already been thought of'; thus it was christened a `thunk', which is
+"the past tense of `think' at two in the morning".

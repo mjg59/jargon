@@ -1,0 +1,11 @@
+ :OS/2: /O S too/ n. The anointed successor to MS-DOS for Intel 286- and
+386-based micros; proof that IBM/Microsoft couldn't get it right the second
+time, either. Mentioning it is usually good for a cheap laugh among hackers
+--- the design was so {baroque}, and the implementation of 1.x so bad, that 3
+years after introduction you could still count the major {app}s shipping for
+it on the fingers of two hands --- in unary. Often called `Half-an-OS'. On
+January 28, 1991, Microsoft announced that it was dropping its OS/2
+development to concentrate on Windows, leaving the OS entirely in the hands
+of IBM; on January 29 they claimed the media had got the story wrong, but
+were vague about how. It looks as though OS/2 is moribund. see {vaporware},
+{monstrosity}, {cretinous}, {second-system effect}.

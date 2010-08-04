@@ -1,0 +1,10 @@
+ :console:: n. 1. The operator's station of a {mainframe}. In times past,
+this was a privileged location that conveyed godlike powers to anyone with
+fingers on its keys. Under UNIX and other modern timesharing OSes, such
+privileges are guarded by passwords instead, and the console is just the
+{tty} the system was booted from. Some of the mystique remains, however, and
+it is traditional for sysadmins to post urgent messages to all users from the
+console (on UNIX, /dev/console). 2. On microcomputer UNIX boxes, the main
+screen and keyboard (as opposed to character-only terminals talking to a
+serial port). Typically only the console can do real graphics or run {X}. see
+also {CTY}.

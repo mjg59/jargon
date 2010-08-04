@@ -1,19 +1,18 @@
- GEDANKEN /g@-dahn'kn/ adj. Wild-eyed; impractical; not well-thought-out;
-untried; untested. "Gedanken" is a German word for "thought". A thought
-experiment is one you carry out in your head. In physics, the term "gedanken
-experiment" is used to refer to an experiment that is impractical to carry
+ :gedanken: /g*-don'kn/ adj. Ungrounded; impractical; not well-thought-out;
+untried; untested. `Gedanken' is a German word for `thought'. A thought
+experiment is one you carry out in your head. In physics, the term `gedanken
+experiment' is used to refer to an experiment that is impractical to carry
 out, but useful to consider because you can reason about it theoretically. (A
 classic gedanken experiment of relativity theory involves thinking about a
-man flying through space in an elevator.) Gedanken experiments are very
-useful in physics, but you have to be careful. It was a gedanken experiment
-that led Aristotle to conclude that heavy things always fall faster than
-light things (he thought about a rock and a feather); this was accepted until
-Galileo proved otherwise. Among hackers, however, the word has a pejorative
-connotation. It is said of a project, especially one in artificial
-intelligence research, which is written up in grand detail (typically as a
-Ph.D. thesis) without ever being implemented to any great extent. Such a
-project is usually perpetrated by people who aren't very good hackers or find
-programming distasteful or are just in a hurry. A gedanken thesis is usually
-marked by an obvious lack of intuition about what is programmable and what is
-not, and about what does and does not constitute a clear specification an
-algorithm.
+man in an elevator accelerating through space.) Gedanken experiments are very
+useful in physics, but you have to be careful. It's too easy to idealize away
+some important aspect of the real world in contructing your `apparatus'.
+Among hackers, accordingly, the word has a pejorative connotation. It is said
+of a project, especially one in artificial intelligence research, that is
+written up in grand detail (typically as a Ph.D. thesis) without ever being
+implemented to any great extent. Such a project is usually perpetrated by
+people who aren't very good hackers or find programming distasteful or are
+just in a hurry. A `gedanken thesis' is usually marked by an obvious lack of
+intuition about what is programmable and what is not, and about what does and
+does not constitute a clear specification of an algorithm. see also
+{AI-complete}, {DWIM}.

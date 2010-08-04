@@ -1,16 +1,26 @@
- BARE METAL n. 1. New computer hardware, unadorned with such snares and
-delusions as an OPERATING SYSTEM, HLL or even assembler. Commonly in the
-phrase "programming on the bare metal" which refers to the arduous work of
-BIT-BASHING needed to create these basic tools for a new machine. Real
-bare-metal programming involves things like building boot proms and BIOS
-chips, implementing basic monitors used to test device drivers, and writing
-the assemblers that will be used to write the compiler back ends that will
-give the new machine a real development environment. 2. The same phrase is
-also used to describe a style of HAND-HACKING that relies on bit-level
-peculiarities of a particular hardware design, esp. tricks for speed and
-space optimization that rely on crocks like overlapping opcodes (or, in one
-famous case, interleaving of opcodes on a magnetic drum to minimize fetch
-delays due to the device's rotational latency). This sort of thing has become
-less common as the relative costs of programming time and machine resources
-have changed, but is still found in heavily constrained environments like
-industrial embedded systems. see REAL PROGRAMMER.
+ :bare metal: n. 1. New computer hardware, unadorned with such snares and
+delusions as an {operating system}, an {HLL}, or even assembler. Commonly
+used in the phrase `programming on the bare metal', which refers to the
+arduous work of {bit bashing} needed to create these basic tools for a new
+machine. Real bare-metal programming involves things like building boot proms
+and BIOS chips, implementing basic monitors used to test device drivers, and
+writing the assemblers that will be used to write the compiler back ends that
+will give the new machine a real development environment. 2. `Programming on
+the bare metal' is also used to describe a style of {hand-hacking} that
+relies on bit-level peculiarities of a particular hardware design, esp.
+tricks for speed and space optimization that rely on crocks such as
+overlapping instructions (or, as in the famous case described in {The Story
+of Mel, a Real Programmer} (in {appendix A}), interleaving of opcodes on a
+magnetic drum to minimize fetch delays due to the device's rotational
+latency). This sort of thing has become less common as the relative costs of
+programming time and machine resources have changed, but is still found in
+heavily constrained environments such as industrial embedded systems. see
+{real programmer}. In the world of personal computing, bare metal programming
+(especially in sense 1 but sometimes also in sense 2) is often considered a
+{Good Thing}, or at least a necessary evil (because these machines have often
+been sufficiently slow and poorly designed to make it necessary; see
+{ill-behaved}). There, the term usually refers to bypassing the BIOS or OS
+interface and writing the application to directly access device registers and
+machine addresses. "To get 19.2 kilobaud on the serial port, you need to get
+down to the bare metal." People who can do this sort of thing are held in
+high regard.

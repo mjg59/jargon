@@ -1,7 +1,19 @@
- RED BOOK n. 1. Informal name for one of the three standard references on
-PostScript; the others are known as the GREEN BOOK and BLUE BOOK. 2. Any of
-the 1984 standards issued by the CCIT 8th plenary assembly. They change color
-each review cycle (1988 was BLUE BOOK, 1992 will be GREEN BOOK). These
-include, among other things, the X.400 email spec and the Group 1 through 4
-fax standards. see also GREEN BOOK, BLUE BOOK, PURPLE BOOK, SILVER BOOK,
-ORANGE BOOK, WHITE BOOK, PINK-SHIRT BOOK, DRAGON BOOK.
+ :Red Book: n. 1. Informal name for one of the three standard references on
+{PostScript} (`PostScript Language Reference Manual', Adobe Systems
+(Addison-Wesley, 1985; QA76.73.P67P67; ISBN 0-201-10174-2, or the 1990 second
+edition ISBN 0-201-18127-4); the others are known as the {Green Book}, the
+{Blue Book}, and the {White Book} (sense 2). 2. Informal name for one of the
+3 standard references on Smalltalk (`Smalltalk-80: The Interactive
+Programming Environment' by Adele Goldberg (Addison-Wesley, 1984;
+QA76.8.S635G638; ISBN 0-201-11372-4); this too is associated with blue and
+green books). 3. Any of the 1984 standards issued by the CCITT eighth plenary
+assembly. Until now, these have changed color each review cycle (1988 was
+{Blue Book}, 1992 will be {Green Book}); however, it is rumored that this
+convention is going to be dropped before 1992. These include, among other
+things, the X.400 email spec and the Group 1 through 4 fax standards. 4. The
+new version of the {Green Book} (sense 4) --- IEEE 1003.1-1990, a.k.a ISO
+9945-1 --- is (because of the color and the fact that it is printed on A4
+paper) known in the U.S.A. as "the Ugly Red Book That Won't Fit On The Shelf"
+and in Europe as "the Ugly Red Book That's A Sensible Size". 5. The NSA
+`Trusted Network Interpretation' companion to the {Orange Book}. see also
+{{book titles}}.

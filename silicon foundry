@@ -1,0 +1,7 @@
+ :silicon foundry: n. A company that {fab}s chips to the designs of others.
+As of the late 1980s, the combination of silicon foundries and good
+computer-aided design software made it much easier for hardware-designing
+startup companies to come into being. The downside of using a silicon foundry
+is that the distance from the actual chip-fabrication processes reduces
+designers' control of detail. This is somewhat analogous to the use of {HLL}s
+versus coding in assembler.

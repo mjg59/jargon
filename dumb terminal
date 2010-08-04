@@ -1,0 +1,5 @@
+ :dumb terminal: n. A terminal which is one step above a {glass tty}, having
+a minimally-addressable cursor but no on-screen editing or other features
+which are claimed by a {smart terminal}. Once upon a time, when glass ttys
+were common and addressable cursors were something special, what is now
+called a dumb terminal could pass for a smart terminal.

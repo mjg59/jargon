@@ -1,4 +1,3 @@
- FORKED [UNIX] adj. Terminally slow, or dead. Originated when the system
-slowed to incredibly bad speeds due to a process recursively spawning copies
-of itself (using the Unix system command fork(2)) and taking up all the
-process table entries.
+ :forked: [UNIX; prob. influenced by a mainstream expletive] adj. Terminally
+slow, or dead. Originated when one system was slowed to a snail's pace by an
+inadvertent {fork bomb}.

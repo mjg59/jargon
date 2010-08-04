@@ -1,3 +1,4 @@
- DUMBASS ATTACK /duhm'ass @-tak'/ [Purdue] n. A novice's mistake made by the
-experienced, especially one made by running as root under UNIX, eg. typing
-"rm *" or mkfs on a mounted file system. Compare ADGER.
+ :dumbass attack: /duhm'as *-tak'/ [Purdue] n. Notional cause of a novice's
+mistake made by the experienced, especially one made while running as {root}
+under UNIX, e.g., typing `rm -r *' or `mkfs' on a mounted file system.
+Compare {adger}.

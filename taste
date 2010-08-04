@@ -1,9 +1,10 @@
- TASTE n. [primarily MIT-DMS] The quality in programs which tends to be
+ :taste: [primarily MIT] n. 1. The quality in a program that tends to be
 inversely proportional to the number of features, hacks, and kluges
-programmed into it. Also, TASTY, TASTEFUL, TASTEFULNESS. "This feature comes
-in N tasty flavors." Although TASTEFUL and FLAVORFUL are essentially
-synonyms, TASTE and FLAVOR are not. TASTE refers to sound judgement on the
-part of the creator; a program or feature can *exhibit* taste but cannot
-"have" taste. On the other hand, a feature can have FLAVOR. Also, FLAVOR has
-the additional meaning of "kind" or "variety" not shared by TASTE. FLAVOR is
-a more popular word among hackers than TASTE, though both are used.
+programmed into it. Also `tasty', `tasteful', `tastefulness'. "This feature
+comes in N tasty flavors." Although `tasteful' and `flavorful' are
+essentially synonyms, `taste' and {flavor} are not. Taste refers to sound
+judgment on the part of the creator; a program or feature can *exhibit* taste
+but cannot *have* taste. On the other hand, a feature can have {flavor}.
+Also, {flavor} has the additional meaning of `kind' or `variety' not shared
+by `taste'. {Flavor} is a more popular word than `taste', though both are
+used. see also {elegant}. 2. Alt. sp. of {tayste}.

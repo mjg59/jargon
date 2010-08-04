@@ -1,9 +1,10 @@
- HOSED adj. Same as DOWN. Used primarily by UNIX hackers. Humorous: also
-implies a condition thought to be relatively easy to reverse. Probably a
-back-formation from the Canadian slang `hoser' popularized by the Bob and
-Doug skits on SCTV. see HOSE. There is a story that a Cray which had been
-experiencing periodic difficulties once CRASHED, and it was announced to have
-been HOSED. It was discovered that the crash was due to the disconnection of
-some coolant hoses. The problem was connected, and users were then assured
-that everything was OK because the system had been rehosed. [This is an
-excellent example of hackish wordplay --- ESR].
+ :hosed: adj. Same as {down}. Used primarily by UNIX hackers. Humorous: also
+implies a condition thought to be relatively easy to reverse. Probably
+derived from the Canadian slang `hoser' popularized by the Bob and Doug
+Mackenzie skits on SCTV. see {hose}. It is also widely used of people in the
+mainstream sense of `in an extremely unfortunate situation'. Once upon a
+time, a Cray that had been experiencing periodic difficulties crashed, and it
+was announced to have been hosed. It was discovered that the crash was due to
+the disconnection of some coolant hoses. The problem was corrected, and users
+were then assured that everything was OK because the system had been rehosed.
+see also {dehose}.

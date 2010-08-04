@@ -1,5 +1,9 @@
- INTERRUPT interj. 1. On a computer, an event which interrupts normal
+ :interrupt: 1. [techspeak] n. On a computer, an event that interrupts normal
 processing and temporarily diverts flow-of-control through an "interrupt
-handler" routine. see also TRAP. 2. A request for attention from a hacker.
-Often explicitly spoken. "Interrupt --- have you seen Joe recently?". see
-PRIORITY INTERRUPT.
+handler" routine. see also {trap}. 2. interj. A request for attention from a
+hacker. Often explicitly spoken. "Interrupt --- have you seen Joe recently?"
+see {priority interrupt}. 3. Under MS-DOS, the term `interrupt' is nearly
+synonymous with `system call', because the OS and BIOS routines are both
+called using the INT instruction (see {{interrupt list, the}}) and because
+programmers so often have to bypass the OS (going directly to a BIOS
+interrupt) to get reasonable performance.

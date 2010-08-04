@@ -1,4 +1,7 @@
- DEPRECATED n. Said of a program or feature that is considered obsolescent
-and in the process of being phased out, usually in favor of a specified
-replacement. Deprecated features can, unfortunately, linger on for many
-years.
+ :deprecated: adj. Said of a program or feature that is considered
+obsolescent and in the process of being phased out, usually in favor of a
+specified replacement. Deprecated features can, unfortunately, linger on for
+many years. This term appears with distressing frequency in standards
+documents when the committees which write them decide that a sufficient
+number of users have written code which depends on specific features which
+are out of favor.

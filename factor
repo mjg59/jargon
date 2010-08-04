@@ -1,0 +1,1 @@
+ :factor: n. see {coefficient of X}.

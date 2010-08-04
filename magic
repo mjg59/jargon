@@ -1,9 +1,11 @@
- MAGIC adj. 1. As yet unexplained, or too complicated to explain (compare
-AUTOMAGICALLY and Clarke's Third Law: "Any sufficiently advanced technology
-is indistinguishable from magic"). "TTY echoing is controlled by a large
-number of magic bits." "This routine magically computes the parity of an
-eight-bit byte in three instructions." 2. Characteristic of something that
-works but no one really understands why. 3. [Stanford] A feature not
-generally publicized which allows something otherwise impossible, or a
-feature formerly in that category but now unveiled. Example: The keyboard
-commands which override the screen-hiding features.
+ :magic: adj. 1. As yet unexplained, or too complicated to explain; compare
+{automagically} and (Arthur C.) Clarke's Third Law: "Any sufficiently
+advanced technology is indistinguishable from magic." "TTY echoing is
+controlled by a large number of magic bits." "This routine magically computes
+the parity of an 8-bit byte in three instructions." 2. Characteristic of
+something that works although no one really understands why (this is
+especially called {black magic}). 3. [Stanford] A feature not generally
+publicized that allows something otherwise impossible, or a feature formerly
+in that category but now unveiled. Compare {black magic}, {wizardly}, {deep
+magic}, {heavy wizardry}. For more about hackish `magic', see {A Story About
+`Magic'} (in {appendix A}).

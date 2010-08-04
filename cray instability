@@ -1,0 +1,4 @@
+ :cray instability: n. A shortcoming of a program or algorithm that manifests
+itself only when a large problem is being run on a powerful machine (see
+{cray}). Generally more subtle than bugs that can be detected in smaller
+problems running on a workstation or mini.

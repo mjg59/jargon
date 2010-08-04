@@ -1,3 +1,3 @@
- SHELL OUT [UNIX] n. To spawn an interactive subshell from within a program
-such as a mailer or editor. "BANG FOO runs FOO in a SUBSHELL, while BANG
-alone shells out."
+ :shell out: [UNIX] n. To spawn an interactive {subshell} from within a
+program (e.g., a mailer or editor). "Bang foo runs foo in a subshell, while
+bang alone shells out."

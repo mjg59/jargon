@@ -1,9 +1,15 @@
- CLONE n. 1. An exact duplicate, as in "our product is a clone of their
-product." 2. A shoddy, spurious copy, as in "their product is a clone of our
-product." 3. A blatant ripoff, most likely violating copyright, patent, or
-trade secret protections, as in "your product is a clone of my product." This
-usage implies legal action is pending. 4. A PC-BUS/ISA or EISA-compatible
-80x86 based microcomputer (in-context shorthand for "PC clone"). 5. In the
-construction UNIX CLONE: An OS designed to deliver a UNIX-lookalike
-environment sans UNIX license fees, or with additional "mission-critical"
-features such as support for real-time programming.
+ :clone: n. 1. An exact duplicate: "Our product is a clone of their product."
+Implies a legal reimplementation from documentation or by
+reverse-engineering. Also connotes lower price. 2. A shoddy, spurious copy:
+"Their product is a clone of our product." 3. A blatant ripoff, most likely
+violating copyright, patent, or trade secret protections: "Your product is a
+clone of my product." This use implies legal action is pending. 4. A `PC
+clone'; a PC-BUS/ISA or EISA-compatible 80x86-based microcomputer (this use
+is sometimes spelled `klone' or `PClone'). These invariably have much more
+bang for the buck than the IBM archetypes they resemble. 5. In the
+construction `UNIX clone': An OS designed to deliver a UNIX-lookalike
+environment without UNIX license fees, or with additional `mission-critical'
+features such as support for real-time programming. 6. v. To make an exact
+copy of something. "Let me clone that" might mean "I want to borrow that
+paper so I can make a photocopy" or "Let me get a copy of that file before
+you {mung} it".

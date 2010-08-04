@@ -1,0 +1,8 @@
+ :fab: /fab/ [from `fabricate'] v. 1. To produce chips from a design that may
+have been created by someone at another company. Fabbing chips based on the
+designs of others is the activity of a {silicon foundry}. To a hacker, `fab'
+is practically never short for `fabulous'. 2. `fab line': the production
+system (lithography, diffusion, etching, etc.) for chips at a chip
+manufacturer. Different `fab lines' are run with different process
+parameters, die sizes, or technologies, or simply to provide more
+manufacturing volume.

@@ -1,5 +1,6 @@
- VERSION 7 alt. V7 /vee-se'vn/ n. The 1978 unsupported release of UNIX (q.v.)
+ :Version 7: alt. V7 /vee' se'vn/ n. The 1978 unsupported release of {{UNIX}}
 ancestral to all current commercial versions. Before the release of the
-POSIX/SVID standards V7's features were often treated as a UNIX portability
-baseline. see BSD, USG UNIX, UNIX. Some old-timers impatient with
-commercialization and kernel bloat still maintain V7 was the Last True UNIX.
+POSIX/SVID standards, V7's features were often treated as a UNIX portability
+baseline. see {BSD}, {USG UNIX}, {{UNIX}}. Some old-timers impatient with
+commercialization and kernel bloat still maintain that V7 was the Last True
+UNIX.

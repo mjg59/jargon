@@ -1,4 +1,4 @@
- SERVER n. A kind of DAEMON which performs a service for the requester, which
-often runs on a computer other than the one on which the server runs. A
-particularly common term on the Internet, which is rife with "name servers"
-"domain servers" "news servers" "finger servers" and the like.
+ :server: n. A kind of {daemon} that performs a service for the requester and
+which often runs on a computer other than the one on which the server runs. A
+particularly common term on the Internet, which is rife with `name servers',
+`domain servers', `news servers', `finger servers', and the like.

@@ -1,8 +1,9 @@
- CHASE POINTERS 1. vi. To go through multiple levels of indirection, as in
+ :chase pointers: 1. vi. To go through multiple levels of indirection, as in
 traversing a linked list or graph structure. Used esp. by programmers in C,
-where explicit pointers are a very common data type. This is almost jargon in
-the strict sense, but remains slang when used of human networks. "I'm chasing
-pointers. Bob said you could tell me who to talk to about..." 2. [Cambridge]
-POINTER CHASE or POINTER HUNT: the process of going through a dump
-(intractively or on a large piece of paper printed with hex RUNES) following
-dynamic data-structures. Only used in a debugging context.
+where explicit pointers are a very common data type. This is techspeak, but
+it remains jargon when used of human networks. "I'm chasing pointers. Bob
+said you could tell me who to talk to about...." see {dangling pointer} and
+{snap}. 2. [Cambridge] `pointer chase' or `pointer hunt': The process of
+going through a dump (interactively or on a large piece of paper printed with
+hex {runes}) following dynamic data-structures. Used only in a debugging
+context.

@@ -1,0 +1,5 @@
+ :memory smash: [XEROX PARC] n. Writing through a pointer that doesn't point
+to what you think it does. This occasionally reduces your machine to a rubble
+of bits. Note that this is subtly different from (and more general than)
+related terms such as a {memory leak} or {fandango on core} because it
+doesn't imply an allocation error or overrun condition.

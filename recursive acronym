@@ -1,0 +1,8 @@
+ :recursive acronym:: pl.n. A hackish (and especially MIT) tradition is to
+choose acronyms/abbreviations that refer humorously to themselves or to other
+acronyms/abbreviations. The classic examples were two MIT editors called EINE
+("EINE Is Not EMACS") and ZWEI ("ZWEI Was EINE Initially"). More recently,
+there is a Scheme compiler called LIAR (Liar Imitates Apply Recursively), and
+{GNU} (q.v., sense 1) stands for "GNU's Not UNIX!" --- and a company with the
+name CYGNUS, which expands to "Cygnus, Your GNU Support". see also {mung},
+{EMACS}.

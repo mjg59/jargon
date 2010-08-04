@@ -1,4 +1,7 @@
- EXEC /eg'zek/ [shortened from "executive" or "execute"] vt.,n. 1. [UNIX]
-Synonym for CHAIN, derives from the exec(2) call. 2. (obs) The command
-interpreter for an OS (see SHELL); term esp. used on mainframes, and prob.
-derived from UNIVAC's archaic EXEC 2 and EXEC 8 operating systems. {= F =}
+ :exec: /eg-zek'/ vt.,n. 1. [UNIX: from `execute'] Synonym for {chain},
+derives from the `exec(2)' call. 2. [from `executive'] obs. The command
+interpreter for an {OS} (see {shell}); term esp. used around mainframes, and
+prob. derived from UNIVAC's archaic EXEC 2 and EXEC 8 operating systems. 3.
+At IBM and VM/CMS shops, the equivalent of a shell command file (among VM/CMS
+users). The mainstream `exec' as an abbreviation for (human) executive is
+*not* used. To a hacker, an `exec' is a always a program, never a person.

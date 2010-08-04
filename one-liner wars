@@ -1,7 +1,10 @@
- ONE-LINER WARS n. Popular game among hackers who code in the language APL
-(see WRITE-ONLY LANGUAGE). The objective is to see who can code the most
-interesting and/or useful routine in one line of operators chosen from APL's
-exceedingly HAIRY primitive set. [This is not *quite* as silly as it sounds;
-I myself have coded one-line LIFE (q.v.) programs and once uttered a
-one-liner that performed lexical analysis of its input string followed by a
-dictionary lookup for good measure --- ESR]
+ :one-liner wars: n. A game popular among hackers who code in the language
+APL (see {write-only language} and {line noise}). The objective is to see who
+can code the most interesting and/or useful routine in one line of operators
+chosen from APL's exceedingly {hairy} primitive set. A similar amusement was
+practiced among {TECO} hackers and is now popular among {Perl} aficionados.
+Ken Iverson, the inventor of APL, has been credited with a one-liner that,
+given a number N, produces a list of the prime numbers from 1 to N inclusive.
+It looks like this: (2 = 0 +.= T o.| T) / T <- iN where `o' is the APL null
+character, the assignment arrow is a single character, and `i' represents the
+APL iota.
