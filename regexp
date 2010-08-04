@@ -1,4 +1,4 @@
- :regexp: /reg'eksp/ [UNIX] n. (alt. `regex' or `reg-ex') 1. Common written
+ :regexp: /reg'eksp/ n. [UNIX] (alt. `regex' or `reg-ex') 1. Common written
 and spoken abbreviation for `regular expression', one of the wildcard
 patterns used, e.g., by UNIX utilities such as `grep(1)', `sed(1)', and
 `awk(1)'. These use conventions similar to but more elaborate than those

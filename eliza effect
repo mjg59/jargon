@@ -1,10 +1,10 @@
- :ELIZA effect: /*-li:'z* *-fekt'/ [AI community] n. The tendency of humans
+ :ELIZA effect: /*-li:'z* *-fekt'/ n. [AI community] The tendency of humans
 to attach associations to terms from prior experience. For example, there is
 nothing magic about the symbol `+' that makes it well-suited to indicate
 addition; it's just that people associate it with addition. Using `+' or
 `plus' to mean addition in a computer language is taking advantage of the
 ELIZA effect. This term comes from the famous ELIZA program by Joseph
-Weizenbaum, which simulated a Rogerian psychoanalyst by rephrasing many of
+Weizenbaum, which simulated a Rogerian psychotherapist by rephrasing many of
 the patient's statements as questions and posing them to the patient. It
 worked by simple pattern recognition and substitution of key words into
 canned phrases. It was so convincing, however, that there are many anecdotes

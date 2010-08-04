@@ -1,4 +1,4 @@
- :boot: [techspeak; from `by one's bootstraps'] v.,n. To load and initialize
+ :boot: v.,n. [techspeak; from `by one's bootstraps'] To load and initialize
 the operating system on a machine. This usage is no longer jargon (having
 passed into techspeak) but has given rise to some derivatives that are still
 jargon. The derivative `reboot' implies that the machine hasn't been down for

@@ -1,1 +1,1 @@
- :G: [SI] pref.,suff. see {{quantifiers}}.
+ :G: pref.,suff. [SI] see {{quantifiers}}.

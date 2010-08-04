@@ -1,4 +1,4 @@
- :netburp: [IRC] n. When {netlag} gets really bad, and delays between servers
+ :netburp: n. [IRC] When {netlag} gets really bad, and delays between servers
 exceed a certain threshhold, the {IRC} network effectively becomes
 partitioned for a period of time, and large numbers of people seem to be
 signing off at the same time and then signing back on again when things get

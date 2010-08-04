@@ -7,5 +7,5 @@ tool. Also implies surgical precision. "Zap the debug level to 6 and run it
 again." In the IBM mainframe world, binary patches are applied to programs or
 to the OS with a program called `superzap', whose file name is `IMASPZAP'
 (possibly contrived from I M A SuPerZAP). 5. vt. To erase or reset. 6. To
-{fry} a chip with static electricity. "Uh oh --- I think that lightning
-strike may have zapped the disk controller."
+{fry} a chip with static electricity. "Uh oh -- I think that lightning strike
+may have zapped the disk controller."

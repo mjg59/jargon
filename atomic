@@ -1,4 +1,4 @@
- :atomic: [from Gk. `atomos', indivisible] adj. 1. Indivisible; cannot be
+ :atomic: adj. [from Gk. `atomos', indivisible] 1. Indivisible; cannot be
 split up. For example, an instruction may be said to do several things
 `atomically', i.e., all the things are done immediately, and there is no
 chance of the instruction being half-completed or of another being

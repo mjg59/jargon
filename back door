@@ -5,23 +5,23 @@ privileged accounts intended for use by field service technicians or the
 vendor's maintenance programmers. Syn. {trap door}; may also be called a
 `wormhole'. see also {iron box}, {cracker}, {worm}, {logic bomb}.
 Historically, back doors have often lurked in systems longer than anyone
-expected or planned, and a few have become widely known. The infamous {RTM}
-worm of late 1988, for example, used a back door in the {BSD} UNIX
-`sendmail(8)' utility. Ken Thompson's 1983 Turing Award lecture to the ACM
-revealed the existence of a back door in early UNIX versions that may have
-qualified as the most fiendishly clever security hack of all time. The C
+expected or planned, and a few have become widely known. Ken Thompson's 1983
+Turing Award lecture to the ACM suggested the possibility of a back door in
+early UNIX versions that may have qualified as the most fiendishly clever
+security hack of all time (Thompson's presentation managed to be unclear on
+whether it was ever actually implemented or not). In this scheme, the C
 compiler contained code that would recognize when the `login' command was
 being recompiled and insert some code recognizing a password chosen by
 Thompson, giving him entry to the system whether or not an account had been
 created for him. Normally such a back door could be removed by removing it
 from the source code for the compiler and recompiling the compiler. But to
-recompile the compiler, you have to *use* the compiler --- so Thompson also
+recompile the compiler, you have to *use* the compiler -- so Thompson also
 arranged that the compiler would *recognize when it was compiling a version
 of itself*, and insert into the recompiled compiler the code to insert into
-the recompiled `login' the code to allow Thompson entry --- and, of course,
+the recompiled `login' the code to allow Thompson entry -- and, of course,
 the code to recognize itself and do the whole thing again the next time
 around! And having done this once, he was then able to recompile the compiler
 from the original sources; the hack perpetuated itself invisibly, leaving the
 back door in place and active but with no trace in the sources. The talk that
-revealed this truly moby hack was published as "Reflections on Trusting
+suggested this truly moby hack was published as "Reflections on Trusting
 Trust", "Communications of the ACM 27", 8 (August 1984), pp. 761--763.

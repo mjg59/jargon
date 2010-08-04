@@ -1,4 +1,4 @@
- :interrupt list, the:: [MS-DOS] n. The list of all known software interrupt
+ :interrupt list, the:: n. [MS-DOS] The list of all known software interrupt
 calls (both documented and undocumented) for IBM PCs and compatibles,
 maintained and made available for free redistribution by Ralf Brown
 <ralf@cs.cmu.edu>. As of late 1992, it had grown to approximately two

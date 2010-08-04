@@ -2,7 +2,7 @@
 was intended or not is immaterial. 2. An intended property or behavior (as of
 a program). Whether it is good or not is immaterial (but if bad, it is also a
 {misfeature}). 3. A surprising property or behavior; in particular, one that
-is purposely inconsistent because it works better that way --- such an
+is purposely inconsistent because it works better that way -- such an
 inconsistency is therefore a {feature} and not a {bug}. This kind of feature
 is sometimes called a {miswart}; see that entry for a classic example. 4. A
 property or behavior that is gratuitous or unnecessary, though perhaps also
@@ -24,7 +24,7 @@ seat doesn't recline." B: "That's not a bug, that's a feature. There is an
 emergency exit door built around the window behind you, and the route has to
 be kept clear." A: "Oh. Then it's a misfeature; they should have increased
 the spacing between rows here." B: "Yes. But if they'd increased spacing in
-only one section it would have been a wart --- they would've had to make
+only one section it would have been a wart -- they would've had to make
 nonstandard-length ceiling panels to fit over the displaced seats." A: "A
 miswart, actually. If they increased spacing throughout they'd lose several
 rows and a chunk out of the profit margin. So unequal spacing would actually

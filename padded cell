@@ -3,5 +3,5 @@ program that limits a luser to a carefully restricted subset of the
 capabilities of the host system (for example, the `rsh(1)' utility on USG
 UNIX). Note that this is different from an {iron box} because it is overt and
 not aimed at enforcing security so much as protecting others (and the luser)
-from the consequences of the luser's boundless naivet'e (see {naive}). Also
+from the consequences of the luser's boundless naivete (see {naive}). Also
 `padded cell environment'.

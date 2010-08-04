@@ -1,5 +1,5 @@
  :Brooks's Law: prov. "Adding manpower to a late software project makes it
-later" --- a result of the fact that the expected advantage from splitting
+later" -- a result of the fact that the expected advantage from splitting
 work among N programmers is O(N) (that is, proportional to N), but the
 complexity and communications cost associated with coordinating and then
 merging their work is O(N^2) (that is, proportional to the square of N). The

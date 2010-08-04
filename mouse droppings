@@ -1,4 +1,4 @@
- :mouse droppings: [MS-DOS] n. Pixels (usually single) that are not properly
+ :mouse droppings: n. [MS-DOS] Pixels (usually single) that are not properly
 restored when the mouse pointer moves away from a particular location on the
 screen, producing the appearance that the mouse pointer has left droppings
 behind. The major causes for this problem are programs that write to the

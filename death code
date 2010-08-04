@@ -1,5 +1,5 @@
- :death code: n. A routine whose job is to set everything in the computer ---
-registers, memory, flags, everything --- to zero, including that portion of
+ :death code: n. A routine whose job is to set everything in the computer --
+registers, memory, flags, everything -- to zero, including that portion of
 memory where it is running; its last act is to stomp on its own "store zero"
 instruction. Death code isn't very useful, but writing it is an interesting
 hacking challenge on architectures where the instruction set makes it

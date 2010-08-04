@@ -1,4 +1,4 @@
- :pod: [allegedly from abbreviation POD for `Prince Of Darkness'] n. A Diablo
+ :pod: n. [allegedly from abbreviation POD for `Prince Of Darkness'] A Diablo
 630 (or, latterly, any letter-quality impact printer). From the DEC-10
 PODTYPE program used to feed formatted text to it. Not to be confused with
 {P.O.D.}.

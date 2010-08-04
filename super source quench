@@ -6,4 +6,4 @@ host to send certain packets to a different local router. A "super source
 quench" is actually a redirect control packet, forged to look like it came
 from a local router, that instructs a host to send all packets to its own
 local loopback address. This will effectively tie many Internet hosts up in
-knots. Compare {godzillagram}, {breath-of-life packet}.
+knots. Compare {Godzillagram}, {breath-of-life packet}.

@@ -1,4 +1,4 @@
- :ARMM: [acronym, `Automated Retroactive Minimal Moderation'] n. A USENET
+ :ARMM: n. [acronym, `Automated Retroactive Minimal Moderation'] A USENET
 robot created by Dick Depew of Munroe Falls, Ohio. ARMM was intended to
 automatically cancel posts from anonymous-posting sites. Unfortunately, the
 robot's recognizer for anonymous postings triggered on its own
@@ -15,5 +15,5 @@ one mail system, and upset people paying line charges for their USENET feeds.
 One poster described the ARMM debacle as "instant USENET history" (also
 establishing the term {despew}), and it has since been widely cited as a
 cautionary example of the havoc the combination of good intentions and
-incompetence can wreak on a network. Compare {Great Worm, The}; {sorcerer's
+incompetence can wreak on a network. Compare {Great Worm, the}; {sorcerer's
 apprentice mode}. see also {software laser}, {network meltdown}.

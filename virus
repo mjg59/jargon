@@ -1,4 +1,4 @@
- :virus: [from the obvious analogy with biological viruses, via SF] n. A
+ :virus: n. [from the obvious analogy with biological viruses, via SF] A
 cracker program that searches out other programs and `infects' them by
 embedding a copy of itself in them, so that they become {Trojan horse}s. When
 these programs are executed, the embedded virus is executed too, thus

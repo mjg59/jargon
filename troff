@@ -1,4 +1,4 @@
- :troff:: /T'rof/ or /trof/ [UNIX] n. The gray eminence of UNIX text
+ :troff:: /T'rof/ or /trof/ n. [UNIX] The gray eminence of UNIX text
 processing; a formatting and phototypesetting program, written originally in
 PDP-11 assembler and then in barely-structured early C by the late Joseph
 Ossanna, modeled after the earlier ROFF which was in turn modeled after
@@ -8,7 +8,7 @@ and line printers. In 1979, Brian Kernighan modified `troff' so that it could
 drive phototypesetters other than the Graphic Systems CAT. His paper
 describing that work ("A Typesetter-independent troff," AT&T CSTR #97)
 explains troff's durability. After discussing the program's "obvious
-deficiencies --- a rebarbative input syntax, mysterious and undocumented
+deficiencies -- a rebarbative input syntax, mysterious and undocumented
 properties in some areas, and a voracious appetite for computer resources"
 and noting the ugliness and extreme hairiness of the code and internals,
 Kernighan concludes: None of these remarks should be taken as denigrating

@@ -1,5 +1,5 @@
- :schroedinbug: /shroh'din-buhg/ [MIT: from the Schroedinger's Cat
-thought-experiment in quantum physics] n. A design or implementation bug in a
+ :schroedinbug: /shroh'din-buhg/ n. [MIT: from the Schroedinger's Cat
+thought-experiment in quantum physics] A design or implementation bug in a
 program that doesn't manifest until someone reading source or using the
 program in an unusual way notices that it never should have worked, at which
 point the program promptly stops working for everybody until fixed. Though

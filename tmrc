@@ -12,7 +12,7 @@ dispatch board, which was itself something of a wonder in those bygone days
 before cheap LEDS and seven-segment displays. When someone hit a scram switch
 the clock stopped and the display was replaced with the word `FOO'; at TMRC
 the scram switches are therefore called `foo switches'. Steven Levy, in his
-book "Hackers" (see the Bibliography in {Appendix C}), gives a stimulating
+book "Hackers" (see the {Bibliography} in Appendix C), gives a stimulating
 account of those early years. TMRC's Power and Signals group included most of
 the early PDP-1 hackers and the people who later bacame the core of the MIT
 AI Lab staff. Thirty years later that connection is still very much alive,

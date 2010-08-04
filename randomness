@@ -3,7 +3,7 @@
 possibly, the combination upon which the crock depends for its accidental
 failure to malfunction). "This hack can output characters 40--57 by putting
 the character in the four-bit accumulator field of an XCT and then extracting
-six bits --- the low 2 bits of the XCT opcode are the right thing." "What
+six bits -- the low 2 bits of the XCT opcode are the right thing." "What
 randomness!" 3. Of people, synonymous with `flakiness'. The connotation is
 that the person so described is behaving weirdly, incompetently, or
 inappropriately for reasons which are (a) too tiresome to bother inquiring

@@ -4,7 +4,7 @@ problems for which a solution would neither advance the state of the art nor
 be fun to design and code. Hackers regard uninteresting problems as
 intolerable wastes of time, to be solved (if at all) by lesser mortals.
 *Real* hackers (see {toolsmith}) generalize uninteresting problems enough to
-make them interesting and solve them --- thus solving the original problem as
+make them interesting and solve them -- thus solving the original problem as
 a special case (and, it must be admitted, occasionally turning a molehill
 into a mountain, or a mountain into a tectonic plate). see {WOMBAT}, {SMOP};
 compare {toy problem}, oppose {interesting}.

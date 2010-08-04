@@ -1,4 +1,4 @@
- :rib site: [by analogy with {backbone site}] n. A machine that has an
+ :rib site: n. [by analogy with {backbone site}] A machine that has an
 on-demand high-speed link to a {backbone site} and serves as a regional
 distribution point for lots of third-party traffic in email and USENET news.
 Compare {leaf site}, {backbone site}.

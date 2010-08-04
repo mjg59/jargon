@@ -1,11 +1,11 @@
- :Dissociated Press: [play on `Associated Press'; perhaps inspired by a
-reference in the 1949 Bugs Bunny cartoon "What's Up, Doc?"] n. An algorithm
-for transforming any text into potentially humorous garbage even more
-efficiently than by passing it through a {marketroid}. The algorithm starts
-by printing any N consecutive words (or letters) in the text. Then at every
-step it searches for any random occurrence in the original text of the last N
-words (or letters) already printed and then prints the next word or letter.
-{EMACS} has a handy command for this. Here is a short example of word-based
+ :Dissociated Press: n. [play on `Associated Press'; perhaps inspired by a
+reference in the 1949 Bugs Bunny cartoon "What's Up, Doc?"] An algorithm for
+transforming any text into potentially humorous garbage even more efficiently
+than by passing it through a {marketroid}. The algorithm starts by printing
+any N consecutive words (or letters) in the text. Then at every step it
+searches for any random occurrence in the original text of the last N words
+(or letters) already printed and then prints the next word or letter. {EMACS}
+has a handy command for this. Here is a short example of word-based
 Dissociated Press applied to an earlier version of this Jargon File: wart: n.
 A small, crocky {feature} that sticks out of an array (C has no checks for
 this). This is relatively benign and easy to spot if the phrase is bent so as

@@ -1,0 +1,7 @@
+ :daemon book: n. "The Design and Implementation of the 4.3BSD UNIX Operating
+System", by Samuel J. Leffler, Marshall Kirk McKusick, Michael J. Karels, and
+John S. Quarterman (Addison-Wesley Publishers, 1989, ISBN 0-201-06196-1) --
+the standard reference book on the internals of {BSD} UNIX. So called because
+the cover has a picture depicting a little devil (a visual play on {daemon})
+in sneakers, holding a pitchfork (referring to one of the characteristic
+features of UNIX, the `fork(2)' system call). Also known as the {Devil Book}.

@@ -19,7 +19,7 @@ should be laid out. Some vendors opted to emulate the Teletype keyboard,
 while others used the flexibility of electronic circuitry to make their
 product look like an office typewriter. These alternatives became known as
 `bit-paired' and `typewriter-paired' keyboards. To a hacker, the bit-paired
-keyboard seemed far more logical --- and because most hackers in those days
+keyboard seemed far more logical -- and because most hackers in those days
 had never learned to touch-type, there was little pressure from the
 pioneering users to adapt keyboards to the typewriter standard. The doom of
 the bit-paired keyboard was the large-scale introduction of the computer

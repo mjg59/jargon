@@ -1,4 +1,4 @@
- :rogue: [UNIX] n. A Dungeons-and-Dragons-like game using character graphics,
+ :rogue: n. [UNIX] A Dungeons-and-Dragons-like game using character graphics,
 written under BSD UNIX and subsequently ported to other UNIX systems. The
 original BSD `curses(3)' screen-handling package was hacked together by Ken
 Arnold to support `rogue(6)' and has since become one of UNIX's most

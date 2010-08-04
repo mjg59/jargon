@@ -3,7 +3,7 @@ Describes a talk on a programming language design that is heavy on the syntax
 (with lots of BNF), sometimes even talks about semantics (e.g., type
 systems), but rarely, if ever, has any content (see {content-free}). More
 broadly applied to talks --- even when the topic is not a programming
-language --- in which the subject matter is gone into in unnecessary and
+language -- in which the subject matter is gone into in unnecessary and
 meticulous detail at the sacrifice of any conceptual content. "Well, it was a
 typical MFTL talk". 2. n. Describes a language about which the developers are
 passionate (often to the point of prosyletic zeal) but no one else cares

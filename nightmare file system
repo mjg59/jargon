@@ -9,7 +9,7 @@ either the down machine or the pseudo-down machine, and itself becomes
 pseudo-down. The first machine to discover the down one is now trying both to
 access the down one and to respond to the pseudo-down one, so it is even
 harder to reach. This situation snowballs very quickly, and soon the entire
-network of machines is frozen --- worst of all, the user can't even abort the
+network of machines is frozen -- worst of all, the user can't even abort the
 file access that started the problem! Many of NFS's problems are excused by
 partisans as being an inevitable result of its statelessness, which is held
 to be a great feature (critics, of course, call it a great {misfeature}).

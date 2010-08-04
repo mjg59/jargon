@@ -9,7 +9,7 @@ dongle. The idea was clever, but it was initially a failure, as users
 disliked tying up a serial port this way. Almost all dongles on the market
 today (1993) will pass data through the port and monitor for {magic} codes
 (and combinations of status lines) with minimal if any interference with
-devices further down the line --- this innovation was necessary to allow
+devices further down the line -- this innovation was necessary to allow
 daisy-chained dongles for multiple pieces of software. The devices are still
 not widely used, as the industry has moved away from copy-protection schemes
 in general. 2. By extension, any physical electronic key or transferable ID

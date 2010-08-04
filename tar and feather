@@ -1,4 +1,4 @@
- :tar and feather: [from UNIX `tar(1)'] vt. To create a transportable archive
+ :tar and feather: vi. [from UNIX `tar(1)'] To create a transportable archive
 from a group of files by first sticking them together with `tar(1)' (the Tape
 ARchiver) and then compressing the result (see {compress}). The latter action
 is dubbed `feathering' partly for euphony and (if only for contrived effect)

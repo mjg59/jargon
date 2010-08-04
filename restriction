@@ -8,7 +8,7 @@ technical constraints of a nature no mere user could possibly comprehend
 Newcomer advises that whenever choosing a quantifiable but arbitrary
 restriction, you should make it either a power of 2 or a power of 2 minus 1.
 If you impose a limit of 17 items in a list, everyone will know it is a
-random number --- on the other hand, a limit of 15 or 16 suggests some deep
+random number -- on the other hand, a limit of 15 or 16 suggests some deep
 reason (involving 0- or 1-based indexing in binary) and you will get less
 {flamage} for it. Limits which are round numbers in base 10 are always
 especially suspect.

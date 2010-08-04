@@ -9,4 +9,4 @@ mathematically guaranteed to work on simply-connected mazes --- and, in fact,
 Harvey outperformed more sophisticated robots that tried to `learn' each maze
 by building an internal representation of it. Used of humans, the term *is*
 pejorative and implies an uncreative, bureaucratic, by-the-book mentality.
-see also {code grinder}, {droid}.
+see also {code grinder}; compare {droid}.

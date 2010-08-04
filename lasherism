@@ -1,7 +1,7 @@
- :Lasherism: [Harvard] n. A program that solves a standard problem (such as
+ :Lasherism: n. [Harvard] A program that solves a standard problem (such as
 the Eight Queens puzzle or implementing the {life} algorithm) in a
 deliberately nonstandard way. Distinguished from a {crock} or {kluge} by the
 fact that the programmer did it on purpose as a mental exercise. Such
 constructions are quite popular in exercises such as the {Obfuscated C
-contest}, and occasionally in {retrocomputing}. Lew Lasher was a student at
+Contest}, and occasionally in {retrocomputing}. Lew Lasher was a student at
 Harvard around 1980 who became notorious for such behavior.

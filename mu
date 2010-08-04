@@ -14,4 +14,4 @@ from overgeneralization of the answer in the following well-known Rinzei Zen
 teaching riddle: A monk asked Joshu, "Does a dog have the Buddha nature?"
 Joshu retorted, "Mu!" see also {has the X nature}, {AI Koans}, and Douglas
 Hofstadter's "G"odel, Escher, Bach: An Eternal Golden Braid" (pointer in the
-Bibliography in {Appendix C}).
+{Bibliography} in Appendix C.

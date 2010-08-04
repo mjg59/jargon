@@ -1,4 +1,4 @@
- :magic number: [UNIX/C] n. 1. In source code, some non-obvious constant
+ :magic number: n. [UNIX/C] 1. In source code, some non-obvious constant
 whose value is significant to the operation of a program and that is inserted
 inconspicuously in-line ({hardcoded}), rather than expanded in by a symbol
 set by a commented `#define'. Magic numbers in this sense are bad style. 2. A
@@ -14,10 +14,10 @@ these magic numbers were PDP-11 branch instructions that skipped over header
 data to the start of executable code; 0407, for example, was octal for
 `branch 16 bytes relative'. Nowadays only a {wizard} knows the spells to
 create magic numbers. How do you choose a fresh magic number of your own?
-Simple --- you pick one at random. see? It's magic! *The* magic number, on
-the other hand, is 7+/-2. see "The magical number seven, plus or minus two:
-some limits on our capacity for processing information" by George Miller, in
-the "Psychological Review" 63:81-97 (1956). This classic paper established
-the number of distinct items (such as numeric digits) that humans can hold in
+Simple -- you pick one at random. see? It's magic! *The* magic number, on the
+other hand, is 7+/-2. see "The magical number seven, plus or minus two: some
+limits on our capacity for processing information" by George Miller, in the
+"Psychological Review" 63:81-97 (1956). This classic paper established the
+number of distinct items (such as numeric digits) that humans can hold in
 short-term memory. Among other things, this strongly influenced the interface
 design of the phone system.

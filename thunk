@@ -10,7 +10,7 @@ process of unfreezing these thunks is called `forcing'. 3. A {stubroutine},
 in an overlay programming environment, that loads and jumps to the correct
 overlay. Compare {trampoline}. 4. People and activities scheduled in a
 thunklike manner. "It occurred to me the other day that I am rather
-accurately modeled by a thunk --- I frequently need to be forced to
+accurately modeled by a thunk -- I frequently need to be forced to
 completion." --- paraphrased from a {plan file}. Historical note: There are a
 couple of onomatopoeic myths circulating about the origin of this term. The
 most common is that it is the sound made by data hitting the stack; another

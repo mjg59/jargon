@@ -1,4 +1,4 @@
- :vi: /V-I/, *not* /vi:/ and *never* /siks/ [from `Visual Interface'] n. A
+ :vi: /V-I/, *not* /vi:/ and *never* /siks/ n. [from `Visual Interface'] A
 screen editor crufted together by Bill Joy for an early {BSD} release. Became
 the de facto standard UNIX editor and a nearly undisputed hacker favorite
 outside of MIT until the rise of {EMACS} after about 1984. Tends to frustrate

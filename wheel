@@ -1,3 +1,6 @@
- :wheel: [from slang `big wheel' for a powerful person] n. A person who has
+ :wheel: n. [from slang `big wheel' for a powerful person] A person who has
 an active {wheel bit}. "We need to find a wheel to unwedge the hung tape
-drives." (see {wedged}, sense 1.)
+drives." (see {wedged}, sense 1.) The traditional name of security group zero
+in {BSD} (to which the major system-internal users like {root} belong) is
+`wheel'. Some vendors have expanded on this usage, modifying UNIX so that
+only members of group `wheel' can {go root}

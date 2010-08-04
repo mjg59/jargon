@@ -6,7 +6,7 @@ additional flavor by allowing one to print text either right-side-up or
 upside-down." see {vanilla}. This usage was certainly reinforced by the
 terminology of quantum chromodynamics, in which quarks (the constituents of,
 e.g., protons) come in six flavors (up, down, strange, charm, top, bottom)
-and three colors (red, blue, green) --- however, hackish use of `flavor' at
+and three colors (red, blue, green) -- however, hackish use of `flavor' at
 MIT predated QCD. 3. The term for `class' (in the object-oriented sense) in
 the LISP Machine Flavors system. Though the Flavors design has been
 superseded (notably by the Common LISP CLOS facility), the term `flavor' is

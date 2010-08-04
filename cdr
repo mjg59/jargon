@@ -1,4 +1,4 @@
- :cdr: /ku'dr/ or /kuh'dr/ [from LISP] vt. To skip past the first item from a
+ :cdr: /ku'dr/ or /kuh'dr/ vt. [from LISP] To skip past the first item from a
 list of things (generalized from the LISP operation on binary tree
 structures, which returns a list consisting of all but the first element of
 its argument). In the form `cdr down', to trace down a list of elements:

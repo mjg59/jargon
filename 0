@@ -7,7 +7,7 @@ on end (or the reverse), you're probably looking at a modern character
 display (though the dotted zero seems to have originated as an option on IBM
 3270 controllers). If your zero is slashed but letter-O is not, you're
 probably looking at an old-style ASCII graphic set descended from the default
-typewheel on the venerable ASR-33 Teletype (Scandinavians, for whom slashed-O
+typewheel on the venerable ASR-33 Teletype (Scandinavians, for whom Slashed-O
 is a letter, curse this arrangement). If letter-O has a slash across it and
 the zero does not, your display is tuned for a very old convention used at
 IBM and a few other early mainframe makers (Scandinavians curse *this*

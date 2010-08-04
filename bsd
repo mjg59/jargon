@@ -5,4 +5,6 @@ memory, TCP/IP networking enhancements, and many other features. The BSD
 versions (4.1, 4.2, and 4.3) and the commercial versions derived from them
 (SunOS, ULTRIX, and Mt. Xinu) held the technical lead in the UNIX world until
 AT&T's successful standardization efforts after about 1986, and are still
-widely popular. see {{UNIX}}, {USG UNIX}.
+widely popular. Note that BSD versions going back to 2.9 are often referred
+to by their version numbers, without the BAD prefix. see {4.2}, {{UNIX}},
+{USG UNIX}.

@@ -1,4 +1,4 @@
- :hidden flag: [scientific computation] n. An extra option added to a routine
+ :hidden flag: n. [scientific computation] An extra option added to a routine
 without changing the calling sequence. For example, instead of adding an
 explicit input variable to instruct a routine to give extra diagnostic
 output, the programmer might just add a test for some otherwise meaningless

@@ -3,4 +3,4 @@ magnetic media that were once state-of-the-art storage devices. Under BSD
 UNIX the disk partition used for swapping is still called `/dev/drum'; this
 has led to considerable humor and not a few straight-faced but utterly bogus
 `explanations' getting foisted on {newbie}s. see also "{The Story of Mel, a
-Real Programmer}" in {Appendix A}.
+Real Programmer}" in Appendix A.

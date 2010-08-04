@@ -1,4 +1,4 @@
- :precedence lossage: /pre's*-dens los'*j/ [C programmers] n. Coding error in
+ :precedence lossage: /pre's*-dens los'*j/ n. [C programmers] Coding error in
 an expression due to unexpected grouping of arithmetic or logical operators
 by the compiler. Used esp. of certain common coding errors in C due to the
 nonintuitively low precedence levels of `&', `|', `^', `<<', and `>>' (for

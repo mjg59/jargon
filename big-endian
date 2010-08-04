@@ -1,6 +1,6 @@
- :big-endian: [From Swift's "Gulliver's Travels" via the famous paper "On
-Holy Wars and a Plea for Peace" by Danny Cohen, USC/ISI IEN 137, dated April
-1, 1980] adj. 1. Describes a computer architecture in which, within a given
+ :big-endian: adj. [From Swift's "Gulliver's Travels" via the famous paper
+"On Holy Wars and a Plea for Peace" by Danny Cohen, USC/ISI IEN 137, dated
+April 1, 1980] 1. Describes a computer architecture in which, within a given
 multi-byte numeric representation, the most significant byte has the lowest
 address (the word is stored `big-end-first'). Most processors, including the
 IBM 370 family, the {PDP-10}, the Motorola microprocessor families, and most
@@ -12,5 +12,5 @@ and ending up with the name of the country. In the U.K. the Joint Networking
 Team had decided to do it the other way round before the Internet domain
 standard was established; e.g., me@uk.ac.wigan.cs. Most gateway sites have
 {ad-hockery} in their mailers to handle this, but can still be confused. In
-particular, the address above could be in the U.K. (domain uk) or
-Czechoslovakia (domain cs).
+particular, the address above could be in the U.K. (domain uk) or the domain
+cs (formerly, Czechoslovakia).

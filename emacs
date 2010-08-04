@@ -1,4 +1,4 @@
- :EMACS: /ee'maks/ [from Editing MACroS] n. The ne plus ultra of hacker
+ :EMACS: /ee'maks/ n. [from Editing MACroS] The ne plus ultra of hacker
 editors, a programmable text editor with an entire LISP system inside it. It
 was originally written by Richard Stallman in {TECO} under {{ITS}} at the MIT
 AI lab; AI Memo 554 described it as "an advanced, self-documenting,

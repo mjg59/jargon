@@ -10,7 +10,7 @@ the bare metal' is also used to describe a style of {hand-hacking} that
 relies on bit-level peculiarities of a particular hardware design, esp.
 tricks for speed and space optimization that rely on crocks such as
 overlapping instructions (or, as in the famous case described in {The Story
-of Mel, a Real Programmer} (in {Appendix A}), interleaving of opcodes on a
+of Mel, a Real Programmer} (in Appendix A), interleaving of opcodes on a
 magnetic drum to minimize fetch delays due to the device's rotational
 latency). This sort of thing has become less common as the relative costs of
 programming time and machine resources have changed, but is still found in

@@ -3,7 +3,7 @@
 time, either. Often called `Half-an-OS'. Mentioning it is usually good for a
 cheap laugh among hackers --- the design was so {baroque}, and the
 implementation of 1.x so bad, that 3 years after introduction you could still
-count the major {app}s shipping for it on the fingers of two hands --- in
+count the major {app}s shipping for it on the fingers of two hands -- in
 unary. The 2.x versions are said to have improved somewhat, and informed
 hackers now rate them superior to Microsoft Windows (an endorsement which,
 however, could easily be construed as damning with faint praise). see

@@ -5,4 +5,4 @@ of both: like a printing terminal, it can't do fancy display hacks, and like
 a display terminal, it doesn't produce hard copy. An example is the early
 `dumb' version of Lear-Siegler ADM 3 (without cursor control). see {tube},
 {tty}; compare {dumb terminal}, {smart terminal}. see "{TV Typewriters}"
-(appendix A) for an interesting true story about a glass tty.
+(Appendix A) for an interesting true story about a glass tty.

@@ -1,4 +1,4 @@
- :dd: /dee-dee/ [UNIX: from IBM {JCL}] vt. Equivalent to {cat} or {BLT}.
+ :dd: /dee-dee/ vt. [UNIX: from IBM {JCL}] Equivalent to {cat} or {BLT}.
 Originally the name of a UNIX copy command with special options suitable for
 block-oriented devices; it was often used in heavy-handed system maintenance,
 as in "Let's `dd' the root partition onto a tape, then use the boot PROM to

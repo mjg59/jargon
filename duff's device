@@ -12,4 +12,4 @@ actually perfectly valid, legal C. C's default {fall through} in case
 statements has long been its most controversial single feature; Duff observed
 that "This code forms some sort of argument in that debate, but I'm not sure
 whether it's for or against." [For maximal obscurity, the outermost pair of
-braces above could be actually be removed --- GLS]
+braces above could be actually be removed -- GLS]

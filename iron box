@@ -1,7 +1,7 @@
- :iron box: [UNIX/Internet] n. A special environment set up to trap a
+ :iron box: n. [UNIX/Internet] A special environment set up to trap a
 {cracker} logging in over remote connections long enough to be traced. May
 include a modified {shell} restricting the cracker's movements in unobvious
 ways, and `bait' files designed to keep him interested and logged on. see
 also {back door}, {firewall machine}, {Venus flytrap}, and Clifford Stoll's
 account in "{The Cuckoo's Egg}" of how he made and used one (see the
-Bibliography in appendix C). Compare {padded cell}.
+{Bibliography} in Appendix C). Compare {padded cell}.

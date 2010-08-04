@@ -1,7 +1,7 @@
- :quine: /kwi:n/ [from the name of the logician Willard V. Quine, via Douglas
-Hofstadter] n. A program that generates a copy of its own source text as its
-complete output. Devising the shortest possible quine in some given
-programming language is a common hackish amusement. Here is one classic
+ :quine: /kwi:n/ n. [from the name of the logician Willard van Orman Quine,
+via Douglas Hofstadter] A program that generates a copy of its own source
+text as its complete output. Devising the shortest possible quine in some
+given programming language is a common hackish amusement. Here is one classic
 quine: ((lambda (x) (list x (list (quote quote) x))) (quote (lambda (x) (list
 x (list (quote quote) x))))) This one works in LISP or Scheme. It's
 relatively easy to write quines in other languages such as Postscript which

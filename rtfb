@@ -1,4 +1,4 @@
- :RTFB: /R-T-F-B/ [UNIX] imp. Acronym for `Read The Fucking Binary'. Used
+ :RTFB: /R-T-F-B/ imp. [UNIX] Acronym for `Read The Fucking Binary'. Used
 when neither documentation nor source for the problem at hand exists, and the
 only thing to do is use some debugger or monitor and directly analyze the
 assembler or even the machine code. "No source for the buggy port driver?

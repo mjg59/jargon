@@ -1,4 +1,4 @@
- :screaming tty: [UNIX] n. A terminal line which spews an infinite number of
+ :screaming tty: n. [UNIX] A terminal line which spews an infinite number of
 random characters at the operating system. This can happen if the terminal is
 either disconnected or connected to a powered-off terminal but still enabled
 for login; misconfiguration, misimplementation, or simple bad luck can start

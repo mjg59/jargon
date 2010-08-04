@@ -16,7 +16,7 @@ was often a convoluted {patch space} and headaches galore. 5. [UNIX] the
 `patch(1)' program, written by Larry Wall, which automatically applies a
 patch (sense 3) to a set of source code. There is a classic story of a {tiger
 team} penetrating a secure military computer that illustrates the danger
-inherent in binary patches (or, indeed, any patches that you can't --- or
+inherent in binary patches (or, indeed, any patches that you can't -- or
 don't --- inspect and examine before installing). They couldn't find any
 {trap door}s or any way to penetrate security of IBM's OS, so they made a
 site visit to an IBM office (remember, these were official military types who

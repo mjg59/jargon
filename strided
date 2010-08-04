@@ -1,4 +1,4 @@
- :strided: /str:'d*d/ [scientific computing] adj. Said of a sequence of
+ :strided: /str:'d*d/ adj. [scientific computing] Said of a sequence of
 memory reads and writes to addresses, each of which is separated from the
 last by a constant interval called the `stride length'. These can be a
 worst-case access pattern for the standard memory-caching schemes when the

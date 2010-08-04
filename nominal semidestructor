@@ -1,6 +1,6 @@
  :Nominal Semidestructor: n. Soundalike slang for `National Semiconductor',
-found among other places in the 4.3BSD networking sources. During the late
-1970s to mid-1980s this company marketed a series of microprocessors
+found among other places in the Networking/2 networking sources. During the
+late 1970s to mid-1980s this company marketed a series of microprocessors
 including the NS16000 and NS32000 and several variants. At one point early in
 the great microprocessor race, the specs on these chips made them look like
 serious competition for the rising Intel 80x86 and Motorola 680x0 series.

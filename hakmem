@@ -21,7 +21,7 @@ machine. If the result loops with period = 1 at -1, you are on a
 twos-complement machine. If the result loops with period greater than 1,
 including the beginning, you are on a ones-complement machine. If the result
 loops with period greater than 1, not including the beginning, your machine
-isn't binary --- the pattern should tell you the base. If you run out of
+isn't binary -- the pattern should tell you the base. If you run out of
 memory, you are on a string or bignum system. If arithmetic overflow is a
 fatal error, some fascist pig with a read-only mind is trying to enforce
 machine independence. But the very ability to trap overflow is machine

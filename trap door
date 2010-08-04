@@ -1,4 +1,4 @@
- :trap door: alt. `trapdoor' n. 1. Syn. {back door} --- a {Bad Thing}. 2.
+ :trap door: n. (alt. `trapdoor') 1. Syn. {back door} -- a {Bad Thing}. 2.
 [techspeak] A `trap-door function' is one which is easy to compute but very
 difficult to compute the inverse of. Such functions are {Good Thing}s with
 important applications in cryptography, specifically in the construction of

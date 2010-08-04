@@ -5,7 +5,7 @@ something but cannot make progress; it may be capable of doing a few things,
 but not be fully operational. For example, a process may become wedged if it
 {deadlock}s with another (but not all instances of wedging are deadlocks).
 see also {gronk}, {locked up}, {hosed}. 2. Often refers to humans suffering
-misconceptions. "He's totally wedged --- he's convinced that he can levitate
+misconceptions. "He's totally wedged -- he's convinced that he can levitate
 through meditation." 3. [UNIX] Specifically used to describe the state of a
 TTY left in a losing state by abort of a screen-oriented program or one that
 has messed with the line discipline in some obscure way. There is some

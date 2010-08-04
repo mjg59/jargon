@@ -1,4 +1,4 @@
- :idempotent: [from mathematical techspeak] adj. Acting as if used only once,
+ :idempotent: adj. [from mathematical techspeak] Acting as if used only once,
 even if used multiple times. This term is often used with respect to {C}
 header files, which contain common definitions and declarations to be
 included by several source files. If a header file is ever included twice

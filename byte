@@ -1,4 +1,4 @@
- :byte:: /bi:t/ [techspeak] n. A unit of memory or data equal to the amount
+ :byte:: /bi:t/ n. [techspeak] A unit of memory or data equal to the amount
 used to represent one character; on modern architectures this is usually 8
 bits, but may be 9 on 36-bit machines. Some older architectures used `byte'
 for quantities of 6 or 7 bits, and the PDP-10 supported `bytes' that were

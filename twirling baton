@@ -1,8 +1,8 @@
- :twirling baton: [PLATO] n. The overstrike sequence -/|\-/|\- which produces
+ :twirling baton: n. [PLATO] The overstrike sequence -/|\-/|\- which produces
 an animated twirling baton. If you output it with a single backspace between
 characters, the baton spins in place. If you output the sequence BS SP
 between characters, the baton spins from left to right. If you output BS SP
-BS BS between characters, the batton spins from right to left. The twirling
+BS BS between characters, the baton spins from right to left. The twirling
 baton was a popular component of animated signature files on the pioneering
 PLATO educational timesharing system. The `archie' Internet service is
 perhaps the best-known baton program today; it uses the twirling baton as an

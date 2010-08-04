@@ -1,4 +1,4 @@
- :plan file: [UNIX] n. On systems that support {finger}, the `.plan' file in
+ :plan file: n. [UNIX] On systems that support {finger}, the `.plan' file in
 a user's home directory is displayed when the user is fingered. This feature
 was originally intended to be used to keep potential fingerers apprised of
 one's location and near-future plans, but has been turned almost universally
