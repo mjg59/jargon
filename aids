@@ -1,0 +1,29 @@
+ AI koans: pl.n. A series of pastiches of Zen teaching riddles created by
+Danny Hillis at the MIT AI Lab around various major figures of the Lab's
+culture. A selection are included in Appendix A. see also {ha ha only
+serious} and {{Humor, Hacker}}. AIDS: /aydz/ n. Short for A* Infected Disk
+Syndrome ("A*" matches, but not limited to, Apple), this condition is the
+quite often the result of practicing unsafe {SEX}. see {virus}, {worm},
+{Trojan horse}, {virgin}. airplane rule: n. "Complexity increases the
+possibility of failure; a twin-engine airplane has twice as many engine
+problems as a single engine airplane." By analogy, in both software and
+electronics, the rule that simplicity increases robustness (see also {KISS
+Principle}. It is correspondingly argued that the right way to build reliable
+systems is to design to put all your eggs in one basket, after making sure
+that you've built a *really good* basket. aliasing bug: [C programmers] n. A
+class of subtle programming errors which can arise in code that does dynamic
+allocation, esp. via `malloc(3)'. If more than one pointer addresses
+(`aliases for') a given hunk of storage, it may happen that the storage is
+freed through one alias and then referenced through another, leading to
+subtle (and possibly intermittent) lossage depending on the state and the
+allocation history of the malloc {arena}. Avoidable by use of allocation
+strategies that never alias allocated core. Also avoidable by use of
+higher-level languages such as {LISP} which employ a garbage collector (see
+{GC}). Also called a {stale pointer bug}. see also {precedence lossage},
+{smash the stack}, {fandango on core}, {memory leak}, {overrun screw},
+{spam}. all-elbows: adj. Of a TSR (terminate-and-stay-resident) IBM PC
+program, such as the N pop-up calendar and calculator utilities that
+circulate on {BBS} systems: unsociable. Used to describe a program that
+rudely steals the resources that it needs without considering that other TSRs
+may also be resident. One particularly common form of rudeness is lock-up due
+to programs fighting over the keyboard interrupt. see also {mess-doss}.

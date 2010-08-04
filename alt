@@ -1,0 +1,19 @@
+ ALT: /awlt/ [PDP-10] n.obs. Alternate name for the ASCII ESC character,
+after the keycap labeling on some older terminals. Also `ALTMODE'. This
+character was almost never pronounced "escape" on an ITS system, in TECO, or
+under TOPS-10 --- always ALT, as in "Type ALT ALT to end a TECO command" or
+"ALT U onto the system" (for "log onto the [ITS] system"). This was probably
+because ALT is more convenient to say than "escape", especially when followed
+by another ALT or a character (or another ALT *and* a character, for that
+matter!). alt bit: /awlt bit/ [from alternate] adj. see {meta bit}. Aluminum
+Book: [MIT] n. `Common Lisp: The Language', by Guy L. Steele Jr., Digital
+Press, first edition, 1984, second edition 1990. Strictly speaking, only the
+first edition is the aluminum book, since the second edition has a yucky pale
+green cover. see also {Blue Book}, {Red Book}, {Green Book}, {Silver Book},
+{Purple Book}, {Orange Book}, {White Book}, {Pink-Shirt Book}, {Dragon Book},
+{Wizard Book}. amoeba: /@-mee'b@/ n. Humorous term for the Commodore Amiga
+personal computer. amp off: [Purdue] vt. To run in {background}. From the
+UNIX shell `&' operator. angle brackets: n. Either of the characters `<' and
+`>' (ASCIIless-than or greater-than signs). The {Real World} angle brackets
+used by typographers are actually taller than a less-than or greater-than
+sign. see {broket}, {{ASCII}}.

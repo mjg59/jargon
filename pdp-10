@@ -1,42 +1,61 @@
- WPI Worcester Polytechnic Institute, site of a very active community of
-PDP-10 hackers during the Seventies. Xerox PARC Xerox's Palo Alto Research
-Center, site of much pioneering research in user interface design and
-networking. Yale Yale University. Some other etymology abbreviations such as
-<UNIX>, <PDP-10>, etc. refer to technical cultures surrounding specific
-operating systems, processors or other environments. Eric S. Raymond
-(eric@snark.thyrsus.com) maintains the new File with assistance from Guy L.
-Steele (gls@think.com); these are the persons primarily reflected in the
-File's editorial `we', though we take pleasure in acknowledging the special
-contribution of the other coauthors of Steele-1983. Please email all
-additions, corrections and correspondence relating to the jargon file to
-jargon@thyrsus.com (UUCP-only sites without connections to an autorouting
-smart site can use ...!uunet!snark!jargon). (Warning: other email addresses
-appear in this file *but are not guaranteed to be correct* later than the
-revision date on the first line. *Don't* email us if an attempt to reach your
-idol bounces --- we have no magic way of checking addresses or looking up
-people) Some snapshot of this on-line version will become the main text of a
-`New Hacker's Dictionary' possibly as early as Fall 1991. The maintainers are
-committed to updating the on-line version of the jargon file through and
-beyond paper publication, and will continue to make it available to archives
-and public-access sites as a trust of the hacker community. Here is a
-chronology of the recent on-line revisions: Version 2.1.1, Jun 12 1990: the
-jargon file comes alive again after a seven-year hiatus. Reorganization and
-massive additions were by Eric S. Raymond, approved by Guy Steele. Many items
-of UNIX, C, USENET and microcomputer-based slang were added at that time (as
-well as The Untimely Demise of Mabel The Monkey). Some obsolete usages
-(mostly PDP-10 derived) were moved to appendix B. Version 2.1.5, Nov 28 1990:
-changes and additions by ESR in response to numerous USENET submissions and
-comment from the First Edition coauthors. The bibliography (Appendix C) was
-also appended. Version 2.2.1, Dec 15 1990: most of the contents of the 1983
-paper edition edited by Guy Steele was merged in. Many more USENET
-submissions added, including the International Style and <COMMONWEALTH
-HACKISH> material. This version had 9394 lines, 75954 words, 490501 chars,
-and 1046 entries. Version 2.3.1, Jan 03 1991: the great format change ---
-case is no longer smashed in lexicon keys and cross-references. A very few
-entries from jargon-1 which were basically straight tech-speak were deleted;
-this enabled the rest of Appendix B to be merged back into main text and the
-appendix replaced with the Portrait of J. Random Hacker. More USENET
-submissions were added. This version had 10728 lines, 85070 words, 558261
-characters, and 1138 entries. Version 2.4.1, Jan 14 1991: the Story of Mel
-and many more USENET submissions merged in. More material on hackish writing
-habits added. Numerous typo fixes. This version had 12362 lines, 97819 words,
+ PDP-10: [Programmed Data Processor model 10] n. The machine that made
+timesharing real. Looms large in hacker folklore due to early adoption in the
+mid-70s by many university computing facilities and research labs including
+the MIT AI lab, Stanford, and CMU. Some aspects of the instruction set (most
+notably the bit-field instructions) are still considered unsurpassed. Later
+editions were labelled `DECsystem-10' as a way of differentiating them from
+the PDP-11. The `10 was eventually eclipsed by the VAX machines (descendants
+of the PDP-11) and dropped from DEC's line in the early `80s, and in mid-1991
+to have cut one's teeth on one is considered something of a badge of
+honorable old-timerhood among hackers. see {TOPS-10}, {ITS}, {AOS}, {blt},
+{DDT}, {DPB}, {EXCH}, {HAKMEM}, {JFCL}, {LDB}, {pop}, {push}, Appendix A.
+peek: n.,vt. (and {poke}) The commands in most microcomputer BASICs for
+directly accessing memory contents at an absolute address; often extended to
+mean the corresponding constructs in any {HLL}. Much hacking on small,
+non-MMU micros consists of {peek}ing around memory, more or less at random,
+to find the location where the system keeps interesting stuff. Long (and
+variably accurate) lists of such addresses for various computers circulate
+(see {interrupt list, the}). The results of {poke}s at these addresses may be
+highly useful, mildly amusing, useless but neat, or (most likely) total
+{lossage} (see {killer poke}). pencil and paper: n. An archaic
+information-storage and transmission device that works by depositing smears
+of graphite on bleached wood pulp. More recent developments in paper-based
+technology include improved `write-once' update devices which use tiny
+rolling heads similar to mouse balls to deposit colored pigment. These
+devices require an operator skilled at so-called `handwriting' technique.
+They technologies are ubiquitous outside hackerdom, but nearly forgotten
+inside it. Most hackers had terrible handwriting to begin with, and years of
+keyboarding tend if anything to have encouraged it to degrade further.
+Perhaps for this reason hackers deprecate pencil and paper technology and
+often resist using it in any but the most trivial contexts. peon: n. A person
+with no special ({root} or {wheel}) privileges on a computer system. "I can't
+create an account on foovax for you; I'm only a peon there." percent-s:
+/per-sent' ess/ [From "%s", the formatting sequence in C's `printf(3)'
+library function used to indicate that an arbitrary string may be inserted]
+n. An unspecified person or object. "I was just talking to some percent-s in
+administration." Compare {random}. perf: /perf/ n. see {chad} (sense #1). The
+term `perfory' /per'f@-ree/ is also heard. perfect programmer syndrome: n.
+Arrogance; the egotistical conviction that one is above normal human error.
+Most frequently found among programmers of some native ability but relatively
+little experience (especially new graduates; their perceptions may be
+distorted by a history of excellent performance bashing toy problems). "Of
+course my program is correct, there is no need to test it." Or "Yes, I can
+see there may be a problem here, but *I'll* never type `rm -r /' while in
+{root}." Perl: [Practical Extraction and Report Language, aka Pathologically
+Eclectic Rubbish Lister] n. An interpreted language developed by Larry Wall
+(lwall@jpl.nasa.gov, author of `patch(1)') and distributed over USENET.
+Superficially resembles `awk(1)', but is much more arcane (see {AWK}).
+Increasingly considered one of the {languages of choice} by UNIX sysadmins,
+who are almost always incorrigible hackers. Perl has been described, in a
+parody of a famous remark about `lex(1)', as the `Swiss-army chainsaw' of
+UNIX programming. pessimal: /pes'i-ml/ [Latin-based antonym for `optimal']
+adj. Maximally bad. "This is a pessimal situation." Also `pessimize' vt. To
+make as bad as possible. These words are the obvious Latin-based antonyms for
+`optimal' and `optimize', but for some reason they do not appear in most
+English dictionaries, although `pessimize' is listed in the OED. pessimizing
+compiler: /pes'i-miez-ing kuhm-pie'lr/ [antonym of `optimizing compiler'] n.
+A compiler that produces object code that is worse than the straightforward
+or obvious translation. The implication is that the compiler is actually
+trying to optimize the program, but through stupidity is doing the opposite.
+A few pessimizing compilers have been written on purpose, however, as pranks.
+peta-: /pe't@/ pref. Multiplier, 10 ^ 15 or [proposed] 2 ^ 50. see {kilo-}.

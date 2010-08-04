@@ -1,22 +1,72 @@
- INTERCAL /in'tr-kal/ [said by the authors to stand for "Compiler Language
-With No Pronounceable Acronym"] n. A computer language designed by Don Woods
+ INTERCAL: /in't@r-kal/ [said by the authors to stand for `Compiler Language
+With No Pronounceable Acronym'] n. A computer language designed by Don Woods
 and James Lyon in 1972. INTERCAL is purposely different from all other
 computer languages in all ways but one; it is purely a written language,
 being totally unspeakable. An excerpt from the INTERCAL Reference Manual will
 make the style of the language clear. In most languages, if you wanted the
 variable A to have the value 65536, you would write something like LET A =
-65536; The INTERCAL Reference Manual, however, explains that "It is a
-well-known and oft-demonstrated fact that a person whose work is
-incomprehensible is held in high esteem. For example, if one were to state
-that the simplest way to store a value of 65536 in a 32-bit INTERCAL variable
-is: DO :1 <- #0$#256 any sensible programmer would say that that was absurd.
-Since this is indeed the simplest method, the programmer would be made to
-look foolish in front of his boss, who would of course happened to turn up,
-as bosses are wont to do. The effect would be no less devastating for the
-programmer having been correct." INTERCAL has many other peculiar features
-designed to make it even more unspeakable. The Woods/Lyons implementation was
-actually used by many (well, at least several) people at Princeton. The
-language has been recently re-implemented as C-INTERCAL and is consequently
-enjoying an unprecedented level of unpopularity; there is even an
-alt.lang.intercal newsgroup devoted to the study and ... appreciation of the
-language on USENET.
+65536; The INTERCAL Reference Manual explains that "It is a well-known and
+oft-demonstrated fact that a person whose work is incomprehensible is held in
+high esteem. For example, if one were to state that the simplest way to store
+a value of 65536 in a 32-bit INTERCAL variable is: DO :1 <- #0$#256 any
+sensible programmer would say that that was absurd. Since this is indeed the
+simplest method, the programmer would be made to look foolish in front of his
+boss, who would of course have happened to turn up, as bosses are wont to do.
+The effect would be no less devastating for the programmer having been
+correct." INTERCAL has many other peculiar features designed to make it even
+more unspeakable. The Woods/Lyons implementation was actually used by many
+(well, at least several) people at Princeton. The language has been recently
+re-implemented as C-INTERCAL and is consequently enjoying an unprecedented
+level of unpopularity; there is even an alt.lang.intercal newsgroup devoted
+to the study and ... appreciation of the language on USENET. interesting:
+adj. In hacker parlance, this word is not simply synonymous with
+`intriguing', but has strong connotations of `annoying', or `difficult', or
+both. Hackers relish a challenge. Oppose {trivial}. Internet address:: n. An
+absolute network address of the form foo@bar.baz, where foo is a user name,
+bar is a {sitename}, and baz is a `domain' name, possibly including periods
+itself. Contrasts with {bang path}; see also {network, the} and {network
+address}. All Internet machines and most UUCP sites can now resolve these
+addresses, thanks to a large amount of behind-the-scenes magic and PD
+software written since 1980 or so. see also {bang path}, {domainist}. Reading
+Internet addresses is something of an art. Here are the four most important
+top-level functional Internet domains followed by a selection of geographical
+domains: com Commercial organizations. edu Educational institutions. gov U.S.
+government civilian sites. mil U.S. military sites. Note that most of the
+sites in the com and edu domains are in the U.S. or Canada. us Sites in the
+U.S. not within one of the functional domains. su Sites in the Soviet Union
+(only one really active one so far!). uk Sites in the United Kingdom. Within
+the `us' domain there are subdomains for the fifty states, generally with a
+name identical to the state's postal abbreviation. Within the UK domain there
+is an `ac' subdomain for academic sites and a `co' domain for commercial
+ones. Other top-level domains can be divided up in similar ways. interrupt:
+interj. 1. On a computer, an event which interrupts normal processing and
+temporarily diverts flow-of-control through an "interrupt handler" routine.
+see also {trap}. 2. A request for attention from a hacker. Often explicitly
+spoken. "Interrupt --- have you seen Joe recently?". see {priority
+interrupt}. interrupt list, the: [MSDOS] n. The list of all known software
+interrupt calls (both documented and undocumented) for IBM PCs and
+compatibles maintained and made available for free redistribution by Ralf
+Brown (ralf@cs.cmu.edu). As of early 1991, it had grown to approximately 1
+megabyte in length. interrupts locked out: adj. When someone is ignoring you.
+In a restaurant, after several fruitless attempts to get the waitress's
+attention, a hacker might well observe that "She must have interrupts locked
+out." The synonym `interrupts disabled' is also common. Variations of this
+abound; "to have one's interrupt mask bit set" is also heard. see also {spl}.
+iron: n. Hardware, especially older/larger hardware of {mainframe} class with
+big metal cabinets housing relatively low-density electronics (but also used
+of modern supercomputers). Often in the phrase {big iron}. Oppose {silicon}.
+see also {dinosaur}. Iron Age: n. In the history of computing, 1961-1971 ---
+the formative era of commercial {mainframe} technology, when {big iron}
+{dinosaurs} ruled the earth (the hackish metaphors for the era aren't exactly
+paleontologically correct). These began with the delivery of the first PDP-1,
+coincided with the dominance of ferrite {core}, and ended with the
+introduction of the first commercial microprocessor (the Intel 4004) in 1971.
+see also {Stone Age}. iron box: [UNIX/Internet] n. A special environment set
+up to trap a {cracker} logging in over remote or network connections long
+enough so he can be traced. May include a specially gimmicked {shell}
+restricting the hacker's movements in unobvious ways, and `bait' files
+designed to keep him interested and logged on. see also {back door},
+{firewall machine}, {Venus flytrap}, and Clifford Stoll's account in
+`Cuckoo's Egg' of how he made and used one (see Appendix C). ironmonger:
+[IBM] n. A hardware specialist. Derogatory. Compare {sandbender}, {polygon
+pusher}.

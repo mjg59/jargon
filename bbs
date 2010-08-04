@@ -1,0 +1,57 @@
+ BBS: [acronym, Bulletin Board System] n. An electronic bulletin board
+system; that is, a message database where people can log in and leave
+broadcast messages for others grouped (typically) into topic areas. Thousands
+of local BBS systems are in operation throughout the U.S., typically run by
+amateurs for fun out of their homes on MS-DOS boxes with a single modem line
+each. Fans of USENET and Internet or the big commercial timesharing bboards
+like CompuServe or GEnie tend to consider local BBSes the `low-rent district'
+of the hacker culture, but they serve a valuable function by knitting
+together lots of hackers and users in the personal-micro world who would
+otherwise be unable to exchange code at all. beam: [from Star Trek Classic's
+"Beam me up, Scotty!"] vt. To transfer {softcopy} of a file electronically;
+most often in combining forms such as `beam me a copy' or `beam that over to
+his site'. Compare {blast}, {snarf}, {BLT}. beep: n.,v. Syn. {feep}. This
+term seems to be preferred among micro hobbyists. bells and whistles: [by
+analogy with steam calliopes] n. Features added to a program or system to
+make it more {flavorful} from a hacker's point of view, without necessarily
+adding to its utility for its primary function. Distinguished from {chrome}
+which is intended to attract users. "Now that we've got the basic program
+working, let's go back and add some bells and whistles." However, no one
+seems to know what distinguishes a bell from a whistle. bells, whistles, and
+gongs: n. A standard elaborated form of {bells and whistles}; typically said
+with a pronounced and ironic accent on the `gongs'. If you need this
+explained, you will never understand it. benchmark: n. An inaccurate measure
+of computer performance. "In the computer industry, there are three kinds of
+lies: lies, damn lies, and benchmarks." Well-known ones include Whetstone,
+Dhrystone, the Gabriel LISP benchmarks (see {gabriel}), Rhealstone (see {h})
+and LINPACK. see also {machoflops}, {MIPS}. berklix: /ber'kliks/ n.,adj.
+[contraction of `Berkeley UNIX'] see {BSD}. Not used at Berkeley itself. May
+be more common among {suit}s attempting to sound like cognoscenti than among
+hackers, who usually just say `BSD'. berserking: vi. A {MUD} term meaning to
+gain points *only* by killing other players and mobiles (non-player
+characters). Hence a Berserker-Wizard is a player character that has achieved
+enough points to become a wizard, but only by killing other characters.
+Berserking is sometimes frowned upon because of its inherently antisocial
+nature, but some MUDs have a `berserker mode' in which a player becomes
+*permanently* berserk, can never flee out of a fight, cannot use magic, gets
+no score for treasure, but *does* get double kill points. "Berserker wizards
+can seriously damage your elf!" Berzerkeley: [from "berserk"] /b@r-zer'klee/
+[from the name of a now-deceased record label] n. Humorous, distortion of
+`Berkeley' used esp. to refer to the practices or products of the {BSD} UNIX
+hackers. see {software bloat}, {Missed'em-five}. beta: /be't@/, /bay't@/ or
+(Commonwealth) /bee't@/ n. 1. In the {Real World}, software often goes
+through two stages of testing: Alpha (in-house) and Beta (out-house?).
+Software is said to be `in beta'. 2. Anything that is new and experimental is
+in beta. "His girlfriend is in beta." 3. Beta software is notoriously buggy,
+so `in beta' connotes flakiness. Historical note: More formally, to beta-test
+is to test a pre-release (potentially unreliable) version of a piece of
+software by making it available to selected customers and users. This term
+derives from early 1960s terminology for product cycle checkpoints, first
+used at IBM but later standard throughout the industry. `Alpha Test' was the
+unit, module, or component test phase; `Beta Test' was initial system test.
+These themselves came from earlier A- and B-tests for hardware. The A-test
+was a feasibility and manufacturability evaluation done before any commitment
+to design and development. The B-test was a demonstration that the
+engineering model functioned as specified. The C-test (corresponding to
+today's beta) was the B-test performed on early samples of the production
+design.

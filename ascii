@@ -1,52 +1,135 @@
- 9394 lines, 75954 words, 490501 chars, and 1046 entries. Version 2.3.1, Jan
-03 1991: the great format change --- case is no longer smashed in lexicon
-keys and cross-references. A very few entries from jargon-1 which were
-basically straight tech-speak were deleted; this enabled the rest of Appendix
-B to be merged back into main text and the appendix replaced with the
-Portrait of J. Random Hacker. More USENET submissions were added. This
-version had 10728 lines, 85070 words, 558261 characters, and 1138 entries.
-Version 2.4.1, Jan 14 1991: the Story of Mel and many more USENET submissions
-merged in. More material on hackish writing habits added. Numerous typo
-fixes. This version had 12362 lines, 97819 words, 642899 characters, and 1239
-entries. Version numbering: Read versions as <major>.<minor>.<revision>.
-Major version 1 is reserved for the `old' (ITS) Jargon File, jargon-1. Major
-version 2 encompasses revisions by ESR with assistance from GLS. Someday, the
-next maintainer will take over and spawn `version 3'. In general, later
-versions will either completely obsolesce or incorporate earlier versions, so
-there is generally no point in keeping old versions around. Our thanks to the
-other co-authors of Steele-1983 for oversight and assistance; also to all the
-USENETters who contributed entries and encouragement. Special thanks go to
-our Scandinavian correspondent Per Lindberg (per@front.se), author of the
-remarkable Swedish language 'zine `Hackerbladet', for bringing FOO! comics to
-our attention and smuggling the IBM hacker underground's own baby jargon file
-out to us. Also, much gratitude to ace hacker/linguist Joe Keane
-(jkg@osc.osc.com) for helping us improve the pronunciation guides; and to
-Maarten Litmath for generously allowing the inclusion of the ASCII
-pronunciation guide he formerly maintained. Finally, Mark Brader
-(msb@sq.sq.com) submitted many thoughtful comments and did yeoman service in
-catching typos and minor usage bobbles. Format For New Entries
-====================== Try to conform to the format already being used ---
-definitions and cross-references in angle brackets, pronunciations in
-slashes, etymologies in square brackets, single-space after definition
-numbers and word classes, etc. Stick to the standard ASCII character set (no
-high-half characters or [nt]roff/TeX/Scribe escapes), as one of the versions
-generated from the master file is an info document that has to be viewable on
-a character tty. Please note that as of 2.3.1 the preferred format has
-changed rather dramatically; please *don't* all-caps your entry keys any
-more. Besides preserving case information, this enables the maintainers to
-process the File into a rather spiffy [nt]roff document with font switches
-via an almost trivial lex(1) program. This is all in aid of preventing the
-freely-available on-line document and the book from diverging. We are looking
-to expand the file's range of technical specialties covered. There are
-doubtless rich veins of jargon yet untapped in the scientific computing,
-graphics, and networking hacker communities; also in numerical analysis,
-computer architectures and VLSI design, language design, and many other
-related fields. Send us your slang! We are *not* interested in straight
-technical terms explained by textbooks or technical dictionaries unless an
-entry illuminates `underground' meanings or aspects not covered by official
-histories. We are also not interested in `joke' entries --- there is a lot of
-humor in the file but it must flow naturally out of the explanations of what
-hackers do and how they think. It is OK to submit items of slang you have
-originated if they have spread to the point of being used by people who are
-not personally acquainted with you. We prefer items to be attested by
-independent submission from two different sites.
+ ASCII:: [American Standard Code for Information Interchange] /as'kee/ n.
+Common slang names for ASCII characters are collected here. see individual
+entries for {bang}, {excl}, {open}, {ques}, {semi}, {shriek}, {splat},
+{twiddle}, {what}, {wow}, and {Yu-Shiang whole fish}. This list derives from
+revision 2.2 of the USENET ASCII pronunciation guide. Single characters are
+listed in ASCII order; character pairs are sorted in by first member. For
+each character, common names are given in rough order of popularity followed
+by names which are reported but rarely seen; official ANSI/CCITT names are
+parenthesized. `!' Common: {bang}, pling, excl, shriek, (exclamation point).
+Rare: factorial, exclam, smash, cuss, boing, yell, wow, hey, wham,
+spot-spark, soldier. `"' Common: double quote, quote. Rare: literal mark,
+double-glitch, (quotation marks), (dieresis), dirk. `#' Common: (number
+sign), pound, hash, sharp, {crunch}, mesh, hex, octothorpe. Rare: flash,
+crosshatch, grid, pig-pen, tictactoe, scratchmark, thud, {splat}. `$' Common:
+dollar, (dollar sign). Rare: currency symbol, buck, cash, string (from
+BASIC), escape (from {TOPS-10}), ding, cache. `%' Common: percent, (percent
+sign), mod, grapes. `&' Common: (ampersand), amper, and. Rare: address (from
+C), reference (from C++), andpersand, bitand, background (from `sh(1)'),
+pretzel, amp. `" Common: single quote, quote, (apostrophe). Rare: prime,
+glitch, tick, irk, pop, spark, (closing single quotation mark), (acute
+accent). `()' Common: left/right paren, left/right parenthesis, left/right,
+paren/thesis, open/close paren, open/close, open/close parenthesis,
+left/right banana. Rare: lparen/rparen, so/already, wax/wane,
+(opening/closing parenthesis), left/right ear, parenthisey/unparenthisey,
+open/close round bracket. `*' Common: star, {splat}, (asterisk). Rare:
+wildcard, gear, dingle, mult, spider, aster, times, twinkle, glob (see
+{glob}), {Nathan Hale}. `+' Common: (plus), add. Rare: cross. `,' Common:
+(comma). Rare: (cedilla). `-' Common: dash, (hyphen), (minus). Rare: worm,
+option, dak, bithorpe. `.' Common: dot, point, (period), (decimal point).
+Rare: radix point, full stop. `/' Common: slash, stroke, (slant), forward
+slash. Rare: diagonal, solidus, over, slak, virgule. `:' Common: (colon).
+Rare: two-spot. `;' Common: (semicolon), semi. Rare: weenie. `<>' Common:
+(less/greater than), left/right angle bracket, bra/ket, left/right broket.
+Rare: from/{into,towards}, read from/write to, suck/blow, comes-from/gozinta,
+in/out, crunch/zap (all from UNIX). `=' Common: (equals), gets. Rare:
+quadrathorpe. `?' Common: query, (question mark), {ques}. Rare: whatmark,
+what, wildchar, huh, hook, buttonhook, hunchback. `@' Common: at sign, at,
+strudel. Rare: each, vortex, whorl, cyclone, snail, ape, cat, rose, cabbage,
+(commercial at). `V' Rare: vee, book. `[]' Common: left/right square bracket,
+(opening/closing bracket), bracket/unbracket left/right bracket. Rare:
+square/unsquare. `\' Common: backslash, escape (from C/UNIX), reverse slash,
+slosh, backslant. Rare: bash, backwhack, (reverse slant), reversed virgule.
+`^' Common: hat, control, uparrow, caret. Rare: (circumflex), chevron, shark
+(or shark fin), to the (`to the power of'), fang. `_' Common: (underline),
+underscore, underbar, under. Rare: score, backarrow. "' Common: backquote,
+left quote, open quote, (grave accent), grave. Rare: backprime, backspark,
+unapostrophe, birk, blugle, back tick, back glitch, push, (opening single
+quotation mark), quasiquote. `{}' Common: open/close brace, left/right brace,
+left/right squiggly bracket/brace, left/right curly bracket/brace,
+(opening/closing brace). Rare: brace/unbrace, curly/uncurly, leftit/rytit.
+`|' Common: bar, or, or-bar, v-bar, pipe. Rare: vertical bar, (vertical
+line), gozinta, thru, pipesinta (last three ones from UNIX). `~' Common:
+(tilde), squiggle, {twiddle}, not. Rare: approx, wiggle, swung dash, enyay,
+sqiggle. The pronunciation of `#' as `pound' is common in the U.S. but a bad
+idea; Commonwealth hackish has its own rather more apposite use of `pound
+sign'. The U.S. practice derives from an old-fashioned commercial practice of
+using a `#' suffix to tag pound weights on bills of lading. The character is
+usually pronounced `hash' outside the U.S. Also note that the `swung dash' or
+`approx' sign is not quite the same as tilde in typeset material, but the
+ASCII tilde serves for both (compare {angle brackets}). Some other common
+usages cause odd overlaps. The `#', `$', `>', and `&' chars, for example, are
+all pronounced "hex" in different communities because various assemblers use
+them as a prefix tag for hexadecimal constants (in particular, $ in the 6502
+world, > at Texas Instruments, and & on the Sinclair and some other Z80
+machines). asymptotic: adj. Infinitely close to. This is used in a
+generalization of its mathematical meaning to allege that something is
+{within epsilon of} some standard, reference, or goal (see {epsilon}).
+attoparsec: n. `atto-' is the official SI prefix for multiplication by 10 ^
+-18; an attoparsec is thus 1 parsec (parallax-second, 3.26 light years) times
+10 ^ -18, or about 1.3 cm. This unit is reported to be in use (though
+probably not very seriously) among hackers in Great Britain. see {micro-}
+autobogotiphobia: /aw'to-boh-got'@-foh`bee-uh/ n. see {bogotify}.
+automagically: /aw-toh-maj'i-klee/ or /aw-toh-maj'i-k@l-ee/ adv.
+Automatically, but in a way which, for some reason (typically because it is
+too complicated, or too ugly, or perhaps even too trivial), the speaker
+doesn't feel like explaining to you. see {magic}. "The C-INTERCAL compiler
+generates C, then automagically invokes `cc(1)' to produce an executable."
+awk: 1. n. [UNIX] An interpreted language developed by Aho, Weinberg, and
+Kernighan (the name is from their initials). It is characterized by: C-like
+syntax, a BASIC-like approach to variable typing and declarations,
+associative arrays, and field-oriented text processing. see also {Perl}. 2.
+Editing term for an expression awkward to manipulate through normal regular
+expression facilities. 3. vt. To process data using `awk(1)'. B - back door:
+n. A hole in the security of a system deliberately left in place by designers
+or maintainers. The motivation for this is not always sinister; some
+operating systems, for example, come out of the box with privileged accounts
+intended for use by field service or the vendor's maintenance programmers.
+Historically, back doors have often lurked in systems longer than anyone
+expected or planned, and a few have become widely known. The infamous RTM
+worm of late 1988, for example, used a back door in the {BSD} UNIX
+`sendmail(1)' utility. Ken Thompson's 1983 Turing Award lecture to the ACM
+revealed the existence of a back door in early UNIX versions that may have
+qualified as the most fiendishly clever security hack of all time. The
+binaries of the C compiler had code in them which would automatically patch
+itself into the output executable whenever the compiler itself was being
+recompiled, and also patch the `login' command, when *it* was being
+recompiled, to accept a password that gave Thompson entry to the computer
+whether or not an account had been created for him! Thompson describes this
+hack as a {Trojan Horse}. This talk was published as `Reflections on Trusting
+Trust', Communications of the ACM 27,8 (August 1984) pp761-763. Although
+Thompson didn't say whether the hacked version ever made it off site, it is
+commonly believed that this back door was in fact propagated through hundreds
+of machines without any clue to it ever showing up in source. Syn. {trap
+door}; may also be called a `wormhole'. see also {iron box}, {cracker},
+{worm}, {logic bomb}. backbone cabal: n. A group of large-site administrators
+who pushed through the {Great Renaming} and reined in the chaos of {USENET}
+during most of the 1980s. The cabal {mailing list} disbanded in late 1988
+after a bitter internal catfight, but the net hardly noticed. backbone site:
+n. A key USENET and email site; one which processes a large amount of
+third-party traffic, especially if it's the home site of any of the regional
+coordinators for the USENET maps. Notable backbone sites as of early 1991
+include `uunet' and the mail machines at Rutgers University, UC Berkeley,
+DEC's Western Research Laboratories, Ohio State University, and the
+University of Texas. Compare {rib site}, {leaf site}. background: n.,adj. A
+task running in background is detached from the terminal where it was started
+(and often running at a lower priority); oppose {foreground}. Nowadays this
+term is primarily associated with {UNIX}, but it appears first to have been
+used in this sense on OS/360. By extension, to do a task `in background' is
+to do it whenever {foreground} matters are not claiming your undivided
+attention, and `to background' something means to relegate it to a lower
+priority. Note that this implies ongoing activity but at a reduced level or
+in spare time, in contrast to mainstream `back burner' which connotes benign
+neglect until some future resumption of activity. Some people prefer to use
+the term for processing that they've queued up for their unconscious minds (a
+tack that one can often fruitfully take when encountering an obstacle in
+creative work). Compare {amp off}, {slopsucker}. backspace and overstrike:
+interj. Whoa! Back up. Used to suggest that someone just said or did
+something wrong. Common among APL programmers. backward combatability:
+/bak'w@rd kom-bat'@-bil'@-tee/ [corruption of "backward compatibility"] adj.
+A property pertaining to hardware or software in which all previous
+protocols, formats and layouts are discarded in favour of the `new and
+improved' protocols, formats and layouts. Occurs usually when making the
+transition between major releases. When the change is so drastic that the old
+formats are not retained in the new version, it is said to be `backward
+combatable'.

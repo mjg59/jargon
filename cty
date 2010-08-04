@@ -1,5 +1,97 @@
- CTY /sit'ee/ or /see tee wie/ n. [MIT] The terminal physically associated
-with a computer's operating console. The term is a contraction of "Console
-TTY", that is, "Console TeleTYpe". This ITS and TOPS-10-associated term has
-become less common than formerly, as most UNIX hackers simply refer to the
-CTY as `the console'.
+ CTY: /sit'ee/ or /see tee wie/ n. [MIT] The terminal physically associated
+with a computer's system {{console}}. The term is a contraction of `Console
+TTY', that is, `Console TeleTYpe'. This {ITS}- and {TOPS-10}-associated term
+has become less common than formerly, as most UNIX hackers simply refer to
+the CTY as `the console'. cube: n. 1. A module in the open-plan offices used
+at many programming shops. "I've got the manuals in my cube". 2. A NeXT
+machine. cubing: [parallel with `tubing'] vi. 1. Hacking on an IPSC (Intel
+Personal SuperComputer) hypercube. "Louella's gone cubing *again*!!" 2.
+Hacking Rubik's Cube or related puzzles, either physically or mathematically.
+3. An indescribable form of self-torture (see sense #1). cursor dipped in X:
+adj. There are a couple of metaphors in English of the form `pen dipped in X'
+(perhaps the most common values of X are `acid' and `bile'). These map over
+neatly to this hackish usage (the cursor being what moves, leaving letters
+behind, when one is composing on-line). cuspy: /kuhs'pee/ [coined at WPI from
+the DEC acronym CUSP, for Commonly Used System Program, i.e., a utility
+program used by many people] adj. 1. (of a program) Well-written. 2.
+Functionally excellent. A program which performs well and interfaces well to
+users is cuspy. see {rude}. 3. [NYU] Said of an attractive woman, especially
+one regarded as available. cut a tape: [poss. fr. mainstream `cut a check']
+vi. To write a software or document distribution on magnetic tape for
+shipment. Has nothing to do with physically cutting the medium! Though this
+usage is quite widespread, one never speaks of analogously `cutting a disk'
+or anything else in this sense. cybercrud: /sie'ber-kruhd/ [coined by Ted
+Nelson] n. Obfuscatory tech-talk. Verbiage with a high {MEGO} factor. The
+computer equivalent of bureaucratese. cyberpunk: /sie'ber-puhnk/ [orig. by SF
+writer Bruce Bethke and/or editor Gardner Dozois] n.,adj. A subgenre of SF
+launched in 1982 by William Gibson's epoch-making novel `Neuromancer' (though
+its roots go back through Vernor Vinge's `True Names' (see Appendix C) to
+John Brunner's 1975 novel, `The Shockwave Rider'). Gibson's near-total
+ignorance of computers and the present-day hacker culture enabled him to
+speculate about the role of computers and hackers in the future in ways
+hackers have since found both irritatingly naive and tremendously
+stimulating. Gibson's work was widely imitated, in particular by the
+short-lived but innovative `Max Headroom' TV series. see {cyberspace}, {ice},
+{go flatline}. cyberspace: /sie'ber-spays/ n. 1. Notional `information-space'
+loaded with visual cues and navigable with brain-computer interfaces called
+`cyberspace decks'; a characteristic prop of {cyberpunk} SF. At time of
+writing (mid-1991) serious efforts to construct {virtual reality} interfaces
+modelled explicitly on Gibsonian cyberspace are already under way, using more
+conventional devices such as glove sensors and binocular TV headsets. Few
+hackers are prepared to outright deny the possibility of a cyberspace someday
+evolving out of the network (see {network, the}). 2. Occasionally, the
+metaphoric location of the mind of a person in {hack mode}. Some hackers
+report experiencing strong eidetic imagery when in hack mode; interestingly,
+independent reports from multiple sources suggest that there are common
+features to the experience. In particular, the dominant colors of this
+subjective `cyberspace' are often gray and silver, and the imagery often
+involves constellations of marching dots, elaborate shifting patterns of
+lines and angles, or moire patterns. cycle: n. The basic unit of computation.
+What every hacker wants more of. One might think that single machine
+instructions would be the measure of computation, and indeed computers are
+often compared by how many instructions they can process per second, but some
+instructions take longer than others. Nearly all computers have an internal
+clock, though, and you can describe an instruction as taking so many `clock
+cycles'. Frequently the computer can access its memory once on every clock
+cycle, and so one speaks also of `memory cycles'. These are technical
+meanings of {cycle}. The slang meaning comes from the observation that there
+are only so many cycles per second, and when you are sharing a computer, the
+cycles get divided up among the users. The more cycles the computer spends
+working on your program rather than someone else's, the faster your program
+will run. That's why every hacker wants more cycles: so he can spend less
+time waiting for the computer to respond. cycle crunch: n. The situation
+where the number of people trying to use the computer simultaneously has
+reached the point where no one can get enough cycles because they are spread
+too thin. This is an inevitable result of Parkinson's Law applied to
+timesharing. Usually the only solution is to buy more computer. Happily, this
+has rapidly become easier in recent years, so much so that the very term
+`cycle crunch' now has a faintly archaic flavor; most hackers now use
+workstations or personal computers as opposed to traditional timesharing
+systems. cycle drought: n. A scarcity of cycles. It may be due to a {cycle
+crunch}, but could also occur because part of the computer is temporarily not
+working, leaving fewer cycles to go around. Example: "The {high moby} is
+{down}, so we're running with only half the usual amount of memory. There
+will be a cycle drought until it's fixed." cycle server: n. A powerful
+machine that exists primarily for running large batch jobs. Implies that
+interactive tasks such as editing are done on other machines on the network,
+such as workstations. D - daemon: /day'm@n/ or /dee'm@n/ [Disk And Execution
+MONitor] n. A program which is not invoked explicitly, but which lies dormant
+waiting for some condition(s) to occur. The idea is that the perpetrator of
+the condition need not be aware that a daemon is lurking (though often a
+program will commit an action only because it knows that it will implicitly
+invoke a daemon). For example, under {ITS} writing a file on the {LPT}
+spooler's directory would invoke the spooling daemon, which prints the file.
+The advantage is that programs which want (in this example) files printed
+need not compete for access to the {LPT}. They simply enter their implicit
+requests and let the daemon decide what to do with them. Daemons are usually
+spawned automatically by the system, and may either live forever or be
+regenerated at intervals. Usage: {daemon} and {demon} are often used
+interchangeably, but seem to have distinct connotations. The term {daemon}
+was introduced to computing by {CTSS} people (who pronounced it dee'mon) and
+used it to refer to what ITS called a {dragon}. While the meaning and
+pronunciation have drifted, we think this glossary reflects current (1991)
+usage. dangling pointer: n. A reference that doesn't actually lead anywhere
+(in C and some other languages, a pointer that doesn't actually point at
+anything valid). Used as slang in a generalization of its technical meaning;
+a local phone number for a person who's since moved to the other coast, for
+example.

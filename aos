@@ -1,175 +1,60 @@
- M.I.T. won The Game." The prank had taken weeks of careful planning by
-members of MIT's Delta Kappa Epsilon fraternity. The device consisted of a
-weather balloon, a hydraulic ram powered by Freon gas to lift it out of the
-ground, and a vacuum-cleaner motor to inflate it. They made eight separate
-expeditions to Harvard Stadium between 1 and 5 AM, in which they located an
-unused 110-volt circuit in the stadium, and ran buried wiring from the
-stadium circuit to the 40-yard line, where they buried the balloon device.
-When the time came to activate the device, two fraternity members had merely
-to flip a circuit breaker and push a plug into an outlet. This stunt had all
-the earmarks of a perfect hack: surprise, publicity, the ingenious use of
-technology, safety, and harmlessness. The use of manual control allowed the
-prank to be timed so as not to disrupt the game (it was set off between
-plays, so the outcome of the game would not be unduly affected). The
-perpetrators had even thoughtfully attached a note to the balloon explaining
-that the device was not dangerous and contained no explosives. Harvard
-president Derek Bok commented: "They have an awful lot of clever people down
-there at MIT, and they did it again." President Paul E. Gray of MIT said,
-"There is absolutely no truth to the rumor that I had anything to do with it,
-but I wish there were." Such is the way of all good hacks. The Untimely
-Demise of Mabel the Monkey (a Cautionary Tale)
-*********************************************************** The following,
-modulo a couple of inserted commas and capitalization changes for
-readability, is the exact text of a famous USENET message. The reader may
-wish to review the definitions of PM and MOUNT in the main text before
-continuing. Date: Wed 3 Sep 86 16:46:31-EDT From: "Art Evans"
-<Evans@TL-20B.ARPA> Subject: Always Mount a Scratch Monkey To:
-Risks@CSL.SRI.COM My friend Bud used to be the intercept man at a computer
-vendor for calls when an irate customer called. seems one day Bud was sitting
-at his desk when the phone rang. Bud: Hello. Voice: YOU KILLED MABEL!! B:
-Excuse me? V: YOU KILLED MABEL!! This went on for a couple of minutes and Bud
-was getting nowhere, so he decided to alter his approach to the customer. B:
-HOW DID I KILL MABEL? V: YOU PM'ED MY MACHINE!! Well, to avoid making a long
-story even longer, I will abbreviate what had happened. The customer was a
-Biologist at the University of Blah-de-blah, and he had one of our computers
-that controlled gas mixtures that Mabel (the monkey) breathed. Now, Mabel was
-not your ordinary monkey. The University had spent years teaching Mabel to
-swim, and they were studying the effects that different gas mixtures had on
-her physiology. It turns out that the repair folks had just gotten a new
-Calibrated Power Supply (used to calibrate analog equipment), and at their
-first opportunity decided to calibrate the D/A converters in that computer.
-This changed some of the gas mixtures and poor Mabel was asphyxiated. Well,
-Bud then called the branch manager for the repair folks: Manager: Hello B:
-This is Bud, I heard you did a PM at the University of Blah-de-blah. M: Yes,
-we really performed a complete PM. What can I do for you? B: Can you swim?
-The moral is, of course, that you should always mount a scratch monkey.
-~~~~~~~~~~~~~~~~~~~~~~ There are several morals here related to risks in use
-of computers. Examples include, "If it ain't broken, don't fix it." However,
-the cautious philosophical approach implied by "always mount a scratch
-monkey" says a lot that we should keep in mind. Art Evans Tartan Labs TV
-Typewriters: A Tale Of Hackish Ingenuity
-******************************************* Here is a true story about a
-glass tty. One day an MIT hacker was in a motorcycle accident and broke his
-leg. He had to stay in the hospital quite a while, and got restless because
-he couldn't HACK (use the computer). Two of his friends therefore took a
-display terminal and a telephone connection for it to the hospital, so that
-he could use the computer by telephone from his hospital bed. Now this
-happened some years before the spread of home computers, and computer
-terminals were not a familiar sight to the average person. When the two
-friends got to the hospital, a guard stopped them and asked what they were
-carrying. They explained that they wanted to take a computer terminal to
-their friend who was a patient. The guard got out his list of things that
-patients were permitted to have in their rooms: TV, radio, electric razor,
-typewriter, tape player... no computer terminals. Computer terminals weren't
-on the list, so they couldn't take it in. Rules are rules. Fair enough, said
-the two friends, and they left again. They were frustrated, of course,
-because they knew that the terminal was as harmless as a TV or anything else
-on the list... which gave them an idea. The next day they returned, and the
-same thing happened: a guard stopped them and asked what they were carrying.
-They said, "This is a TV typewriter!" The guard was skeptical, so they
-plugged it in and demonstrated it. "see? You just type on the keyboard and
-what you type shows up on the TV screen." Now the guard didn't stop to think
-about how utterly useless a typewriter would be that didn't produce any paper
-copies of what you typed; but this was clearly a TV typewriter, no doubt
-about it. So he checked his list: "A TV is all right, a typewriter is all
-right... okay, take it on in!" Two Stories About "Magic" (As Told By Guy
-Steele) ************************************************* When Barbara Steele
-was in her fifth month of pregnancy, her doctor sent her to a specialist to
-have a sonogram made to determine whether there were twins. She dragged her
-husband Guy along to the appointment. It was quite fascinating; as the doctor
-moved an instrument along the skin, a small TV screen showed cross-sectional
-pictures of the abdomen. Now Barbara and I had both studied computer science
-at MIT, and we both saw that some complex computerized image-processing was
-involved. Out of curiosity, we asked the doctor how it was done, hoping to
-learn some details about the mathematics involved. The doctor, not knowing
-our educational background, simply said, "The probe sends out sound waves,
-which bounce off the internal organs. A microphone picks up the echoes, like
-radar, and send the signals to a computer---and the computer makes a
-picture." Thanks a lot! Now a hacker would have said, "... and the computer
-*magically* makes a picture," implicitly acknowledging that he has glossed
-over an extremely complicated process. Some years ago I was snooping around
-in the cabinets that housed the MIT AI Lab's PDP-10, and noticed a little
-switch glued to the frame of one cabinet. It was obviously a homebrew job,
-added by one of the lab's hardware hackers (no one know who). You don't touch
-an unknown switch on a computer without knowing what it does, because you
-might crash the computer. The switch was labeled in a most unhelpful way. It
-had two positions, and scrawled in pencil on the metal switch body were the
-words "magic" and "more magic". The switch was in the "more magic" position.
-I called another hacker over to look at it. He had never seen the switch
-before either. Closer examination revealed that the switch only had one wire
-running to it! The other end of the wire did disappear into the maze of wires
-inside the computer, but it's a basic fact of electricity that a switch can't
-do anything unless there are two wires connected to it. This switch had a
-wire connected on one side and no wire on its other side. It was clear that
-this switch was someone's idea of a silly joke. Convinced by our reasoning
-that the switch was inoperative, we flipped it. The computer instantly
-crashed. Imagine our utter astonishment. We wrote it off as coincidence, but
-nevertheless restored the switch to the "more magic" position before reviving
-the computer. A year later, I told this story to yet another hacker, David
-Moon as I recall. He clearly doubted my sanity, or suspected me of a
-supernatural belief in the power of this switch, or perhaps thought I was
-fooling him with a bogus saga. To prove it to him, I showed him the very
-switch, still glued to the cabinet frame with only one wire connected to it,
-still in the "more magic" position. We scrutinized the switch and its lone
-connection, and found that the other end of the wire, though connected to the
-computer wiring, was connected to a ground pin. That clearly made the switch
-doubly useless: not only was it electrically nonoperative, but it was
-connected to a place that couldn't affect anything anyway. So we flipped the
-switch. The computer promptly crashed. This time we ran for Richard
-Greenblatt, a long-time MIT hacker, who was close at hand. He had never
-noticed the switch before, either. He inspected it, concluded it was useless,
-got some diagonal cutters and diked it out. We then revived the computer and
-it ran fine ever since. We still don't know how the switch crashed the
-machine. There is a theory that some circuit near the ground pin was
-marginal, and flipping the switch changed the electrical capacitance enough
-to upset the circuit as millionth-of-a-second pulses went through it. But
-we'll never know for sure; all we can really say is that the switch was
-MAGIC. I still have that switch in my basement. Maybe I'm silly, but I
-usually keep it set on "more magic." A Selection of AI Koans
-*********************** These are perhaps the funniest examples of a genre of
-jokes told at the MIT AI lab about various noted computer scientists and
-hackers. * * * A novice was trying to fix a broken Lisp machine by turning
-the power off and on. Knight, seeing what the student was doing spoke
-sternly: "You can not fix a machine by just power-cycling it with no
-understanding of what is going wrong." Knight turned the machine off and on.
-The machine worked. [Ed note: This is much funnier if you know that Tom
-Knight was one of the Lisp machine's principal designers] * * * One day a
-student came to Moon and said, "I understand how to make a better garbage
-collector. We must keep a reference count of the pointers to each cons." Moon
-patiently told the student the following story: "One day a student came to
-Moon and said, "I understand how to make a better garbage collector... [Ed.
-note: The point here is technical. Pure reference-count garbage collectors
-have problems with `pathological' structures that point to themselves.] * * *
-In the days when Sussman was a novice Minsky once came to him as he sat
-hacking at the PDP-6. "What are you doing?", asked Minsky. "I am training a
-randomly wired neural net to play Tic-Tac-Toe", Sussman replied. "Why is the
-net wired randomly?", asked Minsky. "I do not want it to have any
-preconceptions of how to play", Sussman said. Minsky then shut his eyes. "Why
-do you close your eyes?", Sussman asked his teacher. "So that the room will
-be empty." At that moment, Sussman was enlightened. * * * A disciple of
-another sect once came to Drescher as he was eating his morning meal. "I
-would like to give you this personality test", said the outsider, "because I
-want you to be happy." Drescher took the paper that was offered him and put
-it into the toaster, saying: "I wish the toaster to be happy, too." Appendix
-B: The High Moby -- Obsolescent Terms From Jargon-1
-************************************************************ The following
-terms appeared in the main listing of the original Jargon File, but have been
-rendered obsolescent by the passage of time, the march of technology, the
-death of the DEC PDP-10, and the May 1990 shutdown of the ITS machines. They
-are collected here for possible historical interest. AOS /aus/ (East coast),
-/ay-ahs/ (West coast) [based on a PDP-10 increment instruction] v. 1. To
-increase the amount of something. "Aos the campfire." Usage: considered
-silly, and now obsolescent. see SOS. Now largely supplanted by BUMP. 2. A
-crufty MULTICS-derived OS supported at one time by Data General. Sense #1 was
-the name of a PDP-10 instruction that takes any memory location in the
-computer and adds one to it; AOS means "Add One and do not Skip". Why, you
-may ask, does the "S" stand for "do not Skip" rather than for "Skip"? Ah,
-here is a beloved piece of PDP-10 folklore. There are eight such
-instructions: AOSE adds one and then skips the next instruction if the result
-is Equal to zero; AOSG adds one and then skips if the result is Greater than
-zero; AOSN adds one and then skips if the result is Not zero; AOSA adds one
-and then skips Always; and so on. Just plain AOS doesn't say when to skip, so
-it never skips. For similar reasons, AOJ means "Add One and do not Jump".
-Even more bizarre, SKIP means "do not SKIP"! If you want to skip the next
-instruction, you must say "SKIPA". Likewise, JUMP means "do not JUMP" (see
-JRST below).
+ AOS: 1. /aws/ (East coast), /ay-os/ (West coast) [based on a PDP-10
+increment instruction] vt.,obs. To increase the amount of something. "Aos the
+campfire." Usage: considered silly, and now obsolete. see {SOS}. Now largely
+supplanted by {bump}. 2. A crufty {Multics}-derived OS supported at one time
+by Data General. This was pronounced /ay-oh-ess/ or /ay-os/, the latter being
+prevalent internally at DG. A spoof of the standard AOS system
+administrator's manual (`How to load and generate your AOS system') was
+created, issued a part number, and allegedly released. It was called `How to
+goad and levitate your chaos system'. Historical note: AOS in sense #1 was
+the name of a {PDP-10} instruction that took any memory location in the
+computer and added one to it; AOS meant `Add One and do not Skip'. Why, you
+may ask, does the `S' stand for `do not Skip' rather than for `Skip'? Ah,
+here was a beloved piece of PDP-10 folklore. There were eight such
+instructions: AOSE added one and then skipped the next instruction if the
+result was Equal to zero; AOSG added one and then skipped if the result was
+Greater than zero; AOSN added one and then skipped if the result was Not
+zero; AOSA added one and then skipped Always; and so on. Just plain AOS
+didn't say when to skip, so it never skipped. For similar reasons, AOJ meant
+`Add One and do not Jump'. Even more bizarre, SKIP meant `Do not SKIP'! If
+you wanted to skip the next instruction, you had to say `SKIPA'. Likewise,
+JUMP means `Do not JUMP'. Such were the perverse mysteries of assembler
+programming. app: /ap/ n. Short for `application program', as opposed to a
+systems program. What systems vendors are forever chasing developers to do
+for their environments so they can sell more boxes. Hackers tend not to think
+of the things they themselves run as apps; thus, in hacker parlance the term
+excludes compilers, program editors, games, and messaging systems, though a
+user would consider all those apps. Oppose {tool}, {operating system}. arc:
+[primarily MSDOS] vt. To create a compressed archive from a group of files
+using the SEA ARC, PKWare PKARC, or compatible program. Rapidly becoming
+obsolete as the ARC compression method is falling into disuse, having been
+replaced by newer compression techniques. see {tar and feather}, {zip}. arc
+wars: [primarily MSDOS] n. {holy wars} over which archiving program one
+should use. The first arc war was sparked when System Enhancement Associates
+(SEA) sued PKWare for copyright and trademark infringement on its ARC
+program. PKWare's PKARC outperformed ARC on both compression and speed while
+largely retaining compatibility (it introduced a new compression type which
+could be disabled for backward-compatibility). PKWare settled out of court to
+avoid enormous legal costs (both SEA and PKWare are small companies); as part
+of the settlement, the name of PKARC was changed to PKPAK. The public
+backlash against SEA for bringing suit helped to hasten the demise of ARC as
+a standard when PKWare and others introduced new, incompatible archivers with
+better compression algorithms. arena: [UNIX] n. The area of memory attached
+to a process by `brk(2)' and `sbrk(2)' and used by `malloc(3)' as dynamic
+storage. So named from a semi-mythical `malloc: corrupt arena' message
+supposedly emitted when some early versions became terminally confused. see
+{overrun screw}, {aliasing bug}, {memory leak}, {smash the stack}. arg: /arg/
+n. Abbreviation for `argument' (to a function), used so often as to have
+become a new word (like `piano' from `pianoforte'). "The sine function takes
+one arg, but the arc-tangent function can take either one or two args".
+Compare {param}, {var}. armor-plated: n. Syn. for {bulletproof}. asbestos
+cork award: n. Once, long ago at MIT, there was a {flamer} so consistently
+obnoxious that another hacker designed, had made, and distributed posters
+announcing that said flamer had been nominated for the `asbestos cork award'.
+Persons in any doubt as to the intended application of the cork should
+consult the etymology under {flame}. Since then, it is agreed that only a
+select few have risen to the heights of bombast required to earn this dubious
+dignity --- but there's no agreement on *which* few. asbestos longjohns: n.
+Notional garments often donned by {USENET} posters just before emitting a
+remark they expect will elicit {flamage}. Also `asbestos underwear',
+`asbestos overcoat', etc.

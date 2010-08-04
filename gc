@@ -1,10 +1,10 @@
- GC /jee-see/ [from LISP terminology; "Garbage Collect"] 1. vt. To clean up
+ GC: /jee-see/ [from LISP terminology; `Garbage Collect'] 1. vt. To clean up
 and throw away useless things. "I think I'll GC the top of my desk today."
-When said of files, this is equivalent to GFR (q.v.). 2. vt. To recycle,
-reclaim, or put to another use. 3. n. An instantiation of the garbage
-collector process. `Garbage collection' is computer science jargon for a
-particular class of strategies for dynamically reallocating computer memory.
-One such strategy involves periodically scanning all the data in memory and
+When said of files, this is equivalent to {GFR}. 2. vt. To recycle, reclaim,
+or put to another use. 3. n. An instantiation of the garbage collector
+process. `Garbage collection' is computer science jargon for a particular
+class of strategies for dynamically reallocating computer memory. One such
+strategy involves periodically scanning all the data in memory and
 determining what is no longer useful; useless data items are then discarded
 so that the memory they occupy can be recycled and used for another purpose.
 Implementations of the LISP language usually use garbage collection. In
@@ -12,4 +12,5 @@ slang, the full phrase is sometimes heard but the acronym is more frequently
 used because it's shorter. Note that there is an ambiguity in usage that has
 to be resolved by context: "I'm going to garbage-collect my desk" usually
 means to clean out the drawers, but it could also mean to throw away or
-recycle the desk itself.
+recycle the desk itself. Warning: in {X} programming, a `GC' may be a
+graphics context. This technical term has nothing to do with the jargon {GC}!

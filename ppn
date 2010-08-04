@@ -1,30 +1,193 @@
- PPN /pip'@n/ 1. A combination of a "project identifier" and "programmer
-name", used to identify a specific file directory belonging to that
-programmer. This was used in the TOPS-10 operating system that DEC provided
-for the PDP-10. The implicit assumption is that there will be many projects,
-each with several programmers working on it, and that a programmer may work
-on several projects. This is not a bad organization; what was totally BOGUS
-is that projects and programmers were identified by octal (base eight)
-numbers! Hence the term Project-Programmer Number, or PPN. If you were
-programmer 72534 and wanted to work on project 306, you would have had to
-tell the computer "login 306,72534". This was absurd. At CMU the TOPS-10
-system was modified to be somewhat less ridiculous: projects were identified
-by a letter and three decimal (not octal) digits, and programmers were
-identified by his two initials, a digit indicating the first year he came to
-CMU, and a fourth character that is used to distinguish between, say, Fred
-Loser and Farley Luser who both happened to arrive the same year. So to use
-the PDP-10 at CMU one might have said "login A780GS70". The programmer name
-"GS70" was also called a "man number" at CMU, even though it isn't really a
-number. At Stanford, projects and programmers were identified by three
-letters or digits each: if Guy Steele werre to work on a LISP project at
-Stanford, he might log in as "login lsp,gls". This was much more mnemonic.
-Programmer identifiers at Stanford were usually the programmer's initials,
-though sometimes it is a nickname or other three-letter sequence. Even though
-the CMU and Stanford forms were not really (pairs of) numbers, the term PPN
-was used to refer to the combination. 2. At Stanford, the term PPN was often
-used loosely to refer to the programmer name alone. "I want to send you some
-mail; what's your ppn?". This term is still used by old-timers on the
-commercial time-sharing service CompuServe (which uses PDP-10s) but has long
-since vanished from hackerdom. ITS and UNIX, of course, never used PPNs; ITS
-had six-character UNAMEs, and UNIX has 15-character `usernames' and
-hierararchical file system rather than project areas.
+ PPN: /pip'n/ [from `Project-Programmer Number'] n. A user-ID under {TOPS-10}
+and its various mutant progeny at SAIL, BBN, CompuServe, and elsewhere.
+Old-time hackers from the PDP-10 era sometimes use this to refer to user IDs
+on other systems as well. precedence lossage: /pre's@-dens los'j/ [C
+programmers] n. Coding error in an expression due to unexpected grouping of
+arithmetic or logical operators by the compiler. Used esp. of certain common
+coding errors in C due to the nonintuitively low precedence levels of `&',
+`|', `^', `<<', `>>'. Can always be avoided by suitable use of parentheses.
+see {aliasing bug}, {memory leak}, {smash the stack}, {fandango on core},
+{overrun screw}. prepend: /pree`pend'/ [by analogy with `append'] vt. To
+prefix. Like `append', but unlike `prefix' or `suffix' as a verb, the direct
+object is always the thing being added and not the original word (character
+string, etc). No, this is *not* standard English, yet! pretty pictures: n.
+[scientific computation] The next step up from {numbers}. Interesting
+graphical output from a program which may not have any real relationship to
+the reality the program is intended to model. Good for showing to
+{management}. prettyprint: /prit'ee-print/ v. 1. To generate `pretty'
+human-readable output from a {hairy} internal representation; esp. used for
+the process of {grind}ing (sense #2) LISP code. 2. To format in some
+particularly slick and nontrivial way. prime time: [from TV programming] n.
+Normal high-usage hours on a timesharing system; the day shift. Avoidance of
+prime time is a major reason for {night mode} hacking. priority interrupt:
+[from the hardware term] n. Describes any stimulus compelling enough to yank
+one right out of {hack mode}. Classically used to describe being dragged away
+by an {SO} for immediate sex, but may also refer to more mundane
+interruptions such as a fire alarm going off in the near vicinity. Also
+called an NMI (non-maskable interrupt), especially in PC-land. profile:
+[UNIX] n. 1. A control file for a program, esp. a text file automatically
+read from each user's home directory and intended to be easily modified by
+the user. Used to avoid {hardcoded} choices. 2. A report on the amounts of
+time spent in each routine of a program, used to find and {tune} away the
+{hot spot}s in it. This sense is often verbed. Some profiling modes report
+units other than time (such as call counts) at granularities other than
+per-routine, but the idea is similar. program: 1. n. A magic spell cast over
+a computer allowing it to turn one's input into error messages. 2. n. An
+exercise in experimental epistemology. 3. vt. To engage in a pastime similar
+to banging one's head against a wall, but with fewer opportunities for
+reward. Programmer's Cheer: "Shift to the left! Shift to the right! Pop up,
+push down! Byte! Byte! Byte!" A joke so old it has hair on it....
+programming: n. In folklore, this was classically defined as "The art of
+debugging a blank sheet of paper". Following the rise of on-line editing this
+should probably be recast as "The art of debugging an empty source file".
+propeller head: n. Used by hackers, this is syn. with {computer geek}.
+Non-hackers sometimes use it to describe all techies. Prob. derives from SF
+fandom's tradition (originally invented by old-time fan Ray Faraday Nelson)
+of propeller beanies as fannish insignia (though nobody actually wears them
+except as a joke). proprietary: adj. 1. In {marketroid}-speak, superior;
+implies a product imbued with exclusive magic by the unmatched brilliance of
+their employer's hardware or software designers. 2. In the language of
+hackers and users, inferior; implies a product not conforming to open-systems
+standards, and thus one which puts the customer at the mercy of a vendor able
+to gouge freely on service and upgrade charges after the initial sale has
+locked the customer in (that's assuming it wasn't too expensive in the first
+place). protocol: n. As used by hackers, this never refers to niceties about
+the proper form for addressing letters to the Papal Nuncio or the order in
+which one should use the forks in a Russian-style place setting; hackers
+don't care about such things. It is used instead to describe any set of rules
+which allow different machines or pieces of software to coordinate with each
+other without ambiguity; for example, it does include the niceties of
+addressing packets on a network or the order in which one should use the
+forks in the Dining Philosophers Problem. It implies that there's some common
+message format and accepted set of primitives or commands that all parties
+involved understand, and that transactions among them follow predictable
+logical sequences. see also {handshaking}, {do protocol}. prowler: [UNIX] n.
+A {demon} that is run periodically (typically once a week) to seek out and
+erase core files (see {core}), truncate administrative logfiles, nuke
+lost+found directories, and otherwise clean up the {cruft} that tends to pile
+up in the corners of a file system. see also {GFR}, {reaper}, {skulker}.
+pseudo: /soo'doh/ [USENET] n. 1. An electronic-mail or {USENET} persona
+adopted by a human for amusement value or as a means of avoiding negative
+repercussions of his/her net.behavior; a `nom de USENET', often associated
+with forged postings designed to conceal message origins. Perhaps the
+best-known and funniest hoax of this type is {BIFF}. 2. Notionally, a
+{flamage}-generating AI program simulating a USENET user. Many flamers have
+been accused of actually being such entities, despite the fact that no AI
+program of the required sophistication exists. However, in 1989 there was a
+famous series of forged postings that used a phrase-frequency-based travesty
+generator to simulate the styles of several well-known flamers based on large
+samples of their back postings. A significant number of people were fooled by
+these, and the debate over their authenticity was only settled when the
+perpetrator of the hoax came publicly forward to admit the deed. pseudoprime:
+n. A backgammon prime (six consecutive occupied points) with one point
+missing. This term is an esoteric pun derived from a mathematical method
+which, rather than determining precisely whether a number is prime (has no
+divisors), uses a statistical technique to decide whether the number is
+"probably" prime. A number that passes this test is called a pseudoprime. The
+hacker backgammon usage stems from the idea that a pseudoprime is almost as
+good as a prime: it does the job of a prime until proven otherwise, and that
+probably won't happen. pseudosuit: n. A {suit} wannabee; a hacker who's
+decided that he wants to be in management or administration and begins
+wearing ties, sport coats, and (shudder!) suits voluntarily. His funeral....
+psychedelicware: /sie`k@-del'-ik-weir/ [Great Britain] n. Syn. {display
+hack}. see also {smoking clover}. pubic directory: [NYU] n. The `pub'
+(public) directory on a machine that allows {FTP} access; the top-level
+directory owned by ftp. So called because it is the default location for
+{SEX} (sense #1). puff: vt. To decompress data that has been crunched by
+Huffman coding. At least one widely distributed Huffman decoder program was
+actually *named* `PUFF', but these days it isn't usually separate from the
+encoder. Oppose {huff}. punched card:: alt. `punch card' 1. n.obs. The
+signature medium of computing's {Stone Age}, now obsolescent outside of some
+IBM shops. The punched card actually predated computers considerably,
+originating as a control device for mechanical looms. The version patented by
+Hollerith and used with mechanical tabulating machines in the 1890 U.S.
+Census was a piece of cardboard about 90 mm by 215 mm, designed to fit
+exactly in the currency trays used for that era's larger dollar bills. IBM
+(which originated as a tabulating-machine manufacturer) married the punched
+card to computers, encoding binary information as patterns of small
+rectangular holes; one character per column, 80 columns per card. Later,
+other coding schemes, sizes of card, and hole shape were tried. The 80-column
+width of most character terminals is a legacy of the punched card; so is the
+size of the quick reference cards distributed with many varieties of
+computers even today. see {chad}, {chad box}, {eighty-column mind}, {green
+card}, {dusty deck}, {lace card}. punt: [from the punch line of an old joke
+referring to American football: "Drop back 15 yards and punt"] vt. 1. To give
+up, typically without any intention of retrying. "Let's punt the movie
+tonight." "I was going to hack all night to get this feature in, but I
+decided to punt" may mean that you've decided not to stay up all night, and
+may also mean you're not ever even going to put in the feature. 2. More
+specifically, to give up on figuring out what the {Right Thing} is and resort
+to an inefficient hack. Purple Book: n. The `System V Interface Definition'.
+The covers of the first editions were an amazingly nauseating shade of
+off-lavender. see also {Red Book}, {Blue Book}, {Green Book}, {Silver Book},
+{Orange Book}, {White Book}, {Pink-Shirt Book}, {Dragon Book}, {Aluminum
+Book}. push: [based on the stack operation that puts the current information
+on a stack, and the fact that procedure return addresses are saved on the
+stack] Also PUSH or PUSHJ /push-jay/, based on the PDP-10 procedure call
+instruction. 1. To put something onto a {stack} or {pdl}. If a person says
+something has been pushed onto his stack, he means yet another thing has been
+added to the list of things hanging over his head for him to do. This may
+also imply that he will deal with it `before' other pending items; otherwise
+he might have said the thing was "added to his queue". 2. vi. To enter upon a
+digression, to save the current discussion for later. Antonym of {pop}; see
+also {stack}, {pdl}. Q - quad: n. 1. Two bits; syn. for {quarter}, {crumb},
+{tayste}. 2. The rectangle or box glyph used in the APL language for various
+arcane purposes mostly related to I/O. Ex-Ivy-Leaguers and Oxbridge types are
+said to associate it with nostalgic memories of dear old University.
+quadruple bucky: n., obs. 1. On an MIT {space-cadet keyboard}, use of all
+four of the shifting keys control, meta, hyper, and super while typing a
+character key. 2. On a Stanford or MIT keyboard in raw mode, use of four
+shift keys while typing a fifth character, where the four shift keys are the
+control and meta keys on *both* sides of the keyboard. This was very
+difficult to do! One accepted technique was to press the left-control and
+left-meta keys with your left hand, the right-control and right-meta keys
+with your right hand, and the fifth key with your nose. Quadruple-bucky
+combinations were very seldom used in practice, because when one invented a
+new command one usually assigned it to some character that was easier to
+type. If you want to imply that a program has ridiculously many commands or
+features, you can say something like "Oh, the command that makes it spin the
+tapes while whistling Beethoven's 5th Symphony is
+quadruple-bucky-cokebottle". see {double bucky}, {bucky bits}, {cokebottle}.
+quantum bogodynamics: /kwon'tm boh`goh-die-nam'iks/ n. Theory which
+characterizes the universe in terms of bogon sources (such as politicians,
+used-car salesmen, TV evangelists, and {suit}s in general), bogon sinks (such
+as taxpayers and computers), and bogosity potential fields. Bogon absorption,
+of course, causes human beings to behave mindlessly and machines to fail (and
+may cause them to emit secondary bogons as well); however, the precise
+mechanics of the bogon-computron interaction are not yet understood and
+remain to be elucidated. Quantum bogodynamics is most frequently invoked to
+explain the sharp increase in hardware and software failures in the presence
+of suits; the latter emit bogons which the former absorb. see {bogon},
+{computron}, {suit}. quarter: n. Two bits; syn. {tayste}, {crumb}, {quad}.
+The term comes from the `pieces of eight' famed in pirate movies --- Spanish
+gold pieces that could be broken into eight pie-slice-shaped `bits' to make
+change. Early in the U.S.'s history the coin was considered equal to a
+dollar, so each of these `bits' was considered worth 12.5 cents. Usage: rare.
+see also {nickle}, {nybble}, {{byte}}. ques: /kwess/ 1. n. The question mark
+character (`?', ASCII 0111111). 2. interj. What? Also frequently verb-doubled
+as "Ques ques?" see {wall}. quick and dirty: adj. Describes a {crock} put
+together under time or user pressure. Used esp. when you want to convey that
+you think the fast way might lead to trouble further down the road. "I can
+have a quick and dirty fix in place tonight, but I'll have to rewrite the
+whole module to solve the underlying design problem." see also {kluge}. quux:
+/kwuhks/ [invented by Steele] Mythically, from the Latin semi-deponent verb
+quuxo, quuxare, quuxandum iri; noun form variously `quux' (plural `quuces',
+anglicized to `quuxes') and `quuxu' (genitive plural is `quuxuum', for four
+u-letters out of seven total, using up all the `u' letters in Scrabble in one
+swell foop).] 1. Originally, a meta-word like {foo} and {foobar}. Invented by
+Guy Steele for precisely this purpose when he was young and naive and not yet
+interacting with the real computing community. Many people invent such words;
+this one seems simply to have been lucky enough to have spread a little. In
+an eloquent display of poetic justice, it has returned to the originator in
+the form of a nickname, as punishment for inventing the bletcherous word in
+the first place. 2. interj. see {foo}; however, denotes very little disgust,
+and is uttered mostly for the sake of the sound of it. 3. Guy Steele in his
+persona as `The Great Quux', which is somewhat infamous for light verse and
+for the `Crunchly' cartoons. 4. In some circles, quux is used as a punning
+opposite of `crux'. "Ah, that's the quux of the matter!" implies that the
+point is *not* crucial (compare {tip of the iceberg}). 5. quuxy: adj. Of or
+pertaining to a quux. qux: /kwuhks/ The fourth of the standard metasyntactic
+variables, after {baz} and before the quuu*x series. see {foo}, {bar}, {baz},
+{quux}. Note that this appears to be a recent mutation from {quux}, and that
+many versions of the standard series just run {foo}, {bar}, {baz}, {quux},
+....

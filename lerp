@@ -1,3 +1,67 @@
- LERP /lerp/ v.,n. Quasi-acronym for Linear Interpolation, used as a verb or
-noun for the operation. Ex. Bresenham's algorithm lerps incrementally between
-the two endpoints of the line.
+ LERP: /lerp/ vi.,n. Quasi-acronym for Linear Interpolation, used as a verb
+or noun for the operation. E.g. Bresenham's algorithm lerps incrementally
+between the two endpoints of the line. let the smoke out: v. To fry hardware
+(see {fried}). see {magic smoke} for the mythology behind this. lexer:
+/lek'sr/ n. Common hacker shorthand for `lexical analyzer', the
+input-tokenizing stage in the parser for a language. "Some C lexers get
+confused by the old-style compound ops like `=-'". life: n. 1. A
+cellular-automata game invented by John Horton Conway, and first introduced
+publicly by Martin Gardner (Scientific American, October 1970). Many hackers
+pass through a stage of fascination with it, and hackers at various places
+contributed heavily to the mathematical analysis of this game (most notably
+Bill Gosper at MIT; see {Gosperism}). When a hacker mentions `life', he is
+much more likely to mean this game than the magazine, the breakfast cereal,
+or the human state of existence. 2. The opposite of {USENET}. As in {Get a
+life!}. light pipe: n. Fiber optic cable. Oppose {copper}. like kicking dead
+whales down the beach: A slow, difficult, and disgusting process. First
+popularized by a famous quote about the difficulty of getting work done under
+one of IBM's mainframe OSs. "Well, you *could* write a C compiler in COBOL,
+but it would be like kicking dead whales down the beach." like nailing jelly
+to a tree: adj. Used to describe a task thought to be impossible, esp. one in
+which the difficulty arises from poor specification or inherent slipperiness
+in the problem domain. line eater, the: [USENET] n. 1. A bug in some
+now-obsolete versions of the netnews software used to eat up to BUFSIZ bytes
+of the article text. The bug was triggered by having the text of the article
+start with a space or tab. This bug was quickly personified as a mythical
+creature called the `line eater', and postings often included a dummy line of
+`line eater food'. Ironically, line eater food not preceded by whitespace
+wasn't actually eaten, since the bug was avoided; but if there {was}
+whitespace before it, then the line eater would eat the food *and* the
+beginning of the text which it was supposed to be protecting. The practice of
+`sacrificing to the line eater' continued for some time after the bug had
+been {nailed to the wall}, and is still humorously referred to. The bug
+itself is still (in mid-1991) occasionally reported to be lurking in some
+mail-to-netnews gateways. 2. see {NSA line eater}. line starve: [MIT] 1. vi.
+To feed paper through a printer the wrong way by one line (most printers
+can't do this!). On a display terminal, to move the cursor up to the previous
+line of the screen. Example: "To print X squared, you just output X, line
+starve, 2, line feed." (The line starve causes the 2 to appear on the line
+above the X, and the line feed gets back to the original line.) 2. n. A
+character (or character sequence) that causes a terminal to perform this
+action. Unlike `line feed', `line starve' is *not* standard ASCII
+terminology. Even among hackers it is considered a bit silly. 3. [proposed] A
+sequence like \c (used in System V echo, as well as nroff/troff) which
+suppresses a {newline} or other character(s) that would normally implicitly
+be emitted. link farm: [UNIX] n. A directory tree that contains many links to
+files in another, master directory tree of files. Link farms save space when
+maintaining several nearly identical copies of the same source tree, e.g.
+when the only difference is architecture-dependent object files. Example use:
+"Let's freeze the source and then rebuild the FROBOZZ-3 and FROBOZZ-4 link
+farms." Link farms may also be used to get around restrictions on the number
+of -I arguments on older C preprocessors. lint: [from UNIX's `lint(1)', named
+perhaps for the bits of fluff it picks from programs] 1. vt. To examine a
+program closely for style, language usage, and portability problems, esp. if
+in C, esp. if via use of automated analysis tools, most esp. if the UNIX
+utility `lint(1)' is used. This term used to be restricted to use of
+`lint(1)' itself but (judging by references on USENET) has become a shorthand
+for `desk-check' at some non-UNIX shops, even in some languages other than C.
+see also {delint}. 2. n. Excess verbiage in a document, as in "this draft has
+too much lint". lion food: [IBM] n. Middle management or HQ staff (by
+extension, administrative drones in general). From an old joke about two
+lions who, escaping from the zoo, split up to increase their chances but
+agreed to meet after two months. When they do meet, one is skinny and the
+other overweight. The thin one says "How did you manage? I ate a human just
+once and they turned out a small army to chase me --- guns, nets, it was
+terrible. Since then I've been reduced to eating mice, insects, even grass."
+The fat one replies "Well, *I* hid near an IBM office and ate a manager a
+day. And nobody even noticed!"

@@ -1,31 +1,35 @@
- TECO /tee'koh/ [acronym for Tape (later, Text) Editor and COrrector] n. 1. A
-text editor developed at MIT, and modified by just about everybody. If all
-the dialects are included, TECO might have been the single most prolific
-editor in use before EMACS (q.v.) to which it was directly ancestral. Noted
-for its powerful programming-language-like features and its incredibly hairy
-syntax. It is literally the case that every possible sequence of ASCII
-characters is a valid, though probably uninteresting, TECO program; one
-common hacker game used to be mentally working out what the teco commands
-corresponding to human names did. As an example, here is a TECO program that
-takes a list of names like this: Loser, J. Random Quux, The Great Dick, Moby
-sorts them alphabetically according to last name, and then puts the last name
-last, removing the comma, to produce this: Moby Dick J. Random Loser The
-Great Quux The program is: [1 J ^P $ L $ $ J <.-Z; .,(S,$ -D .)FX1 @F^B $K :L
-I $ G1 L>$$ In fact, this very program was used to produce the second, sorted
-list from the first list! The first time I tried the program it had a BUG: I
-had accidentally omitted the "@" in front of "F^B", which as anyone can see
-is clearly the wrong thing. It worked fine the second time. There is no space
-to describe all the features of TECO, but I will note that "^P" means "sort"
-and "J <.-Z; ... L>" is an idiomatic series of commands for "do once for
-every line". Historical data from MRC: DEC grabbed an ancient version of MIT
-TECO many years ago when it was still a TTY-oriented editor (that is, didn't
-make use of display screens). By then, TECO at MIT had become a highly
-display-oriented and is actually a language for writing editors, rather than
-an editor. Meanwhile, the outside world's various versions of TECO remained
-almost the same as the MIT version of the early 1970s. DEC recently tried to
-discourage its use, but an underground movement of sorts kept it alive. DEC
-later tried to force their hackers by administrative decision to use a hacked
-up and generally lobotomized version of SOS instead of TECO, and they
-revolted. 1990 update: TECO is now pretty much one with the dust of history,
-having been replaced (both functionally and psychologically) almost
-everywhere by GNU EMACS -- ESR.
+ TECO: /tee'koh/ obs. 1. vt. Originally, to edit using the TECO editor in one
+of its infinite variations (see below); sometimes still used to mean `to
+edit' even when not using TECO! Usage: rare and now primarily historical. 2.
+[originally an acronym for (paper) `Tape Editor and COrrector'; later, `Text
+Editor and Corrector'] n. A text editor developed at MIT and modified by just
+about everybody. If all the dialects are included, TECO might have been the
+single most prolific editor in use before {EMACS}, to which it was directly
+ancestral. Noted for its powerful programming-language-like features and its
+incredibly hairy syntax. It is literally the case that every possible
+sequence of {{ASCII}} characters is a valid, though probably uninteresting,
+TECO program; one common hacker game used to be mentally working out what the
+TECO commands corresponding to human names did. As an example, here is a TECO
+program that takes a list of names like this: Loser, J. Random Quux, The
+Great Dick, Moby sorts them alphabetically according to last name, and then
+puts the last name last, removing the comma, to produce this: Moby Dick J.
+Random Loser The Great Quux The program is: [ 1 J^P$L$$ J <.-Z; .,(S,$ -D
+.)FX1 @F^B $ K :L I $ G1 L>$$ (where ^B means `Control-B' (ASCII 0000010) and
+$ is actually an {escape} (ASCII 0011011) character). In fact, this very
+program was used to produce the second, sorted list from the first list! The
+first hack at it had a {bug}: gls (the author) had accidentally omitted the
+`@' in front of `F^B', which as anyone can see is clearly the {Wrong Thing}.
+It worked fine the second time. There is no space to describe all the
+features of TECO, but it may be of interest that `^P' means `sort' and
+`J<.-Z; ... L>' is an idiomatic series of commands for `do once for every
+line'. In mid-1991, TECO is now pretty much one with the dust of history,
+having been replaced in the affections of hackerdom by {EMACS}. It can still
+be found lurking on VMS and a couple of crufty PDP-11 operating systems,
+however, and remains the focus of some antiquarian interest. see also
+{write-only language}. tee: n.,vt. [Purdue] A carbon copy of an electronic
+transmission, "Oh, you're sending him the {bits} to that? Slap on a tee for
+me." From the UNIX command `tee(1)', itself named after a pipe fitting (see
+{plumbing}, {pipeline}). Can also mean `save one for me' as in "Tee a slice
+for me!". Also spelled `T'. Telerat: /tel'@-rat/ n. Unflattering hackerism
+for `Teleray', a line of extremely losing terminals. see also {terminak},
+{sun-stools}, {HP-SUX}.

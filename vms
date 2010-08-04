@@ -1,9 +1,200 @@
- VMS /vee em ess/ n. DEC's proprietary operating system for their VAX
+ VMS: /vee em ess/ n. DEC's proprietary operating system for their VAX
 minicomputer; one of the seven or so environments that loom largest in hacker
 folklore. Many UNIX fans generously concede that VMS would probably be the
 hacker's favorite commercial OS if UNIX didn't exist; though true, this makes
 VMS fans furious. One major hacker gripe with it is its slowness, thus the
 following limerick: There once was a system called VMS Of cycles by no means
 abstemious. It's chock-full of hacks And runs on a VAX And makes my poor
-stomach all squeamious. ---The Great Quux see also VAX, TOPS-10, TOPS-20,
-UNIX.
+stomach all squeamious. ---The Great Quux see also {VAX}, {TOPS-10},
+{TOPS-20}, {UNIX}, {runic}. voice-net: n. Hackish way of referring to the
+telephone system, analogizing it to a digital network. USENET {sig block}s
+not uncommonly include the sender's phone next to a "Voice:" or "Voice-Net:"
+header; common variants of this are "Voicenet" and "V-Net". Compare
+{paper-net}, {snail-mail}, {wave a dead chicken}. voodoo programming: [from
+George Bush's "voodoo economics"] n. The use by guess or cookbook of an
+{obscure}, {hairy} system feature or algorithm which one does not truly
+understand. The implication is that the technique may not work, and if it
+doesn't, one will never know why. Compare {magic}, {deep magic}, {heavy
+wizardry}, {rain dance}, {cargo-cult programming}. vulcan nerve pinch: n.
+[From the old Star Trek TV series via Commodore Amiga hackers] The keyboard
+combination that forces a soft-boot or jump to ROM monitor (on machines that
+support such a feature). On many micros this is Ctrl-Alt-Del; on Suns, L1-A;
+on Macintoshes, it is <Cmd>-<Power switch>! Also called {three-finger
+salute}. Compare {quadruple bucky}. vulture capitalist: n. Pejorative
+hackerism for `venture capitalist', deriving from the common practice of
+pushing contracts that deprive inventors of both control over their own
+innovations and most of the money they ought to have made from them. W -
+wabbit: /wab'it/ [almost certainly from Elmer Fudd's immortal line `you
+wascawwy wabbit!'] n. 1. A legendary early hack reported on a System/360 at
+RPI and elsewhere around 1978. The program would reproduce itself twice every
+time it was run, eventually crashing the system. 2. By extension, any hack
+that includes infinite self-replication but is not a {virus} or {worm}. see
+also {cookie monster}. waldo: /wol'doh/ [probably taken from the story
+`Waldo', by Robert A. Heinlein, which is where the term was first used to
+mean a remote mechanical agent controlled by a human limb] At Harvard
+(particularly by Tom Cheatham and students) this is used instead of {foobar}
+as a meta-syntactic variable and general nonsense word. see {foo}, {bar},
+{foobar}, {quux}. walk: n.,vt. Traversal of an actual or {logical} data
+structure, especially a linked-list data structure in {core}. see also
+{codewalker}, {silly walk}, {clobber}. walking drives: n. An occasional
+failure mode of magnetic-disk drives back in the days when they were huge,
+clunky {washing machine}s. Those old {dinosaur} parts carried terrific
+angular momentum; the combination of a misaligned spindle or worn bearings
+and stick-slip interactions with the floor could cause them to `walk' across
+a room, lurching alternate corners forward a couple of millimeters at a time.
+There is a legend about a drive that walked over to the only door to the
+computer room and jammed it shut; the staff had to cut a hole in the wall in
+order to get at it! Walking could also be induced by certain patterns of
+drive access (a fast seek across the whole width of the disk, followed by a
+slow seek in the other direction). It is known that some bands of old-time
+hackers figured out how to induce disk-accessing patterns that would do this
+to particular drive models and held disk-drive races. This is not a joke!
+wall: [WPI] interj. 1. An indication of confusion, usually spoken with a
+quizzical tone. "Wall??" 2. A request for further explication. Compare {octal
+forty}. It is said that "Wall?" really came from `talking to a blank wall'.
+It was initially used in situations where, after one carefully answered a
+question, the questioner stared at you blankly, having understood nothing
+that was explained. One would then throw out a "Hello, wall?" to elicit some
+sort of response from the questioner. Later, confused questioners began
+voicing "Wall?" themselves. There is an anecdote about a child in a hospital
+who is addressed by a nurse over an intercom and replies "What do you want,
+Wall?" wall follower: n. A person or algorithm which compensates for native
+stupidity by efficiently following procedures shown to have been effective in
+the past. Used of an algorithm, this is not necessarily pejorative; it
+recalls `Harvey Wallbanger', the winning robot in an early AI contest (named,
+of course, after the cocktail). Harvey successfully solved mazes by keeping a
+`finger' on one wall and running till it came out the other end. This was
+inelegant, but mathematically guaranteed to work on simply-connected mazes
+--- and, in fact, Harvey outperformed more sophisticated robots that tried to
+`learn' each maze by building an internal representation of it. Used of
+humans the term *is* pejorative and implies an uncreative, bureaucratic,
+by-the-book mentality. see also {code grinder}. wall time: n. (also `wall
+clock time') 1. `Real world' time (what the clock on the wall shows) as
+opposed to the system clock's idea of time. 2. The real running time of a
+program, as opposed to the number of {clocks} required to execute it (on a
+timesharing system these will differ, as no one program gets all the
+{clocks}). wallpaper: n. 1. A file containing a listing (e.g., assembly
+listing) or transcript, esp. a file containing a transcript of all or part of
+a login session. (The idea was that the LPT paper for such listings was
+essentially good only for wallpaper, as evidenced at Stanford, where it was
+used as such to cover windows.) Usage: not often used now, esp. since other
+systems have developed other terms for it (e.g., PHOTO on TWENEX). However,
+the UNIX world doesn't have an equivalent term, so perhaps {wallpaper} will
+take hold there. The term probably originated on ITS, where the commands to
+begin and end transcript files were :WALBEG and :WALEND, with default file
+DSK:WALL PAPER. 2. The background pattern used on graphical workstations
+(this is jargon under the `Windows' graphical user interface to MS-DOS). 3.
+`wallpaper file' n. The file that contains the wallpaper information before
+it is actually printed on paper. (Sometimes you don't intend ever to produce
+a real paper copy of the file, because you can look at the file directly on
+your terminal, but it is still called a `wallpaper file'.) wank: /wangk/
+[Columbia University; prob. by mutation from Commonwealth slang v. "wank", to
+masturbate] n.,v. Used much as {hack} (senses #5, #7, #9) is elsewhere. May
+describe (negatively) the act of hacking for hacking's sake ("Quit wanking,
+let's go get supper!") or (more positively) a {wizard}. Adj. `wanky'
+describes something particularly clever (a person, program, or algorithm).
+Conversations can also get wanky when there are too many wanks involved. This
+excess wankiness is signalled by an overload of the "wankometer" (compare
+{bogometer}). When the wankometer overloads, the conversation's subject must
+be changed, or all non-wanks will leave. Compare `neep-neeping' (under
+{neep-neep}). wannabee: [from a term recently used to describe Madonna fans
+who dress, talk, and act like their idol; prob. originally from biker slang]
+n. A would-be {hacker}. The connotations of this term differ sharply
+depending on the age and exposure of the subject. Used of a person who is in
+or might be entering {larval stage} it's semi-approving; such wannabees can
+be annoying but most hackers remember that they, too were once such
+creatures. When used of any professional programmer, CS academic, writer, or
+{suit} it's derogatory, implying that said person is trying to cuddle up to
+the hacker mystique but doesn't, fundamentally, have a prayer of
+understanding what it's all about. Overuse of terms from this File is often
+an indication of the {wannabee} nature. Compare {newbie}. [Historical note:
+the wannabee phenomenon has a bit different flavor now (1991) than it did ten
+or fifteen years ago. When the people who are now hackerdom's tribal elders
+were in {larval stage}, the process of becoming a hacker was largely
+unconscious and unaffected by models known in popular culture --- communities
+formed spontaneously around people who, *as individuals*, felt irresistibly
+drawn to do hackerly things, and what wannabees experienced was a fairly
+pure, skill-focused desire to become similarly wizardly. Those days of
+innocence are gone forever; society's adaptation to the advent of the
+microcomputer after 1980 included the elevation of hackers as a new kind of
+folk hero, and the result is that some people semi-consciously set out to *be
+hackers* and borrow hackish prestige by fitting the public hacker image.
+Fortunately, to do this really well one has to actually become a wizard.
+Nevertheless, old-time hackers tend to share a poorly articulated disquiet
+about the change; among other things, it gives them mixed feelings about the
+effects of public compendia of lore like this one.] wart: n. A small, crocky
+{feature} that sticks out of an otherwise {clean} design. Something
+conspicuous for localized ugliness, especially a special-case exception to a
+general rule. For example, in some versions of `csh(1)', single-quotes
+literalize every character inside them except `!'. In ANSI C, the ?? syntax
+used for escapes to foreign-language alphabets is a wart. see also {miswart}.
+washing machine: n. Old-style 14" hard disks in floor-standing cabinets. So
+called because of the size of the cabinet and the `top-loading' access to the
+media packs --- and, of course, they were always set on `spin cycle'. The
+washing-machine idiom transcends language barriers; it's even used in Russian
+hacker jargon. see {walking drives}. The thick channel cables connecting
+these were called `bit hoses' (see {hose}). water MIPS: n. Large,
+water-cooled machines of either today's ECL-supercomputer flavor or
+yesterday's traditional {mainframe} type. wave a dead chicken: v. To perform
+a ritual in the direction of crashed software or hardware which one believes
+to be futile but is nevertheless necessary so that others are satisfied that
+an appropriate degree of effort has been expended. "I'll wave a dead chicken
+over the source code, but I really think we've run into an OS bug." Compare
+{voodoo programming}, {rain dance}. weasel: n. [Cambridge] A naive user, one
+who deliberately or accidentally does things which are stupid or ill-advised.
+Roughly synonymous with {luser}. wedged: [from a common description of
+recto-cranial inversion] adj. 1. To be stuck, incapable of proceeding without
+help. This is different from having crashed. If the system has crashed, then
+it has become totally non-functioning. If the system is wedged, it is trying
+to do something but cannot make progress; it may be capable of doing a few
+things, but not be fully operational. For example, the system may become
+wedged if the disk controller fries; there are some things you can do without
+using the disks, but not many. Being wedged is slightly milder than being
+{hung}. Also see {gronk}, {locked up}, {hosed}. 2. This term is sometimes
+used to describe a {deadlock} condition. 3. Often refers to humans suffering
+misconceptions. 4. [UNIX] Specifically used to describe the state of a TTY
+left in a losing state by abort of a screen-oriented program or one that has
+messed with the line discipline in some obscure way. wedgitude: /wedj'i-tood/
+n. The quality or state of being {wedged}. weeble: /weeb'l/ [Cambridge]
+interj. Use to denote frustration, usually at amazing stupidity. "I stuck the
+disk in upside down." "Weeble..." Compare {gurfle}. weeds: n. Refers to
+development projects or algorithms that have no possible relevance or
+practical application. Comes from `off in the weeds'. Used in phrases like
+"lexical analysis for microcode is serious weeds...." weenie: n. 1. The
+semicolon character, `;' (ASCII 0111011). 2. When used with a qualifier (for
+example, as in {UNIX weenie}, VMS weenie, IBM weenie) can become either an
+insult or a term of praise, depending on context, tone of voice, and whether
+or not it is applied by a person who considered him/herself to be the same
+sort of weenie. Implies that the weenie has put a major investment of time,
+effort, and concentration into the area indicated; whether this is positive
+or negative depends on the hearer's judgement of how the speaker feels about
+that area. see also {bigot}. Weenix: [ITS] n. A derogatory term for {UNIX},
+derived from {UNIX weenie}. well-behaved: adj. 1. [primarily {MS-DOS}] Said
+of software conforming to system interface guidelines and standards. Well
+behaved software uses the operating system to do chores such as keyboard
+input, allocating memory and drawing graphics. Oppose {ill-behaved}. 2.
+Software that does its job quietly and without counterintuitive effects. Esp.
+said of software having an interface spec sufficiently simple and
+well-defined that it can be used as a {tool} by other software.
+well-connected: adj. Said of a computer installation, this means it has
+reliable email links with the network and/or relays a large fraction of
+available {USENET} newsgroups. `Well-known' can be almost synonymous, but
+also implies that the site's name is familiar to many (due perhaps to an
+archive service or active USENET users). wetware: [prob. from the novels of
+Rudy Rucker] n. 1. The human brain, as opposed to computer hardware or
+software (as in "Wetware has at most 7 plus or minus 2 registers"). 2. Human
+beings (programmers, operators, administrators) attached to a computer
+system, as opposed to the system's hardware or software. what: n. The
+question mark character (`?', ASCII 0111111). Syn. {ques}. Usage: rare, used
+particularly in conjunction with {wow}. wheel: [from Twenex, q.v.] n. A
+privileged user or {wizard} (sense #2). The term was invented on the {TENEX}
+operating system and carried over to {TWENEX}, Xerox-IFS, and others. It
+entered the UNIX culture from TWENEX and has been gaining popularity there
+(esp. at university sites). Privilege bits are sometimes called `wheel bits'.
+The state of being in a privileged logon is sometimes called `wheel mode'.
+see also {root}. wheel wars: [Stanford University] A period in {larval stage}
+during which student wheels hack each other by attempting to log each other
+out of the system, delete each other's files, and otherwise wreak havoc,
+usually at the expense of the lesser users. White Book: n. Syn. {K&R}.
+whizzy: [Sun] adj. (alt. `wizzy') Describes a {cuspy} program; one which is
+feature-rich and well presented.

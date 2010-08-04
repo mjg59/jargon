@@ -1,0 +1,274 @@
+ GPV: n. Abbrev. for {General Public Virus} in widespread use. grault:
+/grawlt/ n. Yet another meta-syntactic variable, invented by Mike Gallaher
+and propagated by the {GOSMACS} documentation. see {corge}. gray goo: n. A
+hypothetical substance composed of {sagan}s of sub-micron-sized
+self-replicating robots programmed to make copies of themselves out of
+whatever is available. The image that goes with the term is one of the entire
+biosphere of Earth being eventually converted to robot goo. This is the
+simplest of the {nanotechnology} disaster scenarios, easily refuted by
+arguments from energy requirements and elemental abundances. Great Renaming:
+n. The {flag day} on which all of the groups on the {USENET} had their names
+changed from the net.- format to the current multiple-hierarchies scheme.
+Great Runes: n. Uppercase-only text or display messages. Some archaic
+operating systems still emit these. see also {runic}, {smash case}, {fold
+case}. great-wall: [from SF fandom] vi.,n. A mass expedition to an Oriental
+restaurant, esp. one where food is served family-style and shared. There is a
+common heuristic about the amount of food to order, expressed as "Get N - 1
+entrees."; the value of N, which is the number of people in the group, can be
+inferred from context. see {{Oriental Food}}, {ravs}, {stir-fried random}.
+Green Book: n. 1. One of the three standard PostScript references
+(`PostScript Language Program Design', Adobe Systems, Addison-Wesley 1988,
+QA76.73.P67P66 ISBN 0-201-14396-8); see also {Red Book}, {Blue Book}). 2.
+Informal name for one of the three standard references on SmallTalk:
+`Smalltalk-80: Bits of History, Words of Advice', Glenn Krasner,
+Addison-Wesley 1983, QA76.8.S635S58, ISBN 0-201-11669-3 (this is also
+associated with blue and red books). 3. The `X/Open Compatibility Guide'.
+Defines an international standard {UNIX} environment that is a proper
+superset of POSIX/SVID; also includes descriptions of a standard utility
+toolkit, systems administrations features, and the like. This grimoire is
+taken with particular seriousness in Europe. see {Purple Book}. 4. The IEEE
+1003.1 POSIX Operating Systems Interface standard has been dubbed "The Ugly
+Green Book". 5. Any of the 1992 standards which will be issued by the CCITT
+10th plenary assembly. Until now, these have changed color each review cycle
+(1984 was {Red Book}, 1988 {Blue Book}); however, it is rumored that this
+convention is going to be dropped before 1992. These include, among other
+things, the X.400 email spec and the Group 1 through 4 fax standards. see
+also {Blue Book}, {Red Book}, {Green Book}, {Silver Book}, {Purple Book},
+{Orange Book}, {White Book}, {Dragon Book}, {Pink-Shirt Book}, {Aluminum
+Book}. green bytes: n. 1. Meta-information embedded in a file such as the
+length of the file or its name; as opposed to keeping such information in a
+separate description file or record. Name comes from an IBM user's group
+meeting c.1962 where these two approaches were being debated and the diagram
+of the file on the blackboard had the `green bytes' drawn in green. 2. By
+extension, the non-data bits in any self-describing format. "A GIF file
+contains, among other things, green bytes describing the packing method for
+the image." green card: n. [after the IBM System/360 Reference Data card]
+This is used for any summary of an assembly language, even if the color is
+not green. Less frequently used now because of the decrease in the use of
+assembly language. "I'll go get my green card so I can check the addressing
+mode for that instruction." Some green cards are actually booklets. The
+original green card became a yellow card when the System/370 was introduced,
+and later a yellow booklet. An anecdote from IBM refers to a scene that took
+place in a programmers' terminal room at Yorktown in 1978. A luser overheard
+one of the programmers ask another "Do you have a green card?". The other
+grunted and passed the first a thick yellow booklet. At this point the luser
+turned a delicate shade of olive and rapidly left the room, never to return.
+see also {card}. green lightning: [IBM] n. 1. Apparently random flashing
+streaks on the face of 3278-9 terminals while a new symbol set is being
+downloaded. This hardware bug was left deliberately unfixed, as some genius
+within IBM suggested it would let the user know that `something is
+happening'. That, it certainly does. Later microprocessor-driven IBM color
+graphics displays were actually *emph* to produce green lightning! 2.
+[proposed] Any bug perverted into an alleged feature by adroit
+rationalization or marketing. E.g., "Motorola calls the CISC cruft in the
+88000 architecture `compatibility logic', but I call it green lightning".
+green machine: n. A computer or peripheral device that has been designed and
+built to military specifications for field equipment (that is, to withstand
+mechanical shock, extremes of temperature and humidity, and so forth). Comes
+from the olive-drab `uniform' paint used for military equipment. grep: /grep/
+[from the qed/ed editor idiom g/re/p , where re stands for a regular
+expression, to Globally search for the Regular Expression and Print the lines
+containing matches to it, via {UNIX} `grep(1)'] vt. To rapidly scan a file or
+file set looking for a particular string or pattern. By extension, to look
+for something by pattern. "Grep the bulletin board for the system backup
+schedule, would you?" see also {vgrep}. grind: vt. 1. [MIT and Berkeley] To
+format code, especially LISP code, by indenting lines so that it looks
+pretty. This usage was associated with the MACLISP community and is now rare;
+{prettyprint} was and is the generic term for such operations. 2. [UNIX] To
+generate the formatted version of a document from the nroff, troff, TeX, or
+Scribe source. The BSD program `vgrind(1)' grinds code for printing on a
+Versatec bitmapped printer. 3. To run seemingly interminably, esp. (but not
+necessarily) if performing some tedious and inherently useless task. Similar
+to {crunch} or {grovel}. Grinding has a connotation of using a lot of CPU
+time, but it is possible to grind a disk, network, etc. see also {hog}. 4. To
+make the whole system slow, e.g. "Troff really makes things grind to a halt
+on a PDP-11". 5. `grind grind' excl. Roughly, "Isn't the machine slow today!"
+grind crank: n. A mythical accessory to a terminal. A crank on the side of a
+monitor, which when operated makes a zizzing noise and causes the computer to
+run faster. Usually one does not refer to a grind crank out loud, but merely
+makes the appropriate gesture and noise. see {grind}, and {wugga wugga}.
+Historical note: At least one real machine actually had a grind crank --- the
+R1, a research machine built towards the the end of the days of the great
+vacuum tube computers in 1959. R1 (also known as `The Rice Institute
+Computer' (TRIC), and later as `The Rice University Computer' (TRUC)) had a
+single step/free run switch for use when debugging programs. Since
+single-stepping through a large program was rather tedious, there was also a
+crank with a cam and gear arrangement that repeatedly pushed the single-step
+button. This allowed one to `crank' through a lot of code, then slow down to
+single-step a bit when you got near the code of interest, poke at some
+registers using the console typewriter, and then keep on cranking. gritch:
+/grich/ 1. n. A complaint (often caused by a {glitch}). 2. vi. To complain.
+Often verb-doubled: "Gritch gritch". 3. A synonym for {glitch} (as verb or
+noun). grok: /grok/ [from the novel `Stranger in a Strange Land', by Robert
+Heinlein, where it is a Martian verb meaning literally `to drink' and
+metaphorically `to be one with'] vt. 1. To understand, usually in a global
+sense. Connotes intimate and exhaustive knowledge. Contrast {zen}, similar
+supernal understanding as a single brief flash. 2. Used of programs, may
+connote merely sufficient understanding, e.g., "Almost all C compilers grok
+void these days." gronk: /gronk/ [popularized by the comic strip `B.C.' by
+Johnny Hart, but the word apparently predates that] vt. 1. To clear the state
+of a wedged device and restart it. More severe than "to {frob}". 2. To break.
+"The teletype scanner was gronked, so we took the system down." 3. `gronked':
+adj. Of people, the condition of feeling very tired or sick. Oppose {broken},
+which means about the same as {gronk} used of hardware but connotes
+depression or mental/emotional problems in people. 4. `gronk out': vi. To
+cease functioning. Of people, to go home and go to sleep. "I guess I'll gronk
+out now; see you all tomorrow." 5. The sound made by many 3.5" diskette
+drives. In particular, the floppies on a Commodore Amiga go "grink, gronk".
+grovel: vi. 1. To work interminably and without apparent progress. Often used
+transitively with `over' or `through'. "The file scavenger has been
+grovelling through the file directories for ten minutes now." Compare {grind}
+and {crunch}. Emphatic form: `grovel obscenely'. 2. To examine minutely or in
+complete detail. "The compiler grovels over the entire source program before
+beginning to translate it." "I grovelled through all the documentation, but I
+still couldn't find the command I wanted." grunge: n. 1. That which is
+{grungy}, or that which makes it so. 2. [Cambridge] Code which is `dead' (can
+never be accessed) due to changes in other parts of the program. The
+preferred term in North America is {dead code}. grungy: /gruhn'jee/ adj.
+Incredibly dirty, greasy, or grubby. Anything which has been washed within
+the last year is not really grungy. Also used metaphorically; hence some
+programs (especially crocks) can be described as grungy. The earliest print
+use anybody has reported to use of `grungy' is from the National Lampoon
+parody `Bored Of the Rings', dating from the late 1960s. It has been
+suggested that this term originated with Vietnam vets. It has recently (as of
+1991) also common in mainstream slang. gubbish: /guh'bish/ [a portmanteau of
+"garbage" and "rubbish"?] n. Garbage; crap; nonsense. "What is all this
+gubbish?" The opposite portmanteau "rubbage" is also reported. guiltware: n.
+{freeware} decorated with a message telling one how long and hard the author
+worked on this program and intimating that one is a no-good freeloader if one
+does not immediately send the poor suffering martyr gobs of money. gumby:
+/guhm'bee/ [from a class of Monty Python characters, poss. themselves named
+after a `60s claymation character] n. An act of minor but conspicuous
+stupidity, often in `gumby maneuver' or `pull a gumby'. gun: [from the :GUN
+command on ITS] vt. To forcibly terminate a program or job (computer, not
+career). "Some idiot left a background process running soaking up half the
+cycles, so I gunned it." Compare {can}. gurfle: /ger'fl/ interj. An
+expression of shocked disbelief. "He said we have to recode this thing in
+FORTRAN by next week. Gurfle!" Compare {weeble}. guru: n. 1. [UNIX] An
+expert. Implies not only {wizard} skill but a history of being a knowledge
+resource for others. Less often, used (with a qualifier) for other experts on
+other systems, as in `VMS guru'. 2. Amiga equivalent of "panic" in UNIX. When
+the system crashes a cryptic message "GURU MEDITATION #XXXXXXXX.YYYYYYYY"
+appears, indicating what the problem was. An Amiga guru can figure things out
+from the numbers. Generally a {guru} event must be followed by a {vulcan
+nerve pinch}. H - h: [from SF fandom] infix. A method of `marking' common
+words in the linguist's sense, i.e. calling attention to the fact that they
+are being used in a nonstandard, ironic, or humorous way. Orig. in the
+fannish catchphrase "Bheer is the One True Ghod" from decades ago. H-infix
+marking of `Ghod' and other words spread into the Sixties counterculture via
+underground comix, and into early hackerdom either from the counterculture or
+SF fandom (all three overlapped heavily at the time). More recently, the h
+infix has become an expected feature of benchmark names, e.g. Whetstone,
+Dhrystone, Rhealstone, etc.; this is prob. patterning on the original
+Whetstone name but influenced by the fannish/counterculture H infix. ha ha
+only serious: [from SF fandom, orig. as mutation of HHOK, "Ha Ha Only
+Kidding"] A phrase that aptly captures the flavor of much hacker discourse
+(often seen abbreviated as HHOS). Applied especially to parodies,
+absurdities, and ironic jokes that are both intended and perceived to contain
+a possibly disquieting amount of truth, or truths which are constructed on
+in-joke and self-parody. This lexicon contains many examples of
+ha-ha-only-serious in both form and content. Indeed, the entirety of hacker
+culture is often perceived as ha-ha-only-serious by hackers themselves; to
+take it either too lightly or too seriously marks a person as an outsider, a
+{wannabee}, or in {larval stage}. For further enlightenment on this subject,
+consult any Zen master. see also {{Humor, Hacker}} and {AI koans}. hack: 1.
+n. Originally a quick job that produces what is needed, but not well. 2. n.
+An incredibly good, and perhaps very time-consuming, piece of work that
+produces exactly what is needed. 3. n. The result of a hack (sense #1 or #2).
+4. vt. To bear emotionally or physically. "I can't hack this heat!" 5. vt. To
+work on something (typically a program). In specific sense: "What are you
+doing?" "I'm hacking TECO." In general sense: "What do you do around here?"
+"I hack TECO." (The former is time-immediate, the latter time-extended.) More
+generally, "I hack x" is roughly equivalent to "x is my major interest (or
+project)". "I hack solid-state physics." 6. vt. To pull a prank on. see
+definition 3 and {hacker} (sense #6). 7. vi. To waste time (as opposed to
+{tool}). "Whatcha up to?" "Oh, just hacking." 8. [UNIX] n. A dungeon game
+similar to {rogue} but more elaborate, distributed in C source over {USENET}
+and very popular at UNIX sites and on PC-class machines. Recent versions are
+called `nethack'. 9. n. Short for {hacker}, which see. Constructions on this
+term abound. They include: `happy hacking', a farewell; `how's hacking?', a
+friendly greeting among hackers; and `hack hack', a fairly content-free but
+friendly comment, often used as a temporary farewell. For more on the meaning
+of {hack} see Appendix A. see also {neat hack}, {real hack}. hack attack:
+[poss. by analogy with `Big Mac Attack'] n. Nearly synonymous with {hacking
+run}, though the latter implies an all-nighter more strongly. hack mode: n.
+1. What one is in when hacking, of course. 2. More specifically, a Zen-like
+state of total focus on The Problem which may be achieved when one is hacking
+(this is why every good hacker is half a mystic). Ability to enter such
+concentration at will correlates strongly with wizardliness; it is one of the
+most important skills learned during {larval stage}. Sometimes amplified as
+`deep hack mode'. Being yanked out of hack mode (see {priority interrupt})
+may be experienced as an almost physical shock, and the sensation of being in
+it is more than a little habituating. The intensity of this experience is
+probably by itself sufficient explanation for the existence of hackers, and
+explains why many resist being promoted out of positions where they can do
+code. see also {cyberspace} (sense #2). Some aspects of hackish etiquette
+will appear quite odd to an observer unaware of the high value placed on hack
+mode. For example, if someone appears at your office door, it is perfectly
+okay to hold up a hand (without turning one's eyes away from the screen) to
+avoid being interrupted. One may read, type and interact with the computer
+for quite some time before further acknowledging the other's presence (of
+course, he/she is reciprocally free to leave without a word). The
+understanding is that you might be in {hack mode} with a lot of delicate
+{state} (sense #2) in your head, and you dare not {swap out} that context
+until you have reached a good point to pause. hack on: vt. To {hack}; implies
+that the subject is some pre-existing hunk of code that one is evolving, as
+opposed to something one might {hack up}. hack together: vt. To throw
+something together so it will work. Unlike {kluge together} or {cruft
+together} this does not necessarily have negative connotations. hack up: vt.
+To {hack}, but generally implies that the result is a hack in sense #1 (a
+quick hack). Contrast this with {hack on}. To `hack up on' implies a quick
+and dirty modification to an existing system. hack value: n. Often adduced as
+the reason or motivation for expending effort toward a seemingly useless
+goal, the point being that the accomplished goal is a hack. For example,
+MacLISP has features for reading and printing Roman numerals, which were
+installed purely for hack value. As a musician once said of jazz, if you
+don't understand hack value there is no way it can be explained.
+hack-and-slay: v. (also `hack-and-slash') 1. To play a {MUD} or go mudding,
+especially with the intention of {berserking} for pleasure. 2. To undertake
+an all-night programming/hacking session, interspersed with stints of mudding
+to alleviate boredom. This term arose on the British academic network amongst
+students who worked nights and logged onto Essex University's MUDs during
+public-access hours (2am => 7am). Usually more mudding than work was done in
+these sessions. hacked-off: adj. Said of system administrators who have
+become annoyed, upset, or touchy due to suspicions that their sites have been
+or are going to be victimized by crackers, or used for inappropriate,
+technically illegal, or even overtly criminal activities. For example, having
+unreadable files in your home directory called `worm', `lockpick', or
+`goroot' would probably be an effective (as well as monumentally obvious and
+stupid) way to get your sysadmin hacked off at you. hacker: [originally,
+someone who makes furniture with an axe] n. 1. A person who enjoys learning
+the details of programming systems and how to stretch their capabilities, as
+opposed to most users who prefer to learn only the minimum necessary. 2. One
+who programs enthusiastically (even obsessively), or who enjoys programming
+rather than just theorizing about programming. 3. A person capable of
+appreciating {hack value}. 4. A person who is good at programming quickly.
+Not everything a hacker produces is a hack. 5. An expert at a particular
+program, or one who frequently does work using it or on it; as in `a UNIX
+hacker'. (Definitions 1 to 5 are correlated, and people who fit them
+congregate.) 6. An expert of any kind. One might be an astronomy hacker, for
+example. 7. (deprecated) A malicious or inquisitive meddler who tries to
+discover information by poking around. Hence `password hacker', `network
+hacker'. see {cracker}. hacking run: [analogy with `bombing run' or `speed
+run'] n. A hack session extended long outside normal working times,
+especially one longer than 12 hours. May cause you to `change phase the hard
+way' (see {phase}). hackish: /hak'ish/ adj. (also {hackishness} n.) 1. Being
+or involving a hack. 2. Of or pertaining to hackers or the hacker subculture.
+see also {true-hacker}. It is better to be described as hackish by others
+than to describe oneself that way. Hackers consider themselves somewhat of an
+elite, though one to which new members are gladly welcome. It is a
+meritocracy based on ability. There is a certain self-satisfaction in
+identifying yourself as a hacker (but if you claim to be one and are not,
+you'll quickly be labelled {bogus}). hackishness: n. The quality of being or
+involving a hack. see {hackitude}. hackitude: n. Syn. {hackishness}; this
+word is considered silly. hair: [back-formation from {hairy}] n. The
+complications which make something hairy. "Decoding {TECO} commands requires
+a certain amount of hair." Often seen in the phrase `infinite hair', which
+connotes extreme complexity. Also in `hairiferous' (tending to promote hair
+growth): "GNUMACS Elisp encourages lusers to write complex editing modes."
+"Yeah, it's pretty hairiferous all right." (or just: "Hair squared!") hairy:
+adj. 1. Overly complicated. "{DWIM} is incredibly hairy." 2.
+Incomprehensible. "{DWIM} is incredibly hairy." 3. Of people, high-powered,
+authoritative, rare, expert, and/or incomprehensible. Hard to explain except
+in context: "He knows this hairy lawyer who says there's nothing to worry
+about." see also {hirsute}.

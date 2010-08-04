@@ -1,12 +1,27 @@
- TWENEX /twe-neks/ n. The TOPS-20 operating system by DEC. TOPS-10 was a
+ TWENEX: /twe'neks/ n. The TOPS-20 operating system by DEC. TOPS-10 was a
 typically crufty DEC operating system for the PDP-10, so TOPS-20 was the
-obvious name choice for the DEC-20 OS. Bolt, Beranek and Newman (BBN) had
-developed their own system, called TENEX (TEN EXecutive), and in creating
+obvious name choice for the DEC-20 OS. Bolt, Beranek, and Newman (BBN) had
+developed its own system, called *TENEX* (TEN EXecutive), and in creating
 TOPS-20 DEC copied TENEX and adapted it for the 20. The term TWENEX was
-therefore a contraction of "twenty TENEX". DEC people cringed when they heard
-TOPS-20 referred to as "Twenex", but the term caught on nevertheless. The
-written abbreviation "20x" was also used. TWENEX was successful and very
+therefore a contraction of `twenty TENEX'. DEC people cringed when they heard
+TOPS-20 referred to as `TWENEX', but the term caught on nevertheless. The
+written abbreviation `20x' was also used. TWENEX was successful and very
 popular; in fact, there was a period in the 1980s when it commanded almost as
 fervent a culture of partisans as UNIX or ITS --- but DEC's decision to scrap
 all the internal rivals to the VAX architecture and the relatively stodgy VMS
 OS killed the DEC-20 and put a sad end to TWENEX's brief day in the sun.
+twiddle: n. 1. Tilde (ASCII 1111110, `~'). Also called `squiggle', `sqiggle'
+(sic---pronounced /skig'l/), and `twaddle', but twiddle is the most common
+term. 2. A small and insignificant change to a program. Usually fixes one bug
+and generates several new ones. 3. vt. To change something in a small way.
+Bits, for example, are often twiddled. Twiddling a switch or knob implies
+much less sense of purpose than toggling or tweaking it; see {frobnicate}. To
+speak of twiddling a bit connotes aimlessness, and at best doesn't specify
+what you're doing to the bit; by contrast, toggling a bit has a more specific
+meaning (see {toggle}). twink: /twink/ [UCSC] n. Equivalent to {read-only
+user}. two pi: quant. The number of years it takes to finish one's thesis.
+Occurs in stories in the form: "He started on his thesis; two pi years
+later...". two-to-the-n: q. Used like N, but referring to bigger numbers. "I
+have two-to-the-N things to do before I can go out for lunch" means you
+probably won't show up. twonkie: n. The software equivalent of a Twinkie; a
+useless `feature' added to look sexy and placate a {marketroid}. U -

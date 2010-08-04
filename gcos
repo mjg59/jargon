@@ -1,17 +1,17 @@
- GCOS n. A quick and dirty clone of System/360 DOS that emerged from GE about
-1970; originally called GECOS (the General Electric Comprehensive Operating
-System) and later kluged to support primitive timesharing and transaction
-processing. After the buyout of GE's computer division by Honeywell the name
-was changed to General Comprehensive Operating System (GCOS). Other OS groups
-at Honeywell began referring to it as `God's Chosen Operating System',
-allegedly in reaction to the GCOS crowd's uninformed and snotty attitude
-about the superiority of their product. All this might be of zero interest,
-except for two facts: 1) the GCOS people won the political war, resulting in
-the orphaning and eventual death of Honeywell MULTICS (q.v.), and 2)
-GECOS/GCOS left one permanent mark on UNIX. Some early UNIX systems at Bell
-Labs were used as front ends to GCOS machines; the field added to /etc/passwd
-to carry GCOS ID information was called `the GECOS field' and survives today
-as the pw_gecos member used for the user's full name and other human-id
-information. GCOS itself played a major rule in keeping Honeywell a dismal
-also-ran in the mainframe market, and was itself ditched for UNIX in the late
-1980s when Honeywell retired its aging BIG IRON designs.
+ GCOS: n. A quick and dirty {clone} of System/360 DOS that emerged from GE
+about 1970; originally called GECOS (the General Electric Comprehensive
+Operating System) and later kluged to support primitive timesharing and
+transaction processing. After the buyout of GE's computer division by
+Honeywell, the name was changed to General Comprehensive Operating System
+(GCOS). Other OS groups at Honeywell began referring to it as `God's Chosen
+Operating System', allegedly in reaction to the GCOS crowd's uninformed and
+snotty attitude about the superiority of their product. All this might be of
+zero interest, except for two facts: 1. the GCOS people won the political
+war, resulting in the orphaning and eventual death of Honeywell {Multics},
+and 2. GECOS/GCOS left one permanent mark on UNIX. Some early UNIX systems at
+Bell Labs were used as front ends to GCOS machines; the field added to
+/etc/passwd to carry GCOS ID information was called the `GECOS field' and
+survives today as the pw_gecos member used for the user's full name and other
+human-id information. GCOS later played a major role in keeping Honeywell a
+dismal also-ran in the mainframe market, and was itself ditched for UNIX in
+the late 1980s when Honeywell retired its aging {big iron} designs.

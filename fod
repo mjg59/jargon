@@ -1,0 +1,102 @@
+ FOD: v. [Abbreviation for `Finger of Death', originally a spell-name from
+fantasy gaming] To terminate with extreme prejudice and with no regard for
+other people. From {MUD}s where the wizards' command `FOD <player>' results
+in the immediate and total death of <player>, usually as punishment for
+obnoxious behavior. This migrated to other circumstances, such as "I'm going
+to fod that process which is burning all the CPU". Compare {gun}. fold case:
+v. see {smash case}. This term tends to be used more by people who don't
+`mind' that their tools smash case. It also connotes that case is ignored but
+case distinctions in data processed by the tool in question aren't destroyed.
+followup: n. On USENET, a {posting} generated in response to another posting
+(as opposed to a {reply}, which goes by email rather than being broadcast).
+Followups include the ID of the {parent message} in their headers; smart
+news-readers can use this information to present USENET news in
+`conversation' sequence rather than order-of-arrival. see {thread}. foo:
+/foo/ 1. interj. Term of disgust. 2. Name used for temporary programs, or
+samples of three-letter names. Other similar words are {bar}, {baz} (Stanford
+corruption of {bar}), and rarely RAG. 3. Used very generally as a sample name
+for absolutely anything. 4. First on the standard list of metasyntactic
+variables used in syntax examples. see also: {bar}, {baz}, {qux}, {quux},
+{corge}, {grault}, {garply}, {waldo}, {fred}, {plugh}, {xyzzy}. {foo} is the
+{canonical} example of a `metasyntactic variable'; a name used in examples
+and understood to stand for whatever thing is under discussion, or any random
+member of a class of things under discussion. To avoid confusion, hackers
+never use `foo' or other words like it as permanent names for anything. The
+etymology of hackish `foo' is obscure. When used in connection with `bar' it
+is generally traced to the WWII-era army slang acronym FUBAR (Fucked Up
+Beyond All Recognition), later expurgated to {foobar} and then truncated.
+However, the use of the word `foo' itself has more complicated antecedents,
+including a long history in comic strips and cartoons. The old `Smokey
+Stover' comic strips by Bill Holman often included the word `FOO', in
+particular on license plates of cars; allegedly, `FOO' and `BAR' also
+occurred in Walt Kelly's `Pogo' strips. In a 1938 cartoon Daffy Duck holds up
+a sign saying "SILENCE IS FOO!". It is even possible that hacker usage
+actually springs from the title `FOO, Lampoons and Parody' of a comic book
+first issued 20 years later, in September 1958; the byline read `C. Crumb'
+but this may well have been a sort-of pseudonym for noted weird-comix artist
+Robert Crumb. The title FOO was featured in large letters on the front cover.
+Very probably, hackish `foo' had no single origin and derives through all
+these channels from Yiddish `feh' or English `fooey!'. foobar: n. Another
+common metasyntactic variable; see {foo}. Note that hackers do *not*
+generally use this to mean FUBAR! fool: n. As used by hackers, specifically
+describes a person who habitually reasons from obviously or demonstrably
+incorrect premises and cannot be persuaded by evidence to do otherwise; it is
+not generally used in its other senses, i.e. to describe a person with a
+native incapacity to reason correctly, or a clown. Indeed, in hackish
+experience many fools are capable of reasoning all too effectively in
+executing their errors. see also {cretin}, {loser}. footprint: n. 1. The
+floor or desk area taken up by a piece of hardware. 2. [IBM] The audit trail
+(if any) left by a crashed program (often in plural, `footprints'). see also
+{toeprint}. for the rest of us: [from the Mac slogan "The computer for the
+rest of us"] adj. Used to describe a {spiffy} product whose affordability
+shames other comparable products, or (more often) used sarcastically to
+describe {spiffy}, but very overpriced products. foreground: [UNIX] adj.,vt.
+On a time-sharing system, a task executing in foreground is one able to
+accept input from and return output to the user; oppose {background}.
+Normally, there is only one foreground task per terminal (or terminal
+window); having multiple processes simultaneously reading the keyboard is a
+good way to {lose}. By extension, to `foreground a task' is to bring it to
+the top of one's {stack} for immediate processing, and in this sense hackers
+often use it for non-computer tasks. forked: [UNIX] adj. Terminally slow, or
+dead. Originated when the system slowed to incredibly bad speeds due to a
+process recursively spawning copies of itself (using the UNIX system call
+`fork(2)') and taking up all the process table entries. Fortrash: n.
+Hackerism for the FORTRAN language, referring to its primitive design, gross
+and irregular syntax, limited control constructs and slippery,
+exception-filled semantics. fortune cookie: [UNIX] n. A random quote, item of
+trivia, joke or maxim printed to the user's tty at login time or (less
+commonly) at logout time. Items from this lexicon have often been used as
+fortune cookies. fossil: n. 1. In software, a misfeature that becomes
+understandable only in historical context, as a remnant of times past
+retained so as not to break compatibility. Example: the retention of octal as
+default base for string escapes in {C}, in spite of the better match of
+hexadecimal to modern byte-addressable architectures. see {dusty deck}. 2.
+More restrictively, a feature with past but no present utility. Example: the
+force-all-caps (LCASE) bits in the V7 and {BSD UNIX} tty driver, designed for
+use with monocase terminals. In a perversion of the usual
+backward-compatibility goal, this functionality has actually been expanded
+and renamed in some later {USG UNIX} releases as the IUCLC and OLCUC bits. 3.
+FOSSIL (Fido/Opus/Seadog Standard Interface Level) specification for
+serial-port access to replace the {brain-dead} routines in the IBM PC ROMs.
+Fossils are used by most MSDOS {BBS} software in lieu of programming the
+{bare metal} of the serial ports, as the ROM routines do not support
+interrupt-driven operation or setting speeds above 9600. Since the FOSSIL
+specification allows additional functionality to be hooked in, drivers which
+use the {hook} but do not provide serial-port access themselves are named
+with a modifier, as in `video fossil'. fred: n. 1. The personal name most
+frequently used as a metasyntactic variable (see {foo}). Allegedly popular
+because it's easy to type on a standard QWERTY keyboard. Unlike {J. Random
+Hacker} or {J. Random Loser} this name has no positive or negative loading.
+2. An acronym for `Flipping Ridiculous Electronic Device' (other F-verbs may
+be substituted for "flipping") frednet: n. Used to refer to some {random} and
+uncommon protocol encountered on a network. "We're implementing bridging in
+our router to solve the frednet problem." freeware: n. Free software, often
+written by enthusiasts and usually distributed by electronic mail, local
+bulletin boards, {USENET}, or other electronic media. At one time, `freeware'
+was a trademark of Andrew Fluegelman, the author of the well-known MS-DOS
+comm program PC-TALK III. It wasn't enforced after his mysterious
+disappearance in 1984. see {shareware}. freeze: v. To lock an evolving
+software distribution or document against changes so it can be released with
+some hope of stability. Carries the strong implication that the item in
+question will `unfreeze' at some future date. "OK, fix that bug and we'll
+freeze for release."

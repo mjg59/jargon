@@ -1,10 +1,32 @@
- SOS n. 1. /sahss/ Inverse of AOS, from the PDP-10 instruction set. 2.
-/ess-oh-ess/ An infamously LOSING text editor. Once, back in the 1960's, when
-a text editor was needed for the PDP-6, a hacker CRUFTED TOGETHER a
-quick-and-dirty "stopgap editor" to be used until a better one was written.
-Unfortunately, the old one was never really discarded when new ones (in
-particular, TECO) came along. SOS is a descendant of that editor; SOS means
-"Son of Stopgap", and many PDP-10 users gained the dubious pleasure of its
-axquaintance. [Since then other programs similar in style to SOS have been
-written, notably BILOS (bye'lohss) the Brother-In-Law Of Stopgap.] see also
-TECO.
+ SOS: n.,obs. /ess-oh-ess/ 1. An infamously {losing} text editor. Once, back
+in the 1960s, when a text editor was needed for the PDP-6, a hacker crufted
+together a {quick and dirty} `stopgap editor' to be used until a better one
+was written. Unfortunately, the old one was never really discarded when new
+ones (in particular, {TECO}) came along. SOS is a descendant of that editor;
+SOS means `Son of Stopgap', and many PDP-10 users gained the dubious pleasure
+of its acquaintance. Since then other programs similar in style to SOS have
+been written, notably BILOS /bye'lohs/ the Brother-In-Law Of Stopgap. see
+also {TECO}. 2. /sos/ n. Inverse of {AOS}, from the PDP-10 instruction set.
+source of all goot bits: n. see {bits}. space-cadet keyboard: n. The Knight
+keyboard, a now-legendary device used on MIT LISP machines which inspired
+several still-current slang terms and influenced the design of {EMACS}. It
+was inspired by the Stanford keyboard and equipped with no less than *seven*
+shift keys: four keys for {bucky bits} (`control', `meta', `hyper', and
+`super') and three like the regular shift key, called `shift', `top', and
+`front'. Many keys have three symbols on them: a letter and a symbol on the
+top, and a Greek letter on the front. For example, the `L' key has an `L' and
+a two-way arrow on the top, and the Greek letter lambda on the front. If you
+press this key with the right hand while playing an appropriate `chord' with
+the left hand on the shift keys, you can get the following results: L
+lower-case "l" shift-L upper-case "L" front-L Greek lower-case lambda
+front-shift-L Greek upper-case lambda top-L two-way arrow (front and shift
+are ignored) And of course each of these may also be typed with any
+combination of the control, meta, hyper, and super keys. On this keyboard,
+you can type over 8000 different characters! This allows the user to type
+very complicated mathematical text, and also to have thousands of
+single-character commands at his disposal. Many hackers were actually willing
+to memorize the command meanings of that many characters if it reduced typing
+time (this view rather obviously shaped the interface of EMACS). Other
+hackers, however, thought having that many bucky bits was overkill, and
+objected that such a keyboard can require three or four hands to operate. see
+{bucky bits}, {cokebottle}, {double bucky}, {meta bit}, {quadruple bucky}.

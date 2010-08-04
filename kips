@@ -1,0 +1,48 @@
+ JR[LN]: /jay ahr en/, /jay ahr el/ n. The names JRN and JRL were sometimes
+used as example names when discussing a kind of user ID used under {TOPS-10};
+they were understood to be the initials of (fictitious) programmers named `J.
+Random Nerd' and `J. Random Loser' (see {J. Random}). For example, if one
+said "To log in, type log one comma jay are en" (that is, "log#1,JRN"), the
+listener would have understood that he should use his own computer id in
+place of `JRN'. jump off into never never land: v. Same as {branch to
+Fishkill}, but more common in technical cultures associated with non-IBM
+computers which use the term `jump' rather than `branch'. Compare
+{hyperspace}. K - K: [from {kilo-}] /kay/ n. A kilobyte. This is used both as
+a spoken word and a written suffix (like {meg} and {gig} for megabyte and
+gigabyte). The formal SI metric prefix for 1000 is `k'; some people use this
+strictly, reserving `K' for multiplication by 1024. see also {kilo-}. K&R:
+[Kernighan and Ritchie] n. Brian Kernighan & Dennis Ritchie's `The C
+Programming Language', esp. the classic and influential first edition
+(Prentice-Hall 1978, ISBN 0-113-110163-3). Syn. {White Book}, {Old
+Testament}. see also {New Testament}. kahuna: /k@-hoo'nuh/ [IBM, from the
+Hawaiian title for a shaman] n. Synonym for {wizard}, {guru}. ken: /ken/ n. A
+flaming user. This noun was in use by the Software Support group at Symbolics
+because the two greatest flamers in the user community were both named Ken.
+kgbvax: /kay-jee-bee-vaks/ n. see {kremvax}. kill file: [USENET] n. (alt.
+`KILL file') Per-user file(s) used by some {USENET} reading programs
+(originally Larry Wall's `rn(1)') to discard summarily (without presenting
+for reading) articles which match some particularly uninteresting (or
+unwanted) patterns of subject, author, or other header lines. Thus to "add a
+person (or subject) to one's kill file" is to arrange for that person to be
+ignored by one's newsreader in future. By extension, it may be used for a
+decision to ignore the person or subject in other media. killer micro:
+[popularized by Eugene Brooks] n. A microprocessor-based machine that
+infringes on mini, mainframe or supercomputer performance turf. Often heard
+in "No one will survive the attack of the killer micros!", the battle cry of
+the downsizers. Used esp. of RISC architectures. killer poke: n. A recipe for
+inducing hardware damage on a machine via insertion of invalid values in a
+memory-mapped control register; used esp. of various fairly well-known tricks
+on MMU-less {bitty box}es like the IBM PC and Commodore PET that can overload
+and trash analog electronics in the monitor. see also {HCF}. kilo-: [from
+metric measure] prefix. 1.`kilo-' usually denotes multiplication by 1024
+especially when used with bytes, and also with anything else perceived to
+naturally come in powers of 2. With things that come in powers of 10, such as
+money, it retains its usual meaning of multiplication of 1000. Similarly the
+higher metric prefixes denote multiplication by powers of 1024 = 2 ^ 10
+rather than of 1000: mega- for 1024 ^ 2 = 1,048,576, {giga-} for 1024 ^ 3 =
+1,073,741,824, tera- meaning 1024 ^ 4 = 1,099,511,627,776, {peta-} meaning
+1024 ^ 5 = 1,125,899,906,842,624, and {exa-} for 1024 ^ 6 =
+1,152,921,504,606,846,976. Confusion of 1000 and 1024, for example describing
+memory in units of 500K or 524K (see K) instead of 512K, is a sure sign of
+the {marketroid}. KIPS: [acronym, by analogy with {MIPS} using {K}] n.
+Thousands of Instructions Per Second. Usage: rare.

@@ -1,16 +1,202 @@
- COME FROM n. A semi-mythical language construct dual to the `go to'; COME
+ COME FROM: n. A semi-mythical language construct dual to the `go to'; COME
 FROM <label> would cause the referenced label to act as a sort of trapdoor,
-so that if the program ever reached it control would quietly fall through to
-the statement following the COME FROM. COME FROM was first proposed in a
-Datamation article in 1973 that parodied the then-raging `structured
-programming' wars (see CONSIDERED HARMFUL). Mythically, some variants are the
-"assigned come from", and the "computed come from" (parodyong some nasty
-control constructs in BASIC and FORTRAN). Notionally, multi-tasking can be
-implemented by having more than one COME FROM statement coming from the same
-label. COME FROM was actually implemented under a different name in Univac's
-Fortran, c.1975. The statement "AT 100" would perform a "COME FROM 100". It
-was intended strictly as a debugging aid, with dire consequences promised to
-anyone so deranged as to use it in production code. It was supported under
-its own name for the first time fifteen years later, in C-INTERCAL (see
-INTERCAL, RETROCOMPUTING); knowledgeable observers are still reeling from
-shock.
+so that if the program ever reached it control would quietly and
+{automagically} be transferred to the statement following the COME FROM. COME
+FROM was first proposed in a Datamation article of December 1973 (reprinted
+in the April 1984 issue of CACM) that parodied the then-raging `structured
+programming' wars (see {considered harmful}). Mythically, some variants are
+the `assigned come from', and the `computed come from' (parodying some nasty
+control constructs in BASIC and FORTRAN). Obviously, multi-tasking (or
+non-determinism) could be implemented by having more than one COME FROM
+statement coming from the same label. In some ways the FORTRAN DO loop is a
+form of COME FROM statement, since after the terminating label is reached
+control continues at the statement following the DO. Some generous FORTRANs
+would even allow arbitrary statements for the label, for example: DO 10
+I=1,LIMIT C imagine many lines of code here, leaving the original DO C
+statement lost in the spaghetti... WRITE(6,10) I,FROB(I) 10
+FORMAT(1X,I5,G10.4) While sufficiently astonishing to the unsuspecting
+reader, this form of COME FROM statement isn't completely general. After all,
+control will eventually pass to the following statement. The implementation
+of the general form was left to Univac FORTRAN, c.1975. The statement `AT
+100' would perform a `COME FROM 100'. It was intended strictly as a debugging
+aid, with dire consequences promised to anyone so deranged as to use it in
+production code. COME FROM was supported under its own name for the first
+time fifteen years later, in C-INTERCAL (see {INTERCAL}, {retrocomputing});
+knowledgeable observers are still reeling from shock. comm mode: /kom mohd/
+[from the ITS feature supporting on-line chat, spelled with one or two Ms]
+Syn. for {talk mode}; also spelled `comm mode'. comment out: vt. To surround
+a section of code with comment delimiters or to prefix every line in the
+section with a comment marker; this prevents it from being compiled or
+interpreted. Often done when the code is redundant or obsolete, but you want
+to leave it in the source to make the intent of the active code clearer; also
+when the code in that section is broken and you want to bypass it in order to
+debug some other part of the code. Compare {condition out}, usually the
+preferred technique in languages (like {C}) that make it possible.
+Commonwealth Hackish:: n. Hacker slang as spoken outside the U.S., esp. in
+the British Commonwealth. It is reported that Commonwealth speakers are more
+likely to pronounce `char', `soc' etc. as spelled (/char/, /sok/) as opposed
+to American /keir/ or /sohsh/. Dots in {newsgroup} names tend to be
+pronounced more often (so soc.wibble is /sok dot wi'bble/ rather than /sohsh
+wib'ble/). {Meta-} may be pronounced /mee't@-/; similarly, Greek letter beta
+is often /bee't@/, zeta is often /zee'ta/ and so forth. Preferred
+metasyntactic variables include EEK, OOK, FRODO, and BILBO; WIBBLE, WOBBLE,
+and in emergencies WUBBLE; BANANA, WOMBAT, FROG, {fish}, and so on and on.
+Alternatives to verb doubling include suffixes `-o-rama', `frenzy' (as in
+feeding frenzy) and `city' (as in "barf city!" "hack-o-rama!" "core dump
+frenzy!"). Finally, note that the American terms `parens', `brackets', and
+`braces' for (), [], and {} are uncommon; Commonwealth hackish prefers
+`bracket', `square bracket', and `curly bracket'. Also, the use of `pling'
+for {bang} is common outside the United States. see also {attoparsec},
+{calculator}, {chemist}, {console jockey}, {fish}, {grunge}, {hakspek},
+{heavy metal}, {leaky heap}, {lord high fixer}, {noddy}, {psychedelicware},
+{plingnet}, {raster blaster}, {seggie}, {spin-lock}, {terminal junkie},
+{tick-list features}, {weeble}, {weasel}, {YABA}, and notes or definitions
+under {Bad Thing}, {barf}, {bogus}, {bum}, {chase pointers}, {cosmic rays},
+{crippleware}, {crunch}, {dodgy}, {gonk}, {mess-doss} {nybble}, {root},
+{tweak}, and {xyzzy}. compact: adj. Of a design, describes the valuable
+property that it can all be apprehended at once in one's head. This generally
+means the thing created from the design can be used with greater facility and
+fewer errors than an equivalent tool that is not compact. Note that
+compactness does not imply triviality or lack of power; for example, C is
+compact and FORTRAN is not, but C is more powerful than FORTRAN. Designs
+become non-compact through accreting features and {cruft} that don't merge
+cleanly into the overall design scheme. compress: [UNIX] vt. When used
+without a qualifier, generally refers to {crunch}ing of a file using a
+particular C implementation of Lempel-Ziv compression by James A. Woods et
+al. and widely circulated via {USENET}. Use of {crunch} itself in this sense
+is rare among UNIX hackers. computer confetti: n. Syn {chad}. computer geek:
+n. One who eats (computer) bugs for a living. One who fulfills all of the
+dreariest negative stereotypes about hackers: an asocial, malodorous,
+pasty-faced monomaniac with all the personality of a cheese grater. Cannot be
+used by outsiders without implied insult to all hackers; compare
+black-on-black usage of `nigger'. A computer geek may be either a
+fundamentally clueless individual or a proto-hacker in {larval stage}. Also
+called `turbo nerd', `turbo geek'. see also {clustergeeking}, {wannabee},
+{terminal junkie}. computron: /kom'pyoo-tron`/ n. 1. A notional unit of
+computing power combining instruction speed and storage capacity, dimensioned
+roughly in instructions-per-second times megabytes-of-main-store times
+megabytes-of-mass-storage. "That machine can't run GNU Emacs, it doesn't have
+enough computrons!" This usage is usually found in metaphors that treat
+computing power as a fungible commodity good like a crop yield or diesel
+horsepower. see {bitty box}, {get a real computer}, {toy}, {crank}. 2. A
+mythical subatomic particle that bears the unit quantity of computation or
+information, in much the same way that an electron bears one unit of electric
+charge (see {bogon}). An elaborate pseudo-scientific theory of computrons has
+been worked out based on the physical fact that the molecules in a solid
+object move more rapidly as it is heated. It is argued that an object melts
+because the molecules have lost their information about where they are
+supposed to be (that is, they have emitted computrons). This explains why
+computers get so hot and require air conditioning; they use up computrons.
+Conversely, you should be able to cool down an object by placing it in the
+path of a computron beam. It is believed that this may also explain why
+machines that work at the factory fail in the computer room --- because the
+computrons there have been all used up by your other hardware. (This may owe
+something to the group of fantasy stories by Larry Niven, beginning with
+`What Good is a Glass Dagger?' in which magic is fueled by an exhaustible
+natural resource called `mana'). condition out: vt. To prevent a section of
+code from being compiled by surrounding it with a conditional-compilation
+directive whose condition is always false. The {canonical} example is `#ifdef
+0' and `#endif' in C. Compare {comment out}. condom: n. The protective
+plastic baggy that accompanies 3.5" microfloppy diskettes. Rarely, used of
+(paper) disk envelopes. Unlike the write protect, the condom (when left on)
+not only impedes the practice of {SEX}, it has been shown to have a high
+failure rate as drive mechanisms attempt to access the disk --- and can even
+fatally frustrate insertion! connector conspiracy: [probably came into
+prominence with the appearance of the KL-10, none of whose connectors match
+anything else] n. The tendency of manufacturers (or, by extension,
+programmers or purveyors of anything) to come up with new products which
+don't fit together with the old stuff, thereby making you buy either all new
+stuff or expensive interface devices. In these latter days of open-systems
+computing this term has fallen somwhat into disuse, to be replaced by the
+observation that standards are great! --- there are so *many* of them. cons:
+/konz/ or /cons/ [from LISP] 1. v. To add a new element to a list, esp. at
+the top. 2. `cons up': vt. To synthesize from smaller pieces: "to cons up an
+example". considered harmful: adj. Edsger W. Dijkstra's infamous March 1968
+CACM note, `Goto Statement Considered Harmful', fired the first salvo in the
+`structured programming' wars. Amusingly, the ACM considered the resulting
+acrimony sufficiently harmful that they will (by policy) no longer print an
+article which takes up that assertive a position against a coding practice.
+In the ensuing decades, a large number of both serious papers and parodies
+have borne titles of the form `X considered Y'. The `structured programming'
+wars eventually blew over with the realization that both sides were wrong,
+but use of such titles has remained as a persistent minor in-joke (the
+`considered silly' found at various places in this lexicon is related).
+console:: n. 1. The operator's station of a {mainframe}. In times past, this
+was a privileged location which conveyed godlike powers to he (almost
+invariably a he) with his fingers on the keys. Under UNIX and other modern
+timesharing OSs, it is just the tty the system was booted from. Some of the
+mystique remains, however, and it is traditional for sysadmins to post urgent
+messages to all users from /dev/console. 2. On microcomputer UNIX boxes: the
+main screen and keyboard (as opposed to character-only terminals talking to a
+serial port). Typically only the console can do real graphics or run {X}. see
+also {CTY}. console jockey: n. see {terminal junkie}. content-free: adj.
+Ironic analogy with `context-free', used of a message which adds nothing to
+the recipient's knowledge. Though this adjective is sometimes applied to
+{flamage}, it more usually connotes derision for communication styles which
+exalt form over substance, or are centered on concerns irrelevant to the
+subject ostensibly at hand. Perhaps most used with reference to speeches by
+company presidents and like animals. "Content-free? Uh...that's anything
+printed on glossy paper". Conway's Law: prov. The rule that the organization
+of the software and the organization of the software team will be congruent;
+originally stated as "If you have four groups working on a compiler, you'll
+get a four-pass compiler." This was originally promulgated by Melvin Conway,
+an early proto-hacker who wrote an assembler for the Burroughs 220 called
+SAVE. The name `SAVE' didn't stand for anything; it was just that you lost
+fewer decks and listings because they all had SAVE written on top of them.
+cookie: n. A handle, transaction ID, or other token of agreement between
+cooperating programs. "I give him a packet, he gives me back a cookie." see
+{magic cookie}. cookie monster: [from `Sesame Street'] n. Any of a family of
+early (1970s) hacks reported on {TOPS-10}, {ITS}, {Multics}, and elsewhere
+that would lock up either the victim's terminal (on a time-sharing machine)
+or the {{console}} (on a batch {mainframe}), repeatedly demanding "I WANT A
+COOKIE". The required responses ranged in complexity from "COOKIE" through
+"HAVE A COOKIE" and upward. see also {wabbit}. copper: n. Conventional
+electron-carrying network cable (which uses copper as a core conductor), as
+opposed to fiber-optic cable (or, say, a short-range microwave link). Oppose
+{light pipe}. Note that aluminum-cored cables are also called `copper' (!).
+copy protection: n. A class of clever methods for preventing incompetent
+pirates from stealing software and legitimate customers from using it.
+Considered silly. copybroke: adj. [play on `copyright'] Used to describe an
+instance of a copy-protected program which has been `broken'; that is, a copy
+with the copy-protection scheme disabled. Syn. {copywronged}. copyleft:
+/kop'ee-left/ [play on `copyright'] n. 1. The copyright notice (`General
+Public License') carried by {GNU EMACS} and other Free Software Foundation
+software, granting re-use and reproduction rights to all comers (but see also
+{General Public Virus}). 2. By extension, any copyright notice intended to
+achieve similar aims. copywronged: [play on `copyright'] adj. Syn. for
+{copybroke}. core: n. Main storage or RAM. Dates from the days of
+ferrite-core memory; now archaic most places outside IBM, but also still used
+in the UNIX community and by old-time hackers or those who would sound like
+same. Some derived idioms are quite current; `in core', for example, means
+`in memory' (as opposed to `on disk'), and both {core dump} and the `core
+image' or `core file' produced by one are terms in favors. core dump: n.
+[common {Iron Age} slang, preserved by UNIX] 1. A copy of the contents of
+{core} produced when a process is aborted by certain kinds of internal error.
+2. By extension, used for humans passing out, vomiting, or registering
+extreme shock. "He dumped core. All over the floor. What a mess." "He heard
+about ... and dumped core." 3. Occasionally used for a human rambling on
+pointlessly at great length; esp. in apology: "Sorry I dumped core on you".
+4. A recapitulation of knowledge (compare {bits}, sense 1). Hence, spewing
+all one knows about a topic, esp. in a lecture or answer to an exam question.
+"Short, concise answers are better than core dumps." (from the instructions
+to a qual exam at Columbia; compare {brain dump}). see {core}. core leak: n.
+Syn. {memory leak}. Core Wars: n. A game between `assembler' programs in a
+simulated machine, where the objective is to kill your opponent's program by
+overwriting it. This was popularized by A. K. Dewdney's column in `Scientific
+American' magazine, but is said to have been first devised by Victor
+Vyssotsky as a PDP-1 hack, during the early `60s at Bell Labs. It is rumored
+that the game is a civilized version of an amusement called DARWIN common on
+multitasking machines before the advent of protected address segments. see
+{core}. corge: /korj/ [originally, the name of a cat] n. Yet another
+meta-syntactic variable, invented by Mike Gallaher and propagated by the
+Gosmacs documentation. see {grault}. cosmic rays: n. Notionally, the cause of
+{bit rot}. However, this is a semi-independent usage which may be invoked as
+a humorous way to {handwave} away any minor {randomness} that doesn't seem
+worth the bother of investigating. "Hey, Eric --- I just got a burst of
+garbage on my {tube}, where did that come from?" "Cosmic rays, I guess."
+Compare {sunspots}, {phase of the moon}. The British seem to prefer the usage
+`cosmic showers'; `alpha particles' is also heard, because stray alpha
+particles passing through a memory chip can cause single-bit errors (this
+becomes increasingly more likely as memory sizes and densities increase).
+cowboy: [Sun, from William Gibson's {cyberpunk} SF] n. Synonym for {hacker}.
+It is reported that at Sun, this is often said with reverence.
