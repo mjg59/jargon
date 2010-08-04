@@ -1,0 +1,1 @@
+ TOOL v.i. To work; to study. see HACK (def #9).

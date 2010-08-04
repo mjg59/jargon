@@ -1,0 +1,4 @@
+ PTY (pity) n. Pseudo TTY, a simulated TTY used to run a job under the
+supervision of another job. PTYJOB (pity-job) n. The job being run on the
+PTY. Also a common general-purpose program for creating and using PTYs. This
+is DEC and SAIL terminology; the MIT equivalent is STY.

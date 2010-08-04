@@ -1,0 +1,7 @@
+ BIN [short for BINARY; used as a second file name on ITS] 1. n. BINARY. 2.
+BIN FILE: A file containing the BIN for a program. Usage: used at MIT, which
+runs on ITS. The equivalent term at Stanford is DMP (pronounced "dump") FILE.
+Other names used include SAV ("save") FILE (DEC and Tenex), SHR ("share") and
+LOW FILES (DEC), and EXE ("ex'ee") FILE (DEC and Twenex). Also in this
+category are the input files to the various flavors of linking loaders
+(LOADER, LINK-10, STINK), called REL FILES.

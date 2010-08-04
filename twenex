@@ -1,0 +1,8 @@
+ TWENEX n. The TOPS-20 operating system by DEC. So named because TOPS-10 was
+a typically crufty DEC operating system for the PDP-10. BBN developed their
+own system, called TENEX (TEN EXecutive), and in creating TOPS-20 for the
+DEC-20 DEC copied TENEX and adapted it for the 20. Usage: DEC people cringe
+when they hear TOPS-20 referred to as "Twenex", but the term seems to be
+catching on nevertheless. Release 3 of TOPS-20 is sufficiently different from
+release 1 that some (not all) hackers have stopped calling it TWENEX, though
+the written abbreviation "20x" is still used.

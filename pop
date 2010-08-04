@@ -1,0 +1,4 @@
+ POP [based on the stack operation that removes the top of a stack, and the
+fact that procedure return addresses are saved on the stack] dialect: POPJ
+(pop-jay), based on the PDP-10 procedure return instruction. v. To return
+from a digression.

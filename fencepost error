@@ -1,0 +1,4 @@
+ FENCEPOST ERROR n. The discrete equivalent of a boundary condition. Often
+exhibited in programs by iterative loops. From the following problem: "If you
+build a fence 100 feet long with posts ten feet apart, how many posts do you
+need?" (Either 9 or 11 is a better answer than the obvious 10.)

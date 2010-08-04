@@ -1,0 +1,3 @@
+ MODULO prep. Except for. From mathematical terminology: one can consider
+saying that 4=22 "except for the 9's" (4=22 mod 9). "Well, LISP seems to work
+okay now, modulo that GC bug."

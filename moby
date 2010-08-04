@@ -1,0 +1,19 @@
+ MOBY [seems to have been in use among model railroad fans years ago. Entered
+the world of AI with the Fabritek 256K moby memory of MIT-AI. Derived from
+Melville's "Moby Dick" (some say from "Moby Pickle").] 1. adj. Large,
+immense, or complex. "A moby frob." 2. n. The maximum address space of a
+machine, hence 3. n. 256K words, the size of a PDP-10 moby. (The maximum
+address space means the maximum normally addressable space, as opposed to the
+amount of physical memory a machine can have. Thus the MIT PDP-10s each have
+two mobies, usually referred to as the "low moby" (0-777777) and "high moby"
+(1000000-1777777), or as "moby 0" and "moby 1". MIT-AI has four mobies of
+address space: moby 2 is the PDP-6 memory, and moby 3 the PDP-11 interface.)
+In this sense "moby" is often used as a generic unit of either address space
+(18. bits' worth) or of memory (about a megabyte, or 9/8 megabyte (if one
+accounts for difference between 32.- and 36.-bit words), or 5/4
+megacharacters). 4. A title of address (never of third-person reference),
+usually used to show admiration, respect, and/or friendliness to a competent
+hacker. "So, moby Knight, how's the CONS machine doing?" 5. adj. In
+backgammon, doubles on the dice, as in "moby sixes", "moby ones", etc. MOBY
+FOO, MOBY WIN, MOBY LOSS: standard emphatic forms. FOBY MOO: a spoonerism due
+to Greenblatt.

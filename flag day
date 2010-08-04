@@ -1,0 +1,5 @@
+ FLAG DAY [from a bit of Multics history involving a change in the ASCII
+character set originally scheduled for June 14, 1966] n. A software change
+which is neither forward nor backward compatible, and which is costly to make
+and costly to revert. "Can we install that without causing a flag day for all
+users?"

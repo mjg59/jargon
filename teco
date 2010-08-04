@@ -1,0 +1,16 @@
+ TECO (tee'koe) [acronym for Text Editor and COrrector] 1. n. A text editor
+developed at MIT, and modified by just about everybody. If all the dialects
+are included, TECO might well be the single most prolific editor in use.
+Noted for its powerful pseudo-programming features and its incredibly hairy
+syntax. 2. v. To edit using the TECO editor in one of its infinite forms;
+sometimes used to mean "to edit" even when not using TECO! Usage: rare at
+SAIL, where most people wouldn't touch TECO with a TENEX pole. [Historical
+note: DEC grabbed an ancient version of MIT TECO many years ago when it was
+still a TTY-oriented editor. By now, TECO at MIT is highly display-oriented
+and is actually a language for writing editors, rather than an editor.
+Meanwhile, the outside world's various versions of TECO remain almost the
+same as the MIT version of ten years ago. DEC recently tried to discourage
+its use, but an underground movement of sorts kept it alive.] [Since this
+note was written I found out that DEC tried to force their hackers by
+administrative decision to use a hacked up and generally lobotomized version
+of SOS instead of TECO, and they revolted. - MRC]

@@ -1,0 +1,2 @@
+ SLURP v. To read a large data file entirely into core before working on it.
+"This program slurps in a 1K-by-1K matrix and does an FFT."
