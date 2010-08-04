@@ -1,8 +1,8 @@
- TICK (tick) n. 1. Interval of time; basic clock time on the computer.
-Typically 1/60 second. see JIFFY. 2. In simulations, the discrete unit of
-time that passes "between" iterations of the simulation mechanism. In AI
-applications, this amount of time is often left unspecified, since the only
-constraint of interest is that caused things happen after their causes. This
-sort of AI simulation is often pejoratively referred to as "tick-tick-tick"
-simulation, especially when the issue of simultaneity of events with long,
-independent chains of causes is handwaved.
+ TICK n. 1. Interval of time; basic clock time on the computer. Typically
+1/60 second. see JIFFY. 2. In simulations, the discrete unit of time that
+passes "between" iterations of the simulation mechanism. In AI applications,
+this amount of time is often left unspecified, since the only constraint of
+interest is that caused things happen after their causes. This sort of AI
+simulation is often pejoratively referred to as "tick-tick-tick" simulation,
+especially when the issue of simultaneity of events with long, independent
+chains of causes is handwaved.

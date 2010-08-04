@@ -1,5 +1,5 @@
- PANIC (pa'nik) [UNIX] v. An action taken by a process or the entire
-operating system when an unrecoverable error is discovered. The action
-usually consists of: (1) displaying localized information on the controlling
-terminal, (2) saving, or preparing for saving, a memory image of the process
-or operating system, and (3) terminating the process or rebooting the system.
+ PANIC [UNIX] v. An action taken by a process or the entire operating system
+when an unrecoverable error is discovered. The action usually consists of:
+(1) displaying localized information on the controlling terminal, (2) saving,
+or preparing for saving, a memory image of the process or operating system,
+and (3) terminating the process or rebooting the system.

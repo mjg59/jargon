@@ -1,6 +1,6 @@
- BANG PATH (bang path) n. An old-style UUCP electronic-mail address
-specifying hops to get from some assumed-reachable location to the addressee,
-so called because each hop is signified by a BANG sign. Thus the path
+ BANG PATH n. An old-style UUCP electronic-mail address specifying hops to
+get from some assumed-reachable location to the addressee, so called because
+each hop is signified by a BANG sign. Thus the path
 "...!bigsite!foovax!barbox!me" directs correspondents to route their mail to
 machine bigsite (presumably a well-known location accessible to everybody)
 and from there through the machine "foovax" to the account of user "me" on

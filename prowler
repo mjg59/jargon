@@ -1,4 +1,4 @@
- PROWLER (prow'lr) [UNIX] n. A DEMON that is run periodically (typically once
-a week) to seek out and erase core files, truncate administrative logfiles,
-nuke lost+found directories, and otherwise clean up the cruft that tends to
-pile up in the corners of a file system.
+ PROWLER [UNIX] n. A DEMON that is run periodically (typically once a week)
+to seek out and erase core files, truncate administrative logfiles, nuke
+lost+found directories, and otherwise clean up the cruft that tends to pile
+up in the corners of a file system. see also GFR.

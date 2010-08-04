@@ -1,5 +1,6 @@
- FENCEPOST ERROR (fens'post eir'@r) n. The discrete equivalent of a boundary
-condition. Often exhibited in programs by iterative loops. From the following
-problem: "If you build a fence 100 feet long with posts ten feet apart, how
-many posts do you need?" (Either 9 or 11 is a better answer than the obvious
-10.)
+ FENCEPOST ERROR n. 1. The discrete equivalent of a boundary condition. Often
+exhibited in programs by iterative loops. From the following problem: "If you
+build a fence 100 feet long with posts ten feet apart, how many posts do you
+need?" (Either 9 or 11 is a better answer than the obvious 10.) 2.
+Occasionally, an error induced by unexpectedly regular spacing of inputs,
+which can (for instance) screw up your hash table. see also OFF-BY-ONE ERROR.

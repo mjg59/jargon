@@ -1,0 +1,3 @@
+ MIDDLE-ENDIAN adj. Not BIG-ENDIAN or LITTLE-ENDIAN. Used of byte orders like
+3-4-1-2 occasionally found in the packed-decimal formats from minicomputer
+manufacturers who shall remain nameless.

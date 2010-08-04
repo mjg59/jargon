@@ -1,5 +1,5 @@
- WORM (werm) [from `tapeworm' in John Brunner's _Shockwave_Rider_, via XEROX
-PARC] n. A cracker program that propagates itself over a network, reproducing
+ WORM [from `tapeworm' in John Brunner's _Shockwave_Rider_, via XEROX PARC]
+n. A cracker program that propagates itself over a network, reproducing
 itself as it goes. see `VIRUS'. Perhaps the best known example was RTM's
 `Internet Worm' in '87, a `benign' one that got out of control and shut down
 hundreds of Suns and VAXen nationwide. see VIRUS, TROJAN HORSE, ICE.

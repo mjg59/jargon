@@ -12,5 +12,5 @@ often used in connection with the C preprocessor, LISP, or one of several
 special-purpose languages built around a macro-expansion facility (such as
 TEX or UNIX's nroff, troff and pic suite). Indeed, the meaning has drifted
 enough that the collective `macros' is now sometimes used for code in any
-special-purpose application-control control language, whether or not the
-language is actually translated by text expansion.
+special-purpose application-control language, whether or not the language is
+actually translated by text expansion.

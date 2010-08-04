@@ -1,7 +1,8 @@
- ILL BEHAVED (il-bee-hayvd') adj. Software which bypasses the defined OS
-interfaces to do things (like screen, keyboard and disk I/O) itself, often in
-a way that depends on the hardware of the machine it is running on or which
-is incompatible with other pieces of software. In the IBM PC/MS-DOS world,
-where this term originated, there is a folk theorem to the effect that (due
-to gross inadequacies and performance penalties in the OS interface) all
-interesting applications are ill-behaved. see MESS-DOS.
+ ILL BEHAVED adj. Software which bypasses the defined OS interfaces to do
+things (like screen, keyboard and disk I/O) itself, often in a way that
+depends on the hardware of the machine it is running on or which is
+nonportable or incompatible with other pieces of software. In the IBM
+PC/MS-DOS world, where this term originated, there is a folk theorem to the
+effect that (due to gross inadequacies and performance penalties in the OS
+interface) all interesting applications are ill-behaved. Oppose WELL-BEHAVED.
+see MESS-DOS.

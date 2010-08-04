@@ -1,7 +1,7 @@
- PIPELINE (piep'lien) [UNIX, orig. by Doug McIlroy; now also used under
-MS-DOS and elsewhere] n. A chain of FILTER programs connected "head-to-tail",
-that is so that the output of one becomes the input of the next. Under UNIX,
-user utilities can often be implemented or at least prototyped by a suitable
-collection of pipelines and temp-file grinding encapsulated in a shell
-script; this is much less effort than writing C every time, and the
-capability is considered one of UNIX's major WINNING features.
+ PIPELINE [UNIX, orig. by Doug McIlroy; now also used under MS-DOS and
+elsewhere] n. A chain of FILTER programs connected "head-to-tail", so that
+the output of one becomes the input of the next. Under UNIX, user utilities
+can often be implemented or at least prototyped by a suitable collection of
+pipelines and temp-file grinding encapsulated in a shell script; this is much
+less effort than writing C every time, and the capability is considered one
+of UNIX's major WINNING features.

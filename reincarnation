@@ -1,9 +1,10 @@
- REINCARNATION, CYCLE OF (ree-in-kar-nay'shn) n. Term used to refer to a
-well-known effect whereby function in a computing system family is migrated
-out to special purpose peripheral hardware for speed, then the peripheral
-evolves towards more computing power as it does its job, then somebody
-notices that it's inefficient to support two asymmetrical processors in the
-architecture and folds the function back into the main CPU, at which point
-the cycle begins again. Several iterations of this cycle have been observed
-in graphics processor design, and at least one or two in communications and
-floating-point processors.
+ REINCARNATION, CYCLE OF n. Term used to refer to a well-known effect whereby
+function in a computing system family is migrated out to special purpose
+peripheral hardware for speed, then the peripheral evolves towards more
+computing power as it does its job, then somebody notices that it's
+inefficient to support two asymmetrical processors in the architecture and
+folds the function back into the main CPU, at which point the cycle begins
+again. Several iterations of this cycle have been observed in graphics
+processor design, and at least one or two in communications and
+floating-point processors. Also known as "the Wheel of Life", "the Wheel of
+Samsara", and other variations of the basic Hindu/Buddhist idea.

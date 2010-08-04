@@ -1,5 +1,4 @@
- PUSH (push) [based on the stack operation that puts the current information
-on a stack, and the fact that procedure call addresses are saved on the
-stack] dialect: PUSHJ (push-jay), based on the PDP-10 procedure call
-instruction. v. To enter upon a digression, to save the current discussion
-for later. = Q =
+ PUSH [based on the stack operation that puts the current information on a
+stack, and the fact that procedure call addresses are saved on the stack]
+dialect: PUSHJ (push-jay), based on the PDP-10 procedure call instruction. v.
+To enter upon a digression, to save the current discussion for later. = Q =

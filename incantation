@@ -1,7 +1,6 @@
- INCANTATION (in-kan-tay'shn) n. Any particularly arbitrary or obscure
-command that must be muttered at a system to attain a desired result. Not
-used of passwords or other explicit security features. Especially used of
-tricks that are so poorly documented they must be learned from a WIZARD. E.g.
-"This compiler normally locates initialized data in the data segment, but if
-you mutter the right incantation they will be forced into text space". see
-MUTTER.
+ INCANTATION n. Any particularly arbitrary or obscure command that must be
+muttered at a system to attain a desired result. Not used of passwords or
+other explicit security features. Especially used of tricks that are so
+poorly documented they must be learned from a WIZARD. E.g. "This compiler
+normally locates initialized data in the data segment, but if you mutter the
+right incantation they will be forced into text space". see MUTTER.

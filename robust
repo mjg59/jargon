@@ -1,3 +1,3 @@
- ROBUST (roh'buhst) adj. Said of a system which has demonstrated an ability
-to recover gracefully from the whole range of exception conditions in a given
+ ROBUST adj. Said of a system which has demonstrated an ability to recover
+gracefully from the whole range of exception conditions in a given
 environment. One step below BULLETPROOF. Compare SMART, oppose BRITTLE.

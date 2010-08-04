@@ -1,6 +1,6 @@
- HACK (hack) n. 1. Originally a quick job that produces what is needed, but
-not well. 2. The result of that job. 3. NEAT HACK: A clever technique. Also,
-a brilliant practical joke, where neatness is correlated with cleverness,
+ HACK n. 1. Originally a quick job that produces what is needed, but not
+well. 2. The result of that job. 3. NEAT HACK: A clever technique. Also, a
+brilliant practical joke, where neatness is correlated with cleverness,
 harmlessness, and surprise value. Example: the Caltech Rose Bowl card display
 switch circa 1961. 4. REAL HACK: A crock (occasionally affectionate). v. 5.
 With "together", to throw something together so it will work. 6. To bear

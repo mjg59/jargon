@@ -1,3 +1,3 @@
  LEXER (lek'sr) n. Common hacker shorthand for "lexical analyzer", the
 input-tokenizing stage in the parser for a language. "Some C lexers get
-confused by the old-style compound ops like =-"
+confused by the old-style compound ops like =-".

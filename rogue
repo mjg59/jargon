@@ -1,5 +1,5 @@
- ROGUE (rohg) [UNIX] n. Graphic Dungeons-And-Dragons-like game written under
-BSD UNIX and subsequently ported to other UNIX systems. The original BSD
+ ROGUE [UNIX] n. Graphic Dungeons-And-Dragons-like game written under BSD
+UNIX and subsequently ported to other UNIX systems. The original BSD
 curses(3) screen-handling package was hacked together by Ken Arnold to
 support ROGUE, and has since become one of UNIX's most important and heavily
 used application libraries. see HACK.

@@ -1,5 +1,13 @@
  ADVENT (ad'vent) n. The prototypical computer adventure game, first
-implemented on the PDP-10 by MIT hackers Dave Lebling, Mark Blank and Don R.
-Woods as a demo for a natural-language parser they were hacking on at the
-time. Now better known as Adventure, but the TOPS-10 operating system only
-permitted 6-letter filenames. "A huge green fierce snake bars the way!"
+implemented on the PDP-10 by Will Crowther as an attempt at computer-refereed
+fantasy gaming, and expanded into a puzzle-oriented game by Don Woods. Now
+better known as Adventure, but the TOPS-10 operating system only permitted
+6-letter filenames. This game defined the terse, dryly humorous style now
+expected in text adventure games, and popularized several tag lines that have
+become fixtures of hacker-speak. "A huge green fierce snake bars the way!" "I
+see no X here." (for X some noun). "You are in a maze of twisty little
+passages, all alike". The "magic words" XYZZY and PLUGH also derive from this
+game. Crowther, by the way, participated in the exploration of the
+Mammoth/Flint Ridge cave system; it actually *has* a `Colossal Cave' and a
+`Bedquilt' as in the game, and the `Y2' that also turns up is cavers' jargon
+for a map reference to a secondary entrance.

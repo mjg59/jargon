@@ -1,4 +1,4 @@
- BREAK (brayk) v. 1. To cause to be broken (in any sense). "Your latest patch
-to the system broke the TELNET server." 2. (of a program) To stop
-temporarily, so that it may be examined for debugging purposes. The place
-where it stops is a BREAKPOINT.
+ BREAK v. 1. To cause to be broken (in any sense). "Your latest patch to the
+system broke the TELNET server." 2. (of a program) To stop temporarily, so
+that it may be examined for debugging purposes. The place where it stops is a
+BREAKPOINT.

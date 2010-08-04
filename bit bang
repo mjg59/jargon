@@ -1,7 +1,7 @@
- BIT BANG (bit bang) n. Transmission of data on a serial line accomplished by
-rapidly tweaking a single output bit at the appropriate times (popular on
-certain early models of PRIME computers, presumably when UARTs were too
-expensive; and on archaic Z-80 micros with a Zilog PIO but no SIO). The
-technique is a simple loop with eight OUT, SHIFT, OUT etc for each byte.
-Input is more interesting. And full duplex (doing input and output at the
-same time) is one way to separate the real hackers from the wannabees.
+ BIT BANG n. Transmission of data on a serial line accomplished by rapidly
+tweaking a single output bit at the appropriate times (popular on certain
+early models of PRIME computers, presumably when UARTs were too expensive;
+and on archaic Z-80 micros with a Zilog PIO but no SIO). The technique is a
+simple loop with eight OUT, SHIFT, OUT etc for each byte. Input is more
+interesting. And full duplex (doing input and output at the same time) is one
+way to separate the real hackers from the wannabees.

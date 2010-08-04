@@ -1,4 +1,4 @@
- HOOK (huk) n. An extraneous piece of software or hardware included in order
-to simplify later additions or debug options. For instance, a program might
+ HOOK n. An extraneous piece of software or hardware included in order to
+simplify later additions or debug options. For instance, a program might
 execute a location that is normally a JFCL, but by changing the JFCL to a
 PUSHJ one can insert a debugging routine at that point.

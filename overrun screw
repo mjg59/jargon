@@ -1,9 +1,9 @@
- OVERRUN SCREW (oh'v@r-ruhn scroo) [C programming] n. A variety of FANDANGO
-ON CORE produced by scribbling past the end of an array (C has no checks for
-this). This is relatively benign and easy to spot if the array is static; if
-it is auto, the result may be to SMASH THE STACK. The term OVERRUN SCREW is
-used esp. of scribbles beyond the end of arrays allocated with malloc(3);
-this typically trashes the allocation header for the next block in the ARENA,
-producing massive lossage within malloc and (frequently) a core dump on the
-next operation to use stdio or malloc(3) itself. see also MEMORY LEAK,
-ALIASING SCREW, PRECEDENCE SCREW, FANDANGO ON CORE. = P =
+ OVERRUN SCREW [C programming] n. A variety of FANDANGO ON CORE produced by
+scribbling past the end of an array (C has no checks for this). This is
+relatively benign and easy to spot if the array is static; if it is auto, the
+result may be to SMASH THE STACK. The term OVERRUN SCREW is used esp. of
+scribbles beyond the end of arrays allocated with malloc(3); this typically
+trashes the allocation header for the next block in the ARENA, producing
+massive lossage within malloc and (frequently) a core dump on the next
+operation to use stdio or malloc(3) itself. see also MEMORY LEAK, ALIASING
+BUG, PRECEDENCE LOSSAGE, FANDANGO ON CORE. = P =

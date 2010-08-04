@@ -1,6 +1,5 @@
- BOUNCE MESSAGE (bowns mes'@j) [UNIX] n. Notification message returned to
-sender by a site unable to relay EMAIL to the intended INTERNET ADDRESS
-recipient or the next link in a BANG PATH (see BOUNCE). Reasons might include
-a nonexistent or misspelled username or a down relay site. Bounce messages
-can themselves fail, with occasionally ugly results; see SORCERER'S
-APPRENTICE MODE.
+ BOUNCE MESSAGE [UNIX] n. Notification message returned to sender by a site
+unable to relay EMAIL to the intended INTERNET ADDRESS recipient or the next
+link in a BANG PATH (see BOUNCE). Reasons might include a nonexistent or
+misspelled username or a down relay site. Bounce messages can themselves
+fail, with occasionally ugly results; see SORCERER'S APPRENTICE MODE.

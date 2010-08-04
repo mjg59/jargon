@@ -1,4 +1,80 @@
- PRONUNCIATION GUIDE The pronunciation keys in the jargon listing use the
+ FORMAT FOR NEW ENTRIES Try to conform to the format already being used -- 70
+character lines, 3-character indentations, pronunciations in parentheses,
+etymologies in brackets, single-space after def'n numbers and word classes,
+etc. Stick to the standard ASCII character set. We are looking to expand the
+file's range of technical specialties covered. There are doubtless rich veins
+of jargon yet untapped in the scientific computing, graphics, and networking
+hacker communities; also in numerical analysis, computer architectures and
+VLSI design, language design, and many other related fields. Send us your
+slang! We are *not* interested in straight technical terms explained by
+textbooks or technical dictionaries unless an entry illuminates "underground"
+meanings or aspects not covered by official histories. We are also not
+interested in "joke" entries -- there is a lot of humor in the file but it
+must flow naturally out of the explanations of what hackers do and how they
+think. It is OK to submit items of slang you have originated if they have
+spread to the point of being used by people who are not personally acquainted
+with you. We prefer items to be attested by independent submission from two
+different sites. The slang file will be regularly maintained and re-posted
+from now on and will include a version number. Read it, pass it around,
+contribute -- this is *your* monument! NOTES ON JARGON CONSTRUCTION There are
+some standard methods of jargonification which became established quite early
+(i.e before 1970), spreading from such sources as the MIT Model Railroad
+Club, the PDP-1 SPACEWAR hackers and John McCarthy's original crew of
+LISPers. These include: Verb doubling: a standard construction is to double a
+verb and use it as a comment on what the implied subject does. Often used to
+terminate a conversation. Typical examples involve WIN, LOSE, HACK, FLAME,
+BARF, CHOMP: "The disk heads just crashed." "Lose, lose." "Mostly he just
+talked about his @#!!$% crock. Flame, flame." "Boy, what a bagbiter! Chomp,
+chomp!" Soundalike slang: similar to Cockney rhyming slang. Often made up on
+the spur of the moment. Standard examples: Boston Globe => Boston Glob Herald
+American => Horrid (Harried) American New York Times => New York Slime Prime
+Time => Slime Time government property - do not duplicate (seen on keys) =>
+government duplicity - do not propagate Often the substitution will be made
+in such a way as to slip in a standard jargon word: Dr. Dobb's Journal => Dr.
+Frob's Journal Margaret Jacks Hall => Marginal Hacks Hall Data General =>
+Dirty Genitals The -P convention: turning a word into a question by appending
+the syllable "P"; from the LISP convention of appending the letter "P" to
+denote a predicate (a Boolean-valued function). The question should expect a
+yes/no answer, though it needn't. (see T and NIL.) At dinnertime: "Foodp?"
+"Yeah, I'm pretty hungry." or "T!" "State-of-the-world-P?" (Straight) "I'm
+about to go home." (Humorous) "Yes, the world has a state." [One of the best
+of these is a Gosperism (i.e., due to Bill Gosper). When we were at a Chinese
+restaurant, he wanted to know whether someone would like to share with him a
+two-person-sized bowl of soup. His inquiry was: "Split-p soup?" --GLS]
+Peculiar nouns: MIT AI hackers love to take various words and add the wrong
+endings to them to make nouns and verbs, often by extending a standard rule
+to nonuniform cases. Examples: porous => porosity generous => generosity
+Ergo: mysterious => mysteriosity ferrous => ferrocity Other examples:
+winnitude, disgustitude, hackification. Also, note that all nouns can be
+verbed. eg: "All nouns can be verbed", "I'll mouse it up", "Hang on while I
+clipboard it over", "I'm grepping the files". English as a whole is already
+heading in this direction (towards pure-positional grammar like Chinese);
+hackers are simply a bit ahead of the curve. Spoken inarticulations: Words
+such as "mumble", "sigh", and "groan" are spoken in places where their
+referent might more naturally be used. It has been suggested that this usage
+derives from the impossibility of representing such noises in a com link.
+Another expression sometimes heard is "complain!", meaning "I have a
+complaint!" Hacker speech style: Features extremely precise diction, careful
+word choice, a relatively large working vocabulary, and relatively little use
+of contractions or "street slang". Dry humor, irony, puns, and a mildly
+flippant attitude are highly valued -- but an underlying seriousness and
+intelligence is essential. One should use just enough jargon to communicate
+precisely and identify oneself as "in the culture"; overuse and a breathless,
+excessively gung-ho attitude are considered tacky and the mark of a loser.
+This speech style (a variety of the precisionist English normally spoken by
+scientists, design engineers, and academics in technical fields) is fairly
+constant everywhere. Of the five listed constructions, verb doubling,
+peculiar noun formations, and (especially!) spoken inarticulations have
+become quite general; but rhyming slang is still largely confined to MIT and
+other large universities, and the P convention is found only where LISPers
+flourish. One final note. Many words in hacker jargon have to be understood
+as members of sets of comparatives. This is especially true of the adjectives
+and nouns used to describe the beauty and functional quality of code. Here is
+an approximately correct spectrum: MONSTROSITY BRAIN-DAMAGE BUG SCREW LOSE
+MISFEATURE CROCK KLUGE HACK WIN FEATURE ELEGANCE PERFECTION The last is never
+actually attained. PRONUNCIATION GUIDE Pronunciation keys are provided in the
+jargon listing for all entries which are neither dictionary words pronounced
+as in standard English nor obvious compounds of same. These guides use the
 following simple system: 1) Syllables are hyphen-separated, except that an
 apostrophe or back-apostrophe follows each accented syllable (the back
 apostrophe marks a secondary accent in some words of four or more syllables).
@@ -11,17 +87,27 @@ th of `these clothes', not of `thick'. 3) Vowels are represented as follows:
 a back, that ah father, palm ar far, mark aw flaw, caught ay bake, rain e
 less, men ee easy, ski eir their, software i trip, hit ie life, sky o cot,
 top oh flow, sew oo loot, through or more, door ow out, how oy boy, coin uh
-but, some u put, foot y yet yoo few [y]oo oo with optional `fronting' as in
-`news' (noos or nyoos). An at-sign is used for the "schwa" sound of
-unstressed or occluded vowels (the one that is often written with an
-upside-down "e"). The schwa vowel is omitted in syllables containing vocalic
-r, l, m or n; that is, "kitten" and "color" would be rendered "kit'n" and
-"kul'r". THE JARGON ITSELF = = @BEGIN [primarily CMU] with @End, used
-humorously in writing to indicate a context or to remark on the surrounded
-text. From the SCRIBE command of the same name. For example: @Begin(Flame)
-Predicate logic is the only good programming language. Anyone who would use
-anything else is an idiot. Also, computers should be tredecimal instead of
-binary. @End(Flame) On USENET, this construct would more frequently be
-rendered as <FLAME ON> and <FLAME OFF>. = A = ABEND (ab'end) n. Abnormal
-termination (of software); crash; lossage. Derives from an error message on
-the IBM 360, but has passed into more general use.
+but, some u put, foot y yet yoo few [y]oo oo with optional fronting as in
+`news' (noos or nyoos) An at-sign is used for the "schwa" sound of unstressed
+or occluded vowels (the one that is often written with an upside-down "e").
+The schwa vowel is omitted in syllables containing vocalic r, l, m or n; that
+is, "kitten" and "color" would be rendered "kit'n" and "kul'r". UNIX
+CONVENTIONS References such as `malloc(3)' and `patch(1)' are to UNIX
+facilities (some of which, such as patch(1), are actually freeware
+distributed over USENET). The UNIX manuals use `foo(n)' to refer to item foo
+in section n) of the manual, where n=1 is utilities, n=2 is system calls, n=3
+is C library routines, n=4 is file formats, n=5 is a miscellany, n=6 is
+games, n=7 is device drivers, and n=8 is system administration tools. THE
+JARGON ITSELF = = @BEGIN [primarily CMU] with @End, used humorously in
+writing to indicate a context or to remark on the surrounded text. From the
+SCRIBE command of the same name. For example: @Begin(Flame) Predicate logic
+is the only good programming language. Anyone who would use anything else is
+an idiot. Also, computers should be tredecimal instead of binary. @End(Flame)
+On USENET, this construct would more frequently be rendered as <FLAME ON> and
+<FLAME OFF>. /DEV/NULL [from the UNIX null device, used as a data sink] n. A
+notional `black hole' in any information space being discussed, used or
+referred to. A controversial posting, for example, might end "Kudos to
+rasputin@kremlin.org, flames to /dev/null/". see BIT BUCKET. = A = ABEND
+(ab'end) n. Abnormal termination (of software); crash; lossage. Derives from
+an error message on the IBM 360, but has passed into more general use, esp.
+at mainframe shops.

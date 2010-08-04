@@ -1,3 +1,2 @@
- DOT FILE (dot fiel) [UNIX] n. A file that is invisible to normal
-directory-browsing tools (on UNIX, files named beginning with a dot are
-invisible).
+ DOT FILE [UNIX] n. A file that is not visible to normal directory-browsing
+tools (on UNIX, files named beginning with a dot are invisible).

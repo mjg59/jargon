@@ -1,4 +1,4 @@
- LINT (lint) [from UNIX's lint(1)] v. To examine a program closely for style,
+ LINT [from UNIX's lint(1)] v. To examine a program closely for style,
 language usage, and portability problems, esp. if in C, esp. if via use of
 automated analysis tools, most esp. if the UNIX utility lint(1) is used. This
 term used to be restricted to use of lint(1) itself but (judging by

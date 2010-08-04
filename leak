@@ -1,0 +1,5 @@
+ LEAK n. With qualifier, one of a class of resource-management bugs that
+occur when resources are not freed properly after operations on them are
+finished, leading to eventual exhaustion as new allocation requests come in.
+MEMORY LEAK and FD LEAK have their own entries; one might also refer, say, to
+a "window handle leak" in a window system.

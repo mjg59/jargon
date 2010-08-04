@@ -1,5 +1,5 @@
- POP (pop) [based on the stack operation that removes the top of a stack, and
-the fact that procedure return addresses are saved on the stack] dialect:
-POPJ (pop-jay), based on the PDP-10 procedure return instruction. v. To
-return from a digression. By verb doubling, "Popj, popj" means roughly, "Now
+ POP also POPJ (pop-jay) [based on the stack operation that removes the top
+of a stack, and the fact that procedure return addresses are saved on the
+stack] v. To return from a digression (the J-form derives from a PDP-10
+assembler instruction). By verb doubling, "Popj, popj" means roughly, "Now
 let's see, where were we?" see RTI.

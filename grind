@@ -1,6 +1,6 @@
- GRIND (griend) v. 1. [MIT and Berkeley] To format code, especially LISP
-code, by indenting lines so that it looks pretty. Hence, PRETTY PRINT, the
-generic term for such operations. 2. [UNIX] To generate the formatted version
-of a document from the nroff, troff, TEX or Scribe source. 3. To run
-seemingly interminably, performing some tedious and inherently useless task.
-Similar to CRUNCH, GROVEL.
+ GRIND v. 1. [MIT and Berkeley] To format code, especially LISP code, by
+indenting lines so that it looks pretty. Hence, PRETTY PRINT, the generic
+term for such operations. 2. [UNIX] To generate the formatted version of a
+document from the nroff, troff, TEX or Scribe source. 3. To run seemingly
+interminably, performing some tedious and inherently useless task. Similar to
+CRUNCH, GROVEL.

@@ -1,4 +1,4 @@
- CLOCKS (kloks) n. Processor logic cycles, so called because each generally
+ CLOCKS n. Processor logic cycles, so called because each generally
 corresponds to one clock pulse in the processor's timing. The relative
 execution times of instructions on a machine are usually discussed in
 `clocks' rather than absolute fractions of a second.

@@ -1,8 +1,8 @@
- BACK DOOR (bak dor) n. A hole in the security of a system deliberately left
-in place by designers or maintainers. The motivation for this is not always
-sinister; some operating systems, for example, come out of the box with
-privileged accounts intended for use by field service or the vendor's
-maintenance programmers. Historically, back doors have often lurked in
-systems longer than any one expected or planned, and a few have become widely
-known. The famous RTM worm of late 1988, for example, used a back door in the
-BSD UNIX sendmail(1) utility. see also IRON BOX, CRACKER, WORM, LOGIC BOMB.
+ BACK DOOR n. A hole in the security of a system deliberately left in place
+by designers or maintainers. The motivation for this is not always sinister;
+some operating systems, for example, come out of the box with privileged
+accounts intended for use by field service or the vendor's maintenance
+programmers. Historically, back doors have often lurked in systems longer
+than anyone expected or planned, and a few have become widely known. The
+famous RTM worm of late 1988, for example, used a back door in the BSD UNIX
+sendmail(1) utility. see also IRON BOX, CRACKER, WORM, LOGIC BOMB.

@@ -1,9 +1,9 @@
- DEADLOCK (ded'lok) n. A situation wherein two or more processes are unable
-to proceed because each is waiting for another to do something. A common
-example is a program communicating to a PTY or STY, which may find itself
-waiting for output from the PTY/STY before sending anything more to it, while
-the PTY/STY is similarly waiting for more input from the controlling program
-before outputting anything. (This particular flavor of deadlock is called
+ DEADLOCK n. A situation wherein two or more processes are unable to proceed
+because each is waiting for another to do something. A common example is a
+program communicating to a PTY or STY, which may find itself waiting for
+output from the PTY/STY before sending anything more to it, while the PTY/STY
+is similarly waiting for more input from the controlling program before
+outputting anything. (This particular flavor of deadlock is called
 "starvation". Another common flavor is "constipation", where each process is
 trying to send stuff to the other, but all buffers are full because nobody is
 reading anything.) see DEADLY EMBRACE, RACE CONDITION.

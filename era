@@ -1,4 +1,4 @@
- ERA, THE (ee'ra, dh@) [from UNIX] n. The time and date corresponding to zero
-in an operating system's clock and timestamp values. Under most UNIX
-versions, midnight of January 1st 1970. System time is measured in TICKS past
-the era. Syn. with EPOCH. see TICKS, WALL TIME.
+ ERA, THE [from UNIX] n. The time and date corresponding to zero in an
+operating system's clock and timestamp values. Under most UNIX versions,
+midnight of January 1st 1970. System time is measured in TICKS past the era.
+Syn. with EPOCH. see TICKS, WALL TIME.

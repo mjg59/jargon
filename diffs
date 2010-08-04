@@ -1,0 +1,6 @@
+ DIFFS n. 1. Differences, especially difference in source code or documents.
+Includes additions. "Send me your diffs for the jargon file!" 2. (often in
+the singular DIFF) the output from the diff(1) utility, esp. when used as
+specification input to the patch(1) utility (which can actually perform the
+mods). This is a common method of distributing patches and source updates in
+the UNIX/C world.

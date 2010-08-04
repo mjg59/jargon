@@ -1,7 +1,7 @@
  HCF (aych-see-eff) n. Mnemonic for "Halt and Catch Fire", any of several
-undocumented and semi-mythical instructions with destructive side-effects,
-supposedly included for test purposes on several well-known architectures
-going as far back as the IBM 360. The MC68000 microprocessor was the first
-for which the HCF opcode became widely known. The 68000 HCF causes the
-processor to toggle a subset of the bus lines as rapidly as it can; in some
-configurations this can actually cause lines to burn up.
+undocumented and semi-mythical machine instructions with destructive
+side-effects, supposedly included for test purposes on several well-known
+architectures going as far back as the IBM 360. The MC68000 microprocessor
+was the first for which the HCF opcode became widely known. The 68000 HCF
+causes the processor to toggle a subset of the bus lines as rapidly as it
+can; in some configurations this can actually cause lines to burn up.

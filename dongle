@@ -4,6 +4,11 @@ connector shell. Programs that use a dongle query the port at startup and
 programmed intervals thereafter, and terminate if it does not respond with
 the dongle's programmed validation code. Thus, users could make as many
 copies of the program as they want but must pay for each dongle. The idea was
-clever but a practical failure, as users disliked tyng up a serial port this
-way. 2. By extension, any physical electronic key or transferable ID required
-for a program to function. see DONGLE DISK.
+clever but initially a failure, as users disliked tying up a serial port this
+way. Most dongles on the market today (1990) will pass through the port, and
+monitor for "magic codes" (and combinations of status lines) with minimal if
+any interference with devices further down the line (this innovation was
+necessary to allow daisy chained dongles for multiple pieces of software).
+The devices are still not widely used, as the industry has trended away from
+copy-protection schemes in general. 2. By extension, any physical electronic
+key or transferable ID required for a program to function. see DONGLE-DISK.

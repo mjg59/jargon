@@ -1,7 +1,5 @@
- SHELL (shel) [from UNIX, now used elsewhere] n. 1. On an operating system
-with a well-defined KERNEL (q.v.), the SHELL is the loadable command
-interpreter program used to pass commands to the kernel. A single kernel may
-support several shells with different interface styles. 2. More generally,
-any interface program which mediates access to a special resource or SERVER
-for convenience, efficiency or security reasons; for this meaning, the usage
-is usually A SHELL AROUND whatever.
+ SHELL [from UNIX, now used elsewhere] n. 1. The command interpreter used to
+pass commands to an operating system. 2. More generally, any interface
+program which mediates access to a special resource or SERVER for
+convenience, efficiency or security reasons; for this meaning, the usage is
+usually A SHELL AROUND whatever.

@@ -1,7 +1,7 @@
- FOREGROUND (for'grownd) [UNIX] adj.v. On a time-sharing system, a task
-executing in foreground is one running at normal priority and able to accept
-input from and return output to the user; oppose BACKGROUND. There may be
-only one forground task per terminal (or terminal window). By extension, "to
+ FOREGROUND [UNIX] adj.v. On a time-sharing system, a task executing in
+foreground is one running at normal priority and able to accept input from
+and return output to the user; oppose BACKGROUND. There may be only one
+forground task per terminal (or terminal window). By extension, "to
 foreground" a task is to bring it to the top of one's PDL or STACK for
 immediate processing, and in this sense hackers often use it for non-computer
 tasks.

@@ -1,7 +1,8 @@
- LINE EATER, THE (lien ee'tr, dh@) [USENET] n. A bug in some now-obsolete
-versions of the netnews software used to cause the first lines of articles to
-be discarded under some circumstances. This bug was personified into mythical
+ LINE EATER, THE [USENET] n. A bug in some now-obsolete versions of the
+netnews software used to cause the first lines of articles to be discarded
+under some circumstances. This bug was quickly personified as a mythical
 creature called "the line eater", and postings often included a dummy line of
 "line eater food". The practice of "sacrificing to the line eater" continued
 for some time after the bug had been nailed to the wall, and is still
-humorously referred to.
+humorously referred to. The bug itself is still (in mid-1990) occasionally
+reported to be lurking in some mail-to-netnews gateways.

@@ -1,0 +1,5 @@
+ KILLER POKE n. A recipe for inducing hardware damage on a machine via
+insertion of invalid values in a memory-mapped control register; used esp. of
+various fairly well-known tricks on MMU-less BITTY BOXES like the IBM PC and
+Commodore PET that can overload and trash analog electronics in the monitor.
+see also HCF.

@@ -1,5 +1,9 @@
- BARF (barf) [from the "layman" slang, meaning "vomit"] 1. interj. Term of
-disgust. see BLETCH. 2. v. Choke, as on input. May mean to give an error
-message. "The function `=' compares two fixnums or two flonums, and barfs on
-anything else." 3. BARFULOUS, BARFUCIOUS: adj. Said of something which would
-make anyone barf, if only for aesthetic reasons. see CHOKE, GAG.
+ BARF (barf) [from mainstream slang meaning "vomit"] 1. interj. Term of
+disgust. see BLETCH. 2. To say "Barf!" or emit some similar expression of
+disgust. 3. v. To fail to work because of unacceptable input. May mean to
+give an error message. Examples: "The division operation barfs if you try to
+divide by zero." (that is, division by zero fails in some unspecified
+spectacular way) "The text editor barfs if you try to read in a new file
+before writing out the old one." 4. Also BARFULOUS, BARFUCIOUS: adj. Said of
+something which would make anyone barf, if only for aesthetic reasons. see
+CHOKE, GAG.

@@ -1,5 +1,5 @@
- LITTLE-ENDIAN (lit'l-end'y@n) adj. Describes a computer architecture in
-which, within a given 16- or 32-bit word, lower byte addresses have lower
-significance (the word is stored `little-end-first'). The PDP-11 and VAX
-families of computers and a lot of communications and networking hardware are
-little-endian. see BIG-ENDIAN.
+ LITTLE-ENDIAN adj. Describes a computer architecture in which, within a
+given 16- or 32-bit word, lower byte addresses have lower significance (the
+word is stored `little-end-first'). The PDP-11 and VAX families of computers
+and Intel microprocessors and a lot of communications and networking hardware
+are little-endian. see BIG-ENDIAN, MIDDLE-ENDIAN.

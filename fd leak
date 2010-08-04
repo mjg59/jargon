@@ -1,0 +1,3 @@
+ FD LEAK (ef dee leek) n. A kind of programming bug analogous to a CORE LEAK,
+in which a program fails to close file descriptors ("fd"s) after file
+operations are completed, and thus eventually runs out. see LEAK.

@@ -1,3 +1,3 @@
- RARE (reir) [UNIX] adj. CBREAK mode (character-by-character with interrupts
+ RARE [UNIX] adj. CBREAK mode (character-by-character with interrupts
 enabled). Distinguished from `raw' and `cooked', but unlike them this term is
 strictly a creature of folklore, not found in the manuals. Usage: rare.

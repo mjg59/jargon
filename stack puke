@@ -1,0 +1,4 @@
+ STACK PUKE n. Some micros are said to "puke their guts onto the stack" to
+save their internal state during exception processing. On a pipelined machine
+this can take a while (up to 92 bytes for a bus fault on the 68020, for
+example).

@@ -10,10 +10,10 @@ it was still a TTY-oriented editor. By now, TECO at MIT is highly
 display-oriented and is actually a language for writing editors, rather than
 an editor. Meanwhile, the outside world's various versions of TECO remain
 almost the same as the MIT version of the early 1970s. DEC recently tried to
-discourage its use, but an underground movement of sorts kept it alive. -
+discourage its use, but an underground movement of sorts kept it alive. --
 GLS] [Since this note was written I found out that DEC tried to force their
 hackers by administrative decision to use a hacked up and generally
-lobotomized version of SOS instead of TECO, and they revolted. - MRC] [1990
+lobotomized version of SOS instead of TECO, and they revolted. -- MRC] [1990
 update: TECO is now pretty much one with the dust of history, having been
 replaced (both functionally and psychologically) almost everywhere by GNU
 EMACS -- ESR]

@@ -1,2 +1,2 @@
- LINE STARVE (lien stahrv) [MIT] Inverse of `line feed'; a character or
-character sequence which causes a printer to back up one line depth.
+ LINE STARVE [MIT] Inverse of `line feed'; a character or character sequence
+which causes a printer to back up one line depth.

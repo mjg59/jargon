@@ -1,10 +1,11 @@
- ORTHOGONAL (or-tho'guh-nl) [from mathematics] n. Mutually independent;
-well-separated; sometimes, irrelevant to. Used to describe sets of primitives
-or capabilities which, like a vector basis in geometry, span the entire
-`capability space' of the system and are in some sense non-overlapping or
-mutually independent. For example, in architectures such as the MC68000 where
-all or nearly all registers can be used interchangeably in any role with
-respect to any instruction, the register set is said to be orthogonal. Or, in
-logic, the set of operators `not' and `or' is orthogonal, but the set `and',
-`or' and `not' is not (because any one of these can be expressed in terms of
-the other two via De Morgan's Laws).
+ ORTHOGONAL [from mathematics] adj. Mutually independent; well-separated;
+sometimes, irrelevant to. Used to describe sets of primitives or capabilities
+which, like a vector basis in geometry, span the entire `capability space' of
+the system and are in some sense non-overlapping or mutually independent. For
+example, in architectures such as the MC68000 where all or nearly all
+registers can be used interchangeably in any role with respect to any
+instruction, the register set is said to be orthogonal. Or, in logic, the set
+of operators `not' and `or' is orthogonal, but the set `and', `or' and `not'
+is not (because any one of these can be expressed in terms of the other two
+via De Morgan's Laws). Also used in comment on human discourse; "This may be
+orthogonal to the discussion, but...".

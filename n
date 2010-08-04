@@ -5,4 +5,4 @@ is specified by the current context. "We'd like to order N wonton soups and a
 family dinner for N-1." 4. NTH: adj. The ordinal counterpart of N. "Now for
 the Nth and last time..." In the specific context "Nth-year grad student", N
 is generally assumed to be at least 4, and is usually 5 or more. see also
-RANDOM NUMBERS.
+RANDOM NUMBERS, TWO-TO-THE-N.

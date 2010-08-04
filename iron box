@@ -1,5 +1,5 @@
- IRON BOX (iern boks) [UNIX/Internet] n. A special environment set up to trap
-a CRACKER logging in over remote or network connections long enough so he can
-be traced. May include a specially-gimmicked SHELL restricting the hacker's
+ IRON BOX [UNIX/Internet] n. A special environment set up to trap a CRACKER
+logging in over remote or network connections long enough so he can be
+traced. May include a specially-gimmicked SHELL restricting the hacker's
 movements in unobvious ways, and `bait' files designed to keep him interested
 and logged on. see also BACK DOOR.

@@ -1,5 +1,5 @@
- LINK FARM (link farm) [UNIX] n. A directory tree that contains many links to
-files another, master directory tree of files. Link farms save space when
+ LINK FARM [UNIX] n. A directory tree that contains many links to files in
+another, master directory tree of files. Link farms save space when
 maintaining several nearly identical copies of the same source tree, e.g.
 when the only difference is architecture-dependent object files. Example use:
 `Let's freeze the source and then rebuild the FROBOZZ-3 and FROBOZZ-4 link

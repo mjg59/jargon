@@ -1,21 +1,21 @@
- RANDOM (ran'dm) adj. 1. Unpredictable (closest to mathematical definition);
-weird. "The system's been behaving pretty randomly." 2. Assorted;
-undistinguished. "Who was at the conference?" "Just a bunch of random
-business types." 3. Frivolous; unproductive; undirected (pejorative). "He's
-just a random loser." 4. Incoherent or inelegant; not well organized. "The
-program has a random set of misfeatures." "That's a random name for that
-function." "Well, all the names were chosen pretty randomly." 5. Gratuitously
-wrong, i.e., poorly done and for no good apparent reason. For example, a
-program that handles file name defaulting in a particularly useless way, or
-an assembler routine that could easily have been coded using only three ac's,
-but randomly uses seven for assorted non-overlapping purposes, so that no one
-else can invoke it without first saving four extra ac's. 6. In no particular
-order, though deterministic. "The I/O channels are in a pool, and when a file
-is opened one is chosen randomly." n. 7. A random hacker; used particularly
-of high school students who soak up computer time and generally get in the
-way. 8. (occasional MIT usage) One who lives at Random Hall. J. RANDOM is
-often prefixed to a noun to make a "name" out of it (by comparison to common
-names such as "J. Fred Muggs"). The most common uses are "J. Random Loser"
-and "J. Random Nurd" ("Should J. Random Loser be allowed to gun down other
-people?"), but it can be used just as an elaborate version of RANDOM in any
-sense. see also SOME RANDOM X.
+ RANDOM adj. 1. Unpredictable (closest to mathematical definition); weird.
+"The system's been behaving pretty randomly." 2. Assorted; undistinguished.
+"Who was at the conference?" "Just a bunch of random business types." 3.
+Frivolous; unproductive; undirected (pejorative). "He's just a random loser."
+4. Incoherent or inelegant; not well organized. "The program has a random set
+of misfeatures." "That's a random name for that function." "Well, all the
+names were chosen pretty randomly." 5. Gratuitously wrong, i.e., poorly done
+and for no good apparent reason. For example, a program that handles file
+name defaulting in a particularly useless way, or an assembler routine that
+could easily have been coded using only three ac's, but randomly uses seven
+for assorted non-overlapping purposes, so that no one else can invoke it
+without first saving four extra registers's. 6. In no particular order,
+though deterministic. "The I/O channels are in a pool, and when a file is
+opened one is chosen randomly." n. 7. A random hacker; used particularly of
+high school students who soak up computer time and generally get in the way.
+8. (occasional MIT usage) One who lives at Random Hall. J. RANDOM is often
+prefixed to a noun to make a "name" out of it (by comparison to common names
+such as "J. Fred Muggs"). The most common uses are "J. RANDOM HACKER, "J.
+Random Loser" and "J. Random Nerd" ("Should J. Random Loser be allowed to gun
+down other people?"), but it can be used just as an elaborate version of
+RANDOM in any sense. see also SOME RANDOM X.

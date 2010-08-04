@@ -1,6 +1,6 @@
- BIG-ENDIAN (big'-en-di-@n) adj. Describes a computer architecture in which,
-within a given 16- or 32-bit word, lower byte addresses have higher
-significance (the word is stored `big-end-first'). Most processors including
-the IBM 370 family and the PDP-10 and the Intel and Motorola microprocessor
-families and the various RISC designs current in 1990 are big-endian. see
-LITTLE-ENDIAN.
+ BIG-ENDIAN [From Swift's "Gulliver's Travels" via a famous 1980 paper by
+Danny Cohen] adj. Describes a computer architecture in which, within a given
+16- or 32-bit word, lower byte addresses have higher significance (the word
+is stored `big-end-first'). Most processors including the IBM 370 family and
+the PDP-10 and Motorola microprocessor families and most of the various RISC
+designs current in 1990 are big-endian. see LITTLE-ENDIAN, MIDDLE-ENDIAN.

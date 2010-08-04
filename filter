@@ -1,4 +1,4 @@
- FILTER (fil'tr) [orig. UNIX, now also in MS-DOS] n. A program which
-processes an input text stream into an output text stream in some
-well-defined way, and does no I/O to anywhere else except possibly on error
-conditions; one designed to be used as a stage in a PIPELINE, (q.v.).
+ FILTER [orig. UNIX, now also in MS-DOS] n. A program which processes an
+input text stream into an output text stream in some well-defined way, and
+does no I/O to anywhere else except possibly on error conditions; one
+designed to be used as a stage in a PIPELINE (q.v.).

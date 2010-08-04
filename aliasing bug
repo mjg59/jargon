@@ -1,0 +1,9 @@
+ ALIASING BUG [C programmers] n. A class of subtle programming errors which
+can arise in code that does dynamic allocation via malloc(3). If more than
+one pointer addresses (`aliases for') a given hunk of storage, it may happen
+that the storage is freed through one alias and then referenced through
+another, leading to subtle (and possibly intermittent) lossage depending on
+the state and the allocation history of the malloc ARENA. Avoidable by use of
+allocation strategies that never alias allocated core. Also called a STALE
+POINTER BUG. see also PRECEDENCE LOSSAGE, SMASH THE STACK, FANDANGO ON CORE,
+MEMORY LEAK, OVERRUN SCREW.

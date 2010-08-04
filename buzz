@@ -1,2 +1,4 @@
- BUZZ (buhz) v. To run in a very tight loop, perhaps without guarantee of
-getting out. see SPIN.
+ BUZZ v. 1. To run in a very tight loop, perhaps without guarantee of getting
+out. see SPIN. 2. [ETA Systems] To test a wire or PCB trace for continuity by
+applying an AC signal as opposed to applying a DC signal. Some wire faults
+will pass DC tests but fail a BUZZ test.
