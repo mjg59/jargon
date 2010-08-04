@@ -1,5 +1,5 @@
- #======= THIS IS THE JARGON FILE, VERSION 4.4.5, 04 OCT 2003 =======# The
-Jargon File (version 4.4.5)
+ #======= THIS IS THE JARGON FILE, VERSION 4.4.6, 27 OCT 2003 =======# The
+Jargon File (version 4.4.6)
 ________________________________________________________________ Table of
 Contents Welcome to the Jargon File I. Introduction 1. Hacker Slang and
 Hacker Culture 2. Of Slang, Jargon, and Techspeak 3. Revision History 4.
@@ -26,7 +26,7 @@ you can do with it, but there are traditions about its proper use to which
 many hackers are quite strongly attached. Please extend the courtesy of
 proper citation when you quote the File, ideally with a version number, as it
 will change and grow over time. (Examples of appropriate citation form:
-"Jargon File 4.4.5" or "The on-line hacker Jargon File, version 4.4.5, 4 Oct
+"Jargon File 4.4.6" or "The on-line hacker Jargon File, version 4.4.6, 25 Oct
 2003".) The Jargon File is a common heritage of the hacker culture. Over the
 years a number of individuals have volunteered considerable time to
 maintaining the File and been recognized by the net at large as editors of
@@ -51,83 +51,87 @@ on-line versions. The three `authorized' editions so far are described in the
 Revision History section; there may be more in the future. The Jargon File's
 online rendition uses an unusually large number of special characters. This
 test page lists them so you can check what your browser does with each one.
-glyph description l greek character lambda L greek character Lambda p greek
-character pi £ pound sterling left angle bracket right angle bracket æ ae
-ligature ß German sharp-s sign ?1 similarity sign (+) circle-plus (×)
-circle-times × times {} empty set (used for APL null) µ micro quantifier sign
--> right arrow <=> horizontal double arrow (TM) trademark symbol ®
-registered-trademark symbol - minus ± plus-or-minus Ø slashed-O @ schwa ´
-acute accent · medial dot Introduction Table of Contents 1. Hacker Slang and
-Hacker Culture 2. Of Slang, Jargon, and Techspeak 3. Revision History 4.
-Jargon Construction Verb Doubling Soundalike Slang The -P Convention
-Overgeneralization Spoken inarticulations Anthropomorphization Comparatives
-5. Hacker Writing Style 6. Email Quotes and Inclusion Conventions 7. Hacker
-Speech Style 8. International Style 9. Crackers, Phreaks, and Lamers 10.
-Pronunciation Guide 11. Other Lexicon Conventions 12. Format for New Entries
-Chapter 1. Hacker Slang and Hacker Culture This document is a collection of
-slang terms used by various subcultures of computer hackers. Though some
-technical material is included for background and flavor, it is not a
-technical dictionary; what we describe here is the language hackers use among
-themselves for fun, social communication, and technical debate. The `hacker
-culture' is actually a loosely networked collection of subcultures that is
-nevertheless conscious of some important shared experiences, shared roots,
-and shared values. It has its own myths, heroes, villains, folk epics,
-in-jokes, taboos, and dreams. Because hackers as a group are particularly
-creative people who define themselves partly by rejection of `normal' values
-and working habits, it has unusually rich and conscious traditions for an
-intentional culture less than 50 years old. As usual with slang, the special
-vocabulary of hackers helps hold places in the community and expresses shared
-values and experiences. Also as usual, not knowing the slang (or using it
-inappropriately) defines one as an outsider, a mundane, or (worst of all in
-hackish vocabulary) possibly even a suit. All human cultures use slang in
-this threefold way -- as a tool of communication, and of inclusion, and of
-exclusion. Among hackers, though, slang has a subtler aspect, paralleled
-perhaps in the slang of jazz musicians and some kinds of fine artists but
-hard to detect in most technical or scientific cultures; parts of it are code
-for shared states of consciousness. There is a whole range of altered states
-and problem-solving mental stances basic to high-level hacking which don't
-fit into conventional linguistic reality any better than a Coltrane solo or
-one of Maurits Escher's surreal trompe l'oeil compositions (Escher is a
-favorite of hackers), and hacker slang encodes these subtleties in many
-unobvious ways. As a simple example, take the distinction between a kluge and
-an elegant solution, and the differing connotations attached to each. The
-distinction is not only of engineering significance; it reaches right back
-into the nature of the generative processes in program design and asserts
-something important about two different kinds of relationship between the
-hacker and the hack. Hacker slang is unusually rich in implications of this
-kind, of overtones and undertones that illuminate the hackish psyche.
-Hackers, as a rule, love wordplay and are very conscious and inventive in
-their use of language. These traits seem to be common in young children, but
-the conformity-enforcing machine we are pleased to call an educational system
-bludgeons them out of most of us before adolescence. Thus, linguistic
-invention in most subcultures of the modern West is a halting and largely
-unconscious process. Hackers, by contrast, regard slang formation and use as
-a game to be played for conscious pleasure. Their inventions thus display an
-almost unique combination of the neotenous enjoyment of language-play with
-the discrimination of educated and powerful intelligence. Further, the
-electronic media which knit them together are fluid, `hot' connections, well
-adapted to both the dissemination of new slang and the ruthless culling of
-weak and superannuated specimens. The results of this process give us perhaps
-a uniquely intense and accelerated view of linguistic evolution in action.
-Hacker slang also challenges some common linguistic and anthropological
-assumptions. For example, in the early 1990s it became fashionable to speak
-of `low-context' versus `high-context' communication, and to classify
-cultures by the preferred context level of their languages and art forms. It
-is usually claimed that low-context communication (characterized by
-precision, clarity, and completeness of self-contained utterances) is typical
-in cultures which value logic, objectivity, individualism, and competition;
-by contrast, high-context communication (elliptical, emotive, nuance-filled,
-multi-modal, heavily coded) is associated with cultures which value
-subjectivity, consensus, cooperation, and tradition. What then are we to make
-of hackerdom, which is themed around extremely low-context interaction with
-computers and exhibits primarily "low-context" values, but cultivates an
-almost absurdly high-context slang style? The intensity and consciousness of
-hackish invention make a compilation of hacker slang a particularly effective
-window into the surrounding culture -- and, in fact, this one is the latest
-version of an evolving compilation called the `Jargon File', maintained by
-hackers themselves since the early 1970s. This one (like its ancestors) is
-primarily a lexicon, but also includes topic entries which collect background
-or sidelight information on hacker culture that would be awkward to try to
+glyph description a greek character alpha k greek character kappa l greek
+character lambda L greek character Lambda n greek character nu o greek
+character omicron p greek character pi £ pound sterling left angle bracket
+right angle bracket æ ae ligature ß German sharp-s sign ?1 similarity sign
+(+) circle-plus (×) circle-times × times {} empty set (used for APL null) µ
+micro quantifier sign -> right arrow <=> horizontal double arrow (TM)
+trademark symbol ® registered-trademark symbol - minus ± plus-or-minus Ø
+slashed-O @ schwa ´ acute accent · medial dot We normally test with the
+latest build of Mozilla. If some of the special characters above look wrong,
+your browser has bugs in its standards-conformance and you should replace it.
+Introduction Table of Contents 1. Hacker Slang and Hacker Culture 2. Of
+Slang, Jargon, and Techspeak 3. Revision History 4. Jargon Construction Verb
+Doubling Soundalike Slang The -P Convention Overgeneralization Spoken
+inarticulations Anthropomorphization Comparatives 5. Hacker Writing Style 6.
+Email Quotes and Inclusion Conventions 7. Hacker Speech Style 8.
+International Style 9. Crackers, Phreaks, and Lamers 10. Pronunciation Guide
+11. Other Lexicon Conventions 12. Format for New Entries Chapter 1. Hacker
+Slang and Hacker Culture This document is a collection of slang terms used by
+various subcultures of computer hackers. Though some technical material is
+included for background and flavor, it is not a technical dictionary; what we
+describe here is the language hackers use among themselves for fun, social
+communication, and technical debate. The `hacker culture' is actually a
+loosely networked collection of subcultures that is nevertheless conscious of
+some important shared experiences, shared roots, and shared values. It has
+its own myths, heroes, villains, folk epics, in-jokes, taboos, and dreams.
+Because hackers as a group are particularly creative people who define
+themselves partly by rejection of `normal' values and working habits, it has
+unusually rich and conscious traditions for an intentional culture less than
+50 years old. As usual with slang, the special vocabulary of hackers helps
+hold places in the community and expresses shared values and experiences.
+Also as usual, not knowing the slang (or using it inappropriately) defines
+one as an outsider, a mundane, or (worst of all in hackish vocabulary)
+possibly even a suit. All human cultures use slang in this threefold way --
+as a tool of communication, and of inclusion, and of exclusion. Among
+hackers, though, slang has a subtler aspect, paralleled perhaps in the slang
+of jazz musicians and some kinds of fine artists but hard to detect in most
+technical or scientific cultures; parts of it are code for shared states of
+consciousness. There is a whole range of altered states and problem-solving
+mental stances basic to high-level hacking which don't fit into conventional
+linguistic reality any better than a Coltrane solo or one of Maurits Escher's
+surreal trompe l'oeil compositions (Escher is a favorite of hackers), and
+hacker slang encodes these subtleties in many unobvious ways. As a simple
+example, take the distinction between a kluge and an elegant solution, and
+the differing connotations attached to each. The distinction is not only of
+engineering significance; it reaches right back into the nature of the
+generative processes in program design and asserts something important about
+two different kinds of relationship between the hacker and the hack. Hacker
+slang is unusually rich in implications of this kind, of overtones and
+undertones that illuminate the hackish psyche. Hackers, as a rule, love
+wordplay and are very conscious and inventive in their use of language. These
+traits seem to be common in young children, but the conformity-enforcing
+machine we are pleased to call an educational system bludgeons them out of
+most of us before adolescence. Thus, linguistic invention in most subcultures
+of the modern West is a halting and largely unconscious process. Hackers, by
+contrast, regard slang formation and use as a game to be played for conscious
+pleasure. Their inventions thus display an almost unique combination of the
+neotenous enjoyment of language-play with the discrimination of educated and
+powerful intelligence. Further, the electronic media which knit them together
+are fluid, `hot' connections, well adapted to both the dissemination of new
+slang and the ruthless culling of weak and superannuated specimens. The
+results of this process give us perhaps a uniquely intense and accelerated
+view of linguistic evolution in action. Hacker slang also challenges some
+common linguistic and anthropological assumptions. For example, in the early
+1990s it became fashionable to speak of `low-context' versus `high-context'
+communication, and to classify cultures by the preferred context level of
+their languages and art forms. It is usually claimed that low-context
+communication (characterized by precision, clarity, and completeness of
+self-contained utterances) is typical in cultures which value logic,
+objectivity, individualism, and competition; by contrast, high-context
+communication (elliptical, emotive, nuance-filled, multi-modal, heavily
+coded) is associated with cultures which value subjectivity, consensus,
+cooperation, and tradition. What then are we to make of hackerdom, which is
+themed around extremely low-context interaction with computers and exhibits
+primarily "low-context" values, but cultivates an almost absurdly
+high-context slang style? The intensity and consciousness of hackish
+invention make a compilation of hacker slang a particularly effective window
+into the surrounding culture -- and, in fact, this one is the latest version
+of an evolving compilation called the `Jargon File', maintained by hackers
+themselves since the early 1970s. This one (like its ancestors) is primarily
+a lexicon, but also includes topic entries which collect background or
+sidelight information on hacker culture that would be awkward to try to
 subsume under individual slang definitions. Though the format is that of a
 reference volume, it is intended that the material be enjoyable to browse.
 Even a complete outsider should find at least a chuckle on nearly every page,
@@ -357,14 +361,16 @@ filename collisions and other small problems. 4.4.3 15 Jul 2003 37363 235135
 1629667 2293 Fix some stylesheet problems leading to missing links. 4.4.4 14
 Aug 2003 37392 235271 1630579 2295 Corrected build machinery; we can make
 RPMS now. 4.4.5 4 Oct 2003 37482 235858 1634767 2299 Minor updates. Four new
-entries and a better original-bug picture. Version numbering: Version numbers
-should be read as major.minor.revision. Major version 1 is reserved for the
-`old' (ITS) Jargon File, jargon-1. Major version 2 encompasses revisions by
-ESR (Eric S. Raymond) with assistance from GLS (Guy L. Steele, Jr.) leading
-up to and including the second paper edition. From now on, major version
-number N.00 will probably correspond to the Nth paper edition. Usually later
-versions will either completely supersede or incorporate earlier versions, so
-there is generally no point in keeping old versions around. Our thanks to the
+entries and a better original-bug picture. 4.4.6 25 Oct 2003 37560 236406
+1638454 2302 Added glider illustration. Amended FUD entry pursuent to SCO's
+attempt to abuse it. Version numbering: Version numbers should be read as
+major.minor.revision. Major version 1 is reserved for the `old' (ITS) Jargon
+File, jargon-1. Major version 2 encompasses revisions by ESR (Eric S.
+Raymond) with assistance from GLS (Guy L. Steele, Jr.) leading up to and
+including the second paper edition. From now on, major version number N.00
+will probably correspond to the Nth paper edition. Usually later versions
+will either completely supersede or incorporate earlier versions, so there is
+generally no point in keeping old versions around. Our thanks to the
 coauthors of Steele-1983 for oversight and assistance, and to the hundreds of
 Usenetters (too many to name here) who contributed entries and encouragement.
 More thanks go to several of the old-timers on the Usenet group
@@ -511,21 +517,21 @@ this way; e.g., `soxen' for a bunch of socks. Other funny plurals are the
 Hebrew-style `frobbotzim' for the plural of `frobbozz' (see frobnitz) and
 `Unices' and `Twenices' (rather than `Unixes' and `Twenexes'; see Unix,
 TWENEX in main text). But note that `Twenexen' was never used, and `Unixen'
-was not sighted in the wild until the year 2000, thirty years after it might
-logically have come into use; it has been suggested that this is because
-`-ix' and `-ex' are Latin singular endings that attract a Latinate plural.
-Among Perl hackers it is reported that `comma' and `semicolon' pluralize as
-`commata' and `semicola' respectively. Finally, it has been suggested to
-general approval that the plural of `mongoose' ought to be `polygoose'. The
-pattern here, as with other hackish grammatical quirks, is generalization of
-an inflectional rule that in English is either an import or a fossil (such as
-the Hebrew plural ending `-im', or the Anglo-Saxon plural suffix `-en') to
-cases where it isn't normally considered to apply. This is not `poor
-grammar', as hackers are generally quite well aware of what they are doing
-when they distort the language. It is grammatical creativity, a form of
-playfulness. It is done not to impress but to amuse, and never at the expense
-of clarity. Spoken inarticulations Words such as `mumble', `sigh', and
-`groan' are spoken in places where their referent might more naturally be
+was seldom sighted in the wild until the year 2000, thirty years after it
+might logically have come into use; it has been suggested that this is
+because `-ix' and `-ex' are Latin singular endings that attract a Latinate
+plural. Among Perl hackers it is reported that `comma' and `semicolon'
+pluralize as `commata' and `semicola' respectively. Finally, it has been
+suggested to general approval that the plural of `mongoose' ought to be
+`polygoose'. The pattern here, as with other hackish grammatical quirks, is
+generalization of an inflectional rule that in English is either an import or
+a fossil (such as the Hebrew plural ending `-im', or the Anglo-Saxon plural
+suffix `-en') to cases where it isn't normally considered to apply. This is
+not `poor grammar', as hackers are generally quite well aware of what they
+are doing when they distort the language. It is grammatical creativity, a
+form of playfulness. It is done not to impress but to amuse, and never at the
+expense of clarity. Spoken inarticulations Words such as `mumble', `sigh',
+and `groan' are spoken in places where their referent might more naturally be
 used. It has been suggested that this usage derives from the impossibility of
 representing such noises on a comm link or in electronic mail, MUDs, and IRC
 channels (interestingly, the same sorts of constructions have been showing up
@@ -1165,7 +1171,7 @@ book titles boot Borg borken bot bottom feeder bottom-post bottom-up
 implementation bounce bounce message boustrophedon box boxed comments boxen
 boxology bozotic brain dump brain fart brain-damaged brain-dead braino
 brainwidth bread crumbs break break-even point breath-of-life packet breedle
-brick Breidbart Index bricktext bring X to its knees brittle broadcast storm
+Breidbart Index brick bricktext bring X to its knees brittle broadcast storm
 broken broken arrow broken-ring network BrokenWindows broket Brooks's Law
 brown-paper-bag bug browser BRS brute force brute force and ignorance BSD
 BSOD BUAF BUAG bubble sort bucky bits buffer chuck buffer overflow bug
@@ -1298,31 +1304,31 @@ lost in the underflow lots of MIPS but no I/O low-bandwidth Lubarsky's Law of
 Cybernetic Entomology Lumber Cartel lunatic fringe lurker luser M M M$
 macdink machoflops Macintoy Macintrash macro macro- macrology maggotbox magic
 magic cookie magic number magic smoke mail storm mailbomb mailing list main
-loop mainframe mainsleaze man page management mandelbug manged mangle mangled
-name mangler manularity marching ants marbles marginal marginally marketroid
-Mars martian massage math-out Matrix maximum Maytag mode McQuary limit
-meatspace meatware meeces meg mega- megapenny MEGO meltdown, network meme
-meme plague memetics memory farts memory leak memory smash menuitis mess-dos
-meta meta bit metasyntactic variable MFTL mickey mickey mouse program micro-
-MicroDroid microfortnight microLenat microReid microserf Microsloth Windows
-Microsoft micros~1 middle-endian middle-out implementation milliLampson minor
-detail MIPS misbug misfeature missile address MiSTing miswart MMF mobo moby
-mockingbird mod mode mode bit modulo mojibake molly-guard Mongolian Hordes
-technique monkey up monkey, scratch monstrosity monty Moof Moore's Law moria
-MOTAS MOTOS MOTSS mouse ahead mouse belt mouse droppings mouse elbow mouse
-pusher mouso MS-DOS mu MUD muddie mudhead muggle Multics multitask mumblage
-mumble munch munching munching squares munchkin mundane mung munge Murphy's
-Law music mutter N N nadger nagware nailed to the wall nailing jelly naive
-naive user NAK NANA nano nano- nanoacre nanobot nanocomputer nanofortnight
-nanotechnology narg nasal demons nastygram Nathan Hale nature neat hack neats
-vs. scruffies neep-neep neophilia nerd nerd knob net.- net.god
-net.personality net.police netburp netdead nethack netiquette netlag netnews
-Netscrape netsplit netter network address network meltdown New Jersey New
-Testament newbie newgroup wars newline NeWS newsfroup newsgroup nick nickle
-night mode Nightmare File System NIL Ninety-Ninety Rule nipple mouse NMI
-no-op noddy non-optimal solution nonlinear nontrivial not entirely unlike X
-not ready for prime time notwork NP- NSA line eater NSP nude nugry nuke
-number-crunching numbers NUXI problem nybble nyetwork O Ob- Obfuscated C
+loop mainframe mainsleaze malware man page management mandelbug manged mangle
+mangled name mangler manularity marching ants marbles marginal marginally
+marketroid Mars martian massage math-out Matrix maximum Maytag mode McQuary
+limit meatspace meatware meeces meg mega- megapenny MEGO meltdown, network
+meme meme plague memetics memory farts memory leak memory smash menuitis
+mess-dos meta meta bit metasyntactic variable MFTL mickey mickey mouse
+program micro- MicroDroid microfortnight microLenat microReid microserf
+Microsloth Windows Microsoft micros~1 middle-endian middle-out implementation
+milliLampson minor detail MIPS misbug misfeature missile address MiSTing
+miswart MMF mobo moby mockingbird mod mode mode bit modulo mojibake
+molly-guard Mongolian Hordes technique monkey up monkey, scratch monstrosity
+monty Moof Moore's Law moria MOTAS MOTOS MOTSS mouse ahead mouse belt mouse
+droppings mouse elbow mouse pusher mouso MS-DOS mu MUD muddie mudhead muggle
+Multics multitask mumblage mumble munch munching munching squares munchkin
+mundane mung munge Murphy's Law music mutter N N nadger nagware nailed to the
+wall nailing jelly naive naive user NAK NANA nano nano- nanoacre nanobot
+nanocomputer nanofortnight nanotechnology narg nasal demons nastygram Nathan
+Hale nature neat hack neats vs. scruffies neep-neep neophilia nerd nerd knob
+net.- net.god net.personality net.police netburp netdead nethack netiquette
+netlag netnews Netscrape netsplit netter network address network meltdown New
+Jersey New Testament newbie newgroup wars newline NeWS newsfroup newsgroup
+nick nickle night mode Nightmare File System NIL Ninety-Ninety Rule nipple
+mouse NMI no-op noddy non-optimal solution nonlinear nontrivial not entirely
+unlike X not ready for prime time notwork NP- NSA line eater NSP nude nugry
+nuke number-crunching numbers NUXI problem nybble nyetwork O Ob- Obfuscated C
 Contest obi-wan error Objectionable-C obscure octal forty off the trolley
 off-by-one error offline ogg -oid old fart Old Testament on the gripping hand
 one-banana problem one-line fix one-liner wars ooblick OP op open open source
@@ -1417,7 +1423,7 @@ toy problem toy program trampoline trap trap door trash trawl tree-killer
 treeware trit trivial troff troglodyte troglodyte mode Trojan horse troll
 Troll-O-Meter tron troughie true-hacker tty tube tube time tunafish tune
 turbo nerd Turing tar-pit turist Tux tweak TWENEX twiddle twilight zone twink
-twirling baton two pi two-to-the-N U u- UBD UBE ubergeek UCE UDP UN*X
+twirling baton two pi two-to-the-N tyop U u- UBD UBE ubergeek UCE UDP UN*X
 undefined external reference under the hood undocumented feature
 uninteresting Unix Unix brain damage Unix conspiracy Unix weenie unixism
 unswizzle unwind the stack unwind-protect up upload upstream upthread uptime
@@ -1426,27 +1432,27 @@ userland Utah teapot, the UTSL UUOC V V7 vadding vanilla vanity domain
 vannevar vaporware var vaston VAX VAXen vaxocentrism vdiff veeblefester
 velveeta Venus flytrap verbage verbiage Version 7 vgrep vi video toaster
 videotex virgin virtual virtual beer virtual Friday virtual reality virtual
-shredder virus visionary VMS voice voice-net voodoo programming VR Vulcan
-nerve pinch vulture capitalist W w00t wabbit WAITS waldo walk walk off the
-end of walking drives wall wall follower wall time wall wart wallhack wango
-wank wannabee war dialer war-driving war-chalking -ware warez warez d00dz
-warez kiddies warlording warm boot wart washing machine washing software
-water MIPS wave a dead chicken weasel web pointer web ring web toaster webify
-webmaster wedged wedgie wedgitude weeble weeds weenie Weenix well-behaved
-well-connected wetware whack whack-a-mole whacker whales What's a spline?
-wheel wheel bit wheel of reincarnation wheel wars white hat whitelist whizzy
-Whorfian mind-lock wibble WIBNI widget wiggles wild side WIMP environment win
-win big win win Winchester windoid window shopping Windowsitis Windoze winged
-comments winkey winnage winner winnitude Wintel Wintendo wired wirehead
-wirewater wish list within delta of within epsilon of wizard Wizard Book
-wizard hat wizard mode wizardly wok-on-the-wall womb box WOMBAT womble wonky
-workaround working as designed worm wormhole wound around the axle wrap
-around write-only code write-only language write-only memory Wrong Thing
-wugga wugga wumpus WYSIAYG WYSIWYG X X XEROX PARC XOFF XON xor xref XXX xyzzy
-Y YA- YABA YAFIYGI yak shaving YAUN yellow card yellow wire Yet Another YHBT
-YKYBHTLW YMMV You are not expected to understand this You know you've been
-hacking too long when Your mileage may vary Yow! yoyo mode Yu-Shiang Whole
-Fish Z zap zapped Zawinski's Law zbeba zen zero zero-content
+shredder virus visionary Visual Fred VMS voice voice-net voodoo programming
+VR Vulcan nerve pinch vulture capitalist W w00t wabbit WAITS waldo walk walk
+off the end of walking drives wall wall follower wall time wall wart wallhack
+wango wank wannabee war dialer war-driving war-chalking -ware warez warez
+d00dz warez kiddies warlording warm boot wart washing machine washing
+software water MIPS wave a dead chicken weasel web pointer web ring web
+toaster webify webmaster wedged wedgie wedgitude weeble weeds weenie Weenix
+well-behaved well-connected wetware whack whack-a-mole whacker whales What's
+a spline? wheel wheel bit wheel of reincarnation wheel wars white hat
+whitelist whizzy Whorfian mind-lock wibble WIBNI widget wiggles wild side
+WIMP environment win win big win win Winchester windoid window shopping
+Windowsitis Windoze winged comments winkey winnage winner winnitude Wintel
+Wintendo wired wirehead wirewater wish list within delta of within epsilon of
+wizard Wizard Book wizard hat wizard mode wizardly wok-on-the-wall womb box
+WOMBAT womble wonky workaround working as designed worm wormhole wound around
+the axle wrap around write-only code write-only language write-only memory
+Wrong Thing wugga wugga wumpus WYSIAYG WYSIWYG X X XEROX PARC XOFF XON xor
+xref XXX xyzzy Y YA- YABA YAFIYGI yak shaving YAUN yellow card yellow wire
+Yet Another YHBT YKYBHTLW YMMV You are not expected to understand this You
+know you've been hacking too long when Your mileage may vary Yow! yoyo mode
+Yu-Shiang Whole Fish Z zap zapped Zawinski's Law zbeba zen zero zero-content
 Zero-One-Infinity Rule zeroth zigamorph zip zipperhead zombie zorch Zork
 zorkmid 0 (TM) /dev/null /me 0 1TBS 2 404 404 compliant @-party :(TM): //
 [Usenet] ASCII rendition of the (TM) appended to phrases that the author

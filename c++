@@ -9,4 +9,4 @@ design is almost too large to hold in even hackers' heads. Much of the
 Stroustrup himself has said in his retrospective book The Design and
 Evolution of C++ (p. 207), "Within C++, there is a much smaller and cleaner
 language struggling to get out." [Many hackers would now add "Yes, and it's
-called {Java}" --ESR]
+called {Java}" --ESR] [fortran.png] Nowadays we say this of C++.

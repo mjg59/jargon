@@ -11,7 +11,7 @@ many others, for reasons ranging from uneven support on different Web browser
 platforms, performance issues, and some notorious deficiencies in some of the
 standard toolkits (AWT in particular). {Microsoft}'s determined attempts to
 corrupt the language (which it rightly sees as a threat to its OS monopoly)
-have not helped. As of 2002, these issues are still in the process of being
+have not helped. As of 2003, these issues are still in the process of being
 resolved. Despite many attractive features and a good design, it is difficult
 to find people willing to praise Java who have tried to implement a complex,
 real-world system with it (but to be fair it is early days yet, and no other

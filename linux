@@ -10,9 +10,9 @@ Linux is what {GNU} aimed to be, and it relies on the GNU toolset. But the
 Free Software Foundation didn't produce the kernel to go with that toolset
 until 1999, which was too late. Other, similar efforts like FreeBSD and
 NetBSD have been technically successful but never caught fire the way Linux
-has; as this is written in 2002, Linux has effectively swallowed all
+has; as this is written in 2003, Linux has effectively swallowed all
 proprietary Unixes except Solaris and is seriously challenging Microsoft. It
-has already captured 37% of the Internet-server market and over 25% of
+has already captured 41% of the Internet-server market and over 25% of
 general business servers. An earlier version of this entry opined "The secret
 of Linux's success seems to be that Linus worked much harder early on to keep
 the development process open and recruit other hackers, creating a snowball
