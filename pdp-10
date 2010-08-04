@@ -1,10 +1,28 @@
- PDP-10 [Programmable Data Processor model 10] n. The machine that made
-timesharing real. Looms large in hacker folklore due to early adoption in the
-mid-70s by many university computing facilities and research labs including
-the MIT AI lab, Stanford and CMU. Some aspects of the instruction set (most
-notably the bit-field instructions) are still considered unsurpassed. Later
-editions were labelled `DECsystem-10' as a way of differentiating them from
-the PDP-11. The '10 was eventually eclipsed by the PDP-11 and VAX machines
-and dropped from DEC's line in the early '80s, and in 1990 to have cut one's
-teeth on one is considered something of a badge of honorable old-timerhood
-among hackers. see TOPS-10, ITS, Appendix B.
+ S. Raymond, approved by Guy Steele. Many items of UNIX, C, USENET and
+microcomputer-based slang were added at that time (as well as The Untimely
+Demise of Mabel The Monkey). Some obsolescent usages (mostly PDP-10 derived)
+were moved to appendix B. Version 2.1.5, Nov 28 1990: changes and additions
+by ESR in response to numerous USENET submissions and comment from the First
+Edition coauthors. The bibliography (Appendix C) was also appended. Version
+2.2.1, Dec 15 1990: most of the contents of the 1983 paper edition edited by
+Guy Steele was merged in. Many more USENET submissions added, including the
+International Style and <COMMONWEALTH HACKISH> material. Version 2.3.1, Jan
+03 1991: the great format change --- case is no longer smashed in lexicon
+keys and cross-references. A very few entries from jargon-1 which were
+basically straight tech-speak were deleted; this enabled the rest of Appendix
+B to be merged back into main text and the appendix replaced with the
+Portrait of J. Random Hacker. More USENET submissions were added. Version
+numbering: Read versions as <major>.<minor>.<revision>. Major version 1 is
+reserved for the `old' (ITS) Jargon File, jargon-1. Major version 2
+encompasses revisions by ESR with assistance from GLS. Someday, the next
+maintainer will take over and spawn `version 3'. In general, later versions
+will either completely obsolesce or incorporate earlier versions, so there is
+generally no point in keeping old versions around. Our thanks to the other
+co-authors of Steele-1983 for oveersight and assistance; also to all the
+USENETters who contributed entries and encouragement. Special thanks go to
+our Scandinavian correspondent Per Lindberg (per@front.se), author of the
+remarkable Swedish language 'zine `Hackerbladet', for bringing FOO! comics to
+our attention and smuggling the IBM hacker underground's own baby jargon file
+out to us. Also, much gratitude to ace hacker/linguist Joe Keane
+(jkg@osc.osc.com) for helping us improve the pronunciation guides; and to
+Maarten Litmath for generously allowing the inclusion of the

@@ -1,7 +1,7 @@
- OS/2 (oh ess too) n. The anointed successor to MS-DOS for Intel-286 and
-(allegedly) 386-based micros; proof that IBM/Microsoft couldn't get it right
-the second time, either. Cited here because mentioning it is always good for
-a cheap laugh among hackers --- the design was so bad that three years after
-introduction you could still count the major APPs shipping for it on the
-fingers of two hands. Often called "Half-an-OS". see VAPORWARE, MONSTROSITY,
-CRETINOUS, SECOND-SYSTEM EFFECT.
+ OS could work because ITS purposely had very little in the way of
+"protection" that prevented one user from interfering with another. Fair is
+fair, however. There was another program that would automatically notify you
+if anyone started to spy on your output. It worked in exactly the same way,
+by looking at the insides of the operating system to see if anyone else was
+looking at the insides that had to do with your output. This "counterspy"
+program was called
