@@ -7,10 +7,10 @@ Infocom are now prized collector's items. After being acquired by Activision
 in 1989 they did a few more "modern" (e.g. graphics-intensive) games which
 were less successful than reissues of their classics. The software,
 thankfully, is still extant; Infocom games were written in a kind of P-code
-and distributed with a P-code interpreter core, and not only open-source
-emulators for that interpreter but an actual compiler as well have been
-written to permit the P-code to be run on platforms the games never
-originally graced. In fact, new games written in this P-code are still being
-written. There is a home page at `http://www.csd.uwo.ca/Infocom/', and it is
-even possible to play these games in your browser
-(http://www.xs4all.nl/~pot/infocom/) if it is Java-capable.
+(called, actually, `z-code') and distributed with a P-code interpreter core,
+and not only open-source emulators for that interpreter but an actual
+compiler as well have been written to permit the P-code to be run on
+platforms the games never originally graced. In fact, new games written in
+this P-code are still being written. There is a home page at
+`http://www.csd.uwo.ca/Infocom/', and it is even possible to play these games
+in your browser (http://www.xs4all.nl/~pot/infocom/) if it is Java-capable.

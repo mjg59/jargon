@@ -1,5 +1,5 @@
  :Ping O' Death: n. A notorious {exploit} that (when first discovered) could
-be easily used to crash a wide variety of machines by overunning size limits
+be easily used to crash a wide variety of machines by overrunning size limits
 in their TCP/IP stacks. First revealed in late 1996. The open-source Unix
 community patched its systems to remove the vulnerability within days or
 weeks, the closed-source OS vendors generally took months. While the

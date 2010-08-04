@@ -22,4 +22,6 @@ variant of this legend has it that, as a consequence of the `parity
 preservation law', the number of 1 bits that go to the bit bucket must equal
 the number of 0 bits. Any imbalance results in bits filling up the bit
 bucket. A qualified computer technician can empty a full bit bucket as part
-of scheduled maintenance.
+of scheduled maintenance. The source for all these meanings, is,
+historically, the fact that the {chad box} on a paper-tape punch was
+sometimes called a bit bucket.

@@ -4,4 +4,5 @@ software; the aim is to trick people into revealing passwords or other
 information that compromises a target system's security. Classic scams
 include phoning up a mark who has the required information and posing as a
 field service tech or a fellow employee with an urgent access problem. see
-also the {tiger team} story in the {patch} entry.
+also the {tiger team} story in the {patch} entry, and {rubber-hose
+cryptanalysis}.

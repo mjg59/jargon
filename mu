@@ -8,7 +8,9 @@ Japanese word alleged to mean "Your question cannot be answered because it
 depends on incorrect assumptions". Hackers tend to be sensitive to logical
 inadequacies in language, and many have adopted this suggestion with
 enthusiasm. The word `mu' is actually from Chinese, meaning `nothing'; it is
-used in mainstream Japanese in that sense. Native speakers do not recognize
+used in mainstream Japanese in that sense. In Chinese it can also mean "have
+not" (as in "I have not done it"), or "lack of", which may or may not be a
+definite, complete 'nothing'). Native speakers of Japanese do not recognize
 the Discordian question-denying use, which almost certainly derives from
 overgeneralization of the answer in the following well-known Rinzai Zen
 {koan}: A monk asked Joshu, "Does a dog have the Buddha nature?" Joshu

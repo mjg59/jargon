@@ -4,4 +4,5 @@ later distributed with BSD Unix (as a patched, sourceless RT-11 FORTRAN
 binary; see {retrocomputing}) and commercialized as `The Zork Trilogy' by
 {Infocom}. The FORTRAN source was later rewritten for portability and
 released to Usenet under the name "Dungeon". Both FORTRAN "Dungeon" and
-translated C versions are available at many FTP sites. see also {grue}.
+translated C versions are available at many FTP sites; the commercial Zork
+trilogy is available at `http://www.ifarchive.org/'. see also {grue}.

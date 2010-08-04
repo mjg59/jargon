@@ -1,27 +1,261 @@
- :Food: ====== Ethnic. Spicy. Oriental, esp. Chinese and most esp. Szechuan,
-Hunan, and Mandarin (hackers consider Cantonese vaguely de'classe'). Hackers
-prefer the exotic; for example, the Japanese-food fans among them will eat
-with gusto such delicacies as fugu (poisonous pufferfish) and whale. Thai
-food has experienced flurries of popularity. Where available, high-quality
-Jewish delicatessen food is much esteemed. A visible minority of Southwestern
-and Pacific Coast hackers prefers Mexican. For those all-night hacks, pizza
-and microwaved burritos are big. Interestingly, though the mainstream culture
-has tended to think of hackers as incorrigible junk-food junkies, many have
-at least mildly health-foodist attitudes and are fairly discriminating about
-what they eat. This may be generational; anecdotal evidence suggests that the
-stereotype was more on the mark before the early 1980s. :Politics: ==========
-Vaguely liberal-moderate, except for the strong libertarian contingent which
-rejects conventional left-right politics entirely. The only safe
-generalization is that hackers tend to be rather anti-authoritarian; thus,
-both conventional conservatism and `hard' leftism are rare. Hackers are far
-more likely than most non-hackers to either (a) be aggressively apolitical or
-(b) entertain peculiar or idiosyncratic political ideas and actually try to
-live by them day-to-day. :Gender and Ethnicity: ======================
-Hackerdom is still predominantly male. However, the percentage of women is
-clearly higher than the low-single-digit range typical for technical
-professions, and female hackers are generally respected and dealt with as
-equals. In the U.S., hackerdom is predominantly Caucasian with strong
-minorities of Jews (East Coast) and Orientals (West Coast). The Jewish
+ :The Story of Mel: ================== This was posted to Usenet by its
+author, Ed Nather (<<nather@astro.as.utexas.edu>>), on May 21, 1983. A recent
+article devoted to the _macho_ side of programming made the bald and
+unvarnished statement: Real Programmers write in FORTRAN. Maybe they do now,
+in this decadent era of Lite beer, hand calculators, and "user-friendly"
+software but back in the Good Old Days, when the term "software" sounded
+funny and Real Computers were made out of drums and vacuum tubes, Real
+Programmers wrote in machine code. Not FORTRAN. Not RATFOR. Not, even,
+assembly language. Machine Code. Raw, unadorned, inscrutable hexadecimal
+numbers. Directly. Lest a whole new generation of programmers grow up in
+ignorance of this glorious past, I feel duty-bound to describe, as best I can
+through the generation gap, how a Real Programmer wrote code. I'll call him
+Mel, because that was his name. I first met Mel when I went to work for Royal
+McBee Computer Corp., a now-defunct subsidiary of the typewriter company. The
+firm manufactured the LGP-30, a small, cheap (by the standards of the day)
+drum-memory computer, and had just started to manufacture the RPC-4000, a
+much-improved, bigger, better, faster --- drum-memory computer. Cores cost
+too much, and weren't here to stay, anyway. (That's why you haven't heard of
+the company, or the computer.) I had been hired to write a FORTRAN compiler
+for this new marvel and Mel was my guide to its wonders. Mel didn't approve
+of compilers. "If a program can't rewrite its own code", he asked, "what good
+is it?" Mel had written, in hexadecimal, the most popular computer program
+the company owned. It ran on the LGP-30 and played blackjack with potential
+customers at computer shows. Its effect was always dramatic. The LGP-30 booth
+was packed at every show, and the IBM salesmen stood around talking to each
+other. Whether or not this actually sold computers was a question we never
+discussed. Mel's job was to re-write the blackjack program for the RPC-4000.
+(Port? What does that mean?) The new computer had a one-plus-one addressing
+scheme, in which each machine instruction, in addition to the operation code
+and the address of the needed operand, had a second address that indicated
+where, on the revolving drum, the next instruction was located. In modern
+parlance, every single instruction was followed by a GO TO! Put _that_ in
+Pascal's pipe and smoke it. Mel loved the RPC-4000 because he could optimize
+his code: that is, locate instructions on the drum so that just as one
+finished its job, the next would be just arriving at the "read head" and
+available for immediate execution. There was a program to do that job, an
+"optimizing assembler", but Mel refused to use it. "You never know where it's
+going to put things", he explained, "so you'd have to use separate
+constants". It was a long time before I understood that remark. Since Mel
+knew the numerical value of every operation code, and assigned his own drum
+addresses, every instruction he wrote could also be considered a numerical
+constant. He could pick up an earlier "add" instruction, say, and multiply by
+it, if it had the right numeric value. His code was not easy for someone else
+to modify. I compared Mel's hand-optimized programs with the same code
+massaged by the optimizing assembler program, and Mel's always ran faster.
+That was because the "top-down" method of program design hadn't been invented
+yet, and Mel wouldn't have used it anyway. He wrote the innermost parts of
+his program loops first, so they would get first choice of the optimum
+address locations on the drum. The optimizing assembler wasn't smart enough
+to do it that way. Mel never wrote time-delay loops, either, even when the
+balky Flexowriter required a delay between output characters to work right.
+He just located instructions on the drum so each successive one was just
+_past_ the read head when it was needed; the drum had to execute another
+complete revolution to find the next instruction. He coined an unforgettable
+term for this procedure. Although "optimum" is an absolute term, like
+"unique", it became common verbal practice to make it relative: "not quite
+optimum" or "less optimum" or "not very optimum". Mel called the maximum
+time-delay locations the "most pessimum". After he finished the blackjack
+program and got it to run ("Even the initializer is optimized", he said
+proudly), he got a Change Request from the sales department. The program used
+an elegant (optimized) random number generator to shuffle the "cards" and
+deal from the "deck", and some of the salesmen felt it was too fair, since
+sometimes the customers lost. They wanted Mel to modify the program so, at
+the setting of a sense switch on the console, they could change the odds and
+let the customer win. Mel balked. He felt this was patently dishonest, which
+it was, and that it impinged on his personal integrity as a programmer, which
+it did, so he refused to do it. The Head Salesman talked to Mel, as did the
+Big Boss and, at the boss's urging, a few Fellow Programmers. Mel finally
+gave in and wrote the code, but he got the test backwards, and, when the
+sense switch was turned on, the program would cheat, winning every time. Mel
+was delighted with this, claiming his subconscious was uncontrollably
+ethical, and adamantly refused to fix it. After Mel had left the company for
+greener pa$ture$, the Big Boss asked me to look at the code and see if I
+could find the test and reverse it. Somewhat reluctantly, I agreed to look.
+Tracking Mel's code was a real adventure. I have often felt that programming
+is an art form, whose real value can only be appreciated by another versed in
+the same arcane art; there are lovely gems and brilliant coups hidden from
+human view and admiration, sometimes forever, by the very nature of the
+process. You can learn a lot about an individual just by reading through his
+code, even in hexadecimal. Mel was, I think, an unsung genius. Perhaps my
+greatest shock came when I found an innocent loop that had no test in it. No
+test. _None_. Common sense said it had to be a closed loop, where the program
+would circle, forever, endlessly. Program control passed right through it,
+however, and safely out the other side. It took me two weeks to figure it
+out. The RPC-4000 computer had a really modern facility called an index
+register. It allowed the programmer to write a program loop that used an
+indexed instruction inside; each time through, the number in the index
+register was added to the address of that instruction, so it would refer to
+the next datum in a series. He had only to increment the index register each
+time through. Mel never used it. Instead, he would pull the instruction into
+a machine register, add one to its address, and store it back. He would then
+execute the modified instruction right from the register. The loop was
+written so this additional execution time was taken into account --- just as
+this instruction finished, the next one was right under the drum's read head,
+ready to go. But the loop had no test in it. The vital clue came when I
+noticed the index register bit, the bit that lay between the address and the
+operation code in the instruction word, was turned on --- yet Mel never used
+the index register, leaving it zero all the time. When the light went on it
+nearly blinded me. He had located the data he was working on near the top of
+memory --- the largest locations the instructions could address --- so, after
+the last datum was handled, incrementing the instruction address would make
+it overflow. The carry would add one to the operation code, changing it to
+the next one in the instruction set: a jump instruction. Sure enough, the
+next program instruction was in address location zero, and the program went
+happily on its way. I haven't kept in touch with Mel, so I don't know if he
+ever gave in to the flood of change that has washed over programming
+techniques since those long-gone days. I like to think he didn't. In any
+event, I was impressed enough that I quit looking for the offending test,
+telling the Big Boss I couldn't find it. He didn't seem surprised. When I
+left the company, the blackjack program would still cheat if you turned on
+the right sense switch, and I think that's how it should be. I didn't feel
+comfortable hacking up the code of a Real Programmer. This is one of
+hackerdom's great heroic epics, free verse or no. In a few spare images it
+captures more about the esthetics and psychology of hacking than all the
+scholarly volumes on the subject put together. For an opposing point of view,
+see the entry for {Real Programmer}. [1992 postscript -- the author writes:
+"The original submission to the net was not in free verse, nor any
+approximation to it -- it was straight prose style, in non-justified
+paragraphs. In bouncing around the net it apparently got modified into the
+`free verse' form now popular. In other words, it got hacked on the net. That
+seems appropriate, somehow." The author adds that he likes the `free-verse'
+version better than his prose original...] [1999 update: Mel's last name is
+now known. The manual for the LGP-30 refers to "Mel Kaye of Royal McBee who
+did the bulk of the programming [...] of the ACT 1 system".] [2001: The Royal
+McBee LPG-30 turns out to have one other claim to fame. It turns out that
+meteorologist Edward Lorenz was doing weather simulations on an LGP-30 when,
+in 1961, he discovered the "Butterfly Theorem" and computational chaos. This
+seems, somehow, appropriate.] [2002: A copy of the programming manual for the
+LGP-30 lives at `http://ed-thelen.org/comp-hist/lgp-30-man.html'] :A Portrait
+of J. Random Hacker: ******************************** This profile reflects
+detailed comments on an earlier `trial balloon' version from about a hundred
+Usenet respondents. Where comparatives are used, the implicit `other' is a
+randomly selected segment of the non-hacker population of the same size as
+hackerdom. An important point: Except in some relatively minor respects such
+as slang vocabulary, hackers don't get to be the way they are by imitating
+each other. Rather, it seems to be the case that the combination of
+personality traits that makes a hacker so conditions one's outlook on life
+that one tends to end up being like other hackers whether one wants to or not
+(much as bizarrely detailed similarities in behavior and preferences are
+found in genetic twins raised separately). :General Appearance:
+==================== Intelligent. Scruffy. Intense. Abstracted. Surprisingly
+for a sedentary profession, more hackers run to skinny than fat; both
+extremes are more common than elsewhere. Tans are rare. :Dress: =======
+Casual, vaguely post-hippie; T-shirts, jeans, running shoes, Birkenstocks (or
+bare feet). Long hair, beards, and moustaches are common. High incidence of
+tie-dye and intellectual or humorous `slogan' T-shirts. Until the mid-1990s
+such T-shirts were seldom computer-related, as that would have been too
+obvious - but the hacker culture has since developed its own icons, and J.
+Random Hacker now often wears a Linux penguin or BSD daemon or a DeCSS
+protest shirt. A substantial minority prefers `outdoorsy' clothing -- hiking
+boots ("in case a mountain should suddenly spring up in the machine room", as
+one famous parody put it), khakis, lumberjack or chamois shirts, and the
+like. After about 1995 hacker dress styles assimilated some influence from
+punk, gothic, and rave subcultures. This was relatively mild and has
+manifested mostly as a tendency to wear a lot of black, especially when
+`dressed up' to the limit of formality. Other markers of those subcultures
+such as piercings, chains, and dyed hair remain relatively uncommon. Hackers
+appear to wear black more because it goes with everything and hides dirt than
+because they want to look like goths. Very few hackers actually fit the
+"National Lampoon" Nerd stereotype, though it lingers on at MIT and may have
+been more common before 1975. At least since the late Seventies backpacks
+have been more common than briefcases, and the hacker `look' has been more
+whole-earth than whole-polyester. Hackers dress for comfort, function, and
+minimal maintenance hassles rather than for appearance (some, perhaps
+unfortunately, take this to extremes and neglect personal hygiene). They have
+a very low tolerance of suits and other `business' attire; in fact, it is not
+uncommon for hackers to quit a job rather than conform to a dress code. When
+they are somehow backed into conforming to a dress code, they will find ways
+to subvert it, for example by wearing absurd novelty ties. Female hackers
+almost never wear visible makeup, and many use none at all. :Reading Habits:
+================ Omnivorous, but usually includes lots of science and science
+fiction. The typical hacker household might subscribe to "Analog",
+"Scientific American", "Whole-Earth Review", and "Smithsonian" (most hackers
+ignore "Wired" and other self-consciously `cyberpunk' magazines, considering
+them {wannabee} fodder). Hackers often have a reading range that astonishes
+liberal arts people but tend not to talk about it as much. Many hackers spend
+as much of their spare time reading as the average American burns up watching
+TV, and often keep shelves and shelves of well-thumbed books in their homes.
+:Other Interests: ================= Some hobbies are widely shared and
+recognized as going with the culture: science fiction, music, medievalism (in
+the active form practiced by the Society for Creative Anachronism and similar
+organizations), chess, go, backgammon, wargames, and intellectual games of
+all kinds. (Role-playing games such as Dungeons and Dragons used to be
+extremely popular among hackers but they lost a bit of their luster as they
+moved into the mainstream and became heavily commercialized. More recently,
+"Magic: The Gathering" has been widely popular among hackers.) Logic puzzles.
+Ham radio. Other interests that seem to correlate less strongly but
+positively with hackerdom include linguistics and theater teching. :Physical
+Activity and Sports: ============================== Many (perhaps even most)
+hackers don't follow or do sports at all and are determinedly anti-physical.
+Among those who do, interest in spectator sports is low to non-existent;
+sports are something one _does_, not something one watches on TV. Further,
+hackers avoid most team sports like the plague. Volleyball was long a notable
+exception, perhaps because it's non-contact and relatively friendly; Ultimate
+Frisbee has become quite popular for similar reasons. Hacker sports are
+almost always primarily self-competitive ones involving concentration,
+stamina, and micromotor skills: martial arts, bicycling, auto racing, kite
+flying, hiking, rock climbing, aviation, target-shooting, sailing, caving,
+juggling, skiing, skating, skydiving, scuba diving. Hackers' delight in
+techno-toys also tends to draw them towards hobbies with nifty complicated
+equipment that they can tinker with. The popularity of martial arts in the
+hacker culture deserves special mention. Many observers have noted it, and
+the connection has grown noticeably stronger over time. In the 1970s, many
+hackers admired martial arts disciplines from a distance, sensing a
+compatible ideal in their exaltation of skill through rigorous
+self-discipline and concentration. As martial arts became increasingly
+mainstreamed in the U.S. and other western countries, hackers moved from
+admiring to doing in large numbers. In 1997, for example, your humble editor
+recalls sitting down with five strangers at the first Perl conference and
+discovering that four of us were in active training in some sort of martial
+art - and, what is more interesting, nobody at the table found this high
+perecentage at all odd. Today (2000), martial arts seems to have become
+firmly established as the hacker exercise form of choice, and the
+martial-arts culture combining skill-centered elitism with a willingness to
+let anybody join seems a stronger parallel to hacker behavior than ever.
+Common usages in hacker slang un-ironically analogize programming to kung fu
+(thus, one hears talk of "code-fu" or in reference to specific skills like
+"HTML-fu"). Albeit with slightly more irony, today's hackers readily
+analogize assimilation into the hacker culture with the plot of a Jet Li
+movie: the aspiring newbie studies with masters of the tradition, develops
+his art through deep meditation, ventures forth to perform heroic feats of
+hacking, and eventually becomes a master who trains the next generation of
+newbies in the hacker way. :Education: =========== Nearly all hackers past
+their teens are either college-degreed or self-educated to an equivalent
+level. The self-taught hacker is often considered (at least by other hackers)
+to be better-motivated, and may be more respected, than his school-shaped
+counterpart. Academic areas from which people often gravitate into hackerdom
+include (besides the obvious computer science and electrical engineering)
+physics, mathematics, linguistics, and philosophy. :Things Hackers Detest and
+Avoid: ================================= All the works of Microsoft. Smurfs,
+Ewoks, and other forms of offensive cuteness. Bureaucracies. Stupid people.
+Easy listening music. Television (with occasional exceptions for cartoons,
+movies, and good SF like "Star Trek" classic or Babylon 5). Business suits.
+Dishonesty. Incompetence. Boredom. COBOL. BASIC. Character-based menu
+interfaces. :Food: ====== Ethnic. Spicy. Oriental, esp. Chinese and most esp.
+Szechuan, Hunan, and Mandarin (hackers consider Cantonese vaguely
+de'classe'). Hackers prefer the exotic; for example, the Japanese-food fans
+among them will eat with gusto such delicacies as fugu (poisonous pufferfish)
+and whale. Thai food has experienced flurries of popularity. Where available,
+high-quality Jewish delicatessen food is much esteemed. A visible minority of
+Southwestern and Pacific Coast hackers prefers Mexican. For those all-night
+hacks, pizza and microwaved burritos are big. Interestingly, though the
+mainstream culture has tended to think of hackers as incorrigible junk-food
+junkies, many have at least mildly health-foodist attitudes and are fairly
+discriminating about what they eat. This may be generational; anecdotal
+evidence suggests that the stereotype was more on the mark before the early
+1980s. :Politics: ========== Vaguely liberal-moderate, except for the strong
+libertarian contingent which rejects conventional left-right politics
+entirely. The only safe generalization is that hackers tend to be rather
+anti-authoritarian; thus, both conventional conservatism and `hard' leftism
+are rare. Hackers are far more likely than most non-hackers to either (a) be
+aggressively apolitical or (b) entertain peculiar or idiosyncratic political
+ideas and actually try to live by them day-to-day. :Gender and Ethnicity:
+====================== Hackerdom is still predominantly male. However, the
+percentage of women is clearly higher than the low-single-digit range typical
+for technical professions, and female hackers are generally respected and
+dealt with as equals. In the U.S., hackerdom is predominantly Caucasian with
+strong minorities of Jews (East Coast) and Orientals (West Coast). The Jewish
 contingent has exerted a particularly pervasive cultural influence (see
 {Food}, above, and note that several common jargon terms are obviously
 mutated Yiddish). The ethnic distribution of hackers is understood by them to

@@ -3,13 +3,14 @@ backward-compatible, and which is costly to make and costly to reverse. "Can
 we install that without causing a flag day for all users?" This term has
 nothing to do with the use of the word {flag} to mean a variable that has two
 values. It came into use when a massive change was made to the {{CTSS}}
-timesharing system to convert from the short-lived 1965 version of the ASCII
-code to the 1967 version (in draft at the time); this was scheduled for Flag
-Day (a U.S. holiday), June 14, 1966. The actual change moved the code point
-for the ASCII newline character; this required that all of the CTSS source
-code, documentation, and device drivers be changed simultaneously. see also
-{backward combatability}. [Previous versions of this entry described this as
-a change in {Multics}, which was wrong. Evidently this confusion arose from
-the fact that the changes were made partly to facilitate Multics development
---ESR] [As it happens, the first commercial installation of a computer, a
-Univac I, took place on lag Day of 1951 --ESR]
+timesharing system on Flag Day (a U.S. holiday), June 14, 1966. This change
+bundled together at least two different conversions. One was from the
+short-lived 1965 version of the ASCII code to the 1967 version (in draft at
+the time); this the moved code points for braces, vertical bar, and
+circumflex. Another was a rewrite of the CTSS filesystem. see also {backward
+combatability}. [Previous versions of this entry described this as a change
+in {Multics}, which was wrong, and also got the code points changed in the
+character set wrong. Evidently some of this confusion arose from the fact
+that the changes were made partly to facilitate Multics development --ESR]
+[As it happens, the first installation of a commercially-produced computer, a
+Univac I, took place on Flag Day of 1951 --ESR]

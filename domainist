@@ -2,14 +2,13 @@
 "sexist", "racist", etc.] Someone who judges people by the domain of their
 email addresses; esp. someone who dismisses anyone who posts from a public
 internet provider. "What do you expect from an article posted from aol.com?"
-2. Said of an {{Internet address}} (as opposed to a {bang path}) because the
-part to the right of the `@' specifies a nested series of `domains'; for
-example, <esr@snark.thyrsus.com> specifies the machine called snark in the
-subdomain called thyrsus within the top-level domain called com. see also
-{big-endian}, sense 2. The meaning of this term has drifted. At one time
-sense 2 was primary. In elder days it was also used of a site, mailer, or
-routing program which knew how to handle domainist addresses; or of a person
-(esp. a site admin) who preferred domain addressing, supported a domainist
-mailer, or proselytized for domainist addressing and disdained {bang path}s.
-These senses are now (1996) obsolete, as effectively all sites have
-converted.
+2. Said of an Internet address (as opposed to a {bang path}) because the part
+to the right of the `@' specifies a nested series of `domains'; for example,
+<esr@snark.thyrsus.com> specifies the machine called snark in the subdomain
+called thyrsus within the top-level domain called com. see also {big-endian},
+sense 2. The meaning of this term has drifted. At one time sense 2 was
+primary. In elder days it was also used of a site, mailer, or routing program
+which knew how to handle domainist addresses; or of a person (esp. a site
+admin) who preferred domain addressing, supported a domainist mailer, or
+proselytized for domainist addressing and disdained {bang path}s. These
+senses are now (1996) obsolete, as effectively all sites have converted.

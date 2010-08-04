@@ -13,4 +13,4 @@ use. "That's as bad as JCL." As with {COBOL}, JCL is often used as an
 archetype of ugliness even by those who haven't experienced it. see also
 {IBM}, {fear and loathing}. A (poorly documented, naturally) shell simulating
 JCL syntax is available at the Retrocomputing Museum
-`http://www.tuxedo.org/retro'.
+`http://www.tuxedo.org/retro/'.

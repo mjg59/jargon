@@ -4,6 +4,5 @@ handler" routine. see also {trap}. 2. interj. A request for attention from a
 hacker. Often explicitly spoken. "Interrupt -- have you seen Joe recently?"
 see {priority interrupt}. 3. Under MS-DOS, nearly synonymous with `system
 call', because the OS and BIOS routines are both called using the INT
-instruction (see {{interrupt list}}) and because programmers so often have to
-bypass the OS (going directly to a BIOS interrupt) to get reasonable
-performance.
+instruction and because programmers so often had to bypass the OS (going
+directly to a BIOS interrupt) to get reasonable performance.

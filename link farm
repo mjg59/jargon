@@ -6,4 +6,4 @@ example, when the only difference is architecture-dependent object files.
 farms." Link farms may also be used to get around restrictions on the number
 of `-I' (include-file directory) arguments on older C preprocessors. However,
 they can also get completely out of hand, becoming the filesystem equivalent
-of {spaghetti code}.
+of {spaghetti code}. see also {farm}.

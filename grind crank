@@ -11,4 +11,5 @@ single-stepping through a large program was rather tedious, there was also a
 crank with a cam and gear arrangement that repeatedly pushed the single-step
 button. This allowed one to `crank' through a lot of code, then slow down to
 single-step for a bit when you got near the code of interest, poke at some
-registers using the console typewriter, and then keep on cranking.
+registers using the console typewriter, and then keep on cranking. see
+`http://www.cs.rice.edu/History/R1/'.

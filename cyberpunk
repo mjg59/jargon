@@ -97,8 +97,8 @@ of their passionate embrace of (what they consider to be) the {Right Thing},
 hackers can be unfortunately intolerant and bigoted on technical issues, in
 marked contrast to their general spirit of camaraderie and tolerance of
 alternative viewpoints otherwise. Old-time {{ITS}} partisans look down on the
-ever-growing hordes of {{Unix}} hackers; Unix aficionados despise {VMS} and
-{{MS-DOS}}; and hackers who are used to conventional command-line user
+ever-growing hordes of {{Unix}} and {Linux} hackers; Unix aficionados despise
+{VMS} and Windows; and hackers who are used to conventional command-line user
 interfaces loudly loathe mouse-and-menu based systems such as the Macintosh.
 Hackers who don't indulge in {Usenet} consider it a huge waste of time and
 {bandwidth}; fans of old adventure games such as {ADVENT} and {Zork} consider
@@ -150,24 +150,23 @@ drug such `abnormal' people until they are properly docile and stupid and
 `well-socialized'. So hackers tend to believe they have good reason for
 skepticism about clinical explanations of the hacker personality. That being
 said, most would also concede that some hacker traits coincide with
-indicators for ADD and AS - the status of caffeeine as a hacker beverage of
-choice may be connected to the fact that it bonds to the same neural
-receptors as Ritalin, the drug most commonly prescribed for ADD. It is
-probably true that boosters of both would find a rather higher rate of
+indicators for non-hyperactive ADD and AS - the status of caffeeine as a
+hacker beverage of choice may be connected to the fact that it bonds to the
+same neural receptors as Ritalin, the drug most commonly prescribed for ADD.
+It is probably true that boosters of both would find a rather higher rate of
 clinical ADD among hackers than the supposedly mainstream-normal 3-5% (AS is
-rarer and there are not yet good estimates of incidence as of 2000).
-:Miscellaneous: =============== Hackers are more likely to have cats than
-dogs (in fact, it is widely grokked that cats have the hacker nature). Many
-drive incredibly decrepit heaps and forget to wash them; richer ones drive
-spiffy Porsches and RX-7s and then forget to have them washed. Almost all
-hackers have terribly bad handwriting, and often fall into the habit of
-block-printing everything like junior draftsmen. :Helping Hacker Culture
-Grow: ***************************** If you enjoyed the Jargon File, please
-help the culture that created it grow and flourish. Here are several ways you
-can help: * If you are a writer or journalist, don't say or write {hacker}
-when you mean {cracker}. If you work with writers or journalists, educate
-them on this issue and push them to do the right thing. If you catch a
-newspaper or magazine abusing the work `hacker', write them and straighten
+rarer at 0.4-0.5%). :Miscellaneous: =============== Hackers are more likely
+to have cats than dogs (in fact, it is widely grokked that cats have the
+hacker nature). Many drive incredibly decrepit heaps and forget to wash them;
+richer ones drive spiffy Porsches and RX-7s and then forget to have them
+washed. Almost all hackers have terribly bad handwriting, and often fall into
+the habit of block-printing everything like junior draftsmen. :Helping Hacker
+Culture Grow: ***************************** If you enjoyed the Jargon File,
+please help the culture that created it grow and flourish. Here are several
+ways you can help: * If you are a writer or journalist, don't say or write
+{hacker} when you mean {cracker}. If you work with writers or journalists,
+educate them on this issue and push them to do the right thing. If you catch
+a newspaper or magazine abusing the work `hacker', write them and straighten
 them out (this appendix includes a model letter). * If you're a techie or
 computer hobbyist, get involved with one of the free Unixes. Toss out that
 lame Microsoft OS, or confine it to one disk partition and put Linux or
@@ -185,12 +184,12 @@ tomorrow's needs. You can reach the League for Programming Freedom at
 lpf@uunet.uu.net. by phone at +1 617 621 7084, or by snail-mail at 1 Kendall
 Square #143, P.O.Box 9171, Cambridge, Massachusetts 02139 USA. * Join the
 continuing fight against Internet censorship, visit the Center for Democracy
-and Technology Home Page at `http://www.cdt.org'. * If you do nothing else,
+and Technology Home Page at `http://www.cdt.org/'. * If you do nothing else,
 please help fight government attempts to seize political control of Internet
 content and restrict strong cryptography. The so-called `Communications
 Decency Act' was declared unconstitutional by the Supreme Court, but U.S.
 cryptography policy still infringes our First Amendment rights. Surf to the
-Center for Democracy and technology's home page at `http://www.cdt.org' to
+Center for Democracy and technology's home page at `http://www.cdt.org/' to
 see what you can do to help fight censorship of the net. Here's the text of a
 letter RMS wrote to the Wall Street Journal to complain about their policy of
 using "hacker" only in a pejorative sense. We hear that most major newspapers
@@ -272,7 +271,7 @@ illuminating the psychology and evolution of hackerdom. Unfortunately, a
 number of small errors and awkwardnesses suggest that she didn't have the
 final manuscript checked over by a native speaker; the glossary in the back
 is particularly embarrassing, and at least one classic tale (the Magic Switch
-story, retold here under {A Story About Magic} in Appendix A is given in
+story, retold here under {A Story About Magic} in Appendix A) is given in
 incomplete and badly mangled form. Nevertheless, this book is a win overall
 and can be enjoyed by hacker and non-hacker alike. :The Soul of a New
 Machine: Tracy Kidder Little, Brown, 1981 (paperback: Avon, 1982 ISBN

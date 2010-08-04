@@ -8,5 +8,5 @@ alleged that the emergency pull switch on an IBM 360/91 actually fired a
 non-conducting bolt into the main power feed; the BRSes on more recent
 mainframes physically drop a block into place so that they can't be pushed
 back in. People get fired for pulling them, especially inappropriately (see
-also {molly-guard}). Compare {power cycle}, {three-finger salute}, {120
-reset}; see also {scram switch}.
+also {molly-guard}). Compare {power cycle}, {three-finger salute}; see also
+{scram switch}.

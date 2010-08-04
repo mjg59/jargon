@@ -7,6 +7,6 @@ RFC1639, "FOOBAR" was made an abbreviation for "FTP Operation Over Big
 Address Records", but this was an obvious {backronym}. It has been plausibly
 suggested that "foobar" spread among early computer engineers partly because
 of FUBAR and partly because "foo bar" parses in electronics techspeak as an
-inverted foo signal; if a digital signal is coded so that a positive voltage
-or high current condition represents a "1", then a horizontal bar is commonly
+inverted foo signal; if a digital signal is active low (so a negative or
+zero-voltage condition represents a "1") then a horizontal bar is commonly
 placed over the signal label.

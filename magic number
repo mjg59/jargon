@@ -17,10 +17,14 @@ somewhere; some magic numbers are, in fact, strings, like the `!<arch>' at
 the beginning of a Unix archive file or the `%!' leading PostScript files.
 Nowadays only a {wizard} knows the spells to create magic numbers. How do you
 choose a fresh magic number of your own? Simple -- you pick one at random.
-see? It's magic! _The_ magic number, on the other hand, is 7+/-2. see "The
-magical number seven, plus or minus two: some limits on our capacity for
-processing information" by George Miller, in the "Psychological Review"
-63:81-97 (1956). This classic paper established the number of distinct items
-(such as numeric digits) that humans can hold in short-term memory. Among
-other things, this strongly influenced the interface design of the phone
-system.
+see? It's magic! 4. An input that leads to a computational boundary
+condition, where algorithm behavior becomes discontinuous. Numeric overflows
+(particularly with signed data types) and run-time errors (divide by zero,
+stack overflows) are indications of magic numbers. The Y2K scare was probably
+the most notorious magic number non-incident. _The_ magic number, on the
+other hand, is 7+/-2. see "The magical number seven, plus or minus two: some
+limits on our capacity for processing information" by George Miller, in the
+"Psychological Review" 63:81-97 (1956). This classic paper established the
+number of distinct items (such as numeric digits) that humans can hold in
+short-term memory. Among other things, this strongly influenced the interface
+design of the phone system.

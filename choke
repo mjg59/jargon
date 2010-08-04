@@ -1,6 +1,3 @@
- :choke: v. 1. [common] To reject input, often ungracefully. "NULs make
-System V's `lpr(1)' choke." "I tried building an {EMACS} binary to use {X},
-but `cpp(1)' choked on all those `#define's." see {barf}, {gag}, {vi}. 2.
-[MIT] More generally, to fail at any endeavor, but with some flair or
-bravado; the popular definition is "to snatch defeat from the jaws of
-victory."
+ :choke: v. [common] To reject input, often ungracefully. "NULs make System
+V's `lpr(1)' choke." "I tried building an {EMACS} binary to use {X}, but
+`cpp(1)' choked on all those `#define's." see {barf}, {gag}, {vi}.

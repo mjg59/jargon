@@ -30,7 +30,7 @@ not from Greek but from Danish) have not yet acquired jargon loadings, though
 it is easy to predict what those will be once computing technology enters the
 required realms of magnitude (however, see {attoparsec}). There are, of
 course, some standard unit prefixes for powers of 10. In the following table,
-the `prefix' column is the international standard suffix for the appropriate
+the `prefix' column is the international standard prefix for the appropriate
 power of ten; the `binary' column lists jargon abbreviations and words for
 the corresponding power of 2. The B-suffixed forms are commonly used for byte
 quantities; the words `meg' and `gig' are nouns that may (but do not always)
@@ -57,8 +57,4 @@ Burke has proposed, to general approval on Usenet, the following additional
 prefixes: groucho 10^(-30) harpo 10^(-27) harpi 10^(27) grouchi 10^(30) We
 observe that this would leave the prefixes zeppo-, gummo-, and chico-
 available for future expansion. Sadly, there is little immediate prospect
-that Mr. Burke's eminently sensible proposal will be ratified.] [1999 upate:
-there is an IEC proposal
-(ftp://ftp.informatik.uni-erlangen.de/pub/doc/ISO/information-units) for
-binary multipliers, but no evidence that any of its proposals are in live
-use.]
+that Mr. Burke's eminently sensible proposal will be ratified.]

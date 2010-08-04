@@ -1,4 +1,4 @@
  :userland: n. Anywhere outside the kernel. "That code belongs in userland."
-This term has been in common use among {Linux} kernel hackers since at least
-1997, and may have have originated in that community (a sighting has been
-reported from the 1995 archives of a NetBSD mailing list, however).
+This term has been in common use among Unix kernel hackers since at least
+1985, and may have have originated in that community.The earliest sighting
+was reported from the usenet group net.unix-wizards.

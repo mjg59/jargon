@@ -8,4 +8,4 @@ with `malloc(3)'; this typically trashes the allocation header for the next
 block in the {arena}, producing massive lossage within malloc and often a
 core dump on the next operation to use `stdio(3)' or `malloc(3)' itself. see
 {spam}, {overrun}; see also {memory leak}, {memory smash}, {aliasing bug},
-{precedence lossage}, {fandango on core}, {secondary damage}. = P = =====
+{precedence lossage}, {fandango on core}, {secondary damage}.

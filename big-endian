@@ -6,13 +6,13 @@ lowest address (the word is stored `big-end-first'). Most processors,
 including the IBM 370 family, the {PDP-10}, the Motorola microprocessor
 families, and most of the various RISC designs are big-endian. Big-endian
 byte order is also sometimes called `network order'. see {little-endian},
-{middle-endian}, {NUXI problem}, {swab}. 2. An {{Internet address}} the wrong
-way round. Most of the world follows the Internet standard and writes email
+{middle-endian}, {NUXI problem}, {swab}. 2. An Internet address the wrong way
+round. Most of the world follows the Internet standard and writes email
 addresses starting with the name of the computer and ending up with the name
-of the country. In the U.K. the Joint Networking Team had decided to do it
-the other way round before the Internet domain standard was established. Most
-gateway sites have {ad-hockery} in their mailers to handle this, but can
-still be confused. In particular, the address me@uk.ac.bris.pys.as could be
-interpreted in JANET's big-endian way as one in the U.K. (domain uk) or in
-the standard little-endian way as one in the domain as (American Samoa) on
-the opposite side of the world.
+of the country. In the U.K. the Joint Academic Networking Team had decided to
+do it the other way round before the Internet domain standard was
+established. Most gateway sites have {ad-hockery} in their mailers to handle
+this, but can still be confused. In particular, the address
+me@uk.ac.bris.pys.as could be interpreted in JANET's big-endian way as one in
+the U.K. (domain uk) or in the standard little-endian way as one in the
+domain as (American Samoa) on the opposite side of the world.

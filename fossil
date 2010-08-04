@@ -10,10 +10,10 @@ backward-compatibility goal, this functionality has actually been expanded
 and renamed in some later USG Unix releases as the IUCLC and OLCUC bits.) 3.
 The FOSSIL (Fido/Opus/Seadog Standard Interface Level) driver specification
 for serial-port access to replace the {brain-dead} routines in the IBM PC
-ROMs. Fossils are used by most MS-DOS {BBS} software in preference to the
+ROMs. Fossils were used by most MS-DOS {BBS} software in preference to the
 `supported' ROM routines, which do not support interrupt-driven operation or
 setting speeds above 9600; the use of a semistandard FOSSIL library is
 preferable to the {bare metal} serial port programming otherwise required.
-Since the FOSSIL specification allows additional functionality to be hooked
+Since the FOSSIL specification allowed additional functionality to be hooked
 in, drivers that use the {hook} but do not provide serial-port access
 themselves are named with a modifier, as in `video fossil'.

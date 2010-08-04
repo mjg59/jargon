@@ -8,6 +8,6 @@ when a new distribution of Linux or some other distribution is created,
 because that largely assembles pieces than can and will be used in other
 distributions without conflict. Forking is uncommon; in fact, it is so
 uncommon that individual instances loom large in hacker folklore. Notable in
-this class were the http://www.xemacs.org/About/XEmacsVsGNUemacs.html
-(Emacs/XEmacs fork), the GCC/EGCS fork (later healed by a merger) and the
-forks among the FreeBSD, NetBSD, and OpenBSD operating systems.
+this class were the Emacs/XEmacs fork, the GCC/EGCS fork (later healed by a
+merger) and the forks among the FreeBSD, NetBSD, and OpenBSD operating
+systems.

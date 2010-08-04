@@ -5,5 +5,5 @@ process `explodes' by recursively spawning copies of itself (using the Unix
 system call `fork(2)'). Eventually it eats all the process table entries and
 effectively wedges the system. Fortunately, fork bombs are relatively easy to
 spot and kill, so creating one deliberately seldom accomplishes more than to
-bring the just wrath of the gods down upon the perpetrator. see also {logic
-bomb}.
+bring the just wrath of the gods down upon the perpetrator. Also called a
+`fork bunny'. see also {logic bomb}.

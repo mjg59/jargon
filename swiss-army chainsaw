@@ -1,6 +1,6 @@
  :Swiss-Army chainsaw: In early Unix days, a well-known technical paper
-analogized the lexical analyzer lex(1) to a Swiss-army knife; this was a
-comment on the remarkable variety of more general uses discovered for a
+analogized the lexical analyzer generator lex(1) to a Swiss-army knife; this
+was a comment on the remarkable variety of more general uses discovered for a
 program originally designed as a special-purpose code generator for writing
 compilers. Two decades later, well-known hacker Henry Spencer described the
 {Perl} scripting language as a "Swiss-Army chainsaw", intending to convey his

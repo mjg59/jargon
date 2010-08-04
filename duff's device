@@ -1,5 +1,5 @@
  :Duff's device: n. The most dramatic use yet seen of {fall through} in C,
-invented by Tom Duff when he was at Lucasfilm. Trying to {bum} all the
+invented by Tom Duff when he was at Lucasfilm. Trying to optimize all the
 instructions he could out of an inner loop that copied data serially onto an
 output port, he decided to unroll it. He then realized that the unrolled
 version could be implemented by _interlacing_ the structures of a switch and

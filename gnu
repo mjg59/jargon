@@ -10,6 +10,6 @@ any right of designers to own, assign, and sell the results of their labors),
 many hackers who disagree with RMS have nevertheless cooperated to produce
 large amounts of high-quality software for free redistribution under the Free
 Software Foundation's imprimatur. The GNU project has a web page at
-`http://www.gnu.org'. see {EMACS}, {copyleft}, {General Public Virus},
+`http://www.gnu.org/'. see {EMACS}, {copyleft}, {General Public Virus},
 {Linux}. 2. Noted Unix hacker John Gilmore <<gnu@toad.com>>, founder of
 Usenet's anarchic alt.* hierarchy.
