@@ -74,18 +74,18 @@ working, leaving fewer cycles to go around. Example: "The {high moby} is
 will be a cycle drought until it's fixed." cycle server: n. A powerful
 machine that exists primarily for running large batch jobs. Implies that
 interactive tasks such as editing are done on other machines on the network,
-such as workstations. D - daemon: /day'm@n/ or /dee'm@n/ [Disk And Execution
-MONitor] n. A program which is not invoked explicitly, but which lies dormant
-waiting for some condition(s) to occur. The idea is that the perpetrator of
-the condition need not be aware that a daemon is lurking (though often a
-program will commit an action only because it knows that it will implicitly
-invoke a daemon). For example, under {ITS} writing a file on the {LPT}
-spooler's directory would invoke the spooling daemon, which prints the file.
-The advantage is that programs which want (in this example) files printed
-need not compete for access to the {LPT}. They simply enter their implicit
-requests and let the daemon decide what to do with them. Daemons are usually
-spawned automatically by the system, and may either live forever or be
-regenerated at intervals. Usage: {daemon} and {demon} are often used
+such as workstations. = D = ===== daemon: /day'm@n/ or /dee'm@n/ [Disk And
+Execution MONitor] n. A program which is not invoked explicitly, but which
+lies dormant waiting for some condition(s) to occur. The idea is that the
+perpetrator of the condition need not be aware that a daemon is lurking
+(though often a program will commit an action only because it knows that it
+will implicitly invoke a daemon). For example, under {ITS} writing a file on
+the {LPT} spooler's directory would invoke the spooling daemon, which prints
+the file. The advantage is that programs which want (in this example) files
+printed need not compete for access to the {LPT}. They simply enter their
+implicit requests and let the daemon decide what to do with them. Daemons are
+usually spawned automatically by the system, and may either live forever or
+be regenerated at intervals. Usage: {daemon} and {demon} are often used
 interchangeably, but seem to have distinct connotations. The term {daemon}
 was introduced to computing by {CTSS} people (who pronounced it dee'mon) and
 used it to refer to what ITS called a {dragon}. While the meaning and

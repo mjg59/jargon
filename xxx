@@ -14,4 +14,4 @@ has actually been implemented as an undocumented no-op command on several
 OSs; in Data General's AOS/VS, for example, it would typically respond
 "Nothing happens", just as {ADVENT} did if the magic was invoked at the wrong
 spot or before a player had performed the action that enabled the word. see
-also {plugh}. Y -
+also {plugh}. = Y = =====

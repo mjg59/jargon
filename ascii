@@ -80,17 +80,17 @@ Kernighan (the name is from their initials). It is characterized by: C-like
 syntax, a BASIC-like approach to variable typing and declarations,
 associative arrays, and field-oriented text processing. see also {Perl}. 2.
 Editing term for an expression awkward to manipulate through normal regular
-expression facilities. 3. vt. To process data using `awk(1)'. B - back door:
-n. A hole in the security of a system deliberately left in place by designers
-or maintainers. The motivation for this is not always sinister; some
-operating systems, for example, come out of the box with privileged accounts
-intended for use by field service or the vendor's maintenance programmers.
-Historically, back doors have often lurked in systems longer than anyone
-expected or planned, and a few have become widely known. The infamous RTM
-worm of late 1988, for example, used a back door in the {BSD} UNIX
-`sendmail(1)' utility. Ken Thompson's 1983 Turing Award lecture to the ACM
-revealed the existence of a back door in early UNIX versions that may have
-qualified as the most fiendishly clever security hack of all time. The
+expression facilities. 3. vt. To process data using `awk(1)'. = B = =====
+back door: n. A hole in the security of a system deliberately left in place
+by designers or maintainers. The motivation for this is not always sinister;
+some operating systems, for example, come out of the box with privileged
+accounts intended for use by field service or the vendor's maintenance
+programmers. Historically, back doors have often lurked in systems longer
+than anyone expected or planned, and a few have become widely known. The
+infamous RTM worm of late 1988, for example, used a back door in the {BSD}
+UNIX `sendmail(1)' utility. Ken Thompson's 1983 Turing Award lecture to the
+ACM revealed the existence of a back door in early UNIX versions that may
+have qualified as the most fiendishly clever security hack of all time. The
 binaries of the C compiler had code in them which would automatically patch
 itself into the output executable whenever the compiler itself was being
 recompiled, and also patch the `login' command, when *it* was being

@@ -4,17 +4,22 @@ Frequently Asked Questions. This lexicon itself serves as a good example of a
 collection of one kind of lore, although it is far too big for a regular
 posting. Several extant FAQ lists do (or should) make reference to the Jargon
 File (the on-line version of this lexicon). "How do you pronounce `char'?"
-and "What's that funny name for the `#' character?" are, for example, both
+and "What's that funny name for the `#' character?" for example, are both
 Frequently Asked Questions. farming: [Adelaide University, Australia] n. What
 the heads of a Winchester are said to do when they plow little furrows in the
 magnetic media. Associated with a {crash}. Typically used as follows: "Oh no,
 the machine has just crashed; I hope the hard drive hasn't gone {farming}
-again." fascist: adj. Said of a computer system with excessive or annoying
+again." fascist: adj. 1. Said of a computer system with excessive or annoying
 security barriers, usage limits, or access policies. The implication is that
 said policies are preventing hackers from getting interesting work done. The
 variant `fascistic' seems to have been preferred at MIT, poss. by analogy
-with `touristic' (see {tourist}). FAtt: [FidoNet] written-only abbreviation
-for {File Attach}. faulty: adj. Non-functional; buggy. Same denotation as
+with `touristic' (see {tourist}). 2. In the design of languages and other
+software tools, `the fascist alternative' is the most restrictive and
+structured way of capturing a particular function; the implication is that
+this may be desirable in order to simplify the implementation or provide
+tighter error checking. Compare {bondage-and-discipline language}; but that
+term is global than local. FAtt: [FidoNet] written-only abbreviation for
+{File Attach}. faulty: adj. Non-functional; buggy. Same denotation as
 {bletcherous}, {losing}, q.v., but the connotation is much milder. fd leak:
 /ef dee leek/ n. A kind of programming bug analogous to a {core leak}, in
 which a program fails to close file descriptors (`fd's) after file operations
@@ -32,85 +37,86 @@ because it works better that way --- such an inconsistency is therefore a
 {feature} and not a {bug}. This kind of feature is sometimes called a
 {miswart}; see that entry for a classic example. 4. A property or behavior
 that is gratuitous or unnecessary, though perhaps also impressive or cute.
-For example, one feature of the MACLISP language is the ability to print
-numbers as Roman numerals. see {bells and whistles}. 5. A property or
-behavior that was put in to help someone else but that happens to be in your
-way. 6. A {bug} that has been documented. To call something a feature
-sometimes means the author of the program did not consider the particular
-case, and the program responded in a way that was unexpected, but not
-strictly incorrect. A standard joke is that a {bug} can be turned into a
-{feature} simply by documenting it (then theoretically no one can complain
-about it because it's in the manual), or even by simply declaring it to be
-good. "That's not a bug, that's a feature!" see also {feetch feetch},
-{creeping featurism}, {wart}. The relationship between bugs, features,
-misfeatures, warts, and miswarts might be clarified by the following exchange
-between two hackers on an airplane: A: "This seat doesn't recline." B:
-"That's not a bug, that's a feature. There is an emergency exit door built
-around the window behind you, and the route has to be kept clear." A: "Oh.
-Then it's a misfeature; they should have increased the spacing between rows
-here." B: "Yes. But if they'd only increased spacing in one section it would
-have been a wart --- they would've had to make nonstandard-length ceiling
-panels to fit over the displaced seats." A: "A miswart, actually. If they
-widened all the seats they'd lose several rows and a chunk out of the profit
-margin. So unequal spacing would actually be the Right Thing." B: "Indeed."
-Finally, note that {undocumented feature} is a common, humorous euphemism for
-a {bug}. feature creature: n. One who loves to add features to designs or
-programs, perhaps at the expense of coherence, concision, or {taste}. see
-also {creeping featurism}. feature shock: [from Alvin Toffler's title `Future
-Shock'] n. A user's (or programmer's!) confusion when confronted with a
-package that has too many features and poor introductory material.
-featurectomy: /fee`ch@r-ek'to-mee/ n. The act of removing a feature from a
-program. Featurectomies generally come in two varieties, the `righteous' and
-the `reluctant'. Righteous featurectomies are performed because the remover
-believes the program would be more elegant without the feature, or there is
-already an equivalent and `better' way to achieve the same end. (This is not
-quite the same thing as removing a {misfeature}.) Reluctant featurectomies
-are performed to satisfy some external constraint such as code size or
-execution speed. feep: /feep/ 1. n. The soft electronic `bell' of a display
-terminal (except for a VT-52!); a beep (in fact, the microcomputer world
-seems to prefer {beep}). 2. vi. To cause the display to make a feep sound.
-ASR 33s (the original TTYs) do not have feeps; they have mechanical bells
-that ring. Alternate forms: {beep}, `bleep', or just about anything suitably
-onomatopoeic. (Jeff MacNelly, in his comic strip `Shoe', uses the word `eep'
-for sounds made by computer terminals and video games; this is perhaps the
-closest written approximation yet.) The term `breedle' was sometimes heard at
-SAIL, where the terminal bleepers are not particularly `soft' (they sound
-more like the musical equivalent of a raspberry or Bronx cheer; for a close
-approximation, imagine the sound of a Star Trek communicator's beep lasting
-for five seconds.). The `feeper' on a VT-52 has been compared to the sound of
-a `52 Chevy stripping its gears. see also {ding}. feeper: /fee'pr/ n. The
-device in a terminal or workstation (usually a loudspeaker of some kind) that
-makes the {feep} sound. feeping creature: [from {feeping creaturism}] n. An
-unnecessary feature; a bit of {chrome} which, in the speaker's judgement, is
-the camel's nose for a whole horde of new features. feeping creaturism:
-/fee'ping kree`ch@r-izm/ n. Deliberate Spoonerism for {creeping featurism},
-meant to imply that the system or program in question has become a misshapen
-creature of hacks. This term isn't really well-defined, but it sounds so neat
-that most hackers have said or heard it. It is probably reinforced by an
-image of terminals prowling about in the dark making their customary noises.
-feetch feetch: interj. If someone tells you about some new improvement to a
-program, you might respond, "Feetch, feetch!" The meaning of this depends
-critically on vocal inflection. With enthusiasm, it means something like,
-"Boy, that's great! What a great hack!" Grudgingly or with obvious doubt, it
-means "I don't know; it sounds like just one more unnecessary and complicated
-thing." With a tone of resignation, it means, "Well, I'd rather keep it
-simple, but I suppose it has to be done." fence: n. One or more `out-of-band'
+For example, one feature of Common LISP's Format function is the ability to
+print numbers in two different Roman-numeral formats (see {bells, whistles,
+and gongs}). 5. A property or behavior that was put in to help someone else
+but that happens to be in your way. 6. A {bug} that has been documented. To
+call something a feature sometimes means the author of the program did not
+consider the particular case, and the program responded in a way that was
+unexpected, but not strictly incorrect. A standard joke is that a {bug} can
+be turned into a {feature} simply by documenting it (then theoretically no
+one can complain about it because it's in the manual), or even by simply
+declaring it to be good. "That's not a bug, that's a feature!" see also
+{feetch feetch}, {creeping featurism}, {wart}. The relationship between bugs,
+features, misfeatures, warts, and miswarts might be clarified by the
+following exchange between two hackers on an airplane: A: "This seat doesn't
+recline." B: "That's not a bug, that's a feature. There is an emergency exit
+door built around the window behind you, and the route has to be kept clear."
+A: "Oh. Then it's a misfeature; they should have increased the spacing
+between rows here." B: "Yes. But if they'd only increased spacing in one
+section it would have been a wart --- they would've had to make
+nonstandard-length ceiling panels to fit over the displaced seats." A: "A
+miswart, actually. If they widened all the seats they'd lose several rows and
+a chunk out of the profit margin. So unequal spacing would actually be the
+Right Thing." B: "Indeed." Finally, note that {undocumented feature} is a
+common, humorous euphemism for a {bug}. feature creature: n. One who loves to
+add features to designs or programs, perhaps at the expense of coherence,
+concision, or {taste}. see also {creeping featurism}. feature shock: [from
+Alvin Toffler's title `Future Shock'] n. A user's (or programmer's!)
+confusion when confronted with a package that has too many features and poor
+introductory material. featurectomy: /fee`ch@r-ek'to-mee/ n. The act of
+removing a feature from a program. Featurectomies generally come in two
+varieties, the `righteous' and the `reluctant'. Righteous featurectomies are
+performed because the remover believes the program would be more elegant
+without the feature, or there is already an equivalent and `better' way to
+achieve the same end. (This is not quite the same thing as removing a
+{misfeature}.) Reluctant featurectomies are performed to satisfy some
+external constraint such as code size or execution speed. feep: /feep/ 1. n.
+The soft electronic `bell' of a display terminal (except for a VT-52!); a
+beep (in fact, the microcomputer world seems to prefer {beep}). 2. vi. To
+cause the display to make a feep sound. ASR 33s (the original TTYs) do not
+have feeps; they have mechanical bells that ring. Alternate forms: {beep},
+`bleep', or just about anything suitably onomatopoeic. (Jeff MacNelly, in his
+comic strip `Shoe', uses the word `eep' for sounds made by computer terminals
+and video games; this is perhaps the closest written approximation yet.) The
+term `breedle' was sometimes heard at SAIL, where the terminal bleepers are
+not particularly `soft' (they sound more like the musical equivalent of a
+raspberry or Bronx cheer; for a close approximation, imagine the sound of a
+Star Trek communicator's beep lasting for five seconds.). The `feeper' on a
+VT-52 has been compared to the sound of a '52 Chevy stripping its gears. see
+also {ding}. feeper: /fee'pr/ n. The device in a terminal or workstation
+(usually a loudspeaker of some kind) that makes the {feep} sound. feeping
+creature: [from {feeping creaturism}] n. An unnecessary feature; a bit of
+{chrome} which, in the speaker's judgement, is the camel's nose for a whole
+horde of new features. feeping creaturism: /fee'ping kree`ch@r-izm/ n.
+Deliberate Spoonerism for {creeping featurism}, meant to imply that the
+system or program in question has become a misshapen creature of hacks. This
+term isn't really well-defined, but it sounds so neat that most hackers have
+said or heard it. It is probably reinforced by an image of terminals prowling
+about in the dark making their customary noises. feetch feetch: interj. If
+someone tells you about some new improvement to a program, you might respond,
+"Feetch, feetch!". The meaning of this depends critically on vocal
+inflection. With enthusiasm, it means something like, "Boy, that's great!
+What a great hack!" Grudgingly or with obvious doubt, it means "I don't know;
+it sounds like just one more unnecessary and complicated thing.". With a tone
+of resignation, it means, "Well, I'd rather keep it simple, but I suppose it
+has to be done.". fence: n. One or more distinguished ({out-of-band})
 characters used to delimit a piece of data intended to be treated as a unit.
 The NUL character that terminates strings in C is a fence. Hex FF is probably
 the most common fence character after NUL. see {zigamorph}. fencepost error:
 n. 1. The discrete equivalent of a boundary condition. Often exhibited in
 programs by iterative loops. From the following problem: "If you build a
 fence 100 feet long with posts ten feet apart, how many posts do you need?"
-(Either 9 or 11 is a better answer than the obvious 10.) For example, suppose
+Either 9 or 11 is a better answer than the obvious 10. For example, suppose
 you have a long list or array of items, and want to process items m through
 n; how many items are there? The obvious answer is `n - m', but that is off
 by one; the right answer is `n - m + 1'. A program that used the `obvious'
 formula would have a fencepost error in it. see also {off-by-one error}, and
 note that not all off-by-one errors are fencepost errors. The game of Musical
-Chairs involves an off-by-one problem where N people try to sit in N - 1
-chairs, but it's not a fencepost error. Fencepost errors come from counting
-things rather than the spaces between them, or vice versa, or by neglecting
-to consider whether one should count one or both ends of a row. 2.
+Chairs involves a catastrophic off-by-one error where N people try to sit in
+N - 1 chairs, but it's not a fencepost error. Fencepost errors come from
+counting things rather than the spaces between them, or vice versa, or by
+neglecting to consider whether one should count one or both ends of a row. 2.
 Occasionally, an error induced by unexpectedly regular spacing of inputs,
 which can (for instance) screw up your hash table. fepped out: adj. The
 Symbolics 3600 Lisp Machine has a front-end processor called a `FEP' (compare
@@ -119,9 +125,9 @@ control of the keyboard and screen. Such a machine is said to have `fepped
 out'. FidoNet: n. A world-wide hobbyist network of personal computers which
 exchange mail, discussion groups, and files. Founded in 1984 and originally
 consisting only of IBM PCs and compatibles, FidoNet now includes such diverse
-machines as Apple ][s, Ataris, Amigas, and UNIX systems. FidoNet is a
-sizeable fraction of {USENET}'s size at some 8000 systems (late mid-1991),
-although it is much younger than USENET. field circus: [a derogatory pun on
+machines as Apple ][s, Ataris, Amigas, and UNIX systems. Though it is much
+younger than USENET, FidoNet is already sizeable fraction of {USENET}'s size
+at some 8000 systems (late mid-1991). field circus: [a derogatory pun on
 `field service'] n. The field service organization of any hardware
 manufacturer, but especially DEC. There is an entire genre of jokes about DEC
 field circus engineers: Q: How can you recognize a DEC field circus engineer
@@ -149,20 +155,20 @@ and often containing technical humor of quite sophisticated nature. see
 Used in conversation to announce ordinary events, with a sarcastic
 implication that these events are earth-shattering. "{ITS} crashes; film at
 11." "Bug found in scheduler; film at 11." filter: [orig. {UNIX}, now also in
-{MS-DOS}] n. A program which processes an input text stream into an output
-text stream in some well-defined way, and does no I/O to anywhere else except
+{MS-DOS}] n. A program which processes an input data stream into an output
+data stream in some well-defined way, and does no I/O to anywhere else except
 possibly on error conditions; one designed to be used as a stage in a
 {pipeline}. fine: [WPI] adj. Good, but not good enough to be {cuspy}. The
 word `fine' is used elsewhere, of course, but without the implicit comparison
 to the higher level implied by {cuspy}. finger: [SAIL's mutant TOPS-10, via
 BSD UNIX] 1. n. A program that displays a particular user or all users logged
 on the system or a remote system. Typically shows full name, last login time,
-idle time, terminal line, and terminal location. May also display a {plan
-file} left by the user. 2. vt. To apply finger to a username. 3. vt. By
-extension, to check a human's current state by any means. "Foodp?" "T!" "OK,
-finger Lisa and see if she's idle". 4. Any picture (composed of ASCII
-characters) depicting `the finger'. Originally a humorous component of one's
-plan file to deter the curious fingerer (sense #2), it has entered the
+idle time, terminal line, and terminal location (where applicable). May also
+display a {plan file} left by the user. 2. vt. To apply finger to a username.
+3. vt. By extension, to check a human's current state by any means. "Foodp?"
+"T!" "OK, finger Lisa and see if she's idle.". 4. Any picture (composed of
+ASCII characters) depicting `the finger'. Originally a humorous component of
+one's plan file to deter the curious fingerer (sense #2), it has entered the
 arsenal of some {flamer}s. finger-pointing syndrome: n. All-too-frequent
 result of bugs, esp. in new or experimental configurations. The hardware
 vendor points a finger at the software. The software vendor points a finger
@@ -176,9 +182,8 @@ act of throwing lots of manpower and late nights at a project, esp. to get it
 out before deadline. see also {gang bang}, {Mongolian Hordes technique};
 however, firefighting connotes that the effort is going into chasing bugs
 rather than adding features. firewall machine: n. A dedicated gateway machine
-with special security precautions on it, used to service outside
-network/mail/news connections and/or accept remote logins for (read-only)
-shared-file-system access via FTP. The idea is to protect a cluster of more
+with special security precautions on it, used to service outside network
+connections and dial-in lines. The idea is to protect a cluster of more
 loosely administered machines `hidden' behind it from {cracker}s. The typical
 firewall is an inexpensive micro-based UNIX box kept clean of critical data,
 with a bunch of modems and public network ports on it but just one carefully
@@ -211,32 +216,32 @@ timesharing system to convert from the old ASCII code to the new one; this
 was scheduled for Flag Day (a U.S. holiday), June 14, 1966. flaky: adj. (var
 sp. `flakey') Subject to frequent lossages. see {lossage}. This use is of
 course related to the common slang use of the word, to describe a person as
-eccentric or crazy. A system that is flaky is working, sort of, enough that
-you are tempted to try to use it, but it fails frequently enough that the
-odds in favor of finishing what you start are low. Commonwealth hackish
-prefers {dodgy}. flamage: /flay'm@j/ n. High-noise, low-signal postings to
-{USENET} or other electronic fora. Often in the phrase `the usual flamage'.
-flame: 1. vi. To speak incessantly and/or rabidly on some relatively
+eccentric, crazy, or just unreliable. A system that is flaky is working, sort
+of, enough that you are tempted to try to use it, but it fails frequently
+enough that the odds in favor of finishing what you start are low.
+Commonwealth hackish prefers {dodgy}. flamage: /flay'm@j/ n. High-noise,
+low-signal postings to {USENET} or other electronic fora. Often in the phrase
+`the usual flamage'. flame: v. 1. To post an email message intended to insult
+and provoke. 2. vi. To speak incessantly and/or rabidly on some relatively
 uninteresting subject or with a patently ridiculous attitude. When a
 discussion degenerates into useless controversy, one might tell the
 participants, "Now you're just flaming" or "Stop all that flamage!" to try to
-get them to cool down (so to speak). 2. To post an email message intended to
-insult and provoke. {flame on}: vi. To continue to flame. see {rave},
+get them to cool down (so to speak). A USENETter who was at WPI from 1972 to
+1976 adds: "I am 99% certain that the use of `flame' originated at WPI".
+Those who made a nuisance of themselves insisting that they needed to use a
+TTY for `real work' came to be known as `flaming asshole lusers'. Other
+particularly annoying people became `flaming asshole ravers', which shortened
+to `flaming ravers', and ultimately `flamers'. I remember someone picking up
+on the Human Torch pun, but I don't think `flame on/off' was ever much used
+at WPI. see also {asbestos cork award}. The term may have been independently
+invented at several different places; it is also reported that `flaming' was
+in use to mean something like `interminably drawn-out semi-serious
+discussions' (late-night bull-sessions) at Carleton College during 1968-1971.
+flame bait: n. A posting intended to trigger a {flame war}, or one which
+invites flames in reply. flame on: vi. To continue to flame. see {rave},
 {burble}. The punning reference to Marvel Comics's Human Torch has been lost
 as recent usage completes the circle: "Flame on" now usually means "beginning
-of flame". A USENETter who was at WPI from 1972 to 1976 adds: "I am 99%
-certain that the use of `flame' originated at WPI". Those who made a nuisance
-of themselves insisting that they needed to use a TTY for `real work' came to
-be known as `flaming asshole lusers'. Other, particularly annoying people
-became `flaming asshole ravers', which shortened to `flaming ravers', and
-ultimately `flamers'. I remember someone picking up on the Human Torch pun,
-but I don't think `flame on/off' was ever much used at WPI. see also
-{asbestos cork award}. The term may have been independently invented at
-several different places; it is also reported that `flaming' was in use to
-mean something like `interminably drawn-out semi-serious discussions'
-(late-night bull-sessions) at Carleton College during 1968-1971. flame bait:
-n. A posting intended to trigger a {flame war}, or one which invites flames
-in reply. flame war: n. (var. `flamewar') An acrimonious dispute, especially
+of flame". flame war: n. (var. `flamewar') An acrimonious dispute, especially
 when conducted on a public electronic forum such as {USENET}. flamer: n. One
 who habitually flames others. Said esp. of obnoxious {USENET} personalities.
 flap: vt. 1. To unload a DECtape (so it goes flap, flap, flap...). Old-time

@@ -1,4 +1,4 @@
- ============ THIS IS THE JARGON FILE, VERSION 2.6.1, 12 FEB 1991
+ ============ THIS IS THE JARGON FILE, VERSION 2.6.2, 14 FEB 1991
 ============ Introduction ************ This document is a collection of slang
 terms used by various subcultures of computer hackers. Though some technical
 material is included for background and flavor, it is not a technical
@@ -17,7 +17,7 @@ community and expresses shared values and experiences. Among hackers, though,
 slang has a subtler aspect paralleled perhaps in the slang of jazz musicians
 and some kinds of fine artists but hard to detect in most technical or
 scientific cultures; parts of it are code for shared states of
-`consciousness'. There is a whole range of altered states and problem-solving
+*consciousness*. There is a whole range of altered states and problem-solving
 mental stances basic to high-level hacking which don't fit into conventional
 linguistic reality any better than a Coltrane solo or one of Maurits Escher's
 trick-the-eye paintings (Escher is a favorite of hackers), and hacker slang

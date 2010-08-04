@@ -10,7 +10,7 @@ form) derive from an AI experiment by Richard Bartle and Roy Trubshaw on the
 University of Essex's DEC-10 in the early 1980s, and descendants of that game
 still exist today (see {BartleMUD}). The title `MUD' is still copyright to
 the commercial MUD run by Bartle on British Telecom (their motto: "You
-haven't *lived* `til you've *died* on MUD"); however, this did not stop
+haven't *lived* 'til you've *died* on MUD"); however, this did not stop
 students on the European academic networks from copying/improving on the MUD
 concept, from which sprung several new MUDs (VAXMUD, AberMUD, LPMUD). Many of
 these had associated bulletin-board systems for social interaction. Because
@@ -139,28 +139,28 @@ apparently true that hackerdom includes a much higher concentration of
 talented amateur musicians than one would expect from a similar-sized control
 group of {mundane} types. mutter: vt. To quietly enter a command not meant
 for the ears, eyes or fingers of ordinary mortals. Frequently in `mutter an
-{incantation}'. N - N: /en/ quant. 1. Some large and indeterminate number of
-objects; "There were N bugs in that crock!"; also used in its original sense
-of a variable name. 2. An arbitrarily large (and perhaps infinite) number;
-"This crock has N bugs, as N goes to infinity". 3. A variable whose value is
-specified by the current context. For example, when ordering a meal at a
-restaurant, N may be understood to mean however many people there are at the
-table. From the remark "We'd like to order N wonton soups and a family dinner
-for N - 1", you can deduce that one person at the table wants to eat only
-soup, even though you don't know how many people there are (see
-{great-wall}). A silly riddle: "How many computers does it take to shift the
-bits in a register? N+1: N to hold all the bits still, and one to shove the
-register over." 4. `Nth': adj. The ordinal counterpart of N. "Now for the Nth
-and last time..." In the specific context "Nth-year grad student", N is
-generally assumed to be at least 4, and is usually 5 or more (see {tenured
-graduate student}). see also {random numbers}, {two-to-the-n}. nailed to the
-wall: [like a trophy] adj. Said of a bug finally eliminated after protracted
-and even heroic effort. naive: adj. Untutored in the perversities of some
-particular program or system; one who still tries to do things in an
-intuitive way, rather than the right way (in really good designs these
-coincide, but most designs aren't `really good' in the appropriate sense).
-This is completely unrelated to general maturity or competence or even
-competence at any other program. It is a sad commentary on the primitive
+{incantation}'. = N = ===== N: /en/ quant. 1. Some large and indeterminate
+number of objects; "There were N bugs in that crock!"; also used in its
+original sense of a variable name. 2. An arbitrarily large (and perhaps
+infinite) number; "This crock has N bugs, as N goes to infinity". 3. A
+variable whose value is specified by the current context. For example, when
+ordering a meal at a restaurant, N may be understood to mean however many
+people there are at the table. From the remark "We'd like to order N wonton
+soups and a family dinner for N - 1", you can deduce that one person at the
+table wants to eat only soup, even though you don't know how many people
+there are (see {great-wall}). A silly riddle: "How many computers does it
+take to shift the bits in a register? N+1: N to hold all the bits still, and
+one to shove the register over." 4. `Nth': adj. The ordinal counterpart of N.
+"Now for the Nth and last time..." In the specific context "Nth-year grad
+student", N is generally assumed to be at least 4, and is usually 5 or more
+(see {tenured graduate student}). see also {random numbers}, {two-to-the-n}.
+nailed to the wall: [like a trophy] adj. Said of a bug finally eliminated
+after protracted and even heroic effort. naive: adj. Untutored in the
+perversities of some particular program or system; one who still tries to do
+things in an intuitive way, rather than the right way (in really good designs
+these coincide, but most designs aren't `really good' in the appropriate
+sense). This is completely unrelated to general maturity or competence or
+even competence at any other program. It is a sad commentary on the primitive
 state of computing that the natural opposite of this term is often claimed to
 be `experienced user' but is really more like `cynical user'. naive user: 1.
 n. A {luser}. Tends to imply someone who is ignorant mainly due to

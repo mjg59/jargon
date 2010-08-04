@@ -24,8 +24,8 @@ production code. COME FROM was supported under its own name for the first
 time fifteen years later, in C-INTERCAL (see {INTERCAL}, {retrocomputing});
 knowledgeable observers are still reeling from shock. comm mode: /kom mohd/
 [from the ITS feature supporting on-line chat, spelled with one or two Ms]
-Syn. for {talk mode}; also spelled `comm mode'. comment out: vt. To surround
-a section of code with comment delimiters or to prefix every line in the
+Syn. for {talk mode}; also spelled `com mode'. comment out: vt. To surround a
+section of code with comment delimiters or to prefix every line in the
 section with a comment marker; this prevents it from being compiled or
 interpreted. Often done when the code is redundant or obsolete, but you want
 to leave it in the source to make the intent of the active code clearer; also
@@ -184,7 +184,7 @@ Syn. {memory leak}. Core Wars: n. A game between `assembler' programs in a
 simulated machine, where the objective is to kill your opponent's program by
 overwriting it. This was popularized by A. K. Dewdney's column in `Scientific
 American' magazine, but is said to have been first devised by Victor
-Vyssotsky as a PDP-1 hack, during the early `60s at Bell Labs. It is rumored
+Vyssotsky as a PDP-1 hack, during the early '60s at Bell Labs. It is rumored
 that the game is a civilized version of an amusement called DARWIN common on
 multitasking machines before the advent of protected address segments. see
 {core}. corge: /korj/ [originally, the name of a cat] n. Yet another

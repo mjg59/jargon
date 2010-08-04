@@ -16,48 +16,48 @@ mutating the word `bite' so it would not be accidentally misspelt as {bit}.
 see also {nybble}. bytesexual: /biet-seks'u-@l/ adj. Said of hardware,
 denotes willingness to compute or pass data in either {big-endian} or
 {little-endian} format (depending, presumably, on a {mode bit} somewhere).
-see also {NUXI problem}. C - C: n. 1. The third letter of the Latin alphabet.
-2. The name of a programming language designed by Dennis Ritchie during the
-early 1970s and immediately used to re-implement {UNIX}. So called because
-many features derived from an earlier interpreter named `B' in commemoration
-of *its* parent, BCPL; before Bjarne Stroustrup settled the question by
-designing C++, there was a humorous debate over whether C's successor should
-be named `D' or `P'. C became immensely popular outside Bell Labs after about
-1980 and is now the dominant language in systems and microcomputer
-applications programming. see also {languages of choice}, {indent style}. C
-is often described, with a mixture of fondness and disdain varying according
-to the speaker, as "a language which combines all the elegance and power of
-assembly language with the readability and maintainability of assembly
-language". calculator: [Cambridge] n. Syn. for {bitty box}. can: vt. To abort
-a job on a time-sharing system. Used esp. when the person doing the deed is
-an operator, as in "canned from the {{console}}". Frequently used in an
-imperative sense, as in "Can that print job, the LPT just popped a
-sprocket!". Synonymous with {gun}. It is said that the ASCII character with
-mnemonic CAN (0011000) was used as a kill-job character on some early OSs.
-canonical: [historically, `according to religious law'] adj. The usual or
-standard state or manner of something. This word has a somewhat more
-technical meaning in mathematics. For example, one sometimes speaks of a
-formula as being in canonical form. Two formulas such as `9 + x' and `x + 9'
-are said to be equivalent because they mean the same thing, but the second
-one is in canonical form because it is written in the usual way, with the
-highest power of `x' first. Usually there are fixed rules you can use to
-decide whether something is in canonical form. The slang meaning is a
-relaxation of the technical meaning (this generalization is actually not
-confined to hackers, and may be found throughout academia). A true story: One
-Bob Sjoberg, new at the MIT AI Lab, expressed some annoyance at the use of
-jargon and hacker slang. Over his loud objections, GLS and RMS made a point
-of using it as much as possible in his presence, and eventually it began to
-sink in. Finally, in one conversation, he used the word `canonical' in
-slang-like fashion without thinking. Steele: "Aha! We've finally got you
-talking jargon too!" Stallman: "What did he say?" Steele: "Bob just used
-`canonical' in the canonical way." Of course, canonicality depends on
-context, but is implicitly defined as the way *hackers* normally do things.
-Thus, a hacker may claim with a straight face that "according to religious
-law" is *not* the canonical meaning of `canonical'. card: n. 1. An electronic
-printed-circuit board (see also {tall card}, {short card}. 2. obs. Syn.
-{{punched card}}. card walloper: n. An EDP programmer who grinds out batch
-programs that do stupid things like print people's paychecks. Compare {code
-grinder}. see also {{punched card}}, {eighty-column mind}. cargo-cult
+see also {NUXI problem}. = C = ===== C: n. 1. The third letter of the Latin
+alphabet. 2. The name of a programming language designed by Dennis Ritchie
+during the early 1970s and immediately used to re-implement {UNIX}. So called
+because many features derived from an earlier interpreter named `B' in
+commemoration of *its* parent, BCPL; before Bjarne Stroustrup settled the
+question by designing C++, there was a humorous debate over whether C's
+successor should be named `D' or `P'. C became immensely popular outside Bell
+Labs after about 1980 and is now the dominant language in systems and
+microcomputer applications programming. see also {languages of choice},
+{indent style}. C is often described, with a mixture of fondness and disdain
+varying according to the speaker, as "a language which combines all the
+elegance and power of assembly language with the readability and
+maintainability of assembly language". calculator: [Cambridge] n. Syn. for
+{bitty box}. can: vt. To abort a job on a time-sharing system. Used esp. when
+the person doing the deed is an operator, as in "canned from the
+{{console}}". Frequently used in an imperative sense, as in "Can that print
+job, the LPT just popped a sprocket!". Synonymous with {gun}. It is said that
+the ASCII character with mnemonic CAN (0011000) was used as a kill-job
+character on some early OSs. canonical: [historically, `according to
+religious law'] adj. The usual or standard state or manner of something. This
+word has a somewhat more technical meaning in mathematics. For example, one
+sometimes speaks of a formula as being in canonical form. Two formulas such
+as `9 + x' and `x + 9' are said to be equivalent because they mean the same
+thing, but the second one is in canonical form because it is written in the
+usual way, with the highest power of `x' first. Usually there are fixed rules
+you can use to decide whether something is in canonical form. The slang
+meaning is a relaxation of the technical meaning (this generalization is
+actually not confined to hackers, and may be found throughout academia). A
+true story: One Bob Sjoberg, new at the MIT AI Lab, expressed some annoyance
+at the use of jargon and hacker slang. Over his loud objections, GLS and RMS
+made a point of using it as much as possible in his presence, and eventually
+it began to sink in. Finally, in one conversation, he used the word
+`canonical' in slang-like fashion without thinking. Steele: "Aha! We've
+finally got you talking jargon too!" Stallman: "What did he say?" Steele:
+"Bob just used `canonical' in the canonical way." Of course, canonicality
+depends on context, but is implicitly defined as the way *hackers* normally
+do things. Thus, a hacker may claim with a straight face that "according to
+religious law" is *not* the canonical meaning of `canonical'. card: n. 1. An
+electronic printed-circuit board (see also {tall card}, {short card}. 2. obs.
+Syn. {{punched card}}. card walloper: n. An EDP programmer who grinds out
+batch programs that do stupid things like print people's paychecks. Compare
+{code grinder}. see also {{punched card}}, {eighty-column mind}. cargo-cult
 programming: n. A style of (incompetent) programming dominated by ritual
 inclusion of code or program structures that serve no real purpose. A
 cargo-cult programmer will usually explain the extra code as a way of working

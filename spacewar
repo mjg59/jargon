@@ -121,7 +121,7 @@ parent program in a state that allows it to continue execution. Oppose
 {chain}. sucking mud: [Applied Digital Research] adj. (also `pumping mud')
 Crashed or wedged. Usually said of a machine that provides some service to a
 network, such as a file server. This Dallas regionalism derives from the East
-Texas oil field lament, "Shut `er down, Ma, she's a-suckin' mud." Often used
+Texas oil field lament, "Shut 'er down, Ma, she's a-suckin' mud." Often used
 as a query. "We are going to reconfigure the network, are you ready to suck
 mud?" suit: n. 1. Ugly and uncomfortable `business clothing' often worn by
 non-hackers. Invariably worn with a `tie', a strangulation device which
@@ -166,7 +166,7 @@ in a file. 2. The program in V7 UNIX used to perform this action, or anything
 functionally equivalent to it. see also {big-endian}, {little-endian},
 {bytesexual}. swap: [from mainstream verb meaning to exchange; to trade
 places] vt. To move information from a fast-access memory to a slow-access
-memory ('swap out'), or vice versa ('swap in'). This is a technical term in
+memory (`swap out'), or vice versa (`swap in'). This is a technical term in
 computer science, and often specifically refers to the use of disks as
 `virtual memory'. As pieces of data or program are needed, they are swapped
 into main memory for processing; when they are no longer needed for the nonce
@@ -215,7 +215,7 @@ mentions the particular program: e.g., `LISP hacker') system mangler: n.
 Humorous synonym for `system programmer'; compare {sys-frog}. Refers
 specifically to a systems programmer in charge of administration, software
 maintainance, and updates at some site. Unlike {admin}, this term emphasizes
-the technical end of the skills involved. T - T: /tee/ 1. [from LISP
+the technical end of the skills involved. = T = ===== T: /tee/ 1. [from LISP
 terminology for `true'] Yes. Usage: used in reply to a question, particularly
 one asked using the `-P' convention). see {NIL}. In LISP, the name T means
 "true", among other things. Some hackers use `T' and `NIL' instead of `Yes'

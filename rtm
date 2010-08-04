@@ -12,10 +12,10 @@ by expanding VMS to `Very Messy Syntax' or `Vachement Mauvais Systeme'
 been claimed that this is the inevitable fate of {water MIPS}. rusty memory:
 n. Mass-storage that uses iron-oxide-based magnetic media (esp. tape and the
 pre-Winchester removable disk packs used in {washing machine}s). Compare
-{donuts}. S - s/n ratio: n. (also `s:n ratio'). see {signal-to-noise ratio}.
-Often abbreviated `SNR'. sacred: adj. Reserved for the exclusive use of
-something (a metaphorical extension of the standard meaning). "Register 7 is
-sacred to the interrupt handler." Often means that anyone may look at the
+{donuts}. = S = ===== s/n ratio: n. (also `s:n ratio'). see {signal-to-noise
+ratio}. Often abbreviated `SNR'. sacred: adj. Reserved for the exclusive use
+of something (a metaphorical extension of the standard meaning). "Register 7
+is sacred to the interrupt handler." Often means that anyone may look at the
 sacred object, but clobbering it will screw whatever it is sacred to.
 Example: The comment "Register 7 is sacred to the interrupt handler"
 appearing in a program would be interpreted by a hacker to mean that one part
