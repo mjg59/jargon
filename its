@@ -15,14 +15,20 @@ on Suns, L1-A; on some Macintoshes, it is <Cmd>-<Power switch>! Also called
 Pejorative hackerism for `venture capitalist', deriving from the common
 practice of pushing contracts that deprive inventors of control over their
 own innovations and most of the money they ought to have made from them. = W
-= ===== :wabbit: /wab'it/ n. [almost certainly from Elmer Fudd's immortal
-line "You wascawwy wabbit!"] 1. A legendary early hack reported on a
-System/360 at RPI and elsewhere around 1978; this may have descended (if only
-by inspiration) from a hack called RABBITS reported from 1969 on a Burroughs
-5500 at the University of Washington Computer Center. The program would make
-two copies of itself every time it was run, eventually crashing the system.
-2. By extension, any hack that includes infinite self-replication but is not
-a {virus} or {worm}. see {fork bomb} and {rabbit job}, see also {cookie
+= ===== :W2K bug: [from `Y2K bug' for the Year 2000 problem] The upcoming
+deployment of Microsoft's Windows 2000 operating system, which hackers
+generally expect will be among the worst train wrecks in the history of
+software engineering. Such is the power of Microsoft marketing, however, that
+it is also expected this will not become obvious until it has incurred
+hundreds of millions of dollars in downtime and lost opportunity costs.
+:wabbit: /wab'it/ n. [almost certainly from Elmer Fudd's immortal line "You
+wascawwy wabbit!"] 1. A legendary early hack reported on a System/360 at RPI
+and elsewhere around 1978; this may have descended (if only by inspiration)
+from a hack called RABBITS reported from 1969 on a Burroughs 5500 at the
+University of Washington Computer Center. The program would make two copies
+of itself every time it was run, eventually crashing the system. 2. By
+extension, any hack that includes infinite self-replication but is not a
+{virus} or {worm}. see {fork bomb} and {rabbit job}, see also {cookie
 monster}. :WAITS:: /wayts/ n. The mutant cousin of {{TOPS-10}} used on a
 handful of systems at {{SAIL}} up to 1990. There was never an `official'
 expansion of WAITS (the name itself having been arrived at by a rather

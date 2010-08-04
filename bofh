@@ -11,17 +11,17 @@ answered yes or no. A bit is said to be `set' if its value is true or 1, and
 clearing bits. To {toggle} or `invert' a bit is to change it, either from 0
 to 1 or from 1 to 0. see also {flag}, {trit}, {mode bit}. The term `bit'
 first appeared in print in the computer-science sense in 1949, and seems to
-have been coined by early computer scientist John Tukey. Tukey records that
-it evolved over a lunch table as a handier alternative to `bigit' or `binit'.
-:bit bang: n. Transmission of data on a serial line, when accomplished by
-rapidly tweaking a single output bit, in software, at the appropriate times.
-The technique is a simple loop with eight OUT and SHIFT instruction pairs for
-each byte. Input is more interesting. And full duplex (doing input and output
-at the same time) is one way to separate the real hackers from the
-{wannabee}s. Bit bang was used on certain early models of Prime computers,
-presumably when UARTs were too expensive, and on archaic Z80 micros with a
-Zilog PIO but no SIO. In an interesting instance of the {cycle of
-reincarnation}, this technique returned to use in the early 1990s on some
+have been coined by early statistician and computer scientist John Tukey.
+Tukey records that it evolved over a lunch table as a handier alternative to
+`bigit' or `binit'. :bit bang: n. Transmission of data on a serial line, when
+accomplished by rapidly tweaking a single output bit, in software, at the
+appropriate times. The technique is a simple loop with eight OUT and SHIFT
+instruction pairs for each byte. Input is more interesting. And full duplex
+(doing input and output at the same time) is one way to separate the real
+hackers from the {wannabee}s. Bit bang was used on certain early models of
+Prime computers, presumably when UARTs were too expensive, and on archaic Z80
+micros with a Zilog PIO but no SIO. In an interesting instance of the {cycle
+of reincarnation}, this technique returned to use in the early 1990s on some
 RISC architectures because it consumes such an infinitesimal part of the
 processor that it actually makes sense not to have a UART. Compare {cycle of
 reincarnation}. :bit bashing: n. (alt. `bit diddling' or {bit twiddling})
@@ -141,7 +141,7 @@ or IBM PC. 2. [Pejorative] More generally, the opposite of `real computer'
 (see {Get a real computer!}). see also {mess-dos}, {toaster}, and {toy}.
 :bixen: pl.n. Users of BIX (the BIX Information eXchange, formerly the Byte
 Information eXchange). Parallels other plurals like boxen, {VAXen}, oxen.
-:bixie: /bik'see/ n. Variant {emoticon}s used on BIX (the Byte Information
+:bixie: /bik'see/ n. Variant {emoticon}s used on BIX (the BIX Information
 eXchange). The most common ({smiley}) bixie is <@_@>, representing two
 cartoon eyes and a mouth. These were originally invented in an SF fanzine
 called APA-L and imported to BIX by one of the earliest users. :black art: n.

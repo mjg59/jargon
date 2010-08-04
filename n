@@ -250,19 +250,27 @@ fart: n. Tribal elder. A title self-assumed with remarkable frequency by
 often appears in {sig block}s attached to Jargon File contributions of great
 archeological significance. This is a term of insult in the second or third
 person but one of pride in first person. :Old Testament: n. [C programmers]
-The first edition of {K&R}, the sacred text describing {Classic C}.
-:one-banana problem: n. At mainframe shops, where the computers have
-operators for routine administrivia, the programmers and hardware people tend
-to look down on the operators and claim that a trained monkey could do their
-job. It is frequently observed that the incentives that would be offered said
-monkeys can be used as a scale to describe the difficulty of a task. A
-one-banana problem is simple; hence, "It's only a one-banana job at the most;
-what's taking them so long?" At IBM, folklore divides the world into one-,
-two-, and three-banana problems. Other cultures have different hierarchies
-and may divide them more finely; at ICL, for example, five grapes (a bunch)
-equals a banana. Their upper limit for the in-house {sysape}s is said to be
-two bananas and three grapes (another source claims it's three bananas and
-one grape, but observes "However, this is subject to local variations, cosmic
+The first edition of {K&R}, the sacred text describing {Classic C}. :on the
+gripping hand: In the progression that starts "On the one hand..." and
+continues "On the other hand..." mainstream English may add "on the third
+hand..." even though most people don't have three hands. Among hackers, it is
+just as likely to be "on the gripping hand". This metaphor supplied the title
+of Larry Niven & Jerry Pournelle's 1993 SF novel "The Gripping Hand" which
+involved a species of hostile aliens with three arms (the same species, in
+fact, referenced in {juggling eggs}). As with {TANSTAAFL} and {con}, this
+usage is a naturalized import from SF fandom. :one-banana problem: n. At
+mainframe shops, where the computers have operators for routine
+administrivia, the programmers and hardware people tend to look down on the
+operators and claim that a trained monkey could do their job. It is
+frequently observed that the incentives that would be offered said monkeys
+can be used as a scale to describe the difficulty of a task. A one-banana
+problem is simple; hence, "It's only a one-banana job at the most; what's
+taking them so long?" At IBM, folklore divides the world into one-, two-, and
+three-banana problems. Other cultures have different hierarchies and may
+divide them more finely; at ICL, for example, five grapes (a bunch) equals a
+banana. Their upper limit for the in-house {sysape}s is said to be two
+bananas and three grapes (another source claims it's three bananas and one
+grape, but observes "However, this is subject to local variations, cosmic
 rays and ISO"). At a complication level any higher than that, one asks the
 manufacturers to send someone around to check things. see also
 {Infinite-Monkey Theorem}. :one-line fix: n. Used (often sarcastically) of a

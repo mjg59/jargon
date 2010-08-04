@@ -57,7 +57,9 @@ and a comprehensive Unix system-call interface. Unix sysadmins, who are
 almost always incorrigible hackers, generally consider it one of the
 {languages of choice}, and it is by far the most widely used tool for making
 `live' web pages via CGI. Perl has been described, in a parody of a famous
-remark about `lex(1)', as the "Swiss-Army chainsaw" of Unix programming. see
+remark about `lex(1)', as the "Swiss-Army chainsaw" of Unix programming.
+Though Perl is very useful, it would be a stretch to describe it as pretty or
+{elegant}; people who like clean, spare design generally prefer {Python}. see
 also {Camel Book}, {TMTOWTDI}. :person of no account: n. [University of
 California at Santa Cruz] Used when referring to a person with no {network
 address}, frequently to forestall confusion. Most often as part of an

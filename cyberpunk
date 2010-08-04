@@ -242,148 +242,149 @@ was probably discovered by someone who found out the hard way that there was
 a potential difference between the two, and who then wired in the switch as a
 joke. :Some AI Koans: =============== These are some of the funniest examples
 of a genre of jokes told at the MIT AI Lab about various noted hackers. The
-original koans were composed by Danny Hillis. In reading these, it is at
-least useful to know that Minsky, Sussman, and Drescher are AI researchers of
-note, that Tom Knight was one of the Lisp machine's principal designers, and
-that David Moon wrote much of Lisp Machine Lisp. * * * A novice was trying to
-fix a broken Lisp machine by turning the power off and on. Knight, seeing
-what the student was doing, spoke sternly: "You cannot fix a machine by just
-power-cycling it with no understanding of what is going wrong." Knight turned
-the machine off and on. The machine worked. * * * One day a student came to
-Moon and said: "I understand how to make a better garbage collector. We must
-keep a reference count of the pointers to each cons." Moon patiently told the
-student the following story: "One day a student came to Moon and said: `I
-understand how to make a better garbage collector... [Ed. note: Pure
-reference-count garbage collectors have problems with circular structures
-that point to themselves.] * * * In the days when Sussman was a novice,
-Minsky once came to him as he sat hacking at the PDP-6. "What are you
-doing?", asked Minsky. "I am training a randomly wired neural net to play
-Tic-Tac-Toe" Sussman replied. "Why is the net wired randomly?", asked Minsky.
-"I do not want it to have any preconceptions of how to play", Sussman said.
-Minsky then shut his eyes. "Why do you close your eyes?", Sussman asked his
-teacher. "So that the room will be empty." At that moment, Sussman was
-enlightened. * * * A disciple of another sect once came to Drescher as he was
-eating his morning meal. "I would like to give you this personality test",
-said the outsider, "because I want you to be happy." Drescher took the paper
-that was offered him and put it into the toaster, saying: "I wish the toaster
-to be happy, too." :OS and JEDGAR: =============== This story says a lot
-about the ITS ethos. On the ITS system there was a program that allowed you
-to see what was being printed on someone else's terminal. It spied on the
-other guy's output by examining the insides of the monitor system. The output
-spy program was called OS. Throughout the rest of the computer science (and
-at IBM too) OS means `operating system', but among old-time ITS hackers it
-almost always meant `output spy'. OS could work because ITS purposely had
-very little in the way of `protection' that prevented one user from
-trespassing on another's areas. Fair is fair, however. There was another
-program that would automatically notify you if anyone started to spy on your
-output. It worked in exactly the same way, by looking at the insides of the
-operating system to see if anyone else was looking at the insides that had to
-do with your output. This `counterspy' program was called JEDGAR (a
-six-letterism pronounced as two syllables: jed'gr), in honor of the former
-head of the FBI. But there's more. JEDGAR would ask the user for `license to
-kill'. If the user said yes, then JEDGAR would actually {gun} the job of the
-{luser} who was spying. Unfortunately, people found that this made life too
-violent, especially when tourists learned about it. One of the systems
-hackers solved the problem by replacing JEDGAR with another program that only
-pretended to do its job. It took a long time to do this, because every copy
-of JEDGAR had to be patched. To this day no one knows how many people never
-figured out that JEDGAR had been defanged. Interestingly, there is still a
-security module named JEDGAR alive as of late 1994 -- in the Unisys MCP for
-large systems. It is unknown to us whether the name is tribute or independent
-invention. :The Story of Mel: ================== This was posted to Usenet by
-its author, Ed Nather (<utastro!nather>), on May 21, 1983. A recent article
-devoted to the _macho_ side of programming made the bald and unvarnished
-statement: Real Programmers write in FORTRAN. Maybe they do now, in this
-decadent era of Lite beer, hand calculators, and "user-friendly" software but
-back in the Good Old Days, when the term "software" sounded funny and Real
-Computers were made out of drums and vacuum tubes, Real Programmers wrote in
-machine code. Not FORTRAN. Not RATFOR. Not, even, assembly language. Machine
-Code. Raw, unadorned, inscrutable hexadecimal numbers. Directly. Lest a whole
-new generation of programmers grow up in ignorance of this glorious past, I
-feel duty-bound to describe, as best I can through the generation gap, how a
-Real Programmer wrote code. I'll call him Mel, because that was his name. I
-first met Mel when I went to work for Royal McBee Computer Corp., a
-now-defunct subsidiary of the typewriter company. The firm manufactured the
-LGP-30, a small, cheap (by the standards of the day) drum-memory computer,
-and had just started to manufacture the RPC-4000, a much-improved, bigger,
-better, faster --- drum-memory computer. Cores cost too much, and weren't
-here to stay, anyway. (That's why you haven't heard of the company, or the
-computer.) I had been hired to write a FORTRAN compiler for this new marvel
-and Mel was my guide to its wonders. Mel didn't approve of compilers. "If a
-program can't rewrite its own code", he asked, "what good is it?" Mel had
-written, in hexadecimal, the most popular computer program the company owned.
-It ran on the LGP-30 and played blackjack with potential customers at
-computer shows. Its effect was always dramatic. The LGP-30 booth was packed
-at every show, and the IBM salesmen stood around talking to each other.
-Whether or not this actually sold computers was a question we never
-discussed. Mel's job was to re-write the blackjack program for the RPC-4000.
-(Port? What does that mean?) The new computer had a one-plus-one addressing
-scheme, in which each machine instruction, in addition to the operation code
-and the address of the needed operand, had a second address that indicated
-where, on the revolving drum, the next instruction was located. In modern
-parlance, every single instruction was followed by a GO TO! Put _that_ in
-Pascal's pipe and smoke it. Mel loved the RPC-4000 because he could optimize
-his code: that is, locate instructions on the drum so that just as one
-finished its job, the next would be just arriving at the "read head" and
-available for immediate execution. There was a program to do that job, an
-"optimizing assembler", but Mel refused to use it. "You never know where it's
-going to put things", he explained, "so you'd have to use separate
-constants". It was a long time before I understood that remark. Since Mel
-knew the numerical value of every operation code, and assigned his own drum
-addresses, every instruction he wrote could also be considered a numerical
-constant. He could pick up an earlier "add" instruction, say, and multiply by
-it, if it had the right numeric value. His code was not easy for someone else
-to modify. I compared Mel's hand-optimized programs with the same code
-massaged by the optimizing assembler program, and Mel's always ran faster.
-That was because the "top-down" method of program design hadn't been invented
-yet, and Mel wouldn't have used it anyway. He wrote the innermost parts of
-his program loops first, so they would get first choice of the optimum
-address locations on the drum. The optimizing assembler wasn't smart enough
-to do it that way. Mel never wrote time-delay loops, either, even when the
-balky Flexowriter required a delay between output characters to work right.
-He just located instructions on the drum so each successive one was just
-_past_ the read head when it was needed; the drum had to execute another
-complete revolution to find the next instruction. He coined an unforgettable
-term for this procedure. Although "optimum" is an absolute term, like
-"unique", it became common verbal practice to make it relative: "not quite
-optimum" or "less optimum" or "not very optimum". Mel called the maximum
-time-delay locations the "most pessimum". After he finished the blackjack
-program and got it to run ("Even the initializer is optimized", he said
-proudly), he got a Change Request from the sales department. The program used
-an elegant (optimized) random number generator to shuffle the "cards" and
-deal from the "deck", and some of the salesmen felt it was too fair, since
-sometimes the customers lost. They wanted Mel to modify the program so, at
-the setting of a sense switch on the console, they could change the odds and
-let the customer win. Mel balked. He felt this was patently dishonest, which
-it was, and that it impinged on his personal integrity as a programmer, which
-it did, so he refused to do it. The Head Salesman talked to Mel, as did the
-Big Boss and, at the boss's urging, a few Fellow Programmers. Mel finally
-gave in and wrote the code, but he got the test backwards, and, when the
-sense switch was turned on, the program would cheat, winning every time. Mel
-was delighted with this, claiming his subconscious was uncontrollably
-ethical, and adamantly refused to fix it. After Mel had left the company for
-greener pa$ture$, the Big Boss asked me to look at the code and see if I
-could find the test and reverse it. Somewhat reluctantly, I agreed to look.
-Tracking Mel's code was a real adventure. I have often felt that programming
-is an art form, whose real value can only be appreciated by another versed in
-the same arcane art; there are lovely gems and brilliant coups hidden from
-human view and admiration, sometimes forever, by the very nature of the
-process. You can learn a lot about an individual just by reading through his
-code, even in hexadecimal. Mel was, I think, an unsung genius. Perhaps my
-greatest shock came when I found an innocent loop that had no test in it. No
-test. _None_. Common sense said it had to be a closed loop, where the program
-would circle, forever, endlessly. Program control passed right through it,
-however, and safely out the other side. It took me two weeks to figure it
-out. The RPC-4000 computer had a really modern facility called an index
-register. It allowed the programmer to write a program loop that used an
-indexed instruction inside; each time through, the number in the index
-register was added to the address of that instruction, so it would refer to
-the next datum in a series. He had only to increment the index register each
-time through. Mel never used it. Instead, he would pull the instruction into
-a machine register, add one to its address, and store it back. He would then
-execute the modified instruction right from the register. The loop was
-written so this additional execution time was taken into account --- just as
-this instruction finished, the next one was right under the drum's read head,
+original koans were composed by Danny Hillis, who would later found
+Connection Machines, Inc. In reading these, it is at least useful to know
+that Minsky, Sussman, and Drescher are AI researchers of note, that Tom
+Knight was one of the Lisp machine's principal designers, and that David Moon
+wrote much of Lisp Machine Lisp. * * * A novice was trying to fix a broken
+Lisp machine by turning the power off and on. Knight, seeing what the student
+was doing, spoke sternly: "You cannot fix a machine by just power-cycling it
+with no understanding of what is going wrong." Knight turned the machine off
+and on. The machine worked. * * * One day a student came to Moon and said: "I
+understand how to make a better garbage collector. We must keep a reference
+count of the pointers to each cons." Moon patiently told the student the
+following story: "One day a student came to Moon and said: `I understand how
+to make a better garbage collector... [Ed. note: Pure reference-count garbage
+collectors have problems with circular structures that point to themselves.]
+* * * In the days when Sussman was a novice, Minsky once came to him as he
+sat hacking at the PDP-6. "What are you doing?", asked Minsky. "I am training
+a randomly wired neural net to play Tic-Tac-Toe" Sussman replied. "Why is the
+net wired randomly?", asked Minsky. "I do not want it to have any
+preconceptions of how to play", Sussman said. Minsky then shut his eyes. "Why
+do you close your eyes?", Sussman asked his teacher. "So that the room will
+be empty." At that moment, Sussman was enlightened. * * * A disciple of
+another sect once came to Drescher as he was eating his morning meal. "I
+would like to give you this personality test", said the outsider, "because I
+want you to be happy." Drescher took the paper that was offered him and put
+it into the toaster, saying: "I wish the toaster to be happy, too." :OS and
+JEDGAR: =============== This story says a lot about the ITS ethos. On the ITS
+system there was a program that allowed you to see what was being printed on
+someone else's terminal. It spied on the other guy's output by examining the
+insides of the monitor system. The output spy program was called OS.
+Throughout the rest of the computer science world (and at IBM too) OS means
+`operating system', but among old-time ITS hackers it almost always meant
+`output spy'. OS could work because ITS purposely had very little in the way
+of `protection' that prevented one user from trespassing on another's areas.
+Fair is fair, however. There was another program that would automatically
+notify you if anyone started to spy on your output. It worked in exactly the
+same way, by looking at the insides of the operating system to see if anyone
+else was looking at the insides that had to do with your output. This
+`counterspy' program was called JEDGAR (a six-letterism pronounced as two
+syllables: /jed'gr/), in honor of the former head of the FBI. But there's
+more. JEDGAR would ask the user for `license to kill'. If the user said yes,
+then JEDGAR would actually {gun} the job of the {luser} who was spying.
+Unfortunately, people found that this made life too violent, especially when
+tourists learned about it. One of the systems hackers solved the problem by
+replacing JEDGAR with another program that only pretended to do its job. It
+took a long time to do this, because every copy of JEDGAR had to be patched.
+To this day no one knows how many people never figured out that JEDGAR had
+been defanged. Interestingly, there is still a security module named JEDGAR
+alive as of late 1994 -- in the Unisys MCP for large systems. It is unknown
+to us whether the name is tribute or independent invention. :The Story of
+Mel: ================== This was posted to Usenet by its author, Ed Nather
+(<utastro!nather>), on May 21, 1983. A recent article devoted to the _macho_
+side of programming made the bald and unvarnished statement: Real Programmers
+write in FORTRAN. Maybe they do now, in this decadent era of Lite beer, hand
+calculators, and "user-friendly" software but back in the Good Old Days, when
+the term "software" sounded funny and Real Computers were made out of drums
+and vacuum tubes, Real Programmers wrote in machine code. Not FORTRAN. Not
+RATFOR. Not, even, assembly language. Machine Code. Raw, unadorned,
+inscrutable hexadecimal numbers. Directly. Lest a whole new generation of
+programmers grow up in ignorance of this glorious past, I feel duty-bound to
+describe, as best I can through the generation gap, how a Real Programmer
+wrote code. I'll call him Mel, because that was his name. I first met Mel
+when I went to work for Royal McBee Computer Corp., a now-defunct subsidiary
+of the typewriter company. The firm manufactured the LGP-30, a small, cheap
+(by the standards of the day) drum-memory computer, and had just started to
+manufacture the RPC-4000, a much-improved, bigger, better, faster ---
+drum-memory computer. Cores cost too much, and weren't here to stay, anyway.
+(That's why you haven't heard of the company, or the computer.) I had been
+hired to write a FORTRAN compiler for this new marvel and Mel was my guide to
+its wonders. Mel didn't approve of compilers. "If a program can't rewrite its
+own code", he asked, "what good is it?" Mel had written, in hexadecimal, the
+most popular computer program the company owned. It ran on the LGP-30 and
+played blackjack with potential customers at computer shows. Its effect was
+always dramatic. The LGP-30 booth was packed at every show, and the IBM
+salesmen stood around talking to each other. Whether or not this actually
+sold computers was a question we never discussed. Mel's job was to re-write
+the blackjack program for the RPC-4000. (Port? What does that mean?) The new
+computer had a one-plus-one addressing scheme, in which each machine
+instruction, in addition to the operation code and the address of the needed
+operand, had a second address that indicated where, on the revolving drum,
+the next instruction was located. In modern parlance, every single
+instruction was followed by a GO TO! Put _that_ in Pascal's pipe and smoke
+it. Mel loved the RPC-4000 because he could optimize his code: that is,
+locate instructions on the drum so that just as one finished its job, the
+next would be just arriving at the "read head" and available for immediate
+execution. There was a program to do that job, an "optimizing assembler", but
+Mel refused to use it. "You never know where it's going to put things", he
+explained, "so you'd have to use separate constants". It was a long time
+before I understood that remark. Since Mel knew the numerical value of every
+operation code, and assigned his own drum addresses, every instruction he
+wrote could also be considered a numerical constant. He could pick up an
+earlier "add" instruction, say, and multiply by it, if it had the right
+numeric value. His code was not easy for someone else to modify. I compared
+Mel's hand-optimized programs with the same code massaged by the optimizing
+assembler program, and Mel's always ran faster. That was because the
+"top-down" method of program design hadn't been invented yet, and Mel
+wouldn't have used it anyway. He wrote the innermost parts of his program
+loops first, so they would get first choice of the optimum address locations
+on the drum. The optimizing assembler wasn't smart enough to do it that way.
+Mel never wrote time-delay loops, either, even when the balky Flexowriter
+required a delay between output characters to work right. He just located
+instructions on the drum so each successive one was just _past_ the read head
+when it was needed; the drum had to execute another complete revolution to
+find the next instruction. He coined an unforgettable term for this
+procedure. Although "optimum" is an absolute term, like "unique", it became
+common verbal practice to make it relative: "not quite optimum" or "less
+optimum" or "not very optimum". Mel called the maximum time-delay locations
+the "most pessimum". After he finished the blackjack program and got it to
+run ("Even the initializer is optimized", he said proudly), he got a Change
+Request from the sales department. The program used an elegant (optimized)
+random number generator to shuffle the "cards" and deal from the "deck", and
+some of the salesmen felt it was too fair, since sometimes the customers
+lost. They wanted Mel to modify the program so, at the setting of a sense
+switch on the console, they could change the odds and let the customer win.
+Mel balked. He felt this was patently dishonest, which it was, and that it
+impinged on his personal integrity as a programmer, which it did, so he
+refused to do it. The Head Salesman talked to Mel, as did the Big Boss and,
+at the boss's urging, a few Fellow Programmers. Mel finally gave in and wrote
+the code, but he got the test backwards, and, when the sense switch was
+turned on, the program would cheat, winning every time. Mel was delighted
+with this, claiming his subconscious was uncontrollably ethical, and
+adamantly refused to fix it. After Mel had left the company for greener
+pa$ture$, the Big Boss asked me to look at the code and see if I could find
+the test and reverse it. Somewhat reluctantly, I agreed to look. Tracking
+Mel's code was a real adventure. I have often felt that programming is an art
+form, whose real value can only be appreciated by another versed in the same
+arcane art; there are lovely gems and brilliant coups hidden from human view
+and admiration, sometimes forever, by the very nature of the process. You can
+learn a lot about an individual just by reading through his code, even in
+hexadecimal. Mel was, I think, an unsung genius. Perhaps my greatest shock
+came when I found an innocent loop that had no test in it. No test. _None_.
+Common sense said it had to be a closed loop, where the program would circle,
+forever, endlessly. Program control passed right through it, however, and
+safely out the other side. It took me two weeks to figure it out. The
+RPC-4000 computer had a really modern facility called an index register. It
+allowed the programmer to write a program loop that used an indexed
+instruction inside; each time through, the number in the index register was
+added to the address of that instruction, so it would refer to the next datum
+in a series. He had only to increment the index register each time through.
+Mel never used it. Instead, he would pull the instruction into a machine
+register, add one to its address, and store it back. He would then execute
+the modified instruction right from the register. The loop was written so
+this additional execution time was taken into account --- just as this
+instruction finished, the next one was right under the drum's read head,
 ready to go. But the loop had no test in it. The vital clue came when I
 noticed the index register bit, the bit that lay between the address and the
 operation code in the instruction word, was turned on --- yet Mel never used
@@ -675,11 +676,11 @@ thinking about some proprietary software `solution' that costs more than it's
 worth, be ready to blow the competition away with open-source software
 running over a Unix. * Contribute to organizations like the Free Software
 Foundation that promote the production of high-quality free and open-source
-software. You can reach the Free Software Foundation at gnu@prep.ai.mit.edu,
-by phone at +1-617-542-5942, or by snail-mail at 59 Temple Place, Suite 330,
-Boston, MA 02111-1307 USA. * Support the League for Programming Freedom,
-which opposes over-broad software patents that constantly threaten to blow up
-in hackers' faces, preventing them from developing innovative software for
+software. You can reach the Free Software Foundation at gnu@gnu.org, by phone
+at +1-617-542-5942, or by snail-mail at 59 Temple Place, Suite 330, Boston,
+MA 02111-1307 USA. * Support the League for Programming Freedom, which
+opposes over-broad software patents that constantly threaten to blow up in
+hackers' faces, preventing them from developing innovative software for
 tomorrow's needs. You can reach the League for Programming Freedom at
 lpf@uunet.uu.net. by phone at +1 617 621 7084, or by snail-mail at 1 Kendall
 Square #143, P.O.Box 9171, Cambridge, Massachusetts 02139 USA. * Join the
@@ -688,7 +689,7 @@ and Technology Home Page at `http://www.cdt.org'. * If you do nothing else,
 please help fight government attempts to seize political control of Internet
 content and restrict strong cryptography. The so-called `Communications
 Decency Act' was declared unconstitutional by the Supreme Court, but U.S.
-cryptography policy still infringes our Firat Amendment rights. Surf to the
+cryptography policy still infringes our First Amendment rights. Surf to the
 Center for Democracy and technology's home page at `http://www.cdt.org' to
 see what you can do to help fight censorship of the net. Here's the text of a
 letter RMS wrote to the Wall Street Journal to complain about their policy of
@@ -719,7 +720,7 @@ yours. Besides, it's not my way to respond to insults with violence. My
 response is this letter. You owe hackers an apology; but more than that, you
 owe us ordinary respect. Sincerely, etc. :Bibliography: ************** Here
 are some other books you can read to help you understand the hacker mindset.
-:Go"del, Escher, Bach: An Eternal Golden Braid: Douglas Hofstadter Basic
+:Go"del\, Escher\, Bach: An Eternal Golden Braid: Douglas Hofstadter Basic
 Books, 1979 ISBN 0-394-74502-7 This book reads like an intellectual Grand
 Tour of hacker preoccupations. Music, mathematical logic, programming,
 speculations on the nature of intelligence, biology, and Zen are woven into a

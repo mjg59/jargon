@@ -31,7 +31,7 @@ with a high {MEGO} factor. The computer equivalent of bureaucratese. 2.
 Incomprehensible stuff embedded in email. First there were the "Received"
 headers that show how mail flows through systems, then MIME (Multi-purpose
 Internet Mail Extensions) headers and part boundaries, and now huge blocks of
-hex for PEM (Privacy Enhanced Mail) or PGP (Pretty Good Privacy) digital
+radix-64 for PEM (Privacy Enhanced Mail) or PGP (Pretty Good Privacy) digital
 signatures and certificates of authenticity. This stuff all services a
 purpose and good user interfaces should hide it, but all too often users are
 forced to wade through it. :cyberpunk: /si:'ber-puhnk/ n.,adj. [orig. by SF
@@ -211,78 +211,79 @@ Definition' specification for I/O devices); though the command filled a need,
 the interface design was clearly a prank. The jargon usage is now very rare
 outside Unix sites and now nearly obsolete even there, as `dd(1)' has been
 {deprecated} for a long time (though it has no exact replacement). The term
-has been displaced by {BLT} or simple English `copy'. :DDT: /D-D-T/ n. 1.
-Generic term for a program that assists in debugging other programs by
-showing individual machine instructions in a readable symbolic form and
-letting the user change them. In this sense the term DDT is now archaic,
-having been widely displaced by `debugger' or names of individual programs
-like `adb', `sdb', `dbx', or `gdb'. 2. [ITS] Under MIT's fabled {{ITS}}
-operating system, DDT (running under the alias HACTRN, a six-letterism for
-`Hack Translator') was also used as the {shell} or top level command language
-used to execute other programs. 3. Any one of several specific DDTs (sense 1)
-supported on early {DEC} hardware and CP/M. The PDP-10 Reference Handbook
-(1969) contained a footnote on the first page of the documentation for DDT
-that illuminates the origin of the term: Historical footnote: DDT was
-developed at MIT for the PDP-1 computer in 1961. At that time DDT stood for
-"DEC Debugging Tape". Since then, the idea of an on-line debugging program
-has propagated throughout the computer industry. DDT programs are now
-available for all DEC computers. Since media other than tape are now
-frequently used, the more descriptive name "Dynamic Debugging Technique" has
-been adopted, retaining the DDT abbreviation. Confusion between DDT-10 and
-another well known pesticide, dichloro-diphenyl-trichloroethane (C14-H9-Cl5)
-should be minimal since each attacks a different, and apparently mutually
-exclusive, class of bugs. (The `tape' referred to was, incidentally, not
-magnetic but paper.) Sadly, this quotation was removed from later editions of
-the handbook after the {suit}s took over and {DEC} became much more
-`businesslike'. The history above is known to many old-time hackers. But
-there's more: Peter Samson, compiler of the original {TMRC} lexicon, reports
-that he named `DDT' after a similar tool on the TX-0 computer, the direct
-ancestor of the PDP-1 built at MIT's Lincoln Lab in 1957. The debugger on
-that ground-breaking machine (the first transistorized computer) rejoiced in
-the name FLIT (FLexowriter Interrogation Tape). :de-rezz: /dee-rez'/ [from
-`de-resolve' via the movie "Tron"] (also `derez') 1. vi. To disappear or
-dissolve; the image that goes with it is of an object breaking up into raster
-lines and static and then dissolving. Occasionally used of a person who seems
-to have suddenly `fuzzed out' mentally rather than physically. Usage:
-extremely silly, also rare. This verb was actually invented as _fictional_
-hacker jargon, and adopted in a spirit of irony by real hackers years after
-the fact. 2. vt. The Macintosh resource decompiler. On a Macintosh, many
-program structures (including the code itself) are managed in small segments
-of the program file known as `resources'; `Rez' and `DeRez' are a pair of
-utilities for compiling and decompiling resource files. Thus, decompiling a
-resource is `derezzing'. Usage: very common. :dead: adj. 1. Non-functional;
-{down}; {crash}ed. Especially used of hardware. 2. At XEROX PARC, software
-that is working but not undergoing continued development and support. 3.
-Useless; inaccessible. Antonym: `live'. Compare {dead code}. :dead code: n.
-Routines that can never be accessed because all calls to them have been
-removed, or code that cannot be reached because it is guarded by a control
-structure that provably must always transfer control somewhere else. The
-presence of dead code may reveal either logical errors due to alterations in
-the program or significant changes in the assumptions and environment of the
-program (see also {software rot}); a good compiler should report dead code so
-a maintainer can think about what it means. (Sometimes it simply means that
-an _extremely_ defensive programmer has inserted {can't happen} tests which
-really can't happen -- yet.) Syn. {grunge}. see also {dead}, and {The Story
-of Mel}. :dead link: n. [very common] A World-Wide-Web URL that no longer
-points to the information it was written to reach. Usually this happens
-because the document has been moved or deleted. Lots of dead links make a WWW
-page frustrating and useless and are the #1 sign of poor page maintainance.
-Compare {dangling pointer}, {link rot}. :DEADBEEF: /ded-beef/ n. The
-hexadecimal word-fill pattern for freshly allocated memory (decimal
--21524111) under a number of IBM environments, including the RS/6000. Some
-modern debugging tools deliberately fill freed memory with this value as a
-way of converting {heisenbug}s into {Bohr bug}s. As in "Your program is
-DEADBEEF" (meaning gone, aborted, flushed from memory); if you start from an
-odd half-word boundary, of course, you have BEEFDEAD. see also the anecdote
-under {fool}. :deadlock: n. 1. [techspeak] A situation wherein two or more
-processes are unable to proceed because each is waiting for one of the others
-to do something. A common example is a program communicating to a server,
-which may find itself waiting for output from the server before sending
-anything more to it, while the server is similarly waiting for more input
-from the controlling program before outputting anything. (It is reported that
-this particular flavor of deadlock is sometimes called a `starvation
-deadlock', though the term `starvation' is more properly used for situations
-where a program can never run simply because it never gets high enough
-priority. Another common flavor is `constipation', in which each process is
-trying to send stuff to the other but all buffers are full because nobody is
-reading anything.) see {deadly embrace}.
+has been displaced by {BLT} or simple English `copy'. :DDT: /D-D-T/ n. [from
+the insecticide para-dichloro-diphenyl-trichloroethene] 1. Generic term for a
+program that assists in debugging other programs by showing individual
+machine instructions in a readable symbolic form and letting the user change
+them. In this sense the term DDT is now archaic, having been widely displaced
+by `debugger' or names of individual programs like `adb', `sdb', `dbx', or
+`gdb'. 2. [ITS] Under MIT's fabled {{ITS}} operating system, DDT (running
+under the alias HACTRN, a six-letterism for `Hack Translator') was also used
+as the {shell} or top level command language used to execute other programs.
+3. Any one of several specific DDTs (sense 1) supported on early {DEC}
+hardware and CP/M. The PDP-10 Reference Handbook (1969) contained a footnote
+on the first page of the documentation for DDT that illuminates the origin of
+the term: Historical footnote: DDT was developed at MIT for the PDP-1
+computer in 1961. At that time DDT stood for "DEC Debugging Tape". Since
+then, the idea of an on-line debugging program has propagated throughout the
+computer industry. DDT programs are now available for all DEC computers.
+Since media other than tape are now frequently used, the more descriptive
+name "Dynamic Debugging Technique" has been adopted, retaining the DDT
+abbreviation. Confusion between DDT-10 and another well known pesticide,
+dichloro-diphenyl-trichloroethane (C14-H9-Cl5) should be minimal since each
+attacks a different, and apparently mutually exclusive, class of bugs. (The
+`tape' referred to was, incidentally, not magnetic but paper.) Sadly, this
+quotation was removed from later editions of the handbook after the {suit}s
+took over and {DEC} became much more `businesslike'. The history above is
+known to many old-time hackers. But there's more: Peter Samson, compiler of
+the original {TMRC} lexicon, reports that he named `DDT' after a similar tool
+on the TX-0 computer, the direct ancestor of the PDP-1 built at MIT's Lincoln
+Lab in 1957. The debugger on that ground-breaking machine (the first
+transistorized computer) rejoiced in the name FLIT (FLexowriter Interrogation
+Tape). :de-rezz: /dee-rez'/ [from `de-resolve' via the movie "Tron"] (also
+`derez') 1. vi. To disappear or dissolve; the image that goes with it is of
+an object breaking up into raster lines and static and then dissolving.
+Occasionally used of a person who seems to have suddenly `fuzzed out'
+mentally rather than physically. Usage: extremely silly, also rare. This verb
+was actually invented as _fictional_ hacker jargon, and adopted in a spirit
+of irony by real hackers years after the fact. 2. vt. The Macintosh resource
+decompiler. On a Macintosh, many program structures (including the code
+itself) are managed in small segments of the program file known as
+`resources'; `Rez' and `DeRez' are a pair of utilities for compiling and
+decompiling resource files. Thus, decompiling a resource is `derezzing'.
+Usage: very common. :dead: adj. 1. Non-functional; {down}; {crash}ed.
+Especially used of hardware. 2. At XEROX PARC, software that is working but
+not undergoing continued development and support. 3. Useless; inaccessible.
+Antonym: `live'. Compare {dead code}. :dead code: n. Routines that can never
+be accessed because all calls to them have been removed, or code that cannot
+be reached because it is guarded by a control structure that provably must
+always transfer control somewhere else. The presence of dead code may reveal
+either logical errors due to alterations in the program or significant
+changes in the assumptions and environment of the program (see also {software
+rot}); a good compiler should report dead code so a maintainer can think
+about what it means. (Sometimes it simply means that an _extremely_ defensive
+programmer has inserted {can't happen} tests which really can't happen --
+yet.) Syn. {grunge}. see also {dead}, and {The Story of Mel}. :dead link: n.
+[very common] A World-Wide-Web URL that no longer points to the information
+it was written to reach. Usually this happens because the document has been
+moved or deleted. Lots of dead links make a WWW page frustrating and useless
+and are the #1 sign of poor page maintainance. Compare {dangling pointer},
+{link rot}. :DEADBEEF: /ded-beef/ n. The hexadecimal word-fill pattern for
+freshly allocated memory (decimal -21524111) under a number of IBM
+environments, including the RS/6000. Some modern debugging tools deliberately
+fill freed memory with this value as a way of converting {heisenbug}s into
+{Bohr bug}s. As in "Your program is DEADBEEF" (meaning gone, aborted, flushed
+from memory); if you start from an odd half-word boundary, of course, you
+have BEEFDEAD. see also the anecdote under {fool}. :deadlock: n. 1.
+[techspeak] A situation wherein two or more processes are unable to proceed
+because each is waiting for one of the others to do something. A common
+example is a program communicating to a server, which may find itself waiting
+for output from the server before sending anything more to it, while the
+server is similarly waiting for more input from the controlling program
+before outputting anything. (It is reported that this particular flavor of
+deadlock is sometimes called a `starvation deadlock', though the term
+`starvation' is more properly used for situations where a program can never
+run simply because it never gets high enough priority. Another common flavor
+is `constipation', in which each process is trying to send stuff to the other
+but all buffers are full because nobody is reading anything.) see {deadly
+embrace}.

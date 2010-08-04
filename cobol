@@ -174,24 +174,24 @@ response often follows along the lines of: "Shub-Internet gulps down the tac
 nuke and burps happily.") Also cursed by users of the Web, {FTP} and {TELNET}
 when the system slows down. The dread name of Shub-Internet is seldom spoken
 aloud, as it is said that repeating it three times will cause the being to
-wake, deep within its lair beneath the Pentagon. [January 1996: It develops
-that one of the computer administrators in the basement of the Pentagon read
-this entry and fell over laughing. As a result, you too can now poke
-Shub-Internet by {ping}ing shub-internet.ims.disa.mil. see also {kremvax}. -
-ESR] [April 1999: shub-internet.ims.disa.mil is no more, alas. But
-Shub-Internet lives o^$#$*^ - ESR] :sidecar: n. 1. Syn. {slap on the side}.
-Esp. used of add-ons for the late and unlamented IBM PCjr. 2. The IBM PC
-compatibility box that could be bolted onto the side of an Amiga. Designed
-and produced by Commodore, it broke all of the company's own design rules. If
-it worked with any other peripherals, it was by {magic}. 3. More generally,
-any of various devices designed to be connected to the expansion slot on the
-left side of the Amiga 500 (and later, 600 & 1200), which included a hard
-drive controller, a hard drive, and additional memory. :SIG: /sig/ n. (also
-common as a prefix in combining forms) A Special Interest Group, in one of
-several technical areas, sponsored by the Association for Computing
-Machinery; well-known ones include SIGPLAN (the Special Interest Group on
-Programming Languages), SIGARCH (the Special Interest Group for Computer
-Architecture) and SIGGRAPH (the Special Interest Group for Computer
+wake, deep within its lair beneath the Pentagon. Compare {Random Number God}.
+[January 1996: It develops that one of the computer administrators in the
+basement of the Pentagon read this entry and fell over laughing. As a result,
+you too can now poke Shub-Internet by {ping}ing shub-internet.ims.disa.mil.
+see also {kremvax}. - ESR] [April 1999: shub-internet.ims.disa.mil is no
+more, alas. But Shub-Internet lives o^$#$*^ - ESR] :sidecar: n. 1. Syn. {slap
+on the side}. Esp. used of add-ons for the late and unlamented IBM PCjr. 2.
+The IBM PC compatibility box that could be bolted onto the side of an Amiga.
+Designed and produced by Commodore, it broke all of the company's own design
+rules. If it worked with any other peripherals, it was by {magic}. 3. More
+generally, any of various devices designed to be connected to the expansion
+slot on the left side of the Amiga 500 (and later, 600 & 1200), which
+included a hard drive controller, a hard drive, and additional memory. :SIG:
+/sig/ n. (also common as a prefix in combining forms) A Special Interest
+Group, in one of several technical areas, sponsored by the Association for
+Computing Machinery; well-known ones include SIGPLAN (the Special Interest
+Group on Programming Languages), SIGARCH (the Special Interest Group for
+Computer Architecture) and SIGGRAPH (the Special Interest Group for Computer
 Graphics). Hackers, not surprisingly, like to overextend this naming
 convention to less formal associations like SIGBEER (at ACM conferences) and
 SIGFOOD (at University of Illinois). :sig block: /sig blok/ n. [Unix; often

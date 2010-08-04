@@ -1,21 +1,79 @@
- 1986! A disgruntled programmer at the Volga Automobile Plant (where the Fiat
-clones called Ladas were manufactured) planted a time bomb which, a week
-after he'd left on vacation, stopped the entire main assembly line for a day.
-The case attracted lots of attention in the Soviet Union because it was the
-first cracking case to make it to court there. The perpetrator got a
-suspended sentence of 3 years in jail and was barred from future work as a
-programmer. :time sink: n. [poss. by analogy with `heat sink' or `current
-sink'] A project that consumes unbounded amounts of time. :time T: /ti:m T/
-n. 1. An unspecified but usually well-understood time, often used in
-conjunction with a later time T+1. "We'll meet on campus at time T or at
-Louie's at time T+1" means, in the context of going out for dinner: "We can
-meet on campus and go to Louie's, or we can meet at Louie's itself a bit
-later." (Louie's was a Chinese restaurant in Palo Alto that was a favorite
-with hackers.) Had the number 30 been used instead of the number 1, it would
-have implied that the travel time from campus to Louie's is 30 minutes;
-whatever time T is (and that hasn't been decided on yet), you can meet half
-an hour later at Louie's than you could on campus and end up eating at the
-same time. see also {since time T equals minus infinity}.
+ 1961 as a way of binding actual parameters to their formal definitions in
+Algol-60 procedure calls. If a procedure is called with an expression in the
+place of a formal parameter, the compiler generates a thunk which computes
+the expression and leaves the address of the result in some standard
+location. 2. Later generalized into: an expression, frozen together with its
+environment, for later evaluation if and when needed (similar to what in
+techspeak is called a `closure'). The process of unfreezing these thunks is
+called `forcing'. 3. A {stubroutine}, in an overlay programming environment,
+that loads and jumps to the correct overlay. Compare {trampoline}. 4. People
+and activities scheduled in a thunklike manner. "It occurred to me the other
+day that I am rather accurately modeled by a thunk -- I frequently need to be
+forced to completion." -- paraphrased from a {plan file}. Historical note:
+There are a couple of onomatopoeic myths circulating about the origin of this
+term. The most common is that it is the sound made by data hitting the stack;
+another holds that the sound is that of the data hitting an accumulator. Yet
+another suggests that it is the sound of the expression being unfrozen at
+argument-evaluation time. In fact, according to the inventors, it was coined
+after they realized (in the wee hours after hours of discussion) that the
+type of an argument in Algol-60 could be figured out in advance with a little
+compile-time thought, simplifying the evaluation machinery. In other words,
+it had `already been thought of'; thus it was christened a `thunk', which is
+"the past tense of `think' at two in the morning". :tick: n. 1. A {jiffy}
+(sense 1). 2. In simulations, the discrete unit of time that passes between
+iterations of the simulation mechanism. In AI applications, this amount of
+time is often left unspecified, since the only constraint of interest is the
+ordering of events. This sort of AI simulation is often pejoratively referred
+to as `tick-tick-tick' simulation, especially when the issue of simultaneity
+of events with long, independent chains of causes is {handwave}d. 3. In the
+FORTH language, a single quote character. :tick-list features: n. [Acorn
+Computers] Features in software or hardware that customers insist on but
+never use (calculators in desktop TSRs and that sort of thing). The American
+equivalent would be `checklist features', but this jargon sense of the phrase
+has not been reported. :tickle a bug: vt. To cause a normally hidden bug to
+manifest itself through some known series of inputs or operations. "You can
+tickle the bug in the Paradise VGA card's highlight handling by trying to set
+bright yellow reverse video." :tiger team: n. [U.S. military jargon] 1.
+Originally, a team (of {sneaker}s) whose purpose is to penetrate security,
+and thus test security measures. These people are paid professionals who do
+hacker-type tricks, e.g., leave cardboard signs saying "bomb" in critical
+defense installations, hand-lettered notes saying "Your codebooks have been
+stolen" (they usually haven't been) inside safes, etc. After a successful
+penetration, some high-ranking security type shows up the next morning for a
+`security review' and finds the sign, note, etc., and all hell breaks loose.
+Serious successes of tiger teams sometimes lead to early retirement for base
+commanders and security officers (see the {patch} entry for an example). 2.
+Recently, and more generally, any official inspection team or special
+{firefighting} group called in to look at a problem. A subset of tiger teams
+are professional {cracker}s, testing the security of military computer
+installations by attempting remote attacks via networks or supposedly
+`secure' comm channels. Some of their escapades, if declassified, would
+probably rank among the greatest hacks of all times. The term has been
+adopted in commercial computer-security circles in this more specific sense.
+:time bomb: n. A subspecies of {logic bomb} that is triggered by reaching
+some preset time, either once or periodically. There are numerous legends
+about time bombs set up by programmers in their employers' machines, to go
+off if the programmer is fired or laid off and is not present to perform the
+appropriate suppressing action periodically. Interestingly, the only such
+incident for which we have been pointed to documentary evidence took place in
+the Soviet Union in 1986! A disgruntled programmer at the Volga Automobile
+Plant (where the Fiat clones called Ladas were manufactured) planted a time
+bomb which, a week after he'd left on vacation, stopped the entire main
+assembly line for a day. The case attracted lots of attention in the Soviet
+Union because it was the first cracking case to make it to court there. The
+perpetrator got a suspended sentence of 3 years in jail and was barred from
+future work as a programmer. :time sink: n. [poss. by analogy with `heat
+sink' or `current sink'] A project that consumes unbounded amounts of time.
+:time T: /ti:m T/ n. 1. An unspecified but usually well-understood time,
+often used in conjunction with a later time T+1. "We'll meet on campus at
+time T or at Louie's at time T+1" means, in the context of going out for
+dinner: "We can meet on campus and go to Louie's, or we can meet at Louie's
+itself a bit later." (Louie's was a Chinese restaurant in Palo Alto that was
+a favorite with hackers.) Had the number 30 been used instead of the number
+1, it would have implied that the travel time from campus to Louie's is 30
+minutes; whatever time T is (and that hasn't been decided on yet), you can
+meet half an hour later at Louie's than you could on campus and end up eating
+at the same time. see also {since time T equals minus infinity}.
 :times-or-divided-by: quant. [by analogy with `plus-or-minus'] Term
 occasionally used when describing the uncertainty associated with a
 scheduling estimate, for either humorous or brutally honest effect. For a
@@ -76,27 +134,28 @@ years. TMRC's Signals and Power Committee included many of the early PDP-1
 hackers and the people who later became the core of the MIT AI Lab staff.
 Thirty years later that connection is still very much alive, and this lexicon
 accordingly includes a number of entries from a recent revision of the TMRC
-dictionary. :TMRCie: /tmerk'ee/, n. [MIT] A denizen of {TMRC}. :TMTOWTDI:
-There's More Than One Way To Do It. This abbreviation of the official motto
-of {Perl} is frequently used on newsgroups and mailing lists related to that
-language. :to a first approximation: adj. 1. [techspeak] When one is doing
-certain numerical computations, an approximate solution may be computed by
-any of several heuristic methods, then refined to a final value. By using the
-starting point of a first approximation of the answer, one can write an
-algorithm that converges more quickly to the correct result. 2. In jargon, a
-preface to any comment that indicates that the comment is only approximately
-true. The remark "To a first approximation, I feel good" might indicate that
-deeper questioning would reveal that not all is perfect (e.g., a nagging
-cough still remains after an illness). :to a zeroth approximation: [from `to
-a first approximation'] A _really_ sloppy approximation; a wild guess.
-Compare {social science number}. :toad: vt. [MUD] 1. Notionally, to change a
-{MUD} player into a toad. 2. To permanently and totally exile a player from
-the MUD. A very serious action, which can only be done by a MUD {wizard};
-often involves a lot of debate among the other characters first. see also
-{frog}, {FOD}. :toast: 1. n. Any completely inoperable system or component,
-esp. one that has just crashed and burned: "Uh, oh ... I think the serial
-board is toast." 2. vt. To cause a system to crash accidentally, especially
-in a manner that requires manual rebooting. "Rick just toasted the {firewall
+dictionary. TMRC has a web page at `http://web.mit.edu/tmrc/www/'. :TMRCie:
+/tmerk'ee/, n. [MIT] A denizen of {TMRC}. :TMTOWTDI: There's More Than One
+Way To Do It. This abbreviation of the official motto of {Perl} is frequently
+used on newsgroups and mailing lists related to that language. :to a first
+approximation: adj. 1. [techspeak] When one is doing certain numerical
+computations, an approximate solution may be computed by any of several
+heuristic methods, then refined to a final value. By using the starting point
+of a first approximation of the answer, one can write an algorithm that
+converges more quickly to the correct result. 2. In jargon, a preface to any
+comment that indicates that the comment is only approximately true. The
+remark "To a first approximation, I feel good" might indicate that deeper
+questioning would reveal that not all is perfect (e.g., a nagging cough still
+remains after an illness). :to a zeroth approximation: [from `to a first
+approximation'] A _really_ sloppy approximation; a wild guess. Compare
+{social science number}. :toad: vt. [MUD] 1. Notionally, to change a {MUD}
+player into a toad. 2. To permanently and totally exile a player from the
+MUD. A very serious action, which can only be done by a MUD {wizard}; often
+involves a lot of debate among the other characters first. see also {frog},
+{FOD}. :toast: 1. n. Any completely inoperable system or component, esp. one
+that has just crashed and burned: "Uh, oh ... I think the serial board is
+toast." 2. vt. To cause a system to crash accidentally, especially in a
+manner that requires manual rebooting. "Rick just toasted the {firewall
 machine} again." Compare {fried}. :toaster: n. 1. The archetypal really
 stupid application for an embedded microprocessor controller; often used in
 comments that imply that a scheme is inappropriate technology (but see

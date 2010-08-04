@@ -84,8 +84,8 @@ looking for valid email addresses. Some address harvesters are benign, used
 only for compiling address directories. Most, unfortunately, are run by
 miscreants compiling address lists to {spam}. Address harvesters can be
 foiled by a {teergrube}. :adger: /aj'r/ vt. [UCLA mutant of {nadger}, poss.
-from the middle name of an infamous {tenured graduate student}] To make a
-bonehead move with consequences that could have been foreseen with even
+also from the middle name of an infamous {tenured graduate student}] To make
+a bonehead move with consequences that could have been foreseen with even
 slight mental effort. E.g., "He started removing files and promptly adgered
 the whole project". Compare {dumbass attack}. :admin: /ad-min'/ n. Short for
 `administrator'; very commonly used in speech or on-line to refer to the
@@ -109,112 +109,114 @@ exploration of the Mammoth & Flint Ridge cave system; it actually _has_ a
 `Colossal Cave' and a `Bedquilt' as in the game, and the `Y2' that also turns
 up is cavers' jargon for a map reference to a secondary entrance. ADVENT
 sources are available for FTP at
-`ftp://ftp.wustl.edu/doc/misc/if-archive/games/source/advent.tar.Z'. :AFAIK:
-// n. [Usenet] Abbrev. for "As Far As I Know". :AFJ: // n. Written-only
-abbreviation for "April Fool's Joke". Elaborate April Fool's hoaxes are a
-long-established tradition on Usenet and Internet; see {kremvax} for an
-example. In fact, April Fool's Day is the _only_ seasonal holiday
-consistently marked by customary observances on Internet and other hacker
-networks. :AI: /A-I/ n. Abbreviation for `Artificial Intelligence', so common
-that the full form is almost never written or spoken among hackers.
-:AI-complete: /A-I k*m-pleet'/ adj. [MIT, Stanford: by analogy with
-`NP-complete' (see {NP-})] Used to describe problems or subproblems in AI, to
-indicate that the solution presupposes a solution to the `strong AI problem'
-(that is, the synthesis of a human-level intelligence). A problem that is
-AI-complete is, in other words, just too hard. Examples of AI-complete
-problems are `The Vision Problem' (building a system that can see as well as
-a human) and `The Natural Language Problem' (building a system that can
-understand and speak a natural language as well as a human). These may appear
-to be modular, but all attempts so far (1999) to solve them have foundered on
-the amount of context information and `intelligence' they seem to require.
-see also {gedanken}. :AI koans: /A-I koh'anz/ pl.n. A series of pastiches of
-Zen teaching riddles created by Danny Hillis at the MIT AI Lab around various
-major figures of the Lab's culture (several are included under {Some AI
-Koans} in Appendix A). see also {ha ha only serious}, {mu}, and {{hacker
-humor}}. :AIDS: /aydz/ n. Short for A* Infected Disk Syndrome (`A*' is a
-{glob} pattern that matches, but is not limited to, Apple or Amiga), this
-condition is quite often the result of practicing unsafe {SEX}. see {virus},
-{worm}, {Trojan horse}, {virgin}. :AIDX: /ayd'k*z/ n. Derogatory term for
-IBM's perverted version of Unix, AIX, especially for the AIX 3.? used in the
-IBM RS/6000 series (some hackers think it is funnier just to pronounce "AIX"
-as "aches"). A victim of the dreaded "hybridism" disease, this attempt to
-combine the two main currents of the Unix stream ({BSD} and {USG Unix})
-became a {monstrosity} to haunt system administrators' dreams. For example,
-if new accounts are created while many users are logged on, the load average
-jumps quickly over 20 due to silly implementation of the user databases. For
-a quite similar disease, compare {HP-SUX}. Also, compare {Macintrash},
-{Nominal Semidestructor}, {ScumOS}, {sun-stools}. :airplane rule: n.
-"Complexity increases the possibility of failure; a twin-engine airplane has
-twice as many engine problems as a single-engine airplane." By analogy, in
-both software and electronics, the rule that simplicity increases robustness.
-It is correspondingly argued that the right way to build reliable systems is
-to put all your eggs in one basket, after making sure that you've built a
-really _good_ basket. see also {KISS Principle}. :Alderson loop: n. [Intel] A
-special version of an {infinite loop} where there is an exit condition
-available, but inaccessible in the current implementation of the code.
-Typically this is created while debugging user interface code. An example
-would be when there is a menu stating, "Select 1-3 or 9 to quit" and 9 is not
-allowed by the function that takes the selection from the user. This term
-received its name from a programmer who had coded a modal message box in
-MSAccess with no Ok or Cancel buttons, thereby disabling the entire program
-whenever the box came up. The message box had the proper code for dismissal
-and even was set up so that when the non-existent Ok button was pressed the
-proper code would be called. :aliasing bug: n. A class of subtle programming
-errors that can arise in code that does dynamic allocation, esp. via
-`malloc(3)' or equivalent. If several pointers address (`aliases for') a
-given hunk of storage, it may happen that the storage is freed or reallocated
-(and thus moved) through one alias and then referenced through another, which
-may lead to subtle (and possibly intermittent) lossage depending on the state
-and the allocation history of the malloc {arena}. Avoidable by use of
-allocation strategies that never alias allocated core, or by use of
-higher-level languages, such as {LISP}, which employ a garbage collector (see
-{GC}). Also called a {stale pointer bug}. see also {precedence lossage},
-{smash the stack}, {fandango on core}, {memory leak}, {memory smash},
-{overrun screw}, {spam}. Historical note: Though this term is nowadays
-associated with C programming, it was already in use in a very similar sense
-in the Algol-60 and FORTRAN communities in the 1960s. :all-elbows: adj.
-[MS-DOS] Of a TSR (terminate-and-stay-resident) IBM PC program, such as the N
-pop-up calendar and calculator utilities that circulate on {BBS} systems:
-unsociable. Used to describe a program that rudely steals the resources that
-it needs without considering that other TSRs may also be resident. One
-particularly common form of rudeness is lock-up due to programs fighting over
-the keyboard interrupt. see {rude}, also {mess-dos}. :alpha geek: n. [from
-animal ethologists' `alpha male'] The most technically accomplished or
-skillful person in some implied context. "Ask Larry, he's the alpha geek
-here." :alpha particles: n. see {bit rot}. :alt: /awlt/ 1. n. The alt shift
-key on an IBM PC or {clone} keyboard; see {bucky bits}, sense 2 (though
-typical PC usage does not simply set the 0200 bit). 2. n. The `option' key on
-a Macintosh; use of this term usually reveals that the speaker hacked PCs
-before coming to the Mac (see also {feature key}, which is sometimes
-_incorrectly_ called `alt'). 3. n.,obs. [PDP-10; often capitalized to ALT]
-Alternate name for the ASCII ESC character (ASCII 0011011), after the keycap
-labeling on some older terminals; also `altmode' (/awlt'mohd/). This
-character was almost never pronounced `escape' on an ITS system, in {TECO},
-or under TOPS-10 -- always alt, as in "Type alt alt to end a TECO command" or
-"alt-U onto the system" (for "log onto the [ITS] system"). This usage
-probably arose because alt is more convenient to say than `escape',
-especially when followed by another alt or a character (or another alt _and_
-a character, for that matter). 4. The alt hierarchy on Usenet, the tree of
-newsgroups created by users without a formal vote and approval procedure.
-There is a myth, not entirely implausible, that alt is acronymic for
-"anarchists, lunatics, and terrorists"; but in fact it is simply short for
-"alternative". :alt bit: /awlt bit/ [from alternate] adj. see {meta bit}.
-:Aluminum Book: n. [MIT] "Common LISP: The Language", by Guy L. Steele Jr.
-(Digital Press, first edition 1984, second edition 1990). Note that due to a
-technical screwup some printings of the second edition are actually of a
-color the author describes succinctly as "yucky green". see also {{book
-titles}}. :ambimouseterous: /am-b*-mows'ter-us/ or /am-b*-mows'trus/ adj.
-[modeled on ambidextrous] Able to use a mouse with either hand. :Amiga: n A
-series of personal computer models originally sold by Commodore, based on
-680x0 processors, custom support chips and an operating system that combined
-some of the best features of Macintosh and Unix with compatibility with
-neither. The Amiga was released just as the personal computing world
-standardized on IBM-PC clones. This prevented it from gaining serious market
-share, despite the fact that the first Amigas had a substantial technological
-lead on the IBM XTs of the time. Instead, it acquired a small but zealous
-population of enthusiastic hackers who dreamt of one day unseating the clones
-(see {Amiga Persecution Complex}). The traits of this culture are both
-spoofed and illuminated in The BLAZE Humor Viewer
+`ftp://ftp.wustl.edu/doc/misc/if-archive/games/source/advent.tar.Z'. There's
+a version implemented as a set of web scripts at
+`http://tjwww.stanford.edu/adventure/'. :AFAIK: // n. [Usenet] Abbrev. for
+"As Far As I Know". :AFJ: // n. Written-only abbreviation for "April Fool's
+Joke". Elaborate April Fool's hoaxes are a long-established tradition on
+Usenet and Internet; see {kremvax} for an example. In fact, April Fool's Day
+is the _only_ seasonal holiday consistently marked by customary observances
+on Internet and other hacker networks. :AI: /A-I/ n. Abbreviation for
+`Artificial Intelligence', so common that the full form is almost never
+written or spoken among hackers. :AI-complete: /A-I k*m-pleet'/ adj. [MIT,
+Stanford: by analogy with `NP-complete' (see {NP-})] Used to describe
+problems or subproblems in AI, to indicate that the solution presupposes a
+solution to the `strong AI problem' (that is, the synthesis of a human-level
+intelligence). A problem that is AI-complete is, in other words, just too
+hard. Examples of AI-complete problems are `The Vision Problem' (building a
+system that can see as well as a human) and `The Natural Language Problem'
+(building a system that can understand and speak a natural language as well
+as a human). These may appear to be modular, but all attempts so far (1999)
+to solve them have foundered on the amount of context information and
+`intelligence' they seem to require. see also {gedanken}. :AI koans: /A-I
+koh'anz/ pl.n. A series of pastiches of Zen teaching riddles created by Danny
+Hillis at the MIT AI Lab around various major figures of the Lab's culture
+(several are included under {Some AI Koans} in Appendix A). see also {ha ha
+only serious}, {mu}, and {{hacker humor}}. :AIDS: /aydz/ n. Short for A*
+Infected Disk Syndrome (`A*' is a {glob} pattern that matches, but is not
+limited to, Apple or Amiga), this condition is quite often the result of
+practicing unsafe {SEX}. see {virus}, {worm}, {Trojan horse}, {virgin}.
+:AIDX: /ayd'k*z/ n. Derogatory term for IBM's perverted version of Unix, AIX,
+especially for the AIX 3.? used in the IBM RS/6000 series (some hackers think
+it is funnier just to pronounce "AIX" as "aches"). A victim of the dreaded
+"hybridism" disease, this attempt to combine the two main currents of the
+Unix stream ({BSD} and {USG Unix}) became a {monstrosity} to haunt system
+administrators' dreams. For example, if new accounts are created while many
+users are logged on, the load average jumps quickly over 20 due to silly
+implementation of the user databases. For a quite similar disease, compare
+{HP-SUX}. Also, compare {Macintrash}, {Nominal Semidestructor}, {ScumOS},
+{sun-stools}. :airplane rule: n. "Complexity increases the possibility of
+failure; a twin-engine airplane has twice as many engine problems as a
+single-engine airplane." By analogy, in both software and electronics, the
+rule that simplicity increases robustness. It is correspondingly argued that
+the right way to build reliable systems is to put all your eggs in one
+basket, after making sure that you've built a really _good_ basket. see also
+{KISS Principle}, {elegant}. :Alderson loop: n. [Intel] A special version of
+an {infinite loop} where there is an exit condition available, but
+inaccessible in the current implementation of the code. Typically this is
+created while debugging user interface code. An example would be when there
+is a menu stating, "Select 1-3 or 9 to quit" and 9 is not allowed by the
+function that takes the selection from the user. This term received its name
+from a programmer who had coded a modal message box in MSAccess with no Ok or
+Cancel buttons, thereby disabling the entire program whenever the box came
+up. The message box had the proper code for dismissal and even was set up so
+that when the non-existent Ok button was pressed the proper code would be
+called. :aliasing bug: n. A class of subtle programming errors that can arise
+in code that does dynamic allocation, esp. via `malloc(3)' or equivalent. If
+several pointers address (`aliases for') a given hunk of storage, it may
+happen that the storage is freed or reallocated (and thus moved) through one
+alias and then referenced through another, which may lead to subtle (and
+possibly intermittent) lossage depending on the state and the allocation
+history of the malloc {arena}. Avoidable by use of allocation strategies that
+never alias allocated core, or by use of higher-level languages, such as
+{LISP}, which employ a garbage collector (see {GC}). Also called a {stale
+pointer bug}. see also {precedence lossage}, {smash the stack}, {fandango on
+core}, {memory leak}, {memory smash}, {overrun screw}, {spam}. Historical
+note: Though this term is nowadays associated with C programming, it was
+already in use in a very similar sense in the Algol-60 and FORTRAN
+communities in the 1960s. :all-elbows: adj. [MS-DOS] Of a TSR
+(terminate-and-stay-resident) IBM PC program, such as the N pop-up calendar
+and calculator utilities that circulate on {BBS} systems: unsociable. Used to
+describe a program that rudely steals the resources that it needs without
+considering that other TSRs may also be resident. One particularly common
+form of rudeness is lock-up due to programs fighting over the keyboard
+interrupt. see {rude}, also {mess-dos}. :alpha geek: n. [from animal
+ethologists' `alpha male'] The most technically accomplished or skillful
+person in some implied context. "Ask Larry, he's the alpha geek here." :alpha
+particles: n. see {bit rot}. :alt: /awlt/ 1. n. The alt shift key on an IBM
+PC or {clone} keyboard; see {bucky bits}, sense 2 (though typical PC usage
+does not simply set the 0200 bit). 2. n. The `option' key on a Macintosh; use
+of this term usually reveals that the speaker hacked PCs before coming to the
+Mac (see also {feature key}, which is sometimes _incorrectly_ called `alt').
+3. n.,obs. [PDP-10; often capitalized to ALT] Alternate name for the ASCII
+ESC character (ASCII 0011011), after the keycap labeling on some older
+terminals; also `altmode' (/awlt'mohd/). This character was almost never
+pronounced `escape' on an ITS system, in {TECO}, or under TOPS-10 -- always
+alt, as in "Type alt alt to end a TECO command" or "alt-U onto the system"
+(for "log onto the [ITS] system"). This usage probably arose because alt is
+more convenient to say than `escape', especially when followed by another alt
+or a character (or another alt _and_ a character, for that matter). 4. The
+alt hierarchy on Usenet, the tree of newsgroups created by users without a
+formal vote and approval procedure. There is a myth, not entirely
+implausible, that alt is acronymic for "anarchists, lunatics, and
+terrorists"; but in fact it is simply short for "alternative". :alt bit:
+/awlt bit/ [from alternate] adj. see {meta bit}. :Aluminum Book: n. [MIT]
+"Common LISP: The Language", by Guy L. Steele Jr. (Digital Press, first
+edition 1984, second edition 1990). Note that due to a technical screwup some
+printings of the second edition are actually of a color the author describes
+succinctly as "yucky green". see also {{book titles}}. :ambimouseterous:
+/am-b*-mows'ter-us/ or /am-b*-mows'trus/ adj. [modeled on ambidextrous] Able
+to use a mouse with either hand. :Amiga: n A series of personal computer
+models originally sold by Commodore, based on 680x0 processors, custom
+support chips and an operating system that combined some of the best features
+of Macintosh and Unix with compatibility with neither. The Amiga was released
+just as the personal computing world standardized on IBM-PC clones. This
+prevented it from gaining serious market share, despite the fact that the
+first Amigas had a substantial technological lead on the IBM XTs of the time.
+Instead, it acquired a small but zealous population of enthusiastic hackers
+who dreamt of one day unseating the clones (see {Amiga Persecution Complex}).
+The traits of this culture are both spoofed and illuminated in The BLAZE
+Humor Viewer
 (http://www-ccsl.cs.umass.edu/~barrett/bm/Viewer_Sections/Main.HTML). The
 strength of the Amiga platform seeded a small industry of companies building
 software and hardware for the platform, especially in graphics and video
@@ -238,41 +240,57 @@ frequently before Linux started winning; some still do. see also {newbie},
 the Commodore Amiga personal computer. :amp off: vt. [Purdue] To run in
 {background}. From the Unix shell `&' operator. :amper: n. Common
 abbreviation for the name of the ampersand (`&', ASCII 0100110) character.
-see {{ASCII}} for other synonyms. :angle brackets: n. Either of the
-characters `<' (ASCII 0111100) and `>' (ASCII 0111110) (ASCII less-than or
-greater-than signs). Typographers in the {Real World} use angle brackets
-which are either taller and slimmer (the ISO `Bra' and `Ket' characters), or
-significantly smaller (single or double guillemets) than the less-than and
-greater-than signs. see {broket}, {{ASCII}}. :angry fruit salad: n. A bad
-visual-interface design that uses too many colors. (This term derives, of
-course, from the bizarre day-glo colors found in canned fruit salad.) Too
-often one sees similar effects from interface designers using color window
-systems such as {X}; there is a tendency to create displays that are flashy
-and attention-getting but uncomfortable for long-term use. :annoybot:
-/*-noy-bot/ n. [IRC] see {bot}. :annoyware: n. A type of {shareware} that
-frequently disrupts normal program operation to display requests for payment
-to the author in return for the ability to disable the request messages.
-(Also called `nagware') The requests generally require user action to
-acknowledge the message before normal operation is resumed and are often tied
-to the most frequently used features of the software. see also {careware},
-{charityware}, {crippleware}, {freeware}, {FRS}, {guiltware}, {postcardware},
-and {-ware}; compare {payware}. :ANSI: /an'see/ 1. n. [techspeak] The
-American National Standards Institute. ANSI, along with the International
-Organization for Standards (ISO), standardized the C programming language
-(see {K&R}, {Classic C}), and promulgates many other important software
-standards. 2. n. [techspeak] A terminal may be said to be `ANSI' if it meets
-the ANSI X.364 standard for terminal control. Unfortunately, this standard
-was both over-complicated and too permissive. It has been retired and
-replaced by the ECMA-48 standard, which shares both flaws. 3. n. [BBS jargon]
-The set of screen-painting codes that most MS-DOS and Amiga computers accept.
-This comes from the ANSI.SYS device driver that must be loaded on an MS-DOS
-computer to view such codes. Unfortunately, neither DOS ANSI nor the BBS
-ANSIs derived from it exactly match the ANSI X.364 terminal standard. For
-example, the ESC-[1m code turns on the bold highlight on large machines, but
-in IBM PC/MS-DOS ANSI, it turns on `intense' (bright) colors. Also, in
-BBS-land, the term `ANSI' is often used to imply that a particular computer
-uses or can emulate the IBM high-half character set from MS-DOS. Particular
-use depends on context. Occasionally, the vanilla ASCII character set is used
-with the color codes, but on BBSs, ANSI and `IBM characters' tend to go
-together. :ANSI standard pizza: /an'see stan'd*rd peet'z*/ [CMU] Pepperoni
-and mushroom pizza. Coined allegedly because most pizzas ordered by
+see {{ASCII}} for other synonyms. :angband: n. ang'band Like {nethack},
+{moria}, and {rogue}, one of the large freely distributed
+Dungeons-and-Dragons-like simulation games, available for a wide range of
+machines and operating systems. The name is from Tolkien's Pits of Angband
+(compare {elder days}, {elvish}). Has been described as "Moria on steroids";
+but, unlike Moria, many aspects of the game are customizable. This leads many
+hackers and would-be hackers into fooling with these instead of doing
+productive work. There are many angband variants, of which the most notorious
+is probably the rather whimsical zangband. In this game, when a key that does
+not correspond to a command is pressed, the game will display "Type ? for
+help" 50% of the time. The other 50% of the time, random error messages
+including "An error has occurred because an error of type 42 has occurred"
+and "Windows 95 uninstalled successfully" will be displayed. Zangband also
+allows the player to kill Santa Claus, "Bull Gates", and Barney the Dinosaur.
+There is an official angband home page at `http://www.phial.com/angband' and
+a zangband one at `http://thangorodrim.angband.org'. :angle brackets: n.
+Either of the characters `<' (ASCII 0111100) and `>' (ASCII 0111110) (ASCII
+less-than or greater-than signs). Typographers in the {Real World} use angle
+brackets which are either taller and slimmer (the ISO `Bra' and `Ket'
+characters), or significantly smaller (single or double guillemets) than the
+less-than and greater-than signs. see {broket}, {{ASCII}}. :angry fruit
+salad: n. A bad visual-interface design that uses too many colors. (This term
+derives, of course, from the bizarre day-glo colors found in canned fruit
+salad.) Too often one sees similar effects from interface designers using
+color window systems such as {X}; there is a tendency to create displays that
+are flashy and attention-getting but uncomfortable for long-term use.
+:annoybot: /*-noy-bot/ n. [IRC] see {bot}. :annoyware: n. A type of
+{shareware} that frequently disrupts normal program operation to display
+requests for payment to the author in return for the ability to disable the
+request messages. (Also called `nagware') The requests generally require user
+action to acknowledge the message before normal operation is resumed and are
+often tied to the most frequently used features of the software. see also
+{careware}, {charityware}, {crippleware}, {freeware}, {FRS}, {guiltware},
+{postcardware}, and {-ware}; compare {payware}. :ANSI: /an'see/ 1. n.
+[techspeak] The American National Standards Institute. ANSI, along with the
+International Organization for Standards (ISO), standardized the C
+programming language (see {K&R}, {Classic C}), and promulgates many other
+important software standards. 2. n. [techspeak] A terminal may be said to be
+`ANSI' if it meets the ANSI X.364 standard for terminal control.
+Unfortunately, this standard was both over-complicated and too permissive. It
+has been retired and replaced by the ECMA-48 standard, which shares both
+flaws. 3. n. [BBS jargon] The set of screen-painting codes that most MS-DOS
+and Amiga computers accept. This comes from the ANSI.SYS device driver that
+must be loaded on an MS-DOS computer to view such codes. Unfortunately,
+neither DOS ANSI nor the BBS ANSIs derived from it exactly match the ANSI
+X.364 terminal standard. For example, the ESC-[1m code turns on the bold
+highlight on large machines, but in IBM PC/MS-DOS ANSI, it turns on `intense'
+(bright) colors. Also, in BBS-land, the term `ANSI' is often used to imply
+that a particular computer uses or can emulate the IBM high-half character
+set from MS-DOS. Particular use depends on context. Occasionally, the vanilla
+ASCII character set is used with the color codes, but on BBSs, ANSI and `IBM
+characters' tend to go together. :ANSI standard pizza: /an'see stan'd*rd
+peet'z*/ [CMU] Pepperoni and mushroom pizza. Coined allegedly because most
+pizzas ordered by

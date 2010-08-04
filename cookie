@@ -140,9 +140,9 @@ of this theory probably owes something to the "Warlock" stories by Larry
 Niven, the best known being "What Good is a Glass Dagger?", in which magic is
 fueled by an exhaustible natural resource called `mana'.) :con: n. [from SF
 fandom] A science-fiction convention. Not used of other sorts of conventions,
-such as professional meetings. This term, unlike many others of SF-fan slang,
-is widely recognized even by hackers who aren't {fan}s. "We'd been
-corresponding on the net for months, then we met face-to-face at a con."
+such as professional meetings. This term, unlike many others imported from
+SF-fan slang, is widely recognized even by hackers who aren't {fan}s. "We'd
+been corresponding on the net for months, then we met face-to-face at a con."
 :condition out: vt. To prevent a section of code from being compiled by
 surrounding it with a conditional-compilation directive whose condition is
 always false. The {canonical} examples of these directives are `#if 0' (or
