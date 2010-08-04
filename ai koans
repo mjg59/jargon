@@ -74,37 +74,39 @@ at least one very detailed version set at CMU. Brian Leibowitz has researched
 MIT hacks both real and mythical extensively; the interested reader is
 referred to his delightful pictorial compendium "The Journal of the Institute
 for Hacks, Tomfoolery, and Pranks" (MIT Museum, 1990; ISBN 0-917027-03-5).
-Finally, here is a story about one of the classic computer hacks. Back in the
-mid-1970s, several of the system support staff at Motorola discovered a
-relatively simple way to crack system security on the Xerox CP-V timesharing
-system. Through a simple programming strategy, it was possible for a user
-program to trick the system into running a portion of the program in `master
-mode' (supervisor state), in which memory protection does not apply. The
-program could then poke a large value into its `privilege level' byte
-(normally write-protected) and could then proceed to bypass all levels of
-security within the file-management system, patch the system monitor, and do
-numerous other interesting things. In short, the barn door was wide open.
-Motorola quite properly reported this problem to Xerox via an official `level
-1 SIDR' (a bug report with an intended urgency of `needs to be fixed
-yesterday'). Because the text of each SIDR was entered into a database that
-could be viewed by quite a number of people, Motorola followed the approved
-procedure: they simply reported the problem as `Security SIDR', and attached
-all of the necessary documentation, ways-to-reproduce, etc. The CP-V people
-at Xerox sat on their thumbs; they either didn't realize the severity of the
-problem, or didn't assign the necessary operating-system-staff resources to
-develop and distribute an official patch. Months passed. The Motorola guys
-pestered their Xerox field-support rep, to no avail. Finally they decided to
-take direct action, to demonstrate to Xerox management just how easily the
-system could be cracked and just how thoroughly the security safeguards could
-be subverted. They dug around in the operating-system listings and devised a
-thoroughly devilish set of patches. These patches were then incorporated into
-a pair of programs called `Robin Hood' and `Friar Tuck'. Robin Hood and Friar
-Tuck were designed to run as `ghost jobs' (daemons, in Unix terminology);
-they would use the existing loophole to subvert system security, install the
-necessary patches, and then keep an eye on one another's statuses in order to
-keep the system operator (in effect, the superuser) from aborting them. One
-fine day, the system operator on the main CP-V software development system in
-El Segundo was surprised by a number of unusual phenomena. These included the
+The Institute has a World Wide Web page at
+http://fishwrap.mit.edu/Hacks/Gallery.html. Finally, here is a story about
+one of the classic computer hacks. Back in the mid-1970s, several of the
+system support staff at Motorola discovered a relatively simple way to crack
+system security on the Xerox CP-V timesharing system. Through a simple
+programming strategy, it was possible for a user program to trick the system
+into running a portion of the program in `master mode' (supervisor state), in
+which memory protection does not apply. The program could then poke a large
+value into its `privilege level' byte (normally write-protected) and could
+then proceed to bypass all levels of security within the file-management
+system, patch the system monitor, and do numerous other interesting things.
+In short, the barn door was wide open. Motorola quite properly reported this
+problem to Xerox via an official `level 1 SIDR' (a bug report with an
+intended urgency of `needs to be fixed yesterday'). Because the text of each
+SIDR was entered into a database that could be viewed by quite a number of
+people, Motorola followed the approved procedure: they simply reported the
+problem as `Security SIDR', and attached all of the necessary documentation,
+ways-to-reproduce, etc. The CP-V people at Xerox sat on their thumbs; they
+either didn't realize the severity of the problem, or didn't assign the
+necessary operating-system-staff resources to develop and distribute an
+official patch. Months passed. The Motorola guys pestered their Xerox
+field-support rep, to no avail. Finally they decided to take direct action,
+to demonstrate to Xerox management just how easily the system could be
+cracked and just how thoroughly the security safeguards could be subverted.
+They dug around in the operating-system listings and devised a thoroughly
+devilish set of patches. These patches were then incorporated into a pair of
+programs called `Robin Hood' and `Friar Tuck'. Robin Hood and Friar Tuck were
+designed to run as `ghost jobs' (daemons, in Unix terminology); they would
+use the existing loophole to subvert system security, install the necessary
+patches, and then keep an eye on one another's statuses in order to keep the
+system operator (in effect, the superuser) from aborting them. One fine day,
+the system operator on the main CP-V software development system in El
+Segundo was surprised by a number of unusual phenomena. These included the
 following: * Tape drives would rewind and dismount their tapes in the middle
 of a job. * Disk drives would seek back and forth so rapidly that they would
 attempt to walk across the floor (see {walking drives}). * The card-punch
@@ -169,7 +171,7 @@ project. Steve Ciarcia, the man behind "Byte" magazine's "Circuit Cellar"
 feature, resurrected this ghost in one of his books of the early 1980s. He
 ascribed its popularity (no doubt correctly) to the feeling of power the
 builder could achieve by being able to decide himself what would be shown on
-the TV. -- ESR] [Antihistorical note: On September 23rd, 1992, the L.A. Times
+the TV. --ESR] [Antihistorical note: On September 23rd, 1992, the L.A. Times
 ran the following bit of filler: Solomon Waters of Altadena, a 6-year-old
 first-grader, came home from his first day of school and excitedly told his
 mother how he had written on "a machine that looks like a computer -- but

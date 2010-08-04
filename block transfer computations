@@ -1,4 +1,5 @@
  :block transfer computations: /n./ [from the television series "Dr. Who"]
 Computations so fiendishly subtle and complex that they could not be
 performed by machines. Used to refer to any task that should be expressible
-as an algorithm in theory, but isn't.
+as an algorithm in theory, but isn't. (The Z80's LDIR instruction, "Computed
+Block Transfer with increment", may also be relevant)

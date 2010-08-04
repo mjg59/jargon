@@ -5,6 +5,6 @@ compiler". The law was named after Melvin Conway, an early proto-hacker who
 wrote an assembler for the Burroughs 220 called SAVE. (The name `SAVE' didn't
 stand for anything; it was just that you lost fewer card decks and listings
 because they all had SAVE written on them.) There is also Tom Cheatham's
-amendment of Conway's Law: If a group of N persons implements a COBOL
+amendment of Conway's Law: "If a group of N persons implements a COBOL
 compiler, there will be N-1 passes. Someone in the group has to be the
-manager.
+manager."

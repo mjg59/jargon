@@ -6,4 +6,7 @@ micro-based Unix box kept clean of critical data, with a bunch of modems and
 public network ports on it but just one carefully watched connection back to
 the rest of the cluster. The special precautions may include threat
 monitoring, callback, and even a complete {iron box} keyable to particular
-incoming IDs or activity patterns. Syn. {flytrap}, {Venus flytrap}.
+incoming IDs or activity patterns. Syn. {flytrap}, {Venus flytrap}. [When
+first coined in the mid-1980s this term was pure jargon. Now (1996) it is
+borderline techspeak, and may have to be dropped from this lexicon before
+very long --ESR]

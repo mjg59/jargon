@@ -5,7 +5,7 @@ is a 6-letterism for `hacks memo'.) Some of them are very useful techniques,
 powerful theorems, or interesting unsolved problems, but most fall into the
 category of mathematical and computer trivia. Here is a sampling of the
 entries (with authors), slightly paraphrased: Item 41 (Gene Salamin): There
-are exactly 23,000 prime numbers less than 2^18. Item 46 (Rich Schroeppel):
+are exactly 23,000 prime numbers less than 2^(18). Item 46 (Rich Schroeppel):
 The most *probable* suit distribution in bridge hands is 4-4-3-2, as compared
 to 4-3-3-3, which is the most *evenly* distributed. This is because the world
 likes to have unequal numbers: a thermodynamic effect saying things will not
@@ -46,5 +46,5 @@ it would require backing up N - 1 characters before seeking the next
 N-character string. Note: This last item refers to a {Dissociated Press}
 implementation. see also {banana problem}. HAKMEM also contains some rather
 more complicated mathematical and technical items, but these examples show
-some of its fun flavor. An HTML transcription of the document</A> is
-available at ftp://ftp.netcom.com/pub/hb/hbaker/hakmem/hakmem.html.
+some of its fun flavor. An HTML transcription of the document is available at
+ftp://ftp.netcom.com/pub/hb/hbaker/hakmem/hakmem.html.

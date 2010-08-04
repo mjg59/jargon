@@ -5,6 +5,6 @@ Ghod!" from decades ago. H-infix marking of `Ghod' and other words spread
 into the 1960s counterculture via underground comix, and into early hackerdom
 either from the counterculture or from SF fandom (the three overlapped
 heavily at the time). More recently, the h infix has become an expected
-feature of benchmark names (Dhrystone, Rhealstone, etc.); this is prob.
+feature of benchmark names (Dhrystone, Rhealstone, etc.); this is probably
 patterning on the original Whetstone (the name of a laboratory) but
 influenced by the fannish/counterculture h infix.

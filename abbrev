@@ -1,1 +1,36 @@
- :abbrev: /*-breev'/, /*-brev'/ /n./ Common abbreviation for `abbreviation'.
+ A few new definitions attached to entries are marked [proposed]. These are
+usually generalizations suggested by editors or Usenet respondents in the
+process of commenting on previous definitions of those entries. These are
+*not* represented as established jargon. :Format For New Entries:
+======================== You can mail submissions for the Jargon File to
+jargon@@snark.thyrsus.com. All contributions and suggestions about the Jargon
+File will be considered donations to be placed in the public domain as part
+of this File, and may be used in subsequent paper editions. Submissions may
+be edited for accuracy, clarity and concision. Try to conform to the format
+already being used in the ASCII on-line version --- head-words separated from
+text by a colon (double colon for topic entries), cross-references in curly
+brackets (doubled for topic entries), pronunciations in slashes, etymologies
+in square brackets, single-space after definition numbers and word classes,
+etc. Stick to the standard ASCII character set (7-bit printable, no high-half
+characters or [nt]roff/TeX/Scribe escapes), as one of the versions generated
+from the master file is an info document that has to be viewable on a
+character tty. We are looking to expand the File's range of technical
+specialties covered. There are doubtless rich veins of jargon yet untapped in
+the scientific computing, graphics, and networking hacker communities; also
+in numerical analysis, computer architectures and VLSI design, language
+design, and many other related fields. Send us your jargon! We are *not*
+interested in straight technical terms explained by textbooks or technical
+dictionaries unless an entry illuminates `underground' meanings or aspects
+not covered by official histories. We are also not interested in `joke'
+entries -- there is a lot of humor in the file but it must flow naturally out
+of the explanations of what hackers do and how they think. It is OK to submit
+items of jargon you have originated if they have spread to the point of being
+used by people who are not personally acquainted with you. We prefer items to
+be attested by independent submission from two different sites. An HTML
+version of the File is available at http://www.ccil.org/jargon. Please send
+us URLs for materials related to the entries, so we can enrich the File's
+link structure. The Jargon File will be regularly maintained and made
+available for browsing on the World Wide Web, and will include a version
+number. Read it, pass it around, contribute -- this is *your* monument! The
+Jargon Lexicon ****************** = A = ===== :abbrev: /*-breev'/, /*-brev'/
+/n./ Common abbreviation for `abbreviation'.

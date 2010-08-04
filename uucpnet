@@ -1,4 +1,7 @@
- :UUCPNET: /n./ The store-and-forward network consisting of all the world's
-connected Unix machines (and others running some clone of the UUCP
+ :UUCPNET: /n. obs./ The store-and-forward network consisting of all the
+world's connected Unix machines (and others running some clone of the UUCP
 (Unix-to-Unix CoPy) software). Any machine reachable only via a {bang path}
-is on UUCPNET. see {network address}. = V = =====
+is on UUCPNET. This term has been rendered obsolescent by the spread of cheap
+Internet connections in the 1990s; the few remaining UUCP links are
+essentially slow channels to the Internet rather than an autonomous network.
+see {network address}. = V = =====

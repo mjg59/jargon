@@ -1,6 +1,6 @@
  :ANSI: /an'see/ 1. /n./ [techspeak] The American National Standards
-Institute. ANSI, along with the International Standards Organization (ISO),
-standardized the C programming language (see {K&R}, {Classic C}), and
+Institute. ANSI, along with the International Organization for Standards
+(ISO), standardized the C programming language (see {K&R}, {Classic C}), and
 promulgates many other important software standards. 2. /n./ [techspeak] A
 terminal may be said to be `ANSI' if it meets the ANSI X.364 standard for
 terminal control. Unfortunately, this standard was both over-complicated and

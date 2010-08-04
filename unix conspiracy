@@ -13,4 +13,7 @@ through disks and networks. Adherents of this `Unix virus' theory like to
 cite the fact that the well-known quotation "Unix is snake oil" was uttered
 by DEC president Kenneth Olsen shortly before DEC began actively promoting
 its own family of Unix workstations. (Olsen now claims to have been
-misquoted.)
+misquoted.) [If there was ever such a conspiracy, it got thoroughly out of
+the plotters' control after 1990. AT&T sold its UNIX operation to Novell
+around the same time {Linux} and other free-UNIX distributions were beginning
+to make noise. --ESR]

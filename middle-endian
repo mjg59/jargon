@@ -2,4 +2,4 @@
 byte orders such as 3-4-1-2 or 2-1-4-3, occasionally found in the
 packed-decimal formats of minicomputer manufacturers who shall remain
 nameless. see {NUXI problem}. Non-US hackers use this term to describe the
-American mm/dd/yy style of writing dates.
+American mm/dd/yy style of writing dates (Europeans write dd/mm/yy).

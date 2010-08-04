@@ -4,9 +4,9 @@ the Unix Version 6 kernel, and (2) a commentary on the source discussing the
 algorithms. These were circulated internally at the University of New South
 Wales beginning 1976--77, and were, for years after, the *only* detailed
 kernel documentation available to anyone outside Bell Labs. Because Western
-Electric wished to maintain trade secret status on the kernel, the Lions book
-was never formally published and was only supposed to be distributed to
-affiliates of source licensees (it is still possible to get a Bell Labs
-reprint of the book by sending a copy of a V6 source license to the right
-person at Bellcore, but *real* insiders have the UNSW edition). In spite of
-this, it soon spread by samizdat to a good many of the early Unix hackers.
+Electric wished to maintain trade secret status on the kernel, the Lions Book
+was only supposed to be distributed to affiliates of source licensees. In
+spite of this, it soon spread by samizdat to a good many of the early Unix
+hackers. [1996 update: The Lions book lives again! It will finally see legal
+public print as ISBN 1-57398-013-7 from Peer-To-Peer Communications, with a
+forward by Dennis Ritchie.]

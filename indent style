@@ -8,23 +8,23 @@ if any. `K&R style' -- Named after Kernighan & Ritchie, because the examples
 in {K&R} are formatted this way. Also called `kernel style' because the Unix
 kernel is written in it, and the `One True Brace Style' (abbrev. 1TBS) by its
 partisans. The basic indent shown here is eight spaces (or one tab) per
-level; four spaces are occasionally seen, but are much less common. if (cond)
-{ <body> } `Allman style' -- Named for Eric Allman, a Berkeley hacker who
-wrote a lot of the BSD utilities in it (it is sometimes called `BSD style').
-Resembles normal indent style in Pascal and Algol. Basic indent per level
-shown here is eight spaces, but four spaces are just as common (esp. in C++
-code). if (cond) { <body> } `Whitesmiths style' -- popularized by the
-examples that came with Whitesmiths C, an early commercial C compiler. Basic
-indent per level shown here is eight spaces, but four spaces are occasionally
-seen. if (cond) { <body> } `GNU style' -- Used throughout GNU EMACS and the
-Free Software Foundation code, and just about nowhere else. Indents are
-always four spaces per level, with `{' and `}' halfway between the outer and
-inner indent levels. if (cond) { <body> } Surveys have shown the Allman and
-Whitesmiths styles to be the most common, with about equal mind shares.
-K&R/1TBS used to be nearly universal, but is now much less common (the
-opening brace tends to get lost against the right paren of the guard part in
-an `if' or `while', which is a {Bad Thing}). Defenders of 1TBS argue that any
-putative gain in readability is less important than their style's relative
-economy with vertical space, which enables one to see more code on one's
-screen at once. Doubtless these issues will continue to be the subject of
-{holy wars}.
+level; four spaces are occasionally seen, but are much less common. if
+(<cond>) { <body> } `Allman style' -- Named for Eric Allman, a Berkeley
+hacker who wrote a lot of the BSD utilities in it (it is sometimes called
+`BSD style'). Resembles normal indent style in Pascal and Algol. Basic indent
+per level shown here is eight spaces, but four spaces are just as common
+(esp. in C++ code). if (<cond>) { <body> } `Whitesmiths style' -- popularized
+by the examples that came with Whitesmiths C, an early commercial C compiler.
+Basic indent per level shown here is eight spaces, but four spaces are
+occasionally seen. if (<cond>) { <body> } `GNU style' -- Used throughout GNU
+EMACS and the Free Software Foundation code, and just about nowhere else.
+Indents are always four spaces per level, with `{' and `}' halfway between
+the outer and inner indent levels. if (<cond>) { <body> } Surveys have shown
+the Allman and Whitesmiths styles to be the most common, with about equal
+mind shares. K&R/1TBS used to be nearly universal, but is now much less
+common (the opening brace tends to get lost against the right paren of the
+guard part in an `if' or `while', which is a {Bad Thing}). Defenders of 1TBS
+argue that any putative gain in readability is less important than their
+style's relative economy with vertical space, which enables one to see more
+code on one's screen at once. Doubtless these issues will continue to be the
+subject of {holy wars}.

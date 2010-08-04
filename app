@@ -5,5 +5,5 @@ to think of the things they themselves run as apps; thus, in hacker parlance
 the term excludes compilers, program editors, games, and messaging systems,
 though a user would consider all those to be apps. (Broadly, an app is often
 a self-contained environment for performing some well-defined task such as
-`word processing'; hackers tend to prefer more general-purpose tools.) Oppose
-{tool}, {operating system}.
+`word processing'; hackers tend to prefer more general-purpose tools.) see
+{killer app}; oppose {tool}, {operating system}.

@@ -1,5 +1,5 @@
  :Dissociated Press: /n./ [play on `Associated Press'; perhaps inspired by a
-reference in the 1949 Bugs Bunny cartoon "What's Up, Doc?"] An algorithm for
+reference in the 1950 Bugs Bunny cartoon "What's Up, Doc?"] An algorithm for
 transforming any text into potentially humorous garbage even more efficiently
 than by passing it through a {marketroid}. The algorithm starts by printing
 any N consecutive words (or letters) in the text. Then at every step it
