@@ -1,6 +1,5 @@
- :Right Thing: n. That which is _compellingly_ the correct or appropriate
-thing to use, do, say, etc. Often capitalized, always emphasized in speech as
+ :Right Thing: n. That which is compellingly the correct or appropriate thing
+to use, do, say, etc. Often capitalized, always emphasized in speech as
 though capitalized. Use of this term often implies that in fact reasonable
-people may disagree. "What's the right thing for LISP to do when it sees
-`(mod a 0)'? Should it return `a', or give a divide-by-0 error?" Oppose
-{Wrong Thing}.
+people may disagree. "What's the right thing for LISP to do when it sees (mod
+a 0)? Should it return a, or give a divide-by-0 error?" Oppose {Wrong Thing}.

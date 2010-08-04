@@ -14,6 +14,6 @@ definite, complete 'nothing'). Native speakers of Japanese do not recognize
 the Discordian question-denying use, which almost certainly derives from
 overgeneralization of the answer in the following well-known Rinzai Zen
 {koan}: A monk asked Joshu, "Does a dog have the Buddha nature?" Joshu
-retorted, "Mu!" see also {has the X nature}, {Some AI Koans}, and Douglas
-Hofstadter's "Go"del, Escher, Bach: An Eternal Golden Braid" (pointer in the
-{Bibliography} in Appendix C.
+retorted, "Mu!" see also {has the X nature}, Some AI Koans, and Douglas
+Hofstadter's Gödel, Escher, Bach: An Eternal Golden Braid (pointer in the
+Bibliography in Appendix C.

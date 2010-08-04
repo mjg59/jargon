@@ -5,8 +5,8 @@ backbone sites as of early 1993, when this sense of the term was beginning to
 pass out of general use due to wide availability of cheap Internet
 connections, included uunet and the mail machines at Rutgers University, UC
 Berkeley, {DEC}'s Western Research Laboratories, Ohio State University, and
-the University of Texas. Compare {rib site}, {leaf site}. [2001 update: This
-term has passed into history. The UUCP network world that gave it meaning is
-gone; everyone is on the Internet now and network traffic is distributed in
-very different patterns. Today one might see references to a `backbone
-router' instead --ESR]
+the University of Texas. Compare {leaf site}. [2001 update: This term has
+passed into history. The UUCP network world that gave it meaning is gone;
+everyone is on the Internet now and network traffic is distributed in very
+different patterns. Today one might see references to a "backbone router"
+instead --ESR]

@@ -1,9 +1,9 @@
  :fence: n. 1. A sequence of one or more distinguished ({out-of-band})
 characters (or other data items), used to delimit a piece of data intended to
-be treated as a unit (the computer-science literature calls this a
-`sentinel'). The NUL (ASCII 0000000) character that terminates strings in C
-is a fence. Hex FF is also (though slightly less frequently) used this way.
-see {zigamorph}. 2. An extra data value inserted in an array or other data
+be treated as a unit (the computer-science literature calls this a sentinel).
+The NUL (ASCII 0000000) character that terminates strings in C is a fence.
+Hex FF is also (though slightly less frequently) used this way. see
+{zigamorph}. 2. An extra data value inserted in an array or other data
 structure in order to allow some normal test on the array's contents also to
 function as a termination test. For example, a highly optimized routine for
 finding a value in an array might artificially place a copy of the value to

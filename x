@@ -1,4 +1,4 @@
- :X: /X/ n. 1. Used in various speech and writing contexts (also in
+ :X: /X/, n. 1. Used in various speech and writing contexts (also in
 lowercase) in roughly its algebraic sense of `unknown within a set defined by
 context' (compare {N}). Thus, the abbreviation 680x0 stands for 68000, 68010,
 68020, 68030, or 68040, and 80x86 stands for 80186, 80286, 80386, 80486,

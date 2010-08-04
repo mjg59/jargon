@@ -1,18 +1,11 @@
- :ADVENT: /ad'vent/ n. The prototypical computer adventure game, first
+ :ADVENT: /ad´vent/, n. The prototypical computer adventure game, first
 designed by Will Crowther on the {PDP-10} in the mid-1970s as an attempt at
 computer-refereed fantasy gaming, and expanded into a puzzle-oriented game by
 Don Woods at Stanford in 1976. (Woods had been one of the authors of
 {INTERCAL}.) Now better known as Adventure or Colossal Cave Adventure, but
-the {{TOPS-10}} operating system permitted only six-letter filenames. see
-also {vadding}, {Zork}, and {Infocom}. This game defined the terse, dryly
-humorous style since expected in text adventure games, and popularized
-several tag lines that have become fixtures of hacker-speak: "A huge green
-fierce snake bars the way!" "I see no X here" (for some noun X). "You are in
-a maze of twisty little passages, all alike." "You are in a little maze of
-twisty passages, all different." The `magic words' {xyzzy} and {plugh} also
-derive from this game. Crowther, by the way, participated in the exploration
-of the Mammoth & Flint Ridge cave system; it actually _has_ a `Colossal Cave'
-and a `Bedquilt' as in the game, and the `Y2' that also turns up is cavers'
-jargon for a map reference to a secondary entrance. ADVENT sources are
-available for FTP at
-`ftp://ftp.wustl.edu/doc/misc/if-archive/games/source/advent.tar.Z'.
+the {TOPS-10} operating system permitted only six-letter filenames in
+uppercase. see also {vadding}, {Zork}, and {Infocom}. Figure 1. Screen shot
+of the original ADVENT game Orange River Chamber You are in a splendid
+chamber thirty feet high. The walls are frozen rivers of orange stone. An
+awkward canyon and a good passage exit from east and west sidesof the
+chamber.

@@ -1,4 +1,4 @@
- :livelock: /li:v'lok/ n. A situation in which some critical stage of a task
+ :livelock: /li:v´lok/, n. A situation in which some critical stage of a task
 is unable to finish because its clients perpetually create more work for it
 to do after they have been serviced but before it can clear its queue.
 Differs from {deadlock} in that the process is not blocked or waiting for

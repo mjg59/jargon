@@ -7,6 +7,6 @@ Harvey successfully solved mazes by keeping a `finger' on one wall and
 running till it came out the other end. This was inelegant, but it was
 mathematically guaranteed to work on simply-connected mazes -- and, in fact,
 Harvey outperformed more sophisticated robots that tried to `learn' each maze
-by building an internal representation of it. Used of humans, the term _is_
+by building an internal representation of it. Used of humans, the term is
 pejorative and implies an uncreative, bureaucratic, by-the-book mentality.
 see also {code grinder}; compare {droid}.

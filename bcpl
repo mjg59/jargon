@@ -1,4 +1,4 @@
- :BCPL: // n. [abbreviation, `Basic Combined Programming Language') A
+ :BCPL: //, n. [abbreviation, "Basic Combined Programming Language") A
 programming language developed by Martin Richards in Cambridge in 1967. It is
 remarkable for its rich syntax, small size of compiler (it can be run in 16k)
 and extreme portability. It reached break-even point at a very early stage,

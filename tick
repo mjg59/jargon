@@ -2,6 +2,6 @@
 time that passes between iterations of the simulation mechanism. In AI
 applications, this amount of time is often left unspecified, since the only
 constraint of interest is the ordering of events. This sort of AI simulation
-is often pejoratively referred to as `tick-tick-tick' simulation, especially
+is often pejoratively referred to as tick-tick-tick simulation, especially
 when the issue of simultaneity of events with long, independent chains of
 causes is {handwave}d. 3. In the FORTH language, a single quote character.

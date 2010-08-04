@@ -1,5 +1,5 @@
- :INTERCAL: /in't*r-kal/ n. [said by the authors to stand for `Compiler
-Language With No Pronounceable Acronym'] A computer language designed by Don
+ :INTERCAL: /in´t@r·kal/, n. [said by the authors to stand for Compiler
+Language With No Pronounceable Acronym] A computer language designed by Don
 Woods and James Lyons in 1972. INTERCAL is purposely different from all other
 computer languages in all ways but one; it is purely a written language,
 being totally unspeakable. An excerpt from the INTERCAL Reference Manual will
@@ -17,6 +17,6 @@ people at Princeton. The language has been recently reimplemented as
 C-INTERCAL and is consequently enjoying an unprecedented level of
 unpopularity; there is even an alt.lang.intercal newsgroup devoted to the
 study and ... appreciation of the language on Usenet. Inevitably, INTERCAL
-has a home page on the Web: `http://www.tuxedo.org/~esr/intercal/'. An
-extended version, implemented in (what else?) {Perl} and adding
-object-oriented features, is rumored to exist. see also {Befunge}.
+has a home page on the Web: http://www.catb.org/~esr/intercal/. An extended
+version, implemented in (what else?) {Perl} and adding object-oriented
+features, is rumored to exist. see also {Befunge}.

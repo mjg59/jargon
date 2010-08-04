@@ -1,7 +1,7 @@
  :ping: [from the submariners' term for a sonar pulse] 1. n. Slang term for a
 small network message (ICMP ECHO) sent by a computer to check for the
-presence and alertness of another. The Unix command `ping(8)' can be used to
-do this manually (note that `ping(8)"s author denies the widespread folk
+presence and alertness of another. The Unix command ping(8) can be used to do
+this manually (note that ping(8)'s author denies the widespread folk
 etymology that the name was ever intended as an acronym for `Packet INternet
 Groper'). Occasionally used as a phone greeting. see {ACK}, also {ENQ}. 2.
 vt. To verify the presence of. 3. vt. To get the attention of. 4. vt. To send
@@ -17,14 +17,13 @@ happiness; I have been struck by a quantum of happiness). The form
 (In the standard abuse of language, "pingfulness" can also be used as an
 exclamation, in which case it's a much stronger exclamation than just
 "ping"!). Oppose {blargh}. The funniest use of `ping' to date was described
-(http://groups.google.com/groups?selm=1991Jan23.211609.877%40news.cs.indiana.e
-du) in January 1991 by Steve Hayman on the Usenet group comp.sys.next. He was
+in January 1991 by Steve Hayman on the Usenet group comp.sys.next. He was
 trying to isolate a faulty cable segment on a TCP/IP Ethernet hooked up to a
 NeXT machine, and got tired of having to run back to his console after each
 cabling tweak to see if the ping packets were getting through. So he used the
 sound-recording feature on the NeXT, then wrote a script that repeatedly
-invoked `ping(8)', listened for an echo, and played back the recording on
-each returned packet. Result? A program that caused the machine to repeat,
-over and over, "Ping ... ping ... ping ..." as long as the network was up. He
+invoked ping(8), listened for an echo, and played back the recording on each
+returned packet. Result? A program that caused the machine to repeat, over
+and over, "Ping ... ping ... ping ..." as long as the network was up. He
 turned the volume to maximum, ferreted through the building with one ear
 cocked, and found a faulty tee connector in no time.

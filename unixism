@@ -1,10 +1,10 @@
  :unixism: n. A piece of code or a coding technique that depends on the
 protected multi-tasking environment with relatively low process-spawn
 overhead that exists on virtual-memory Unix systems. Common {unixism}s
-include: gratuitous use of `fork(2)'; the assumption that certain
-undocumented but well-known features of Unix libraries such as `stdio(3)' are
-supported elsewhere; reliance on {obscure} side-effects of system calls (use
-of `sleep(2)' with a 0 argument to clue the scheduler that you're willing to
-give up your time-slice, for example); the assumption that freshly allocated
+include: gratuitous use of fork(2); the assumption that certain undocumented
+but well-known features of Unix libraries such as stdio(3) are supported
+elsewhere; reliance on {obscure} side-effects of system calls (use of
+sleep(2) with a 0 argument to clue the scheduler that you're willing to give
+up your time-slice, for example); the assumption that freshly allocated
 memory is zeroed; and the assumption that fragmentation problems won't arise
-from never `free()'ing memory. Compare {vaxocentrism}; see also {New Jersey}.
+from never free()ing memory. Compare {vaxocentrism}; see also {New Jersey}.

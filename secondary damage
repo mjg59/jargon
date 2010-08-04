@@ -1,10 +1,10 @@
  :secondary damage: n. When a fatal error occurs (esp. a {segfault}) the
 immediate cause may be that a pointer has been trashed due to a previous
-{fandango on core}. However, this fandango may have been due to an _earlier_
+{fandango on core}. However, this fandango may have been due to an earlier
 fandango, so no amount of analysis will reveal (directly) how the damage
 occurred. "The data structure was clobbered, but it was secondary damage." By
 extension, the corruption resulting from N cascaded fandangoes on core is
 `Nth-level damage'. There is at least one case on record in which 17 hours of
-{grovel}ling with `adb' actually dug up the underlying bug behind an instance
+{grovel}ling with adb actually dug up the underlying bug behind an instance
 of seventh-level damage! The hacker who accomplished this near-superhuman
 feat was presented with an award by his fellows.

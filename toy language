@@ -2,7 +2,7 @@
 proof-of-concept for some aspect of computer-science theory, but inadequate
 for general-purpose programming. {Bad Thing}s can result when a toy language
 is promoted as a general purpose solution for programming (see
-{bondage-and-discipline language}); the classic example is {{Pascal}}.
-Several moderately well-known formalisms for conceptual tasks such as
-programming Turing machines also qualify as toy languages in a less negative
-sense. see also {MFTL}.
+{bondage-and-discipline language}); the classic example is {Pascal}. Several
+moderately well-known formalisms for conceptual tasks such as programming
+Turing machines also qualify as toy languages in a less negative sense. see
+also {MFTL}.

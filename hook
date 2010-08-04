@@ -11,5 +11,5 @@ or as Hebrew characters, and plug it into the program through the hook. Often
 the difference between a good program and a superb one is that the latter has
 useful hooks in judiciously chosen places. Both may do the original job about
 equally well, but the one with the hooks is much more flexible for future
-expansion of capabilities ({EMACS}, for example, is _all_ hooks). The term
-`user exit' is synonymous but much more formal and less hackish.
+expansion of capabilities ({EMACS}, for example, is all hooks). The term user
+exit is synonymous but much more formal and less hackish.

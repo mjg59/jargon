@@ -4,6 +4,6 @@ maintaining several nearly identical copies of the same source tree -- for
 example, when the only difference is architecture-dependent object files.
 "Let's freeze the source and then rebuild the FROBOZZ-3 and FROBOZZ-4 link
 farms." Link farms may also be used to get around restrictions on the number
-of `-I' (include-file directory) arguments on older C preprocessors. However,
+of -I (include-file directory) arguments on older C preprocessors. However,
 they can also get completely out of hand, becoming the filesystem equivalent
 of {spaghetti code}. see also {farm}.

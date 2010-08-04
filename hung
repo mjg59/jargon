@@ -4,6 +4,6 @@ at Unix/C sites. Not generally used of people. Syn. with {locked up},
 from {crash}ed or {down}, where the program or system is also unusable but
 because it is not running rather than because it is waiting for something.
 However, the recovery from both situations is often the same. It is also
-distinguished from the similar but more drastic state {wedged} - hung
+distinguished from the similar but more drastic state {wedged} -- hung
 software can be woken up with easy things like interrupt keys, but wedged
 will need a kill -9 or even reboot.

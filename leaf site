@@ -2,6 +2,6 @@
 machine that merely originated and read Usenet news or mail, and did not
 relay any third-party traffic. It was often uttered in a critical tone; when
 the ratio of leaf sites to backbone, rib, and other relay sites got too high,
-the network tended to develop bottlenecks. Compare {backbone site}, {rib
-site}. Now that traffic patterns depend more on the distribution of routers
-than of host machines this term has largely fallen out of use.
+the network tended to develop bottlenecks. Compare {backbone site}. Now that
+traffic patterns depend more on the distribution of routers than of host
+machines this term has largely fallen out of use.

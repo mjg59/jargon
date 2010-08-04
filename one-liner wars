@@ -5,8 +5,7 @@ chosen from APL's exceedingly {hairy} primitive set. A similar amusement was
 practiced among {TECO} hackers and is now popular among {Perl} aficionados.
 Ken Iverson, the inventor of APL, has been credited with a one-liner that,
 given a number N, produces a list of the prime numbers from 1 to N inclusive.
-It looks like this: (2 = 0 +.= T o.| T) / T <- iN where `o' is the APL null
-character, the assignment arrow is a single character, and `i' represents the
-APL iota. Here's a {Perl} program that prints primes: perl -wle '(1 x $_) !~
-/^(11+)\1+$/ && print while ++ $_' In the Perl world this game is sometimes
-called Perl Golf because the player with the fewest (key)strokes wins.
+It looks like this: (2=0+.=T{}.|T)/T<-iN Here's a {Perl} program that prints
+primes: perl -wle '(1 x $_) !~ /^(11+)\1+$/ && print while ++ $_' In the Perl
+world this game is sometimes called Perl Golf because the player with the
+fewest (key)strokes wins.

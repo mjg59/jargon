@@ -5,22 +5,22 @@ Today, SEX parties are popular among hackers and others (of course, these are
 no longer limited to exchanges of genetic software). In general, SEX parties
 are a {Good Thing}, but unprotected SEX can propagate a {virus}. see also
 {pubic directory}. 2. The rather Freudian mnemonic often used for Sign
-EXtend, a machine instruction found in the PDP-11 and many other
+EXtend, a machine instruction found in the {PDP-11} and many other
 architectures. The RCA 1802 chip used in the early Elf and SuperElf personal
 computers had a `SEt X register' SEX instruction, but this seems to have had
-little folkloric impact. The Data General instruction set also had `SEX'.
-{DEC}'s engineers nearly got a PDP-11 assembler that used the `SEX' mnemonic
+little folkloric impact. The Data General instruction set also had SEX.
+{DEC}'s engineers nearly got a {PDP-11} assembler that used the SEX mnemonic
 out the door at one time, but (for once) marketing wasn't asleep and forced a
-change. That wasn't the last time this happened, either. The author of "The
-Intel 8086 Primer", who was one of the original designers of the 8086, noted
-that there was originally a `SEX' instruction on that processor, too. He says
+change. That wasn't the last time this happened, either. The author of The
+Intel 8086 Primer, who was one of the original designers of the 8086, noted
+that there was originally a SEX instruction on that processor, too. He says
 that Intel management got cold feet and decreed that it be changed, and thus
-the instruction was renamed `CBW' and `CWD' (depending on what was being
+the instruction was renamed CBW and CWD (depending on what was being
 extended). Amusingly, the Intel 8048 (the microcontroller used in IBM PC
-keyboards) is also missing straight `SEX' but has logical-or and logical-and
-instructions `ORL' and `ANL'. The Motorola 6809, used in the Radio Shack
-Color Computer and in U.K.'s `Dragon 32' personal computer, actually had an
-official `SEX' instruction; the 6502 in the Apple II with which it competed
-did not. British hackers thought this made perfect mythic sense; after all,
-it was commonly observed, you could (on some theoretical level) have sex with
-a dragon, but you can't have sex with an apple.
+keyboards) is also missing straight SEX but has logical-or and logical-and
+instructions ORL and ANL. The Motorola 6809, used in the Radio Shack Color
+Computer and in U.K.'s `Dragon 32' personal computer, actually had an
+official SEX instruction; the 6502 in the Apple II with which it competed did
+not. British hackers thought this made perfect mythic sense; after all, it
+was commonly observed, you could (on some theoretical level) have sex with a
+dragon, but you can't have sex with an apple.

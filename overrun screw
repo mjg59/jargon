@@ -3,9 +3,9 @@ by scribbling past the end of an array (C implementations typically have no
 checks for this error). This is relatively benign and easy to spot if the
 array is static; if it is auto, the result may be to {smash the stack} --
 often resulting in {heisenbug}s of the most diabolical subtlety. The term
-`overrun screw' is used esp. of scribbles beyond the end of arrays allocated
-with `malloc(3)'; this typically trashes the allocation header for the next
+overrun screw is used esp. of scribbles beyond the end of arrays allocated
+with malloc(3); this typically trashes the allocation header for the next
 block in the {arena}, producing massive lossage within malloc and often a
-core dump on the next operation to use `stdio(3)' or `malloc(3)' itself. see
+core dump on the next operation to use stdio(3) or malloc(3) itself. see
 {spam}, {overrun}; see also {memory leak}, {memory smash}, {aliasing bug},
 {precedence lossage}, {fandango on core}, {secondary damage}.

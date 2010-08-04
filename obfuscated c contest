@@ -5,8 +5,8 @@ unreadable, creative, and bizarre (but working) C program; various other
 prizes are awarded at the judges' whim. C's terse syntax and
 macro-preprocessor facilities give contestants a lot of maneuvering room. The
 winning programs often manage to be simultaneously (a) funny, (b)
-breathtaking works of art, and (c) horrible examples of how _not_ to code in
-C. This relatively short and sweet entry might help convey the flavor of
+breathtaking works of art, and (c) horrible examples of how not to code in C.
+This relatively short and sweet entry might help convey the flavor of
 obfuscated C: /* * HELLO WORLD program * by Jack Applin and Robert
 Heckendorn, 1985 * (Note: depends on being able to modify elements of argv[],
 * which is not guaranteed by ANSI and often not possible.) */
@@ -24,4 +24,4 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 _-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_ _-_-_-_ }
 Note that this program works by computing its own area. For more digits,
 write a bigger program. see also {hello world}. The IOCCC has an official
-home page at `http://www.ioccc.org/'.
+home page at http://www.ioccc.org/.

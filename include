@@ -1,6 +1,5 @@
  :include: vt. [Usenet] 1. To duplicate a portion (or whole) of another's
 message (typically with attribution to the source) in a reply or followup,
 for clarifying the context of one's response. see the discussion of inclusion
-styles under "Hacker Writing Style". 2. [from {C}] `#include <disclaimer.h>'
-has appeared in {sig block}s to refer to a notional `standard {disclaimer}
-file'.
+styles under Hacker Writing Style. 2. [from {C}] #include <disclaimer.h> has
+appeared in {sig block}s to refer to a notional standard {disclaimer} file.

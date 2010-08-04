@@ -7,7 +7,7 @@ works better that way -- such an inconsistency is therefore a {feature} and
 not a {bug}. This kind of feature is sometimes called a {miswart}; see that
 entry for a classic example. 4. A property or behavior that is gratuitous or
 unnecessary, though perhaps also impressive or cute. For example, one feature
-of Common LISP's `format' function is the ability to print numbers in two
+of Common LISP's format function is the ability to print numbers in two
 different Roman-numeral formats (see {bells whistles and gongs}). 5. A
 property or behavior that was put in to help someone else but that happens to
 be in your way. 6. [common] A bug that has been documented. To call something
@@ -28,8 +28,8 @@ increased spacing in only one section it would have been a wart -- they
 would've had to make nonstandard-length ceiling panels to fit over the
 displaced seats." A: "A miswart, actually. If they increased spacing
 throughout they'd lose several rows and a chunk out of the profit margin. So
-unequal spacing would actually be the Right Thing." B: "Indeed."
-`Undocumented feature' is a common, allegedly humorous euphemism for a {bug}.
-There's a related joke that is sometimes referred to as the "one-question
-geek test". You say to someone "I saw a Volkswagen Beetle today with a vanity
-license plate that read FEATURE". If he/she laughs, he/she is a {geek}.
+unequal spacing would actually be the Right Thing." B: "Indeed." Undocumented
+feature is a common, allegedly humorous euphemism for a {bug}. There's a
+related joke that is sometimes referred to as the "one-question geek test".
+You say to someone "I saw a Volkswagen Beetle today with a vanity license
+plate that read FEATURE". If he/she laughs, he/she is a {geek}.

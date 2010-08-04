@@ -1,17 +1,72 @@
- :ASCII art: n. The fine art of drawing diagrams using the ASCII character
-set (mainly `|', `-', `/', `\', and `+'). Also known as `character graphics'
-or `ASCII graphics'; see also {boxology}. Here is a serious example:
-o----)||(--+--|<----+ +---------o + D O L )||( | | | C U A I )||( +-->|-+ |
-+-\/\/-+--o - T C N )||( | | | | P E )||( +-->|-+--)---+--|(--+-o U )||( | |
-| GND T o----)||(--+--|<----+----------+ A power supply consisting of a full
-wave rectifier circuit feeding a capacitor input filter circuit And here are
-some very silly examples: |\/\/\/| ____/| ___ |\_/| ___ | | \ o.O| ACK! / \_
-|` '| _/ \ | | =(_)= THPHTH! / \/ \/ \ | (o)(o) U / \ C _) (__) \/\/\/\ _____
-/\/\/\/ | ,___| (oo) \/ \/ | / \/-------\ U (__) /____\ || | \ /---V `v'- oo
-) / \ ||---W|| * * |--| || |`. |_/\ //-o-\\ ____---=======---____ ====___\
-/.. ..\ /___==== Klingons rule OK! // ---\__O__/--- \\ \_\ /_/ There is an
-important subgenre of ASCII art that puns on the standard character names in
-the fashion of a rebus.
+ : Common: <colon>. Rare: dots; [two-spot]. ; Common: <semicolon>; semi.
+Rare: weenie; [hybrid], pit-thwong. < > Common: <less/greater than>; bra/ket;
+l/r angle; l/r angle bracket; l/r broket. Rare: from/{into, towards}; read
+from/write to; suck/blow; comes-from/gozinta; in/out; crunch/zap (all from
+UNIX); tic/tac; [angle/right angle]. = Common: <equals>; gets; takes. Rare:
+quadrathorpe; [half-mesh]. ? Common: query; <question mark>; {ques} . Rare:
+quiz; whatmark; [what]; wildchar; huh; hook; buttonhook; hunchback. @ Common:
+at sign; at; strudel. Rare: each; vortex; whorl; [whirlpool]; cyclone; snail;
+ape; cat; rose; cabbage; <commercial at>. V Rare: [book]. [ ] Common: l/r
+square bracket; l/r bracket; <opening/closing brack­ et>; bracket/unbracket.
+Rare: square/unsquare; [U turn/U turn back]. \ Common: backslash, hack,
+whack; escape (from C/UNIX); reverse slash; slosh; backslant; backwhack.
+Rare: bash; <reverse slant>; reversed virgule; [backslat]. ^ Common: hat;
+control; uparrow; caret; <circumflex>. Rare: xor sign, chevron; [shark (or
+shark-fin)]; to the (`to the power of'); fang; pointer (in Pascal). _ Common:
+<underline>; underscore; underbar; under. Rare: score; backarrow; skid;
+[flatworm]. ` Common: backquote; left quote; left single quote; open quote;
+<grave accent>; grave. Rare: backprime; [backspark]; unapostrophe; birk;
+blugle; back tick; back glitch; push; <opening single quotation mark>;
+quasiquote. { } Common: o/c brace; l/r brace; l/r squiggly; l/r squiggly
+bracket/brace; l/r curly bracket/brace; <opening/closing brace>. Rare:
+brace/unbrace; curly/uncurly; leftit/rytit; l/r squirrelly;
+[embrace/bracelet]. A balanced pair of these may be called curlies . |
+Common: bar; or; or-bar; v-bar; pipe; vertical bar. Rare: <vertical line>;
+gozinta; thru; pipesinta (last three from UNIX); [spike]. ~ Common: <tilde>;
+squiggle; {twiddle} ; not. Rare: approx; wiggle; swung dash; enyay; [sqiggle
+(sic)]. The pronunciation of # as `pound' is common in the U.S. but a bad
+idea; {Commonwealth Hackish} has its own, rather more apposite use of `pound
+sign' (confusingly, on British keyboards the £ happens to replace #; thus
+Britishers sometimes call # on a U.S.-ASCII keyboard `pound', compounding the
+American error). The U.S. usage derives from an old-fashioned commercial
+practice of using a # suffix to tag pound weights on bills of lading. The
+character is usually pronounced `hash' outside the U.S. There are more
+culture wars over the correct pronunciation of this character than any other,
+which has led to the {ha ha only serious} suggestion that it be pronounced
+"shibboleth" (see Judges 12:6 in an Old Testament or Tanakh). The `uparrow'
+name for circumflex and `leftarrow' name for underline are historical relics
+from archaic ASCII (the 1963 version), which had these graphics in those
+character positions rather than the modern punctuation characters. The `swung
+dash' or `approximation' sign (?1) is not quite the same as tilde ~ in
+typeset material, but the ASCII tilde serves for both (compare {angle
+brackets}). Some other common usages cause odd overlaps. The #, $, >, and &
+characters, for example, are all pronounced "hex" in different communities
+because various assemblers use them as a prefix tag for hexadecimal constants
+(in particular, # in many assembler-programming cultures, $ in the 6502
+world, > at Texas Instruments, and & on the BBC Micro, Sinclair, and some Z80
+machines). see also {splat}. The inability of ASCII text to correctly
+represent any of the world's other major languages makes the designers'
+choice of 7 bits look more and more like a serious {misfeature} as the use of
+international networks continues to increase (see {software rot}). Hardware
+and software from the U.S. still tends to embody the assumption that ASCII is
+the universal character set and that characters have 7 bits; this is a major
+irritant to people who want to use a character set suited to their own
+languages. Perversely, though, efforts to solve this problem by proliferating
+`national' character sets produce an evolutionary pressure to use a smaller
+subset common to all those in use. :ASCII art: n. The fine art of drawing
+diagrams using the ASCII character set (mainly |, -, /, \, and +). Also known
+as character graphics or ASCII graphics; see also {boxology}. Here is a
+serious example: o----)||(--+--|<----+ +---------o + D O L )||( | | | C U A I
+)||( +-->|-+ | +-\/\/-+--o - T C N )||( | | | | P E )||(
++-->|-+--)---+--|(--+-o U )||( | | | GND T o----)||(--+--|<----+----------+ A
+power supply consisting of a full wave rectifier circuit feeding a capacitor
+input filter circuit And here are some very silly examples: |\/\/\/| ____/|
+___ |\_/| ___ | | \ o.O| ACK! / \_ |` '| _/ \ | | =(_)= THPHTH! / \/ \/ \ |
+(o)(o) U / \ C _) (__) \/\/\/\ _____ /\/\/\/ | ,___| (oo) \/ \/ | /
+\/-------\ U (__) /____\ || | \ /---V `v'- oo ) / \ ||---W|| * * |--| || |`.
+|_/\ //-o-\\ ____---=======---____ ====___\ /.. ..\ /___==== Klingons rule
+OK! // ---\__O__/--- \\ \_\ /_/ There is an important subgenre of ASCII art
+that puns on the standard character names in the fashion of a rebus.
 +--------------------------------------------------------+ | ^^^^^^^^^^^^ | |
 ^^^^^^^^^^^ ^^^^^^^^^ | | ^^^^^^^^^^^^^ ^^^^^^^^^^^^^ | | ^^^^^^^ B ^^^^^^^^^
 | | ^^^^^^^^^ ^^^ ^^^^^^^^^^^^^^ |
@@ -27,17 +82,3 @@ JL/ | \JL .-. i () | () i .-. |_| .^. /_\ LJ=======LJ /_\ .^. |_|
 ._/___\._./___\_._._._._.L_J_/.-. .-.\_L_J._._._._._/___\._./___\._._._ .,
 |-,-| ., L_J |_| [I] |_| L_J ., |-,-| ., ., JL |-O-| JL L_J%%%%%%%%%%%%%%%L_J
 JL |-O-| JL JL
-IIIIII_HH_'-'-'_HH_IIIIII|_|=======H=======|_|IIIIII_HH_'-'-'_HH_IIIIII_HH_
--------[]-------[]-------[_]----\.=I=./----[_]-------[]-------[]--------[]-
-_/\_ ||\\_I_//|| _/\_ [_] []_/_L_J_\_[] [_] _/\_ ||\\_I_//|| _/\_ ||\ |__|
-||=/_|_\=|| |__|_|_| _L_L_J_J_ |_|_|__| ||=/_|_\=|| |__| ||- |__| |||__|__|||
-|__[___]__--__===__--__[___]__| |||__|__||| |__| |||
-IIIIIII[_]IIIII[_]IIIIIL___J__II__|_|__II__L___JIIIII[_]IIIII[_]IIIIIIII[_]
-\_I_/ [_]\_I_/[_] \_I_[_]\II/[]\_\I/_/[]\II/[_]\_I_/ [_]\_I_/[_] \_I_/ [_] ./
-\.L_J/ \L_J./ L_JI I[]/ \[]I IL_J \.L_J/ \L_J./ \.L_J | |L_J| |L_J| L_J| |[]|
-|[]| |L_J |L_J| |L_J| |L_J |_____JL_JL___JL_JL____|-|| |[]| |[]|
-||-|_____JL_JL___JL_JL_____JL_J The next step beyond static tableaux in ASCII
-art is ASCII animation. There are not many large examples of this; perhaps
-the best known is the ASCII animation of the original "Star Wars" movie at
-`http://www.asciimation.co.nz/'. There is a newsgroup, alt.ascii-art, devoted
-to this genre; however, see also {warlording}.

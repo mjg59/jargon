@@ -1,5 +1,5 @@
  :pilot error: n. [Sun: from aviation] A user's misconfiguration or misuse of
 a piece of software, producing apparently buglike results (compare {UBD}).
 "Joe Luser reported a bug in sendmail that causes it to generate bogus
-headers." "That's not a bug, that's pilot error. His `sendmail.cf' is hosed."
-Compare {PEBKAC}, {UBD}.
+headers." "That's not a bug, that's pilot error. His sendmail.cf is hosed."
+Compare {PEBKAC}, {UBD}, {ID10T}.

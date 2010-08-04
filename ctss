@@ -1,6 +1,6 @@
- :CTSS: /C-T-S-S/ n. Compatible Time-Sharing System. An early (1963)
-experiment in the design of interactive time-sharing operating systems,
-ancestral to {{Multics}}, {{Unix}}, and {{ITS}}. The name {{ITS}}
-(Incompatible Time-sharing System) was a hack on CTSS, meant both as a joke
-and to express some basic differences in philosophy about the way I/O
-services should be presented to user programs.
+ :CTSS: /C·T·S·S/, n. Compatible Time-Sharing System. An early (1963)
+experiment in the design of interactive timesharing operating systems,
+ancestral to {Multics}, {Unix}, and {ITS}. The name {ITS} (Incompatible
+Time-sharing System) was a hack on CTSS, meant both as a joke and to express
+some basic differences in philosophy about the way I/O services should be
+presented to user programs. see {timesharing}

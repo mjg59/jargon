@@ -1,14 +1,14 @@
- :ASCII:: /as'kee/ n. [originally an acronym (American Standard Code for
+ :ASCII: /as´kee/, n. [originally an acronym (American Standard Code for
 Information Interchange) but now merely conventional] The predominant
 character set encoding of present-day computers. The standard version uses 7
 bits for each character, whereas most earlier codes (including early drafts
 of ASCII prior to June 1961) used fewer. This change allowed the inclusion of
 lowercase letters -- a major {win} -- but it did not provide for accented
 letters or any other letterforms not used in English (such as the German
-sharp-S or the ae-ligature which is a letter in, for example, Norwegian). It
-could be worse, though. It could be much worse. see {{EBCDIC}} to understand
-how. A history of ASCII and its ancestors is at
-`http://www.wps.com/texts/codes/index.html'. Computers are much pickier and
+sharp-S ß. or the ae-ligature æ which is a letter in, for example,
+Norwegian). It could be worse, though. It could be much worse. see {EBCDIC}
+to understand how. A history of ASCII and its ancestors is at
+http://www.wps.com/texts/codes/index.html. Computers are much pickier and
 less flexible about spelling than humans; thus, hackers need to be very
 precise when talking about characters, and have developed a considerable
 amount of verbal shorthand for them. Every character has one or more names --
@@ -23,85 +23,29 @@ rarely seen; official ANSI/CCITT names are surrounded by brokets: <>. Square
 brackets mark the particularly silly names introduced by {INTERCAL}. The
 abbreviations "l/r" and "o/c" stand for left/right and "open/close"
 respectively. Ordinary parentheticals provide some usage information. !
-Common: {bang}; pling; excl; not; shriek; ball-bat; <exclamation mark>. Rare:
-factorial; exclam; smash; cuss; boing; yell; wow; hey; wham; eureka;
+Common: {bang} ; pling; excl; not; shriek; ball-bat; <exclamation mark>.
+Rare: factorial; exclam; smash; cuss; boing; yell; wow; hey; wham; eureka;
 [spark-spot]; soldier, control. " Common: double quote; quote. Rare: literal
 mark; double-glitch; snakebite; <quotation marks>; <dieresis>; dirk;
 [rabbit-ears]; double prime. # Common: number sign; pound; pound sign; hash;
-sharp; {crunch}; hex; [mesh]. Rare: grid; crosshatch; octothorpe; flash;
-<square>, pig-pen; tictactoe; scratchmark; thud; thump; {splat}. $ Common:
+sharp; {crunch} ; hex; [mesh]. Rare: grid; crosshatch; octothorpe; flash;
+<square>, pig-pen; tictactoe; scratchmark; thud; thump; {splat} . $ Common:
 dollar; <dollar sign>. Rare: currency symbol; buck; cash; string (from
 BASIC); escape (when used as the echo of ASCII ESC); ding; cache; [big
 money]. % Common: percent; <percent sign>; mod; grapes. Rare:
 [double-oh-seven]. & Common: <ampersand>; amp; amper; and, and sign. Rare:
 address (from C); reference (from C++); andpersand; bitand; background (from
-`sh(1)'); pretzel. [INTERCAL called this `ampersand'; what could be sillier?]
-' Common: single quote; quote; <apostrophe>. Rare: prime; glitch; tick; irk;
+sh(1) ); pretzel. [INTERCAL called this ampersand ; what could be sillier?] '
+Common: single quote; quote; <apostrophe>. Rare: prime; glitch; tick; irk;
 pop; [spark]; <closing single quotation mark>; <acute accent>. ( ) Common:
-l/r paren; l/r parenthesis; left/right; open/close; paren/thesis; o/c paren;
+l/r paren; l/r parenthesis; left/right; open/close; par­ en/thesis; o/c paren;
 o/c parenthesis; l/r parenthesis; l/r banana. Rare: so/already;
 lparen/rparen; <opening/closing parenthesis>; o/c round bracket, l/r round
-bracket, [wax/wane]; parenthisey/unparenthisey; l/r ear. * Common: star;
-[{splat}]; <asterisk>. Rare: wildcard; gear; dingle; mult; spider; aster;
-times; twinkle; glob (see {glob}); {Nathan Hale}. + Common: <plus>; add.
+bracket, [wax/wane]; parenthisey/unparen­ thisey; l/r ear. * Common: star; [
+{splat} ]; <asterisk>. Rare: wildcard; gear; dingle; mult; spider; aster;
+times; twinkle; glob (see {glob} ); {Nathan Hale} . + Common: <plus>; add.
 Rare: cross; [intersection]. , Common: <comma>. Rare: <cedilla>; [tail]. -
 Common: dash; <hyphen>; <minus>. Rare: [worm]; option; dak; bithorpe. .
 Common: dot; point; <period>; <decimal point>. Rare: radix point; full stop;
 [spot]. / Common: slash; stroke; <slant>; forward slash. Rare: diagonal;
-solidus; over; slak; virgule; [slat]. : Common: <colon>. Rare: dots;
-[two-spot]. ; Common: <semicolon>; semi. Rare: weenie; [hybrid], pit-thwong.
-< > Common: <less/greater than>; bra/ket; l/r angle; l/r angle bracket; l/r
-broket. Rare: from/{into, towards}; read from/write to; suck/blow;
-comes-from/gozinta; in/out; crunch/zap (all from UNIX); tic/tac; [angle/right
-angle]. = Common: <equals>; gets; takes. Rare: quadrathorpe; [half-mesh]. ?
-Common: query; <question mark>; {ques}. Rare: quiz; whatmark; [what];
-wildchar; huh; hook; buttonhook; hunchback. @ Common: at sign; at; strudel.
-Rare: each; vortex; whorl; [whirlpool]; cyclone; snail; ape; cat; rose;
-cabbage; <commercial at>. V Rare: [book]. [ ] Common: l/r square bracket; l/r
-bracket; <opening/closing bracket>; bracket/unbracket. Rare: square/unsquare;
-[U turn/U turn back]. \ Common: backslash, hack, whack; escape (from C/UNIX);
-reverse slash; slosh; backslant; backwhack. Rare: bash; <reverse slant>;
-reversed virgule; [backslat]. ^ Common: hat; control; uparrow; caret;
-<circumflex>. Rare: xor sign, chevron; [shark (or shark-fin)]; to the (`to
-the power of'); fang; pointer (in Pascal). _ Common: <underline>; underscore;
-underbar; under. Rare: score; backarrow; skid; [flatworm]. ` Common:
-backquote; left quote; left single quote; open quote; <grave accent>; grave.
-Rare: backprime; [backspark]; unapostrophe; birk; blugle; back tick; back
-glitch; push; <opening single quotation mark>; quasiquote. { } Common: o/c
-brace; l/r brace; l/r squiggly; l/r squiggly bracket/brace; l/r curly
-bracket/brace; <opening/closing brace>. Rare: brace/unbrace; curly/uncurly;
-leftit/rytit; l/r squirrelly; [embrace/bracelet]. A balanced pair of these
-may be called `curlies'. | Common: bar; or; or-bar; v-bar; pipe; vertical
-bar. Rare: <vertical line>; gozinta; thru; pipesinta (last three from UNIX);
-[spike]. ~ Common: <tilde>; squiggle; {twiddle}; not. Rare: approx; wiggle;
-swung dash; enyay; [sqiggle (sic)]. The pronunciation of `#' as `pound' is
-common in the U.S. but a bad idea; {{Commonwealth Hackish}} has its own,
-rather more apposite use of `pound sign' (confusingly, on British keyboards
-the pound graphic happens to replace `#'; thus Britishers sometimes call `#'
-on a U.S.-ASCII keyboard `pound', compounding the American error). The U.S.
-usage derives from an old-fashioned commercial practice of using a `#' suffix
-to tag pound weights on bills of lading. The character is usually pronounced
-`hash' outside the U.S. There are more culture wars over the correct
-pronunciation of this character than any other, which has led to the {ha ha
-only serious} suggestion that it be pronounced `shibboleth' (see Judges 12:6
-in an Old Testament or Tanakh). The `uparrow' name for circumflex and
-`leftarrow' name for underline are historical relics from archaic ASCII (the
-1963 version), which had these graphics in those character positions rather
-than the modern punctuation characters. The `swung dash' or `approximation'
-sign is not quite the same as tilde in typeset material but the ASCII tilde
-serves for both (compare {angle brackets}). Some other common usages cause
-odd overlaps. The `#', `$', `>', and `&' characters, for example, are all
-pronounced "hex" in different communities because various assemblers use them
-as a prefix tag for hexadecimal constants (in particular, `#' in many
-assembler-programming cultures, `$' in the 6502 world, `>' at Texas
-Instruments, and `&' on the BBC Micro, Sinclair, and some Z80 machines). see
-also {splat}. The inability of ASCII text to correctly represent any of the
-world's other major languages makes the designers' choice of 7 bits look more
-and more like a serious {misfeature} as the use of international networks
-continues to increase (see {software rot}). Hardware and software from the
-U.S. still tends to embody the assumption that ASCII is the universal
-character set and that characters have 7 bits; this is a major irritant to
-people who want to use a character set suited to their own languages.
-Perversely, though, efforts to solve this problem by proliferating `national'
-character sets produce an evolutionary pressure to use a _smaller_ subset
-common to all those in use.
+solidus; over; slak; virgule; [slat].

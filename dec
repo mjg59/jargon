@@ -1,26 +1,18 @@
- :DEC:: /dek/ n. 1. v. Verbal (and only rarely written) shorthand for
-decrement, i.e. `decrease by one'. Especially used by assembly programmers,
-as many assembly languages have a `dec' mnemonic. Antonym: {inc}. 2. n.
-Commonly used abbreviation for Digital Equipment Corporation, later
-deprecated by DEC itself in favor of "Digital" and now entirely obsolete
-following the buyout by Compaq. Before the {killer micro} revolution of the
-late 1980s, hackerdom was closely symbiotic with DEC's pioneering timesharing
-machines. The first of the group of cultures described by this lexicon
-nucleated around the PDP-1 (see {TMRC}). Subsequently, the PDP-6, {PDP-10},
-{PDP-20}, PDP-11 and {VAX} were all foci of large and important hackerdoms,
-and DEC machines long dominated the ARPANET and Internet machine population.
-DEC was the technological leader of the minicomputer era (roughly 1967 to
-1987), but its failure to embrace microcomputers and Unix early cost it
-heavily in profits and prestige after {silicon} got cheap. Nevertheless, the
-microprocessor design tradition owes a major debt to the PDP-11 instruction
-set, and every one of the major general-purpose microcomputer OSs so far
-(CP/M, MS-DOS, Unix, OS/2, Windows NT) was either genetically descended from
-a DEC OS, or incubated on DEC hardware, or both. Accordingly, DEC was for
-many years still regarded with a certain wry affection even among many
-hackers too young to have grown up on DEC machines. DEC reclaimed some of its
-old reputation among techies in the first half of the 1990s. The success of
-the Alpha, an innovatively-designed and very high-performance {killer micro},
-helped a lot. So did DEC's newfound receptiveness to Unix and open systems in
-general. When Compaq acquired DEC at the end of 1998 there was some concern
-that these gains would be lost along with the DEC nameplate, but the merged
-company has so far turned out to be culturally dominated by the ex-DEC side.
+ :DEC: /dek/, n. n. Commonly used abbreviation for Digital Equipment
+Corporation, later deprecated by DEC itself in favor of "Digital" and now
+entirely obsolete following the buyout by Compaq. Before the {killer micro}
+revolution of the late 1980s, hackerdom was closely symbiotic with DEC's
+pioneering timesharing machines. The first of the group of cultures described
+by this lexicon nucleated around the PDP-1 (see {TMRC}). Subsequently, the
+PDP-6, {PDP-10}, {PDP-20}, {PDP-11} and {VAX} were all foci of large and
+important hackerdoms, and DEC machines long dominated the ARPANET and
+Internet machine population. DEC was the technological leader of the
+minicomputer era (roughly 1967 to 1987), but its failure to embrace
+microcomputers and Unix early cost it heavily in profits and prestige after
+{silicon} got cheap. Nevertheless, the microprocessor design tradition owes a
+major debt to the {PDP-11} instruction set, and every one of the major
+general-purpose microcomputer OSs so far (CP/M, MS-DOS, Unix, OS/2, Windows
+NT) was either genetically descended from a DEC OS, or incubated on DEC
+hardware, or both. Accordingly, DEC was for many years still regarded with a
+certain wry affection even among many hackers too young to have grown up on
+DEC machines.

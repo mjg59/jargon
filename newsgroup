@@ -1,13 +1,13 @@
  :newsgroup: n. [Usenet] One of {Usenet}'s huge collection of topic groups or
-{fora}. Usenet groups can be `unmoderated' (anyone can post) or `moderated'
+{fora}. Usenet groups can be unmoderated (anyone can post) or moderated
 (submissions are automatically directed to a moderator, who edits or filters
 and then posts the results). Some newsgroups have parallel {mailing list}s
 for Internet people with no netnews access, with postings to the group
 automatically propagated to the list and vice versa. Some moderated groups
 (especially those which are actually gatewayed Internet mailing lists) are
-distributed as `digests', with groups of postings periodically collected into
-a single large posting with an index. Among the best-known are comp.lang.c
-(the C-language forum), comp.arch (on computer architectures),
-comp.unix.wizards (for Unix wizards), rec.arts.sf.written and siblings (for
-science-fiction fans), and talk.politics.misc (miscellaneous political
-discussions and {flamage}).
+distributed as digests, with groups of postings periodically collected into a
+single large posting with an index. Among the best-known are comp.lang.c (the
+C-language forum), comp.arch (on computer architectures), comp.unix.wizards
+(for Unix wizards), rec.arts.sf.written and siblings (for science-fiction
+fans), and talk.politics.misc (miscellaneous political discussions and
+{flamage}).

@@ -1,13 +1,13 @@
- :HAKMEM: /hak'mem/ n. MIT AI Memo 239 (February 1972). A legendary
+ :HAKMEM: /hak´mem/, n. MIT AI Memo 239 (February 1972). A legendary
 collection of neat mathematical and programming hacks contributed by many
 people at MIT and elsewhere. (The title of the memo really is "HAKMEM", which
 is a 6-letterism for `hacks memo'.) Some of them are very useful techniques,
 powerful theorems, or interesting unsolved problems, but most fall into the
 category of mathematical and computer trivia. Here is a sampling of the
 entries (with authors), slightly paraphrased: Item 41 (Gene Salamin): There
-are exactly 23,000 prime numbers less than 2^(18). Item 46 (Rich Schroeppel):
-The most _probable_ suit distribution in bridge hands is 4-4-3-2, as compared
-to 4-3-3-3, which is the most _evenly_ distributed. This is because the world
+are exactly 23,000 prime numbers less than 2^18. Item 46 (Rich Schroeppel):
+The most probable suit distribution in bridge hands is 4-4-3-2, as compared
+to 4-3-3-3, which is the most evenly distributed. This is because the world
 likes to have unequal numbers: a thermodynamic effect saying things will not
 be in the state of lowest energy, but in the state of lowest disordered
 energy. Item 81 (Rich Schroeppel): Count the magic squares of order 5 (that
@@ -47,4 +47,4 @@ N-character string. Note: This last item refers to a {Dissociated Press}
 implementation. see also {banana problem}. HAKMEM also contains some rather
 more complicated mathematical and technical items, but these examples show
 some of its fun flavor. An HTML transcription of the entire document is
-available at `http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html'.
+available at http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html.

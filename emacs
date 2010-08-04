@@ -1,6 +1,6 @@
- :EMACS: /ee'maks/ n. [from Editing MACroS] The ne plus ultra of hacker
+ :EMACS: /ee´maks/, n. [from Editing MACroS] The ne plus ultra of hacker
 editors, a programmable text editor with an entire LISP system inside it. It
-was originally written by Richard Stallman in {TECO} under {{ITS}} at the MIT
+was originally written by Richard Stallman in {TECO} under {ITS} at the MIT
 AI lab; AI Memo 554 described it as "an advanced, self-documenting,
 customizable, extensible real-time display editor". It has since been
 reimplemented any number of times, by various hackers, and versions exist
@@ -18,5 +18,5 @@ Indeed, some hackers find EMACS too {heavyweight} and {baroque} for their
 taste, and expand the name as `Escape Meta Alt Control Shift' to spoof its
 heavy reliance on keystrokes decorated with {bucky bits}. Other spoof
 expansions include `Eight Megabytes And Constantly Swapping' (from when that
-was a lot of {core}), `Eventually `malloc()'s All Computer Storage', and
-`EMACS Makes A Computer Slow' (see {{recursive acronym}}). see also {vi}.
+was a lot of {core}), `Eventually malloc()s All Computer Storage', and `EMACS
+Makes A Computer Slow' (see {recursive acronym}). see also {vi}.

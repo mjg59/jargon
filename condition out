@@ -1,5 +1,5 @@
  :condition out: vt. To prevent a section of code from being compiled by
 surrounding it with a conditional-compilation directive whose condition is
-always false. The {canonical} examples of these directives are `#if 0' (or
-`#ifdef notdef', though some find the latter {bletcherous}) and `#endif' in
-C. Compare {comment out}.
+always false. The {canonical} examples of these directives are #if 0 (or
+#ifdef notdef, though some find the latter {bletcherous}) and #endif in C.
+Compare {comment out}.

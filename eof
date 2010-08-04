@@ -1,4 +1,4 @@
- :EOF: /E-O-F/ n. [abbreviation, `End Of File'] 1. [techspeak] The
+ :EOF: /E·O·F/, n. [abbreviation, `End Of File'] 1. [techspeak] The
 {out-of-band} value returned by C's sequential character-input functions (and
 their equivalents in other environments) when end of file has been reached.
 This value is usually -1 under C libraries postdating V6 Unix, but was

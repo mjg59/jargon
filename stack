@@ -9,11 +9,9 @@ could be remembered, so the least recent items were lost. The usual physical
 example of a stack is to be found in a cafeteria: a pile of plates or trays
 sitting on a spring in a well, so that when you put one on the top they all
 sink down, and when you take one off the top the rest spring up a bit. see
-also {push} and {pop}. At MIT, {PDL} used to be a more common synonym for
-{stack} in all these contexts, and this may still be true. Everywhere else
-{stack} seems to be the preferred term. {Knuth} ("The Art of Computer
-Programming", second edition, vol. 1, p. 236) says: Many people who realized
-the importance of stacks and queues independently have given other names to
-these structures: stacks have been called push-down lists, reversion
-storages, cellars, nesting stores, piles, last-in-first-out ("LIFO") lists,
-and even yo-yo lists!
+also {push} and {pop}. (The Art of Computer Programming, second edition, vol.
+1, p. 236) says: Many people who realized the importance of stacks and queues
+independently have given other names to these structures: stacks have been
+called push-down lists, reversion storages, cellars, nesting stores, piles,
+last-in-first-out ("LIFO") lists, and even yo-yo lists! The term "stack" was
+originally coined by Edsger Dijkstra, who was quite proud of it.

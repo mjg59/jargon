@@ -12,8 +12,8 @@ theory behind this term is that there are two classes of people who work with
 a program: there are implementors (hackers) and {luser}s. The users are
 looked down on by hackers to some extent because they don't understand the
 full ramifications of the system in all its glory. (The few users who do are
-known as `real winners'.) The term is a relative one: a skilled hacker may be
-a user with respect to some program he himself does not hack. A LISP hacker
+known as real winners.) The term is a relative one: a skilled hacker may be a
+user with respect to some program he himself does not hack. A LISP hacker
 might be one who maintains LISP or one who uses LISP (but with the skill of a
 hacker). A LISP user is one who uses LISP, whether skillfully or not. Thus
 there is some overlap between the two terms; the subtle distinctions must be

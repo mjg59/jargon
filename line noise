@@ -8,5 +8,5 @@ readable text or program source but employs syntax so bizarre that it looks
 like line noise in senses 1 or 2. Yes, there are languages this ugly. The
 canonical example is {TECO}; it is often claimed that "TECO's input syntax is
 indistinguishable from line noise." Other non-{WYSIWYG} editors, such as
-Multics `qed' and Unix `ed', in the hands of a real hacker, also qualify
-easily, as do deliberately obfuscated languages such as {INTERCAL}.
+Multics qed and Unix ed, in the hands of a real hacker, also qualify easily,
+as do deliberately obfuscated languages such as {INTERCAL}.

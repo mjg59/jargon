@@ -2,7 +2,7 @@
 writing past the end of a local array or other data structure. Code that
 smashes the stack can cause a return from the routine to jump to a random
 address, resulting in some of the most insidious data-dependent bugs known to
-mankind. Variants include `trash' the stack, {scribble} the stack, {mangle}
-the stack; the term **{mung} the stack is not used, as this is never done
+mankind. Variants include trash the stack, {scribble} the stack, {mangle} the
+stack; the term **{mung} the stack is not used, as this is never done
 intentionally. see {spam}; see also {aliasing bug}, {fandango on core},
 {memory leak}, {memory smash}, {precedence lossage}, {overrun screw}.

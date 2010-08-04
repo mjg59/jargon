@@ -1,8 +1,8 @@
- :miswart: /mis-wort/ n. [from {wart} by analogy with {misbug}] A {feature}
+ :miswart: /mis·wort/, n. [from {wart} by analogy with {misbug}] A {feature}
 that superficially appears to be a {wart} but has been determined to be the
 {Right Thing}. For example, in some versions of the {EMACS} text editor, the
 `transpose characters' command exchanges the character under the cursor with
-the one before it on the screen, _except_ when the cursor is at the end of a
+the one before it on the screen, except when the cursor is at the end of a
 line, in which case the two characters before the cursor are exchanged. While
 this behavior is perhaps surprising, and certainly inconsistent, it has been
 found through extensive experimentation to be what most users want. This

@@ -2,8 +2,8 @@
 channel, everything one types is read by others on that channel. Channels are
 named with strings that begin with a `#' sign and can have topic descriptions
 (which are generally irrelevant to the actual subject of discussion). Some
-notable channels are `#initgame', `#hottub', `callahans', and `#report'. At
-times of international crisis, `#report' has hundreds of members, some of
-whom take turns listening to various news services and typing in summaries of
-the news, or in some cases, giving first-hand accounts of the action (e.g.,
-Scud missile attacks in Tel Aviv during the Gulf War in 1991).
+notable channels are #initgame, #hottub, callahans, and #report. At times of
+international crisis, #report has hundreds of members, some of whom take
+turns listening to various news services and typing in summaries of the news,
+or in some cases, giving first-hand accounts of the action (e.g., Scud
+missile attacks in Tel Aviv during the Gulf War in 1991).

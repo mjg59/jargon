@@ -16,8 +16,8 @@ lack of security on these machines enables viruses to spread easily, even
 infecting the operating system (Unix machines, by contrast, are immune to
 such attacks). The production of special anti-virus software has become an
 industry, and a number of exaggerated media reports have caused outbreaks of
-near hysteria among users; many {luser}s tend to blame _everything_ that
+near hysteria among users; many {luser}s tend to blame everything that
 doesn't work as they had expected on virus attacks. Accordingly, this sense
-of `virus' has passed not only into techspeak but into also popular usage
+of virus has passed not only into techspeak but into also popular usage
 (where it is often incorrectly used to denote a {worm} or even a {Trojan
 horse}). see {phage}; compare {back door}; see also {Unix conspiracy}.

@@ -4,7 +4,7 @@ automatically cancel posts from anonymous-posting sites. Unfortunately, the
 robot's recognizer for anonymous postings triggered on its own
 automatically-generated control messages! Transformed by this stroke of
 programming ineptitude into a monster of Frankensteinian proportions, it
-broke loose on the night of March 31, 1993 and proceeded to {spam}
+broke loose on the night of March 30, 1993 and proceeded to {spam}
 news.admin.policy with a recursive explosion of over 200 messages. ARMM's bug
 produced a recursive {cascade} of messages each of which mechanically added
 text to the ID and Subject and some other headers of its parent. This
@@ -16,8 +16,5 @@ One poster described the ARMM debacle as "instant Usenet history" (also
 establishing the term {despew}), and it has since been widely cited as a
 cautionary example of the havoc the combination of good intentions and
 incompetence can wreak on a network. The Usenet thread on the subject is
-archived here
-(http://groups.google.com/groups?q=author:red%40redpoll.neoucom.edu&hl=en&lr=l
-ang+_en&selm=AC4qGvy.CqI%40redpoll.neoucom.edu&rnum=26). Compare {Great
-Worm}; {sorcerer's apprentice mode}. see also {software laser}, {network
-meltdown}.
+archived here. Compare {Great Worm}; {sorcerer's apprentice mode}. see also
+{software laser}, {network meltdown}.

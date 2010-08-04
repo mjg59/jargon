@@ -1,9 +1,9 @@
- :overclock: /oh'vr-klok'/ vt. To operate a CPU or other digital logic device
-at a rate higher than it was designed for, under the assumption that the
-manufacturer put some {slop} into the specification to account for
+ :overclock: /oh´vr·klok´/, vt. To operate a CPU or other digital logic
+device at a rate higher than it was designed for, under the assumption that
+the manufacturer put some {slop} into the specification to account for
 manufacturing tolerances. Overclocking something can result in intermittent
 {crash}es, and can even burn things out, since power dissipation is directly
 proportional to {clock} frequency. People who make a hobby of this are
 sometimes called "overclockers"; they are thrilled that they can run their
-450MHz CPU at 500MHz, even though they can only tell the difference by
-running a {benchmark} program.
+CPU a few percent faster, even though they can only tell the difference by
+running a {benchmark} program. see also {case mod}.

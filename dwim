@@ -12,17 +12,17 @@ often make hash of anyone else's typos if they were stylistically different.
 Some victims of DWIM thus claimed that the acronym stood for `Damn Warren's
 Infernal Machine!'. In one notorious incident, Warren added a DWIM feature to
 the command interpreter used at Xerox PARC. One day another hacker there
-typed `delete *$' to free up some disk space. (The editor there named backup
-files by appending `$' to the original file name, so he was trying to delete
+typed delete *$ to free up some disk space. (The editor there named backup
+files by appending $ to the original file name, so he was trying to delete
 any backup files left over from old editing sessions.) It happened that there
-weren't any editor backup files, so DWIM helpfully reported `*$ not found,
-assuming you meant 'delete *'.' It then started to delete all the files on
-the disk! The hacker managed to stop it with a {Vulcan nerve pinch} after
-only a half dozen or so files were lost. The disgruntled victim later said he
-had been sorely tempted to go to Warren's office, tie Warren down in his
-chair in front of his workstation, and then type `delete *$' twice. DWIM is
-often suggested in jest as a desired feature for a complex program; it is
-also occasionally described as the single instruction the ideal computer
-would have. Back when proofs of program correctness were in vogue, there were
-also jokes about `DWIMC' (Do What I Mean, Correctly). A related term, more
-often seen as a verb, is DTRT (Do The Right Thing); see {Right Thing}.
+weren't any editor backup files, so DWIM helpfully reported *$ not found,
+assuming you meant 'delete *'. It then started to delete all the files on the
+disk! The hacker managed to stop it with a {Vulcan nerve pinch} after only a
+half dozen or so files were lost. The disgruntled victim later said he had
+been sorely tempted to go to Warren's office, tie Warren down in his chair in
+front of his workstation, and then type delete *$ twice. DWIM is often
+suggested in jest as a desired feature for a complex program; it is also
+occasionally described as the single instruction the ideal computer would
+have. Back when proofs of program correctness were in vogue, there were also
+jokes about DWIMC (Do What I Mean, Correctly). A related term, more often
+seen as a verb, is DTRT (Do The Right Thing); see {Right Thing}.

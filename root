@@ -1,4 +1,4 @@
- :root: n. [Unix] 1. The {superuser} account (with user name `root') that
+ :root: n. 1. [Unix] The {superuser} account (with user name `root') that
 ignores permission bits, user number 0 on a Unix system. The term {avatar} is
 also used. 2. The top node of the system directory structure; historically
 the home directory of the root user, but probably named after the root of an

@@ -1,6 +1,6 @@
- :background: n.,adj.,vt. [common] To do a task `in background' is to do it
+ :background: n.,adj.,vt. [common] To do a task in background is to do it
 whenever {foreground} matters are not claiming your undivided attention, and
-`to background' something means to relegate it to a lower priority. "For now,
+to background something means to relegate it to a lower priority. "For now,
 we'll just print a list of nodes and links; I'm working on the graph-printing
 problem in background." Note that this implies ongoing activity but at a
 reduced level or in spare time, in contrast to mainstream `back burner'
@@ -10,5 +10,5 @@ for their unconscious minds (a tack that one can often fruitfully take upon
 encountering an obstacle in creative work). Compare {amp off}, {slopsucker}.
 Technically, a task running in background is detached from the terminal where
 it was started (and often running at a lower priority); oppose {foreground}.
-Nowadays this term is primarily associated with {{Unix}}, but it appears to
+Nowadays this term is primarily associated with {Unix}, but it appears to
 have been first used in this sense on OS/360.

@@ -1,4 +1,4 @@
- :bit bashing: n. (alt. `bit diddling' or {bit twiddling}) Term used to
+ :bit bashing: n. (alt.: bit diddling or {bit twiddling}) Term used to
 describe any of several kinds of low-level programming characterized by
 manipulation of {bit}, {flag}, {nybble}, and other
 smaller-than-character-sized pieces of data; these include low-level device
@@ -7,4 +7,4 @@ functions, some flavors of graphics programming (see {bitblt}), and
 assembler/compiler code generation. May connote either tedium or a real
 technical challenge (more usually the former). "The command decoding for the
 new tape driver looks pretty solid but the bit-bashing for the control
-registers still has bugs." see also {bit bang}, {mode bit}.
+registers still has bugs." see also {mode bit}.

@@ -1,6 +1,6 @@
  :aliasing bug: n. A class of subtle programming errors that can arise in
-code that does dynamic allocation, esp. via `malloc(3)' or equivalent. If
-several pointers address (`aliases for') a given hunk of storage, it may
+code that does dynamic allocation, esp. via malloc(3) or equivalent. If
+several pointers address (are aliases for) a given hunk of storage, it may
 happen that the storage is freed or reallocated (and thus moved) through one
 alias and then referenced through another, which may lead to subtle (and
 possibly intermittent) lossage depending on the state and the allocation

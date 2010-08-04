@@ -6,7 +6,8 @@ routine is executed once for every 6 ticks of the clock, or about ten times a
 second. 2. Confusingly, the term is sometimes also used for a 1-millisecond
 {wall time} interval. 3. Even more confusingly, physicists semi-jokingly use
 `jiffy' to mean the time required for light to travel one foot in a vacuum,
-which turns out to be close to one _nanosecond_. 4. Indeterminate time from a
-few seconds to forever. "I'll do it in a jiffy" means certainly not now and
-possibly never. This is a bit contrary to the more widespread use of the
-word. Oppose {nano}. see also {Real Soon Now}.
+which turns out to be close to one nanosecond. Other physicists use the term
+for the quantum-nechanical lower bound on meaningful time lengths, 4.
+Indeterminate time from a few seconds to forever. "I'll do it in a jiffy"
+means certainly not now and possibly never. This is a bit contrary to the
+more widespread use of the word. Oppose {nano}. see also {Real Soon Now}.

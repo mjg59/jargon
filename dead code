@@ -5,6 +5,6 @@ The presence of dead code may reveal either logical errors due to alterations
 in the program or significant changes in the assumptions and environment of
 the program (see also {software rot}); a good compiler should report dead
 code so a maintainer can think about what it means. (Sometimes it simply
-means that an _extremely_ defensive programmer has inserted {can't happen}
+means that an extremely defensive programmer has inserted {can't happen}
 tests which really can't happen -- yet.) Syn. {grunge}. see also {dead}, and
-{The Story of Mel}.
+The Story of Mel'.

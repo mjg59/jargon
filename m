@@ -1,1 +1,1 @@
- :M: pref. (on units) suff. (on numbers) [SI] see {{quantifiers}}.
+ :M: pref. [SI] see {quantifiers}.

@@ -1,4 +1,4 @@
- :vaxocentrism: /vak`soh-sen'trizm/ n. [analogy with `ethnocentrism'] A
+ :vaxocentrism: /vak`soh·sen´trizm/, n. [analogy with `ethnocentrism'] A
 notional disease said to afflict C programmers who persist in coding
 according to certain assumptions that are valid (esp. under Unix) on {VAXen}
 but false elsewhere. Among these are: 1. The assumption that dereferencing a
@@ -28,7 +28,7 @@ there is no padding at the end of types and that in an array you can thus
 step right from the last byte of a previous component to the first byte of
 the next one. This is not only machine- but compiler-dependent. 8. The
 assumption that memory address space is globally flat and that the array
-reference `foo[-1]' is necessarily valid. Problem: this fails at 0, or other
+reference foo[-1] is necessarily valid. Problem: this fails at 0, or other
 places on segment-addressed machines like Intel chips (yes, segmentation is
 universally considered a {brain-damaged} way to design machines (see {moby}),
 but that is a separate issue). 9. The assumption that objects can be
@@ -42,14 +42,14 @@ nature. Problem: this fails on {big-endian} machines. 12. The assumption that
 it is meaningful to compare pointers to different objects not located within
 the same array, or to objects of different types. Problem: the former fails
 on segmented architectures, the latter on word-oriented machines or others
-with multiple pointer formats. 13. The assumption that an `int' is 32 bits,
-or (nearly equivalently) the assumption that `sizeof(int) == sizeof(long)'.
-Problem: this fails on PDP-11s, 286-based systems and even on 386 and 68000
+with multiple pointer formats. 13. The assumption that an int is 32 bits, or
+(nearly equivalently) the assumption that sizeof(int) == sizeof(long).
+Problem: this fails on {PDP-11}s, 286-based systems and even on 386 and 68000
 systems under some compilers (and on 64-bit systems like the Alpha, of
-course). 14. The assumption that `argv[]' is writable. Problem: this fails in
+course). 14. The assumption that argv[] is writable. Problem: this fails in
 many embedded-systems C environments and even under a few flavors of Unix.
 Note that a programmer can validly be accused of vaxocentrism even if he or
-she has never seen a VAX. Some of these assumptions (esp. 2-5) were valid on
-the PDP-11, the original C machine, and became endemic years before the VAX.
-The terms `vaxocentricity' and `all-the-world's-a-VAX syndrome' have been
+she has never seen a {VAX}. Some of these assumptions (esp. 2--5) were valid
+on the {PDP-11}, the original C machine, and became endemic years before the
+VAX. The terms vaxocentricity and all-the-world's-a-VAX syndrome have been
 used synonymously.

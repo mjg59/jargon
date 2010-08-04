@@ -1,7 +1,7 @@
- :ENQ: /enkw/ or /enk/ [from the ASCII mnemonic ENQuire for 0000101] An
-on-line convention for querying someone's availability. After opening a {talk
-mode} connection to someone apparently in heavy hack mode, one might type
-`SYN SYN ENQ?' (the SYNs representing notional synchronization bytes), and
-expect a return of {ACK} or {NAK} depending on whether or not the person felt
-interruptible. Compare {ping}, {finger}, and the usage of `FOO?' listed under
+ :ENQ: /enkw/, /enk/ [from the ASCII mnemonic ENQuire for 0000101] An on-line
+convention for querying someone's availability. After opening a {talk mode}
+connection to someone apparently in heavy hack mode, one might type SYN SYN
+ENQ? (the SYNs representing notional synchronization bytes), and expect a
+return of {ACK} or {NAK} depending on whether or not the person felt
+interruptible. Compare {ping}, {finger}, and the usage of FOO? listed under
 {talk mode}.

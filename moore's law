@@ -1,12 +1,16 @@
- :Moore's Law: /morz law/ prov. The observation that the logic density of
-silicon integrated circuits has closely followed the curve (bits per square
-inch) = 2^(t - 1962) where t is time in years; that is, the amount of
-information storable on a given amount of silicon has roughly doubled every
-year since the technology was invented. This relation, first uttered in 1964
-by semiconductor engineer Gordon Moore (who co-founded Intel four years
-later) held until the late 1970s, at which point the doubling period slowed
-to 18 months. The doubling period remained at that value through time of
-writing (late 1999). Moore's Law is apparently self-fulfilling. The
-implication is that somebody, somewhere is going to be able to build a better
-chip than you if you rest on your laurels, so you'd better start pushing hard
-on the problem. see also {Parkinson's Law of Data} and {Gates's Law}.
+ :Moore's Law: /morz law/, prov. Any one of several similar folk theorems
+that fit computing capacity or cost to a 2^t exponential curve, with doubling
+time close to a year. The most common fits component density to such a curve
+(previous versions of this entry gave that form). Another variant asserts
+that the dollar cost of constant computing power decreases on the same curve.
+The original Moore's Law, first uttered in 1965 by semiconductor engineer
+Gordon Moore (who co-founded Intel four years later), spoke of the number of
+components on the lowest-cost silicon integrated circuits -- but Moore's own
+formulation varied somewhat over the years, and reconstructing the meaning of
+the terminology he used in the original turns out to be fraught with
+difficulties. Further variants were spawned by Intel's PR department and
+various journalists. It has been shown that none of the variants of Moore's
+Law actually fit the data very well (the price curves within DRAM generations
+perhaps come closest). Nevertheless, Moore's Law is constantly invoked to set
+up expectations about the next generation of computing technology. see also
+{Parkinson's Law of Data} and {Gates's Law}.

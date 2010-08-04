@@ -1,4 +1,4 @@
- :DEADBEEF: /ded-beef/ n. The hexadecimal word-fill pattern for freshly
+ :DEADBEEF: /ded·beef/, n. The hexadecimal word-fill pattern for freshly
 allocated memory under a number of IBM environments, including the RS/6000.
 Some modern debugging tools deliberately fill freed memory with this value as
 a way of converting {heisenbug}s into {Bohr bug}s. As in "Your program is

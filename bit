@@ -1,4 +1,4 @@
- :bit: n. [from the mainstream meaning and `Binary digIT'] 1. [techspeak] The
+ :bit: n. [from the mainstream meaning and "Binary digIT"] 1. [techspeak] The
 unit of information; the amount of information obtained from knowing the
 answer to a yes-or-no question for which the two outcomes are equally
 probable. 2. [techspeak] A computational quantity that can take on one of two
@@ -11,12 +11,12 @@ were the last guy to hack on EMACS, and what I am about to say is predicated
 on this, so please stop me if this isn't true.") "I just need one bit from
 you" is a polite way of indicating that you intend only a short interruption
 for a question that can presumably be answered yes or no. A bit is said to be
-`set' if its value is true or 1, and `reset' or `clear' if its value is false
-or 0. One speaks of setting and clearing bits. To {toggle} or `invert' a bit
-is to change it, either from 0 to 1 or from 1 to 0. see also {flag}, {trit},
-{mode bit}. The term `bit' first appeared in print in the computer-science
-sense in a 1948 paper by information theorist Claude Shannon, and was there
-credited to the early computer scientist John Tukey (who also seems to have
-coined the term `software'). Tukey records that `bit' evolved over a lunch
-table as a handier alternative to `bigit' or `binit', at a conference in the
-winter of 1943-44.
+set if its value is true or 1, and reset or clear if its value is false or 0.
+One speaks of setting and clearing bits. To {toggle} or invert a bit is to
+change it, either from 0 to 1 or from 1 to 0. see also {flag}, {trit}, {mode
+bit}. The term bit first appeared in print in the computer-science sense in a
+1948 paper by information theorist Claude Shannon, and was there credited to
+the early computer scientist John Tukey (who also seems to have coined the
+term software). Tukey records that bit evolved over a lunch table as a
+handier alternative to bigit or binit, at a conference in the winter of
+1943-44.
