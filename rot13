@@ -4,6 +4,6 @@ the one 13 places forward or back along the alphabet, so that "The butler did
 it!" becomes "Gur ohgyre qvq vg!" Most USENET news reading and posting
 programs include a rot13 feature. It is used to enclose the text in a sealed
 wrapper that the reader must choose to open --- e.g., for posting things that
-might offend some readers, or answers to puzzles. A major advantage of rot13
-over rot(N) for other N is that it is self-inverse, so the same code can be
-used for encoding and decoding.
+might offend some readers, or {spoiler}s. A major advantage of rot13 over
+rot(N) for other N is that it is self-inverse, so the same code can be used
+for encoding and decoding.

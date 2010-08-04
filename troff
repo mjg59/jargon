@@ -1,9 +1,9 @@
- :troff:: /tee'rof/ or /trof/ [UNIX] n. The gray eminence of UNIX text
+ :troff:: /T'rof/ or /trof/ [UNIX] n. The gray eminence of UNIX text
 processing; a formatting and phototypesetting program, written originally in
 PDP-11 assembler and then in barely-structured early C by the late Joseph
 Ossanna, modeled after the earlier ROFF which was in turn modeled after
 Multics' RUNOFF by Jerome Saltzer (*that* name came from the expression "to
-run off a copy"). A companion program, `nroff', formats output for terminals
+run off a copy"). A companion program, {nroff}, formats output for terminals
 and line printers. In 1979, Brian Kernighan modified `troff' so that it could
 drive phototypesetters other than the Graphic Systems CAT. His paper
 describing that work ("A Typesetter-independent troff," AT&T CSTR #97)

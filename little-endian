@@ -4,4 +4,4 @@ given 16- or 32-bit word, bytes at lower addresses have lower significance
 computers and Intel microprocessors and a lot of communications and
 networking hardware are little-endian. see {big-endian}, {middle-endian},
 {NUXI problem}. The term is sometimes used to describe the ordering of units
-other than bytes; most often these are bits within a byte.
+other than bytes; most often, bits within a byte.

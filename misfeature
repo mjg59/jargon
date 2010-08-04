@@ -9,7 +9,7 @@ can be a particularly stubborn problem to resolve, because fixing it usually
 involves a substantial philosophical change to the structure of the system
 involved. Many misfeatures (especially in user-interface design) arise
 because the designers/implementors mistake their personal tastes for laws of
-nature. Often a former feature becomes a misfeature because a trade-off was
+nature. Often a former feature becomes a misfeature because trade-offs were
 made whose parameters subsequently change (possibly only in the judgment of
 the implementors). "Well, yeah, it is kind of a misfeature that file names
 are limited to six characters, but the original implementors wanted to save

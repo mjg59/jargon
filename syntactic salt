@@ -6,4 +6,4 @@ type declarations to be syntactic salt. A requirement to write `end if', `end
 while', `end do', etc. to terminate the last block controlled by a control
 construct (as opposed to just `end') would definitely be syntactic salt.
 Syntactic salt is like the real thing in that it tends to raise hackers'
-blood pressures in an unhealthy way..
+blood pressures in an unhealthy way. Compare {candygrammar}. .

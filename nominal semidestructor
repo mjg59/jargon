@@ -1,4 +1,4 @@
- :Nominal Semidestructor: n. Sound-alike slang for `National Semiconductor',
+ :Nominal Semidestructor: n. Soundalike slang for `National Semiconductor',
 found among other places in the 4.3BSD networking sources. During the late
 1970s to mid-1980s this company marketed a series of microprocessors
 including the NS16000 and NS32000 and several variants. At one point early in
@@ -7,7 +7,7 @@ serious competition for the rising Intel 80x86 and Motorola 680x0 series.
 Unfortunately, the actual parts were notoriously flaky and never implemented
 the full instruction set promised in their literature, apparently because the
 company couldn't get any of the mask steppings to work as designed. They
-eventually sank without trace, joining the Zilog Z80,000 and a few even more
+eventually sank without trace, joining the Zilog Z8000 and a few even more
 obscure also-rans in the graveyard of forgotten microprocessors. Compare
 {HP-SUX}, {AIDX}, {buglix}, {Macintrash}, {Telerat}, {Open DeathTrap},
 {ScumOS}, {sun-stools}.

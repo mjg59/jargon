@@ -1,6 +1,6 @@
  :bounce message: [UNIX] n. Notification message returned to sender by a site
 unable to relay {email} to the intended {{Internet address}} recipient or the
-next link in a {bang path} (see {bounce}). Reasons might include a
+next link in a {bang path} (see {bounce}, sense 1). Reasons might include a
 nonexistent or misspelled username or a {down} relay site. Bounce messages
 can themselves fail, with occasionally ugly results; see {sorcerer's
 apprentice mode} and {software laser}. The terms `bounce mail' and `barfmail'

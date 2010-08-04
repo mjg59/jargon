@@ -1,5 +1,5 @@
- :Orange Book: n. The U.S. Government's standards document `Trusted Computer
-System Evaluation Criteria, DOD standard 5200.28-STD, December, 1985' which
+ :Orange Book: n. The U.S. Government's standards document "Trusted Computer
+System Evaluation Criteria, DOD standard 5200.28-STD, December, 1985" which
 characterize secure computing architectures and defines levels A1 (most
 secure) through D (least). Stock UNIXes are roughly C1, and can be upgraded
 to about C2 without excessive pain. see also {{crayola books}}, {{book

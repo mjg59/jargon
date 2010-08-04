@@ -1,4 +1,3 @@
- :main loop: n. Software tools are often written to perform some actions
-repeatedly on whatever input is handed to them, terminating when there is no
-more input or they are explicitly told to go away. In such programs, the loop
-that gets and processes input is called the `main loop'. see also {driver}.
+ :main loop: n. The top-level control flow construct in an input- or
+event-driven program, the one which receives and acts or dispatches on the
+program's input. see also {driver}.

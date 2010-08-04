@@ -10,5 +10,5 @@ but which can be passed back to the same or some other program later. 2. An
 in-band code for changing graphic rendition (e.g., inverse video or
 underlining) or performing other control functions (see also {cookie}). Some
 older terminals would leave a blank on the screen corresponding to
-mode-change magic cookies; this was also called a {glitch}. (or occasionally
-a `turd'; compare {mouse droppings}). see also {cookie}.
+mode-change magic cookies; this was also called a {glitch} (or occasionally a
+`turd'; compare {mouse droppings}). see also {cookie}.

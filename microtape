@@ -1,7 +1,7 @@
  :microtape: /mi:'kroh-tayp/ n. Occasionally used to mean a DECtape, as
 opposed to a {macrotape}. A DECtape is a small reel, about 4 inches in
-diameter, of magnetic tape about an inch wide. Unlike drivers for today's
-{macrotape}s, microtape drivers allow random access to the data, and
+diameter, of magnetic tape about an inch wide. Unlike those for today's
+{macrotape}s, microtape drivers allowed random access to the data, and
 therefore could be used to support file systems and even for swapping (this
 was generally done purely for {hack value}, as they were far too slow for
 practical use). In their heyday they were used in pretty much the same ways

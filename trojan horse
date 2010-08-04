@@ -1,5 +1,5 @@
  :Trojan horse: [coined by MIT-hacker-turned-NSA-spook Dan Edwards] n. A
-program designed to break security or damage a system that is disguised as
-something else benign, such as a directory lister, archiver, a game, or (in
-one notorious 1990 case on the Mac) a program to find and destroy viruses!
-see {back door}, {virus}, {worm}, {phage}, {mockingbird}.
+malicious, security-breaking program that is disguised as something benign,
+such as a directory lister, archiver, game, or (in one notorious 1990 case on
+the Mac) a program to find and destroy viruses! see {back door}, {virus},
+{worm}, {phage}, {mockingbird}.

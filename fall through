@@ -16,4 +16,4 @@ The effect of the above code is to `do_green()' when color is `GREEN',
 some, though there are contexts (such as the coding of state machines) in
 which it is natural; it is generally considered good practice to include a
 comment highlighting the fall-through where one would normally expect a
-break.
+break. see also {Duff's Device}.

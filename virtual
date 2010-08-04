@@ -1,6 +1,7 @@
  :virtual: [via the technical term `virtual memory', prob. from the term
 `virtual image' in optics] adj. 1. Common alternative to {logical}; often
-used to refer to the artificial objects created by a computer system to help
-the system control access to shared resources. 2. Simulated; performing the
-functions of something that isn't really there. An imaginative child's doll
-may be a virtual playmate. Oppose {real}.
+used to refer to the artificial objects (like addressable virtual memory
+larger than physical memory) created by a computer system to help the system
+control access to shared resources. 2. Simulated; performing the functions of
+something that isn't really there. An imaginative child's doll may be a
+virtual playmate. Oppose {real}.

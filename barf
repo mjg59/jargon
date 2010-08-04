@@ -9,6 +9,6 @@ if you try to divide by 0." (That is, the division operation checks for an
 attempt to divide by zero, and if one is encountered it causes the operation
 to fail in some unspecified, but generally obvious, manner.) "The text editor
 barfs if you try to read in a new file before writing out the old one." see
-{choke}, {gag}. In Commonwealth hackish, `barf' is generally replaced by
+{choke}, {gag}. In Commonwealth Hackish, `barf' is generally replaced by
 `puke' or `vom'. {barf} is sometimes also used as a {metasyntactic variable},
 like {foo} or {bar}.

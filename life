@@ -1,5 +1,5 @@
  :life: n. 1. A cellular-automata game invented by John Horton Conway and
-first introduced publicly by Martin Gardner (`Scientific American', October
+first introduced publicly by Martin Gardner ("Scientific American", October
 1970); the game's popularity had to wait a few years for computers on which
 it could reasonably be played, as it's no fun to simulate the cells by hand.
 Many hackers pass through a stage of fascination with it, and hackers at
@@ -7,4 +7,4 @@ various places contributed heavily to the mathematical analysis of this game
 (most notably Bill Gosper at MIT, who even implemented life in {TECO}!; see
 {Gosperism}). When a hacker mentions `life', he is much more likely to mean
 this game than the magazine, the breakfast cereal, or the human state of
-existence. 2. The opposite of {USENET}. As in {Get a life!}
+existence. 2. The opposite of {USENET}. As in "{Get a life!}"

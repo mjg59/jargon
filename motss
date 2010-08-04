@@ -1,25 +1,4 @@
- MOTSS: /mots/ or /M-O-T-S-S/ [from the 1970 U.S. census forms via USENET,
-Member Of The Same Sex] n. Esp. one considered as a possible sexual partner.
+ :MOTSS: /mots/ or /M-O-T-S-S/ [from the 1970 U.S. census forms via USENET]
+n. Member Of The Same Sex, esp. one considered as a possible sexual partner.
 The gay-issues newsgroup on USENET is called soc.motss. see {MOTOS} and
-{MOTAS}, which derive from it. Also see {SO}. mouse ahead: vi.
-Point-and-click analog of `type ahead'. To manipulate a computer's pointing
-device (almost always a mouse in this usage, but not necessarily) and its
-selection or command buttons before a computer program is ready to accept
-such input, in anticipation of the program accepting the input. Handling this
-properly is rare, but it can help make a {WIMP environment} much more usable,
-assuming the users are familiar with the behavior of the user interface.
-mouse around: vi. To explore public portions of a large system, esp. a
-network such as Internet via {FTP} or {TELNET}, looking for interesting stuff
-to {snarf}. mouse belt: n. see {rat belt}. mouse droppings: [MS-DOS] n.
-Pixels (usually single) that are not properly restored when the mouse pointer
-moves away from a particular location on the screen, producing the appearance
-that the mouse pointer has left droppings behind. The major causes for this
-problem are programs that write to the screen memory corresponding to the
-mouse pointer's current location without hiding the mouse pointer first, and
-mouse drivers that do not quite support the graphics mode in use. mouse
-elbow: n. A tennis-elbow-like fatigue syndrome resulting from excessive use
-of a {WIMP environment}. Similarly, `mouse shoulder'; GLS reports that he
-used to get this a lot before he taught himself to be ambimoustrous. mouso:
-/mow'soh/ n. [by analogy with `typo'] An error in mouse usage resulting in an
-inappropriate selection or graphic garbage on the screen. Compare {thinko},
-{braino}.
+{MOTAS}, which derive from it. see also {SO}.

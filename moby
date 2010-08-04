@@ -1,5 +1,5 @@
  :moby: /moh'bee/ [MIT: seems to have been in use among model railroad fans
-years ago. Derived from Melville's `Moby Dick' (some say from `Moby
+years ago. Derived from Melville's "Moby Dick" (some say from `Moby
 Pickle').] 1. adj. Large, immense, complex, impressive. "A Saturn V rocket is
 a truly moby frob." "Some MIT undergrads pulled off a moby hack at the
 Harvard-Yale game." (see "{The Meaning of `Hack'}"). 2. n. obs. The maximum
@@ -14,9 +14,9 @@ sixes, but moby ones are not bignums (the use of `moby' to describe double
 ones is sarcastic). Standard emphatic forms: `Moby foo', `moby win', `moby
 loss'. `Foby moo': a spoonerism due to Richard Greenblatt. 5. The largest
 available unit of something which is available in discrete increments. Thus,
-ordering a "moby Coke" at your favorite fast-food joint is not just a request
-for a large Coke, it's an explicit request for the largest size they sell.
-This term entered hackerdom with the Fabritek 256K memory added to the MIT AI
+ordering a "moby Coke" at the local fast-food joint is not just a request for
+a large Coke, it's an explicit request for the largest size they sell. This
+term entered hackerdom with the Fabritek 256K memory added to the MIT AI
 PDP-6 machine, which was considered unimaginably huge when it was installed
 in the 1960s (at a time when a more typical memory size for a timesharing
 system was 72 kilobytes). Thus, a moby is classically 256K 36-bit words, the

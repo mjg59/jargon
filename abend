@@ -1,63 +1,7 @@
- WPI Worcester Polytechnic Institute, site of a very active community of
-PDP-10 hackers during the 1970s XEROX PARC XEROX's Palo Alto Research Center,
-site of much pioneering research in user interface design and networking Yale
-Yale University Some other etymology abbreviations such as {UNIX} and
-{PDP-10} refer to technical cultures surrounding specific operating systems,
-processors, or other environments. The fact that a term is labelled with any
-one of these abbreviations does not necessarily mean its use is confined to
-that culture. In particular, many terms labelled `MIT' and `Stanford' are in
-quite general use. We have tried to give some indication of the distribution
-of speakers in the usage notes; however, a number of factors mentioned in the
-introduction conspire to make these indications less definite than might be
-desirable. A few new definitions attached to entries are marked [proposed].
-These are usually generalizations suggested by editors or USENET respondents
-in the process of commenting on previous definitions of those entries. These
-are *not* represented as established jargon. Format For New Entries
-====================== All contributions and suggestions about the Jargon
-File will be considered donations to be placed in the public domain as part
-of this File, and may be used in subsequent paper editions. Submissions may
-be edited for accuracy, clarity and concision. Try to conform to the format
-already being used --- head-words separated from text by a colon (double
-colon for topic entries), cross-references in curly brackets (doubled for
-topic entries), pronunciations in slashes, etymologies in square brackets,
-single-space after definition numbers and word classes, etc. Stick to the
-standard ASCII character set (7-bit printable, no high-half characters or
-[nt]roff/TeX/Scribe escapes), as one of the versions generated from the
-master file is an info document that has to be viewable on a character tty.
-We are looking to expand the file's range of technical specialties covered.
-There are doubtless rich veins of jargon yet untapped in the scientific
-computing, graphics, and networking hacker communities; also in numerical
-analysis, computer architectures and VLSI design, language design, and many
-other related fields. Send us your jargon! We are *not* interested in
-straight technical terms explained by textbooks or technical dictionaries
-unless an entry illuminates `underground' meanings or aspects not covered by
-official histories. We are also not interested in `joke' entries --- there is
-a lot of humor in the file but it must flow naturally out of the explanations
-of what hackers do and how they think. It is OK to submit items of jargon you
-have originated if they have spread to the point of being used by people who
-are not personally acquainted with you. We prefer items to be attested by
-independent submission from two different sites. The Jargon File will be
-regularly maintained and re-posted from now on and will include a version
-number. Read it, pass it around, contribute --- this is *your* monument! The
-Jargon Lexicon ****************** = A = ===== abbrev: /*-breev'/, /*-brev'/
-n. Common abbreviation for `abbreviation'. ABEND: [ABnormal END] /ah'bend/,
-/*-bend'/ n. Abnormal termination (of software); {crash}; {lossage}. Derives
-from an error message on the IBM 360; used jokingly by hackers but seriously
-mainly by {code grinder}s. Usually capitalized, but may appear as `abend'.
-Hackers will try to persuade you that ABEND is called `abend' because it is
-what system operators do to the machine late on Friday when they want to call
-it a day, and hence is from the German `Abend' = `Evening'. accumulator: n.
-1. Archaic term for a register. On-line use of it as a synonym for `register'
-is a fairly reliable indication that the user has been around for quite a
-while and/or that the architecture under discussion is quite old. The term in
-full is almost never used of microprocessor registers, for example, though
-symbolic names for arithmetic registers beginning in `A' derive from
-historical use of the term `accumulator' (and not, actually, from
-`arithmetic'). Confusingly, though, an `A' register name prefix may also
-stand for `address', as for example on the Motorola 680x0 family. 2. A
-register being used for arithmetic or logic (as opposed to addressing or a
-loop index), especially one being used to accumulate a sum or count of many
-items. This use is in context of a particular routine or stretch of code.
-"The FOOBAZ routine uses A3 as an accumulator." 3. One's in-basket (esp.
-among old-timers who might use sense 1). "You want this reviewed? Sure, just
-put it in the accumulator." (see {stack}.)
+ :ABEND: [ABnormal END] /o'bend/, /*-bend'/ n. Abnormal termination (of
+software); {crash}; {lossage}. Derives from an error message on the IBM 360;
+used jokingly by hackers but seriously mainly by {code grinder}s. Usually
+capitalized, but may appear as `abend'. Hackers will try to persuade you that
+ABEND is called `abend' because it is what system operators do to the machine
+late on Friday when they want to call it a day, and hence is from the German
+`Abend' = `Evening'.

@@ -7,4 +7,4 @@ creating the appropriate file in the current or home directory. (Therefore,
 dot files tend to {creep} --- with every nontrivial application program
 defining at least one, a user's home directory can be filled with scores of
 dot files, of course without the user's really being aware of it.) see also
-{rc file}.
+{profile} (sense 1), {rc file}.

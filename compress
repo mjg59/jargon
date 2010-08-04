@@ -3,5 +3,5 @@
 James A. Woods et al. and widely circulated via {USENET}; use of {crunch}
 itself in this sense is rare among UNIX hackers. Specifically, compress is
 built around the Lempel-Ziv-Welch algorithm as described in "A Technique for
-High Performance Data Compression", Terry A. Welch, `IEEE Computer', vol. 17,
+High Performance Data Compression", Terry A. Welch, "IEEE Computer", vol. 17,
 no. 6 (June 1984), pp. 8--19.

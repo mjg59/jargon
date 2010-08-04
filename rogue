@@ -4,4 +4,4 @@ original BSD `curses(3)' screen-handling package was hacked together by Ken
 Arnold to support `rogue(6)' and has since become one of UNIX's most
 important and heavily used application libraries. Nethack, Omega, Larn, and
 an entire subgenre of computer dungeon games all took off from the
-inspiration provided by `rogue(6)'. see {nethack}.
+inspiration provided by `rogue(6)'. see also {nethack}.

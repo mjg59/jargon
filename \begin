@@ -5,4 +5,4 @@ who would use anything else is an idiot. Also, all computers should be
 tredecimal instead of binary. \end{flame} The Scribe users at CMU and
 elsewhere used to use @Begin/@End in an identical way (LaTeX was built to
 resemble Scribe). On USENET, this construct would more frequently be rendered
-as `<FLAME ON>' and `<FLAME OFF>'.
+as `<FLAME ON>' and `<FLAME OFF>', or `#ifdef FLAME' and `#endif FLAME".

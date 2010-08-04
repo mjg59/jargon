@@ -1,8 +1,8 @@
- :overflow bit: n. 1. [techspeak] On some processors, an attempt to calculate
-a result too large for a register to hold causes a particular {flag} called
-an {overflow bit} to be set. 2. Hackers use the term of human thought too.
-"Well, the {{Ada}} description was {baroque} all right, but I could hack it
-OK until they got to the exception handling ... that set my overflow bit." 3.
-The hypothetical bit that will be set if a hacker doesn't get to make a trip
-to the Room of Porcelain Fixtures: "I'd better process an internal interrupt
+ :overflow bit: n. 1. [techspeak] A {flag} on some processors indicating an
+attempt to calculate a result too large for a register to hold. 2. More
+generally, an indication of any kind of capacity overload condition. "Well,
+the {{Ada}} description was {baroque} all right, but I could hack it OK until
+they got to the exception handling ... that set my overflow bit." 3. The
+hypothetical bit that will be set if a hacker doesn't get to make a trip to
+the Room of Porcelain Fixtures: "I'd better process an internal interrupt
 before the overflow bit gets set".

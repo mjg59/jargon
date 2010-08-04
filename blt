@@ -1,32 +1,8 @@
- BLT: /B-L-T/, /bl*t/ or (rarely) /belt/ n.,vt. Synonym for {blit}. This is
+ :BLT: /B-L-T/, /bl*t/ or (rarely) /belt/ n.,vt. Synonym for {blit}. This is
 the original form of {blit} and the ancestor of {bitblt}. It referred to any
 large bit-field copy or move operation (one resource-intensive
 memory-shuffling operation done on pre-paged versions of ITS, WAITS, and
 TOPS-10 was sardonically referred to as `The Big BLT'). The jargon usage has
 outlasted the {PDP-10} BLock Transfer instruction from which {BLT} derives;
 nowadays, the assembler mnemonic {BLT} almost always means `Branch if Less
-Than zero'. Blue Book: n. 1. Informal name for one of the three standard
-references on the page-layout and graphics-control language PostScript
-(`PostScript Language Tutorial and Cookbook', Adobe Systems, Addison-Wesley
-1985, QA76.73.P67P68, ISBN 0-201-10179-3); the other two official guides are
-known as the {Green Book} and {Red Book}. 2. Informal name for one of the
-three standard references on Smalltalk: `Smalltalk-80: The Language and its
-Implementation', David Robson, Addison-Wesley 1983, QA76.8.S635G64, ISBN
-0-201-11371-63 (this is also associated with green and red books). 3. Any of
-the 1988 standards issued by the CCITT's ninth plenary assembly. Until now,
-they have changed color each review cycle (1984 was {Red Book}, 1992 would be
-{Green Book}); however, it is rumored that this convention is going to be
-dropped before 1992. These include, among other things, the X.400 email spec
-and the Group 1 through 4 fax standards. see also {{book titles}}. Blue Glue:
-[IBM] n. IBM's SNA (Systems Network Architecture), an incredibly {losing} and
-{bletcherous} communications protocol widely favored at commercial shops that
-don't know any better. The official IBM definition is "that which binds blue
-boxes together." see {fear and loathing}. It may not be irrelevant that {Blue
-Glue} is the trade name of a 3M product that is commonly used to hold down
-the carpet squares to the removable panel floors common in {dinosaur pens}. A
-correspondent at U. Minn. reports that the CS department there has about 80
-bottles of the stuff hanging about, so they often refer to any messy work to
-be done as `using the blue glue'. blue goo: n. Term for `police' {nanobot}s
-intended to prevent {gray goo}, denature hazardous waste, destroy pollution,
-put ozone back into the stratosphere, prevent halitosis, and promote truth,
-justice, and the American way, etc. see {{nanotechnology}}.
+Than zero'.

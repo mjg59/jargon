@@ -2,7 +2,7 @@
 according to P. Z. Ingerman, who invented thunks in 1961 as a way of binding
 actual parameters to their formal definitions in Algol-60 procedure calls. If
 a procedure is called with an expression in the place of a formal parameter,
-the compiler generates a {thunk} to compute the expression and leave the
+the compiler generates a thunk which computes the expression and leaves the
 address of the result in some standard location. 2. Later generalized into:
 an expression, frozen together with its environment, for later evaluation if
 and when needed (similar to what in techspeak is called a `closure'). The
@@ -15,7 +15,7 @@ completion." --- paraphrased from a {plan file}. Historical note: There are a
 couple of onomatopoeic myths circulating about the origin of this term. The
 most common is that it is the sound made by data hitting the stack; another
 holds that the sound is that of the data hitting an accumulator. Yet another
-holds that it is the sound of the expression being unfrozen at
+suggests that it is the sound of the expression being unfrozen at
 argument-evaluation time. In fact, according to the inventors, it was coined
 after they realized (in the wee hours after hours of discussion) that the
 type of an argument in Algol-60 could be figured out in advance with a little

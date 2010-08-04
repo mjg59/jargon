@@ -6,36 +6,36 @@ null pointer is safe because it is all bits 0, and location 0 is readable and
 0. Problem: this may instead cause an illegal-address trap on non-VAXen, and
 even on VAXen under OSes other than BSD UNIX. Usually this is an implicit
 assumption of sloppy code (forgetting to check the pointer before using it),
-rather than deliberate exploitation of a misfeature.) 2. The assumption that
+rather than deliberate exploitation of a misfeature. 2. The assumption that
 characters are signed. 3. The assumption that a pointer to any one type can
 freely be cast into a pointer to any other type. A stronger form of this is
 the assumption that all pointers are the same size and format, which means
-you don't have to worry about getting the types correct in calls. Problem:
-this fails on word-oriented machines or others with multiple pointer formats.
-4. The assumption that the parameters of a routine are stored in memory,
-contiguously, and in strictly ascending or descending order. Problem: this
-fails on many RISC architectures. 5. The assumption that pointer and integer
-types are the same size, and that pointers can be stuffed into integer
-variables (and vice-versa) and drawn back out without being truncated or
-mangled. Problem: this fails on segmented architectures or word-oriented
-machines with funny pointer formats. 6. The assumption that a data type of
-any size may begin at any byte address in memory (for example, that you can
-freely construct and dereference a pointer to a word- or greater-sized object
-at an odd char address). Problem: this fails on many (esp. RISC)
-architectures better optimized for {HLL} execution speed, and can cause an
-illegal address fault or bus error. 7. The (related) assumption that there is
-no padding at the end of types and that in an array you can thus step right
-from the last byte of a previous component to the first byte of the next one.
-This is not only machine- but compiler-dependent. 8. The assumption that
-memory address space is globally flat and that the array reference `foo[-1]'
-is necessarily valid. Problem: this fails at 0, or other places on
-segment-addressed machines like Intel chips (yes, segmentation is universally
-considered a {brain-damaged} way to design machines (see {moby}), but that is
-a separate issue). 9. The assumption that objects can be arbitrarily large
-with no special considerations. Problem: this fails on segmented
-architectures and under non-virtual-addressing environments. 10. The
-assumption that the stack can be as large as memory. Problem: this fails on
-segmented architectures or almost anything else without virtual addressing
+you don't have to worry about getting the casts or types correct in calls.
+Problem: this fails on word-oriented machines or others with multiple pointer
+formats. 4. The assumption that the parameters of a routine are stored in
+memory, on a stack, contiguously, and in strictly ascending or descending
+order. Problem: this fails on many RISC architectures. 5. The assumption that
+pointer and integer types are the same size, and that pointers can be stuffed
+into integer variables (and vice-versa) and drawn back out without being
+truncated or mangled. Problem: this fails on segmented architectures or
+word-oriented machines with funny pointer formats. 6. The assumption that a
+data type of any size may begin at any byte address in memory (for example,
+that you can freely construct and dereference a pointer to a word- or
+greater-sized object at an odd char address). Problem: this fails on many
+(esp. RISC) architectures better optimized for {HLL} execution speed, and can
+cause an illegal address fault or bus error. 7. The (related) assumption that
+there is no padding at the end of types and that in an array you can thus
+step right from the last byte of a previous component to the first byte of
+the next one. This is not only machine- but compiler-dependent. 8. The
+assumption that memory address space is globally flat and that the array
+reference `foo[-1]' is necessarily valid. Problem: this fails at 0, or other
+places on segment-addressed machines like Intel chips (yes, segmentation is
+universally considered a {brain-damaged} way to design machines (see {moby}),
+but that is a separate issue). 9. The assumption that objects can be
+arbitrarily large with no special considerations. Problem: this fails on
+segmented architectures and under non-virtual-addressing environments. 10.
+The assumption that the stack can be as large as memory. Problem: this fails
+on segmented architectures or almost anything else without virtual addressing
 and a paged stack. 11. The assumption that bits and addressable units within
 an object are ordered in the same way and that this order is a constant of
 nature. Problem: this fails on {big-endian} machines. 12. The assumption that

@@ -1,5 +1,6 @@
- :Obfuscated C Contest: n. An annual contest run since 1984 over USENET by
-Landon Curt Noll and friends. The overall winner is whoever produces the most
+ :Obfuscated C Contest: (in full, the `International Obfuscated C Code
+Contest', or IOCCC) n. An annual contest run since 1984 over USENET by Landon
+Curt Noll and friends. The overall winner is whoever produces the most
 unreadable, creative, and bizarre (but working) C program; various other
 prizes are awarded at the judges' whim. C's terse syntax and
 macro-preprocessor facilities give contestants a lot of maneuvering room. The
@@ -19,5 +20,5 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 _-_-_-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_-_-_-_-_ _-_-_-_-_-_-_-_ _-_-_-_ }
-Note that this program works by computing uts own area. For more digits,
+Note that this program works by computing its own area. For more digits,
 write a bigger program. see also {hello, world}.

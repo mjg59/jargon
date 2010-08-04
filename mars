@@ -1,12 +1,12 @@
  :Mars: n. A legendary tragic failure, the archetypal Hacker Dream Gone
 Wrong. Mars was the code name for a family of PDP-10 compatible computers
-built by Systems Concepts (now, The SC Group); the multi-processor SC-30M,
+built by Systems Concepts (now, The SC Group): the multi-processor SC-30M,
 the small uniprocessor SC-25M, and the never-built superprocessor SC-40M.
 These machines were marvels of engineering design; although not much slower
 than the unique {Foonly} F-1, they were physically smaller and consumed less
 power than the much slower DEC KS10 or Foonly F-2, F-3, or F-4 machines. They
-were also completely compatible with the DEC KL10, and ran all KL10 binaries,
-including the operating system, with no modifications at about 2--3 times
+were also completely compatible with the DEC KL10, and ran all KL10 binaries
+(including the operating system) with no modifications at about 2--3 times
 faster than a KL10. When DEC cancelled the Jupiter project in 1983, Systems
 Concepts should have made a bundle selling their machine into shops with a
 lot of software investment in PDP-10s, and in fact their spring 1984

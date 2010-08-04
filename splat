@@ -3,10 +3,8 @@ asterisk (`*') character (ASCII 0101010). This may derive from the
 `squashed-bug' appearance of the asterisk on many early line printers. 2.
 [MIT] Name used by some people for the `#' character (ASCII 0100011). 3.
 [Rochester Institute of Technology] The {feature key} on a Mac (same as
-{alt}, sense 2). 4. [Stanford] Name used by some people for the Stanford/ITS
+{alt}, sense 2). 4. obs. Name used by some people for the Stanford/ITS
 extended ASCII circle-x character. This character is also called `blobby' and
 `frob', among other names; it is sometimes used by mathematicians as a
-notation for `tensor product'. 5. [Stanford] Name for the semi-mythical
-extended ASCII circle-plus character. 6. Canonical name for an output routine
-that outputs whatever the local interpretation of `splat' is. With ITS and
-WAITS gone, senses 4--6 are now nearly obsolete. see also {{ASCII}}.
+notation for `tensor product'. 5. obs. Name for the semi-mythical Stanford
+extended ASCII circle-plus character. see also {{ASCII}}.

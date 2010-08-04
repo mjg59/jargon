@@ -10,6 +10,6 @@ a few time-critical and hardware-specific uses in systems programs. FORTRAN
 occupies a shrinking niche in scientific programming. Most hackers tend to
 frown on languages like {{Pascal}} and {{Ada}}, which don't give them the
 near-total freedom considered necessary for hacking (see
-{bondage-and-discipline language}), and to regard everything that's even
-remotely connected with {COBOL} or other traditional {card walloper}
-languages as a total and unmitigated {loss}.
+{bondage-and-discipline language}), and to regard everything even remotely
+connected with {COBOL} or other traditional {card walloper} languages as a
+total and unmitigated {loss}.

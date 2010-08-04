@@ -1,7 +1,7 @@
  :gang bang: n. The use of large numbers of loosely coupled programmers in an
 attempt to wedge a great many features into a product in a short time. Though
 there have been memorable gang bangs (e.g., that over-the-weekend assembler
-port mentioned in Steven Levy's `Hackers'), most are perpetrated by large
+port mentioned in Steven Levy's "Hackers"), most are perpetrated by large
 companies trying to meet deadlines; the inevitable result is enormous buggy
 masses of code entirely lacking in {orthogonal}ity. When market-driven
 managers make a list of all the features the competition has and assign one

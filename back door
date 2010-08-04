@@ -24,4 +24,4 @@ around! And having done this once, he was then able to recompile the compiler
 from the original sources; the hack perpetuated itself invisibly, leaving the
 back door in place and active but with no trace in the sources. The talk that
 revealed this truly moby hack was published as "Reflections on Trusting
-Trust", `Communications of the ACM 27', 8 (August 1984), pp. 761--763.
+Trust", "Communications of the ACM 27", 8 (August 1984), pp. 761--763.

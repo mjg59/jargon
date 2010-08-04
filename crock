@@ -1,4 +1,4 @@
- :crock: [from the American scatologism crock of shit] n. 1. An awkward
+ :crock: [from the American scatologism `crock of shit'] n. 1. An awkward
 feature or programming technique that ought to be made cleaner. For example,
 using small integers to represent error codes without the program
 interpreting them to the user (as in, for example, UNIX `make(1)', which

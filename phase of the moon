@@ -2,18 +2,18 @@
 something is said to depend. Sometimes implies unreliability of whatever is
 dependent, or that reliability seems to be dependent on conditions nobody has
 been able to determine. "This feature depends on having the channel open in
-mumble mode, having the foo switch set, and on the phase of the moon." True
-story: Once upon a time there was a bug that really did depend on the phase
-of the moon. There is a little subroutine that had traditionally been used in
-various programs at MIT to calculate an approximation to the moon's true
-phase. GLS incorporated this routine into a LISP program that, when it wrote
-out a file, would print a timestamp line almost 80 characters long. Very
-occasionally the first line of the message would be too long and would
-overflow onto the next line, and when the file was later read back in the
-program would {barf}. The length of the first line depended on both the
-precise date and time and the length of the phase specification when the
-timestamp was printed, and so the bug literally depended on the phase of the
-moon! The first paper edition of the Jargon File (Steele-1983) included an
-example of one of the timestamp lines that exhibited this bug, but the
-typesetter `corrected' it. This has since been described as the
-phase-of-the-moon-bug bug.
+mumble mode, having the foo switch set, and on the phase of the moon." see
+also {heisenbug}. True story: Once upon a time there was a bug that really
+did depend on the phase of the moon. There was a little subroutine that had
+traditionally been used in various programs at MIT to calculate an
+approximation to the moon's true phase. GLS incorporated this routine into a
+LISP program that, when it wrote out a file, would print a timestamp line
+almost 80 characters long. Very occasionally the first line of the message
+would be too long and would overflow onto the next line, and when the file
+was later read back in the program would {barf}. The length of the first line
+depended on both the precise date and time and the length of the phase
+specification when the timestamp was printed, and so the bug literally
+depended on the phase of the moon! The first paper edition of the Jargon File
+(Steele-1983) included an example of one of the timestamp lines that
+exhibited this bug, but the typesetter `corrected' it. This has since been
+described as the phase-of-the-moon-bug bug.

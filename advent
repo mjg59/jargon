@@ -1,8 +1,8 @@
- ADVENT: /ad'vent/ n. The prototypical computer adventure game, first
+ :ADVENT: /ad'vent/ n. The prototypical computer adventure game, first
 implemented on the {PDP-10} by Will Crowther as an attempt at
 computer-refereed fantasy gaming, and expanded into a puzzle-oriented game by
 Don Woods. Now better known as Adventure, but the {{TOPS-10}} operating
-system permitted only 6-letter filenames. see also {vadding}. This game
+system permitted only six-letter filenames. see also {vadding}. This game
 defined the terse, dryly humorous style now expected in text adventure games,
 and popularized several tag lines that have become fixtures of hacker-speak:
 "A huge green fierce snake bars the way!" "I see no X here" (for some noun

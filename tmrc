@@ -1,68 +1,20 @@
- TMRC: /tmerk'/ n. The Tech Model Railroad Club at MIT, one of the
-wellsprings of hacker culture. The 1959 `Dictionary of the TMRC Language'
-compiled by Peter Samson included several terms which became basics of the
-hackish vocabulary (see esp. {foo} and {frob}). By 1962, TMRC's legendary
-layout was already a marvel of complexity. The control system alone featured
-about 1200 relays. There were {scram switch}es located at numerous places
-around the room that could be pressed if something undesirable was about to
-occur, such as a train going full-bore at an obstruction. Another feature of
-the system was a digital clock on the dispatch board. Normally it ran at some
-multiple of real time, but if someone hit a scram switch the clock stopped
-and the display was replaced with the word `FOO'. Steven Levy, in his book
-`Hackers' (see the Bibliography), gives a stimulating account of those early
-years. TMRC's Power and Signals group included most of the early PDP-1
-hackers and the people who later bacame the core of the MIT AI Lab staff.
-Thirty years later that connection is still very much alive, and this lexicon
-accordingly includes a number of entries from a recent revision of the TMRC
-Dictionary. to a first approximation: 1. [techspeak] When one is doing
-certain numerical computations, an approximate solution may be computed by
-any of several heuristic methods, then refined to a final value. By using the
-starting point of a first approximation of the answer, one can write an
-algorithm that converges more quickly to the correct result. 2. In jargon, a
-preface to any comment that indicates that the comment is only approximately
-true. The remark "To a first approximation, I feel good" might indicate that
-deeper questioning would reveal that not all is perfect (e.g., a nagging
-cough still remains after an illness). to a zeroth approximation: [from `to a
-first approximation'] A *really* sloppy approximation; a wild guess. Compare
-{social science number}. toast: 1. n. Any completely inoperable system or
-component, esp. one that has just crashed and burned: "Uh, oh ... I think the
-serial board is toast." 2. vt. To cause a system to crash accidentally,
-especially in a manner that requires manual rebooting. "Rick just toasted the
-{firewall machine} again." toaster: n. 1. The archetypal really stupid
-application for an embedded microprocessor controller; often used in comments
-that imply that a scheme is inappropriate technology (but see {elevator
-controller}). "{DWIM} for an assembler? That'd be as silly as running UNIX on
-your toaster!" 2. A very, very dumb computer. "You could run this program on
-any dumb toaster." see {bitty box}, {Get a real computer!}, {toy}, {beige
-toaster}. 3. A Macintosh, esp. the Classic Mac. Some hold that this is
-implied by sense 2. 4. A peripheral device. "I bought my box without
-toasters, but since then I've added two boards and a second disk drive."
-toeprint: n. A {footprint} of especially small size. toggle: vt. To change a
-{bit} from whatever state it is in to the other state; to change from 1 to 0
-or from 0 to 1. This comes from `toggle switches', such as standard light
-switches, though the word `toggle' actually refers to the mechanism that
-keeps the switch in the position to which it is flipped rather than to the
-fact that the switch has two positions. There are four things you can do to a
-bit: set it (force it to be 1), clear (or zero) it, leave it alone, or toggle
-it. (Mathematically, one would say that there are four distinct
-boolean-valued functions of one boolean argument, but saying that is much
-less fun than talking about toggling bits.) tool: 1. n. A program used
-primarily to create, manipulate, modify, or analyze other programs, such as a
-compiler or an editor or a cross-referencing program. Oppose {app},
-{operating system}. 2. [UNIX] An application program with a simple,
-`transparent' (typically text-stream) interface designed specifically to be
-used in programmed combination with other tools (see {filter}). 3. [MIT:
-general to students there] vi. To work; to study (connotes tedium). The TMRC
-Dictionary defined this as "to set one's brain to the grindstone". see
-{hack}. 4. [MIT] n. A student who studies too much and hacks too little.
-(MIT's student humor magazine rejoices in the name `Tool and Die'.)
-toolsmith: n. The software equivalent of a tool-and-die specialist; one who
-specializes in making the {tool}s with which other programmers create
-applications. see also {uninteresting}. topic drift: n. Term used on GEnie,
-USENET and other electronic fora to describe the tendency of a {thread} to
-drift away from the original subject of discussion (and thus, from the
-Subject header of the originating message), or the results of that tendency.
-Often used in gentle reminders that the discussion has strayed off any useful
-track. "I think we started with a question about Niven's last book, but we've
-ended up discussing the sexual habits of the common marmoset. Now *that's*
-topic drift!" topic group: n. Syn. {forum}.
+ :TMRC: /tmerk'/ n. The Tech Model Railroad Club at MIT, one of the
+wellsprings of hacker culture. The 1959 "Dictionary of the TMRC Language"
+compiled by Peter Samson included several terms that became basics of the
+hackish vocabulary (see esp. {foo}, {mung}, and {frob}). By 1962, TMRC's
+legendary layout was already a marvel of complexity (and has grown in the
+thirty years since; all the features described here are still present). The
+control system alone featured about 1200 relays. There were {scram switch}es
+located at numerous places around the room that could be thwacked if
+something undesirable was about to occur, such as a train going full-bore at
+an obstruction. Another feature of the system was a digital clock on the
+dispatch board, which was itself something of a wonder in those bygone days
+before cheap LEDS and seven-segment displays. When someone hit a scram switch
+the clock stopped and the display was replaced with the word `FOO'; at TMRC
+the scram switches are therefore called `foo switches'. Steven Levy, in his
+book "Hackers" (see the Bibliography in {Appendix C}), gives a stimulating
+account of those early years. TMRC's Power and Signals group included most of
+the early PDP-1 hackers and the people who later bacame the core of the MIT
+AI Lab staff. Thirty years later that connection is still very much alive,
+and this lexicon accordingly includes a number of entries from a recent
+revision of the TMRC dictionary.

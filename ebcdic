@@ -1,63 +1,14 @@
- EBCDIC:: /eb's*-dik/, /eb'see`dik/, or /eb'k*-dik/ [acronym, Extended Binary
-Coded Decimal Interchange Code] n. An alleged character set used on IBM
-{dinosaur}s. It exists in at least six mutually incompatible versions, all
-featuring such delights as non-contiguous letter sequences and the absence of
-several ASCII punctuation characters fairly important for modern computer
-languages (exactly which characters are absent varies according to which
-version of EBCDIC you're looking at). IBM adapted EBCDIC from {{punched
+ :EBCDIC:: /eb's*-dik/, /eb'see`dik/, or /eb'k*-dik/ [abbreviation, Extended
+Binary Coded Decimal Interchange Code] n. An alleged character set used on
+IBM {dinosaur}s. It exists in at least six mutually incompatible versions,
+all featuring such delights as non-contiguous letter sequences and the
+absence of several ASCII punctuation characters fairly important for modern
+computer languages (exactly which characters are absent varies according to
+which version of EBCDIC you're looking at). IBM adapted EBCDIC from {{punched
 card}} code in the early 1960s and promulgated it as a customer-control
 tactic (see {connector conspiracy}), spurning the already established ASCII
 standard. Today, IBM claims to be an open-systems company, but IBM's own
 description of the EBCDIC variants and how to convert between them is still
 internally classified top-secret, burn-before-reading. Hackers blanch at the
 very *name* of EBCDIC and consider it a manifestation of purest {evil}. see
-also {fear and loathing}. echo: [FidoNet] n. A {topic group} on {FidoNet}'s
-echomail system. Compare {newsgroup}. eighty-column mind: [IBM] n. The sort
-said to be possessed by persons for whom the transition from {punched card}
-to tape was traumatic (nobody has dared tell them about disks yet). It is
-said that these people, including (according to an old joke) the founder of
-IBM, will be buried `face down, 9-edge first' (the 9-edge being the bottom of
-the card). This directive is inscribed on IBM's 1422 and 1602 card readers
-and is referenced in a famous bit of doggerel called "The Last Bug", the
-climactic lines of which are as follows: He died at the console Of hunger and
-thirst. Next day he was buried, Face down, 9-edge first. The eighty-column
-mind is thought by most hackers to dominate IBM's customer base and its
-thinking. see {IBM}, {fear and loathing}, {card walloper}. El Camino Bignum:
-/el' k*-mee'noh big'nuhm/ n. The road mundanely called El Camino Real, a road
-through the San Francisco peninsula that originally extended all the way down
-to Mexico City and many portions of which are still intact. Navigation on the
-San Francisco peninsula is usually done relative to El Camino Real, which
-defines {logical} north and south even though it isn't really north-south
-many places. El Camino Real runs right past Stanford University and so is
-familiar to hackers. The Spanish word `real' (which has two syllables:
-/ray-ahl'/) means `royal'; El Camino Real is `the royal road'. In the FORTRAN
-language, a `real' quantity is a number typically precise to 7 significant
-digits, and a `double precision' quantity is a larger floating-point number,
-precise to perhaps fourteen significant digits (other languages have similar
-`real' types). When a hacker from MIT visited Stanford in 1976, he remarked
-what a long road El Camino Real was. Making a pun on `real', he started
-calling it `El Camino Double Precision' --- but when the hacker was told that
-the road was hundreds of miles long, he renamed it `El Camino Bignum', and
-that name has stuck. (see {bignum}.) elder days: n. The heroic age of
-hackerdom (roughly, pre-1980); the era of the {PDP-10}, {TECO}, {{ITS}}, and
-the ARPANET. This term has been rather consciously adopted from J. R. R.
-Tolkien's fantasy epic `The Lord of the Rings'. Compare {Iron Age}; see also
-{elvish}. elegant: [from mathematical usage] adj. Combining simplicity,
-power, and a certain ineffable grace of design. Higher praise than `clever',
-`winning', or even {cuspy}. elephantine: adj. Used of programs or systems
-that are both conspicuous {hog}s (owing perhaps to poor design founded on
-{brute force and ignorance}) and exceedingly {hairy} in source form. An
-elephantine program may be functional and even friendly, but (as in the old
-joke about being in bed with an elephant) it's tough to have around all the
-same (and, like a pachyderm, difficult to maintain). In extreme cases,
-hackers have been known to make trumpeting sounds or perform expressive
-proboscatory mime at the mention of the offending program. Usage:
-semi-humorous. Compare `has the elephant nature' and the somewhat more
-pejorative {monstrosity}. see also {second-system effect} and {baroque}.
-elevator controller: n. Another archetypal dumb embedded-systems application,
-like {toaster} (which superseded it). During one period (1983--84) in the
-deliberations of ANSI X3J11 (the C standardization committee) this was the
-canonical example of a really stupid, memory-limited computation environment.
-"You can't require `printf(3)' to be part of the default runtime library ---
-what if you're targeting an elevator controller?" Elevator controllers became
-important rhetorical weapons on both sides of several {holy wars}.
+also {fear and loathing}.

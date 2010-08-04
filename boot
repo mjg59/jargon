@@ -2,8 +2,8 @@
 the operating system on a machine. This usage is no longer jargon (having
 passed into techspeak) but has given rise to some derivatives that are still
 jargon. The derivative `reboot' implies that the machine hasn't been down for
-long, or that the boot is a {bounce} intended to clear some state of
-{wedgitude}. This is sometimes used of human thought processes, as in the
+long, or that the boot is a {bounce} (sense 4) intended to clear some state
+of {wedgitude}. This is sometimes used of human thought processes, as in the
 following exchange: "You've lost me." "OK, reboot. Here's the theory...."
 This term is also found in the variants `cold boot' (from power-off
 condition) and `warm boot' (with the CPU and all devices already powered up,

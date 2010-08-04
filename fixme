@@ -1,4 +1,4 @@
  :FIXME: imp. A standard tag often put in C comments near a piece of code
-that needs work. The point of doing this is so that a `grep' or similar
+that needs work. The point of doing so is that a `grep' or a similar
 pattern-matching tool can find all such places quickly. FIXME: note this is
 common in {GNU} code. Compare {XXX}.
