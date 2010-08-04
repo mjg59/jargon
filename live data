@@ -1,4 +1,4 @@
- :live data: n. 1. Data that is written to be interpreted and takes over
+ :live data: /n./ 1. Data that is written to be interpreted and takes over
 program flow when triggered by some un-obvious operation, such as viewing it.
 One use of such hacks is to break security. For example, some smart terminals
 have commands that allow one to download strings to program keys; this can be

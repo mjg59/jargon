@@ -1,5 +1,5 @@
- :JCL: /J-C-L/ n. 1. IBM's supremely {rude} Job Control Language. JCL is the
-script language used to control the execution of programs in IBM's batch
+ :JCL: /J-C-L/ /n./ 1. IBM's supremely {rude} Job Control Language. JCL is
+the script language used to control the execution of programs in IBM's batch
 systems. JCL has a very {fascist} syntax, and some versions will, for
 example, {barf} if two spaces appear where it expects one. Most programmers
 confronted with JCL simply copy a working file (or card deck), changing the

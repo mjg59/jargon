@@ -1,4 +1,4 @@
- :Nightmare File System: n. Pejorative hackerism for Sun's Network File
+ :Nightmare File System: /n./ Pejorative hackerism for Sun's Network File
 System (NFS). In any nontrivial network of Suns where there is a lot of NFS
 cross-mounting, when one Sun goes down, the others often freeze up. Some
 machine tries to access the down one, and (getting no response) repeats

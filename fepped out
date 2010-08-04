@@ -1,4 +1,4 @@
- :fepped out: /fept owt/ adj. The Symbolics 3600 LISP Machine has a Front-End
-Processor called a `FEP' (compare sense 2 of {box}). When the main processor
-gets {wedged}, the FEP takes control of the keyboard and screen. Such a
-machine is said to have `fepped out' or `dropped into the fep'.
+ :fepped out: /fept owt/ /adj./ The Symbolics 3600 LISP Machine has a
+Front-End Processor called a `FEP' (compare sense 2 of {box}). When the main
+processor gets {wedged}, the FEP takes control of the keyboard and screen.
+Such a machine is said to have `fepped out' or `dropped into the fep'.

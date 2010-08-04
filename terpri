@@ -1,4 +1,4 @@
- :terpri: /ter'pree/ vi. [from LISP 1.5 (and later, MacLISP)] To output a
+ :terpri: /ter'pree/ /vi./ [from LISP 1.5 (and later, MacLISP)] To output a
 {newline}. Now rare as jargon, though still used as techspeak in Common LISP.
 It is a contraction of `TERminate PRInt line', named for the fact that, on
 some early OSes and hardware, no characters would be printed until a complete

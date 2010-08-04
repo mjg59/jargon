@@ -1,6 +1,6 @@
- :File Request: [FidoNet] 1. n. The {FidoNet} equivalent of {FTP}, in which
+ :File Request: [FidoNet] 1. /n./ The {FidoNet} equivalent of {FTP}, in which
 one BBS system automatically dials another and {snarf}s one or more files.
 Often abbreviated `FReq'; files are often announced as being "available for
 FReq" in the same way that files are announced as being "available for/by
-anonymous FTP" on the Internet. 2. vt. The act of getting a copy of a file by
-using the File Request option of the BBS mailer.
+anonymous FTP" on the Internet. 2. /vt./ The act of getting a copy of a file
+by using the File Request option of the BBS mailer.

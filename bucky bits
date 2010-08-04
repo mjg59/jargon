@@ -1,5 +1,5 @@
- :bucky bits: /buh'kee bits/ n. 1. obs. The bits produced by the CONTROL and
-META shift keys on a SAIL keyboard (octal 200 and 400 respectively),
+ :bucky bits: /buh'kee bits/ /n./ 1. obs. The bits produced by the CONTROL
+and META shift keys on a SAIL keyboard (octal 200 and 400 respectively),
 resulting in a 9-bit keyboard character set. The MIT AI TV (Knight) keyboards
 extended this with TOP and separate left and right CONTROL and META keys,
 resulting in a 12-bit character set; later, LISP Machines added such keys as

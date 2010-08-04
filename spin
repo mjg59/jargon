@@ -1,1 +1,1 @@
- :spin: vi. Equivalent to {buzz}. More common among C and Unix programmers.
+ :spin: /vi./ Equivalent to {buzz}. More common among C and Unix programmers.

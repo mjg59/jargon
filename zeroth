@@ -1,4 +1,4 @@
- :zeroth: /zee'rohth/ adj. First. Among software designers, comes from C's
+ :zeroth: /zee'rohth/ /adj./ First. Among software designers, comes from C's
 and LISP's 0-based indexing of arrays. Hardware people also tend to start
 counting at 0 instead of 1; this is natural since, e.g., the 256 states of 8
 bits correspond to the binary numbers 0, 1, ..., 255 and the digital devices

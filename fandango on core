@@ -1,5 +1,5 @@
- :fandango on core: n. [Unix/C hackers, from the Mexican dance] In C, a wild
-pointer that runs out of bounds, causing a {core dump}, or corrupts the
+ :fandango on core: /n./ [Unix/C hackers, from the Mexican dance] In C, a
+wild pointer that runs out of bounds, causing a {core dump}, or corrupts the
 `malloc(3)' {arena} in such a way as to cause mysterious failures later on,
 is sometimes said to have `done a fandango on core'. On low-end personal
 machines without an MMU, this can corrupt the OS itself, causing massive

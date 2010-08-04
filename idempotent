@@ -1,6 +1,6 @@
- :idempotent: adj. [from mathematical techspeak] Acting as if used only once,
-even if used multiple times. This term is often used with respect to {C}
-header files, which contain common definitions and declarations to be
+ :idempotent: /adj./ [from mathematical techspeak] Acting as if used only
+once, even if used multiple times. This term is often used with respect to
+{C} header files, which contain common definitions and declarations to be
 included by several source files. If a header file is ever included twice
 during the same compilation (perhaps due to nested #include files),
 compilation errors can result unless the header file has protected itself

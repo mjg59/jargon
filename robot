@@ -1,4 +1,4 @@
- :robot: n. [IRC, MUD] An {IRC} or {MUD} user who is actually a program. On
+ :robot: /n./ [IRC, MUD] An {IRC} or {MUD} user who is actually a program. On
 IRC, typically the robot provides some useful service. Examples are NickServ,
 which tries to prevent random users from adopting {nick}s already claimed by
 others, and MsgServ, which allows one to send asynchronous messages to be

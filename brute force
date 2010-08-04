@@ -1,6 +1,6 @@
- :brute force: adj. Describes a primitive programming style, one in which the
-programmer relies on the computer's processing power instead of using his or
-her own intelligence to simplify the problem, often ignoring problems of
+ :brute force: /adj./ Describes a primitive programming style, one in which
+the programmer relies on the computer's processing power instead of using his
+or her own intelligence to simplify the problem, often ignoring problems of
 scale and applying naive methods suited to small problems directly to large
 ones. The term can also be used in reference to programming style:
 brute-force programs are written in a heavyhanded, tedious way, full of

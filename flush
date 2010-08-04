@@ -1,4 +1,4 @@
- :flush: v. 1. To delete something, usually superfluous, or to abort an
+ :flush: /v./ 1. To delete something, usually superfluous, or to abort an
 operation. "All that nonsense has been flushed." 2. [Unix/C] To force
 buffered I/O to disk, as with an `fflush(3)' call. This is *not* an abort or
 deletion as in sense 1, but a demand for early completion! 3. To leave at the

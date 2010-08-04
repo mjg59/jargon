@@ -1,4 +1,4 @@
- :guru meditation: n. Amiga equivalent of `panic' in Unix (sometimes just
+ :guru meditation: /n./ Amiga equivalent of `panic' in Unix (sometimes just
 called a `guru' or `guru event'). When the system crashes, a cryptic message
 of the form "GURU MEDITATION #XXXXXXXX.YYYYYYYY" may appear, indicating what
 the problem was. An Amiga guru can figure things out from the numbers.

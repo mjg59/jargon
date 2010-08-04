@@ -1,6 +1,9 @@
- :languages of choice: n. {C}, {LISP}, and {Perl}. Nearly every hacker knows
-one of C or Lisp, and most good ones are fluent in both. Over the last years,
-Perl has rapidly been gaining favor, especially as a tool for
+ :languages of choice: /n./ {C}, {C++}, {LISP}, and {Perl}. Nearly every
+hacker knows one of C or LISP, and most good ones are fluent in both. C++,
+despite some serious drawbacks, is generally preferred to other
+object-oriented language (though in 1996 it looks as though Java may soon
+displace it in the affections of hackers, if not everywhere). Since around
+1990 Perl has rapidly been gaining favor, especially as a tool for
 systems-administration utilities and rapid prototyping. Smalltalk and Prolog
 are also popular in small but influential communities. There is also a
 rapidly dwindling category of older hackers with FORTRAN, or even assembler,

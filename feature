@@ -1,4 +1,4 @@
- :feature: n. 1. A good property or behavior (as of a program). Whether it
+ :feature: /n./ 1. A good property or behavior (as of a program). Whether it
 was intended or not is immaterial. 2. An intended property or behavior (as of
 a program). Whether it is good or not is immaterial (but if bad, it is also a
 {misfeature}). 3. A surprising property or behavior; in particular, one that

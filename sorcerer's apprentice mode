@@ -1,6 +1,7 @@
- :sorcerer's apprentice mode: n. [from Goethe's "Der Zauberlehrling" via Paul
-Dukas's "L'apprenti sorcier" the film "Fantasia"] A bug in a protocol where,
-under some circumstances, the receipt of a message causes multiple messages
-to be sent, each of which, when received, triggers the same bug. Used esp. of
-such behavior caused by {bounce message} loops in {email} software. Compare
-{broadcast storm}, {network meltdown}, {software laser}, {ARMM}.
+ :sorcerer's apprentice mode: /n./ [from Goethe's "Der Zauberlehrling" via
+Paul Dukas's "L'apprenti sorcier" the film "Fantasia"] A bug in a protocol
+where, under some circumstances, the receipt of a message causes multiple
+messages to be sent, each of which, when received, triggers the same bug.
+Used esp. of such behavior caused by {bounce message} loops in {email}
+software. Compare {broadcast storm}, {network meltdown}, {software laser},
+{ARMM}.

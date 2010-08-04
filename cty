@@ -1,5 +1,5 @@
- :CTY: /sit'ee/ or /C-T-Y/ n. [MIT] The terminal physically associated with a
-computer's system {{console}}. The term is a contraction of `Console {tty}',
-that is, `Console TeleTYpe'. This {{ITS}}- and {{TOPS-10}}-associated term
-has become less common, as most Unix hackers simply refer to the CTY as `the
-console'.
+ :CTY: /sit'ee/ or /C-T-Y/ /n./ [MIT] The terminal physically associated with
+a computer's system {{console}}. The term is a contraction of `Console
+{tty}', that is, `Console TeleTYpe'. This {{ITS}}- and {{TOPS-10}}-associated
+term has become less common, as most Unix hackers simply refer to the CTY as
+`the console'.

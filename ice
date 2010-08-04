@@ -1,4 +1,4 @@
- :ice: n. [coined by Usenetter Tom Maddox, popularized by William Gibson's
+ :ice: /n./ [coined by Usenetter Tom Maddox, popularized by William Gibson's
 cyberpunk SF novels: a contrived acronym for `Intrusion Countermeasure
 Electronics'] Security software (in Gibson's novels, software that responds
 to intrusion by attempting to immobilize or even literally kill the

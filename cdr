@@ -1,9 +1,9 @@
- :cdr: /ku'dr/ or /kuh'dr/ vt. [from LISP] To skip past the first item from a
-list of things (generalized from the LISP operation on binary tree
+ :cdr: /ku'dr/ or /kuh'dr/ /vt./ [from LISP] To skip past the first item from
+a list of things (generalized from the LISP operation on binary tree
 structures, which returns a list consisting of all but the first element of
 its argument). In the form `cdr down', to trace down a list of elements:
 "Shall we cdr down the agenda?" Usage: silly. see also {loop through}.
-Historical note: The instruction format of the IBM 7090 that hosted the
+Historical note: The instruction format of the IBM 704 that hosted the
 original LISP implementation featured two 15-bit fields called the `address'
 and `decrement' parts. The term `cdr' was originally `Contents of Decrement
 part of Register'. Similarly, `car' stood for `Contents of Address part of

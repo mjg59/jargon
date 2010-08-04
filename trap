@@ -1,6 +1,6 @@
- :trap: 1. n. A program interrupt, usually an interrupt caused by some
+ :trap: 1. /n./ A program interrupt, usually an interrupt caused by some
 exceptional situation in the user program. In most cases, the OS performs
-some action, then returns control to the program. 2. vi. To cause a trap.
+some action, then returns control to the program. 2. /vi./ To cause a trap.
 "These instructions trap to the monitor." Also used transitively to indicate
 the cause of the trap. "The monitor traps all input/output instructions."
 This term is associated with assembler programming (`interrupt' or

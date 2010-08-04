@@ -1,4 +1,4 @@
- :tick: n. 1. A {jiffy} (sense 1). 2. In simulations, the discrete unit of
+ :tick: /n./ 1. A {jiffy} (sense 1). 2. In simulations, the discrete unit of
 time that passes between iterations of the simulation mechanism. In AI
 applications, this amount of time is often left unspecified, since the only
 constraint of interest is the ordering of events. This sort of AI simulation

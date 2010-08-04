@@ -1,5 +1,5 @@
- :TLA: /T-L-A/ n. [Three-Letter Acronym] 1. Self-describing abbreviation for
-a species with which computing terminology is infested. 2. Any confusing
+ :TLA: /T-L-A/ /n./ [Three-Letter Acronym] 1. Self-describing abbreviation
+for a species with which computing terminology is infested. 2. Any confusing
 acronym. Examples include MCA, FTP, SNA, CPU, MMU, SCCS, DMU, FPU, NNTP, TLA.
 People who like this looser usage argue that not all TLAs have three letters,
 just as not all four-letter words have four letters. One also hears of `ETLA'

@@ -1,7 +1,7 @@
- :tunafish: n. In hackish lore, refers to the mutated punchline of an age-old
-joke to be found at the bottom of the manual pages of `tunefs(8)' in the
-original {BSD} 4.2 distribution. The joke was removed in later releases once
-commercial sites started using 4.2. Tunefs relates to the `tuning' of
+ :tunafish: /n./ In hackish lore, refers to the mutated punchline of an
+age-old joke to be found at the bottom of the manual pages of `tunefs(8)' in
+the original {BSD} 4.2 distribution. The joke was removed in later releases
+once commercial sites started using 4.2. Tunefs relates to the `tuning' of
 file-system parameters for optimum performance, and at the bottom of a few
 pages of wizardly inscriptions was a `BUGS' section consisting of the line
 "You can tune a file system, but you can't tunafish". Variants of this can be

@@ -1,4 +1,4 @@
- :candygrammar: n. A programming-language grammar that is mostly {syntactic
+ :candygrammar: /n./ A programming-language grammar that is mostly {syntactic
 sugar}; the term is also a play on `candygram'. {COBOL}, Apple's Hypertalk
 language, and a lot of the so-called `4GL' database languages share this
 property. The usual intent of such designs is that they be as English-like as

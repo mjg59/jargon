@@ -1,4 +1,4 @@
- :flag day: n. A software change that is neither forward- nor
+ :flag day: /n./ A software change that is neither forward- nor
 backward-compatible, and which is costly to make and costly to reverse. "Can
 we install that without causing a flag day for all users?" This term has
 nothing to do with the use of the word {flag} to mean a variable that has two

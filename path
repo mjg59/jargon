@@ -1,4 +1,4 @@
- :path: n. 1. A {bang path} or explicitly routed {{Internet address}}; a
+ :path: /n./ 1. A {bang path} or explicitly routed {{Internet address}}; a
 node-by-node specification of a link between two machines. 2. [Unix] A
 filename, fully specified relative to the root directory (as opposed to
 relative to the current directory; the latter is sometimes called a `relative

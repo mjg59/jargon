@@ -1,9 +1,9 @@
- :connector conspiracy: n. [probably came into prominence with the appearance
-of the KL-10 (one model of the {PDP-10}), none of whose connectors matched
-anything else] The tendency of manufacturers (or, by extension, programmers
-or purveyors of anything) to come up with new products that don't fit
-together with the old stuff, thereby making you buy either all new stuff or
-expensive interface devices. The KL-10 Massbus connector was actually
+ :connector conspiracy: /n./ [probably came into prominence with the
+appearance of the KL-10 (one model of the {PDP-10}), none of whose connectors
+matched anything else] The tendency of manufacturers (or, by extension,
+programmers or purveyors of anything) to come up with new products that don't
+fit together with the old stuff, thereby making you buy either all new stuff
+or expensive interface devices. The KL-10 Massbus connector was actually
 *patented* by {DEC}, which reputedly refused to license the design and thus
 effectively locked third parties out of competition for the lucrative Massbus
 peripherals market. This policy is a source of never-ending frustration for

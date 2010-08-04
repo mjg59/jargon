@@ -1,11 +1,11 @@
- :El Camino Bignum: /el' k*-mee'noh big'nuhm/ n. The road mundanely called El
-Camino Real, a road through the San Francisco peninsula that originally
+ :El Camino Bignum: /el' k*-mee'noh big'nuhm/ /n./ The road mundanely called
+El Camino Real, a road through the San Francisco peninsula that originally
 extended all the way down to Mexico City and many portions of which are still
 intact. Navigation on the San Francisco peninsula is usually done relative to
 El Camino Real, which defines {logical} north and south even though it isn't
 really north-south in many places. El Camino Real runs right past Stanford
 University and so is familiar to hackers. The Spanish word `real' (which has
-two syllables: /ray-ol'/) means `royal'; El Camino Real is `the royal road'.
+two syllables: /ray-ahl'/) means `royal'; El Camino Real is `the royal road'.
 In the FORTRAN language, a `real' quantity is a number typically precise to
 seven significant digits, and a `double precision' quantity is a larger
 floating-point number, precise to perhaps fourteen significant digits (other

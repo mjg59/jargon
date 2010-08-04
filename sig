@@ -1,4 +1,4 @@
- :SIG: /sig/ n. (also common as a prefix in combining forms) A Special
+ :SIG: /sig/ /n./ (also common as a prefix in combining forms) A Special
 Interest Group, in one of several technical areas, sponsored by the
 Association for Computing Machinery; well-known ones include SIGPLAN (the
 Special Interest Group on Programming Languages), SIGARCH (the Special

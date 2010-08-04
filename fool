@@ -1,9 +1,9 @@
- :fool: n. As used by hackers, specifically describes a person who habitually
-reasons from obviously or demonstrably incorrect premises and cannot be
-persuaded by evidence to do otherwise; it is not generally used in its other
-senses, i.e., to describe a person with a native incapacity to reason
-correctly, or a clown. Indeed, in hackish experience many fools are capable
-of reasoning all too effectively in executing their errors. see also
+ :fool: /n./ As used by hackers, specifically describes a person who
+habitually reasons from obviously or demonstrably incorrect premises and
+cannot be persuaded by evidence to do otherwise; it is not generally used in
+its other senses, i.e., to describe a person with a native incapacity to
+reason correctly, or a clown. Indeed, in hackish experience many fools are
+capable of reasoning all too effectively in executing their errors. see also
 {cretin}, {loser}, {fool file, the}. The Algol 68-R compiler used to
 initialize its storage to the character string "F00LF00LF00LF00L..." because
 as a pointer or as a floating point number it caused a crash, and as an

@@ -1,5 +1,5 @@
- :cat: [from `catenate' via {{Unix}} `cat(1)'] vt. 1. [techspeak] To spew an
-entire file to the screen or some other output sink without pause. 2. By
+ :cat: [from `catenate' via {{Unix}} `cat(1)'] /vt./ 1. [techspeak] To spew
+an entire file to the screen or some other output sink without pause. 2. By
 extension, to dump large amounts of data at an unprepared target or with no
 intention of browsing it carefully. Usage: considered silly. Rare outside
 Unix sites. see also {dd}, {BLT}. Among Unix fans, `cat(1)' is considered an

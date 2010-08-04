@@ -1,18 +1,18 @@
- :metasyntactic variable: n. A name used in examples and understood to stand
-for whatever thing is under discussion, or any random member of a class of
-things under discussion. The word {foo} is the {canonical} example. To avoid
-confusion, hackers never (well, hardly ever) use `foo' or other words like it
-as permanent names for anything. In filenames, a common convention is that
-any filename beginning with a metasyntactic-variable name is a {scratch} file
-that may be deleted at any time. To some extent, the list of one's preferred
-metasyntactic variables is a cultural signature. They occur both in series
-(used for related groups of variables or objects) and as singletons. Here are
-a few common signatures: {foo}, {bar}, {baz}, {quux}, quuux, quuuux...:
-MIT/Stanford usage, now found everywhere (thanks largely to early versions of
-this lexicon!). At MIT (but not at Stanford), {baz} dropped out of use for a
-while in the 1970s and '80s. A common recent mutation of this sequence
-inserts {qux} before {quux}. bazola, ztesch: Stanford (from mid-'70s on).
-{foo}, {bar}, thud, grunt: This series was popular at CMU. Other
+ :metasyntactic variable: /n./ A name used in examples and understood to
+stand for whatever thing is under discussion, or any random member of a class
+of things under discussion. The word {foo} is the {canonical} example. To
+avoid confusion, hackers never (well, hardly ever) use `foo' or other words
+like it as permanent names for anything. In filenames, a common convention is
+that any filename beginning with a metasyntactic-variable name is a {scratch}
+file that may be deleted at any time. To some extent, the list of one's
+preferred metasyntactic variables is a cultural signature. They occur both in
+series (used for related groups of variables or objects) and as singletons.
+Here are a few common signatures: {foo}, {bar}, {baz}, {quux}, quuux,
+quuuux...: MIT/Stanford usage, now found everywhere (thanks largely to early
+versions of this lexicon!). At MIT (but not at Stanford), {baz} dropped out
+of use for a while in the 1970s and '80s. A common recent mutation of this
+sequence inserts {qux} before {quux}. bazola, ztesch: Stanford (from mid-'70s
+on). {foo}, {bar}, thud, grunt: This series was popular at CMU. Other
 CMU-associated variables include {gorp}. {foo}, {bar}, fum: This series is
 reported to be common at XEROX PARC. {fred}, {barney}: see the entry for
 {fred}. These tend to be Britishisms. {corge}, {grault}, {flarp}: Popular at

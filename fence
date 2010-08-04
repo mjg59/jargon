@@ -1,4 +1,4 @@
- :fence: n. 1. A sequence of one or more distinguished ({out-of-band})
+ :fence: /n./ 1. A sequence of one or more distinguished ({out-of-band})
 characters (or other data items), used to delimit a piece of data intended to
 be treated as a unit (the computer-science literature calls this a
 `sentinel'). The NUL (ASCII 0000000) character that terminates strings in C

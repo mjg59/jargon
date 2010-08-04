@@ -1,11 +1,11 @@
- :precedence lossage: /pre's*-dens los'*j/ n. [C programmers] Coding error in
-an expression due to unexpected grouping of arithmetic or logical operators
-by the compiler. Used esp. of certain common coding errors in C due to the
-nonintuitively low precedence levels of `&', `|', `^', `<<', and `>>' (for
-this reason, experienced C programmers deliberately forget the language's
-{baroque} precedence hierarchy and parenthesize defensively). Can always be
-avoided by suitable use of parentheses. {LISP} fans enjoy pointing out that
-this can't happen in *their* favorite language, which eschews precedence
-entirely, requiring one to use explicit parentheses everywhere. see {aliasing
-bug}, {memory leak}, {memory smash}, {smash the stack}, {fandango on core},
-{overrun screw}.
+ :precedence lossage: /pre's*-dens los'*j/ /n./ [C programmers] Coding error
+in an expression due to unexpected grouping of arithmetic or logical
+operators by the compiler. Used esp. of certain common coding errors in C due
+to the nonintuitively low precedence levels of `&', `|', `^', `<<', and `>>'
+(for this reason, experienced C programmers deliberately forget the
+language's {baroque} precedence hierarchy and parenthesize defensively). Can
+always be avoided by suitable use of parentheses. {LISP} fans enjoy pointing
+out that this can't happen in *their* favorite language, which eschews
+precedence entirely, requiring one to use explicit parentheses everywhere.
+see {aliasing bug}, {memory leak}, {memory smash}, {smash the stack},
+{fandango on core}, {overrun screw}.

@@ -1,4 +1,4 @@
- :ACK: /ak/ interj. 1. [from the ASCII mnemonic for 0000110] Acknowledge.
+ :ACK: /ak/ /interj./ 1. [from the ASCII mnemonic for 0000110] Acknowledge.
 Used to register one's presence (compare mainstream *Yo!*). An appropriate
 response to {ping} or {ENQ}. 2. [from the comic strip "Bloom County"] An
 exclamation of surprised disgust, esp. in "Ack pffft!" Semi-humorous.

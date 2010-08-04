@@ -1,12 +1,12 @@
- :jiffy: n. 1. The duration of one tick of the system clock on the computer
-(see {tick}). Often one AC cycle time (1/60 second in the U.S. and Canada,
-1/50 most other places), but more recently 1/100 sec has become common. "The
-swapper runs every 6 jiffies" means that the virtual memory management
-routine is executed once for every 6 ticks of the clock, or about ten times a
-second. 2. Confusingly, the term is sometimes also used for a 1-millisecond
-{wall time} interval. Even more confusingly, physicists semi-jokingly use
-`jiffy' to mean the time required for light to travel one foot in a vacuum,
-which turns out to be close to one *nanosecond*. 3. Indeterminate time from a
-few seconds to forever. "I'll do it in a jiffy" means certainly not now and
-possibly never. This is a bit contrary to the more widespread use of the
-word. Oppose {nano}. see also {Real Soon Now}.
+ :jiffy: /n./ 1. The duration of one tick of the system clock on your
+computer (see {tick}). Often one AC cycle time (1/60 second in the U.S. and
+Canada, 1/50 most other places), but more recently 1/100 sec has become
+common. "The swapper runs every 6 jiffies" means that the virtual memory
+management routine is executed once for every 6 ticks of the clock, or about
+ten times a second. 2. Confusingly, the term is sometimes also used for a
+1-millisecond {wall time} interval. Even more confusingly, physicists
+semi-jokingly use `jiffy' to mean the time required for light to travel one
+foot in a vacuum, which turns out to be close to one *nanosecond*. 3.
+Indeterminate time from a few seconds to forever. "I'll do it in a jiffy"
+means certainly not now and possibly never. This is a bit contrary to the
+more widespread use of the word. Oppose {nano}. see also {Real Soon Now}.

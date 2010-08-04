@@ -1,4 +1,4 @@
- :mode bit: n. A {flag}, usually in hardware, that selects between two
+ :mode bit: /n./ A {flag}, usually in hardware, that selects between two
 (usually quite different) modes of operation. The connotations are different
 from {flag} bit in that mode bits are mainly written during a boot or set-up
 phase, are seldom explicitly read, and seldom change over the lifetime of an

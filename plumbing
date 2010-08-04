@@ -1,4 +1,4 @@
- :plumbing: n. [Unix] Term used for {shell} code, so called because of the
+ :plumbing: /n./ [Unix] Term used for {shell} code, so called because of the
 prevalence of `pipelines' that feed the output of one program to the input of
 another. Under Unix, user utilities can often be implemented or at least
 prototyped by a suitable collection of pipelines and temp-file grinding

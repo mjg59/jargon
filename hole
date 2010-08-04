@@ -1,4 +1,4 @@
- :hole: n. A region in an otherwise {flat} entity which is not actually
+ :hole: /n./ A region in an otherwise {flat} entity which is not actually
 present. For example, some Unix filesystems can store large files with holes
 so that unused regions of the file are never actually stored on disk. (In
 techspeak, these are referred to as `sparse' files.) As another example, the

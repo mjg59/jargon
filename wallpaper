@@ -1,5 +1,5 @@
- :wallpaper: n. 1. A file containing a listing (e.g., assembly listing) or a
-transcript, esp. a file containing a transcript of all or part of a login
+ :wallpaper: /n./ 1. A file containing a listing (e.g., assembly listing) or
+a transcript, esp. a file containing a transcript of all or part of a login
 session. (The idea was that the paper for such listings was essentially good
 only for wallpaper, as evidenced at Stanford, where it was used to cover
 windows.) Now rare, esp. since other systems have developed other terms for
@@ -9,7 +9,7 @@ probably originated on ITS, where the commands to begin and end transcript
 files were `:WALBEG' and `:WALEND', with default file `WALL PAPER' (the space
 was a path delimiter). 2. The background pattern used on graphical
 workstations (this is techspeak under the `Windows' graphical user interface
-to MS-DOS). 3. `wallpaper file' n. The file that contains the wallpaper
+to MS-DOS). 3. `wallpaper file' /n./ The file that contains the wallpaper
 information before it is actually printed on paper. (Even if you don't intend
 ever to produce a real paper copy of the file, it is still called a wallpaper
 file.)

@@ -1,4 +1,4 @@
- :middle-endian: adj. Not {big-endian} or {little-endian}. Used of perverse
+ :middle-endian: /adj./ Not {big-endian} or {little-endian}. Used of perverse
 byte orders such as 3-4-1-2 or 2-1-4-3, occasionally found in the
 packed-decimal formats of minicomputer manufacturers who shall remain
 nameless. see {NUXI problem}. Non-US hackers use this term to describe the

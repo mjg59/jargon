@@ -1,4 +1,4 @@
- :Pascal:: n. An Algol-descended language designed by Niklaus Wirth on the
+ :Pascal:: /n./ An Algol-descended language designed by Niklaus Wirth on the
 CDC 6600 around 1967--68 as an instructional tool for elementary programming.
 This language, designed primarily to keep students from shooting themselves
 in the foot and thus extremely restrictive from a general-purpose-programming

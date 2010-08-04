@@ -1,4 +1,4 @@
- :brittle: adj. Said of software that is functional but easily broken by
+ :brittle: /adj./ Said of software that is functional but easily broken by
 changes in operating environment or configuration, or by any minor tweak to
 the software itself. Also, any system that responds inappropriately and
 disastrously to abnormal but expected external stimuli; e.g., a file system

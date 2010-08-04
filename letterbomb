@@ -1,6 +1,6 @@
- :letterbomb: 1. n. A piece of {email} containing {live data} intended to do
-nefarious things to the recipient's machine or terminal. It is possible, for
-example, to send letterbombs that will lock up some specific kinds of
+ :letterbomb: 1. /n./ A piece of {email} containing {live data} intended to
+do nefarious things to the recipient's machine or terminal. It is possible,
+for example, to send letterbombs that will lock up some specific kinds of
 terminals when they are viewed, so thoroughly that the user must cycle power
 (see {cycle}, sense 3) to unwedge them. Under Unix, a letterbomb can also try
 to get part of its contents interpreted as a shell command to the mailer. The

@@ -1,13 +1,13 @@
- :NP-: /N-P/ pref. Extremely. Used to modify adjectives describing a level or
-quality of difficulty; the connotation is often `more so than it should be'
-(NP-complete problems all seem to be very hard, but so far no one has found a
-good a priori reason that they should be.) "Coding a BitBlt implementation to
-perform correctly in every case is NP-annoying." This is generalized from the
-computer-science terms `NP-hard' and `NP-complete'. NP is the set of
-Nondeterministic-Polynomial algorithms, those that can be completed by a
-nondeterministic Turing machine in an amount of time that is a polynomial
-function of the size of the input; a solution for one NP-complete problem
-would solve all the others. Note, however, that the NP- prefix is, from a
-complexity theorist's point of view, the wrong part of `NP-complete' to
-connote extreme difficulty; it is the completeness, not the NP-ness, that
+ :NP-: /N-P/ /pref./ Extremely. Used to modify adjectives describing a level
+or quality of difficulty; the connotation is often `more so than it should
+be' (NP-complete problems all seem to be very hard, but so far no one has
+found a good a priori reason that they should be.) "Coding a BitBlt
+implementation to perform correctly in every case is NP-annoying." This is
+generalized from the computer-science terms `NP-hard' and `NP-complete'. NP
+is the set of Nondeterministic-Polynomial algorithms, those that can be
+completed by a nondeterministic Turing machine in an amount of time that is a
+polynomial function of the size of the input; a solution for one NP-complete
+problem would solve all the others. Note, however, that the NP- prefix is,
+from a complexity theorist's point of view, the wrong part of `NP-complete'
+to connote extreme difficulty; it is the completeness, not the NP-ness, that
 puts any problem it describes in the `hard' category.

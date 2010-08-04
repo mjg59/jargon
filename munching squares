@@ -1,4 +1,4 @@
- :munching squares: n. A {display hack} dating back to the PDP-1 (ca. 1962,
+ :munching squares: /n./ A {display hack} dating back to the PDP-1 (ca. 1962,
 reportedly discovered by Jackson Wright), which employs a trivial computation
 (repeatedly plotting the graph Y = X XOR T for successive values of T -- see
 {HAKMEM} items 146--148) to produce an impressive display of moving and

@@ -1,4 +1,4 @@
- :nadger: /nad'jr/ v. [UK] Of software or hardware (not people), to twiddle
+ :nadger: /nad'jr/ /v./ [UK] Of software or hardware (not people), to twiddle
 some object in a hidden manner, generally so that it conforms better to some
 format. For instance, string printing routines on 8-bit processors often take
 the string text from the instruction stream, thus a print call looks like

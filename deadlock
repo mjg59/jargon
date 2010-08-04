@@ -1,4 +1,4 @@
- :deadlock: n. 1. [techspeak] A situation wherein two or more processes are
+ :deadlock: /n./ 1. [techspeak] A situation wherein two or more processes are
 unable to proceed because each is waiting for one of the others to do
 something. A common example is a program communicating to a server, which may
 find itself waiting for output from the server before sending anything more

@@ -1,4 +1,4 @@
- :magic cookie: n. [Unix] 1. Something passed between routines or programs
+ :magic cookie: /n./ [Unix] 1. Something passed between routines or programs
 that enables the receiver to perform some operation; a capability ticket or
 opaque identifier. Especially used of small data objects that contain data
 encoded in a strange or intrinsically machine-dependent way. E.g., on

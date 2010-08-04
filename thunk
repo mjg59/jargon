@@ -1,4 +1,4 @@
- :thunk: /thuhnk/ n. 1. "A piece of coding which provides an address",
+ :thunk: /thuhnk/ /n./ 1. "A piece of coding which provides an address",
 according to P. Z. Ingerman, who invented thunks in 1961 as a way of binding
 actual parameters to their formal definitions in Algol-60 procedure calls. If
 a procedure is called with an expression in the place of a formal parameter,

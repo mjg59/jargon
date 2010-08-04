@@ -1,4 +1,4 @@
- :bottom-up implementation: n. Hackish opposite of the techspeak term
+ :bottom-up implementation: /n./ Hackish opposite of the techspeak term
 `top-down design'. It is now received wisdom in most programming cultures
 that it is best to design from higher levels of abstraction down to lower,
 specifying sequences of action in increasing detail until you get to actual

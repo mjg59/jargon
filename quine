@@ -1,4 +1,4 @@
- :quine: /kwi:n/ n. [from the name of the logician Willard van Orman Quine,
+ :quine: /kwi:n/ /n./ [from the name of the logician Willard van Orman Quine,
 via Douglas Hofstadter] A program that generates a copy of its own source
 text as its complete output. Devising the shortest possible quine in some
 given programming language is a common hackish amusement. Here is one classic

@@ -1,4 +1,4 @@
- :bit bang: n. Transmission of data on a serial line, when accomplished by
+ :bit bang: /n./ Transmission of data on a serial line, when accomplished by
 rapidly tweaking a single output bit, in software, at the appropriate times.
 The technique is a simple loop with eight OUT and SHIFT instruction pairs for
 each byte. Input is more interesting. And full duplex (doing input and output

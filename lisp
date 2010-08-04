@@ -1,4 +1,4 @@
- :LISP: n. [from `LISt Processing language', but mythically from `Lots of
+ :LISP: /n./ [from `LISt Processing language', but mythically from `Lots of
 Irritating Superfluous Parentheses'] AI's mother tongue, a language based on
 the ideas of (a) variable-length lists and trees as fundamental data types,
 and (b) the interpretation of code as data and vice-versa. Invented by John

@@ -1,5 +1,5 @@
  :swab: /swob/ [From the mnemonic for the PDP-11 `SWAp Byte' instruction, as
-immortalized in the `dd(1)' option `conv=swab' (see {dd})] 1. vt. To solve
-the {NUXI problem} by swapping bytes in a file. 2. n. The program in V7 Unix
-used to perform this action, or anything functionally equivalent to it. see
-also {big-endian}, {little-endian}, {middle-endian}, {bytesexual}.
+immortalized in the `dd(1)' option `conv=swab' (see {dd})] 1. /vt./ To solve
+the {NUXI problem} by swapping bytes in a file. 2. /n./ The program in V7
+Unix used to perform this action, or anything functionally equivalent to it.
+see also {big-endian}, {little-endian}, {middle-endian}, {bytesexual}.

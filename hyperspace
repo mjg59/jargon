@@ -1,4 +1,4 @@
- :hyperspace: /hi:'per-spays/ n. A memory location that is *far* away from
+ :hyperspace: /hi:'per-spays/ /n./ A memory location that is *far* away from
 where the program counter should be pointing, especially a place that is
 inaccessible because it is not even mapped in by the virtual-memory system.
 "Another core dump --- looks like the program jumped off to hyperspace

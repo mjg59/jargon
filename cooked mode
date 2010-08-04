@@ -1,4 +1,4 @@
- :cooked mode: n. [Unix, by opposition from {raw mode}] The normal
+ :cooked mode: /n./ [Unix, by opposition from {raw mode}] The normal
 character-input mode, with interrupts enabled and with erase, kill and other
 special-character interpretations performed directly by the tty driver.
 Oppose {raw mode}, {rare mode}. This term is techspeak under Unix but jargon

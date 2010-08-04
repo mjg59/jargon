@@ -1,4 +1,4 @@
- :hash bucket: n. A notional receptacle, a set of which might be used to
+ :hash bucket: /n./ A notional receptacle, a set of which might be used to
 apportion data items for sorting or lookup purposes. When you look up a name
 in the phone book (for example), you typically hash it by extracting its
 first letter; the hash buckets are the alphabetically ordered letter

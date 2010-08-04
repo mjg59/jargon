@@ -1,5 +1,5 @@
- :link farm: n. [Unix] A directory tree that contains many links to files in
-a master directory tree of files. Link farms save space when one is
+ :link farm: /n./ [Unix] A directory tree that contains many links to files
+in a master directory tree of files. Link farms save space when one is
 maintaining several nearly identical copies of the same source tree -- for
 example, when the only difference is architecture-dependent object files.
 "Let's freeze the source and then rebuild the FROBOZZ-3 and FROBOZZ-4 link

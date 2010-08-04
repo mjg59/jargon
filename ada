@@ -1,4 +1,4 @@
- :Ada:: n. A {{Pascal}}-descended language that has been made mandatory for
+ :Ada:: /n./ A {{Pascal}}-descended language that has been made mandatory for
 Department of Defense software projects by the Pentagon. Hackers are nearly
 unanimous in observing that, technically, it is precisely what one might
 expect given that kind of endorsement by fiat; designed by committee,

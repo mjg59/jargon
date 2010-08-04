@@ -1,4 +1,4 @@
- :shim: n. A small piece of data inserted in order to achieve a desired
+ :shim: /n./ A small piece of data inserted in order to achieve a desired
 memory alignment or other addressing property. For example, the PDP-11 Unix
 linker, in split I&D (instructions and data) mode, inserts a two-byte shim at
 location 0 in data space so that no data object will have an address of 0

@@ -1,4 +1,4 @@
- :meta bit: n. The top bit of an 8-bit character, which is on in character
+ :meta bit: /n./ The top bit of an 8-bit character, which is on in character
 values 128--255. Also called {high bit}, {alt bit}, or {hobbit}. Some
 terminals and consoles (see {space-cadet keyboard}) have a META shift key.
 Others (including, *mirabile dictu*, keyboards on IBM PC-class machines) have

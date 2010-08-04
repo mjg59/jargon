@@ -1,4 +1,4 @@
- :boxed comments: n. Comments (explanatory notes attached to program
+ :boxed comments: /n./ Comments (explanatory notes attached to program
 instructions) that occupy several lines by themselves; so called because in
 assembler and C code they are often surrounded by a box in a style something
 like this: /************************************************* * * This is a

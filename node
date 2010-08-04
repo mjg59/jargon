@@ -1,0 +1,4 @@
+ :node: /n./ 1. [Internet, UUCP] A host machine on the network. 2. [MS-DOS
+BBSes] A dial-in line on a BBS. Thus an MS-DOS {sysop} might say that his BBS
+has 4 nodes even though it has a single machine and no Internet link,
+confusing an Internet hacker no end.

@@ -1,4 +1,4 @@
- :ARMM: n. [acronym, `Automated Retroactive Minimal Moderation'] A Usenet
+ :ARMM: /n./ [acronym, `Automated Retroactive Minimal Moderation'] A Usenet
 robot created by Dick Depew of Munroe Falls, Ohio. ARMM was intended to
 automatically cancel posts from anonymous-posting sites. Unfortunately, the
 robot's recognizer for anonymous postings triggered on its own

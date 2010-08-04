@@ -1,4 +1,4 @@
- :SAIL:: /sayl/, not /S-A-I-L/ n. 1. The Stanford Artificial Intelligence
+ :SAIL:: /sayl/, not /S-A-I-L/ /n./ 1. The Stanford Artificial Intelligence
 Lab. An important site in the early development of LISP; with the MIT AI Lab,
 BBN, CMU, XEROX PARC, and the Unix community, one of the major wellsprings of
 technical innovation and hacker-culture traditions (see the {{WAITS}} entry

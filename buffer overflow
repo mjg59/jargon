@@ -1,4 +1,4 @@
- :buffer overflow: n. What happens when you try to stuff more data into a
+ :buffer overflow: /n./ What happens when you try to stuff more data into a
 buffer (holding area) than it can handle. This may be due to a mismatch in
 the processing rates of the producing and consuming processes (see {overrun}
 and {firehose syndrome}), or because the buffer is simply too small to hold

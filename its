@@ -1,7 +1,7 @@
- :ITS:: /I-T-S/ n. 1. Incompatible Time-sharing System, an influential but
-highly idiosyncratic operating system written for PDP-6s and PDP-10s at MIT
-and long used at the MIT AI Lab. Much AI-hacker jargon derives from ITS
-folklore, and to have been `an ITS hacker' qualifies one instantly as an
+ :ITS:: /I-T-S/ /n./ 1. Incompatible Time-sharing System, an influential
+though highly idiosyncratic operating system written for PDP-6s and PDP-10s
+at MIT and long used at the MIT AI Lab. Much AI-hacker jargon derives from
+ITS folklore, and to have been `an ITS hacker' qualifies one instantly as an
 old-timer of the most venerable sort. ITS pioneered many important
 innovations, including transparent file sharing between machines and
 terminal-independent I/O. After about 1982, most actual work was shifted to

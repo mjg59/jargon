@@ -1,7 +1,7 @@
- :firewall code: n. 1. The code you put in a system (say, a telephone switch)
-to make sure that the users can't do any damage. Since users always want to
-be able to do everything but never want to suffer for any mistakes, the
-construction of a firewall is a question not only of defensive coding but
+ :firewall code: /n./ 1. The code you put in a system (say, a telephone
+switch) to make sure that the users can't do any damage. Since users always
+want to be able to do everything but never want to suffer for any mistakes,
+the construction of a firewall is a question not only of defensive coding but
 also of interface presentation, so that users don't even get curious about
 those corners of a system where they can burn themselves. 2. Any sanity check
 inserted to catch a {can't happen} error. Wise programmers often change code

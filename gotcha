@@ -1,8 +1,8 @@
- :gotcha: n. A {misfeature} of a system, especially a programming language or
-environment, that tends to breed bugs or mistakes because it both enticingly
-easy to invoke and completely unexpected and/or unreasonable in its outcome.
-For example, a classic gotcha in {C} is the fact that `if (a=b) {code;}' is
-syntactically valid and sometimes even correct. It puts the value of `b' into
-`a' and then executes `code' if `a' is non-zero. What the programmer probably
-meant was `if (a==b) {code;}', which executes `code' if `a' and `b' are
-equal.
+ :gotcha: /n./ A {misfeature} of a system, especially a programming language
+or environment, that tends to breed bugs or mistakes because it both
+enticingly easy to invoke and completely unexpected and/or unreasonable in
+its outcome. For example, a classic gotcha in {C} is the fact that `if (a=b)
+{code;}' is syntactically valid and sometimes even correct. It puts the value
+of `b' into `a' and then executes `code' if `a' is non-zero. What the
+programmer probably meant was `if (a==b) {code;}', which executes `code' if
+`a' and `b' are equal.

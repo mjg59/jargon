@@ -1,4 +1,4 @@
- :indent style: n. [C programmers] The rules one uses to indent code in a
+ :indent style: /n./ [C programmers] The rules one uses to indent code in a
 readable fashion. There are four major C indent styles, described below; all
 have the aim of making it easier for the reader to visually track the scope
 of control constructs. The significant variable is the placement of `{' and

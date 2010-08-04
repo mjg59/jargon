@@ -1,4 +1,4 @@
- :obi-wan error: /oh'bee-won` er'*r/ n. [RPI, from `off-by-one' and the
+ :obi-wan error: /oh'bee-won` er'*r/ /n./ [RPI, from `off-by-one' and the
 Obi-Wan Kenobi character in "Star Wars"] A loop of some sort in which the
 index is off by 1. Common when the index should have started from 0 but
 instead started from 1. A kind of {off-by-one error}. see also {zeroth}.

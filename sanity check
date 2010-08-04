@@ -1,6 +1,6 @@
- :sanity check: n. 1. The act of checking a piece of code (or anything else,
-e.g., a Usenet posting) for completely stupid mistakes. Implies that the
-check is to make sure the author was sane when it was written; e.g., if a
+ :sanity check: /n./ 1. The act of checking a piece of code (or anything
+else, e.g., a Usenet posting) for completely stupid mistakes. Implies that
+the check is to make sure the author was sane when it was written; e.g., if a
 piece of scientific software relied on a particular formula and was giving
 unexpected results, one might first look at the nesting of parentheses or the
 coding of the formula, as a `sanity check', before looking at the more

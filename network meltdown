@@ -1,4 +1,4 @@
- :network meltdown: n. A state of complete network overload; the network
+ :network meltdown: /n./ A state of complete network overload; the network
 equivalent of {thrash}ing. This may be induced by a {Chernobyl packet}. see
 also {broadcast storm}, {kamikaze packet}. Network meltdown is often a result
 of network designs that are optimized for a steady state of moderate load and

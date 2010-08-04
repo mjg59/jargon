@@ -1,4 +1,4 @@
- :demon: n. 1. [MIT] A portion of a program that is not invoked explicitly,
+ :demon: /n./ 1. [MIT] A portion of a program that is not invoked explicitly,
 but that lies dormant waiting for some condition(s) to occur. see {daemon}.
 The distinction is that demons are usually processes within a program, while
 daemons are usually programs running on an operating system. 2. [outside MIT]

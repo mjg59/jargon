@@ -1,4 +1,4 @@
- :pathological: adj. 1. [scientific computation] Used of a data set that is
+ :pathological: /adj./ 1. [scientific computation] Used of a data set that is
 grossly atypical of normal expected input, esp. one that exposes a weakness
 or bug in whatever algorithm one is using. An algorithm that can be broken by
 pathological inputs may still be useful if such inputs are very unlikely to

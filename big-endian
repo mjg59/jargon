@@ -1,4 +1,4 @@
- :big-endian: adj. [From Swift's "Gulliver's Travels" via the famous paper
+ :big-endian: /adj./ [From Swift's "Gulliver's Travels" via the famous paper
 "On Holy Wars and a Plea for Peace" by Danny Cohen, USC/ISI IEN 137, dated
 April 1, 1980] 1. Describes a computer architecture in which, within a given
 multi-byte numeric representation, the most significant byte has the lowest

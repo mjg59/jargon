@@ -1,4 +1,4 @@
- :dot file: [Unix] n. A file that is not visible by default to normal
+ :dot file: [Unix] /n./ A file that is not visible by default to normal
 directory-browsing tools (on Unix, files named with a leading dot are, by
 convention, not normally presented in directory listings). Many programs
 define one or more dot files in which startup or configuration information

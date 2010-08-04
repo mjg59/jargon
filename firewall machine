@@ -1,4 +1,4 @@
- :firewall machine: n. A dedicated gateway machine with special security
+ :firewall machine: /n./ A dedicated gateway machine with special security
 precautions on it, used to service outside network connections and dial-in
 lines. The idea is to protect a cluster of more loosely administered machines
 hidden behind it from {cracker}s. The typical firewall is an inexpensive

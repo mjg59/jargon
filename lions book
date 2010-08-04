@@ -1,6 +1,6 @@
- :Lions Book: n. "Source Code and Commentary on Unix level 6", by John Lions.
-The two parts of this book contained (1) the entire source listing of the
-Unix Version 6 kernel, and (2) a commentary on the source discussing the
+ :Lions Book: /n./ "Source Code and Commentary on Unix level 6", by John
+Lions. The two parts of this book contained (1) the entire source listing of
+the Unix Version 6 kernel, and (2) a commentary on the source discussing the
 algorithms. These were circulated internally at the University of New South
 Wales beginning 1976--77, and were, for years after, the *only* detailed
 kernel documentation available to anyone outside Bell Labs. Because Western

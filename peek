@@ -1,4 +1,4 @@
- :peek: n.,vt. (and {poke}) The commands in most microcomputer BASICs for
+ :peek: /n.,vt./ (and {poke}) The commands in most microcomputer BASICs for
 directly accessing memory contents at an absolute address; often extended to
 mean the corresponding constructs in any {HLL} (peek reads memory, poke
 modifies it). Much hacking on small, non-MMU micros consists of `peek'ing

@@ -1,4 +1,4 @@
- :elevator controller: n. An archetypal dumb embedded-systems application,
+ :elevator controller: /n./ An archetypal dumb embedded-systems application,
 like {toaster} (which superseded it). During one period (1983--84) in the
 deliberations of ANSI X3J11 (the C standardization committee) this was the
 canonical example of a really stupid, memory-limited computation environment.

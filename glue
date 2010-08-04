@@ -1,4 +1,4 @@
- :glue: n. Generic term for any interface logic or protocol that connects two
-component blocks. For example, {Blue Glue} is IBM's SNA protocol, and
+ :glue: /n./ Generic term for any interface logic or protocol that connects
+two component blocks. For example, {Blue Glue} is IBM's SNA protocol, and
 hardware designers call anything used to connect large VLSI's or circuit
 blocks `glue logic'.

@@ -1,4 +1,4 @@
- :speedometer: n. A pattern of lights displayed on a linear set of LEDs
+ :speedometer: /n./ A pattern of lights displayed on a linear set of LEDs
 (today) or nixie tubes (yesterday, on ancient mainframes). The pattern is
 shifted left every N times the operating system goes through its {main loop}.
 A swiftly moving pattern indicates that the system is mostly idle; the

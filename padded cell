@@ -1,4 +1,4 @@
- :padded cell: n. Where you put {luser}s so they can't hurt anything. A
+ :padded cell: /n./ Where you put {luser}s so they can't hurt anything. A
 program that limits a luser to a carefully restricted subset of the
 capabilities of the host system (for example, the `rsh(1)' utility on USG
 Unix). Note that this is different from an {iron box} because it is overt and

@@ -1,4 +1,4 @@
- :net.god: /net god/ n. Accolade referring to anyone who satisfies some
+ :net.god: /net god/ /n./ Accolade referring to anyone who satisfies some
 combination of the following conditions: has been visible on Usenet for more
 than 5 years, ran one of the original backbone sites, moderated an important
 newsgroup, wrote news software, or knows Gene, Mark, Rick, Mel, Henry, Chuq,

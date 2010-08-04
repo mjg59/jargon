@@ -1,4 +1,4 @@
- :unixism: n. A piece of code or a coding technique that depends on the
+ :unixism: /n./ A piece of code or a coding technique that depends on the
 protected multi-tasking environment with relatively low process-spawn
 overhead that exists on virtual-memory Unix systems. Common {unixism}s
 include: gratuitous use of `fork(2)'; the assumption that certain
