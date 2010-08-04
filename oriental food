@@ -5,5 +5,706 @@ subcultures which overlap heavily with hackerdom, most notably
 science-fiction fandom) has never been satisfactorily explained, but is
 sufficiently intense that one can assume the target of a hackish dinner
 expedition to be the best local Chinese place and be right at least 3 times
-out of 4. see also RAVS, GREAT-WALL, STIR-FRIED RANDOM. Thai, Indian, Korean
-and Vietnamese cuisines are also quite popular.
+out of 4. see also <ravs>, <great-wall>, <stir-fried random>. Thai, Indian,
+Korean and Vietnamese cuisines are also quite popular. <orphan> [UNIX] n. A
+process whose parent has died; one inherited by `init(1)'. Compare <zombie>.
+<orthogonal> [from mathematics] adj. Mutually independent; well separated;
+sometimes, irrelevant to. Used in a generalization of its mathematical
+meaning to describe sets of primitives or capabilities which, like a vector
+basis in geometry, span the entire `capability space' of the system and are
+in some sense non-overlapping or mutually independent. For example, in
+architectures such as the VAX where all or nearly all registers can be used
+interchangeably in any role with respect to any instruction, the register set
+is said to be orthogonal. Or, in logic, the set of operators "not" and "or"
+is orthogonal, but the set "nand", "or" and "not" is not (because any one of
+these can be expressed in terms of the other two via De Morgan's Laws). Also
+used in comment on human discourse; "This may be orthogonal to the
+discussion, but...". <OS> /oh ess/ 1. [Operating System] n. Acronym heavily
+used in email, occasionally in speech. 2. obs. n. On ITS, an output spy. see
+Appendix A. <OS/2> /oh ess too/ n. The anointed successor to MS-DOS for
+Intel-286 and (allegedly) 386-based micros; proof that IBM/Microsoft couldn't
+get it right the second time, either. Cited here because mentioning it is
+usually good for a cheap laugh among hackers --- the design was so <baroque>
+and the implementation of 1.x so bad that three years after introduction you
+could still count the major <app>s shipping for it on the fingers of two
+hands. Often called "Half-an-OS". On 28 January 1991, Microsoft announced
+that it was dropping its OS/2 development to concentrate on Windows, leaving
+the OS entirely in the hands of ex-partner IBM and effectively killing it.
+see <vaporware>, <monstrosity>, <cretinous>, <second-system effect>.
+<overflow bit> n. On some processors, an attempt to calculate a result too
+large for a register to hold causes a <trap> with a particular <flag> called
+an <overflow bit> set. Hackers use the term of human thought too. "Well, the
+ADA description was <baroque>, but I could hack it OK until I they got to the
+exception handling...that set my overflow bit." <overrun screw> [C
+programming] n. A variety of <fandango on core> produced by scribbling past
+the end of an array (C has no checks for this). This is relatively benign and
+easy to spot if the array is static; if it is auto, the result may be to
+<smash the stack>. The term <overrun screw> is used esp. of scribbles beyond
+the end of arrays allocated with `malloc(3)'; this typically trashes the
+allocation header for the next block in the <arena>, producing massive
+lossage within malloc and (frequently) a core dump on the next operation to
+use `stdio(3)' or `malloc(3)' itself. see <spam>; see also <memory leak>,
+<aliasing bug>, <precedence lossage>, <fandango on core>. {= P =} <padded
+cell> n. Where you put lusers so they can't hurt anything. A program that
+limits a <luser> to a carefully restricted subset of the capabilities of the
+host system (for example, the `rsh(1)' utility on UNIX). Note that this is
+different from an <iron box> because it's overt and not aimed at enforcing
+security so much as protecting others (and the luser him/herself!) from the
+consequences of the luser's boundless naivete (see <naive>). Also "padded
+cell environment". <page in> [MIT] vi. To become aware of one's surroundings
+again after having paged out (see <page out>). Usually confined to the
+sarcastic comment, "So-and-so pages in. Film at 11." see <film at 11>. <page
+out> [MIT] vi. To become unaware of one's surroundings temporarily, due to
+daydreaming or preoccupation. "Can you repeat that? I paged out for a
+minute." see <page in>. Compare <glitch>, <thinko>. <pain in the net> n. A
+<flamer>. <panic> [UNIX] vi. An action taken by a process or the entire
+operating system when an unrecoverable error is discovered. The action
+usually consists of: (1) displaying localized information on the controlling
+terminal, (2) saving, or preparing for saving, a memory image of the process
+or operating system, and (3) terminating the process or rebooting the system.
+<param> /p@-ram'/ n. Speech-only shorthand for "parameter". Compare <arg>,
+<var>. The plural `params' is often further compressed to `parms' /parmz/.
+<paper-net> n. Hackish way of referring to the postal service, analogizing it
+to a very slow, low-reliability network. USENET <sig block>s not uncommonly
+include the sender's postal address next to a "Paper-Net:" header; common
+variants of this are "Papernet" and "P-Net". Compare <voice-net>,
+<snail-mail>. <parent message> n. see <followup>. <parity errors> pl.n. Those
+little lapses of attention or (in more severe cases) consciousness, usually
+brought on by having spent all night and most of the next day hacking. "I
+need to go home and crash; I'm starting to get a lot of parity errors."
+Derives from a relatively common but nearly always correctable transient
+error in RAM hardware. <parse> [from linguistic terminology via AI research]
+vt. 1. To determine the syntactic structure of a sentence or other utterance
+(close to the standard English meaning). Example: "That was the one I saw
+you." "I can't parse that." 2. More generally, to understand or comprehend.
+"It's very simple; you just kretch the glims and then aos the zotz." "I can't
+parse that." 3. Of fish, to have to remove the bones yourself (usually at a
+Chinese restaurant). "I object to parsing fish" means "I don't want to get a
+whole fish, but a sliced one is okay." A "parsed fish" has been deboned.
+There is some controversy over whether "unparsed" should mean `bony', or also
+mean `deboned'. <Pascal> n. An Algol-descended language designed by Niklaus
+Wirth on the CDC 6600 around 1967-68 as an instructional tool for elementary
+programming. This language, designed primarily to keep students from shooting
+themselves in the foot and thus extremely restrictive from a
+general-purpose-programming point of view, was later promoted as a
+general-purpose tool and in fact became the ancestor of a large family of
+languges including Modula-2 and Ada (see also <bondage-and-discipline
+language>). The hackish point of view on Pascal was perhaps best summed up by
+a devastating (and, in its deadpan way, screamingly funny) 1981 paper by
+Brian Kernighan (of <K&R> fame) entitled `Why Pascal is Not My Favorite
+Computing Language'. Part of his summation is worth repeating here, because
+its criticisms are still apposite to Pascal itself after ten years of
+improvement, and could also stand as an indictment of many other <bondage and
+discipline> languages. At the end of a summary of the case against Pascal, he
+wrote: 9. There is no escape This last point is perhaps the most important.
+The language is inadequate but circumscribed, because there is no way to
+escape its limitations. There are no casts to disable the type-checking when
+necessary. There is no way to replace the defective run-time environment with
+a sensible one, unless one controls the compiler that defines the "standard
+procedures". The language is closed. People who use Pascal for serious
+programming fall into a fatal trap. Because the language is impotent, it must
+be extended. But each group extends Pascal in its own direction, to make it
+look like whatever language they really want. Extensions for separtarate
+compilation, Fortran-like COMMON, string data types, internal static
+variables, initialization, octal numbers, bit operators, etc., all add to the
+utility of the language for one group but destroy its portability to others.
+I feel that it is a mistake to use Pascal for anything much beyond its
+original target. In its pure form, Pascal is a toy language, suitable for
+teaching but not for real programming. Pascal has since been almost entirely
+displaced (by C) from the niches it had acquired in serious application and
+systems programming, but retains some popularity as a hobbyist language in
+the MS-DOS world. <patch> 1. n. A temporary addition to a piece of code,
+usually as a <quick and dirty> remedy to an existing bug or misfeature. A
+patch may or may not work, and may or may not eventually be incorporated
+permanently into the program. 2. vt. To insert a patch into a piece of code.
+3. [in the UNIX world] n. a set of differences between two versions of source
+code, generated with `diff(1)' and intended to be mechanically applied using
+patch(1); often used as a way of distributing source code upgrades and fixes
+over <USENET>. <path> n. 1. A <bang path>; a node-by node specification of a
+link between two machines. 2. [UNIX] A filename, fully specified relative to
+the root directory (as opposed to relative to the current directory.
+<pathological> [scientific computation] adj. Used of a data set which is
+grossly atypical of the expected load, esp. one which exposes a weakness or
+bug in whatever algorithm one is using. An algorithm which can be broken by
+pathological inputs may still be useful if such inputs are very unlikely to
+occur in practice. 2. When used of a test load, implies that it was
+purposefully engineered as a worst case. The implication in both senses is
+that someone had to explicitly set out to break an algorithm in order to come
+up with such a crazy example. <payware> n. commercial software. Oppose
+<shareware> or <freeware>. <PBD> [abbrev of "Programmer Brain Damage"] n.
+Applied to bug reports revealing places where the program was obviously
+broken due to an incompetent or short-sighted programmer. Compare <UBD>; see
+also <brain-damaged>. <PC-ism> n. A piece of code or coding technique that
+takes advantage of the unprotected single-tasking environment in IBM PCs and
+the like. e.g. by busy-waiting on a hardware register, direct diddling of
+screen memory, or using hard timing loops. Compare <ill-behaved>, <vaxism>,
+<unixism>. Also, <pc-ware> n., a program full of PC-ISMs on a machine with a
+more capable operating system. Pejorative. <PD> /pee-dee/ adj. Common
+abbreviation for "public domain", applied to software distributed over
+<USENET> and from Internet archive sites. Much of this software is not in
+fact "public domain" in the legal sense but travels under various copyrights
+granting reproduction and use rights to anyone who can <snarf> a copy. see
+<copyleft>. <pdl> /pid'l/ or /puhd'l/ [acronym for Push Down List] In ITS
+days, the preferred MITism for <stack>. 2. Dave Lebling, one of the coauthors
+of <Zork>; (his <network address> on the ITS machines was at one time
+pdl@dms). 3. Program Design Language. Any of a large class of formal and
+profoundly useless pseudo-languages in which <management> forces one to
+design programs. <Management> often expects it to be maintained in parallel
+with the code. Used jokingly as in, "Have you finished the PDL?" see also
+<flowchart>. <PDP-10> [Programmable Data Processor model 10] n. The machine
+that made timesharing real. Looms large in hacker folklore due to early
+adoption in the mid-70s by many university computing facilities and research
+labs including the MIT AI lab, Stanford and CMU. Some aspects of the
+instruction set (most notably the bit-field instructions) are still
+considered unsurpassed. Later editions were labelled `DECsystem-10' as a way
+of differentiating them from the PDP-11. The '10 was eventually eclipsed by
+the PDP-11 and VAX machines and dropped from DEC's line in the early '80s,
+and in 1990 to have cut one's teeth on one is considered something of a badge
+of honorable old-timerhood among hackers. see <TOPS-10>, <ITS>, <AOS>, <blt>,
+<DDT>, <DPB>, <EXCH>, <HAKMEM>, <JFCL>, <LDB>, <pop>, <push>, Appendix A.
+<peek> n.,vt. (and <poke>) The commands in most microcomputer BASICs for
+directly accessing memory contents at an absolute address; often extended to
+mean the corresponding constructs in any <HLL>. Much hacking on small,
+non-MMU micros consists of <peek>ing around memory, more or less at random,
+to find the location where the system keeps interesting stuff. Long and
+variably accurate, lists of such addresses for various computers circulate
+(see <interrupt list, the>). The results of <poke>s at these addresses may be
+highly useful, mildly amusing, useless but neat or (most likely) total
+<lossage> (see <killer poke>). <pencil and paper> n. An archaic
+information-storage and transmission device that works by depositing smears
+of graphite on bleached wood pulp. More recent developments in paper-based
+technology include improved `write-once' update devices which use tiny
+rolling heads similar to mouse balls to deposit colored pigment. These
+devices require an operator skilled at so-called `handwriting' technique.
+They technologies are ubiquitous outside hackerdom, but nearly forgotten
+inside it. Most hackers had terrible handwriting to begin with, and years of
+keyboarding tend if anything to have allowed it to degrade further. Perhaps
+for this reason hackers <deprecate> pencil and paper technology and often
+resist using it in any but the most trivial contexts. <peon> n. A person with
+no special (<root> or <wheel>) privileges on a computer system. "I can't
+create an account on foovax for you, I'm only a peon there." <percent-s>
+/per-sent' ess/ [From "%s", the formatting sequence in C's `printf(3)'
+library function used to indicate that an arbitrary string may be inserted]
+n. An unspecified person or object. "I was just talking to some percent-s in
+administration." Compare <random>. <perf> /perf/ n. see <chad> (sense #1).
+The term "perfory" /per'f@-ree/ is also heard. <perfect programmer syndrome>
+n. Arrogance; the egostistical conviction that one is above normal human
+error. Most frequently found among programmers of some native ability but
+relatively little experience (especially new graduates; their perceptions may
+be distorted by a history of excellent performance bashing toy problems). "Of
+course my program is correct, there is no need to test it." Or "Yes, I can
+see there may be a problem here, but *I'll* never type `rm -r /' while in
+<root>." <Perl> [Practical Extraction and Report Language, aka Pathologically
+Eclectic Rubbish Lister] n. An interpreted language developed by Larry Wall
+(lwall@jpl.nasa.gov, author of `patch(1)') and distributed over USENET.
+Superficially resembles `awk(1)', but is much more arcane (see AWK).
+Increasingly considered a <language of choice> by UNIX sysadmins, who are
+almost always incorrigible hackers. Perl has been described, in a parody of a
+famous remark about `lex(1)', as the `Swiss-army chainsaw' of UNIX
+programming. <pessimal> /pes'i-ml/ [Latin-based antonym for "optimal"] adj.
+Maximally bad. "This is a pessimal situation." Also <pessimize> vt. to make
+as bad as possible. These words are the obvious Latin-based antonyms for
+"optimal" and "optimize", but for some reason they do not appear in most
+English dictionaries, although `pessimize' is listed in the Oxford English
+Dictionary. <pessimizing compiler> /pes'i-miez-ing kuhm-pie'lr/ [antonym of
+`optimizing compiler'] n. A compiler that produces object code that is worse
+than the straightforward or obvious translation. The implication is that the
+compiler is actually trying to optimize the program, but through stupidity is
+doing the opposite. A few pessimizing compilers have been written on purpose,
+however, as pranks. <peta-> /pe't@/ pref. Multiplier, 10 ^ 12 or [proposed] 2
+^ 40. see <kilo->. <PETSCII> /pet'skee/ [abbreviation of PET ASCII] n. the
+variation (many would say perversion) of the <ASCII> character set used by
+the Commodore Business Machines PET series of personal computers and the
+later Commodore C64, C16, and C128 machines. The PETSCII set used left-arrow
+and up-arrow instead of underscore and caret, places the unshifted alphabet
+at positions 65-90 and the shifted alphabet at positions 193-218, as well as
+adding graphics characters. <phase> 1. n. The phase of one's waking-sleeping
+schedule with respect to the standard 24-hour cycle. This is a useful concept
+among people who often work at night according to no fixed schedule. It is
+not uncommon to change one's phase by as much as six hours/day on a regular
+basis. "What's your phase?" "I've been getting in about 8 PM lately, but I'm
+going to <wrap around> to the day schedule by Friday." A person who is
+roughly 12 hours out of phase is sometimes said to be in "night mode". (The
+term "day mode" is also (but less frequently) used, meaning you're working 9
+to 5 (or more likely 10 to 6)). The act of altering one's cycle is called
+"changing phase"; "phase shifting" has also been recently reported from
+Caltech. 2. "change phase the hard way": to stay awake for a very long time
+in order to get into a different phase. 3. "change phase the easy way": To
+stay asleep etc. However, some claim that either staying awake longer or
+sleeping longer is easy, and that it's *shortening* your day or night that's
+hard (see <wrap around>). The phenomenon of `jet lag' that afflicts travelers
+who cross many time-zone boundaries may be attributed to two distinct causes:
+the strain of travel per se, and the strain of changing phase. Hackers who
+suddenly find that they must change phase drastically in a short period of
+time, particularly the hard way, experience something very like jet lag
+without travelling. <phase of the moon> n. Used humorously as a random
+parameter on which something is said to depend. Sometimes implies
+unreliability of whatever is dependent, or that reliability seems to be
+dependent on conditions nobody has been able to determine. "This feature
+depends on having the channel open in mumble mode, having the foo switch set,
+and on the phase of the moon." True story: Once upon a time, a program
+written by Gerry Sussman (professor of Electrical Engineering at MIT) and Guy
+Steele had a bug that really did depend on the phase of the moon! There is a
+little subroutine that had traditionally been used in various programs at MIT
+to calculate an approximation to the moon's true phase; the phase is then
+printed out at the top of program listings, for example, along with the date
+and time, purely for fun. (Actually, since hackers spend a lot of time
+indoors, this might be the only way they would ever know what the moon's
+phase was!) Steele incorporated this routine into a LISP program that, when
+it wrote out a file, would print a `timestamp' line almost 80 characters
+long. Very occasionally the first line of the message would be too long and
+would overflow onto the next line, and when the file was later read back in
+the program would <barf>. The length of the first line depended on the
+precise time when the timestamp was printed, and so the bug literally
+depended on the phase of the moon! The first paper edition of the Jargon File
+(Steele-1983) included an example of this bug, but the typesetter `corrected'
+it. This has since been described as the phase-of-the-moon-bug bug.
+<phreaking> [from "phone phreak"] n. 1. The art and science of cracking the
+phone network (so as, for example, to make free long-distance calls). 2. By
+extension, security-cracking in any other context (especially, but not
+exclusively, on communications networks). At one time phreaking was a
+semi-respectable activity among hackers; there was a gentleman's agreement
+that phreaking as an intellectual game and a form of exploration was O.K.,
+but serious theft of services was taboo. There was significant crossover
+between the hacker community and the hard-core phone phreaks who ran
+semi-underground networks of their own like the legendary `TAP Newsletter'.
+This ethos began to break down in the mid nineteen-eighties as wider
+dissemination of the techniques put them in the hands of less responsible
+phreaks. Around the same time, hanges in the phone network made old-style
+technical ingenuity less effective as a way of hacking it, so phreaking came
+to depend more on overtly criminal acts like stealing phone-card numbers. The
+crimes and punishments of gangs like the `414 group' turned that game very
+ugly. A few old-time hackers still phreak casually just to keep their hand
+in, but most these days have hardly even heard of `blue boxes' or any of the
+other paraphenalia of the great phreaks of yore. <pico-> [in measurement, a
+quantifier meaning * 10 ^ -9] pref. Smaller than <nano->; used in the same
+rather loose and connotative way as <nano-> and <micro->. This usage is not
+yet common in the way <nano-> and <micro-> are, but is instantly recognizable
+to any hacker. The remaining standard quantifiers are "femto" (10 ^ -15) and
+"atto" (10 ^ -18); these, interestingly, derive not from Greek but from
+Danish. They have not yet acquired slang loadings, though it is easy to
+predict what those will be once computing technology enters the required
+realms of magnitude. see also <micro->. <pig, run like a> adj. To run very
+slowly on given hardware, said of software. Distinct from <hog>. <ping>
+/ping/ [from TCP/IP terminology, prob. originally contrived to match the
+submariners' term for a sonar pulse.] n.,vt. 1. Slang term for a small
+network message (ICMP ECHO) sent by a computer to check for the presence and
+aliveness of another. Occasionally used as a phone greeting. see <ACK>, also
+<ENQ>. 2. To verify the presence of. 3. To get the attention of. From the
+Unix command by the same name (an acronym of "Packet INternet Groper") that
+sends an ICMP ECHO packet to another host. 4. To send a message to all
+members of a <mailing list> requesting an <ACK> (in order to verify that
+everybody's addressses are reachable). "We haven't heard much anything from
+Geoff, but he did respond with an ACK both times I pinged jargon-friends."
+The funniest use of `ping' to date was described in January 1991 by Steve
+Hayman on the USENET group comp.sys.next. He was trying to isolate a faulty
+cable segment on a TCP/IP Ethernet hooked up to a NeXT machine, and got tired
+of having to run back to his console after each cabling frob to see if the
+ping packets were getting through. So he used the sound-recording feature on
+the NeXT, then wrote a script that repeatedly invoked ping, listened to the
+output and played back the recording on each returned packet. Result? A
+program that caused the machine to repeat, over and over,
+"Ping...ping...ping..." as long as the network was up. He turned the volume
+to maximum, scurried through the building with one ear cocked, and found a
+faulty tee connector in no time. <Pink-Shirt Book> `The Peter Norton
+Programmer's Guide to the IBM PC'. The original cover featured a picture of
+Peter Norton with a silly smirk on his face, wearing a pink shirt. Perhaps in
+recognition of this usage, the current edition has a different picture of
+Norton wearing a pink shirt. <PIP> /pip/ [Peripheral Interchange Program]
+vt.,obs. To copy, from the program PIP on CP/M and RSX-11 that was used for
+file copying (and in RSX for just about every other file operation you might
+want to do). Obsolete, but still occasionally heard. It is said that when the
+program was originated during the development of the PDP-6 in 1963 it called
+ATLATL (`Anything, Lord, to Anything, Lord'). <pipeline> [UNIX, orig. by Doug
+McIlroy; now also used under MS-DOS and elsewhere] n. A chain of <filter>
+programs connected `head-to-tail', so that the output of one becomes the
+input of the next. Under UNIX, user utilities can often be implemented or at
+least prototyped by a suitable collection of pipelines and temp-file grinding
+encapsulated in a shell script; this is much less effort than writing C every
+time, and the capability is considered one of UNIX's major winning features.
+<pistol> [IBM] n. A tool that makes it all too easy for you to shoot yourself
+in the foot. "UNIX `rm *' makes such a nice pistol!" <pizza, ANSI standard>
+/an'see stan'd@rd peet'z@/ [CMU] Pepperoni and mushroom pizza. Coined
+allegedly because most pizzas ordered by CMU hackers during some period
+leading up to mid-1990 were of that flavor. see also <rotary debugger>.
+<pizza box> [SUN] n. The largish thin box housing the electronics in
+(especially SUN) desktop workstations, so named because of its size and
+shape, and the dimpled pattern that looks like air holes. <plain-ASCII> Syn.
+<flat-ASCII>. <playpen> [IBM] n. A room where programmers work. Compare <salt
+mines>. <playte> /playt/ 16 bits, by analogy with <nybble> and <byte>. Usage:
+rare and extremely silly. see also <dynner>. <plingnet> /pling'net/ n. Syn.
+<UUCPNET>. Also see COMMONWEALTH HACKISH. <plonk> [USENET] The sound a
+<newbie> makes as he falls to the bottom of a <kill file>. Almost exclusively
+used in the <newsgroup> "talk.bizarre", this term (usually written "*plonk*")
+is a form of public ridicule. <plugh> /ploogh/ [from the <ADVENT> game] v.
+see <xyzzy>. <plumbing> [UNIX] n. Term used for <shell> code, so called
+because of the prevalence of "pipeline"s that feed the output of one program
+to the input of another. Esp. used in the construction "hairy plumbing" (see
+<hairy>. "You can kluge together a basic spell-checker out of `sort(1)',
+`comm(1)' and `tr' with a little plumbing." <PM> /pee em/ 1. [from
+"preventive maintenance"] v. To bring down a machine for inspection or test
+purposes; see <scratch monkey>. 2. n. Abbrev. for `Presentation Manager', an
+<elephantine> OS/2 graphical user interface. <P.O.D.> /pee-oh-dee/ Acronym
+for "Piece Of Data" (as opposed to a code section). Usage: pedantic and rare.
+<pod> n. A Diablo 630 (or, latterly, any impact letter quality printer). From
+the DEC-10 PODTYPE program used to feed formatted text to same. <poll> v.,n.
+1. The action of checking the status of an input line, sensor, or memory
+location to see if a particular external event has been registered. 2. To
+ask. "I'll poll everyone and see where they want to go for lunch." <polygon
+pusher> n. A chip designer who spends most of his/her time at the physical
+layout level (which requires drawing *lots* of multi-colored polygons). Also
+"rectangle slinger". <poke> n.,vt. see <peek>. <POM> /pee-oh-em/ n. <Phase of
+the moon>. Usage: usually used in the phrase "POM dependent" which means
+<flaky>. <pop> /pop/ [based on the stack operation that removes the top of a
+stack, and the fact that procedure return addresses are saved on the stack]
+(also POP, POPJ /pop-jay/) 1. vt. To remove something from a <stack> or
+<pdl>. If a person says he has popped something from his stack, he means he
+has finally finished working on it and can now remove it from the list of
+things hanging over his head. 2. To return from a digression (the J-form
+derives specifically from a <PDP-10> assembler instruction). By verb
+doubling, "Popj, popj" means roughly, "Now let's see, where were we?" see
+<RTI>. <port> 1. v.,n. Describes the act of moving, translating,
+reconfiguring and adapting software from one machine architecture and/or
+operating system (the "source environment") to run on a different one (the
+"target environment"). Until recently and except among a relatively small
+group of modern operating systems this process has ranged from extremely
+painful up to flat-out impossible. The ubiquity of the C language and the
+spread of the UNIX operating system have, fortunately, done much to change
+this. 2. [from mainstream `port' for a door or gate] n. Anything one might
+plug a peripheral or communications line into; as in a `serial port' or
+`parallel port'. <posing> n. On a <MUD>, the use of `:' or an equivalent
+command to announce to other players that one is taking a certain physical
+action, which however has no effect on the game. <post> v. To send a message
+to a <mailing list> or <newsgroup>. Distinguished in context from "mail"; one
+might ask, for example, "Are you going to post the patch or mail it to known
+users?" <posting> n. Noun corresp. to v. <post> (but note that the shorter
+word can be nouned). Distinguished from a `letter' or ordinary <email>
+message by the fact that it's broadcast rather than point-to-point. It is
+unclear whether messages sent to a small mailing list are postings or
+<email>; perhaps the best dividing line is that if you don't know the names
+of all the potential recipients, it's a posting. <power cycle> vt. (also, to
+"cycle power") To power off a machine and then power it on immediately, with
+the intention of clearing some kind of <hung> or <gronked> state. Syn <120
+reset>; see also <Big Red Switch>. Compare <vulcan nerve pinch>, <bounce>,
+<boot>. <PPN> /pip'n/ [from "Project-Programmer Number"] n. A user-ID under
+<TOPS-10> and its various mutant progeny at SAIL, BBN, CompuServe and
+elsewhere. Old-time hackers from the PDP-10 era sometimes use this to refer
+to user IDs on other systems as well. <precedence lossage> /pre's@-dens
+los'j/ [C programmers] n. Coding error in an expression due to unexpected
+grouping of arithmetic or logical operators by the compiler. Used esp. of
+certain common coding errors in C due to the nonintuitively low precedence
+levels of `&', `|' and `^'. Can always be avoided by suitable use of
+parentheses. see <aliasing bug>, <memory leak>, <smash the stack>, <fandango
+on core>, <overrun screw>. <prepend> /pree`pend'/ [by analogy with "append"]
+vt. To prefix. Like "append", but unlike "prefix" or "suffix" as a verb, the
+direct object is always the thing being added and not the original word
+(character string, etc). No, this is *not* standard English, yet! <pretty
+pictures> n. [scientific computation] The next step up from <numbers>.
+Interesting graphical output from a program which may not have any real
+relationship to the reality the program is intended to model. Good for
+showing to <management>. <prettyprint> v. 1. To generate `pretty'
+human-readable output from a hairy internal representation; esp. used for the
+process of <grind>ing (sense #2) LISP code. 2. To format in some particularly
+slick and nontrivial way. see <grind>. <prime time> [from TV programming] n.
+Normal high-usage hours on a timesharing system; the day shift. Avoidance of
+prime time is a major reason for <night mode> hacking. <priority interrupt>
+[from the hardware term] n. Describes any stimulus compelling enough to yank
+one right out of <hack mode>. Classically used to describe being dragged away
+by an <SO> for immediate sex, but may also refer to more mundane
+interruptions such as a fire alarm going off in the near vicinity. Also
+called an NMI (non maskable interrupt) especially in PC-land. <profile>
+[UNIX] n. 1. A control file for a program, esp. a text file automatically
+read from each user's home directory and intended to be easily modified by
+the user. Used to avoid <hardcoded> choices. 2. A report on the amounts of
+time spent in each routine of a program, used to find and <tune> the <hot
+spots> in it. <Programmer's Cheer> "Shift to the left! Shift to the right!
+Pop up, push down! Byte! Byte! Byte!" A joke so old it has hair on it...
+<program> 1. n. A magic spell cast over a computer allowing it to turn one's
+input into error messages. 2. n. An exercise in experimental epistemology. 3.
+vt. To engage in a pastime similar to banging one's head against a wall, but
+with fewer opportunies for reward. <programming> n. The art of debugging a
+blank sheet of paper. <propeller head> n. Used by hackers, this is syn. with
+<computer geek>. Non-hackers sometimes use it to describe all techies. Prob.
+derives from SF fandom's tradition of propeller beanies as fannish insignia
+(though nobody actually wears them except as a joke). <proprietary> adj. 1.
+In <marketroid>-speak, superior; implies a product imbued with exclusive
+magic by the unmatched brilliance of their employer's hardware or software
+designers. 2. In the language of hackers and users, inferior; implies a
+product not conforming to open-systems standards, and thus one which puts the
+customer at the mercy of a vendor able to gouge freely on service and upgrade
+charges after the initial sale has locked the customer in. <protocol> n. As
+used by hackers, this never refers to niceties about the proper form for
+addressing letters to the Papal Nuncio or the order in which one should use
+the forks in a Russian-style place setting; hackers don't care about such
+things. It is used instead to describe any set of rules which allow different
+machines or pieces of software to coordinate with each other without
+ambiguity. It implies that there's some common message format and accepted
+set of primitives or commands that all parties involved understand, and that
+transactions among them follow predictable logical sequences. see also
+<handshaking>, <do protocol>. <prowler> [UNIX] n. A <demon> that is run
+periodically (typically once a week) to seek out and erase core files (see
+<core>), truncate administrative logfiles, nuke lost+found directories, and
+otherwise clean up the cruft that tends to pile up in the corners of a file
+system. see also <GFR>, <reaper>, <skulker>. <pseudo> /soo'doh/ [USENET] n.
+1. An electronic-mail or <USENET> persona adopted by a human for amusement
+value or as a means of avoiding negative repercussions of his/her
+net.behavior; a `nom de USENET', often associated with forged postings
+designed to conceal message origins. Perhaps the best-known and funniest hoax
+of this type is <biff>. 2. Notionally, a <flamage>-generating AI program
+simulating a USENET user. Many flamers have been accused of actually being
+such entities, despite the fact that no AI program of the required
+sophistication exists. However, in 1989 there was a famous series of forged
+postings that used a phrase-frequency-based travesty generator to simulate
+the styles of several well-known flamers based on large samples of their back
+postings. A significant number of people were fooled by these, and the debate
+over their authenticity was only settled when the perpetrator of the hoax
+came publicly forward to admit the deed. <pseudoprime> n. A backgammon prime
+(six consecutive occupied points) with one point missing. This term is an
+esoteric pun derived from a mathematical method which, rather than
+determining precisely whether a number is prime (has no divisors), uses a
+statistical technique to decide whether the number is "probably" prime. A
+number that passes this test is called a pseudoprime. The hacker backgammon
+usage stems from the idea that pseudoprime is almost as good as a prime: it
+does the job of a prime until proven otherwise, and that probably won't
+happen. <pseudosuit> n. A <suit> wannabee; a hacker who's decided that he
+wants to be in management or administration and begins wearing ties, sport
+coats, and (shudder!) suits voluntarily. His funeral... <psychedelicware>
+/sie`k@-del'-ik-weir/ [Great Britain] n. Syn. <display hack>. <puff> vt. To
+decompress data that has been crunched by Huffman coding. At least one widely
+distributed Huffman decoder program was actually "named" `PUFF', but these
+days it isn't usually separate from the encoder. Oppose <huff>. <punched
+card> 1. n.obs. The signature medium of computing's <Stone Age>, now
+obsolescent outside of IBM shops. The punched card actually predated
+computers considerably, originating as a control device for mechanical looms.
+The version patented by Hollerith and used with mechanical tabulating
+machines in the 1890 U.S. Census was a piece of cardboard about 90mm by
+215mm, designed to fit exactly in the currency trays used for that era's
+larger dollar bills. IBM (which originated as a tabulating-machine
+manufacturer) married the punched card to computers, encoding binary
+information as patterns of small rectangular holes; one character per column,
+80 columns per card. Later, other coding schemes, sizes of card and hole
+shape were tried. The 80-column width of most character terminals is a legacy
+of the punched card; so is the size of the quick reference cards distributed
+with many varieties of computers even today. see <chad>, <chad box>,
+<eighty-column mind>, <green card>, <dusty deck>, <lace card>. <punt> [from
+the punch line of an old joke referring to American football: "Drop back 15
+yards and punt"] vt. 1. To give up, typically without any intention of
+retrying. "Let's punt the movie tonight." "I was going to hack all night to
+get this feature in, but I decided to punt" may mean that you've decided not
+to stay up all night, and may also mean you're not ever even going to put in
+the feature. 2. More specifically, to give up on figuring out what the <Right
+Thing> is and resort to an inefficient hack. <Purple Book> n. The `System V
+Interface Definition'. The covers of the first editions were an amazingly
+nauseating shade of off-lavender. see also <Red Book>, <Blue Book>, <Green
+Book>, <Silver Book>, <Orange Book>, <White Book>, <Pink-Shirt Book>, <Dragon
+Book>, <Aluminum Book>. <push> [based on the stack operation that puts the
+current information on a stack, and the fact that procedure return addresses
+are saved on the stack] Also PUSH or PUSHJ /push-jay/, based on the PDP-10
+procedure call instruction. 1. To put something onto a <stack> or <pdl>. If a
+person says something has been pushed onto his stack, he means yet another
+thing has been added to the list of things hanging over his head for him to
+do. 2. vi. To enter upon a digression, to save the current discussion for
+later. Antonym of <pop>; see also <stack>, <pdl>. {= Q =} <quad> n. 1. Two
+bits; syn. for <quarter>, <crumb>, <tayste>. 2. The rectangle or box glyph
+used in the APL language for various arcane purposes mostly related to I/O.
+Ex-Ivy-Leaguers and Oxbridge types are said to associate it with nostalgic
+memories of dear old University. <quadruple bucky> n., obs. On a <space-cadet
+keyboard>, use of all four of the shifting keys control, meta, hyper, and
+super while typing a character key. This was very difficult to do! One
+accepted technique was to press the left-control and left-meta keys with your
+left hand, the right-control and right-meta keys with your right hand, and
+the fifth key with your nose. Thus, this combination was very seldom used in
+practice, because when you invent a new command you usually assign it to some
+character that is easier to type. If you want to imply that a program has
+ridiculously many commands or features, you can say something like "Oh, the
+command that makes it spin all the tapes while whistling Beethoven's Fifth
+Symphony is quadruple-bucky-cokebottle". see <double bucky>, <bucky bits>,
+<cokebottle>. <quantum bogodynamics> /kwon'tm boh`goh-die-nam'iks/ n. Theory
+which characterizes the universe in terms of bogon sources (such as
+politicians, used-car salesmen, TV evangelists, and <suit>s in general),
+bogon sinks (such as taxpayers and computers), and bogosity potential fields.
+Bogon absorption, of course, causes human beings to behave mindlessly and
+machines to fail (and may cause them to emit secondary bogons as well);
+however, the precise mechanics of the bogon-computron interaction are not yet
+understood and remain to be elucidated. Quantum bogodynamics is most
+frequently invoked to explain the sharp increase in hardware and software
+failures in the presence of suits; the latter emit bogons which the former
+absorb. see <bogon>, <computron>, <suit>. <quarter> n. Two bits; syn.
+<tayste>, <crumb>. The term comes from the `pieces of eight' famed in pirate
+movies, Spanish gold pieces that could be broken into eight pie-slice-shaped
+`bits' to make change. Early in the U.S.'s history each of these `bits' was
+considered worth about 12.5 cents. Usage: rare. see also <nickle>, <nybble>,
+<byte>. <ques> /kwess/ 1. n. The question mark character (`?', ASCII
+0111111). 2. interj. What? Also frequently verb-doubled as "Ques ques?" see
+<wall>. <quick and dirty> adj. A <crock> put together under time or user
+pressure. Used esp. when you want to convey that you think the fast way might
+lead to trouble further down the road. "I can have a quick and dirty fix in
+place tonight, but I'll have to rewrite the whole module to solve the
+underlying design problem ". see also <kluge>. <qux> /kwuhks/ The fourth of
+the standard metasyntactic variables, after <baz> and before the quuu*x
+series. see <foo>, <bar>, <baz>, <quux>. Note that this appears to a be
+recent mutation from <quux>, and that many versions of the standard series
+just run <foo>, <bar>, <baz>, <quux>, ... <quux> /kwuhks/ [invented by
+Steele] Mythically, from the Latin semi-deponent verb quuxo, quuxare,
+quuxandum iri; noun form variously `quux' (plural `quuces', anglicized to
+`quuxes') and `quuxu' (genitive plural is `quuxuum', for four u-letters out
+of seven total).] 1. Originally, a meta-word like <foo> and <foobar>.
+Invented by Guy Steele for precisely this purpose when he was young and naive
+and not yet interacting with the real computing community. Many people invent
+such words; this one seems simply to have been lucky enough to have spread a
+little. In an eloquent display of poetic justice, it has returned to the
+originator in the form of a nickname, as punishment for inventing this
+bletcherous word in the first place. 2. interj. see <foo>; however, denotes
+very little disgust, and is uttered mostly for the sake of the sound of it.
+3. Guy Steele in his persona as `The Great Quux', which is somewhat infamous
+for light verse and for the `Crunchly' cartoons. 4. quuxy: adj. Of or
+pertaining to a quux. <QWERTY> /kwer'tee/ [from the keycaps at the upper
+left] adj. Pertaining to a standard English-language typewriter keyboard, as
+opposed to Dvorak or foreign-language layouts or a <space-cadet keyboard> or
+APL keyboard. {= R =} <rain dance> n. 1. Any ceremonial action taken to
+correct a hardware problem, with the expectation that nothing will be
+accomplished. This especially applies to reseating printed circuit boards,
+reconnecting cables, etc. "I can't boot up the machine. We'll have to wait
+for Greg to do his rain dance." 2. Any arcane sequence of actions performed
+with computers or software in order to achieve some goal; the term is usually
+restricted to rituals which include both an <incantation> or two and physical
+activity or motion. Compare <magic>, <voodoo programming>, <black art>.
+<random> adj. 1. Unpredictable (closest to mathematical definition); weird.
+"The system's been behaving pretty randomly." 2. Assorted; undistinguished.
+"Who was at the conference?" "Just a bunch of random business types." 3.
+Frivolous; unproductive; undirected (pejorative). "He's just a random loser."
+4. Incoherent or inelegant; not well organized. "The program has a random set
+of misfeatures." "That's a random name for that function." "Well, all the
+names were chosen pretty randomly." 5. Gratuitously wrong, i.e., poorly done
+and for no good apparent reason. For example, a program that handles file
+name defaulting in a particularly useless way, or an assembler routine that
+could easily have been coded using only three registers, but randomly uses
+seven for assorted non-overlapping purposes, so that no one else can invoke
+it without first saving four extra registers. 6. In no particular order,
+though deterministic. "The I/O channels are in a pool, and when a file is
+opened one is chosen randomly." n. 7. A random hacker; used particularly of
+high school students who soak up computer time and generally get in the way.
+8. (occasional MIT usage) One who lives at Random Hall. see also <J. Random>,
+<some random X>. <random numbers> n. When one wishes to specify a large but
+random number of things, and the context is inappropriate for <N>, certain
+numbers are preferred by hacker tradition (that is, easily recognized as
+placeholders). These include 17 Long described at MIT as `the least random
+number', see 23. 23 Sacred number of Eris, Goddess of Discord (along with 17
+& 5). 42 The Answer to the Question of Life, the Universe and Everything. 69
+From the sexual act. This one was favored in MIT's ITS culture. 105 69 hex =
+105 dec, and 69 dec = 105 oct 666 The Number of the Beast. For further
+enlightenment, consult the `Principia Discordia', `The Hitchhiker's Guide To
+The Galaxy', any porn movie, and the Christian Bible's `Book Of Revelations'.
+see also <Discordianism> or consult your pineal gland. <randomness> n. An
+unexplainable misfeature; gratuitous inelegance. Also, a <hack> or <crock>
+which depends on a complex combination of coincidences (or rather, the
+combination upon which the crock depends for its accidental failure to
+malfunction). "This hack can output characters 40-57 by putting the character
+in the accumulator field of an XCT and then extracting 6 bits --- the low two
+bits of the XCT opcode are the right thing." "What randomness!" <rape> vt. To
+(metaphorically) screw someone or something, violently; in particular, to
+destroy a program or information irrecoverably Usage: often used in
+describing file-system damage. "So-and-so was running a program that did
+absolute disk I/O and ended up raping the master directory." <rare> [UNIX]
+adj. CBREAK mode (character-by-character with interrupts enabled).
+Distinguished from "raw" and "cooked"; the phrase "half-cooked (rare?)" is
+used in the V7/BSD manuals to describe the mode. Usage: rare. <raster
+blaster> n. [Cambridge] Specialized hardware for <bitblt> operations.
+Allegedly inspired by analogy with "Rasta Blasta", British slang for the sort
+of portable stereo/radio/tapedeck Americans call a `boom box' or `ghetto
+blaster'. <raster burn> n. Eyestrain brought on by too many hours of looking
+at low-res, poorly tuned or glare-ridden monitors, esp. graphics monitors.
+see <terminal illness>. <rat belt> n. A cable tie, esp. the sawtoothed,
+self-locking plastic kind that you can only remove by cutting (as opposed to
+a random twist of wire or a baggie tie or one of those humongous metal clip
+frobs). Small cable ties are "mouse belts". <rave> [WPI] vi. 1. To persist in
+discussing a specific subject. 2. To speak authoritatively on a subject about
+which one knows very little. 3. To complain to a person who is not in a
+position to correct the difficulty. 4. To purposely annoy another person
+verbally. 5. To evangelize. see <flame>. Also used to describe a less
+negative form of blather, such as friendly bullshitting. <Rave> differs
+slightly from <flame> in that <rave> implies that it is the manner or
+persistence of speaking that is annoying, while <flame> implies somewhat more
+strongly that the subject matter is annoying as well. <rave on!> imp.
+Sarcastic invitation to continue a <rave>, often by someone who wishes the
+raver would get a clue but realizes this is unlikely. <ravs> /ravz/, also
+CHINESE RAVS n. Kuo-teh. A Chinese appetizer, known variously in the plural
+as dumplings, pot stickers (the literal translation of kuo-teh) and (around
+Boston) `Peking Ravioli'. The term "rav" is short for "ravioli", which among
+hackers always means the Chinese kind rather than the Italian kind. Both
+consist of a filling in a pasta shell, but the Chinese kind uses a thinner
+pasta and is cooked differently, either by steaming or frying. A rav or
+dumpling can be steamed or fried, but a potsticker is always the fried kind
+(so called because it sticks to the frying pot and has to be scraped off).
+"Let's get hot-and-sour soup and three orders of ravs." see also ORIENTAL
+FOOD. <read-only user> n. Describes a <luser> who uses computers almost
+exclusively for reading USENET, bulletin boards and email, as opposed to
+writing code or purveying useful information. see <twink>, <terminal junkie>.
+<README file> n. By convention, the top-level directory of a UNIX source
+distribution always contains a file named `README' (or READ.ME, or (rarely)
+ReadMe or some other variant) which is a hacker's-eye introduction containing
+a pointer to more detailed documentation, credits, miscellaneous revision
+history notes, etc. When asked, hackers invariably relate this to the famous
+scene in Lewis Carroll's `Alice In Wonderland' in which Alice confronts magic
+food with signs posted over it that say `Eat Me' and `Drink Me'. <real
+estate> n. May be used for any critical resource measured in units of area.
+Most frequently used of `chip real estate', the area available for logic on
+the surface of an integrated circuit (see also <nanoacre>). May also be used
+of floor space in a <dinosaur pen> or even space on a crowded desktop
+(whether physical or electronics). <real operating system> n. Whatever that a
+given user is accustomed to, and subject to wild variation. People from the
+academic community are likely to issue comments like "System V? Why don't you
+use a *real* operating system?", people from the commercial/industrial UNIX
+sector are known to complain, "BSD? Why don't you use a *real* operating
+system?", and people from IBM probably think, "UNIX? Why don't you use a
+*real* operating system?" see <holy wars>, <religious issues>, <proprietary>.
+<real programmer> [indirectly, from the book `Real Men Don't Eat Quiche'] n.
+A particular sub-variety of hacker, one possessed of a flippant attitude
+towards complexity that is arrogant even when justified by experience. The
+archetypal `real programmer' likes to program on the <bare metal>, and is
+very good at same; he remembers the binary opcodes for every machine he's
+every programmed; thinks that HLLs are sissy; and he uses a debugger to edit
+his code because full-screen editors are for wimps. Real Programmers aren't
+satisfied with code that hasn't been <bum>med into a state of <tense>ness
+just short of rupture. Real Programmers never use comments or write
+documentation; "If it was hard to write", says the Real Programmer, "it
+should be hard to understand." Real Programmers can make machines do things
+that were never in their spec sheets; in fact, they're seldom really happy
+unless doing so. A Real Programmer's code can awe you with its fiendish
+brilliance even as it appalls by its level of crockishness. Real Programmers
+live on junk food and coffee, hang line-printer art on their walls, and
+terrify the crap out of other programmers --- because someday, somebody else
+might have to try to understand their code in order to change it. Their
+successors generally consider it a <Good Thing> that there aren't many Real
+Programmers around any more. For a famous (and somewhat more positive)
+portrait of a Real Programmer, see `The Story of Mel' in Appendix A. <Real
+Soon Now> [orig. from SF's fanzine community, popularized by Jerry
+Pournelle's BYTE column] adj. 1. Supposed to be available (or fixed, or
+cheap, or whatever) real soon now according to somebody, but the speaker is
+quite skeptical. 2. When the gods/fates/other time commitments permit the
+speaker to get to it. Often abbreviated RSN. <real time> adv. Doing something
+while people are watching or waiting. "I asked her how to find the calling
+procedure's program counter on the stack and she came up with an algorithm in
+real time." <real user> n. 1. A commercial user. One who is paying `real'
+money for his computer usage. 2. A non-hacker. Someone using the system for
+an explicit purpose (research project, course, etc.). see <user>. Hackers who
+are also students may also be real users. "I need this fixed so I can do a
+problem set. I'm not complaining out of randomness, but as a real user." see
+also <luser>. <Real World> n. 1. In programming, those institutions at which
+programming may be used in the same sentence as FORTRAN, COBOL, RPG, <IBM>,
+etc. Places where programs do such commercially necessary but intellectually
+uninspiring things as compute payroll checks and invoices. 2. To programmers,
+the location of non-programmers and activities not related to programming. 3.
+A universe in which the standard dress is shirt and tie and in which a
+person's working hours are defined as 9 to 5. 4. The location of the status
+quo. 5. Anywhere outside a university. "Poor fellow, he's left MIT and gone
+into the real world." Used pejoratively by those not in residence there. In
+conversation, talking of someone who has entered the real world is not unlike
+talking about a deceased person. see also <fear and loathing>, <mundane>, and
+<uninteresting>. <reality check> n. 1. The simplest kind of test of software
+or hardware; doing the equivalent of asking it what `2 + 2' and seeing if you
+get 4. The equivalent of q <smoke test> for software. 2. The act of letting a
+<real user> try out prototype software. Compare <sanity check>. <reaper> n. A
+<prowler> which GFRs files (see <GFR>). A file removed in this way is said to
+have been `reaped'. <rectangle slinger> n. see <polygon pusher>. <recursion>
+n. see <recursion>. See also <tail recursion>.

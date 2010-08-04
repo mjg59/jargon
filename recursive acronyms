@@ -1,5 +1,236 @@
  RECURSIVE ACRONYMS pl.n. A hackish (and especially MIT) tradition is to
 choose acronyms which refer humorously to themselves or to other acronyms.
 The classic examples were two MIT editors called EINE ("EINE Is Not EMACS")
-and ZWEI ("ZWEI Was EINE Initially"). More recently, GNU (q.v., sense #1) is
-said to stand for "GNU's Not UNIX!"
+and ZWEI ("ZWEI Was EINE Initially"). More recently, <GNU> (q.v., sense #1)
+is said to stand for "GNU's Not UNIX!" <Red Book> n. 1. Informal name for one
+of the three standard references on PostScript (`PostScript Language
+Reference Manual', Adobe Systems, Addison-Wesley 1985 QA76.73.P67P67, ISBN
+0-201-10174-2); the others are known as the <Green Book> and <Blue Book>. 2.
+Informal name for one of the three standard references on Smalltalk:
+`Smalltalk-80: The Interactive Programming Environment', Adele Goldberg,
+Addison-Wesley 1984, QA76.8.S635G638, ISBN 0-201-11372-4 (this is also
+associated with blue and green books). 3. Any of the 1984 standards issued by
+the CCITT 8th plenary assembly. Until now, these have changed color each
+review cycle (1988 was <Blue Book>, 1992 will be <Green Book>); however, it
+is rumored that this convention is going to be dropped before 1992. These
+include, among other things, the X.400 email spec and the Group 1 through 4
+fax standards. 4. The new version of the <Green Book> (sense #4), "IEEE
+1003.1-1990", aka "ISO 9945-1", is (because of the color and the fact that it
+is printed on A4 paper), known in the USA as "The Ugly Red Book That Won't
+Fit On The Shelf", and in Europe as "The Ugly Red Book That's A Sensible
+Size". see also <Green Book>, <Blue Book>, <Purple Book>, <Silver Book>,
+<Orange Book>, <White Book>, <Pink-Shirt Book>, <Dragon Book>, <Aluminum
+Book>. <regexp> /reg'eksp/ [UNIX] n. (alt "regex" or "reg-ex") 1. Common
+written and spoken abbreviation for "regular expression", one of the wildcard
+patterns used, e.g., by UNIX utilities such as `grep(1)', `sed(1)' and
+`awk(1)'. These use conventions similar to but more elaborate than those
+described under <glob>. For purposes of this File, it is sufficient to note
+that regexps also allow complemented character sets using `^' and ranges in
+character sets using `-'; thus, one can specify any non-alphabetic character
+with `[^A-Za-z]'. 2. Name of a well-known PD regexp-handling package in
+portable C, written by revered USENETter Henry Spencer
+(henry@zoo.toronto.edu). <reincarnation, cycle of> n. Term used to refer to a
+well-known effect whereby function in a computing system family is migrated
+out to special purpose peripheral hardware for speed, then the peripheral
+evolves towards more computing power as it does its job, then somebody
+notices that it's inefficient to support two asymmetrical processors in the
+architecture and folds the function back into the main CPU, at which point
+the cycle begins again. Several iterations of this cycle have been observed
+in graphics processor design, and at least one or two in communications and
+floating-point processors. Also known as "the Wheel of Life", "the Wheel of
+Samsara", and other variations of the basic Hindu/Buddhist theological idea.
+<religious issues> n. Questions which seemingly cannot be raised without
+touching off <holy wars>, such as "What is the best operating system (or
+editor, language, architecture, shell, mail reader, news reader)?" and "What
+about that Heinlein guy, eh?". see also <theology>, <bigot>. This entry is an
+example of <ha ha only serious>. People actually develop the most amazing and
+religiously intense attachments to their tools, even when the tools are
+intangible. The most constructive thing one can do when one stumbles into the
+crossfire is mumble <Get a life!> and leave --- unless of course one's *own*
+unassailably rational and obviously correct choices are being slanged...
+<reinvent the wheel> v. To design or implement a tool equivalent to an
+existing one, with the implication that doing so is silly or a waste of time.
+This is frequently a valid criticism; but automobiles don't use wooden
+rollers, either, and some kinds of wheel have to be re-invented many times
+before you get it right. <replicator> n. Any construct that acts to produce
+copies of itself; this could be a living organism, an idea (see <meme>), a
+program (see <worm>, <wabbit> and <virus>), a pattern in a cellular automaton
+(see <life>, sense #1), or (speculatively) a robot or <nanobot>. <reply> n.
+see <followup>. <restriction> n. A <bug> or design error that limits a
+program's capabilities, and which is sufficiently egregious that nobody can
+quite work up enough nerve to describe it as a <feature>. Often used (esp. by
+<marketroid> types) to make it sound as though some crippling bogosity had
+been intended by the designers all along, or was forced upon them by arcane
+considerations no mere user could possibly comprehend (these claims are
+almost invariably false). <retcon> /ret'kon/ ["retroactive continuity", from
+USENET's rec.arts.comics] 1. n. the common situation in pulp fiction (esp.
+comics, soaps) where a new story `reveals' new things about events in
+previous stories, usually leaving the `facts' the same (thus preserving
+continuity) while completely changing their interpretation. E.g., revealing
+that a whole season's episodes of Dallas was a dream was a retcon. 2. vt. To
+write such a story about (a character or fictitious object). Thus, "Byrne has
+retconned Superman's cape so that it is no longer unbreakable". 3. vi. Used
+of something `transformed' in this way --- "Marvelman's old adventures were
+retconned into synthetic dreams", "Swamp Thing was retconned from a
+transformed person into a sentient vegetable." [This is included because it's
+a good example of hackish linguistic innovation in a field completely
+unrelated to computers. The word `retcon' will probably spread through comics
+fandom and lose its association with hackerdom within a couple of years; for
+the record, it started here. --- ESR] <retrocomputing>
+/ret'-roh-k@m-pyoo'ting/ n. Refers to emulations of way-behind-the
+state-of-the-art hardware or software, or implementations of
+never-was-state-of-the-art; esp. if such implementations are elaborate
+practical jokes and/or parodies of more `serious' designs. Perhaps the most
+widely distributed retrocomputing utility was the `pnch(6)' or `bcd(6)'
+program on V7 and other early UNIX versions, which would accept up to 80
+characters of text argument and display the corresponding pattern in
+Hollerith <card> code. Other well-known retrocomputing hacks have included
+the programming language <INTERCAL>, a <JCL>-emulating shell for UNIX, the
+card-punch-emulating editor named 029, and various elaborate PDP-11 hardware
+emulators and RT-11 OS emulators written just to keep an old, sourceless
+<Zork> binary running. <retrofit> v. To graft some pieces from newer
+technology onto a piece of software or hardware representing an older one.
+This often results in a crocky, inelegant compromise between new and old. The
+term implies use of the older stuff in ways the designers didn't anticipate.
+Some of the bizarre things done during the nineteen-seventies to old-style
+batch operating systems like <GECOS> and IBM's OS/360 in order to make them
+crudely interactive stand out as examples. More recently, personal computer
+hackers have frequently been known to graft new floppy and hard-disk devices
+onto obsolete hardware in order to preserve software written for a particular
+processor, screen and keyboard combination. <RFC> /ahr ef see/ n. Request For
+Comment. One of a long-established series of numbered Internet standards
+widely followed by commercial and PD software in the Internet and UNIX
+communities. Perhaps the single most influential one has been RFC-822 (the
+Internet mail-format standard). The RFCs are unusual in that they are floated
+by technical experts acting on their own initiative and reviewed by the
+Internet at large, rather than formally promulgated through an institution
+such as ANSI. For this reason they remain known as RFCs even once adopted.
+<RFE> n. 1. Request For Enhancement. 2. [Bellcore, Sun] Radio Free Ethernet,
+a system (originated by Peter Langston) for broadcasting audio among Sun
+SPARCstations over the ethernet. <rib site> n. A machine which has an
+on-demand high-speed link to a <backbone site> and serves as a regional
+distribution point for lots of third-party traffic in email and USENET news.
+Compare <leaf site>, <backbone site>. <rice box> [from ham radio slang] n.
+Any Asian-made commodity computer, esp. an 8086, 80286, 80386 or 80486-based
+machine built to IBM PC-compatible ISA or EISA-bus standards. <Right Thing,
+The> n. That which is *obviously* the correct or appropriate thing to use,
+do, say, etc. Often capitalized, always emphasized in speech as though
+capitalized. Use of this term often implies that in fact reasonable people
+may disagree. "Never let your conscience keep you from doing the right
+thing!" "What's the right thing for LISP to do when it reads (a mod 0)?
+Should it return a, or give a divide-by-zero error?" Antonym: <Wrong Thing>.
+<RL> [MUD community] n. Real Life. "Firiss laughs in RL" means Firiss's
+player is laughing. <roach> [Bell Labs] vt. To destroy, esp. of a data
+structure. Hardware gets <toast>ed, software gets roached. <robust> adj. Said
+of a system which has demonstrated an ability to recover gracefully from the
+whole range of exception conditions in a given environment. One step below
+<bulletproof>. Compare <smart>, oppose <brittle>. <rococo> adj. <Baroque> in
+the extreme. Used to imply that a program has become so encrusted with the
+software equivalent of gold leaf and curlicues that they have completely
+swamped the underlying design. Called after the later and more extreme forms
+of Baroque architecture and decoration prevalent during the mid-1700s in
+Europe. <rogue> [UNIX] n. Dungeons-And-Dragons-like game using character
+graphics written under BSD UNIX and subsequently ported to other UNIX
+systems. The original BSD `curses(3)' screen-handling package was hacked
+together by Ken Arnold to support `rogue(6)' and has since become one of
+UNIX's most important and heavily used application libraries. Nethack, Omega,
+Larn and an entire subgenre of computer dungeon games all took off from the
+inspiration provided by `rogue(6)'. see <hack>. <root> n. [UNIX] 1. The
+"superuser" account that ignores permission bits, user number zero on a UNIX
+system. This account has the user name `root'. 2. The top node of the system
+directory structure (home directory of the root user). 3. By extension, the
+privileged system-maintenance login on any OS. 4. Thus, <root mode>: Syn.
+with <wizard mode> or <wheel mode>. Like these, it is often generalized to
+describe privileged states in systems other than OSs. 5. <go root>: to
+temporarily enter <root mode> in order to perform a privileged operation.
+This use is deprecated in Australia, where v. `root' is slang for "to have
+sex with". <room-temperature IQ> [IBM] 80 or below. Used in describing the
+expected intelligence range of the <luser>. As in "Well, but how's this
+interface gonna play with the room-temperature IQ crowd?" see <drool-proof
+paper>. This is a much more insulting phrase in countries that use Celsius
+thermometers... <rot13> /rot ther'teen/ [USENET, from `rotate alphabet 13
+places'] n.,v. The simple Caesar-cypher encryption replaces each English
+letter with the one 13 places forward or back along the alphabet, so that
+"The butler did it!" becomes "Gur ohgyre qvq vg!" Most USENET news reading
+and posting programs include a rot13 feature. It is used as if to enclose the
+text in a sealed wrapper that the reader must choose to open, for posting
+things that might offend some readers, answers to puzzles, or discussion of
+movie plot surprises. <rotary debugger> [Commodore] n. Essential equipment
+for those late night or early morning debugging sessions. Mainly used as
+sustenance for the hacker. Comes in many decorator colors such as Sausage,
+Pepperoni, and Garbage. see <pizza, ANSI standard>. <RSN> adj. see <Real Soon
+Now>. <RTFAQ> /ahr-tee-eff-ay-kyoo/ [USENET, by analogy with <RTFM>] imp.
+Abbrev. for `Read the FAQ!', an exhortation that the person being addressed
+ought to read the newsgroup's <FAQ list> before posting questions. <RTFM>
+/ahr-tee-ef-em/ [UNIX] imp. Abbrev. for `Read The Fucking Manual'. 1. Used by
+GURUs to brush off questions they consider trivial or annoying. Compare
+<Don't do that, then!>. 2. Used when reporting a problem to indicate that you
+aren't just asking out of <randomness>. "No, I can't figure out how to
+interface UNIX to my toaster and yes I have RTFM." Unlike sense #1 this use
+is considered polite. see also <RTFAQ>, <RTM>. <RTI> /ahr-tee-ie/ interj. The
+mnemonic for the "return from interrupt" instruction on the 6502 and Z80.
+Equivalent to "Now, where was I?" or used to end a conversational digression.
+see <POP>, <POPJ>. <RTM> /ahr-tee-em/ [USENET, acronym for `Read The Manual']
+Politer variant of <RTFM>. <rude> [WPI] adj. 1. (of a program) Badly written.
+2. Functionally poor, e.g. a program which is very difficult to use because
+of gratuitously poor (random?) design decisions. see <cuspy>. <runes> pl.n.
+1. Anything that requires <heavy wizardry> or <black art> to <parse>; core
+dumps, JCL commands, or even code in a language you don't have the faintest
+idea how to read. Compare <casting the runes>. 2. Special display characters
+(for example, the high-half graphics on an IBM PC). <runic> adj. Syn.
+<obscure>. VMS fans sometimes refer to UNIX as `Runix'; UNIX fans return the
+compliment by expanding VMS to `Vachement Mauvais Systeme' (French, lit.
+"Cowlike Bad System"). <rusty iron> n. Syn. <tired iron>. It has been claimed
+that this is the inevitable fate of <water MIPS>. <rusty memory> n.
+Mass-storage that uses iron-oxide-based magnetic media (tape and the
+pre-Winchester removable disk packs used in <washing machines>). Compare
+<donuts>. {= S =} <s/n ratio> n. (also "s:n ratio"). see <signal-to-noise
+ratio>. <sacred> adj. Reserved for the exclusive use of something (a
+metaphorical extension of the standard meaning). "Register 7 is sacred to the
+interrupt handler." Often means that anyone may look at the sacred object,
+but clobbering it will screw whatever it is sacred to. Example: The comment
+"Register 7 is sacred to the interrupt handler" appearing in a program would
+be interpreted by a hacker to mean that one part of the program, the
+`interrupt handler', uses register 7, and if any other part of the program
+changes the contents of register 7 dire consequences are likely to ensue.
+<sadistics> /s@-dis'tiks/ n. University slang for statistics and probability
+theory, often used by hackers. <saga> [WPI] n. A cuspy but bogus raving story
+dealing with N random broken people. <sagan> [from Carl Sagan's TV series on
+PBS, think `Billions and Billions'] n. A large quantity of anything. "There's
+a sagan different ways to tweak EMACS." "The US Government spends sagans on
+military hardware." <SAIL> n. Stanford University Artificial Intelligence
+Lab. An important site in the early development of LISP; with the MIT AI LAB,
+CMU and the UNIX community, one of the major founts of hacker culture
+traditions. The SAIL machines were shut down in late May 1990, scant weeks
+after the MIT AI lab's ITS cluster went down for the last time.
+<salescritter> /sayls'kri`tr/ n. Pejorative hackerism for a computer
+salesperson. Hackers tell the following joke: Q. What's the difference
+between a used car dealer and a computer salesman? A. The used car dealer
+knows he's lying. This reflects the widespread hacker belief that
+salescritters are self-selected for stupidity (after all, if they had brains
+and the inclination to use them they'd be in programming). The terms
+"salesthing" and "salesdroid" are also common. Compare <marketroid>, <suit>.
+<salt mines> n. Dense quarters housing large numbers of programmers working
+long hours on grungy projects, with some hope of seeing the end of the tunnel
+in N years. Noted for their absence of sunshine. Compare <playpen>,
+<sandbox>. <same-day-service> n. Ironic term is used to describe slow
+response time, particularly with respect to <MS-DOS> system calls. Such
+response time is a major incentive for programmers to write programs that are
+not <well-behaved>. <sandbender> [IBM] n. A person involved with silicon
+lithography and the physical design of chips. Compare <ironmonger>, <polygon
+pusher>. <sandbox, the> n. Common term for the R&D department at many
+software and computer companies (where hackers in commercial environments are
+likely to be found). Half-derisive, but reflects the truth that research is a
+form of creative play. Compare <playpen>. <sanity check> n. The act of
+checking a piece of code for completely stupid mistakes. Implying that the
+check is to make sure the author was sane when it was written i.e. if a piece
+of scientific software relied on a particular formula and was giving
+unexpected results, one might first look at the nesting of parentheses/coding
+of the formula, as a <sanity check>, before looking at the more complex I/O
+or data structure manipulation routines. Compare <reality check>. <say> vt.
+In some contexts, to type to a terminal. "To list a directory verbosely, you
+have to say `ls -l'". Tends to imply a carriage-return-terminated command (a
+`sentence'). A computer may also be said to `say' things to you even if it
+doesn't have a speech synthesizer, by displaying them on a terminal in
+response to your commands. Hackers find it odd that this usage confuses other
+people.

@@ -1,14 +1,345 @@
  MUSIC n. A common extracurricular interest of hackers (compare
-SCIENCE-FICTION FANDOM, ORIENTAL FOOD; see also FILK). It is widely believed
-among hackers that there is a substantial correlation between whatever
-mysterious traits underlie hacking ability (on the one hand) and musical
-talent and sensitivity (on the other). It is certainly the case that hackers,
-as a rule, like music and often develop musical appreciation in unusual and
-interesting directions. Folk music is very big in hacker circles; so is the
-sort of elaborate instrumental jazz/rock that used to be called `progressive'
-and isn't recorded much any more. Also, the hacker's musical range tends to
-be wide; many can listen with equal appreciation to (say) Talking Heads, Yes,
-Spirogyra, Scott Joplin, King Sunny Ade, The Pretenders, or one of Bach's
-Brandenburg Concerti. It is also apparently true that hackerdom includes a
-much higher concentration of talented amateur musicians than one would expect
-from a similar-sized control group of MUNDANES.
+SCIENCE-FICTION FANDOM, ORIENTAL FOOD; see also <filk>). It is widely
+believed among hackers that there is a substantial correlation between
+whatever mysterious traits underlie hacking ability (on the one hand) and
+musical talent and sensitivity (on the other). It is certainly the case that
+hackers, as a rule, like music and often develop musical appreciation in
+unusual and interesting directions. Folk music is very big in hacker circles;
+so is the sort of elaborate instrumental jazz/rock that used to be called
+`progressive' and isn't recorded much any more. Also, the hacker's musical
+range tends to be wide; many can listen with equal appreciation to (say)
+Talking Heads, Yes, Spirogyra, Scott Joplin, King Sunny Ade, The Pretenders,
+or one of Bach's Brandenburg Concerti. It is also apparently true that
+hackerdom includes a much higher concentration of talented amateur musicians
+than one would expect from a similar-sized control group of <mundane> types.
+<mutter> vt. To quietly enter a command not meant for the ears of ordinary
+mortals. Frequently in `mutter an <incantation>'. {= N =} <N> /en/ adj. 1.
+Some large and indeterminate number of objects; "There were N bugs in that
+crock!"; also used in its original sense of a variable name. 2. An
+arbitrarily large (and perhaps infinite) number; "This crock has N bugs, as N
+goes to infinity". 3. A variable whose value is specified by the current
+context. For example, when ordering a meal at a restaurant N may be
+understood to mean however many people there are at the table. From the
+remark "We'd like to order N wonton soups and a family dinner for N-1." you
+can deduce that one person at the table wants to eat only soup, even though
+you don't know how many people there are. A silly riddle: "How many computers
+does it take to shift the bits in a register? N+1: N to hold all the bits
+still, and one to shove the register over." 4. "Nth": adj. The ordinal
+counterpart of N. "Now for the Nth and last time..." In the specific context
+"Nth-year grad student", N is generally assumed to be at least 4, and is
+usually 5 or more (see <tenured graduate student>). see also <random
+numbers>, <two-to-the-n>. <nailed to the wall> [like a trophy] adj. Said of a
+bug finally eliminated after protracted and even heroic effort. <naive> adj.
+Untutored in the perversities of some particular program or system; one who
+still tries to do things in an intuitive way, rather than the right way (in
+really good designs these coincide, but most designs aren't `really good' in
+the appropriate sense). This is completely unrelated to general maturity or
+competence or even competence at any other program. It is a sad commentary on
+the primitive state of computing that the natural opposite of this term often
+claimed to be `experienced user' but is really more like `cynical user'.
+<naive user> 1. n. A <luser>. Tends to imply someone who is ignorant mainly
+due to experience; when applied to someone who "has" experience, there is a
+definite implication of stupidity. <NAK> [from the ASCII mnemonic for
+0010101] interj. 1. On-line joke answer to ACK? (see <ACK>) --- "I'm not
+here". 2. On line answer to a request for chat --- "I'm not available". 3.
+Used to politely interrupt someone to tell them you don't understand their
+point or that they have suddenly stopped making sense. see <ACK>, sense #3.
+"And then, after we recode the project in COBOL..." "Nak Nak Nak! I thought I
+heard you say COBOL!" <nano-> [in measurement, a quantifier meaning * 10 ^
+-9] pref. Smaller than <micro->, and used in the same rather loose and
+connotative way. Thus, one has <nanotechnology> (coined by hacker Eric
+Drexler) by analogy with "microtechnology"; and some machine architectures
+have a "nanocode" level below "microcode". see also <pico->. See also
+<nanoacre>. <nanoacre> /nan'o-ay`kr/ n. An areal unit (about 2mm.sq.) of real
+estate on a VLSI chip. The term derives its amusement value from the fact
+that VLSI nanoacres have costs in the same range as real acres once one
+figures in design and fabrication-setup costs. <nanobot> /nan'oh-bot/ n. A
+robot of microscopic proportions, presumably built by means of
+<nanotechnology>. As yet, only used informally (and speculatively!). Also
+sometimes called a "nanoagent". <nanocomputer> /nan'oh-k@m-pyoo'tr/ n. A
+computer whose switching elements are molecular in size. Designs for
+mechanical nanocomputers which use single-molecule sliding rods for their
+logic have been proposed. The controller for a <nanobot> would be a
+nanocomputer. <nanotechnology> /nan'-oh-tek-no`l@-ji/ n. A hypothetical
+fabrication technology in which objects are designed and built with the
+individual specification and placement of each separate atom. The first
+unequivocal nano-fabrication experiments are taking place now (1990), for
+example with the deposition of individual xenon atoms on a nickel substrate
+to spell the logo of a certain very large computer company by two of its
+physicists. Nanotechnology has been a hot topic in the hacker subculture ever
+since the term was coined by K. Eric Drexler in his book `Engines of
+Creation', where he predicted that nanotechnology could give rise to
+replicating assemblers, permitting an exponential growth of productivity and
+personal wealth. see also <blue goo>, <gray goo>, <nanobot>. <nastygram> n.
+1. A protocol packet or item of email (the latter is also called a
+"letterbomb") that takes advantage of misfeatures or security holes on the
+target system to do untoward things. 2. Disapproving mail, esp. from a
+net.god, pursuant to a violation of <netiquette>. Compare <shitogram>. 3. A
+status report from an unhappy, and probably picky, customer. "What'd the
+Germans say in today's nastygram?" 4. [deprecated] An error reply by mail
+from a <daemon>; in particular, a <bounce message>. <Nathan Hale> n. An
+asterisk (see also <splat>). Oh, you want an etymology? Notionally from "I
+regret that I have only one asterisk for my country", a misquote of the
+famous remark uttered by Nathan Hale just before he was hanged. Hale was a
+(failed) spy for the rebels in the American War of Independence. <neophilia>
+/nee`oh-fil'-ee-uh/ n. The trait of being excited and pleased by novelty.
+Common trait of most hackers, SF fans, and members of several other connected
+leading-edge subcultures including the pro-technology `Whole-Earth' wing of
+the ecology movement, space activists, theater people, the membership of
+MENSA, and the <Discordian>/neo-pagan underground. All these groups overlap
+heavily and (where evidence is available) seem to share characteristic hacker
+tropisms for SF, MUSIC and ORIENTAL FOOD. <nethack> /net'hak/ n. see <hack>,
+sense #12. <netiquette> /net'ee-ket, net'i-ket/ [portmanteau fr. "network
+etiquette"] n. Conventions of politeness recognized on <USENET>, such as:
+avoidance of cross-posting to inappropriate groups, or refraining from
+commercial pluggery on the net. <neep-neep> /neep neep/ [onomatopoeic, from
+New York SF fandom] n. One who is fascinated by computers. More general than
+<hacker>, as it need not imply more skill than is required to boot games on a
+PC. The gerund "neep-neeping" applies specifically to the long conversations
+about computers that tend to develop in the corners at most SF-convention
+parties. Fandom has a related proverb to the effect that "Hacking is a
+conversational black hole!" <net.-> /net dot/ pref. [USENET] Prefix used to
+describe people and events related to USENET. From the time before the <Great
+Renaming>, when all non-local newsgroups had names beginning `net.'. Includes
+<net.god>s, "net.goddesses" (various charismatic women with circles of
+on-line admirers), "net.lurkers", (see <lurker>), "net.parties" (a synonym
+for <boink> sense #2 (q.v.)) and many similar constructs. see also
+<net.police>. <net.god> /net god/ n. Used to refer to anyone who satisfies
+some combination of the following conditions: has been visible on USENET for
+more than five years, ran one of the original backbone sites, moderated an
+important newsgroup, wrote news software, or knows Gene, Mark, Rick, Mel,
+Henry, Chuq, and Greg personally. see <demigod>. <net.police> n. Those USENET
+readers who feel it is their responsibility to pounce on and <flame> any
+posting which they regard as offensive, or in violation of their
+understanding of <netiquette>. Generally used sarcastically or pejoratively.
+Also spelled `net police'. see also <net.->, <code police>. <netrock> [IBM]
+n. A <flame>; used esp. on VNET, IBM's internal corporate network. <network
+address> n. (also "net address") As used by hackers, means an address on <the
+network> (almost always a <bang path> or <Internet address>). An essential to
+be taken seriously by hackers; in particular, persons or organizations
+claiming to understand, work with, sell to, or recruit from among hackers
+that *don't* display net addresses are quietly presumed to be clueless
+poseurs and mentally flushed (see <flush>, sense #3). Hackers often put their
+net addresses on their business cards and wear them prominently in contexts
+where they expect to meet other hackers face-to-face (see also
+SCIENCE-FICTION FANDOM). This is mostly functional, but is also a connotative
+signal that one identifies with hackerdom (like lodge pins among Masons or
+tie-dyed T-shirts among Grateful Dead fans). Net addresses are often used in
+email text as a more concise substitute for personal names; indeed, hackers
+may come to know each other quite well by network names without ever learning
+each others' `legal' monikers. see also <sitename>. <network, the> n. 1. The
+union of all the major noncommercial, academic and hacker-oriented networks
+such as Internet, the old ARPANET, NSFnet, BITNET and the virtual UUCP and
+<USENET> `networks', plus the corporate in-house networks that gate to them.
+A site is generally considered `on the network' if it can be reached through
+some combination of Internet-style (@-sign) and UUCP (bang-path) addresses.
+see <bang path>, <Internet address>, <network address>. 2. A fictional
+conspiracy of libertarian hacker-subversives and anti-authoritarian
+monkeywrenchers described in Robert Anton Wilson's novel `Schrodinger's Cat',
+to which many hackers have subsequently decided they belong (this is an
+example of <ha ha only serious>). <New Jersey> [primarily Stanford/Silicon
+Valley] adj. Pejorative term for the quality of being brain-damaged or of
+poor design. It refers to the allegedly poor designs of such software as C,
+C++, and UNIX (which originated at Bell Labs in New Jersey). "This compiler
+bites the bag, but what can you expect from a compiler designed in New
+Jersey?" see also <UNIX conspiracy>. <New Testament> n. [C programmers] The
+second edition of K&R's `The C Programming Language' (Prentice-Hall 1988,
+ISBN 0-13-110362-8), describing ANSI Standard C. see <K&R>. <newbie>
+/n[y]oo'bee/ n. [orig. fr. British military & public-school slang contraction
+of "new boy"] A USENET neophyte. This term originated in the <newsgroup>
+"talk.bizarre" but is now in wide use. Criteria for being considered a newbie
+vary wildly; a person can be called a newbie in one newsgroup while remaining
+a respected participant in another. The label "newbie" is sometimes applied
+as a serious insult, to a person who has been around USENET for a long time,
+but who carefully hides all evidence of having a clue. see <BIFF>. <newgrp
+wars> /n[y]oo'grp wohrz/ [USENET] n. Salvos of dueling `newgrp' and `rmgroup'
+messages sometimes exchanged by persons on opposite sides of a dispute over
+whether a <newsgroup> should be created netwide. These usually settle out
+within a week or two as it becomes clear whether the group has a natural
+constituency (usually, it doesn't). At times, especially in the completely
+anarchic "alt" hierarchy, the names of newsgroups themselves become a form of
+comment or humor; cf. the spinoff of "alt.swedish.chef.bork.bork.bork" from
+"alt.tv.muppets" in early 1990, or any number of specialized abuse groups
+named after particularly notorious <flamer>s. <newline> /n[y]oo'lien/ n. 1.
+[UNIX] The ASCII LF character (0001010), used under <UNIX> as a text line
+terminator. A Bell-Labs-ism rather than a Berkeleyism; interestingly (and
+unusually for UNIX jargon) it is said originally to have been an IBM usage
+(though it appears in early ASCII standards, it never caught in in the
+general computing world before UNIX). 2. More generally, any magic character
+sequence or operation (like Pascal's writeln() function) required to
+terminate a text record. see <crlf>, <terpri>. <newsfroup> /n[y]oos'froop/
+[USENET] n. Silly written-only synonym for <newsgroup>, originated as a typo
+but now in regular use on USENET'S talk.bizarre and other
+not-real-tightly-wrapped groups. <newsgroup> [USENET] n. One of USENET's
+large collection of topic groups. Among the best-known are "comp.lang.c" (the
+C-language forum), "comp.unix.internals" (for UNIX wizards),
+"rec.arts.sf-lovers" (for science-fiction fans) and "talk.politics.misc"
+(miscellaneous political discussions and <flamage>). <nickle> [From "nickel",
+common name for the US 5-cent coin] n. A <nybble> + 1; 5 bits. Reported among
+developers for Mattel's GI 1600 (the Intellivision games processor), a chip
+with 16-bit-wide RAM but 10-bit-wide ROM. see also <deckle>. <night mode> n.
+see <phase> (of people). <Nightmare File System> n. Pejorative hackerism for
+Sun's Network File System (NFS). In any nontrivial network of Suns where
+there is a lot of NFS cross-mounting, when one Sun goes down, the others
+freeze up because of this behavior: Some machine pings the dead one and gets
+no response, and that machine continues to ping the dead one, causing it to
+appear dead to some messages. Then another machine pings either the really
+dead machine or the sometimes dead machine, and this machine enters this
+mode. The first machine to discover the dead one is now both trying to ping
+the dead one and respond to the second machine, so it is dead more often.
+This snowballs very fast and soon the entire set of machine is frozen. "It's
+that damned nightmare file system again." see also <broadcast storm>. <nil>
+[from LISP terminology for `false'] No. Usage: used in reply to a question,
+particularly one asked using the `-P' convention. see <T>. <NMI> n.
+Non-Maskable Interrupt. see <priority interrupt>. <noddy> [Great Britain;
+from the children's books] adj. Small and unuseful, but demonstrating a
+point. Noddy programs are often written when learning a new language or
+system. The archetypal noddy program is <hello world>. Noddy code may be used
+to demonstrate a feature or bug of a compiler, but would not be used in a
+real program. May be used of real hardware or software to imply that it isn't
+worth using. "This editor's a bit noddy." <NOMEX underwear> [USENET] n. Syn.
+<asbestos longjohns>, used mostly in auto related mailing lists and
+newsgroups. NOMEX underwear is an actual product available on the racing
+equipment market, used as a fire retardant measure and required in some
+racing series. <non-optimal solution> n. (also "sub-optimal solution") An
+astoundingly stupid way to do something. This term is generally used in
+deadpan sarcasm, as its impact is greatest when the person speaking looks
+completely serious. Compare <stunning>. see also <Bad Thing>. <nonlinear>
+adj. [scientific computation] Behaving in an erratic and unpredictable
+fashion. When used to describe the behavior of a machine or program, it
+suggests that said machine or program is being forced to run far outside of
+design specifications. This behavior may be induced by unreasonable inputs,
+or may be triggered when a more mundane bug sends the computation far away
+from its expected course. When describing the behavior of a person, suggests
+a tantrum or a <flame>. "When you talk to Bob, don't mention the drug problem
+or he'll go nonlinear for hours." <nontrivial> adj. Requiring real thought or
+significant computing power. Often used as an understated way of saying that
+a problem is quite difficult. The preferred emphatic form is "decidedly
+nontrivial". see <trivial>, <uninteresting>, <interesting>. <no-op> /noh-op/
+alt. NOP (nop) [no operation] n. 1. A machine instruction that does nothing
+(sometimes used in assembler-level programming as filler for data areas). 2.
+A person who contributes nothing to a project, or has nothing going on
+upstairs, or both. As in "he's a no-op.". 3. Any operation or sequence of
+operations with no effect, such as circling the block without finding a
+parking space, or putting money into a vending machine and having it fall
+immediately into the coin-return box, or asking someone for help and being
+told to go away. "Oh well, that was a no-op." <notwork> n. A network, when
+it's acting <flaky> or <down>. Compare <nyetwork>. Orig. referred to a
+particular perioud of flakiness on IBM's VNET corporate network, c.1988.
+<NP-> /en pee/ pref. Extremely. Used to modify adjectives describing a level
+or quality of difficulty. "Getting this algorithm to perform correctly in
+every case is NP-annoying." This is generalized from the computer science
+terms "NP-hard" and "NP-complete". NP is the set of
+Nondeterministic-Polynomial algorithms, those which can be completed by a
+nondeterministic finite state machine in an amount of time that is a
+polynomial function of the size of the input. <NSA line eater> n. The
+mythical NSA (National Security Agency) trawling program sometimes assumed to
+be reading <USENET> for the U.S. Government's spooks. Some netters put loaded
+phrases like `Uzi' `nuclear materials' `Palestine' `cocaine' and
+`assassination' in their <sig block>s in an attempt to confuse and overload
+the creature. The <GNU> version of <EMACS> actually has a command that
+randomly generates a lot of words like that into your edited text. <nuke> vt.
+1. To intentionally delete the entire contents of a given directory or
+storage volume. "On UNIX, `rm -r /usr' will nuke everything in the usr
+filesystem." Never used for accidental deletion. Oppose <blow away>. 2. Syn.
+for <dike>, applied to smaller things such as files, features or code
+sections. 3. Used of processes as well as files; frequently an alias for
+`kill -9' on UNIX. <null device> n. A <logical> input/output device connected
+to the <bit bucket>; when you write to it nothing happens, when you read from
+it you get a zero-length record full of nothing. Useful for discarding
+unwanted output or using interactive programs in a non-interactive way. see
+</dev/null>. <numbers> [scientific computation] n. Results of a computation
+that may not be physically significant, but at least indicate that the
+program is running. May be used to placate management, grant sponsors, etc.
+"Making numbers" means running a program because output --- any output, not
+necessarily meaningful output --- is needed as a demonstration of progress.
+see <pretty pictures>, <math-out>, <social science number>. <NUXI problem>
+/nuk'see pro'blm/ n. This refers to the problem of transferring data between
+machines with differing byte-order. The string `UNIX' might look like `NUXI'
+on a machine with a different "byte sex" (i.e. when transferring data from a
+little-endian to a big-endian or vice-versa). see also, <big-endian>,
+<little-endian>, <swab>, and <bytesexual>. <nybble> /nib'l/ [from v. "nibble"
+by analogy with "bite" => "byte"] n. Four bits; one hexadecimal digit; a
+half-byte. Though `byte' is now accepted technical jargon found in
+dictionaries, this useful relative is still slang. Compare <byte>, <crumb>,
+<taste>, <dynner>, see also <bit>. Apparently this spelling is uncommon on
+his side of the pond, as British orthography suggests the pronunciation
+/niebl/. <nyetwork> [fr. Russian "nyet" = no] n. A network, when it's acting
+<flaky> or <down>. Compare <notwork>. {= O =} <Ob-> /ob/ pref. Obligatory. A
+piece of <netiquette> that acknowledges the author has been straying from the
+newsgroup's charter. For example, if a posting in alt.sex has nothing
+particularly to do with sex, the author may append `ObSex' (or `Obsex') and
+toss off a question or vignette about some unusual erotic act. <obscure> adj.
+Used in an exaggeration of its normal meaning, to imply a total lack of
+comprehensibility. "The reason for that last crash is obscure." "The
+`find(1)' command's syntax is obscure." The phrase <moderately obscure>
+implies that it could be figured out but probably isn't worth the trouble.
+<Obscure in the extreme> is a preferred emphatic form. <Obfuscated C Contest>
+n. Annual contest run since 1984 over <the network> by Landon Curt Noll &
+friends. The overall winner is he who produces the most unreadable, creative
+and bizarre working C program; various other prizes are awarded at the
+judges' whim. Given C's terse syntax and macro-preprocessor facilities, this
+gives contestants a lot of maneuvering room. The winning programs often
+manage to be simultaneously a) funny, b) breathtaking works of art, and c)
+Horrible Examples of how *not* to code in C. This relatively short and sweet
+entry might help convey the flavor of obfuscated C: /* * HELLO WORLD program
+* by Jack Applin and Robert Heckendorn, 1985 */
+main(v,c)char**c;{for(v[c++]="Hello, world!\n)";
+(!!c)[*c]&&(v--||--c&&execlp(*c,*c,c[!!c]+!!c,!c));
+**c=!c)write(!!*c,*c,!!**c);} see also <hello, world!>. <octal forty> /ok'tl
+for'tee/ n. Hackish way of saying "I'm drawing a blank". Octal 40 is the
+ASCII space character; by an odd concidence, "hex" 40 is the <EBCDIC> space
+character. see <wall>. <off-by-one error> n. Exceedingly common error induced
+in many ways, such as by starting at 0 when you should have started at 1 or
+vice versa, or by writing < N instead of <= N or vice-versa. Also applied to
+giving an object to the person next to the one who should have gotten it.
+Often confused with <fencepost error>, which is properly a particular subtype
+of it. <off the trolley> adj. Describes the behavior of a program which
+malfunctions but doesn't actually <crash> or get halted by the operating
+system. see <glitch>, <bug>, <deep space>. <offline> adv. Not now or not
+here. Example: "Let's take this discussion offline." Specifically used on
+<USENET> to suggest that a discussion be taken off a public newsgroup to
+email. <old fart> n. Tribal elder. A title self-assumed with remarkable
+frequency by (esp.) USENETters who have been programming for more than about
+twenty five years; frequently appears in SIGs attached to jargon file
+contributions of great archeological significance. This is a term of insult
+in second or third person but pride in first person. <Old Testament> n. [C
+programmers] The first edition of the book describing <Classic C>; see <K&R>.
+<ONE BELL SYSTEM (IT WORKS)> This was the output from the old Unix V6 `1'
+command. The `1' command also contained a random number generator which gave
+it a one in ten chance of recursively executing itself. <one-line fix> n.
+Often used sarcastically used of a change to a program that is thought to be
+trivial or insignificant right up to the moment it crashes the system.
+Usually `cured' by another one-line fix. see also <I didn't change
+anything!>. <one-liner wars> n. Popular game among hackers who code in the
+language APL (see <write-only language>). The objective is to see who can
+code the most interesting and/or useful routine in one line of operators
+chosen from APL's exceedingly <hairy> primitive set. [This is not *quite* as
+silly as it sounds; I myself have coded one-line <life> programs and once
+uttered a one-liner that performed lexical analysis of its input string
+followed by a dictionary lookup for good measure --- ESR] It has been
+reported that a similar amusement was practiced among <TECO> hackers.
+<ooblick> /oo'blik/ [from Dr. Seuss' `Bartholomew and the Ooblick'] n. A
+bizarre semi-liquid sludge made from cornstarch and water. Enjoyed among
+hackers who make batches for playtime at parties for its amusing and
+extremely non-Newtonian behavior; it pours and splatters, but resists rapid
+motion like a solid and will even crack when hit by a hammer. Often found
+near lasers. <open> n. Abbreviation for `open (or left) parenthesis', used
+when necessary to eliminate oral ambiguity. To read aloud the LISP form
+(DEFUN FOO (X) (PLUS X 1)) one might say: "Open def-fun foo, open eks close,
+open, plus eks one, close close." see <close>. <open switch> [IBM, prob. fr.
+railroading] n. An unresolved question, issue, or problem. <operating system>
+n. (Often abbreviated `OS') The foundation software of a machine, of course;
+that which schedules tasks, allocates storage, and presents a default
+interface to the user between applications. The facilities the operating
+system provides and its general design philosophy exert an extremely strong
+influence on programming style and the technical culture that grows up around
+a machine. Hacker folklore has been shaped primarily by the UNIX, ITS,
+TOPS-10, TOPS-20/TWENEX, VMS, CP/M, MS-DOS, and MULTICS operating systems
+(most importantly by ITS and UNIX). Each of these has its own entry, which
+see. <Orange Book> n. The U.S. Government's standards document (Trusted
+Computer System Evaluation Criteria, DOD standard 5200.28-STD, December,
+1985) characterizing secure computing architectures, defining levels A1 (most
+secure) through D (least). Stock UNIXes are roughly C2. see also <Red Book>,
+<Blue Book>, <Green Book>, <Silver Book>, <Purple Book>, <White Book>,
+<Pink-Shirt Book>, <Dragon Book>, <Aluminum Book>.

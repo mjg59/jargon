@@ -1,23 +1,1174 @@
  HUMOR, HACKER n. A distinctive style of shared intellectual humor found
 among hackers, having the following marked characteristics: 1) Fascination
 with form-vs.-content jokes, paradoxes, and humor having to do with confusion
-of metalevels (see META). One way to make a hacker laugh: hold an index card
-in front of him/her with "THIS IS GREEN" written on it in bold red ink, or
-vice-versa (note, however, that this is only funny the first time). 2)
-Elaborate deadpan parodies of large intellectual constructs such as standards
-documents, language descriptions (see INTERCAL) and even entire scientific
-theories (see QUANTUM BOGODYNAMICS, COMPUTRON). 3) Jokes which involve
-screwily precise reasoning from bizarre, ludicrous or just grossly
-counter-intuitive premises. 4) Fascination with puns and wordplay. 5) A
-fondness for apparently mindless humor with subversive currents of
-intelligence in it, for example: old Warner Brothers and Rocky & Bullwinkle
-cartoons, Charlie Chaplin movies, the B-52s, and Monty Python's Flying
-Circus. Humor which combines this trait with elements of high camp and
-slapstick is especially favored. 6) References to the symbol-object
-antinomies and associated ideas in Zen Buddhism and (less often) Taoism. see
-HAS THE X NATURE, DISCORDIANISM, ZEN, HA HA ONLY SERIOUS, AI KOANS. see also
-FILK, COMPUTER; RETROCOMPUTING; and Appendix C. If you have an itchy feeling
-that all six of these traits are really aspects of one thing that is
-incredibly difficult to talk about exactly, you are a) correct and b)
-responding like a hacker. These traits are also recognizable (though in a
-less marked form) throughout SCIENCE-FICTION FANDOM.
+of metalevels (see <meta>). One way to make a hacker laugh: hold an index
+card in front of him/her with "THIS IS GREEN" written on it in bold red ink,
+or vice-versa (note, however, that this is only funny the first time). 2)
+Elaborate deadpan parodies of large intellectual constructs such as
+specifications (see <write-only memory>), standards documents, language
+descriptions (see <INTERCAL>) and even entire scientific theories (see
+<quantum bogodynamics>, <computron>). 3) Jokes which involve screwily precise
+reasoning from bizarre, ludicrous or just grossly counter-intuitive premises.
+4) Fascination with puns and wordplay. 5) A fondness for apparently mindless
+humor with subversive currents of intelligence in it, for example: old Warner
+Brothers and Rocky & Bullwinkle cartoons, Charlie Chaplin movies, the B-52s,
+and Monty Python's Flying Circus. Humor which combines this trait with
+elements of high camp and slapstick is especially favored. 6) References to
+the symbol-object antinomies and associated ideas in Zen Buddhism and (less
+often) Taoism. see <has the X nature>, <Discordianism>, <zen>, <ha ha only
+serious>, <AI koans>. see also <filk>; <retrocomputing>; and Appendix B. If
+you have an itchy feeling that all six of these traits are really aspects of
+one thing that is incredibly difficult to talk about exactly, you are a)
+correct and b) responding like a hacker. These traits are also recognizable
+(though in a less marked form) throughout SCIENCE-FICTION FANDOM. <hung>
+[from "hung up"] adj. Equivalent to <wedged>. but more common at UNIX/C
+sites. Not generally used of people. Syn. with <locked up>, <wedged>; compare
+<hosed>. see also <hang>. A hung state is distinguished from `crashed' or
+<down>, where the program or system is also unusable but because it is not
+running rather than because it is waiting for something. However, the
+recovery from both situations is often the same. <hungus> /huhng'g@s/
+[perhaps related to current slang `humungous'; which one came first (if
+either) is unclear] adj. Large, unwieldy, usually unmanageable. "TCP is a
+hungus piece of code." "This is a hungus set of modifications." <hyperspace>
+(hie'per-spays) n. A memory location within a virtual memory machine that is
+many, many megabytes (or gigabytes) away from where the program counter
+should be pointing, usually inaccessible because it is not even mapped in.
+"Another core dump... looks like the program jumped off to hyperspace
+somehow." This usage is from the SF notion of a spaceship jumping "into
+hyperspace", that is, taking a shortcut through higher-dimensional space ---
+in other words, leaving this universe. {= I =} <i18n> n. Written-only abbrev.
+for `internationalization', which is an `i' followed by 18 letters followed
+by `n'. Used in the <X> community. <i14y> n. Written-only abbrev. for
+`interoperability', which is an `i' followed by 14 letters followed by `y'.
+Used in the <X> community. <I didn't change anything!> interj. A plaintive
+cry often heard as bugs manifest during a regression test. The canonical
+reply to this assertion is "Then it works just the same as it did before,
+right?" see also <one-line fix>. <IBM> /ie bee em/ Inferior But Marketable;
+It's Better Manually; Insidious Black Magic; It's Been Malfunctioning;
+Incontinent Bowel Movement; and a near-<infinite> number of even less
+complimentary expansions, including `International Business Machines'. see
+<TLA>. These abbreviations illustrate the considerable antipathy most hackers
+have long felt for the `industry leader' (see <fear and loathing>). What
+galls hackers about most IBM machines above the PC level isn't so much that
+they're underpowered and overpriced (though that counts against them) but
+that the designs are incredibly archaic, crufty and <elephantine> and you
+can't *fix* them --- source code is locked up tight and programming tools are
+expensive, hard to find, and bletcherous to use once you've found them. With
+the release of the UNIX-based RIOS family this may have begun to change ---
+but then, we thought that when the PC-RT came out, too. In the spirit of
+universal peace and brotherhood, this lexicon now includes a number of
+entries marked `IBM'; these derive from two rampantly unofficial jargon lists
+circulated among IBM's own beleaguered hacker underground. <IBM discount> n.
+A price increase. Outside IBM, this derives from the common perception that
+IBM products are generally hideously overpriced (see <clone>); inside, it is
+said to spring from a belief that large numbers of IBM employees living in an
+area cause prices to rise. <ice> [from William Gibson's cyberpunk SF:
+notionally, `Intrusion Countermeasure Electronics'] Security software (in
+Gibson's original, software that responds to intrusion by attempting to
+literally kill the intruder). Also, <icebreaker>: a program designed for
+cracking security on a system. Neither term is in serious use yet as of 1990,
+but many hackers find the metaphor attractive and they may be in the near
+future. <ill-behaved> adj. 1. [numerical analysis] Said of an algorithm or
+computational method that tends to blow up due to accumulated roundoff error
+or poor convergence properties. 2. Software which bypasses the defined <OS>
+interfaces to do things (like screen, keyboard and disk I/O) itself, often in
+a way that depends on the hardware of the machine it is running on or which
+is nonportable or incompatible with other pieces of software. In the IBM
+PC/MS-DOS world, there is a folk theorem (nearly true) to the effect that
+(due to gross inadequacies and performance penalties in the OS interface) all
+interesting applications are ill-behaved. Oppose <well-behaved>, compare
+<PC-ism>. see <mess-dos>. <IMHO> [from SF fandom via USENET] Written acronym
+for In My Humble Opinion. Example: "IMHO, mixed-case C names should be
+avoided, as mistyping something in the wrong case can cause hard-to-detect
+errors --- and they look too Pascalish anyhow." Also seen in variant forms
+such as IMNSHO (In My Not-So-Humble Opinion) and IMAO (In My Arrogant
+Opinion). <in the extreme> adj. A preferred emphasizing suffix for many
+hackish terms. see for example <obscure in the extreme> under <obscure>, and
+compare <highly>. <incantation> n. Any particularly arbitrary or obscure
+command that must be muttered at a system to attain a desired result. Not
+used of passwords or other explicit security features. Especially used of
+tricks that are so poorly documented they must be learned from a <wizard>.
+E.g. "This compiler normally locates initialized data in the data segment,
+but if you mutter the right incantation they will be forced into text space".
+see <mutter>. <include> vt. [USENET] 1. To duplicate a portion (or whole) of
+another's message (typically with attribution to the source) in a reply or
+followup, for clarifying the context of one's response. 2. A directive; to
+explicitly command the preprocessor to include a file. 3. Derived from C:
+#include <disclaimer.h> has appeared in <sig block>s to denote a `standard'
+disclaimer file. <include war> n. Excessive multi-leveled including within a
+discussion <thread>, which tends to annoy readers. In a forum such as USENET,
+with high traffic newsgroups, this can lead to <flame>s and the urge to start
+a <kill file>. <indent style> [C programmers] n. The rules one uses to lay
+out code in a readable fashion; a subject of <holy wars>. There are four
+major C indent styles, as described below; all have the aim of making it
+easier for the reader to visually track the scope of control constructs. The
+significant variable is the placement of { and } with respect to the
+statement(s) they enclose and the guard (if, while, or do) on the block, if
+any. "K&R style" --- Named after Kernighan & Ritchie, because the examples in
+<K&R> are formatted this way. Also called "kernel style" because the UNIX
+kernel is written in it. The basic indent shown here is 8 spaces (or 1 tab)
+per level; 4 is occasionally seen but much less common. if (cond) { <body> }
+"Allman style" --- Named for Eric Allman, a Berkeley hacker who wrote a lot
+of the BSD utilities in it (it is sometimes called "BSD style"). Resembles
+normal indent style in Pascal and Algol. Basic indent per level shown here is
+8 spaces, but 4 is just as common (esp. in C++ code). if (cond) { <body> }
+"Whitesmiths style" --- popularized by the examples that came with
+Whitesmiths C, an early commercial C compiler. Basic indent per level shown
+here is 8 spaces, but 4 is occasionally seen. if (cond) { <body> } "GNU
+style" --- Used throughout GNU EMACS and the Free Software Foundation code,
+and just about nowhere else. Indents are always 4 spaces per level, with {
+and } "centered" between levels. if (cond) { <body> } What style one uses is
+very much a matter of personal choice, but one should be consistent within
+any one software package. Statistically, surveys have shown the Allman and
+Whitesmiths styles to be the most common, with about equal `mind share'. K&R
+used to be nearly universal, but is now much less common (the opening brace
+tends to get lost against the right paren of the guard part in an if or
+while, which is a Bad Thing). <infinite> adj. Consisting of a large number of
+objects; extreme. Used very loosely as in: "This program produces infinite
+garbage." "He is an infinite loser." This is an abuse of the word's
+mathematical meaning. The term "semi-infinite" denoting an immoderately large
+amount of some resource is also heard. "This compiler is taking a
+semi-infinite amount of time to optimize my program". see also <semi->.
+<infinity> n. 1. The largest value that can be represented in a particular
+type of variable (register, memory location, data type, whatever). 2. <minus
+infinity> The smallest such value. Note that this is different from <time t
+equals minus infinity>, which is closer to a mathematician's usage of
+infinity. <infant mortality> n. It is common lore among hackers that the
+chances of sudden hardware failure drop off exponentially with a machine's
+time since power-up (that is until the relatively distant time at which
+mechanical wear in I/O devices and thermal-cycling stress in components has
+accumulated enough for the machine to start going senile). Up to half of all
+chip-and-wire failures happen within a new system's first few weeks; such
+failures are often referred to as "infant mortality" problems (or,
+occasionally, as "sudden infant death syndrome"). <insanely great> adj. [Mac
+community, from Steve Jobs; also BSD UNIX people via Bill Joy] Something so
+incredibly <elegant> that it is imaginable only to someone possessing the
+greatest of <hacker>-natures. <INTERCAL> /in't@r-kal/ [said by the authors to
+stand for "Compiler Language With No Pronounceable Acronym"] n. A computer
+language designed by Don Woods and James Lyon in 1972. INTERCAL is purposely
+different from all other computer languages in all ways but one; it is purely
+a written language, being totally unspeakable. An excerpt from the INTERCAL
+Reference Manual will make the style of the language clear. In most
+languages, if you wanted the variable A to have the value 65536, you would
+write something like LET A = 65536; The INTERCAL Reference Manual explains
+that "It is a well-known and oft-demonstrated fact that a person whose work
+is incomprehensible is held in high esteem. For example, if one were to state
+that the simplest way to store a value of 65536 in a 32-bit INTERCAL variable
+is: DO :1 <- #0$#256 any sensible programmer would say that that was absurd.
+Since this is indeed the simplest method, the programmer would be made to
+look foolish in front of his boss, who would of course have happened to turn
+up, as bosses are wont to do. The effect would be no less devastating for the
+programmer having been correct." INTERCAL has many other peculiar features
+designed to make it even more unspeakable. The Woods/Lyons implementation was
+actually used by many (well, at least several) people at Princeton. The
+language has been recently re-implemented as C-INTERCAL and is consequently
+enjoying an unprecedented level of unpopularity; there is even an
+alt.lang.intercal newsgroup devoted to the study and ... appreciation of the
+language on USENET. <interesting> adj. In hacker parlance, this word is not
+simply synonymous with `intriguing', but has strong connotations of
+`annoying', or `difficult', or both. Hackers relish a challenge. Oppose
+<trivial>. <Internet address> n. An absolute network address of the form
+foo@bar.baz, where foo is a user name, bar is a <sitename>, and baz is a
+`domain' name, possibly including periods itself. Contrasts with <bang path>;
+see also <network, the> and <network address>. All Internet machines and most
+UUCP sites can now resolve these addresses, thanks to a large amount of
+behind-the-scenes magic and PD software written since 1980 or so. see also
+<bang path>. <interrupt> interj. 1. On a computer, an event which interrupts
+normal processing and temporarily diverts flow-of-control through an
+"interrupt handler" routine. see also <trap>. 2. A request for attention from
+a hacker. Often explicitly spoken. "Interrupt --- have you seen Joe
+recently?". see <priority interrupt>. <interrupt list, the> [MSDOS] n. The
+list of all known software interrupt calls (both documented and undocumented)
+for IBM PCs and compatibles maintained and made available for free
+redistribution by Ralf Brown (ralf@cs.cmu.edu). As of early 1991, it had
+grown to approximately 1 megabyte in length. <interrupts locked out> adj.
+When someone is ignoring you. In a restaurant, after several fruitless
+attempts to get the waitress's attention, a hacker might well observe that
+"She must have interrupts locked out." The synonym "interrupts disabled" is
+also common. Variations of this abound; "to have one's interrupt mask bit
+set" is also heard. see also <spl>. <iron> n. Hardware, especially
+older/larger hardware of <mainframe> class with big metal cabinets housing
+relatively low-density electronics (but also used of modern supercomputers).
+Often in the phrase <big iron>. Oppose <silicon>. see also <dinosaur>. <Iron
+Age> n. In the history of computing, 1961-1971 --- the formative era of
+commercial <mainframe> technology. These began with the delivery of the first
+PDP-1, coincided with the dominance of ferrite <core>, and ended with the
+introduction of the first commercial microprocessor (the Intel 4004) in 1971.
+see also <Stone Age>. <iron box> [UNIX/Internet] n. A special environment set
+up to trap a <cracker> logging in over remote or network connections long
+enough so he can be traced. May include a specially-gimmicked <shell>
+restricting the hacker's movements in unobvious ways, and `bait' files
+designed to keep him interested and logged on. see also <back door>,
+<firewall machine>, <Venus flytrap> and Clifford Stoll's account in `Cuckoo's
+Egg' of how he made and used one (see Appendix C). <ironmonger> [IBM] n. A
+hardware specialist. Derogatory. Compare <sandbender>, <polygon pusher>.
+<ITS> /ie-tee-ess/ n. Incompatible Time-Sharing System, an influential but
+highly idiosyncratic operating system written for PDP-10s at MIT and long
+used at the MIT AI lab; much AI-hacker slang derives from ITS folklore. After
+about 1982 most actual work was shifted to newer machines, with the remaining
+ITS boxes run essentially as a hobby and service to the hacker community. The
+shutdown of the lab's last ITS machine in May 1990 marked the end of an era
+and sent old-time hackers into mourning nationwide. The Royal Institute of
+Technology in Sweden is maintaining one `live' ITS site at its computer
+museum (right next to the only TOPS-10 system still on the Internet), so ITS
+is still alleged to hold the record for OS in longest continuous use. see
+Appendix A. <IWBNI> [acronym] It Would Be Nice If. No pronunciation, as this
+is never spoken, only written. Compare <WIBNI>. <IYFEG> [USENET] Abbreviation
+for `Insert Your Favorite Ethnic Group'. Used as a meta-name when telling
+racist jokes in email to avoid offending anyone. {= J =} <J. Random> /jay
+rand'm/ n. [generalized from <J. Random Hacker>, q.v.] Arbitrary; ordinary;
+any one; `any old'. "Would you let J. Random Loser marry your daughter?". <J.
+Random> is often prefixed to a noun to make a name out of it. It means
+roughly "some particular" or "any specific one". The most common uses are `J.
+Random Hacker, `J. Random Loser' and `J. Random Nerd' ("Should J. Random
+Loser be allowed to <gun> down other people?"), but it can be used just as an
+elaborate version of <random> in any sense. <J. Random Hacker> [MIT] /jay
+rand'm hak'r/ n. A mythical figure like the Unknown Soldier; the archetypal
+hacker nerd. see <random>, <Suzie COBOL>. This may originally have been
+inspired or influenced by `J. Fred Muggs', a show-biz chimpanzee whose name
+was a household word back in the days of the MIT Model Railroad Club.
+<jaggies> /jag'eez/ n. The `stairstep' effect observable when an edge (esp. a
+linear edge of slope far from a multiple of 45 degrees) is rendered on a
+pixel device (as opposed to a vector display). <JCL> [ex-IBM] 1. IBM's
+ultimately <rude> "Job Control Language". JCL was the script language used to
+control the execution of programs in IBM's batch systems. JCL had a very
+<fascist> syntax, and would, for example, <barf> if two spaces appeared where
+it expected one. Most programmers who were confronted with JCL would simply
+copy a working file (or card deck), changing the file names. Someone who
+actually understood and generated unique JCL was regarded with the mixed
+respect which one gives to someone who memorizes the phone book. 2. Any very
+<rude> software that a hacker is expected to use. "That's as bad as JCL."
+Often used without having experienced it, as is <COBOL>. see also <IBM>,
+<fear and loathing>. <JFCL> /jif'kl/ or /jaf'kl/ vt., obs. To cancel or annul
+something. "Why don't you jfcl that out?" The fastest do-nothing instruction
+on the PDP-10 happened to be JFCL, which stands for "Jump if Flag set and
+then CLear the flag"; this does something useful, but is a very fast
+no-operation if no flag is specified. Geoff Goodfellow, one of the jargon-1
+coauthors, once had JFCL on the license plate of his BMW. Usage: rare except
+among old-time PDP-10 hackers. <jiffy> n. 1. The width of one tick of the
+system clock on the computer (see <tick>). Often 1 AC cycle time (1/60 second
+in the U.S. and Canada, 1/50 most other places) but more recently 1/100 sec
+has become common. 2. Confusingly, the term is sometimes also used for a
+1-millisecond <wall time> interval. "The swapper runs every six jiffies"
+means that the virtual memory management routine is executed once for every
+six ticks of the clock, or about ten times a second. 3. Indeterminate time
+from a few seconds to forever. "I'll do it in a jiffy" means certainly not
+now and possibly never. This is a bit contrary to the more widespread use of
+the word. <job security> n. When some piece of code is written in a
+particularly <obscure> fashion, and no good reason (such as time or space
+optimization) can be discovered, it is often said that the programmer was
+attempting to increase his job security. This sour joke seldom has to be said
+in full; if two hackers are looking over some code together and one points at
+a section and says `job security' the other one will generally just nod.
+<jock> n. 1. Programmer who is characterized by large and somewhat brute
+force programs. see <brute force>. 2. When modified by another noun,
+describes a specialist in some particular computing area. The compounds
+`compiler jock' and `systems jock' seem to be the best established examples
+of this. <joe code> /joh' kohd`/ [said to commemorate a notoriously bad coder
+named Joe at Lawrence Berkeley Laboratory] n. Badly written, possibly buggy
+source code. Correspondents wishing to remain anonymous have fingered a
+particular Joe and observed that usage has drifted slightly; they described
+his code as "overly <tense> and unmaintainable". "Perl may be a handy
+program, but if you look at the source, it's complete joe code." <JR[LN]>
+/jay ahr en/, /jay ahr el/ n. The names JRN and JRL were sometimes used as
+example names when discussing a kind of user ID used under <TOPS-10>; they
+were understood to be the initials of (fictitious) programmers named `J.
+Random Nerd' and `J. Random Loser' (see <J. Random>). For example, if one
+said "To log in, type log one comma jay are en" (that is, "log1,JRN"), the
+listener would have understood that he should use his own computer id in
+place of `JRN'. {= K =} <K> [from <kilo->] /kay/ n. A kilobyte. This is used
+both as a spoken word and a written suffix (like <meg> and <gig> for megabyte
+and gigabyte). Also written KB, MB, GB respectively (the formal SI prefix
+corresponding to KB would be kB, denoting 1000-byte units). see also <kilo->.
+<K&R> [Kernighan and Ritchie] n. Brian Kernighan & Dennis Ritchie's `The C
+Programming Language', esp. the classic and influential first edition
+(Prentice-Hall 1978, ISBN 0-113-110163-3). Also called the <White Book>. Syn.
+<Wite Book>, <Old Testament>. see also <New Testament> <kahuna> /k@-hoo'nuh/
+[IBM, from the Hawaiian title for a shaman] n. Synonym for <wizard>, <guru>.
+<ken> /ken/ n. A flaming user. This noun was in use by the Software Support
+group at Symbolics because the two greatest flamers in the user community
+were both named Ken. <kgbvax> /kay-jee-bee-vaks/ n. see <kremvax>. <kill
+file> [USENET] n. Per-user file(s) used by some <USENET> reading programs to
+discard summarily (without presenting for reading) articles which match some
+particularly uninteresting (or unwanted) patterns of subject, author, or
+other header lines. Thus to "add a person (or subject) to one's kill file" is
+to arrange for that person to be ignored by your newsreader in future. By
+extension, it may be used for a decision to ignore the person or subject in
+other media. <killer micro> [popularized by Eugene Brooks] n. A
+microprocessor-based machine that infringes on mini, mainframe or
+supercomputer performance turf. Often heard in "No one will survive the
+attack of the killer micros!", the battle cry of the downsizers. Used esp. of
+RISC architectures. <killer poke> n. A recipe for inducing hardware damage on
+a machine via insertion of invalid values in a memory-mapped control
+register; used esp. of various fairly well-known tricks on MMU-less <bitty
+boxes> like the IBM PC and Commodore PET that can overload and trash analog
+electronics in the monitor. see also <HCF>. <kilo-> [from metric measure]
+prefix. May denote multiplication by 1024, the power of 2 closest to 1000,
+rather than by the usual 1000. The correct prefix for multiplication by 1000
+is `k'; `K' has come to be used for multiplication by 1024. Similarly the
+higher metric prefixes denote multiplication by powers of 1024 rather than of
+1000: mega- for 1024 ^ 2 = 1,048,576, <giga-> for 1024 ^ 3 = 1,073,741,824,
+tera- meaning 1024 ^ 4 = 1,099,511,627,776, <peta-> meaning 1024 ^ 5 =
+1,125,899,906,842,624, and <exa-> for 1024 ^ 6 = 1,152,921,504,606,846,976.
+The last two have not actually been observed, yet. Usage: the power-of-two
+sense is used especially with bytes, but also with anything else perceived to
+naturally come in units that are powers of 2. Confusion of 1000 and 1024, for
+example describing memory in units of 500K or 524K (see K) instead of 512K,
+is a sure sign of the <marketroid>. <KIPS> [acronym, by analogy with <MIPS>
+using <K>] n. Thousands of Instructions Per Second. Usage: rare. <kit>
+[USENET] n. A source software distribution which has been packaged in such a
+way that it can (theoretically) be unpacked and installed according to a
+series of steps using only standard UNIX tools, and entirely documented by
+some reasonable chain of references from the top-level <README>. The more
+general term <distribution> may imply that special tools or more stringent
+conditions on the host environment are required. <kluge> /klooj/ alt. kludge
+/kluhj/ [from the German "klug", clever] (/klooj/ is the original
+pronunciation, more common in the US; /kluhj/ is reported more common in
+England). n. 1. A Rube Goldberg (or Heath Robinson) device in hardware or
+software. (A long-ago Datamation article said: "An ill-assorted collection of
+poorly matching parts, forming a distressing whole.") 2. n. A clever
+programming trick intended to solve a particular nasty case in an expedient,
+if not clear, manner. Often used to repair bugs. Often involves <ad-hockery>
+and verges on being a <crock>. 3. Something that works for the wrong reason.
+4. vt. To insert a kluge into a program. "I've kluged this routine to get
+around that weird bug, but there's probably a better way." Also "kluge up";
+"I've kluged up this routine...,etc." . 5. <kluge around>: To avoid by
+inserting a kluge. 6. [WPI] A feature which is implemented in a <rude>
+manner. Note that a plurality of hackers pronounce this word /klooj/ but
+spell it incorrectly as `kludge'. Some observers consider this appropriate in
+view of its meaning. <KISS Principle> n. "Keep It Simple, Stupid". A maxim
+often invoked when discussing design to fend off <creeping featuritis> and
+control development complexity. Possibly related to the <marketroid> maxim on
+sales presentations, "Keep It Short and Simple". <Knights of the Lambda
+Calculus> n. A semi-mythical organization of wizardly LISP and Scheme hackers
+(the name refers to a mathematical formalism invented by Alonzo Church with
+which LISP is intimately connected). There is no enrollment list and the
+criteria for induction are unclear, but one well-known LISPer has been known
+to give out buttons and, in general, the *members* know who they are...
+<Knuth> [Donald Knuth's `The Art of Computer Programming'] n. The reference
+that answers all questions about data structures or algorithms. A safe answer
+when you do not know, as in "I think you can find that in Knuth." Contrast
+<literature, the>. see also <bible>. <kremvax> /krem-vaks/ [From the then
+large number of <USENET> <VAXen> with names of the form `foovax'] n. A
+fictitious USENET site at the Kremlin, announced on April 1, 1984, in a
+posting ostensibly from Soviet leader Konstantin Chernenko. The posting was
+actually forged by Piet Beertema as an April Fool's joke. Other sites
+mentioned in the hoax were moskvax and <kgbvax>, which now seems to be the
+one by which it is remembered. This was probably the funniest of the many
+April Fool's forgeries perpetrated on USENET (which has negligible security
+against them), because the notion that USENET might ever penetrate the Iron
+Curtain seemed so totally absurd at the time. In fact, it was only 6 years
+later that the first genuine site in Moscow, demos.su, joined USENET. Some
+readers needed convincing that it wasn't another prank. Vadim Antonov
+(avg@hq.demos.su), the major poster from Moscow up to at least the end of
+1990, was quite aware of all this, referred to it frequently in his own
+postings, and at one point twitted some credulous readers by blandly
+`admitting' that he *was* a hoax! [Mr. Antonov, also contributed the
+Russian-language material for this File --- ESR] {= L =} <lace card> n. obs.
+A Hollerith card with all holes punched (also called a <whoopee card>). Card
+readers jammed when they got to one of these, as the resulting card had too
+little structural strength to avoid buckling inside the mechanism. Card
+punches could also jam trying to produce these things due to power-supply
+problems. When some practical joker fed a <lace card> through the reader you
+needed to clear the jam with a "card knife" --- which you used on the joker
+first. <language lawyer> n. A person, usually an experienced or senior
+software engineer, who is intimately familiar with many or most of the
+numerous syntactic and semantic restrictions (both useful and esoteric)
+applicable to one or more computer programming languages. Compare <wizard>,
+<legal>, <legalese>. <languages of choice> n. C and LISP. Essentially all
+hackers know one of these and most good ones are fluent in both. Smalltalk
+and Prolog are popular in small but influential communities. Assembler used
+to be a language of choice, but is generally no longer considered interesting
+or appropriate for anything but compiler code generation and a few
+time-critical uses in systems programs. There is also a rapidly dwindling
+category of older hackers with FORTRAN as their language of choice; they
+often prefer to be known as <real programmer>s, and other hackers consider
+them a bit odd. see `The Story of Mel, a Real Programmer' in Appendix A for
+another view of what constitutes a "real programmer". Most hackers tend to
+frown at languages like Pascal and Ada which don't give them the near-total
+freedom considered necessary for hacking (see <bondage-and-discipline
+language>) and to regard everything that's even remotely connected with
+<COBOL> or other traditional <card-walloper> languages as a total <loss>.
+<larval stage> n. Describes a period of monomaniacal concentration on coding
+apparently passed through by all fledgling hackers. Common symptoms include:
+the perpetration of more than one 36-hour <hacking run> in a given week,
+neglect of all other activities including usual basics like food and sex, and
+a chronic case of advanced bleary-eye. Can last from six months to two years,
+with the apparent median being around eighteen months. A few so afflicted
+never resume a more `normal' life, but the ordeal seems to be necessary to
+produce really wizardly (as opposed to merely competent) programmers. see
+also <wannabee>. A less protracted and intense version of larval stage
+(typically lasting about a month) may recur when learning a new <OS> or
+programming language. <lase> /layz/ vt. To print a given document via a laser
+printer. "OK, let's lase that sucker and see if all those graphics-macro
+calls did the right things." <laser chicken> n. Kung Pao Chicken, a standard
+Chinese dish containing chicken, peanuts, and hot red peppers in a spicy
+pepper-oil sauce. A few hackers call it "laser chicken" for two reasons; it
+can <zap> you just like a laser, and the pepper-oil sauce has a red color
+reminiscent of some laser beams. In a variation on this theme, it is reported
+that one group of Australian hackers have redesignated the common dish `lemon
+chicken' as "Chernobyl Chicken". The name is derived from the color of the
+dish, which is considered bright enough to glow in the dark (much like some
+of the fabled inhabitants of Chernobyl). <LDB> /l@d'd@b/ [from the PDP-10
+instruction set] vt. To extract from the middle. This usage has been kept
+alive by Common LISP's function of the same name. see also <DPB>. <leaf site>
+n. A machine which merely originates and reads USENET new or mail, and does
+not relay any third-party traffic. Often uttered in a critical tone; when the
+ratio of leaf sites to backbone, rib and other relay sites gets too high, the
+network tends to develop bottlenecks. Compare <backbone site>, <rib site>.
+<leak> n. With qualifier, one of a class of resource-management bugs that
+occur when resources are not freed properly after operations on them are
+finished, leading to eventual exhaustion as new allocation requests come in.
+<memory leak> and <fd leak> have their own entries; one might also refer,
+say, to a `window handle leak' in a window system. <leaky heap> [Cambridge]
+n. Syn. <memory leak>. <legal> adj. Loosely used to mean `in accordance with
+all the relevant rules', esp. in connection with some set of constraints
+defined by software. Thus one very frequently hears constructions like `legal
+syntax', `legal input' etc. Hackers often model their work as a sort of game
+played with the environment in which the objective is to maneuver through the
+thicket of `natural laws' to achieve a desired objective. Their use of
+`legal' is flavored by this game-playing sense rather than the more
+conventional one having to do with courts and lawyers. Compare <language
+lawyer>, <legalese>. <legalese> n. Dense, pedantic verbiage in a language
+description, product specification or interface standard; text that seems
+designed to obfuscate and requires a <language lawyer> to <parse> it. While
+hackers are not afraid of information density and complexity in language
+(indeed, they rather enjoy both), they share a deep and abiding loathing for
+legalese; they associate it with deception, <suits>, and situations in which
+hackers generally get the short end of the stick. <LERP> /lerp/ vi.,n.
+Quasi-acronym for Linear Interpolation, used as a verb or noun for the
+operation. Ex. Bresenham's algorithm lerps incrementally between the two
+endpoints of the line. <lexer> /lek'sr/ n. Common hacker shorthand for
+"lexical analyzer", the input-tokenizing stage in the parser for a language.
+"Some C lexers get confused by the old-style compound ops like `=-'". <life>
+n. 1. A cellular-automata game invented by John Horton Conway, and first
+introduced publicly by Martin Gardner (Scientific American, October 1970).
+Many hackers pass through a stage of fascination with it, and hackers at
+various places contributed heavily to the mathematical analysis of this game
+(most notably Bill Gosper at MIT; see <Gosperism>). When a hacker mentions
+`life', he is much more likely to mean this game than the magazine, the
+breakfast cereal, or the human state of existence. 2. The opposite of
+<USENET>. As in <Get a life!>. <light pipe> n. Fiber optic cable. Oppose
+<copper>. <like kicking dead whales down the beach> adj. A slow and
+disgusting process. First popularized by a famous quote about the difficulty
+of getting work done under one of IBM's mainframe OSs. "Well, you *could*
+write a C compiler in COBOL, but it would be like kicking dead whales down
+the beach." <line eater, the> [USENET] n. 1. A bug in some now-obsolete
+versions of the netnews software used to eat up to 512 bytes of the article
+text. The bug was triggered by having the text of the article start wih a
+space or tab. This bug was quickly personified as a mythical creature called
+the "line eater", and postings often included a dummy line of "line eater
+food". Ironically, line eater food not preceded by whitespace wasn't actually
+eaten, since the bug was avoided; but if there <was> whitespace before it,
+then the line eater would eat the food <and> the beginning of the text which
+it was supposed to be protecting. The practice of "sacrificing to the line
+eater" continued for some time after the bug had been <nailed to the wall>,
+and is still humorously referred to. The bug itself is still (in mid-1990)
+occasionally reported to be lurking in some mail-to-netnews gateways. 2. see
+<NSA line eater>. <line starve> [MIT] 1. vi. To feed the paper through the
+terminal the wrong way by one line (most terminals can't do this!). On a
+display terminal, to move the cursor up to the previous line of the screen.
+Example: "To print X squared, you just output X, line starve, 2, line feed."
+(The line starve causes the 2 to appear on the line above the X, and the line
+feed gets back to the original line.) 2. n. A "character" (or character
+sequence) that causes a terminal to perform this action. Unlike "line feed",
+"line starve" is *not* standard ASCII terminology. Even among hackers it is
+considered a bit silly. 3. [proposed] A sequence like \c (used in System V
+echo, as well as nroff/troff) which suppresses a <newline> or other
+character(s) that would normally implicitly be emitted. <link> n. A network
+connection between two machines. Usage: "Is that link down again?"
+<link-dead> [popularized by MUD] adj. 1. A lost Telnet/MUD connection. v. 2.
+A deliberate act, with ulterior motives, to close a connection. <link farm>
+[UNIX] n. A directory tree that contains many links to files in another,
+master directory tree of files. Link farms save space when maintaining
+several nearly identical copies of the same source tree, e.g. when the only
+difference is architecture-dependent object files. Example use: "Let's freeze
+the source and then rebuild the FROBOZZ-3 and FROBOZZ-4 link farms." Link
+farms may also be used to get around restrictions on the number of -I
+arguments on older C preprocessors. <lint> [from UNIX's `lint(1)', named
+perhaps for the bits of fluff it picks from programs] 1. vt. To examine a
+program closely for style, language usage, and portability problems, esp. if
+in C, esp. if via use of automated analysis tools, most esp. if the UNIX
+utility `lint(1)' is used. This term used to be restricted to use of
+`lint(1)' itself but (judging by references on USENET) has become a shorthand
+for `desk-check' at some non-UNIX shops, even in some languages other than C.
+see also <delint>. 2. Excess verbiage in a document, as in "this draft has
+too much lint". <lion food> [IBM] n. Middle management or HQ staff (by
+extension, administrative drones in general). From an old joke about two
+lions who, escaping from the zoo, split up to increase their chances but
+agreed to meet after two months. When they do meet, one is skinny and the
+other overweight. The thin one says "How did you manage? I ate a human just
+once and they turned out a small army to chase me --- guns, nets, it was
+terrible. Since then I've been reduced to eating mice, insects, even grass."
+The fat one replies "Well, *I* hid near an IBM office and ate a manager a
+day. And nobody even noticed!" <LISP> [from "LISt Processing language", but
+mythically from "Lots of Irritating Superfluous Parentheses"] n. The name of
+AI's mother tongue, a language based on the ideas of 1) variable-length lists
+and trees as fundamental data types, and 2) the interpretation of code as
+data and vice-versa. Invented by John McCarthy at Stanford in the late 1950s,
+it is actually older than any other <HLL> still in use except FORTRAN.
+Accordingly, it has undergone considerable adaptive radiation over the years;
+modern variants (of which Scheme is perhaps the most successful) are quite
+different in detail from the original LISP 1.5 at Stanford. The hands-down
+favorite of a plurality of hackers until the early 1980s, LISP now shares the
+throne with <C>. see <languages of choice>. <listing> n. A physical paper
+printout (as opposed to on-screen display) of program source, or of the
+results (interspersed with error and status messages) of a compilation or
+assembly run. What one grovels over when performing a <desk check>. Both the
+term `listing' and the thing it describes are now much less common than
+formerly, as modern time-sharing operating systems and powerful interactive
+editors have made it advantageous for hackers to do effectively all of their
+work on-line. <literature, the> n. Used to answer a question that the hearer
+believes is <trivial>, as in "It's in the literature." Oppose <Knuth>, which
+has no connotation of triviality. <little-endian> adj. Describes a computer
+architecture in which, within a given 16- or 32-bit word, lower byte
+addresses have lower significance (the word is stored `little-end-first').
+The PDP-11 and VAX families of computers and Intel microprocessors and a lot
+of communications and networking hardware are little-endian. see
+<big-endian>, <middle-endian>, <NUXI problem>. The term is sometimes used to
+describe the ordering of units other than bytes; most frequently these are
+bits within a byte. <Live Free Or Die!> imp. 1. The state motto of New
+Hampshire, which used to be on its care license plates. 2. A slogan
+associated with UNIX in the romantic days when UNIX aficionados saw
+themselves as a tiny, beleaguered underground tilting against the windmills
+of industry. The "free" referred specifically to freedom from the <fascist>
+design philosophies and crufty misfeatures common on commercial operating
+systems. Armando Stettner, one of the early UNIX developers, used to give out
+fake license plates bearing this motto under a large UNIX, all in New
+Hampshire colors of green and white. These are now valued collector's items.
+<livelock> n. A situation in which some critical stage of a task is unable to
+finish because its clients perpetually create more work for it to do after
+they've been serviced but before it can clear. Differs from <deadlock> in
+that the process is not blocked or waiting for anything, but has a virtually
+infinite amount of work to do and accomplishes nothing. <liveware> n. Synonym
+for <wetware> Less common. <lobotomy> n. 1. What a hacker subjected to formal
+management training is said to have undergone. At IBM and elsewhere this term
+is used by both hackers and low-level management; the latter doubtless intend
+it as a joke. 2. The act of removing the processor from a microcomputer in
+order to replace or upgrade it. Some very cheap <clone> systems are sold in
+`lobotomized' form --- everything but the brain. <locked and loaded> [fr.
+military slang for an M-16 with magazine inserted and prepared for firing]
+adj. Said of a removable disk volume properly prepared for use --- that is,
+locked into the drive and with the heads loaded. Ironically, because their
+heads are `loaded' whenever the power is up, this is never used of a
+<Winchester>. <locked up> adj. Syn. for <hung>, <wedged>. <logic bomb> n.
+Code surreptitiously inserted in an application or OS which causes it to
+perform some destructive or security-compromising activity whenever specified
+conditions are met. Compare <back door>. <logical> [from the technical term
+"logical device", wherein a physical device is referred to by an arbitrary
+name] adj. Understood to have a meaning not necessarily corresponding to
+reality. E.g., if a person who has long held a certain post (e.g., Les
+Earnest at SAIL) left and was replaced, the replacement would for a while be
+known as the "logical" Les Earnest. Compare <virtual>. This use of <logical>
+is an extension from its technical use in computer science. A program can be
+written to do input or output using a "logical device"; when the program is
+run, the user can specify which "physical" (actual) device to use for that
+logical device. For example, a program might write all its error messages to
+a logical device called ERROR; the user can then specify whether logical
+device ERROR should be associated to the terminal, a disk file, or the <bit
+bucket> (to throw the error messages away). Perhaps the word "logical" is
+used because even though a thing isn't the actual object in question, you can
+reason logically about the thing as if it were the actual object. At
+Stanford, `logical' compass directions denoted a coordinate system in which
+"logical north" is toward San Francisco, "logical west" is toward the ocean,
+etc., even though logical north varies between physical (true) north near San
+Francisco and physical west near San Jose. (The best rule of thumb here is
+that El Camino Real by definition always runs logical north-and-south.) In
+giving directions, one might say, "To get to Rincon Tarasco restaurant, get
+onto El Camino Bignum going logical north." Using the word `logical' helps to
+prevent the recipient from worrying about that the fact that the sun is
+setting almost directly in front of him. The concept is reinforced by North
+American highways which are almost, but not quite, consistently labelled with
+logical rather than physical directions. A similar situation exists at MIT.
+Route 128 (famous for the electronics industries that have grown up along it)
+is a three-quarters circle surrounding Boston at a radius of ten miles,
+terminating at the coastline at each end. It would be most precise to
+describe the two directions along this highway as being `clockwise' and
+`counterclockwise', but the road signs all say `north' and `south',
+respectively. A hacker would describe these directions as `logical north' and
+`logical south', to indicate that they are conventional directions not
+corresponding to the usual convention for those words. (If you went logical
+south along the entire length of route 128, you would start out going
+northwest, curve around to the south, and finish headed due east!) <loop
+through> vt. To process each element of a list of things. "Hold on, I've got
+to loop through my paper mail." Derives from the computer-language notion of
+an iterative loop; compare <cdr down> (which is less common among C and UNIX
+programmers). ITS hackers used to say "IRP through" after an obscure
+pseudo-op in the MIDAS PDP-10 assembler. <lord high fixer> [primarily
+British, prob. fr. Gilbert & Sullivan's `lord high executioner'] n. The
+person in an organization who knows the most about some aspect of a system.
+see <wizard>. <lose> [from MIT jargon] vi. 1. To fail. A program loses when
+it encounters an exceptional condition or fails to work in the expected
+manner. 2. To be exceptionally unesthetic. 3. Of people, to be obnoxious or
+unusually stupid (as opposed to ignorant). 4. <deserves to lose>: vi. Said of
+someone who willfully does the <wrong thing>; humorously, if one uses a
+feature known to be <marginal>. What is meant is that one deserves the
+consequences of one's <losing> actions. "Boy, anyone who tries to use
+<mess-dos> deserves to lose!" (ITS fans used to say this of UNIX; many still
+do) see also <screw>, <chomp>, <bagbiter>. 5. n. Refers to something which is
+<losing>, especially in the phrases "That's a lose!" or "What a lose!". <lose
+lose> interj. A reply or comment on an undesirable situation. "I accidentally
+deleted all my files!" "Lose lose." <loser> n. An unexpectedly bad situation,
+program, programmer, or person. Someone who habitually loses (even winners
+can lose occasionally). Someone who knows not and knows not that he knows
+not. Emphatic forms are "real loser", "total loser", and "complete loser"
+(but not "moby loser", which would be a contradiction in terms). see <luser>.
+<losing> adj. Said of anything which is or causes a <lose>. <loss> n.
+Something (not a person) which loses; a situation in which something is
+losing. Emphatic forms include "moby loss" "total loss", "complete loss".
+Common interjections are "What a loss!" and "What a moby loss!" Compare
+<lossage>. <lossage> /los'@j/ n. The result of a bug or malfunction. This is
+a collective noun. "What a loss!" and "What lossage!" are nearly synonymous
+remarks. The former is slightly more particular to the speaker's present
+circumstances while the latter implies a continuing lose of which the speaker
+is presently victim. Thus (for example) a temporary hardware failure is a
+loss, but bugs in an important tool (like a compiler) are serious lossage.
+<lost in the underflow> adj. Too small to be worth considering; more
+specifically, small beyond the limits of accuracy or measurement. This is a
+reference to a condition called "floating underflow" that can occur when a
+floating-point arithmetic processor tries to handle quantities smaller than
+its limit of accuracy. It is also a pun on `undertow' (a kind of fast, cold,
+current that sometimes runs just outshore of a beach and can be dangerous to
+swimmers). "Well, sure, photon pressure from the stadium lights alters the
+path of a thrown baseball, but that effect gets lost in the underflow." see
+also <overflow bit>. <lots of MIPS but no I/O> adj. Used to describe a person
+who is technically brilliant but can't seem to communicate with human beings
+effectively. Technically it describes a machine which has lots of processing
+power but is <bottlenecked> on I/O. <LPT> /lip'it/ [ITS] n. Line printer, of
+course. Rare under UNIX, commoner in hackers with MS-DOS or CP/M background
+(the printer device is called LPT: on those systems, which like ITS were
+strongly influenced by early DEC conventions). <lurker> n. One of the `silent
+majority' in a <USENET> or BBS newsgroup; one who posts occasionally or not
+at all but is known to read the group regularly. Often in "the lurkers", the
+hypothetical audience for the group's <flamage>-emitting regulars. <lunatic
+fringe> [IBM] n. Customers who can be relied upon to accept release 1
+versions of software. <luser> /loo'zr/ n. A <user> who is probably also a
+<loser>. (<luser> and <loser> are pronounced identically.) This word was
+coined about 1975 at MIT. Under ITS, when you first walked up to a terminal
+at MIT and typed Control-Z to get the computer's attention, it prints out
+some status information, including how many people are already using the
+computer; it might print "14 users", for example. Someone thought it would be
+a great joke to patch the system to print "14 losers" instead. There ensued a
+great controversy, as some of the users didn't particularly want to be called
+losers to their faces every time they used the computer. For a while several
+hackers struggled covertly, each changing the message behind the back of the
+others; any time you logged into the computer it was even money whether it
+would say "users" or "losers". Finally, someone tried the compromise
+`lusers', and it stuck. Later one of the ITS machines supported `luser' as a
+request-for-help command. ITS died in early 1990; the usage lives on,
+however, and the term `luser' is often seen in program comments. {= M =} <M>
+[from <mega->] /kay/ n. A megabyte (1024 bytes). Also written MB (this
+conflicts with use of M by scientists, under which MB would denote 1000-byte
+units). see also <kilo->. <macdink> /mak'dink/ [from the Apple Macintosh,
+which is said to encourage such behavior] vt. To make many incremental and
+unnecessary cosmetic changes to a program or file. Frequently the subject of
+the macdinking would be better off without them. Ex: "When I left at 11pm
+last night, he was still macdinking the slides for his presentation."
+<Macintrash> /mak'in-trash`/ The Apple Macintosh, as described by a hacker
+who doesn't appreciate being kept away from the *real computer* by the
+interface. see also <WIMP environment>, <drool-proof paper>, <user-friendly>.
+<macro> /mak'roh/ n. A name (possibly followed by a formal <arg> list) which
+is equated to a text expression to which it is to be expanded (possibly with
+substitution of actual arguments) by a language translator. This definition
+can be found in any technical dictionary; what those won't tell you is how
+the hackish connotations of the term have changed over time. The term `macro'
+originated in early assemblers, which encouraged use of macros as a
+structuring and information-hiding device. During the early 70s macro
+assemblers became ubiquitous and sometimes quite as powerful and expensive as
+HLLs, only to fall from favor as improving compiler technology marginalized
+assembler programming (see <languages of choice>). Nowadays the term is most
+often used in connection with the C preprocessor, LISP, or one of several
+special-purpose languages built around a macro-expansion facility (such as
+TeX or UNIX's nroff, troff and pic suite). Indeed, the meaning has drifted
+enough that the collective `macros' is now sometimes used for code in any
+special-purpose application-control language (whether or not the language is
+actually translated by text expansion) as well as other `expansions' such as
+the `keyboard macros' supported in some text editors (and PC TSR keyboard
+enhancers). <macro-> pref. Large. Opposite of <micro->. In the mainstream and
+among other technical cultures (for example, medical people) this competes
+with the prefix <mega->, but hackers tend to restrict the latter to
+quantification. <machoflops> /mach'oh-flops/ [pun on "megaflops", a coinage
+for `millions of floating-point operations per second'] n. Refers to
+artificially inflated performance figures often quoted by computer
+manufacturers. Real applications are lucky to get half the quoted speed. see
+<Your mileage may vary.>, See <benchmark>. <macrology> /mak-ro'l@-jee/ n. Set
+of usually complex or crufty macros, e.g. as part of a large system written
+in LISP, <TECO> or (less commonly) assembler. Sometimes studying the
+macrology of a system is not unlike archeology, <ecology> and <theology>,
+hence the sound-alike construction. <macrotape> /ma'kroh-tayp/ n. An industry
+standard reel of tape, as opposed to a <microtape>. <magic> adj. 1. As yet
+unexplained, or too complicated to explain; compare <automagically> and
+(Arthur C.) Clarke's Third Law: "Any sufficiently advanced technology is
+indistinguishable from magic". "TTY echoing is controlled by a large number
+of magic bits." "This routine magically computes the parity of an eight-bit
+byte in three instructions." 2. Characteristic of something that works but no
+one really understands why. 3. [Stanford] A feature not generally publicized
+which allows something otherwise impossible, or a feature formerly in that
+category but now unveiled. Example: The keyboard commands which override the
+screen-hiding features. <magic cookie> [UNIX] n. 1. Something passed between
+routines or programs that enables the receiver to perform some operation; a
+capability ticket or opaque identifier. Especially used of small data objects
+which contain data encoded in a strange or intrinsically machine-dependent
+way. For example, on non-UNIX OSs with a non-byte-stream model of files, the
+result of `ftell(3)' may be a magic cookie rather than a byte offset; it can
+be passed to `fseek(3)' but not operated on in any meaningful way. The phrase
+"It hands you a magic cookie" means it returns a result whose contents are
+not defined but which can be handed back to the same program later to refer
+back to this transaction. 2. An in-band code for changing graphic rendition
+(i.e. inverse video or underlining) or performing other control functions.
+Some older terminals would leave a blank on the screen corresponding to
+mode-change cookies; this was also called a <glitch>. see also <cookie>.
+<magic number> [UNIX/C] n. 1. Special data located at the beginning of a
+binary data file to indicate its type to a utility. Under UNIX the system and
+various applications programs (especially the linker) distinguish between
+types of executable by looking for a magic number. Only a <wizard> knows the
+magic to create magic numbers. How do you create a magic number that nobody
+else is using? Simple --- you pick one at random. see? It's magic! 2. In
+source code, some non-obvious constant whose value is significant to the
+operation of a program and which is inserted inconspicuously in line, rather
+than expanded in by a symbol set by a commented #define. Magic numbers in
+this sense are bad style. <magic smoke> n. A notional substance trapped
+inside IC packages that enables them to function (also called "blue smoke").
+Its existence is demonstrated by what happens when a chip burns up --- the
+magic smoke gets let out, so it doesn't work any more. see <smoke test>.
+<mailing list> n. (often shortened to "list") 1. An <email> address which is
+an alias for many other email addresses. 2. The people who receive your email
+when you send it to such and address. Mailing lists are one of the primary
+forms of hacker interaction, along with <USENET>. They predate USENET, and
+originated with the first UUCP and ARPANet connections. They are often used
+for private information-sharing on topics that would be too specialized for
+or inappropriate in public USENET groups. While some of these maintain purely
+technical content (such as the Internet Engineering Task Force mailing list),
+others (like the `sf-lovers' list maintained for many years by Saul Jaffe)
+are recreational, and others are purely social. Perhaps the most infamous of
+the social lists was the eccentric `bandykin' distribution; its latter-day
+progeny, `lectroids' and `tanstaafl' still include a number of the oddest and
+most interesting people in hackerdom. Mailing lists are easy to create and
+(unlike USENET) don't tie up a significant amount of machine resources. Thus,
+they are often created temporarily by working groups who can collaborate on a
+project without ever needing to meet face-to-face. Much of the material in
+this book was criticized and polished on just such a mailing list (called
+`jargon-friends') which included all the cauthors of the original `The
+Hacker's Dictionary'. <main loop> n. Software tools are often written to
+perform some action repeatedly on whatever input is handed to them,
+terminating when there is no more input or they are explicitly told to go
+away. In such programs, the loop that gets and processes input is called the
+"main loop". see also <driver>. <mainframe> n. This term originally referred
+to the central processor unit cabinet or `main frame' of a room-filling
+<Stone Age> batch machine. After the emergence of smaller `minicomputer'
+designs in the early Seventies, the traditional <big iron> machines were
+described as `mainframe computers' and eventually just as mainframes. The
+term carries the implication of a machine designed for batch rather than
+interactive use, though possibly with an interactive timesharing operating
+system retrofitted onto it; it is especially used of machines built by IBM,
+Sperry Univac, Unisys and the other great megatheria surviving from
+computing's Pleistocene. Outside the tiny market for specialized
+number-crunching supercomputers (see <cray>) it is common wisdom among
+hackers that the mainframe architectural tradition is essentially dead now,
+swamped by the huge advances in IC technology and `personal' lower-cost
+computing. As of 1991 corporate America hasn't quite figured this out yet,
+though the wave of failures, takeovers and mergers among traditional
+mainframe makers are certainly straws in the wind. see also <dinosaur>.
+<management> n. 1. Corporate power elites distinguished primarily by their
+distance from actual productive work and their chronic failure to manage (see
+also <suit>). Spoken derisively, as in "*Management* decided that..." 2.
+Mythically, a vast bureaucracy responsible for all the world's minor
+irritations. Hackers' satirical public notices are often signed "The Mgmt".
+<manged> /mahnjed/ [probably from the French manger, to eat]. Refers to
+anything that is mangled or damaged, usually beyond repair. "The disk was
+manged after the electrical storm." <mangle> vt. Used similarly to <mung> or
+<scribble>, but more violent in its connotations; something that is mangled
+has been irreversibly and totally trashed. <mangler> [DEC] n. A manager.
+Compare <mango>; see also <management>. Note that <system mangler> is somwhat
+different in connotation. <mango> /mang'go/ [orig. in-house slang at
+Symbolics] n. A manager. Compare <mango>. see also <devo> and <doco>.
+<marginal> adj. 1. Extremely small. "A marginal increase in core can decrease
+<GC> time drastically." In everyday terms, this means that it's a lot easier
+to clean off your desk if you have a spare place to put some of the junk
+while you sort through it. 2. Of extremely small merit. "This proposed new
+feature seems rather marginal to me." 3. Of extremely small probability of
+winning. "The power supply was rather marginal anyway; no wonder it fried."
+4. <marginally>: adv. Slightly. "The ravs here are only marginally better
+than at Small Eating Place." see <epsilon>. 5. <marginal hacks>: n. Margaret
+Jacks Hall, a building into which the Stanford AI Lab was moved near the
+beginning of the '80s. <marketroid> /mar'k@-troyd/ alt. <marketing slime>,
+<marketing droid>, <marketeer> n. Member of a company's marketing department,
+esp. one who promises users that the next version of a product will have
+features which are unplanned, extremely difficult to implement, and/or
+violate the laws of physics; and/or one who describes existing features (and
+misfeatures) in ebullient, buzzword-laden adspeak. Derogatory. Used by
+techies. <martian> n. A packet sent on a TCP/IP network with a source address
+of the test loopback interface (127.0.0.1). As in "The domain server is
+getting lots of packets from Mars. Does that gateway have a martian filter?"
+<massage> vt. Vague term used to describe `smooth' transformations of a data
+set into a more useful form, esp. transformations which do not lose
+information. Connotes less pain than <munch> or <crunch>. "He wrote a program
+that massages X bitmap files into GIF format." Compare <slurp>. <math-out>
+[poss. fr. `white-out'] n. A paper or presentation so encrusted with
+mathematical or other formal notation as to be incomprehensible. This may be
+a device for concealing the fact that it is actually <content-free>. see also
+<numbers>, <social science number>. <Matrix> [Fidonet] n. What the Opus BBS
+software and sysops call <Fidonet>. <Mbogo, Dr. Fred> [Stanford] n. The
+archetypal man you don't want to see about a problem, esp. an incompetent
+professional; a shyster. Usage: "Do you know a good eye doctor?" "Sure, try
+Mbogo Eye Care and Professional Dry Cleaning." The name comes from synergy
+between <bogus> and the original Dr. Mbogo, a witch doctor who was Gomez
+Addams' physician on the old `Addams Family' TV show. <meatware> n. Synonym
+for <wetware>. Less common. <meg> /meg/ n. A megabyte; 1024K. see <K>.
+<mega-> /me'g@/ pref. Multiplier, 10 ^ 6 or 2 ^ 10. see <kilo->. <megapenny>
+/meg'@-pen'ee/ n. $10,000 (1 cent * 10e6). Used semi-humorously as a unit in
+comparing computer cost/performance figures. <MEGO> /me'goh/ or /mee'goh/ [My
+Eyes Glaze Over, often Mine Eyes Glazeth Over, attributed to the futurologist
+Herman Kahn] Also "MEGO factor". 1. Handwaving intended to confuse the
+listener and hopefully induce agreement because the listener does not want to
+admit to not understanding what is going on. MEGO is usually directed at
+senior management by engineers and contains a high proportion of <TLA>s. 2.
+excl. An appropriate response to MEGO tactics. <meltdown, network> n. A state
+of complete network overload; the network equivalent of <thrash>ing. see also
+<broadcast storm>. <meme> /meem/ [coined on analogy with "gene" by Richard
+Dawkins] n. An idea considered as a <replicator>. Used esp. in the phrase
+"meme complex" denoting a group of mutually supporting memes which form an
+organized belief system, such as a religion. This dictionary is a vector of
+the "hacker subculture" meme complex; each entry might be considered a meme.
+However, "meme" is often misused to mean "meme complex". Use of the term
+connotes acceptance of the idea that in humans (and presumably other tool-and
+language-using sophonts) cultural evolution by selection of adaptive ideas
+has superseded biological evolution by selection of hereditary traits.
+Hackers find this idea congenial for tolerably obvious reasons. <meme plague>
+n. The spread of a successful but pernicious <meme>, esp. one which
+`parasitizes' the victims into giving their all to propagate it. Astrology,
+BASIC, and the other guy's religion are often considered to be examples. This
+usage is given point by the historical fact that `joiner' ideologies like
+Naziism or various forms of millenarian Christianity have exhibited
+plague-like cycles of exponential growth followed by collapse to small
+reservoir populations. <memetics> /m@-met-iks/ [from <meme>] The study of
+memes. As of 1990, this is still an extremely informal and speculative
+endeavor, though the first steps towards at least statistical rigor have been
+made by H. Keith Henson and others. Memetics is a popular topic among
+hackers, who like to see themselves as the architects of the new information
+ecologies in which memes live and replicate. <memory leak> [C/UNIX
+programmers] n. An error in a program's dynamic-store allocation logic that
+causes it to fail to reclaim discarded memory, leading to attempted hogging
+of main store and eventual collapse due to memory exhaustion. Also (esp. at
+CMU) called <core leak>. see <aliasing bug>, <fandango on core>, <smash the
+stack>, <precedence lossage>, <overrun screw>, <leaky heap>. <menuitis>
+/men`yoo-ie'tis/ n. Notional disease suffered by software with an obsessively
+simple-minded menu interface and no escape. Hackers find this intensely
+irritating and much prefer the flexibility of command-line or language-style
+interfaces, especially those customizable via macros or a special-purpose
+language in which one can encode useful hacks. see <user-obsequious>,
+<drool-proof paper>, <WIMP environment>. <mess-dos> /mes-dos/ [UNIX hackers]
+n. Derisory term for MS-DOS. Often followed by the ritual expurgation "Just
+Say No!". see MS-DOS. Most hackers (even many MS-DOS hackers) loathe MS-DOS
+for its single-tasking nature, its limits on application size, its nasty
+primitive interface, and its ties to IBMness (see <fear and loathing>). Also
+"mess-loss", "messy-dos", "mess-dog", "mess-dross" and various combinations
+thereof. <meta> /me't@/ or /may't@/ or (Commonwealth) /mee't@/ [from analytic
+philosophy] adj. One level of description up. Thus, a meta-syntactic variable
+is a variable in notation used to describe syntax and meta-language is
+language used to describe language. This is difficult to explain out of
+context, but much hacker humor turns on deliberate confusion between
+meta-levels. see HUMOR, HACKER. <meta bit> /meta@ bit/ or /mayt'@ bit/ n. Bit
+8 of an 8-bit character, on in values 128-255. Also called <high bit> or <alt
+bit>. Some terminals and consoles (especially those designed for LISP
+traditions) have a META shift key. Others (including, *mirabile dictu*,
+keyboards on IBM PC-class machines) have an ALT key. see also <bucky bits>.
+<mickey> n. The resolution unit of mouse movement. In <OS/2> there is a
+system call `MouGetNumMickeys()'. It has been suggested that the "disney"
+will become a benchmark unit for animation graphics performance. <micro->
+pref. 1. Very small (this is the root of its use, as a quantifier prefix
+meaning `multiply by `10 ^ -6"). Nether of these uses is peculiar to hackers,
+but hackers tend to fling them both around rather more freely than is
+countenanced in standard English. It is recorded, for example, that one CS
+professor used to characterize the standard length of his lectures as a
+microcentury --- that is, about 52.6 minutes (see also <nanoacre>). 2.
+Personal or human-scale --- that is, capable of being maintained or
+comprehended or manipulated by one human being. This sense is generalized
+from "microcomputer", and esp. used in contrast with "macro-" (Greek prefix
+meaning large). 3. Local as opposed to global (<macro->). Thus a hacker might
+say, for example, that buying a smaller car to reduce pollution only solves a
+microproblem; the macroproblem of getting to work might be better solved by
+using transit, moving to within walking distance, or telecommuting.
+<microfloppies> n. 3-1/2 inch floppies, as opposed to 5-1/4 <vanilla> or
+mini-floppies and the now-obsolescent 8-inch variety. This term may be headed
+for obsolescence as 5-1/4 inchers pass out of use, only to be revived if
+anybody floats a sub-3-inch floppy standard. see <stiffy>. <microtape> n.
+Occasionally used to mean a DECtape, as opposed to a <macrotape>. A DECtape
+is a small reel of magnetic tape about four inches in diameter and an inch
+deep. Unlike normal drivers for standard magnetic tapes, microtape drivers
+allow random access to the data. In their heyday they were used in pretty
+much the same ways one would now use a floppy disk: as a small, portable way
+to save and transport files and programs. Apparently the term "microtape" was
+actually the official term used within DEC for these tapes until someone
+consed up the word "DECtape", which of course sounded sexier to the
+<marketroid> types. <middle-endian> adj. Not <big-endian> or <little-endian>.
+Used of byte orders like 3-4-1-2 occasionally found in the packed-decimal
+formats of minicomputer manufacturers who shall remain nameless.
+<millilampson> /mil'i-lamp`sn/ n. How fast people can talk. Most people run
+about 200 millilampsons. Butler Lampson (a CS theorist and systems
+implementor highly regarded among hackers) goes at 1000. A few people speak
+faster. <MIPS> /mips/ [acronym] n. 1. A measure of computing speed; formally,
+"Million Instructions Per Second"; often rendered by hackers as "Meaningless
+Indication of Processor Speed". This joke expresses a nearly universal
+attitude about the value of <benchmark> claims, said attitude being one of
+the great cultural divides between hackers and <marketroid>s. 2. The
+corporate name of a particular RISC-chip company; among other things, they
+designed the processor chips used in DEC's 3100 workstation series. <misbug>
+/mis-buhg/ [MIT] n. An unintended property of a program that turns out to be
+useful; something that should have been a <bug> but turns out to be a
+<feature>. Usage: rare. <misfeature> /mis-fee'chr/ n. A feature which
+eventually screws someone, possibly because it is not adequate for a new
+situation which has evolved. It is not the same as a bug because fixing it
+involves a gross philosophical change to the structure of the system
+involved. A misfeature is different from a simple unforeseen side effect; the
+term implies that the misfeature was actually carefully planned to be that
+way, but future consequences or circumstances just weren't predicted
+accurately. This is different from just not having thought ahead about it at
+all. Often a former feature becomes a misfeature because a tradeoff was made
+whose parameters subsequently changed (possibly only in the judgment of the
+implementors). "Well, yeah, it's kind of a misfeature that file names are
+limited to six characters, but the original implementors wanted to save
+directory space and we're stuck with it for now." <miswart> /mis-wort/ [from
+<wart> by analogy with <misbug>] n. A <feature> which appears to be a <wart>
+but has been determined to be the <Right Thing>. For example, in some
+versions of the <EMACS> text editor, the `transpose characters' command
+exchanges the two characters on either side of the cursor on the screen,
+*except* when the cursor is at the end of a line, in which case the two
+characters before the cursor are exchanged. While this behavior is perhaps
+surprising, and certainly inconsistent, it has been found through extensive
+experimentation to be what most users want. This feature is a miswart.
+<Missed'em-five> n. Pejorative hackerism for AT&T System V UNIX, generally
+used by <BSD> partisans in a bigoted mood. see <software bloat>,
+<Berzerkely>. <mixed case> adj. Of source code, commentary, system messages,
+etc., not in all upper case, and therefore easy to read and understand. Used
+in opposition to older designs that are case-insensitive and use an all-caps
+character set. <moby> /moh'bee/ [MIT; seems to have been in use among model
+railroad fans years ago. Derived from Melville's `Moby Dick' (some say from
+`Moby Pickle').] 1. adj. Large, immense, complex, impressive. "A Saturn V
+rocket is a truly moby frob." "Some MIT undergrads pulled off a moby hack at
+the Harvard-Yale game." (see Appendix A). 2. n. obs. The maximum address
+space of a machine (see below). For a 68000 or VAX or most modern 32-bit
+architectures, it is 4294967296 8-bit bytes. 3. A title of address (never of
+third-person reference), usually used to show admiration, respect, and/or
+friendliness to a competent hacker. "Greetings, moby Dave. How's that
+address-book thing for the Mac going?" 4. adj. In backgammon, doubles on the
+dice, as in "moby sixes", "moby ones", etc. Compare this with <bignum> (sense
+#2): double sixes are both bignums and moby sixes, but moby ones are not
+bignums (the use of "moby" to describe double ones is sarcastic). "moby foo",
+"moby win", "moby loss": standard emphatic forms. "foby moo": a spoonerism
+due to Greenblatt. This term entered hackerdom with the Fabritek 256K moby
+memory of the MIT-AI machine. Thus, a moby is classically, 256K 36-bit words,
+the size of a PDP-10 moby (it has two). Back when address registers were
+narrow, the term was more generally useful; because when a computer had
+virtual memory mapping it might actually have more physical memory attached
+to it than any one program could access directly. One could then say "This
+computer has six mobies" to mean that the ratio of physical memory to address
+space is six, without having to say specifically how much memory there
+actually is. That in turn implied that the computer could timeshare six
+`full-sized' programs without having to swap programs between memory and
+disk. Nowadays the low cost of processor logic means that registers are
+typically wider than the most memory you can cram onto a machine, so most
+systems have much *less* than 1 theoretical `native' moby of core. Also, more
+modern memory-management techniques make the `moby count' less significant.
+However, there is one series of popular chips for which the term could stand
+to be revived --- the Intel 8088 and 80286 with their incredibly
+brain-damaged segmented-memory design. On these, a `moby' would be the
+1-megabyte address span of a paragraph-plus-offset pair. <mod> vt.,n. 1.
+Short for "modify" or <modification>. Very commonly used --- in fact these
+latter terms are considered markers that one is being formal. The plural
+`mods' is used esp. with reference to bug fixes or minor design changes in
+hardware or software, most esp. with respect to patch sets or <diff>s. <mode>
+n. A general state, usually used with an adjective describing the state. Use
+of the word "mode" rather than "state" implies that the state is extended
+over time, and probably also that some activity characteristic of that state
+is being carried out. "No time to hack; I'm in thesis mode." Usage: in its
+jargon sense, `mode' is most often said of people, though it is sometimes
+applied to programs and inanimate objects. "The E editor normally uses a
+display terminal, but if you're on a TTY it will switch to non-display mode."
+This term is normally used in a technical sense to describe the state of a
+program. Extended usage --- for example, to describe people --- is definitely
+slang. In particular, see <hack mode>, <day mode>, <night mode>, <demo mode>,
+<fireworks mode> and <yoyo mode>; also <talk mode>. One also often hears the
+verbs "enable" and "disable" used in connection with slang modes. Thus, for
+example, a sillier way of saying "I'm going to crash" is "I'm going to enable
+crash mode now." One might also hear a request to "disable flame mode,
+please". <mode bit> n. A <flag>, usually in hardware, that selects between
+two (usually quite different) modes of operation. The connotations are
+different from <flag> bit in that mode bits are mainly written during a boot
+or set-up phase, are seldom read, and seldom change over the lifetime of an
+ordinary program. The classic example was a the EBCDIC -vs.-ASCII bit 12 of
+the Program Status Word of the IBM 360. <modulo> /mod'y@-low/ prep. Except
+for. From mathematical terminology: one can consider saying that 4 = 22
+except for the 9s (4=22 mod 9) (the precise meaning is a bit more
+complicated, but that's the idea). "Well, LISP seems to work okay now, modulo
+that <GC> bug." "I feel fine today modulo a slight headache." <Mongolian
+Hordes technique> n. Development by <gang bang>; compare the Sixties
+counterculture expression `Mongolian clusterfuck' for a public orgy. Implies
+that large numbers of inexperienced programmers are being put on a job better
+performed by a few skilled ones. <monkey up> vt. To hack together hardware
+for a particular task, especially a one-shot job. Connotes an extremely
+<crufty> and consciously temporary solution. <monstrosity> 1. n. A
+ridiculously <elephantine> program or system, esp. one which is buggy or only
+marginally functional. 2. The quality of being monstrous (see `Peculiar
+nouns' in the discussion of jargonification). see also <baroque>. <Moof>
+/moof/ [MAC users] n. The Moof or `dogcow' is a semi-legendary creature that
+lurks in the depths of the Macintosh Technical Notes hypercard stack V3.1;
+specifically, the full story of the dogcow is told in technical note #31 (the
+particular Moof illustrated is properly named `Clarus'). Option-shift-click
+will cause it to emit a characteristic `Moof!' or `!fooM' sound. *Getting* to
+tech note #31 is the hard part; to discover how to do that, one must needs
+examine the stack script with a hackerly eye. Clue: <rot13> is involved. A
+dogcow also said to appear if you choose `Page Setup...' with a LaserWriter
+selected and click on the `Options' button. <Moore's Law> /morz law/ prov.
+The observation that the logic density of silicon integrated circuits has
+closely followed the curve (bits per inch ^ 2) = 2 ^ (n - 1962); that is, the
+amount of information storable in one square inch of silicon has roughly
+doubled yearly every year since the technology was invented. <moria>
+/mor'i-ah/ n. Together with <nethack> and <rogue>, one of the large PD
+Dungeons-and-Dragons-like simulation games, available for a wide range of
+machines and operating systems. Extremely addictive and a major consumer of
+time better used for hacking. <MOTAS> /moh-tahs/ [USENET, Member Of The
+Appropriate Sex] n. A potential or (less often) actual sex partner. see
+<MOTOS>, <MOTSS>, <S.O>. <MOTOS> /moh-tohs/ [from the 1970 census forms via
+USENET, Member Of The Opposite Sex] n. A potential or (less often) actual sex
+partner. see <MOTAS>, <MOTSS>, <S.O.> Less common than <MOTSS> or <MOTAS>,
+which has largely displaced it. <MOTSS> /motss/ or /em-oh-tee-ess-ess/ [from
+the 1970 census forms via USENET, Member Of The Same Sex] n. Esp. one
+considered as a possible sexual partner, e.g. by a gay or lesbian. The
+gay-issues newsgroup on USENET is called soc.motss. see <MOTOS> and <MOTAS>,
+which derive from it. Also see <S.O.>. <mount> vt. 1. To attach a removable
+physical storage volume to a machine. In elder days and on mainframes this
+verb was used almost exclusively of tapes; nowadays it is more likely to
+refer to a disk or disk pack. 2. By extension, to attach any removable device
+such as a sensor, robot arm, or <meatware> subsystem (see Appendix A). 3.
+[UNIX] To make a <logical> volume of some sort available for use. The volume
+in question may or may not be removable and may be just one partition of a
+physical device. <mouse ahead> vi. To manipulate a computer's pointing device
+(almost always a mouse in this usage, but not necessarily) and its selection
+or command buttons before a computer program is ready to accept such input,
+in anticipation of the program accepting the input. Handling this properly is
+rare, but it can help make a <user-friendly> program usable by real users,
+assuming they are familiar with the behavior of the user interface.
+Point-and-click analog of `type ahead'. <mouse around> vi. To explore public
+portions of a large system, esp. a network such as Internet via <FTP> or
+<TELNET>, looking for interesting stuff to <snarf>. <mouse elbow> n. A
+tennis-elbow-like fatigue syndrome resulting from excessive use of a <WIMP
+environment>. <mouso> /mow'soh/ n. [by analogy with "typo"] An error in mouse
+usage resulting in an inappropriate selection or graphic garbage on the
+screen. Compare <thinko>. <MS-DOS> /em-es-dos/ [MicroSoft Disk Operating
+System] n. A <clone> of <CP/M> for the 8088 crufted together in six weeks by
+hacker Tim Paterson, who is said to have regretted it ever since. Numerous
+features including vaguely UNIX-like but rather broken support for
+subdirectories, I/O redirection, and pipelines were hacked in in 2.0 and
+subsequent versions; as a result, there are two incompatible versions of many
+system calls, and MS-DOS programmers can never agree on basic things like
+what to use as an option switch or whether to be case-sensitive. The
+resulting mess is now the highest-unit-volume OS in history. Often known
+simply as DOS, which annoys people familiar with other similarly-abbreviated
+operating systems. Some people like to pronounce DOS as "dose", as in "I
+don't work on dose, man!", or to compare it with a dose of brain-damaging
+drugs. see <mess-dos>, <ill-behaved>. <MUD> [abbr: Multi User Dungeon] 1. A
+class of <virtual reality> experiments accessible via <Internet>. These are
+real-time chat forums with structure; they have multiple `locations' like an
+adventure game and may include combat, traps, puzzles, magic, a simple
+economic system, and the capability for characters to build more structure
+onto the database that represents the existing world. 2. vi. To play a MUD
+(see <hack-and-slay>). The acronym MUD is often lower-cased and/or verbed;
+thus, one may speak of "going mudding", etc. Historically, MUDs (and their
+more recent progeny with names of MU* form) derive from an AI experiment by
+Richard Bartle and Roy Trubshaw on the University of Essex's DEC-10 in the
+early 80's, and decendants of that game still exist today (see <BartleMUD>).
+The title `MUD' is still copyright to the commercial MUD run by Bartle on
+British Telecom (Their motto: "You haven't *lived* 'til you've *died* on
+MUD"), however this did not stop students on the European academic networks
+from copying/improving on the MUD concept, from which sprung several new MUDs
+(VAXMUD, AberMUD, LPMUD). Many of these had associated bulletin board systems
+for social interaction. Because USENET feeds have been spotty and difficult
+to get in the British Isles, and the British JANET network doesn't support
+<FTP> or <telnet>, the MUDs became major foci of hackish social interaction
+there. LPMUD and other variants crossed the Atlantic around 1988 and quickly
+gained popularity in the US; they became nuclei for large hacker communities
+with only loose ties to traditional hackerdom (some observers see parallels
+with the growth of USENET in the early 1980s). More recent MUDs, esp. in the
+US, (such as TinyMud) have tended to emphasize social interaction, puzzles,
+and cooperative world-building as opposed to combat and competition. Whether
+this represents a genuine long-term trend is hard to say; the state of the
+art in MUD design is still moving very rapidly, with new simulation designs
+appearing (seemingly) every month. There is now (early 1991) a move afoot to
+deprecate the term <MUD> itself, as newer designs exhibit an exploding
+variety of names corresponding to the different simulation styles being
+explored. see also <BartleMUD>, <berserking>, <bonk/oif>, <brand brand
+brand>, <FOD>, <hack-and-slay>, <mudhead>, <posing>, <talk mode>, <tinycrud>.
+<mudhead> n. Commonly used to refer to a <MUD> player who sleeps breathes and
+eats MUD. Mudheads have frequently been known to fail their degrees, drop out
+etc, with the consolation however that they made wizard level. When
+encountered in person, all a mudhead will talk about is two topics 1) The
+tactic, character or wizard that in his view is always unfairly stopping
+him/her becoming wizard/beating a favorite MUD, and 2) the mud he is
+writing/going to write because all existing muds are so dreadful! see also
+<wannabee>. <multician> /muhl-ti'shn/ [coined at Honeywell, c.1970] n.
+Competent user of <Multics>. <Multics> /muhl'tiks/ n. [from "MULTiplexed
+Information and Computing Service"] An early (late 1960s) timesharing
+operating system co-designed by a consortium including MIT, GE and Bell
+Laboratories, very innovative for its time (among other things, it introduced
+the idea of treating all devices uniformly as special files). All the members
+but GE eventually pulled out after determining that <second-system effect>
+had bloated MULTICS to the point of practical unusability (the `lean'
+predecessor in question is said to have been <CTSS>). Honeywell
+commercialized Multics after buying out GE's computer group, but it was never
+very successful (among other things, one was required to enter a password to
+log out). One of the developers left in the lurch by the project's breakup
+was Ken Thompson, a circumstance which led directly to the birth of <UNIX>.
+For this and other reasons aspects of the Multics design remain a topic of
+occasional debate among hackers. see also <brain-damage>. <multitask> n.
+Often used of humans in the same meaning it has for computers, to describe a
+person doing several things at once (but see <thrash>. The term "multiplex"
+from communications technology (meaning to handle more than one channel at
+the same time) is used similarly. <mumblage> /muhm'bl@j/ n. The topic of
+one's mumbling (see <mumble>). "All that mumblage" is used like "all that
+stuff" when it is not quite clear what it is or how it works, or like "all
+that crap" when "mumble" is being used as an implicit replacement for
+obscenities. <mumble> interj. 1. Said when the correct response is either too
+complicated to enunciate or the speaker has not thought it out. Often
+prefaces a longer answer, or indicates a general reluctance to get into a big
+long discussion. "Don't you think that we could improve LISP performance by
+using a hybrid reference-count transaction garbage collector, if the cache is
+big enough and there are some extra cache bits for the microcode to use?"
+"Well, mumble... I'll have to think about it." 2. Sometimes used as an
+expression of disagreement. "I think we should buy a <VAX>." "Mumble!" Common
+variant: <mumble frotz>. 3. Yet another metasyntactic variable, like <foo>.
+<munch> [often confused with `mung', q.v.] vt. To transform information in a
+serial fashion, often requiring large amounts of computation. To trace down a
+data structure. Related to <crunch> and nearly synonymous with <grovel>, but
+connotes less pain. <munching squares> n. A <display hack> dating back to the
+PDP-1 (c.1962), which employs a trivial computation (repeatedly plotting the
+graph Y = X XOR T for successive values of T --- see <HAKMEM> items 146-148)
+to produce an impressive display of moving, and growing squares that devour
+the screen (allegedly invented by one Jackson Wright). The initial value of T
+was treated as a parameter which when well-chosen can produce amazing
+effects. Some of these, later (re)discovered on the LISP machine, have been
+christened <munching triangles> (try AND for XOR and toggling points instead
+of plotting them), <munching w's>, and <munching mazes>. More generally,
+suppose a graphics program produces an impressive and ever-changing display
+of some basic form foo on a display terminal, and does it using a relatively
+simple program; then the program (or the resulting display) is likely to be
+referred to as "munching foos" (this is a good example of the use of the word
+<foo> as a metasyntactic variable). <munchkin> /muhnch'kin/ [from the
+squeaky-voiced little people in L. Frank Baum's `The Wizard of Oz'] n. A
+teenage-or-younger micro enthusiast bashing BASIC or something else equally
+constricted. A term of mild derision --- munchkins are annoying but some grow
+up to be hackers after passing through a <larval stage>. The term <urchin> is
+also used. see also <wannabee>, <bitty box>. <mundane> [from SF fandom] n. 1.
+A person who is not in science fiction fandom. 2. A person who is not in the
+computer industry. In this sense, most often an adjectival modifier as in "in
+my mundane life..." This term is not necessarily as pejorative as it sounds.
+<mung> /muhng/ alt. `munge' /muhnj/ [in 1960 at MIT, `Mash Until No Good";
+sometime after that the derivation from the <recursive acronym> `Mung Until
+No Good' became standard] vt. 1. To make changes to a file, often
+large-scale, usually irrevocable. Occasionally accidental. see <BLT>. 2. To
+destroy, usually accidentally, occasionally maliciously. The system only
+mungs things maliciously; this ia a consequence of Murphy's Law. see
+<scribble>, <mangle>, <trash>. Reports from <USENET> suggest that the
+pronunciation /muhnj/ is now usual in speech, but the spelling `mung' is
+still common in program comments. 3. The kind of beans of which the sprouts
+are used in Chinese food. (That's their real name! Mung beans! Really!)
