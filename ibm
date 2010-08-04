@@ -135,4 +135,4 @@ around problems discovered during testing or debugging. These are called
 color is yellow.... Compare {blue wire}, {yellow wire}, and {red wire}.
 :push: [from the operation that puts the current information on a stack, and
 the fact that procedure return addresses are saved on a stack] (Also PUSH
-/push/ or PUSHJ push'J, the latter based on the
+/push/ or PUSHJ /push'J/, the latter based on the

@@ -52,7 +52,7 @@ power of ten; the `binary' column lists jargon abbreviations and words for
 the corresponding power of 2. The B-suffixed forms are commonly used for byte
 quantities; the words `meg' and `gig' are nouns that may (but do not always)
 pluralize with `s'. prefix decimal binary pronunciation kilo- k K, KB, /kay/
-mega- M M, MB, meg /meg/ giga- G G, GB, gig /gig/,jig Confusingly, hackers
+mega- M M, MB, meg /meg/ giga- G G, GB, gig /gig/,/jig/ Confusingly, hackers
 often use K or M as though they were suffix or numeric multipliers rather
 than a prefix; thus "2K dollars", "2M of disk space". This is also true
 (though less commonly) of G. Note that the formal SI metric prefix for 1000

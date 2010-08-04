@@ -27,7 +27,7 @@ reported to be common at XEROX PARC. {fred}, jim, sheila, {barney}: see the
 entry for {fred}. These tend to be Britishisms. {corge}, {grault}, {flarp}:
 Popular at Rutgers University and among {GOSMACS} hackers. zxc, spqr, wombat:
 Cambridge University (England). shme Berkeley, GeoWorks, Ingres. Pronounced
-/shme/ with a short e. spam {Python} programmers. snork Brown University,
+/shme/ with a short /e/. spam {Python} programmers. snork Brown University,
 early 1970s. {foo}, {bar}, zot Helsinki University of Technology, Finland.
 blarg, wibble New Zealand. toto, titi, tata, tutu France. pippo, pluto,
 paperino Italy. Pippo /pee'po/ and Paperino /pa-per-ee'-no/ are the Italian
