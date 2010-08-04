@@ -17,9 +17,10 @@ Crispin; 1 April 1978), and 1149 ("A Standard for the Transmission of IP
 Datagrams on Avian Carriers", D. Waitzman, BBN STC; 1 April 1990). The first
 was a Lewis Carroll pastiche; the second a parody of the TCP-IP documentation
 style, and the third a deadpan skewering of standards-document legalese,
-describing protocols for transmitting Internet data packets by carrier
-pigeon. see also {Infinite-Monkey Theorem}. The RFCs are most remarkable for
-how well they work -- they frequently manage to have neither the ambiguities
-that are usually rife in informal specifications, nor the
-committee-perpetrated misfeatures that often haunt formal standards, and they
-define a network that has grown to truly worldwide proportions.
+describing protocols for transmitting Internet data packets by carrier pigeon
+(since actually implemented; see Appendix A). see also {Infinite-Monkey
+Theorem}. The RFCs are most remarkable for how well they work -- they
+frequently manage to have neither the ambiguities that are usually rife in
+informal specifications, nor the committee-perpetrated misfeatures that often
+haunt formal standards, and they define a network that has grown to truly
+worldwide proportions.

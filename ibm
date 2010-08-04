@@ -1,29 +1,29 @@
  :The Story of Mel: ================== This was posted to Usenet by its
-author, Ed Nather (<utastro!nather>), on May 21, 1983. A recent article
-devoted to the _macho_ side of programming made the bald and unvarnished
-statement: Real Programmers write in FORTRAN. Maybe they do now, in this
-decadent era of Lite beer, hand calculators, and "user-friendly" software but
-back in the Good Old Days, when the term "software" sounded funny and Real
-Computers were made out of drums and vacuum tubes, Real Programmers wrote in
-machine code. Not FORTRAN. Not RATFOR. Not, even, assembly language. Machine
-Code. Raw, unadorned, inscrutable hexadecimal numbers. Directly. Lest a whole
-new generation of programmers grow up in ignorance of this glorious past, I
-feel duty-bound to describe, as best I can through the generation gap, how a
-Real Programmer wrote code. I'll call him Mel, because that was his name. I
-first met Mel when I went to work for Royal McBee Computer Corp., a
-now-defunct subsidiary of the typewriter company. The firm manufactured the
-LGP-30, a small, cheap (by the standards of the day) drum-memory computer,
-and had just started to manufacture the RPC-4000, a much-improved, bigger,
-better, faster --- drum-memory computer. Cores cost too much, and weren't
-here to stay, anyway. (That's why you haven't heard of the company, or the
-computer.) I had been hired to write a FORTRAN compiler for this new marvel
-and Mel was my guide to its wonders. Mel didn't approve of compilers. "If a
-program can't rewrite its own code", he asked, "what good is it?" Mel had
-written, in hexadecimal, the most popular computer program the company owned.
-It ran on the LGP-30 and played blackjack with potential customers at
-computer shows. Its effect was always dramatic. The LGP-30 booth was packed
-at every show, and the IBM salesmen stood around talking to each other.
-Whether or not this actually sold computers was a question we never
+author, Ed Nather (<<nather@astro.as.utexas.edu>>), on May 21, 1983. A recent
+article devoted to the _macho_ side of programming made the bald and
+unvarnished statement: Real Programmers write in FORTRAN. Maybe they do now,
+in this decadent era of Lite beer, hand calculators, and "user-friendly"
+software but back in the Good Old Days, when the term "software" sounded
+funny and Real Computers were made out of drums and vacuum tubes, Real
+Programmers wrote in machine code. Not FORTRAN. Not RATFOR. Not, even,
+assembly language. Machine Code. Raw, unadorned, inscrutable hexadecimal
+numbers. Directly. Lest a whole new generation of programmers grow up in
+ignorance of this glorious past, I feel duty-bound to describe, as best I can
+through the generation gap, how a Real Programmer wrote code. I'll call him
+Mel, because that was his name. I first met Mel when I went to work for Royal
+McBee Computer Corp., a now-defunct subsidiary of the typewriter company. The
+firm manufactured the LGP-30, a small, cheap (by the standards of the day)
+drum-memory computer, and had just started to manufacture the RPC-4000, a
+much-improved, bigger, better, faster --- drum-memory computer. Cores cost
+too much, and weren't here to stay, anyway. (That's why you haven't heard of
+the company, or the computer.) I had been hired to write a FORTRAN compiler
+for this new marvel and Mel was my guide to its wonders. Mel didn't approve
+of compilers. "If a program can't rewrite its own code", he asked, "what good
+is it?" Mel had written, in hexadecimal, the most popular computer program
+the company owned. It ran on the LGP-30 and played blackjack with potential
+customers at computer shows. Its effect was always dramatic. The LGP-30 booth
+was packed at every show, and the IBM salesmen stood around talking to each
+other. Whether or not this actually sold computers was a question we never
 discussed. Mel's job was to re-write the blackjack program for the RPC-4000.
 (Port? What does that mean?) The new computer had a one-plus-one addressing
 scheme, in which each machine instruction, in addition to the operation code
@@ -119,9 +119,13 @@ approximation to it -- it was straight prose style, in non-justified
 paragraphs. In bouncing around the net it apparently got modified into the
 `free verse' form now popular. In other words, it got hacked on the net. That
 seems appropriate, somehow." The author adds that he likes the `free-verse'
-version better...] [1999 update: Mel's last name is now known. The manual for
-the LGP-30 refers to "Mel Kaye of Royal McBee who did the bulk of the
-programming [...] of the ACT 1 system".] :A Portrait of J. Random Hacker:
+version better than his prose original...] [1999 update: Mel's last name is
+now known. The manual for the LGP-30 refers to "Mel Kaye of Royal McBee who
+did the bulk of the programming [...] of the ACT 1 system".] [2001: The Royal
+McBee LPG-30 turns out to have one other claim to fame. It turns out that
+meteorologist Edward Lorenz was doing weather simulations on an LGP-30 when,
+in 1961, he discovered the "Butterfly Theorem" and computational chaos. This
+seems, somehow, appropriate.] :A Portrait of J. Random Hacker:
 ******************************** This profile reflects detailed comments on
 an earlier `trial balloon' version from about a hundred Usenet respondents.
 Where comparatives are used, the implicit `other' is a randomly selected
@@ -148,7 +152,7 @@ chamois shirts, and the like. After about 1995 hacker dress styles
 assimilated some influence from punk, gothic, and rave subcultures. This was
 relatively mild and has manifested mostly as a tendency to wear a lot of
 black, especially when `dressed up' to the limit of formality. Other markers
-of those subcultures such as piercings, chains, and died hair remain
+of those subcultures such as piercings, chains, and dyed hair remain
 relatively uncommon. Very few hackers actually fit the "National Lampoon"
 Nerd stereotype, though it lingers on at MIT and may have been more common
 before 1975. At least since the late Seventies backpacks have been more

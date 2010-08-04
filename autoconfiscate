@@ -1,4 +1,4 @@
- :autoconfiscate: [origibnally from Cygnus Solutions, later Red Hat Software]
+ :autoconfiscate: [originally from Cygnus Solutions, later Red Hat Software]
 To set up or modify a source-code {distribution} so that it configures and
 builds using the GNU project's autoconf/automake/libtools suite. Among
 open-source hackers, a mere running binary of a program is not considered a

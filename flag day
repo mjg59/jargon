@@ -6,9 +6,10 @@ values. It came into use when a massive change was made to the {{CTSS}}
 timesharing system to convert from the short-lived 1965 version of the ASCII
 code to the 1967 version (in draft at the time); this was scheduled for Flag
 Day (a U.S. holiday), June 14, 1966. The actual change moved the code point
-for the ASCII newline character; this required that all of the Multics source
+for the ASCII newline character; this required that all of the CTSS source
 code, documentation, and device drivers be changed simultaneously. see also
 {backward combatability}. [Previous versions of this entry described this as
 a change in {Multics}, which was wrong. Evidently this confusion arose from
-the fact that the changes were made partly to facilitate Multics developmnt
---ESR]
+the fact that the changes were made partly to facilitate Multics development
+--ESR] [As it happens, the first commercial installation of a computer, a
+Univac I, took place on lag Day of 1951 --ESR]

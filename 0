@@ -1,56 +1,24 @@
- A few new definitions attached to entries are marked [proposed]. These are
-usually generalizations suggested by editors or Usenet respondents in the
-process of commenting on previous definitions of those entries. These are
-_not_ represented as established jargon. :Format For New Entries:
-======================== You can mail submissions for the Jargon File to
-<jargon@snark.thyrsus.com>. We welcome new jargon, and corrections to or
-amplifications of existing entries. You can improve your submission's chances
-of being included by adding background information on user population and
-years of currency. References to actual usage via URLs and/or DejaNews
-pointers are particularly welcomed. All contributions and suggestions about
-the Jargon File will be considered donations to be placed in the public
-domain as part of this File, and may be used in subsequent paper editions.
-Submissions may be edited for accuracy, clarity and concision. We are looking
-to expand the File's range of technical specialties covered. There are
-doubtless rich veins of jargon yet untapped in the scientific computing,
-graphics, and networking hacker communities; also in numerical analysis,
-computer architectures and VLSI design, language design, and many other
-related fields. Send us your jargon! We are _not_ interested in straight
-technical terms explained by textbooks or technical dictionaries unless an
-entry illuminates `underground' meanings or aspects not covered by official
-histories. We are also not interested in `joke' entries -- there is a lot of
-humor in the file but it must flow naturally out of the explanations of what
-hackers do and how they think. It is OK to submit items of jargon you have
-originated if they have spread to the point of being used by people who are
-not personally acquainted with you. We prefer items to be attested by
-independent submission from two different sites. An HTML version of the File
-is available at http://www.tuxedo.org/jargon. Please send us URLs for
-materials related to the entries, so we can enrich the File's link structure.
-The Jargon File will be regularly maintained and made available for browsing
-on the World Wide Web, and will include a version number. Read it, pass it
-around, contribute -- this is _your_ monument! The Jargon Lexicon
-****************** = 0 = ===== :0: Numeric zero, as opposed to the letter `O'
-(the 15th letter of the English alphabet). In their unmodified forms they
-look a lot alike, and various kluges invented to make them visually distinct
-have compounded the confusion. If your zero is center-dotted and letter-O is
-not, or if letter-O looks almost rectangular but zero looks more like an
-American football stood on end (or the reverse), you're probably looking at a
-modern character display (though the dotted zero seems to have originated as
-an option on IBM 3270 controllers). If your zero is slashed but letter-O is
-not, you're probably looking at an old-style ASCII graphic set descended from
-the default typewheel on the venerable ASR-33 Teletype (Scandinavians, for
-whom /O is a letter, curse this arrangement). (Interestingly, the slashed
-zero long predates computers; Florian Cajori's monumental "A History of
-Mathematical Notations" notes that it was used in the twelfth and thirteenth
-centuries.) If letter-O has a slash across it and the zero does not, your
-display is tuned for a very old convention used at IBM and a few other early
-mainframe makers (Scandinavians curse _this_ arrangement even more, because
-it means two of their letters collide). Some Burroughs/Unisys equipment
-displays a zero with a _reversed_ slash. Old CDC computers rendered letter O
-as an unbroken oval and 0 as an oval broken at upper right and lower left.
-And yet another convention common on early line printers left zero
-unornamented but added a tail or hook to the letter-O so that it resembled an
-inverted Q or cursive capital letter-O (this was endorsed by a draft ANSI
-standard for how to draw ASCII characters, but the final standard changed the
-distinguisher to a tick-mark in the upper-left corner). Are we sufficiently
-confused yet?
+ :0: Numeric zero, as opposed to the letter `O' (the 15th letter of the
+English alphabet). In their unmodified forms they look a lot alike, and
+various kluges invented to make them visually distinct have compounded the
+confusion. If your zero is center-dotted and letter-O is not, or if letter-O
+looks almost rectangular but zero looks more like an American football stood
+on end (or the reverse), you're probably looking at a modern character
+display (though the dotted zero seems to have originated as an option on IBM
+3270 controllers). If your zero is slashed but letter-O is not, you're
+probably looking at an old-style ASCII graphic set descended from the default
+typewheel on the venerable ASR-33 Teletype (Scandinavians, for whom /O is a
+letter, curse this arrangement). (Interestingly, the slashed zero long
+predates computers; Florian Cajori's monumental "A History of Mathematical
+Notations" notes that it was used in the twelfth and thirteenth centuries.)
+If letter-O has a slash across it and the zero does not, your display is
+tuned for a very old convention used at IBM and a few other early mainframe
+makers (Scandinavians curse _this_ arrangement even more, because it means
+two of their letters collide). Some Burroughs/Unisys equipment displays a
+zero with a _reversed_ slash. Old CDC computers rendered letter O as an
+unbroken oval and 0 as an oval broken at upper right and lower left. And yet
+another convention common on early line printers left zero unornamented but
+added a tail or hook to the letter-O so that it resembled an inverted Q or
+cursive capital letter-O (this was endorsed by a draft ANSI standard for how
+to draw ASCII characters, but the final standard changed the distinguisher to
+a tick-mark in the upper-left corner). Are we sufficiently confused yet?

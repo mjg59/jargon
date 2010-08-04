@@ -14,7 +14,7 @@ might try to upload garbage or shareware or something incredibly old (old in
 this context is read as a few years to anything older than 3 days). `Lamer'
 is also much used in the IRC world in a similar sense to the above. This term
 originated among Amiga crackers of the mid-1980s. It was popularized there by
-Lamer Exterminator', the most famous and feared Amiga virus ever, which
+`Lamer Exterminator', the most famous and feared Amiga virus ever, which
 gradually corrupted non-write-protected floppy disks with bad sectors. The
-bad sectors, when looked at, where overwritten with the following text:
-'LAMER! LAMER! LAMER! LAMER! (x1000)'
+bad sectors, when looked at, were overwritten with repetitions of the string
+`LAMER!'.

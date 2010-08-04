@@ -10,14 +10,14 @@ deadpan way, screamingly funny) 1981 paper by Brian Kernighan (of {K&R} fame)
 entitled "Why Pascal is Not My Favorite Programming Language", which was
 turned down by the technical journals but circulated widely via photocopies.
 It was eventually published in "Comparing and Assessing Programming
-Languages", edited by Alan Feuer and Narain Gehani (Prentice-Hall, 1984); a
-web search for the title should find many copies. Part of his discussion is
-worth repeating here, because its criticisms are still apposite to Pascal
-itself after many years of improvement and could also stand as an indictment
-of many other bondage-and-discipline languages. (The entire essay os
-available at `http://www.lysator.liu.se/c/bwk-on-pascal.html'. At the end of
-a summary of the case against Pascal, Kernighan wrote: 9. There is no escape
-This last point is perhaps the most important. The language is inadequate but
+Languages", edited by Alan Feuer and Narain Gehani (Prentice-Hall, 1984).
+Part of his discussion is worth repeating here, because its criticisms are
+still apposite to Pascal itself after many years of improvement and could
+also stand as an indictment of many other bondage-and-discipline languages.
+(The entire essay is available at
+`http://www.lysator.liu.se/c/bwk-on-pascal.html'.) At the end of a summary of
+the case against Pascal, Kernighan wrote: 9. There is no escape This last
+point is perhaps the most important. The language is inadequate but
 circumscribed, because there is no way to escape its limitations. There are
 no casts to disable the type-checking when necessary. There is no way to
 replace the defective run-time environment with a sensible one, unless one
