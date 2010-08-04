@@ -1,127 +1,129 @@
  BASICs for directly accessing memory contents at an absolute address; often
 extended to mean the corresponding constructs in any {HLL} (peek reads
-memory, poke modifies it). Much hacking on small, non-MMU micros consists of
-`peek'ing around memory, more or less at random, to find the location where
-the system keeps interesting stuff. Long (and variably accurate) lists of
-such addresses for various computers circulate (see {{interrupt list}}). The
-results of `poke's at these addresses may be highly useful, mildly amusing,
-useless but neat, or (most likely) total {lossage} (see {killer poke}). Since
-a {real operating system} provides useful, higher-level services for the
-tasks commonly performed with peeks and pokes on micros, and real languages
-tend not to encourage low-level memory groveling, a question like "How do I
-do a peek in C?" is diagnostic of the {newbie}. (Of course, OS kernels often
-have to do exactly this; a real C hacker would unhesitatingly, if unportably,
-assign an absolute address to a pointer variable and indirect through it.)
-:pencil and paper: n. An archaic information storage and transmission device
-that works by depositing smears of graphite on bleached wood pulp. More
-recent developments in paper-based technology include improved `write-once'
-update devices which use tiny rolling heads similar to mouse balls to deposit
-colored pigment. All these devices require an operator skilled at so-called
-`handwriting' technique. These technologies are ubiquitous outside hackerdom,
-but nearly forgotten inside it. Most hackers had terrible handwriting to
-begin with, and years of keyboarding tend to have encouraged it to degrade
-further. Perhaps for this reason, hackers deprecate pencil-and-paper
-technology and often resist using it in any but the most trivial contexts.
-:Pentagram Pro: n. A humorous corruption of "Pentium Pro", with a Satanic
-reference, implying that the chip is inherently {evil}. Often used with "666
-MHz"; there is a T-shirt. see {Pentium} :Pentium: n. The name given to
-Intel's P5 chip, the successor to the 80486. The name was chosen because of
-difficulties Intel had in trademarking a number. It suggests the number five
-(implying 586) while (according to Intel) conveying a meaning of strength
-"like titanium". Among hackers, the plural is frequently `pentia'. see also
-{Pentagram Pro}. Intel did not stick to this convention when naming its P6
-processor the Pentium Pro; many believe this is due to difficulties in
-selling a chip with "sex" in its name. :peon: n. A person with no special
-({root} or {wheel}) privileges on a computer system. "I can't create an
-account on _foovax_ for you; I'm only a peon there." :percent-S: /per-sent'
-es'/ n. [From the code in C's `printf(3)' library function used to insert an
-arbitrary string argument] An unspecified person or object. "I was just
-talking to some percent-s in administration." Compare {random}. :perf: /perf/
-n. Syn. {chad} (sense 1). The term `perfory' /per'f*-ree/ is also heard. The
-term {perf} may also refer to the perforations themselves, rather than the
-chad they produce when torn (philatelists use it this way). :perfect
-programmer syndrome: n. Arrogance; the egotistical conviction that one is
-above normal human error. Most frequently found among programmers of some
-native ability but relatively little experience (especially new graduates;
-their perceptions may be distorted by a history of excellent performance at
-solving {toy problem}s). "Of course my program is correct, there is no need
-to test it." "Yes, I can see there may be a problem here, but _I'll_ never
-type `rm -r /' while in {root mode}." :Perl: /perl/ n. [Practical Extraction
-and Report Language, a.k.a. Pathologically Eclectic Rubbish Lister] An
-interpreted language developed by Larry Wall (<<lwall@jpl.nasa.gov>>, author
-of `patch(1)' and `rn(1)') and distributed over Usenet. Superficially
-resembles {awk}, but is much hairier, including many facilities reminiscent
-of `sed(1)' and shells and a comprehensive Unix system-call interface. Unix
-sysadmins, who are almost always incorrigible hackers, increasingly consider
-it one of the {languages of choice}. Perl has been described, in a parody of
-a famous remark about `lex(1)', as the "Swiss-Army chainsaw" of Unix
-programming. see also {Camel Book}, {TMTOWTDI}. :person of no account: n.
-[University of California at Santa Cruz] Used when referring to a person with
-no {network address}, frequently to forestall confusion. Most often as part
-of an introduction: "This is Bill, a person of no account, but he used to be
+memory, poke modifies it). Much hacking on small, non-MMU micros used to
+consist of `peek'ing around memory, more or less at random, to find the
+location where the system keeps interesting stuff. Long (and variably
+accurate) lists of such addresses for various computers circulated (see
+{{interrupt list}}). The results of `poke's at these addresses may be highly
+useful, mildly amusing, useless but neat, or (most likely) total {lossage}
+(see {killer poke}). Since a {real operating system} provides useful,
+higher-level services for the tasks commonly performed with peeks and pokes
+on micros, and real languages tend not to encourage low-level memory
+groveling, a question like "How do I do a peek in C?" is diagnostic of the
+{newbie}. (Of course, OS kernels often have to do exactly this; a real kernel
+hacker would unhesitatingly, if unportably, assign an absolute address to a
+pointer variable and indirect through it.) :pencil and paper: n. An archaic
+information storage and transmission device that works by depositing smears
+of graphite on bleached wood pulp. More recent developments in paper-based
+technology include improved `write-once' update devices which use tiny
+rolling heads similar to mouse balls to deposit colored pigment. All these
+devices require an operator skilled at so-called `handwriting' technique.
+These technologies are ubiquitous outside hackerdom, but nearly forgotten
+inside it. Most hackers had terrible handwriting to begin with, and years of
+keyboarding tend to have encouraged it to degrade further. Perhaps for this
+reason, hackers deprecate pencil-and-paper technology and often resist using
+it in any but the most trivial contexts. :Pentagram Pro: n. A humorous
+corruption of "Pentium Pro", with a Satanic reference, implying that the chip
+is inherently {evil}. Often used with "666 MHz"; there is a T-shirt. see
+{Pentium} :Pentium: n. The name given to Intel's P5 chip, the successor to
+the 80486. The name was chosen because of difficulties Intel had in
+trademarking a number. It suggests the number five (implying 586) while
+(according to Intel) conveying a meaning of strength "like titanium". Among
+hackers, the plural is frequently `pentia'. see also {Pentagram Pro}. Intel
+did not stick to this convention when naming its P6 processor the Pentium
+Pro; many believe this is due to difficulties in selling a chip with "sex" in
+its name. Successor chips have been called `Pentium II' and `Pentium III'.
+:peon: n. A person with no special ({root} or {wheel}) privileges on a
+computer system. "I can't create an account on _foovax_ for you; I'm only a
+peon there." :percent-S: /per-sent' es'/ n. [From the code in C's `printf(3)'
+library function used to insert an arbitrary string argument] An unspecified
+person or object. "I was just talking to some percent-s in administration."
+Compare {random}. :perf: /perf/ n. Syn. {chad} (sense 1). The term `perfory'
+/per'f*-ree/ is also heard. The term {perf} may also refer to the
+perforations themselves, rather than the chad they produce when torn
+(philatelists use it this way). :perfect programmer syndrome: n. Arrogance;
+the egotistical conviction that one is above normal human error. Most
+frequently found among programmers of some native ability but relatively
+little experience (especially new graduates; their perceptions may be
+distorted by a history of excellent performance at solving {toy problem}s).
+"Of course my program is correct, there is no need to test it." "Yes, I can
+see there may be a problem here, but _I'll_ never type `rm -r /' while in
+{root mode}." :Perl: /perl/ n. [Practical Extraction and Report Language,
+a.k.a. Pathologically Eclectic Rubbish Lister] An interpreted language
+developed by Larry Wall (<<larry@wall.org>>, author of `patch(1)' and
+`rn(1)') and distributed over Usenet. Superficially resembles {awk}, but is
+much hairier, including many facilities reminiscent of `sed(1)' and shells
+and a comprehensive Unix system-call interface. Unix sysadmins, who are
+almost always incorrigible hackers, generally consider it one of the
+{languages of choice}. Perl has been described, in a parody of a famous
+remark about `lex(1)', as the "Swiss-Army chainsaw" of Unix programming. see
+also {Camel Book}, {TMTOWTDI}. :person of no account: n. [University of
+California at Santa Cruz] Used when referring to a person with no {network
+address}, frequently to forestall confusion. Most often as part of an
+introduction: "This is Bill, a person of no account, but he used to be
 bill@random.com". Compare {return from the dead}. :pessimal: /pes'im-l/ adj.
 [Latin-based antonym for `optimal'] Maximally bad. "This is a pessimal
 situation." Also `pessimize' vt. To make as bad as possible. These words are
 the obvious Latin-based antonyms for `optimal' and `optimize', but for some
 reason they do not appear in most English dictionaries, although `pessimize'
 is listed in the OED. :pessimizing compiler: /pes'*-mi:z`ing k*m-pi:l'r/ n. A
-compiler that produces object [antonym of `optimizing compiler'] code that is
-worse than the straightforward or obvious hand translation. The implication
-is that the compiler is actually trying to optimize the program, but through
-excessive cleverness is doing the opposite. A few pessimizing compilers have
-been written on purpose, however, as pranks or burlesques. :peta-: /pe't*/
-pref [SI] see {{quantifiers}}. :PETSCII: /pet'skee/ n. obs. [abbreviation of
-PET ASCII] The variation (many would say perversion) of the {{ASCII}}
-character set used by the Commodore Business Machines PET series of personal
-computers and the later Commodore C64, C16, C128, and VIC20 machines. The
-PETSCII set used left-arrow and up-arrow (as in old-style ASCII) instead of
-underscore and caret, placed the unshifted alphabet at positions 65-90, put
-the shifted alphabet at positions 193-218, and added graphics characters.
-:phage: n. A program that modifies other programs or databases in
-unauthorized ways; esp. one that propagates a {virus} or {Trojan horse}. see
-also {worm}, {mockingbird}. The analogy, of course, is with phage viruses in
-biology. :phase: 1. n. The offset of one's waking-sleeping schedule with
-respect to the standard 24-hour cycle; a useful concept among people who
-often work at night and/or according to no fixed schedule. It is not uncommon
-to change one's phase by as much as 6 hours per day on a regular basis.
-"What's your phase?" "I've been getting in about 8 P.M. lately, but I'm going
-to {wrap around} to the day schedule by Friday." A person who is roughly 12
-hours out of phase is sometimes said to be in `night mode'. (The term `day
-mode' is also (but less frequently) used, meaning you're working 9 to 5 (or,
-more likely, 10 to 6).) The act of altering one's cycle is called `changing
-phase'; `phase shifting' has also been recently reported from Caltech. 2.
-`change phase the hard way': To stay awake for a very long time in order to
-get into a different phase. 3. `change phase the easy way': To stay asleep,
-etc. However, some claim that either staying awake longer or sleeping longer
-is easy, and that it is _shortening_ your day or night that is really hard
-(see {wrap around}). The `jet lag' that afflicts travelers who cross many
-time-zone boundaries may be attributed to two distinct causes: the strain of
-travel per se, and the strain of changing phase. Hackers who suddenly find
-that they must change phase drastically in a short period of time,
-particularly the hard way, experience something very like jet lag without
-traveling. :phase of the moon: n. Used humorously as a random parameter on
-which something is said to depend. Sometimes implies unreliability of
-whatever is dependent, or that reliability seems to be dependent on
-conditions nobody has been able to determine. "This feature depends on having
-the channel open in mumble mode, having the foo switch set, and on the phase
-of the moon." see also {heisenbug}. True story: Once upon a time there was a
-program bug that really did depend on the phase of the moon. There was a
-little subroutine that had traditionally been used in various programs at MIT
-to calculate an approximation to the moon's true phase. GLS incorporated this
-routine into a LISP program that, when it wrote out a file, would print a
-timestamp line almost 80 characters long. Very occasionally the first line of
-the message would be too long and would overflow onto the next line, and when
-the file was later read back in the program would {barf}. The length of the
-first line depended on both the precise date and time and the length of the
-phase specification when the timestamp was printed, and so the bug literally
-depended on the phase of the moon! The first paper edition of the Jargon File
-(Steele-1983) included an example of one of the timestamp lines that
-exhibited this bug, but the typesetter `corrected' it. This has since been
-described as the phase-of-the-moon-bug bug. However, beware of assumptions. A
-few years ago, engineers of CERN (European Center for Nuclear Research) were
-baffled by some errors in experiments conducted with the LEP particle
-accelerator. As the formidable amount of data generated by such devices is
-heavily processed by computers before being seen by humans, many people
-suggested the software was somehow sensitive to the phase of the moon. A few
-desperate engineers discovered the truth; the error turned out to be the
-result of a tiny change in the geometry of the
+compiler that produces object [antonym of techspeak `optimizing compiler']
+code that is worse than the straightforward or obvious hand translation. The
+implication is that the compiler is actually trying to optimize the program,
+but through excessive cleverness is doing the opposite. A few pessimizing
+compilers have been written on purpose, however, as pranks or burlesques.
+:peta-: /pe't*/ pref [SI] see {{quantifiers}}. :PETSCII: /pet'skee/ n. obs.
+[abbreviation of PET ASCII] The variation (many would say perversion) of the
+{{ASCII}} character set used by the Commodore Business Machines PET series of
+personal computers and the later Commodore C64, C16, C128, and VIC20
+machines. The PETSCII set used left-arrow and up-arrow (as in old-style
+ASCII) instead of underscore and caret, placed the unshifted alphabet at
+positions 65-90, put the shifted alphabet at positions 193-218, and added
+graphics characters. :phage: n. A program that modifies other programs or
+databases in unauthorized ways; esp. one that propagates a {virus} or {Trojan
+horse}. see also {worm}, {mockingbird}. The analogy, of course, is with phage
+viruses in biology. :phase: 1. n. The offset of one's waking-sleeping
+schedule with respect to the standard 24-hour cycle; a useful concept among
+people who often work at night and/or according to no fixed schedule. It is
+not uncommon to change one's phase by as much as 6 hours per day on a regular
+basis. "What's your phase?" "I've been getting in about 8 P.M. lately, but
+I'm going to {wrap around} to the day schedule by Friday." A person who is
+roughly 12 hours out of phase is sometimes said to be in `night mode'. (The
+term `day mode' is also (but less frequently) used, meaning you're working 9
+to 5 (or, more likely, 10 to 6).) The act of altering one's cycle is called
+`changing phase'; `phase shifting' has also been recently reported from
+Caltech. 2. `change phase the hard way': To stay awake for a very long time
+in order to get into a different phase. 3. `change phase the easy way': To
+stay asleep, etc. However, some claim that either staying awake longer or
+sleeping longer is easy, and that it is _shortening_ your day or night that
+is really hard (see {wrap around}). The `jet lag' that afflicts travelers who
+cross many time-zone boundaries may be attributed to two distinct causes: the
+strain of travel per se, and the strain of changing phase. Hackers who
+suddenly find that they must change phase drastically in a short period of
+time, particularly the hard way, experience something very like jet lag
+without traveling. :phase of the moon: n. Used humorously as a random
+parameter on which something is said to depend. Sometimes implies
+unreliability of whatever is dependent, or that reliability seems to be
+dependent on conditions nobody has been able to determine. "This feature
+depends on having the channel open in mumble mode, having the foo switch set,
+and on the phase of the moon." see also {heisenbug}. True story: Once upon a
+time there was a program bug that really did depend on the phase of the moon.
+There was a little subroutine that had traditionally been used in various
+programs at MIT to calculate an approximation to the moon's true phase. GLS
+incorporated this routine into a LISP program that, when it wrote out a file,
+would print a timestamp line almost 80 characters long. Very occasionally the
+first line of the message would be too long and would overflow onto the next
+line, and when the file was later read back in the program would {barf}. The
+length of the first line depended on both the precise date and time and the
+length of the phase specification when the timestamp was printed, and so the
+bug literally depended on the phase of the moon! The first paper edition of
+the Jargon File (Steele-1983) included an example of one of the timestamp
+lines that exhibited this bug, but the typesetter `corrected' it. This has
+since been described as the phase-of-the-moon-bug bug. However, beware of
+assumptions. A few years ago, engineers of CERN (European Center for Nuclear
+Research) were baffled by some errors in experiments conducted with the LEP
+particle accelerator. As the formidable amount of data generated by such
+devices is heavily processed by computers before being seen by humans, many
+people suggested the software was somehow sensitive to the phase of the moon.
+A few desperate engineers discovered the truth; the error turned out to be
+the result of a tiny change in the geometry of the

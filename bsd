@@ -8,27 +8,28 @@ before the addition of layered products such as compilers, databases,
 multivendor networking, and programming tools. Recent (since VMS version 5)
 documentation comes with gray binders; under VMS version 4 the binders were
 orange (`big orange wall'), and under version 3 they were blue. see {VMS}.
-Often contracted to `Gray Wall'. :big iron: n. Large, expensive, ultra-fast
-computers. Used generally of {number-crunching} supercomputers such as Crays,
-but can include more conventional big commercial IBMish mainframes. Term of
-approval; compare {heavy metal}, oppose {dinosaur}. :Big Red Switch: n. [IBM]
-The power switch on a computer, esp. the `Emergency Pull' switch on an IBM
-{mainframe} or the power switch on an IBM PC where it really is large and
-red. "This !@%$% {bitty box} is hung again; time to hit the Big Red Switch."
-Sources at IBM report that, in tune with the company's passion for {TLA}s,
-this is often abbreviated as `BRS' (this has also become established on
-FidoNet and in the PC {clone} world). It is alleged that the emergency pull
-switch on an IBM 360/91 actually fired a non-conducting bolt into the main
-power feed; the BRSes on more recent mainframes physically drop a block into
-place so that they can't be pushed back in. People get fired for pulling
-them, especially inappropriately (see also {molly-guard}). Compare {power
-cycle}, {three-finger salute}, {120 reset}; see also {scram switch}. :Big
-Room: n. The extremely large room with the blue ceiling and intensely bright
-light (during the day) or black ceiling with lots of tiny night-lights
-(during the night) found outside all computer installations. "He can't come
-to the phone right now, he's somewhere out in the Big Room." :big win: n.
-Serendipity. "Yes, those two physicists discovered high-temperature
-superconductivity in a batch of ceramic that had been prepared incorrectly
-according to their experimental schedule. Small mistake; big win!" see {win
-big}. :big-endian: adj. [From Swift's "Gulliver's Travels" via the famous
-paper "On Holy Wars and a Plea for Peace" by Danny Cohen,
+Often contracted to `Gray Wall'. :big iron: n. [common] Large, expensive,
+ultra-fast computers. Used generally of {number-crunching} supercomputers
+such as Crays, but can include more conventional big commercial IBMish
+mainframes. Term of approval; compare {heavy metal}, oppose {dinosaur}. :Big
+Red Switch: n. [IBM] The power switch on a computer, esp. the `Emergency
+Pull' switch on an IBM {mainframe} or the power switch on an IBM PC where it
+really is large and red. "This !@%$% {bitty box} is hung again; time to hit
+the Big Red Switch." Sources at IBM report that, in tune with the company's
+passion for {TLA}s, this is often abbreviated as `BRS' (this has also become
+established on FidoNet and in the PC {clone} world). It is alleged that the
+emergency pull switch on an IBM 360/91 actually fired a non-conducting bolt
+into the main power feed; the BRSes on more recent mainframes physically drop
+a block into place so that they can't be pushed back in. People get fired for
+pulling them, especially inappropriately (see also {molly-guard}). Compare
+{power cycle}, {three-finger salute}, {120 reset}; see also {scram switch}.
+:Big Room: n. (Also `Big Blue Room') The extremely large room with the blue
+ceiling and intensely bright light (during the day) or black ceiling with
+lots of tiny night-lights (during the night) found outside all computer
+installations. "He can't come to the phone right now, he's somewhere out in
+the Big Room." :big win: n. 1. [common] Major success. 2. [MIT] Serendipity.
+"Yes, those two physicists discovered high-temperature superconductivity in a
+batch of ceramic that had been prepared incorrectly according to their
+experimental schedule. Small mistake; big win!" see {win big}. :big-endian:
+adj. [common; From Swift's "Gulliver's Travels" via the famous paper "On Holy
+Wars and a Plea for Peace" by Danny Cohen,

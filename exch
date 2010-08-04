@@ -204,76 +204,78 @@ flaming death: imp. A construction popularized among hackers by the infamous
 {CPU Wars} comic; supposedly derive from a famously turgid line in a WWII-era
 anti-Nazi propaganda comic that ran "Eat flaming death, non-Aryan mongrels!"
 or something of the sort (however, it is also reported that the Firesign
-Theatre's 1975 album "In The Next World, You're On Your Own" included the
-phrase "Eat fascist death, flaming media pigs"; this may have been an
-influence). Used in humorously overblown expressions of hostility. "Eat
-flaming death, {{EBCDIC}} users!" :EBCDIC:: /eb's*-dik/, /eb'see`dik/, or
-/eb'k*-dik/ n. [abbreviation, Extended Binary Coded Decimal Interchange Code]
-An alleged character set used on IBM {dinosaur}s. It exists in at least six
-mutually incompatible versions, all featuring such delights as non-contiguous
-letter sequences and the absence of several ASCII punctuation characters
-fairly important for modern computer languages (exactly which characters are
-absent varies according to which version of EBCDIC you're looking at). IBM
-adapted EBCDIC from {{punched card}} code in the early 1960s and promulgated
-it as a customer-control tactic (see {connector conspiracy}), spurning the
-already established ASCII standard. Today, IBM claims to be an open-systems
-company, but IBM's own description of the EBCDIC variants and how to convert
-between them is still internally classified top-secret, burn-before-reading.
-Hackers blanch at the very _name_ of EBCDIC and consider it a manifestation
-of purest {evil}. see also {fear and loathing}. :echo: [FidoNet] n. A {topic
-group} on {FidoNet}'s echomail system. Compare {newsgroup}. :ECP: /E-C-P/ n.
-see {spam} and {velveeta}. :egosurf: vi. To search the net for your name or
-links to your web pages. Perhaps connected to long-established SF-fan slang
-`egoscan', to search for one's name in a fanzine. :eighty-column mind: n.
-[IBM] The sort said to be possessed by persons for whom the transition from
-{punched card} to tape was traumatic (nobody has dared tell them about disks
-yet). It is said that these people, including (according to an old joke) the
-founder of IBM, will be buried `face down, 9-edge first' (the 9-edge being
-the bottom of the card). This directive is inscribed on IBM's 1402 and 1622
-card readers and is referenced in a famous bit of doggerel called "The Last
-Bug", the climactic lines of which are as follows: He died at the console Of
-hunger and thirst. Next day he was buried, Face down, 9-edge first. The
-eighty-column mind is thought by most hackers to dominate IBM's customer base
-and its thinking. see {IBM}, {fear and loathing}, {card walloper}. :El Camino
-Bignum: /el' k*-mee'noh big'nuhm/ n. The road mundanely called El Camino
-Real, running along San Francisco peninsula. It originally extended all the
-way down to Mexico City; many portions of the old road are still intact.
-Navigation on the San Francisco peninsula is usually done relative to El
-Camino Real, which defines {logical} north and south even though it isn't
-really north-south in many places. El Camino Real runs right past Stanford
-University and so is familiar to hackers. The Spanish word `real' (which has
-two syllables: /ray-ahl'/) means `royal'; El Camino Real is `the royal road'.
-In the FORTRAN language, a `real' quantity is a number typically precise to
-seven significant digits, and a `double precision' quantity is a larger
-floating-point number, precise to perhaps fourteen significant digits (other
-languages have similar `real' types). When a hacker from MIT visited Stanford
-in 1976, he remarked what a long road El Camino Real was. Making a pun on
-`real', he started calling it `El Camino Double Precision' -- but when the
-hacker was told that the road was hundreds of miles long, he renamed it `El
-Camino Bignum', and that name has stuck. (see {bignum}.) [GLS has since let
-slip that the unnamed hacker in this story was in fact himself --ESR] In
-recent years, the synonym `El Camino Virtual' has been reported as an
-alternate at IBM and Amdahl sites in the Valley. Mathematically literate
-hackers in the Valley have also been heard to refer to some major
-cross-street intersecting El Camino Real as "El Camino Imaginary". One
-popular theory is that the intersection is located near Moffet Field - where
-they keep all those complex planes. :elder days: n. The heroic age of
-hackerdom (roughly, pre-1980); the era of the {PDP-10}, {TECO}, {{ITS}}, and
-the ARPANET. This term has been rather consciously adopted from J. R. R.
-Tolkien's fantasy epic "The Lord of the Rings". Compare {Iron Age}; see also
-{elvish} and {Great Worm}. :elegant: adj. [from mathematical usage] Combining
-simplicity, power, and a certain ineffable grace of design. Higher praise
-than `clever', `winning', or even {cuspy}. The French aviator, adventurer,
-and author Antoine de Saint-Exupe'ry, probably best known for his classic
-children's book "The Little Prince", was also an aircraft designer. He gave
-us perhaps the best definition of engineering elegance when he said "A
-designer knows he has achieved perfection not when there is nothing left to
-add, but when there is nothing left to take away." :elephantine: adj. Used of
-programs or systems that are both conspicuous {hog}s (owing perhaps to poor
-design founded on {brute force and ignorance}) and exceedingly {hairy} in
-source form. An elephantine program may be functional and even friendly, but
-(as in the old joke about being in bed with an elephant) it's tough to have
-around all the same (and, like a pachyderm, difficult to maintain). In
+Theatre's 1975 album "In The Next World, You're On Your Own" a character won
+the right to scream "Eat flaming death, fascist media pigs" in the middle of
+Oscar night on a game show; this may have been an influence). Used in
+humorously overblown expressions of hostility. "Eat flaming death, {{EBCDIC}}
+users!" :EBCDIC:: /eb's*-dik/, /eb'see`dik/, or /eb'k*-dik/ n. [abbreviation,
+Extended Binary Coded Decimal Interchange Code] An alleged character set used
+on IBM {dinosaur}s. It exists in at least six mutually incompatible versions,
+all featuring such delights as non-contiguous letter sequences and the
+absence of several ASCII punctuation characters fairly important for modern
+computer languages (exactly which characters are absent varies according to
+which version of EBCDIC you're looking at). IBM adapted EBCDIC from {{punched
+card}} code in the early 1960s and promulgated it as a customer-control
+tactic (see {connector conspiracy}), spurning the already established ASCII
+standard. Today, IBM claims to be an open-systems company, but IBM's own
+description of the EBCDIC variants and how to convert between them is still
+internally classified top-secret, burn-before-reading. Hackers blanch at the
+very _name_ of EBCDIC and consider it a manifestation of purest {evil}. see
+also {fear and loathing}. :echo: [FidoNet] n. A {topic group} on {FidoNet}'s
+echomail system. Compare {newsgroup}. :ECP: /E-C-P/ n. see {spam} and
+{velveeta}. :egosurf: vi. To search the net for your name or links to your
+web pages. Perhaps connected to long-established SF-fan slang `egoscan', to
+search for one's name in a fanzine. :eighty-column mind: n. [IBM] The sort
+said to be possessed by persons for whom the transition from {punched card}
+to tape was traumatic (nobody has dared tell them about disks yet). It is
+said that these people, including (according to an old joke) the founder of
+IBM, will be buried `face down, 9-edge first' (the 9-edge being the bottom of
+the card). This directive is inscribed on IBM's 1402 and 1622 card readers
+and is referenced in a famous bit of doggerel called "The Last Bug", the
+climactic lines of which are as follows: He died at the console Of hunger and
+thirst. Next day he was buried, Face down, 9-edge first. The eighty-column
+mind was thought by most hackers to dominate IBM's customer base and its
+thinking. This only began to change in the mid-1990s when IBM began to
+reinvent itself after the triumph of the {killer micro}. see {IBM}, {fear and
+loathing}, {card walloper}. :El Camino Bignum: /el' k*-mee'noh big'nuhm/ n.
+The road mundanely called El Camino Real, running along San Francisco
+peninsula. It originally extended all the way down to Mexico City; many
+portions of the old road are still intact. Navigation on the San Francisco
+peninsula is usually done relative to El Camino Real, which defines {logical}
+north and south even though it isn't really north-south in many places. El
+Camino Real runs right past Stanford University and so is familiar to
+hackers. The Spanish word `real' (which has two syllables: /ray-ahl'/) means
+`royal'; El Camino Real is `the royal road'. In the FORTRAN language, a
+`real' quantity is a number typically precise to seven significant digits,
+and a `double precision' quantity is a larger floating-point number, precise
+to perhaps fourteen significant digits (other languages have similar `real'
+types). When a hacker from MIT visited Stanford in 1976, he remarked what a
+long road El Camino Real was. Making a pun on `real', he started calling it
+`El Camino Double Precision' -- but when the hacker was told that the road
+was hundreds of miles long, he renamed it `El Camino Bignum', and that name
+has stuck. (see {bignum}.) [GLS has since let slip that the unnamed hacker in
+this story was in fact himself --ESR] In recent years, the synonym `El Camino
+Virtual' has been reported as an alternate at IBM and Amdahl sites in the
+Valley. Mathematically literate hackers in the Valley have also been heard to
+refer to some major cross-street intersecting El Camino Real as "El Camino
+Imaginary". One popular theory is that the intersection is located near
+Moffett Field - where they keep all those complex planes. :elder days: n. The
+heroic age of hackerdom (roughly, pre-1980); the era of the {PDP-10}, {TECO},
+{{ITS}}, and the ARPANET. This term has been rather consciously adopted from
+J. R. R. Tolkien's fantasy epic "The Lord of the Rings". Compare {Iron Age};
+see also {elvish} and {Great Worm}. :elegant: adj. [common; from mathematical
+usage] Combining simplicity, power, and a certain ineffable grace of design.
+Higher praise than `clever', `winning', or even {cuspy}. The French aviator,
+adventurer, and author Antoine de Saint-Exupe'ry, probably best known for his
+classic children's book "The Little Prince", was also an aircraft designer.
+He gave us perhaps the best definition of engineering elegance when he said
+"A designer knows he has achieved perfection not when there is nothing left
+to add, but when there is nothing left to take away." :elephantine: adj. Used
+of programs or systems that are both conspicuous {hog}s (owing perhaps to
+poor design founded on {brute force and ignorance}) and exceedingly {hairy}
+in source form. An elephantine program may be functional and even friendly,
+but (as in the old joke about being in bed with an elephant) it's tough to
+have around all the same (and, like a pachyderm, difficult to maintain). In
 extreme cases, hackers have been known to make trumpeting sounds or perform
 expressive proboscatory mime at the mention of the offending program. Usage:
 semi-humorous. Compare `has the elephant nature' and the somewhat more
@@ -287,28 +289,32 @@ what if you're targeting an elevator controller?" Elevator controllers became
 important rhetorical weapons on both sides of several {holy wars}. :elite:
 adj. Clueful. Plugged-in. One of the cognoscenti. Also used as a general
 positive adjective. This term is not actually hacker slang in the strict
-sense; it is used primarily by crackers and {warez d00dz}. This term used to
-refer to the folks allowed in to the "hidden" or "privileged" sections of
-BBSes in the early 1980s (which, typically, contained pirated software).
-Frequently, early boards would only let you post, or even see, a certain
-subset of the sections (or `boards') on a BBS. Those who got to the
-frequently legendary `triple super secret' boards were elite. A true hacker
-would be more likely to use `wizardly'. Oppose {lamer}. :ELIZA effect:
-/*-li:'z* *-fekt'/ n. [AI community] The tendency of humans to attach
-associations to terms from prior experience. For example, there is nothing
-magic about the symbol `+' that makes it well-suited to indicate addition;
-it's just that people associate it with addition. Using `+' or `plus' to mean
-addition in a computer language is taking advantage of the ELIZA effect. This
-term comes from the famous ELIZA program by Joseph Weizenbaum, which
-simulated a Rogerian psychotherapist by rephrasing many of the patient's
-statements as questions and posing them to the patient. It worked by simple
-pattern recognition and substitution of key words into canned phrases. It was
-so convincing, however, that there are many anecdotes about people becoming
-very emotionally caught up in dealing with ELIZA. All this was due to
-people's tendency to attach to words meanings which the computer never put
-there. The ELIZA effect is a {Good Thing} when writing a programming
-language, but it can blind you to serious shortcomings when analyzing an
-Artificial Intelligence system. Compare {ad-hockery}; see also {AI-complete}.
+sense; it is used primarily by crackers and {warez d00dz}, for which reason
+hackers use it only with heavy irony. The term used to refer to the folks
+allowed in to the "hidden" or "privileged" sections of BBSes in the early
+1980s (which, typically, contained pirated software). Frequently, early
+boards would only let you post, or even see, a certain subset of the sections
+(or `boards') on a BBS. Those who got to the frequently legendary `triple
+super secret' boards were elite. Misspellings of this term in warez d00dz
+style abound; the forms `eleet', and `31337' (among others) have been
+sighted. A true hacker would be more likely to use `wizardly'. Oppose
+{lamer}. :ELIZA effect: /*-li:'z* *-fekt'/ n. [AI community] The tendency of
+humans to attach associations to terms from prior experience. For example,
+there is nothing magic about the symbol `+' that makes it well-suited to
+indicate addition; it's just that people associate it with addition. Using
+`+' or `plus' to mean addition in a computer language is taking advantage of
+the ELIZA effect. This term comes from the famous ELIZA program by Joseph
+Weizenbaum, which simulated a Rogerian psychotherapist by rephrasing many of
+the patient's statements as questions and posing them to the patient. It
+worked by simple pattern recognition and substitution of key words into
+canned phrases. It was so convincing, however, that there are many anecdotes
+about people becoming very emotionally caught up in dealing with ELIZA. All
+this was due to people's tendency to attach to words meanings which the
+computer never put there. The ELIZA effect is a {Good Thing} when writing a
+programming language, but it can blind you to serious shortcomings when
+analyzing an Artificial Intelligence system. Compare {ad-hockery}; see also
+{AI-complete}. Sources for a clone of the original Eliza are available at
+`ftp://ftp.cc.utexas.edu/pub/AI_ATTIC/Programs/Classic/Eliza/Eliza.c'.
 :elvish: n. 1. The Tengwar of Feanor, a table of letterforms resembling the
 beautiful Celtic half-uncial hand of the "Book of Kells". Invented and
 described by J. R. R. Tolkien in "The Lord of The Rings" as an orthography
@@ -338,28 +344,29 @@ suggest the one feature the editor does not (yet) include. Indeed, some
 hackers find EMACS too {heavyweight} and {baroque} for their taste, and
 expand the name as `Escape Meta Alt Control Shift' to spoof its heavy
 reliance on keystrokes decorated with {bucky bits}. Other spoof expansions
-include `Eight Megabytes And Constantly Swapping', `Eventually `malloc()'s
-All Computer Storage', and `EMACS Makes A Computer Slow' (see {{recursive
-acronym}}). see also {vi}. :email: /ee'mayl/ (also written `e-mail' and
-`E-mail') 1. n. Electronic mail automatically passed through computer
-networks and/or via modems over common-carrier lines. Contrast {snail-mail},
-{paper-net}, {voice-net}. see {network address}. 2. vt. To send electronic
-mail. Oddly enough, the word `emailed' is actually listed in the OED; it
-means "embossed (with a raised pattern) or perh. arranged in a net or open
-work". A use from 1480 is given. The word is probably derived from French
-`e'maille" (enameled) and related to Old French `emmailleu"re' (network). A
-French correspondent tells us that in modern French, `email' is a hard enamel
-obtained by heating special paints in a furnace; an `emailleur' (no final e)
-is a craftsman who makes email (he generally paints some objects (like, say,
-jewelry) and cooks them in a furnace). There are numerous spelling variants
-of this word. In Internet traffic up to 1995, `email' predominates, `e-mail'
-runs a not-too-distant second, and `E-mail' and `Email' are a distant third
-and fourth. :emoticon: /ee-moh'ti-kon/ n. An ASCII glyph used to indicate an
-emotional state in email or news. Although originally intended mostly as
-jokes, emoticons (or some other explicit humor indication) are virtually
-required under certain circumstances in high-volume text-only communication
-forums such as Usenet; the lack of verbal and visual cues can otherwise cause
-what were intended to be humorous, sarcastic, ironic, or otherwise
+include `Eight Megabytes And Constantly Swapping' (from when that was a lot
+of {core}), `Eventually `malloc()'s All Computer Storage', and `EMACS Makes A
+Computer Slow' (see {{recursive acronym}}). see also {vi}. :email: /ee'mayl/
+(also written `e-mail' and `E-mail') 1. n. Electronic mail automatically
+passed through computer networks and/or via modems over common-carrier lines.
+Contrast {snail-mail}, {paper-net}, {voice-net}. see {network address}. 2.
+vt. To send electronic mail. Oddly enough, the word `emailed' is actually
+listed in the OED; it means "embossed (with a raised pattern) or perh.
+arranged in a net or open work". A use from 1480 is given. The word is
+probably derived from French `e'maille" (enameled) and related to Old French
+`emmailleu"re' (network). A French correspondent tells us that in modern
+French, `email' is a hard enamel obtained by heating special paints in a
+furnace; an `emailleur' (no final e) is a craftsman who makes email (he
+generally paints some objects (like, say, jewelry) and cooks them in a
+furnace). There are numerous spelling variants of this word. In Internet
+traffic up to 1995, `email' predominates, `e-mail' runs a not-too-distant
+second, and `E-mail' and `Email' are a distant third and fourth. :emoticon:
+/ee-moh'ti-kon/ n. [common] An ASCII glyph used to indicate an emotional
+state in email or news. Although originally intended mostly as jokes,
+emoticons (or some other explicit humor indication) are virtually required
+under certain circumstances in high-volume text-only communication forums
+such as Usenet; the lack of verbal and visual cues can otherwise cause what
+were intended to be humorous, sarcastic, ironic, or otherwise
 non-100%-serious comments to be badly misinterpreted (not always even by
 {newbie}s), resulting in arguments and {flame war}s. Hundreds of emoticons
 have been proposed, but only a few are in common use. These include: :-)
@@ -372,8 +379,8 @@ Hyphenless forms of them are common on CompuServe, GEnie, and BIX; see also
 {bixie}. On {Usenet}, `smiley' is often used as a generic term synonymous
 with {emoticon}, as well as specifically for the happy-face emoticon. It
 appears that the emoticon was invented by one Scott Fahlman on the CMU
-{bboard} systems sometiome between early 1981 and mid-1982. He later wrote:
-"I wish I had saved the original post, or at least recorded the date for
+{bboard} systems sometime between early 1981 and mid-1982. He later wrote: "I
+wish I had saved the original post, or at least recorded the date for
 posterity, but I had no idea that I was starting something that would soon
 pollute all the world's communication channels." [GLS confirms that he
 remembers this original posting]. Note for the {newbie}: Overuse of the
@@ -396,7 +403,7 @@ is at `http://empire.idlpaper.com/'. :engine: n. 1. A piece of hardware that
 encapsulates some function but can't be used without some kind of {front
 end}. Today we have, especially, `print engine': the guts of a laser printer.
 2. An analogous piece of software; notionally, one that does a lot of noisy
-crunching, such as a `database engine'. The hackish senses of `engine' are
+crunching, such as a `database engine'. The hacker senses of `engine' are
 actually close to its original, pre-Industrial-Revolution sense of a skill,
 clever device, or instrument (the word is cognate to `ingenuity'). This sense
 had not been completely eclipsed by the modern connotation of
@@ -425,7 +432,7 @@ depending on whether or not the person felt interruptible. Compare {ping},
 [abbreviation, `End Of File'] 1. [techspeak] The {out-of-band} value returned
 by C's sequential character-input functions (and their equivalents in other
 environments) when end of file has been reached. This value is usually -1
-under C libraries postdating V6 Unix, but was originally 0. DOS hackers thing
+under C libraries postdating V6 Unix, but was originally 0. DOS hackers think
 EOF is ^Z, and a few Amiga hackers think it's ^\. 2. [Unix] The keyboard
 character (usually control-D, the ASCII EOT (End Of Transmission) character)
 that is mapped by the terminal driver into an end-of-file condition. 3. Used
@@ -557,9 +564,10 @@ interface component of Windows 95 and WinNT 4. Our spies report that most of
 the heavy guns at MS came from a Unix background and use command line
 utilities; even they are scornful of the over-gingerbreaded {WIMP
 environment}s that they have been called upon to create. :exploit: n.
-[originally cracker slang] A vulnerability in software that can be used for
-breaking security or otherwise attacking an Internet host over the network.
-The {Ping O' Death} is a famous exploit. :external memory: n. A memo pad,
+[originally cracker slang] 1. A vulnerability in software that can be used
+for breaking security or otherwise attacking an Internet host over the
+network. The {Ping O' Death} is a famous exploit. 2. More grammatically,
+program that exploits an exploit in sense 1, :external memory: n. A memo pad,
 palmtop computer, or written notes. "Hold on while I write that to external
 memory". The analogy is with store or DRAM versus nonvolatile disk storage on
 computers. :eye candy: /i:' kand`ee/ n. [from mainstream slang "ear candy"] A
@@ -569,7 +577,7 @@ candy while the back-end {slurp}s that {BLOB} into core." :eyeball search:
 n.,v. To look for something in a mass of code or data with one's own native
 optical sensors, as opposed to using some sort of pattern matching software
 like {grep} or any other automated search tool. Also called a {vgrep};
-compare {vdiff}, {desk check}. = F = ===== :face time: n. Time spent
+compare {vdiff}, {desk check}. = F = ===== :face time: n. [common] Time spent
 interacting with somebody face-to-face (as opposed to via electronic links).
 "Oh, yeah, I spent some face time with him at the last Usenix." :factor: n.
 see {coefficient of X}. :fall over: vi. [IBM] Yet another synonym for {crash}
@@ -598,10 +606,10 @@ hackers are fans, so this term has been imported from fannish slang; however,
 unlike much fannish slang it is recognized by most non-fannish hackers. Among
 SF fans the plural is correctly `fen', but this usage is not automatic to
 hackers. "Laura reads the stuff occasionally but isn't really a fan."
-:fandango: :fandango on core: n. [Unix/C hackers, from the Mexican dance] In
-C, a wild pointer that runs out of bounds, causing a {core dump}, or corrupts
-the `malloc(3)' {arena} in such a way as to cause mysterious failures later
-on, is sometimes said to have `done a fandango on core'. On low-end personal
+:fandango on core: n. [Unix/C hackers, from the Iberian dance] In C, a wild
+pointer that runs out of bounds, causing a {core dump}, or corrupts the
+`malloc(3)' {arena} in such a way as to cause mysterious failures later on,
+is sometimes said to have `done a fandango on core'. On low-end personal
 machines without an MMU, this can corrupt the OS itself, causing massive
 lossage. Other frenetic dances such as the rhumba, cha-cha, or watusi, may be
 substituted. see {aliasing bug}, {precedence lossage}, {smash the stack},
@@ -614,8 +622,8 @@ example of a collection of one kind of lore, although it is far too big for a
 regular FAQ posting. Examples: "What is the proper type of NULL?" and "What's
 that funny name for the `#' character?" are both Frequently Asked Questions.
 Several FAQs refer readers to this file. :FAQ list: /F-A-Q list/ or /fak
-list/ n. [Usenet] Syn {FAQ}, sense 2. :FAQL: /fa'kl/ n. Syn. {FAQ list}.
-:faradize: /far'*-di:z/ v. [US Geological Survey] To start any
+list/ n. [common; Usenet] Syn {FAQ}, sense 2. :FAQL: /fa'kl/ n. Syn. {FAQ
+list}. :faradize: /far'*-di:z/ v. [US Geological Survey] To start any
 hyper-addictive process or trend, or to continue adding current to such a
 trend. Telling one user about a new octo-tetris game you compiled would be a
 faradizing act -- in two weeks you might find your entire department playing
@@ -628,9 +636,35 @@ magnetic media. Associated with a {crash}. Typically used as follows: "Oh no,
 the machine has just crashed; I hope the hard drive hasn't gone {farming}
 again." No longer common; modern drives automatically park their heads in a
 safe zone on power-down, so it takes a real mechanical problem to induce
-this. :fascist: adj. 1. Said of a computer system with excessive or annoying
-security barriers, usage limits, or access policies. The implication is that
-said policies are preventing hackers from getting interesting work done. The
-variant `fascistic' seems to have been preferred at MIT, poss. by analogy
-with `touristic' (see {tourist} or under the influence of German/Yiddish
-`faschistisch').
+this. :fascist: adj. 1. [common] Said of a computer system with excessive or
+annoying security barriers, usage limits, or access policies. The implication
+is that said policies are preventing hackers from getting interesting work
+done. The variant `fascistic' seems to have been preferred at MIT, poss. by
+analogy with `touristic' (see {tourist} or under the influence of
+German/Yiddish `faschistisch'). 2. In the design of languages and other
+software tools, `the fascist alternative' is the most restrictive and
+structured way of capturing a particular function; the implication is that
+this may be desirable in order to simplify the implementation or provide
+tighter error checking. Compare {bondage-and-discipline language}, although
+that term is global rather than local. :fat electrons: n. Old-time hacker
+David Cargill's theory on the causation of computer glitches. Your typical
+electric utility draws its line current out of the big generators with a pair
+of coil taps located near the top of the dynamo. When the normal tap brushes
+get dirty, they take them off line to clean them up, and use special
+auxiliary taps on the _bottom_ of the coil. Now, this is a problem, because
+when they do that they get not ordinary or `thin' electrons, but the
+fat'n'sloppy electrons that are heavier and so settle to the bottom of the
+generator. These flow down ordinary wires just fine, but when they have to
+turn a sharp corner (as in an integrated-circuit via), they're apt to get
+stuck. This is what causes computer glitches. [Fascinating. Obviously, fat
+electrons must gain mass by {bogon} absorption --ESR] Compare {bogon}, {magic
+smoke}. :faulty: adj. Non-functional; buggy. Same denotation as
+{bletcherous}, {losing}, q.v., but the connotation is much milder. :fd leak:
+/F-D leek/ n. A kind of programming bug analogous to a {core leak}, in which
+a program fails to close file descriptors (`fd's) after file operations are
+completed, and thus eventually runs out of them. see {leak}. :fear and
+loathing: n. [from Hunter S. Thompson] A state inspired by the prospect of
+dealing with certain real-world systems and standards that are totally
+{brain-damaged} but ubiquitous -- Intel 8086s, or {COBOL}, or {{EBCDIC}}, or
+any {IBM} machine bigger than a workstation. "Ack! They want PCs to be able
+to talk to the

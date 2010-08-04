@@ -1,9 +1,467 @@
- :BOFH: // /n./ Acronym, Bastard Operator From Hell. A system administrator
-with absolutely no tolerance for {luser}s. "You say you need more filespace?
-<massive-global-delete> seems to me you have plenty left..." Many BOFHs (and
-others who would be BOFHs if they could get away with it) hang out in the
-newsgroup alt.sysadmin.recovery, although there has also been created a
-top-level newsgroup hierarchy (bofh.*) of their own. Several people have
-written stories about BOFHs. The set usually considered canonical is by Simon
-Travaglia and may be found at the Bastard Home Page,
-http://prime-mover.cc.waikato.ac.nz/Bastard.html.
+ 3. A mental flag: a reminder that something should be done eventually. "I
+have a bit set for you." (I haven't seen you for a while, and I'm supposed to
+tell or ask you something.) 4. More generally, a (possibly incorrect) mental
+state of belief. "I have a bit set that says that you were the last guy to
+hack on EMACS." (Meaning "I think you were the last guy to hack on EMACS, and
+what I am about to say is predicated on this, so please stop me if this isn't
+true.") "I just need one bit from you" is a polite way of indicating that you
+intend only a short interruption for a question that can presumably be
+answered yes or no. A bit is said to be `set' if its value is true or 1, and
+`reset' or `clear' if its value is false or 0. One speaks of setting and
+clearing bits. To {toggle} or `invert' a bit is to change it, either from 0
+to 1 or from 1 to 0. see also {flag}, {trit}, {mode bit}. The term `bit'
+first appeared in print in the computer-science sense in 1949, and seems to
+have been coined by early computer scientist John Tukey. Tukey records that
+it evolved over a lunch table as a handier alternative to `bigit' or `binit'.
+:bit bang: n. Transmission of data on a serial line, when accomplished by
+rapidly tweaking a single output bit, in software, at the appropriate times.
+The technique is a simple loop with eight OUT and SHIFT instruction pairs for
+each byte. Input is more interesting. And full duplex (doing input and output
+at the same time) is one way to separate the real hackers from the
+{wannabee}s. Bit bang was used on certain early models of Prime computers,
+presumably when UARTs were too expensive, and on archaic Z80 micros with a
+Zilog PIO but no SIO. In an interesting instance of the {cycle of
+reincarnation}, this technique returned to use in the early 1990s on some
+RISC architectures because it consumes such an infinitesimal part of the
+processor that it actually makes sense not to have a UART. Compare {cycle of
+reincarnation}. :bit bashing: n. (alt. `bit diddling' or {bit twiddling})
+Term used to describe any of several kinds of low-level programming
+characterized by manipulation of {bit}, {flag}, {nybble}, and other
+smaller-than-character-sized pieces of data; these include low-level device
+control, encryption algorithms, checksum and error-correcting codes, hash
+functions, some flavors of graphics programming (see {bitblt}), and
+assembler/compiler code generation. May connote either tedium or a real
+technical challenge (more usually the former). "The command decoding for the
+new tape driver looks pretty solid but the bit-bashing for the control
+registers still has bugs." see also {bit bang}, {mode bit}. :bit bucket: n.
+[very common] 1. The universal data sink (originally, the mythical receptacle
+used to catch bits when they fall off the end of a register during a shift
+instruction). Discarded, lost, or destroyed data is said to have `gone to the
+bit bucket'. On {{Unix}}, often used for {/dev/null}. Sometimes amplified as
+`the Great Bit Bucket in the Sky'. 2. The place where all lost mail and news
+messages eventually go. The selection is performed according to {Finagle's
+Law}; important mail is much more likely to end up in the bit bucket than
+junk mail, which has an almost 100% probability of getting delivered. Routing
+to the bit bucket is automatically performed by mail-transfer agents, news
+systems, and the lower layers of the network. 3. The ideal location for all
+unwanted mail responses: "Flames about this article to the bit bucket." Such
+a request is guaranteed to overflow one's mailbox with flames. 4. Excuse for
+all mail that has not been sent. "I mailed you those figures last week; they
+must have landed in the bit bucket." Compare {black hole}. This term is used
+purely in jest. It is based on the fanciful notion that bits are objects that
+are not destroyed but only misplaced. This appears to have been a mutation of
+an earlier term `bit box', about which the same legend was current; old-time
+hackers also report that trainees used to be told that when the CPU stored
+bits into memory it was actually pulling them `out of the bit box'. see also
+{chad box}. Another variant of this legend has it that, as a consequence of
+the `parity preservation law', the number of 1 bits that go to the bit bucket
+must equal the number of 0 bits. Any imbalance results in bits filling up the
+bit bucket. A qualified computer technician can empty a full bit bucket as
+part of scheduled maintenance. :bit decay: n. see {bit rot}. People with a
+physics background tend to prefer this variant for the analogy with particle
+decay. see also {computron}, {quantum bogodynamics}. :bit rot: n. [common]
+Also {bit decay}. Hypothetical disease the existence of which has been
+deduced from the observation that unused programs or features will often stop
+working after sufficient time has passed, even if `nothing has changed'. The
+theory explains that bits decay as if they were radioactive. As time passes,
+the contents of a file or the code in a program will become increasingly
+garbled. There actually are physical processes that produce such effects
+(alpha particles generated by trace radionuclides in ceramic chip packages,
+for example, can change the contents of a computer memory unpredictably, and
+various kinds of subtle media failures can corrupt files in mass storage),
+but they are quite rare (and computers are built with error-detecting
+circuitry to compensate for them). The notion long favored among hackers that
+cosmic rays are among the causes of such events turns out to be a myth; see
+the {cosmic rays} entry for details. The term {software rot} is almost
+synonymous. Software rot is the effect, bit rot the notional cause. :bit
+twiddling: n. [very common] 1. (pejorative) An exercise in tuning (see
+{tune}) in which incredible amounts of time and effort go to produce little
+noticeable improvement, often with the result that the code becomes
+incomprehensible. 2. Aimless small modification to a program, esp. for some
+pointless goal. 3. Approx. syn. for {bit bashing}; esp. used for the act of
+frobbing the device control register of a peripheral in an attempt to get it
+back to a known state. :bit-paired keyboard: n.,obs. (alt. `bit-shift
+keyboard') A non-standard keyboard layout that seems to have originated with
+the Teletype ASR-33 and remained common for several years on early computer
+equipment. The ASR-33 was a mechanical device (see {EOU}), so the only way to
+generate the character codes from keystrokes was by some physical linkage.
+The design of the ASR-33 assigned each character key a basic pattern that
+could be modified by flipping bits if the SHIFT or the CTRL key was pressed.
+In order to avoid making the thing even more of a kluge than it already was,
+the design had to group characters that shared the same basic bit pattern on
+one key. Looking at the ASCII chart, we find: high low bits bits 0000 0001
+0010 0011 0100 0101 0110 0111 1000 1001 010 ! " # $ % & ' ( ) 011 0 1 2 3 4 5
+6 7 8 9 This is why the characters !"#$%&'() appear where they do on a
+Teletype (thankfully, they didn't use shift-0 for space). This was _not_ the
+weirdest variant of the {QWERTY} layout widely seen, by the way; that prize
+should probably go to one of several (differing) arrangements on IBM's even
+clunkier 026 and 029 card punches. When electronic terminals became popular,
+in the early 1970s, there was no agreement in the industry over how the
+keyboards should be laid out. Some vendors opted to emulate the Teletype
+keyboard, while others used the flexibility of electronic circuitry to make
+their product look like an office typewriter. These alternatives became known
+as `bit-paired' and `typewriter-paired' keyboards. To a hacker, the
+bit-paired keyboard seemed far more logical -- and because most hackers in
+those days had never learned to touch-type, there was little pressure from
+the pioneering users to adapt keyboards to the typewriter standard. The doom
+of the bit-paired keyboard was the large-scale introduction of the computer
+terminal into the normal office environment, where out-and-out technophobes
+were expected to use the equipment. The `typewriter-paired' standard became
+universal, `bit-paired' hardware was quickly junked or relegated to dusty
+corners, and both terms passed into disuse. However, in countries without a
+long history of touch typing, the argument against the bit-paired keyboard
+layout was weak or nonexistent. As a result, the standard Japanese keyboard,
+used on PC's, Unix boxen etc. still has all of the !"#$%&'() characters above
+the numbers in the ASR-33 layout. :bitblt: /bit'blit/ n. [from {BLT}, q.v.]
+1. [common] Any of a family of closely related algorithms for moving and
+copying rectangles of bits between main and display memory on a bit-mapped
+device, or between two areas of either main or display memory (the
+requirement to do the {Right Thing} in the case of overlapping source and
+destination rectangles is what makes BitBlt tricky). 2. Synonym for {blit} or
+{BLT}. Both uses are borderline techspeak. :BITNET: /bit'net/ n., obs.
+[acronym: Because It's Time NETwork] Everybody's least favorite piece of the
+network (see {the network}) - until AOL happened. The BITNET hosts were a
+collection of IBM dinosaurs and VAXen (the latter with lobotomized comm
+hardware) that communicate using 80-character {{EBCDIC}} card images (see
+{eighty-column mind}); thus, they tend to mangle the headers and text of
+third-party traffic from the rest of the ASCII/{RFC}-822 world with annoying
+regularity. BITNET was also notorious as the apparent home of {B1FF}. By 1995
+it had, much to everyone's relief, been obsolesced and absorbed into the
+Internet. Unfortunately, around this time we also got AOL. :bits: pl.n. 1.
+Information. Examples: "I need some bits about file formats." ("I need to
+know about file formats.") Compare {core dump}, sense 4. 2. Machine-readable
+representation of a document, specifically as contrasted with paper: "I have
+only a photocopy of the Jargon File; does anyone know where I can get the
+bits?". see {softcopy}, {source of all good bits} See also {bit}. :bitty box:
+/bit'ee boks/ n. 1. A computer sufficiently small, primitive, or incapable as
+to cause a hacker acute claustrophobia at the thought of developing software
+on or for it. Especially used of small, obsolescent, single-tasking-only
+personal machines such as the Atari 800, Osborne, Sinclair, VIC-20, TRS-80,
+or IBM PC. 2. [Pejorative] More generally, the opposite of `real computer'
+(see {Get a real computer!}). see also {mess-dos}, {toaster}, and {toy}.
+:bixen: pl.n. Users of BIX (the BIX Information eXchange, formerly the Byte
+Information eXchange). Parallels other plurals like vixen, {VAXen}, oxen.
+:bixie: /bik'see/ n. Variant {emoticon}s used on BIX (the Byte Information
+eXchange). The most common ({smiley}) bixie is <@_@>, representing two
+cartoon eyes and a mouth. These were originally invented in an SF fanzine
+called APA-L and imported to BIX by one of the earliest users. :black art: n.
+[common] A collection of arcane, unpublished, and (by implication) mostly
+ad-hoc techniques developed for a particular application or systems area
+(compare {black magic}). VLSI design and compiler code optimization were (in
+their beginnings) considered classic examples of black art; as theory
+developed they became {deep magic}, and once standard textbooks had been
+written, became merely {heavy wizardry}. The huge proliferation of formal and
+informal channels for spreading around new computer-related technologies
+during the last twenty years has made both the term `black art' and what it
+describes less common than formerly. see also {voodoo programming}. :black
+hole: n.,vt. [common] What data (a piece of email or netnews, or a stream of
+TCP/IP packets) has fallen into if it disappears mysteriously between its
+origin and destination sites (that is, without returning a {bounce message}).
+"I think there's a black hole at foovax!" conveys suspicion that site foovax
+has been dropping a lot of stuff on the floor lately (see {drop on the
+floor}). The implied metaphor of email as interstellar travel is interesting
+in itself. Readily verbed as `blackhole': "That router is blackholing IDP
+packets." Compare {bit bucket}. :black magic: n. [common] A technique that
+works, though nobody really understands why. More obscure than {voodoo
+programming}, which may be done by cookbook. Compare also {black art}, {deep
+magic}, and {magic number} (sense 2). :Black Screen of Death: n. [prob.
+related to the Floating Head of Death in a famous "Far Side" cartoon.] A
+failure mode of {Microsloth Windows}. On an attempt to launch a DOS box, a
+networked Windows system not uncommonly blanks the screen and locks up the PC
+so hard that it requires a cold {boot} to recover. This unhappy phenomenon is
+known as The Black Screen of Death. see also {Blue Screen of Death}, which
+has become rather more common. :Black Thursday: n. February 8th, 1996 - the
+day of the signing into law of the {CDA}, so called by analogy with the
+catastrophic "Black Friday" in 1929 that began the Great Depression. :blammo:
+v. [Oxford Brookes University and alumni, UK] To forcibly remove someone from
+any interactive system, especially talker systems. The operators, who may
+remain hidden, may `blammo' a user who is misbehaving. Very similar to MIT
+{gun}; in fact, the `blammo-gun' is a notional device used to `blammo'
+someone. While in actual fact the only incarnation of the blammo-gun is the
+command used to forcibly eject a user, operators speak of different levels of
+blammo-gun fire; e.g., a blammo-gun to `stun' will temporarily remove
+someone, but a blammo-gun set to `maim' will stop someone coming back on for
+a while. :blargh: /blarg/ n. [MIT; now common] The opposite of {ping}, sense
+5; an exclamation indicating that one has absorbed or is emitting a quantum
+of unhappiness. Less common than {ping}. :blast: 1. v.,n. Synonym for {BLT},
+used esp. for large data sends over a network or comm line. Opposite of
+{snarf}. Usage: uncommon. The variant `blat' has been reported. 2. vt.
+[HP/Apollo] Synonymous with {nuke} (sense 3). Sometimes the message `Unable
+to kill all processes. Blast them (y/n)?' would appear in the command window
+upon logout. :blat: n. 1. Syn. {blast}, sense 1. 2. see {thud}. :bletch:
+/blech/ interj. [very common; from Yiddish/German `brechen', to vomit, poss.
+via comic-strip exclamation `blech'] Term of disgust. Often used in "Ugh,
+bletch". Compare {barf}. :bletcherous: /blech'*-r*s/ adj. Disgusting in
+design or function; esthetically unappealing. This word is seldom used of
+people. "This keyboard is bletcherous!" (Perhaps the keys don't work very
+well, or are misplaced.) see {losing}, {cretinous}, {bagbiting}, {bogus}, and
+{random}. The term {bletcherous} applies to the esthetics of the thing so
+described; similarly for {cretinous}. By contrast, something that is `losing'
+or `bagbiting' may be failing to meet objective criteria. see also {bogus}
+and {random}, which have richer and wider shades of meaning than any of the
+above. :blink: vi.,n. To use a navigator or off-line message reader to
+minimize time spent on-line to a commercial network service. As of late 1994,
+this term was said to be in wide use in the UK, but is rare or unknown in the
+US. :blinkenlights: /blink'*n-li:tz/ n. [common] Front-panel diagnostic
+lights on a computer, esp. a {dinosaur}. Now that dinosaurs are rare, this
+term usually refers to status lights on a modem, network hub, or the like.
+This term derives from the last word of the famous blackletter-Gothic sign in
+mangled pseudo-German that once graced about half the computer rooms in the
+English-speaking world. One version ran in its entirety as follows: ACHTUNG!
+ALLES LOOKENSPEEPERS! Das computermachine ist nicht fuer gefingerpoken und
+mittengrabben. Ist easy schnappen der springenwerk, blowenfusen und
+poppencorken mit spitzensparken. Ist nicht fuer gewerken bei das dumpkopfen.
+Das rubbernecken sichtseeren keepen das cotten-pickenen hans in das pockets
+muss; relaxen und watchen das blinkenlichten. This silliness dates back at
+least as far as 1959 at Stanford University and had already gone
+international by the early 1960s, when it was reported at London University's
+ATLAS computing site. There are several variants of it in circulation, some
+of which actually do end with the word `blinkenlights'. In an amusing example
+of turnabout-is-fair-play, German hackers have developed their own versions
+of the blinkenlights poster in fractured English, one of which is reproduced
+here: ATTENTION This room is fullfilled mit special electronische equippment.
+Fingergrabbing and pressing the cnoeppkes from the computers is allowed for
+die experts only! So all the "lefthanders" stay away and do not disturben the
+brainstorming von here working intelligencies. Otherwise you will be out
+thrown and kicked anderswhere! Also: please keep still and only watchen
+astaunished the blinkenlights. see also {geef}. Old-time hackers sometimes
+get nostalgic for blinkenlights because they were so much more fun to look at
+than a blank panel. Sadly, very few computers still have them (the three LEDs
+on a PC keyboard certainly don't count). The obvious reasons (cost of wiring,
+cost of front-panel cutouts, almost nobody needs or wants to interpret
+machine-register states on the fly anymore) are only part of the story.
+Another part of it is that radio-frequency leakage from the lamp wiring was
+beginning to be a problem as far back as transistor machines. But the most
+fundamental fact is that there are very few signals slow enough to blink an
+LED these days! With slow CPUs, you could watch the bus register or
+instruction counter tick, but at 33/66/150MHz it's all a blur. Finally, a
+version updated for the Internet has been seen on news.admin.net-abuse.email:
+ACHTUNG! ALLES LOOKENSPEEPERS! Das Internet is nicht fuer gefingerclicken und
+giffengrabben. Ist easy droppenpacket der routers und overloaden der backbone
+mit der spammen und der me-tooen. Ist nicht fuer gewerken bei das dumpkopfen.
+Das mausklicken sichtseeren keepen das bandwit-spewin hans in das pockets
+muss; relaxen und watchen das cursorblinken. :blit: /blit/ vt. 1. [common] To
+copy a large array of bits from one part of a computer's memory to another
+part, particularly when the memory is being used to determine what is shown
+on a display screen. "The storage allocator picks through the table and
+copies the good parts up into high memory, and then blits it all back down
+again." see {bitblt}, {BLT}, {dd}, {cat}, {blast}, {snarf}. More generally,
+to perform some operation (such as toggling) on a large array of bits while
+moving them. 2. [historical, rare] Sometimes all-capitalized as `BLIT': an
+early experimental bit-mapped terminal designed by Rob Pike at Bell Labs,
+later commercialized as the AT&T 5620. (The folk etymology from `Bell Labs
+Intelligent Terminal' is incorrect. Its creators liked to claim that "Blit"
+stood for the Bacon, Lettuce, and Interactive Tomato.) :blitter: /blit'r/ n.
+[common] A special-purpose chip or hardware system built to perform {blit}
+operations, esp. used for fast implementation of bit-mapped graphics. The
+Commodore Amiga and a few other micros have these, but since 1990 the trend
+has been away from them (however, see {cycle of reincarnation}). Syn. {raster
+blaster}. :blivet: /bliv'*t/ n. [allegedly from a World War II military term
+meaning "ten pounds of manure in a five-pound bag"] 1. An intractable
+problem. 2. A crucial piece of hardware that can't be fixed or replaced if it
+breaks. 3. A tool that has been hacked over by so many incompetent
+programmers that it has become an unmaintainable tissue of hacks. 4. An
+out-of-control but unkillable development effort. 5. An embarrassing bug that
+pops up during a customer demo. 6. In the subjargon of computer security
+specialists, a denial-of-service attack performed by hogging limited
+resources that have no access controls (for example, shared spool space on a
+multi-user system). This term has other meanings in other technical cultures;
+among experimental physicists and hardware engineers of various kinds it
+seems to mean any random object of unknown purpose (similar to hackish use of
+{frob}). It has also been used to describe an amusing trick-the-eye drawing
+resembling a three-pronged fork that appears to depict a three-dimensional
+object until one realizes that the parts fit together in an impossible way.
+:bloatware: n. [common] Software that provides minimal functionality while
+requiring a disproportionate amount of diskspace and memory. Especially used
+for application and OS upgrades. This term is very common in the Windows/NT
+world. So is its cause. :BLOB: 1. n. [acronym: Binary Large OBject] Used by
+database people to refer to any random large block of bits that needs to be
+stored in a database, such as a picture or sound file. The essential point
+about a BLOB is that it's an object that cannot be interpreted within the
+database itself. 2. v. To {mailbomb} someone by sending a BLOB to him/her;
+esp. used as a mild threat. "If that program crashes again, I'm going to BLOB
+the core dump to you." :block: v. [common; from process scheduling
+terminology in OS theory] 1. vi. To delay or sit idle while waiting for
+something. "We're blocking until everyone gets here." Compare {busy-wait}. 2.
+`block on' vt. To block, waiting for (something). "Lunch is blocked on Phil's
+arrival." :block transfer computations: n. [from the television series "Dr.
+Who"] Computations so fiendishly subtle and complex that they could not be
+performed by machines. Used to refer to any task that should be expressible
+as an algorithm in theory, but isn't. (The Z80's LDIR instruction, "Computed
+Block Transfer with increment", may also be relevant.) :Bloggs Family: n. An
+imaginary family consisting of Fred and Mary Bloggs and their children. Used
+as a standard example in knowledge representation to show the difference
+between extensional and intensional objects. For example, every occurrence of
+"Fred Bloggs" is the same unique person, whereas occurrences of "person" may
+refer to different people. Members of the Bloggs family have been known to
+pop up in bizarre places such as the old {DEC} Telephone Directory. Compare
+{Dr. Fred Mbogo}; {J. Random Hacker}; {Fred Foobar}. :blow an EPROM: /bloh *n
+ee'prom/ v. (alt. `blast an EPROM', `burn an EPROM') To program a read-only
+memory, e.g. for use with an embedded system. This term arose because the
+programming process for the Programmable Read-Only Memories (PROMs) that
+preceded present-day Erasable Programmable Read-Only Memories (EPROMs)
+involved intentionally blowing tiny electrical fuses on the chip. The usage
+lives on (it's too vivid and expressive to discard) even though the write
+process on EPROMs is nondestructive. :blow away: vt. To remove (files and
+directories) from permanent storage, generally by accident. "He reformatted
+the wrong partition and blew away last night's netnews." Oppose {nuke}. :blow
+out: vi. [prob. from mining and tunneling jargon] Of software, to fail
+spectacularly; almost as serious as {crash and burn}. see {blow past}, {blow
+up}, {die horribly}. :blow past: vt. To {blow out} despite a safeguard. "The
+server blew past the 5K reserve buffer." :blow up: vi. 1. [scientific
+computation] To become unstable. Suggests that the computation is diverging
+so rapidly that it will soon overflow or at least go {nonlinear}. 2. Syn.
+{blow out}. :BLT: /B-L-T/, /bl*t/ or (rarely) /belt/ n.,vt. Synonym for
+{blit}. This is the original form of {blit} and the ancestor of {bitblt}. It
+referred to any large bit-field copy or move operation (one
+resource-intensive memory-shuffling operation done on pre-paged versions of
+ITS, WAITS, and TOPS-10 was sardonically referred to as `The Big BLT'). The
+jargon usage has outlasted the {PDP-10} BLock Transfer instruction from which
+{BLT} derives; nowadays, the assembler mnemonic {BLT} almost always means
+`Branch if Less Than zero'. :Blue Book: n. 1. Informal name for one of the
+four standard references on the page-layout and graphics-control language
+{{PostScript}} ("PostScript Language Tutorial and Cookbook", Adobe Systems,
+Addison-Wesley 1985, QA76.73.P67P68, ISBN 0-201-10179-3); the other three
+official guides are known as the {Green Book}, the {Red Book}, and the {White
+Book} (sense 2). 2. Informal name for one of the three standard references on
+Smalltalk: "Smalltalk-80: The Language and its Implementation", David Robson,
+Addison-Wesley 1983, QA76.8.S635G64, ISBN 0-201-11371-63 (this book also has
+green and red siblings). 3. Any of the 1988 standards issued by the CCITT's
+ninth plenary assembly. These include, among other things, the X.400 email
+spec and the Group 1 through 4 fax standards. see also {{book titles}}. :blue
+box: n. 1. obs. Once upon a time, before all-digital switches made it
+possible for the phone companies to move them out of band, one could actually
+hear the switching tones used to route long-distance calls. Early {phreaker}s
+built devices called `blue boxes' that could reproduce these tones, which
+could be used to commandeer portions of the phone network. (This was not as
+hard as it may sound; one early phreak acquired the sobriquet `Captain
+Crunch' after he proved that he could generate switching tones with a plastic
+whistle pulled out of a box of Captain Crunch cereal!) There were other
+colors of box with more specialized phreaking uses; red boxes, black boxes,
+silver boxes, etc. 2. n. An {IBM} machine, especially a large (non-PC) one.
+:Blue Glue: n. [IBM] IBM's SNA (Systems Network Architecture), an incredibly
+{losing} and {bletcherous} communications protocol widely favored at
+commercial shops that don't know any better. The official IBM definition is
+"that which binds blue boxes together." see {fear and loathing}. It may not
+be irrelevant that Blue Glue is the trade name of a 3M product that is
+commonly used to hold down the carpet squares to the removable panel floors
+common in {dinosaur pen}s. A correspondent at U. Minn. reports that the CS
+department there has about 80 bottles of the stuff hanging about, so they
+often refer to any messy work to be done as `using the blue glue'. :blue goo:
+n. Term for `police' {nanobot}s intended to prevent {gray goo}, denature
+hazardous waste, destroy pollution, put ozone back into the stratosphere,
+prevent halitosis, and promote truth, justice, and the American way, etc. The
+term `Blue Goo' can be found in Dr. Seuss's "Fox In Socks" to refer to a
+substance much like bubblegum. `Would you like to chew blue goo, sir?'. see
+{{nanotechnology}}. :Blue Screen of Death: n. [common] This term is closely
+related to the older {Black Screen of Death} but much more common (many
+non-hackers have picked it up). Due to the extreme fragility and bugginess of
+Microsoft Windows (3.1/95/NT versions), misbehaving applications can crash
+the OS. The Blue Screen of Death, sometimes decorated with hex error codes,
+is what you get when this happens. (Commonly abbreviated {BSOD}.) This event
+is sufficiently common to have inspired the following haiku from Alan Tuplin:
+Your system which soared So freely on gliding wings now hangs, frozen and
+blue The following entry from the Salon Haiku Contest
+(http://www.salonmagazine.com/21st/chal/1998/02/10chal2.html), seems to have
+predated popular use of the term (and may indeed have inspired it): Windows
+NT crashed. I am the Blue Screen of Death No one hears your screams. :blue
+wire: n. [IBM] Patch wires added to circuit boards at the factory to correct
+design or fabrication problems. These may be necessary if there hasn't been
+time to design and qualify another board version. Compare {purple wire}, {red
+wire}, {yellow wire}, {pink wire}. :blurgle: /bler'gl/ n. [UK] Spoken
+{metasyntactic variable}, to indicate some text that is obvious from context,
+or which is already known. If several words are to be replaced, blurgle may
+well be doubled or tripled. "To look for something in several files use `grep
+string blurgle blurgle'." In each case, "blurgle blurgle" would be understood
+to be replaced by the file you wished to search. Compare {mumble}, sense 7.
+:BNF: /B-N-F/ n. 1. [techspeak] Acronym for `Backus-Naur Form', a
+metasyntactic notation used to specify the syntax of programming languages,
+command sets, and the like. Widely used for language descriptions but seldom
+documented anywhere, so that it must usually be learned by osmosis from other
+hackers. Consider this BNF for a U.S. postal address: <postal-address> ::=
+<name-part> <street-address> <zip-part> <personal-part> ::= <name> |
+<initial> "." <name-part> ::= <personal-part> <last-name> [<jr-part>] <EOL> |
+<personal-part> <name-part> <street-address> ::= [<apt>] <house-num>
+<street-name> <EOL> <zip-part> ::= <town-name> "," <state-code> <ZIP-code>
+<EOL> This translates into English as: "A postal-address consists of a
+name-part, followed by a street-address part, followed by a zip-code part. A
+personal-part consists of either a first name or an initial followed by a
+dot. A name-part consists of either: a personal-part followed by a last name
+followed by an optional `jr-part' (Jr., Sr., or dynastic number) and
+end-of-line, or a personal part followed by a name part (this rule
+illustrates the use of recursion in BNFs, covering the case of people who use
+multiple first and middle names and/or initials). A street address consists
+of an optional apartment specifier, followed by a street number, followed by
+a street name. A zip-part consists of a town-name, followed by a comma,
+followed by a state code, followed by a ZIP-code followed by an end-of-line."
+Note that many things (such as the format of a personal-part, apartment
+specifier, or ZIP-code) are left unspecified. These are presumed to be
+obvious from context or detailed somewhere nearby. see also {parse}. 2. Any
+of a number of variants and extensions of BNF proper, possibly containing
+some or all of the {regexp} wildcards such as `*' or `+'. In fact the example
+above isn't the pure form invented for the Algol-60 report; it uses `[]',
+which was introduced a few years later in IBM's PL/I definition but is now
+universally recognized. 3. In {{science-fiction fandom}}, a `Big-Name Fan'
+(someone famous or notorious). Years ago a fan started handing out
+black-on-green BNF buttons at SF conventions; this confused the hacker
+contingent terribly. :boa: [IBM] n. Any one of the fat cables that lurk under
+the floor in a {dinosaur pen}. Possibly so called because they display a
+ferocious life of their own when you try to lay them straight and flat after
+they have been coiled for some time. It is rumored within IBM that channel
+cables for the 370 are limited to 200 feet because beyond that length the
+boas get dangerous -- and it is worth noting that one of the major cable
+makers uses the trademark `Anaconda'. :board: n. 1. In-context synonym for
+{bboard}; sometimes used even for Usenet newsgroups (but see usage note under
+{bboard}, sense 1). 2. An electronic circuit board. :boat anchor: n. [common;
+from ham radio] 1. Like {doorstop} but more severe; implies that the
+offending hardware is irreversibly dead or useless. "That was a working
+motherboard once. One lightning strike later, instant boat anchor!" 2. A
+person who just takes up space. 3. Obsolete but still working hardware,
+especially when used of an old S100-bus hobbyist system; originally a term of
+annoyance, but became more and more affectionate as the hardware became more
+and more obsolete. :bob: n. At Demon Internet, all tech support personal are
+called "Bob". (Female support personnel have an option on "Bobette"). This
+has nothing to do with Bob the divine drilling-equipment salesman of the
+{Church of the SubGenius}. Nor is it acronymized from "Brother Of {BOFH}",
+though all parties agree it could have been. Rather, it was triggered by an
+unusually large draft of new tech-support people in 1995. It was observed
+that there would be much duplication of names. To ease the confusion, it was
+decided that all support techs would henceforth be known as "Bob", and
+identity badges were created labelled "Bob 1" and "Bob 2". (No, we never got
+any further). The reason for "Bob" rather than anything else is due to a
+{luser} calling and asking to speak to "Bob", despite the fact that no "Bob"
+was currently working for Tech Support. Since we all know "the customer is
+always right", it was decided that there had to be at least one "Bob" on duty
+at all times, just in case. This sillyness inexorably snowballed. Shift
+leaders and managers began to refer to their groups of "bobs". Whole ranks of
+support machines were set up (and still exist in the DNS as of 1999) as bob1
+through bobN. Then came alt.tech-support.recovery, and it was filled with
+Demon support personnel. They all referred to themselves, and to others, as
+`bob', and after a while it caught on. There is now a Bob Code
+(http://bob.bob.bofh.org/~giolla/bobcode.html) describing the Bob nature.
+:bodysurf code: n. A program or segment of code written quickly in the heat
+of inspiration without the benefit of formal design or deep thought. Like its
+namesake sport, the result is too often a wipeout that leaves the programmer
+eating sand. :BOF: /B-O-F/ or /bof/ n. 1. [common] Abbreviation for the
+phrase "Birds Of a Feather" (flocking together), an informal discussion group
+and/or bull session scheduled on a conference program. It is not clear where
+or when this term originated, but it is now associated with the USENIX
+conferences for Unix techies and was already established there by 1984. It
+was used earlier than that at DECUS conferences and is reported to have been
+common at SHARE meetings as far back as the early 1960s. 2. Acronym,
+`Beginning of File'. :BOFH: // n. [common] Acronym, Bastard Operator From
+Hell. A system administrator with absolutely no tolerance for {luser}s. "You
+say you need more filespace? <massive-global-delete> seems to me you have
+plenty left..." Many BOFHs (and others who would be BOFHs if they could get
+away with it) hang out in the newsgroup alt.sysadmin.recovery, although there
+has also been created a top-level newsgroup hierarchy (bofh.*) of their own.
+Several people have written stories about BOFHs. The set usually considered
+canonical is by Simon Travaglia and may be found at the Bastard Home Page,
+`http://prime-mover.cc.waikato.ac.nz/Bastard.html'. BOFHs and BOFH wannabes
+hang out on {scary devil monastery} and wield {LART}s. :bogo-sort:
+/boh`goh-sort'/ n. (var. `stupid-sort') The archetypical perversely awful
+algorithm (as opposed to {bubble sort}, which is merely the generic _bad_
+algorithm). Bogo-sort is equivalent to repeatedly throwing a deck of cards in
+the air, picking them up at random, and then testing whether they are in
+order. It serves as a sort of canonical example of awfulness. Looking at a
+program and seeing a dumb algorithm, one might say "Oh,

@@ -1,6 +1,6 @@
  MIT people used to complain about the `control-meta-cokebottle' commands at
 SAIL, and SAIL people complained right back about the
-`{altmode}-altmode-cokebottle' commands at MIT. After the demise of the
+`escape-escape-cokebottle' commands at MIT. After the demise of the
 {space-cadet keyboard}, `cokebottle' faded away as serious usage, but was
 often invoked humorously to describe an (unspecified) weird or non-intuitive
 keystroke command. It may be due for a second inning, however. The OSF/Motif
@@ -111,9 +111,9 @@ see also {propeller head}, {clustergeeking}, {geek out}, {wannabee},
 use this term in a positive sense and protest sense 1 (this seems to have
 been a post-1990 development). For one such argument, see
 `http://samsara.circus.com/~omni/geek.html'. see also {geek code}.
-:computron: /kom'pyoo-tron`/ n. 1. A notional unit of computing power
-combining instruction speed and storage capacity, dimensioned roughly in
-instructions-per-second times megabytes-of-main-store times
+:computron: /kom'pyoo-tron`/ n. 1. [common] A notional unit of computing
+power combining instruction speed and storage capacity, dimensioned roughly
+in instructions-per-second times megabytes-of-main-store times
 megabytes-of-mass-storage. "That machine can't run GNU Emacs, it doesn't have
 enough computrons!" This usage is usually found in metaphors that treat
 computing power as a fungible commodity good, like a crop yield or diesel
@@ -187,12 +187,14 @@ returns a `dot-pair' or two-branched tree with one object hanging from each
 branch. Because the result of a cons is an object, it can be used to build
 binary trees of any shape and complexity. Hackers think of it as a sort of
 universal constructor, and that is where the jargon meanings spring from.
-:considered harmful: adj. Edsger W. Dijkstra's note in the March 1968
-"Communications of the ACM", "Goto Statement Considered Harmful", fired the
-first salvo in the structured programming wars (text at
+:considered harmful: adj. [very common] Edsger W. Dijkstra's note in the
+March 1968 "Communications of the ACM", "Goto Statement Considered Harmful",
+fired the first salvo in the structured programming wars (text at
 `http://www.acm.org/classics'). Amusingly, the ACM considered the resulting
 acrimony sufficiently harmful that it will (by policy) no longer print an
-article taking so assertive a position against a coding practice. In the
+article taking so assertive a position against a coding practice. (Years
+afterwards, a contrary view contrary view was uttered in a CACM letter
+called, inevitably, "`Goto considered harmful' considered harmful'"'. In the
 ensuing decades, a large number of both serious papers and parodies have
 borne titles of the form "X considered Y". The structured-programming wars
 eventually blew over with the realization that both sides were wrong, but use
@@ -206,103 +208,102 @@ from. Some of the mystique remains, however, and it is traditional for
 sysadmins to post urgent messages to all users from the console (on Unix,
 /dev/console). 2. On microcomputer Unix boxes, the main screen and keyboard
 (as opposed to character-only terminals talking to a serial port). Typically
-only the console can do real graphics or run {X}. see also {CTY}. :console
-jockey: n. see {terminal junkie}. :content-free: adj. [by analogy with
-techspeak `context-free'] Used of a message that adds nothing to the
-recipient's knowledge. Though this adjective is sometimes applied to
-{flamage}, it more usually connotes derision for communication styles that
-exalt form over substance or are centered on concerns irrelevant to the
-subject ostensibly at hand. Perhaps most used with reference to speeches by
-company presidents and other professional manipulators. "Content-free? Uh...
-that's anything printed on glossy paper." (see also {four-color glossies}.)
-"He gave a talk on the implications of electronic networks for postmodernism
-and the fin-de-siecle aesthetic. It was content-free." :control-C: vi. 1.
-"Stop whatever you are doing." From the interrupt character used on many
-operating systems to abort a running program. Considered silly. 2. interj.
-Among BSD Unix hackers, the canonical humorous response to "Give me a break!"
-:control-O: vi. "Stop talking." From the character used on some operating
-systems to abort output but allow the program to keep on running. Generally
-means that you are not interested in hearing anything more from that person,
-at least on that topic; a standard response to someone who is flaming.
-Considered silly. Compare {control-S}. :control-Q: vi. "Resume." From the
-ASCII DC1 or {XON} character (the pronunciation /X-on/ is therefore also
-used), used to undo a previous {control-S}. :control-S: vi. "Stop talking for
-a second." From the ASCII DC3 or XOFF character (the pronunciation /X-of/ is
-therefore also used). Control-S differs from {control-O} in that the person
-is asked to stop talking (perhaps because you are on the phone) but will be
-allowed to continue when you're ready to listen to him -- as opposed to
-control-O, which has more of the meaning of "Shut up." Considered silly.
-:Conway's Law: prov. The rule that the organization of the software and the
-organization of the software team will be congruent; commonly stated as "If
-you have four groups working on a compiler, you'll get a 4-pass compiler".
-The original statement was more general, "Organizations which design systems
-are constrained to produce designs which are copies of the communication
-structures of these organizations." This first appeared in the April 1968
-issue of {Datamation}. Compare {SNAFU principle}. The law was named after
-Melvin Conway, an early proto-hacker who wrote an assembler for the Burroughs
-220 called SAVE. (The name `SAVE' didn't stand for anything; it was just that
-you lost fewer card decks and listings because they all had SAVE written on
-them.) There is also Tom Cheatham's amendment of Conway's Law: "If a group of
-N persons implements a COBOL compiler, there will be N-1 passes. Someone in
-the group has to be the manager." :cookbook: n. [from amateur electronics and
-radio] A book of small code segments that the reader can use to do various
-{magic} things in programs. One current example is the "{{PostScript}}
-Language Tutorial and Cookbook" by Adobe Systems, Inc (Addison-Wesley, ISBN
-0-201-10179-3), also known as the {Blue Book} which has recipes for things
-like wrapping text around arbitrary curves and making 3D fonts. Cookbooks,
-slavishly followed, can lead one into {voodoo programming}, but are useful
-for hackers trying to {monkey up} small programs in unknown languages. This
-function is analogous to the role of phrasebooks in human languages. :cooked
-mode: n. [Unix, by opposition from {raw mode}] The normal character-input
-mode, with interrupts enabled and with erase, kill and other
-special-character interpretations performed directly by the tty driver.
-Oppose {raw mode}, {rare mode}. This term is techspeak under Unix but jargon
-elsewhere; other operating systems often have similar mode distinctions, and
-the raw/rare/cooked way of describing them has spread widely along with the C
-language and other Unix exports. Most generally, `cooked mode' may refer to
-any mode of a system that does extensive preprocessing before presenting data
-to a program. :cookie: n. A handle, transaction ID, or other token of
-agreement between cooperating programs. "I give him a packet, he gives me
-back a cookie." The claim check you get from a dry-cleaning shop is a perfect
-mundane example of a cookie; the only thing it's useful for is to relate a
-later transaction to this one (so you get the same clothes back). Compare
-{magic cookie}; see also {fortune cookie}. :cookie bear: n. obs. Original
-term, pre-Sesame-Street, for what is now universally called a {cookie
-monster}. A correspondent observes "In those days, hackers were actually
-getting their yucks from...sit down now...Andy Williams. Yes, _that_ Andy
-Williams. seems he had a rather hip (by the standards of the day) TV variety
-show. One of the best parts of the show was the recurring `cookie bear'
-sketch. In these sketches, a guy in a bear suit tried all sorts of tricks to
-get a cookie out of Williams. The sketches would always end with Williams
-shrieking (and I don't mean figuratively), `No cookies! Not now, not
-ever...NEVER!!!' And the bear would fall down. Great stuff." :cookie file: n.
-A collection of {fortune cookie}s in a format that facilitates retrieval by a
-fortune program. There are several different cookie files in public
-distribution, and site admins often assemble their own from various sources
-including this lexicon. :cookie jar: n. An area of memory set aside for
-storing {cookie}s. Most commonly heard in the Atari ST community; many useful
-ST programs record their presence by storing a distinctive {magic number} in
-the jar. Programs can inquire after the presence or otherwise of other
-programs by searching the contents of the jar. :cookie monster: n. [from the
-children's TV program "Sesame Street"] Any of a family of early (1970s) hacks
-reported on {{TOPS-10}}, {{ITS}}, {{Multics}}, and elsewhere that would lock
-up either the victim's terminal (on a time-sharing machine) or the
-{{console}} (on a batch {mainframe}), repeatedly demanding "I WANT A COOKIE".
-The required responses ranged in complexity from "COOKIE" through "HAVE A
-COOKIE" and upward. Folklorist Jan Brunvand (see {FOAF}) has described these
-programs as urban legends (implying they probably never existed) but they
-existed, all right, in several different versions. see also {wabbit}.
-Interestingly, the term `cookie monster' appears to be a {retcon}; the
-original term was {cookie bear}. :copious free time: n. [Apple; orig. fr. the
-intro to Tom Lehrer's song "It Makes A Fellow Proud To Be A Soldier"] 1.
-[used ironically to indicate the speaker's lack of the quantity in question]
-A mythical schedule slot for accomplishing tasks held to be unlikely or
-impossible. Sometimes used to indicate that the speaker is interested in
-accomplishing the task, but believes that the opportunity will not arise.
-"I'll implement the automatic layout stuff in my copious free time." 2.
-[Archly] Time reserved for bogus or otherwise idiotic tasks, such as
-implementation of {chrome}, or the stroking of {suit}s. "I'll get back to him
-on that feature in my copious free time." :copper: n. Conventional
+only the console can do real graphics or run {X}. :console jockey: n. see
+{terminal junkie}. :content-free: adj. [by analogy with techspeak
+`context-free'] Used of a message that adds nothing to the recipient's
+knowledge. Though this adjective is sometimes applied to {flamage}, it more
+usually connotes derision for communication styles that exalt form over
+substance or are centered on concerns irrelevant to the subject ostensibly at
+hand. Perhaps most used with reference to speeches by company presidents and
+other professional manipulators. "Content-free? Uh... that's anything printed
+on glossy paper." (see also {four-color glossies}.) "He gave a talk on the
+implications of electronic networks for postmodernism and the fin-de-siecle
+aesthetic. It was content-free." :control-C: vi. 1. "Stop whatever you are
+doing." From the interrupt character used on many operating systems to abort
+a running program. Considered silly. 2. interj. Among BSD Unix hackers, the
+canonical humorous response to "Give me a break!" :control-O: vi. "Stop
+talking." From the character used on some operating systems to abort output
+but allow the program to keep on running. Generally means that you are not
+interested in hearing anything more from that person, at least on that topic;
+a standard response to someone who is flaming. Considered silly. Compare
+{control-S}. :control-Q: vi. "Resume." From the ASCII DC1 or {XON} character
+(the pronunciation /X-on/ is therefore also used), used to undo a previous
+{control-S}. :control-S: vi. "Stop talking for a second." From the ASCII DC3
+or XOFF character (the pronunciation /X-of/ is therefore also used).
+Control-S differs from {control-O} in that the person is asked to stop
+talking (perhaps because you are on the phone) but will be allowed to
+continue when you're ready to listen to him -- as opposed to control-O, which
+has more of the meaning of "Shut up." Considered silly. :Conway's Law: prov.
+The rule that the organization of the software and the organization of the
+software team will be congruent; commonly stated as "If you have four groups
+working on a compiler, you'll get a 4-pass compiler". The original statement
+was more general, "Organizations which design systems are constrained to
+produce designs which are copies of the communication structures of these
+organizations." This first appeared in the April 1968 issue of {Datamation}.
+Compare {SNAFU principle}. The law was named after Melvin Conway, an early
+proto-hacker who wrote an assembler for the Burroughs 220 called SAVE. (The
+name `SAVE' didn't stand for anything; it was just that you lost fewer card
+decks and listings because they all had SAVE written on them.) There is also
+Tom Cheatham's amendment of Conway's Law: "If a group of N persons implements
+a COBOL compiler, there will be N-1 passes. Someone in the group has to be
+the manager." :cookbook: n. [from amateur electronics and radio] A book of
+small code segments that the reader can use to do various {magic} things in
+programs. One current example is the "{{PostScript}} Language Tutorial and
+Cookbook" by Adobe Systems, Inc (Addison-Wesley, ISBN 0-201-10179-3), also
+known as the {Blue Book} which has recipes for things like wrapping text
+around arbitrary curves and making 3D fonts. Cookbooks, slavishly followed,
+can lead one into {voodoo programming}, but are useful for hackers trying to
+{monkey up} small programs in unknown languages. This function is analogous
+to the role of phrasebooks in human languages. :cooked mode: n. [Unix, by
+opposition from {raw mode}] The normal character-input mode, with interrupts
+enabled and with erase, kill and other special-character interpretations
+performed directly by the tty driver. Oppose {raw mode}, {rare mode}. This
+term is techspeak under Unix but jargon elsewhere; other operating systems
+often have similar mode distinctions, and the raw/rare/cooked way of
+describing them has spread widely along with the C language and other Unix
+exports. Most generally, `cooked mode' may refer to any mode of a system that
+does extensive preprocessing before presenting data to a program. :cookie: n.
+A handle, transaction ID, or other token of agreement between cooperating
+programs. "I give him a packet, he gives me back a cookie." The claim check
+you get from a dry-cleaning shop is a perfect mundane example of a cookie;
+the only thing it's useful for is to relate a later transaction to this one
+(so you get the same clothes back). Compare {magic cookie}; see also {fortune
+cookie}. :cookie bear: n. obs. Original term, pre-Sesame-Street, for what is
+now universally called a {cookie monster}. A correspondent observes "In those
+days, hackers were actually getting their yucks from...sit down now...Andy
+Williams. Yes, _that_ Andy Williams. seems he had a rather hip (by the
+standards of the day) TV variety show. One of the best parts of the show was
+the recurring `cookie bear' sketch. In these sketches, a guy in a bear suit
+tried all sorts of tricks to get a cookie out of Williams. The sketches would
+always end with Williams shrieking (and I don't mean figuratively), `No
+cookies! Not now, not ever...NEVER!!!' And the bear would fall down. Great
+stuff." :cookie file: n. A collection of {fortune cookie}s in a format that
+facilitates retrieval by a fortune program. There are several different
+cookie files in public distribution, and site admins often assemble their own
+from various sources including this lexicon. :cookie jar: n. An area of
+memory set aside for storing {cookie}s. Most commonly heard in the Atari ST
+community; many useful ST programs record their presence by storing a
+distinctive {magic number} in the jar. Programs can inquire after the
+presence or otherwise of other programs by searching the contents of the jar.
+:cookie monster: n. [from the children's TV program "Sesame Street"] Any of a
+family of early (1970s) hacks reported on {{TOPS-10}}, {{ITS}}, {{Multics}},
+and elsewhere that would lock up either the victim's terminal (on a
+time-sharing machine) or the {{console}} (on a batch {mainframe}), repeatedly
+demanding "I WANT A COOKIE". The required responses ranged in complexity from
+"COOKIE" through "HAVE A COOKIE" and upward. Folklorist Jan Brunvand (see
+{FOAF}) has described these programs as urban legends (implying they probably
+never existed) but they existed, all right, in several different versions.
+see also {wabbit}. Interestingly, the term `cookie monster' appears to be a
+{retcon}; the original term was {cookie bear}. :copious free time: n. [Apple;
+orig. fr. the intro to Tom Lehrer's song "It Makes A Fellow Proud To Be A
+Soldier"] 1. [used ironically to indicate the speaker's lack of the quantity
+in question] A mythical schedule slot for accomplishing tasks held to be
+unlikely or impossible. Sometimes used to indicate that the speaker is
+interested in accomplishing the task, but believes that the opportunity will
+not arise. "I'll implement the automatic layout stuff in my copious free
+time." 2. [Archly] Time reserved for bogus or otherwise idiotic tasks, such
+as implementation of {chrome}, or the stroking of {suit}s. "I'll get back to
+him on that feature in my copious free time." :copper: n. Conventional
 electron-carrying network cable with a core conductor of copper -- or
 aluminum! Opposed to {light pipe} or, say, a short-range microwave link.
 :copy protection: n. A class of methods for preventing incompetent pirates

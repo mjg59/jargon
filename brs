@@ -86,36 +86,40 @@ moving to within walking distance, or (best of all) telecommuting.
 :MicroDroid: n. [Usenet] A Microsoft employee, esp. one who posts to various
 operating-system advocacy newsgroups. MicroDroids post follow-ups to any
 messages critical of Microsoft's operating systems, and often end up sounding
-like visiting Mormon missionaries. :microfloppies: n. 3.5-inch floppies, as
-opposed to 5.25-inch {vanilla} or mini-floppies and the now-obsolete 8-inch
-variety. This term may be headed for obsolescence as 5.25-inchers pass out of
-use, only to be revived if anybody floats a sub-3-inch floppy standard. see
-{stiffy}, {minifloppies}. :microfortnight: n. 1/1000000 of the fundamental
-unit of time in the Furlong/Firkin/Fortnight system of measurement; 1.2096
-sec. (A furlong is 1/8th of a mile; a firkin is 1/4th of a barrel; the mass
-unit of the system is taken to be a firkin of water). The VMS operating
-system has a lot of tuning parameters that you can set with the SYSGEN
-utility, and one of these is TIMEPROMPTWAIT, the time the system will wait
-for an operator to set the correct date and time at boot if it realizes that
-the current value is bogus. This time is specified in microfortnights!
-Multiple uses of the millifortnight (about 20 minutes) and {nanofortnight}
-have also been reported. :microLenat: /mi:`-kroh-len'-*t/ n. The unit of
-{bogosity}, written uL (or mL in plain ASCII); the consensus is that this is
-the largest unit practical for everyday use. The microLenat, originally
-invented by David Jefferson, was promulgated as an attack against noted
-computer scientist Doug Lenat by a {tenured graduate student} at CMU. Doug
-had failed the student on an important exam for giving only "AI is bogus" as
-his answer to the questions. The slur is generally considered unmerited, but
-it has become a running gag nevertheless. Some of Doug's friends argue that
-_of course_ a microLenat is bogus, since it is only one millionth of a Lenat.
+like visiting Mormon missionaries. see also {astroturfing}; compare
+{microserf}. :microfloppies: n. 3.5-inch floppies, as opposed to 5.25-inch
+{vanilla} or mini-floppies and the now-obsolete 8-inch variety. This term may
+be headed for obsolescence as 5.25-inchers pass out of use, only to be
+revived if anybody floats a sub-3-inch floppy standard. see {stiffy},
+{minifloppies}. :microfortnight: n. 1/1000000 of the fundamental unit of time
+in the Furlong/Firkin/Fortnight system of measurement; 1.2096 sec. (A furlong
+is 1/8th of a mile; a firkin is 1/4th of a barrel; the mass unit of the
+system is taken to be a firkin of water). The VMS operating system has a lot
+of tuning parameters that you can set with the SYSGEN utility, and one of
+these is TIMEPROMPTWAIT, the time the system will wait for an operator to set
+the correct date and time at boot if it realizes that the current value is
+bogus. This time is specified in microfortnights! Multiple uses of the
+millifortnight (about 20 minutes) and {nanofortnight} have also been
+reported. :microLenat: /mi:`-kroh-len'-*t/ n. The unit of {bogosity}, written
+uL (or mL in plain ASCII); the consensus is that this is the largest unit
+practical for everyday use. The microLenat, originally invented by David
+Jefferson, was promulgated as an attack against noted computer scientist Doug
+Lenat by a {tenured graduate student} at CMU. Doug had failed the student on
+an important exam because the student gave only "AI is bogus" as his answer
+to the questions. The slur is generally considered unmerited, but it has
+become a running gag nevertheless. Some of Doug's friends argue that _of
+course_ a microLenat is bogus, since it is only one millionth of a Lenat.
 Others have suggested that the unit should be redesignated after the grad
 student, as the microReid. :microReid: /mi:'kroh-reed/ n. see {microLenat}.
+:microserf: /mi:'kro-s*rf/ A programmer at {Microsoft}, especially a
+low-level coder with little chance of fame or fortune. Compare {MicroDroid}.
 :Microsloth Windows: /mi:'kroh-sloth` win'dohz/ n. Hackerism for `Microsoft
-Windows', a windowing system for the IBM-PC which is so limited by
-bug-for-bug compatibility with {mess-dos} that it is agonizingly slow on
-anything less than a fast 486. Also just called `Windoze', with the
-implication that you can fall asleep waiting for it to do anything; the
-latter term is extremely common on Usenet. see {Black Screen of Death};
+Windows'. A thirty-two bit extension and graphical shell to a sixteen bit
+patch to an eight bit operating system originally coded for a four bit
+microprocessor which was written by a two-bit company that can't stand one
+bit of competition. Also just called `Windoze', with the implication that you
+can fall asleep waiting for it to do anything; the latter term is extremely
+common on Usenet. see {Black Screen of Death} and {Blue Screen of Death};
 compare {X}, {sun-stools}. :Microsoft: The new {Evil Empire} (the old one was
 {IBM}). The basic complaints are, as formerly with IBM, that (a) their system
 designs are horrible botches, (b) we can't get source to fix them, and (c)
@@ -154,11 +158,11 @@ per Second' (a joke, prob. from sense 1). :misbug: /mis-buhg/ n. [MIT] An
 unintended property of a program that turns out to be useful; something that
 should have been a {bug} but turns out to be a {feature}. Usage: rare.
 Compare {green lightning}. see {miswart}. :misfeature: /mis-fee'chr/ or
-/mis'fee`chr/ n. A feature that eventually causes lossage, possibly because
-it is not adequate for a new situation that has evolved. Since it results
-from a deliberate and properly implemented feature, a misfeature is not a
-bug. Nor is it a simple unforeseen side effect; the term implies that the
-feature in question was carefully planned, but its long-term consequences
+/mis'fee`chr/ n. [common] A feature that eventually causes lossage, possibly
+because it is not adequate for a new situation that has evolved. Since it
+results from a deliberate and properly implemented feature, a misfeature is
+not a bug. Nor is it a simple unforeseen side effect; the term implies that
+the feature in question was carefully planned, but its long-term consequences
 were not accurately or adequately predicted (which is quite different from
 not having thought ahead at all). A misfeature can be a particularly stubborn
 problem to resolve, because fixing it usually involves a substantial
@@ -181,38 +185,39 @@ the one before it on the screen, _except_ when the cursor is at the end of a
 line, in which case the two characters before the cursor are exchanged. While
 this behavior is perhaps surprising, and certainly inconsistent, it has been
 found through extensive experimentation to be what most users want. This
-feature is a miswart. :MMF: // [USENET] Abbreviation: "Make Money Fast".
+feature is a miswart. :MMF: // [Usenet] Abbreviation: "Make Money Fast".
 Refers to any kind of scheme which promises participants large profits with
 little or no risk or effort. Typically, it is a some kind of multi-level
 marketing operation which involves recruiting more members, or an illegal
 pyramid scam. The term is also used to refer to any kind of spam which
 promotes this. For more information, see the Make Money Fast Myth Page
-(http://www.stopspam.org/usenet/mmf/). :moby: /moh'bee/ [MIT: seems to have
-been in use among model railroad fans years ago. Derived from Melville's
-"Moby Dick" (some say from `Moby Pickle').] 1. adj. Large, immense, complex,
-impressive. "A Saturn V rocket is a truly moby frob." "Some MIT undergrads
-pulled off a moby hack at the Harvard-Yale game." (see "{The Meaning of
-`Hack'}"). 2. n. obs. The maximum address space of a machine (see below). For
-a 680[234]0 or VAX or most modern 32-bit architectures, it is 4,294,967,296
-8-bit bytes (4 gigabytes). 3. A title of address (never of third-person
-reference), usually used to show admiration, respect, and/or friendliness to
-a competent hacker. "Greetings, moby Dave. How's that address-book thing for
-the Mac going?" 4. adj. In backgammon, doubles on the dice, as in `moby
-sixes', `moby ones', etc. Compare this with {bignum} (sense 3): double sixes
-are both bignums and moby sixes, but moby ones are not bignums (the use of
-`moby' to describe double ones is sarcastic). Standard emphatic forms: `Moby
-foo', `moby win', `moby loss'. `Foby moo': a spoonerism due to Richard
-Greenblatt. 5. The largest available unit of something which is available in
-discrete increments. Thus, ordering a "moby Coke" at the local fast-food
-joint is not just a request for a large Coke, it's an explicit request for
-the largest size they sell. This term entered hackerdom with the Fabritek
-256K memory added to the MIT AI PDP-6 machine, which was considered
-unimaginably huge when it was installed in the 1960s (at a time when a more
-typical memory size for a timesharing system was 72 kilobytes). Thus, a moby
-is classically 256K 36-bit words, the size of a PDP-6 or PDP-10 moby. Back
-when address registers were narrow the term was more generally useful,
-because when a computer had virtual memory mapping, it might actually have
-more physical memory attached to it than any one program could access
+(http://www.stopspam.org/usenet/mmf/). :mobo: /moh'bo/ Written and (rarely)
+spoken contraction of "motherboard" :moby: /moh'bee/ [MIT: seems to have been
+in use among model railroad fans years ago. Derived from Melville's "Moby
+Dick" (some say from `Moby Pickle'). Now common.] 1. adj. Large, immense,
+complex, impressive. "A Saturn V rocket is a truly moby frob." "Some MIT
+undergrads pulled off a moby hack at the Harvard-Yale game." (see "{The
+Meaning of `Hack'}"). 2. n. obs. The maximum address space of a machine (see
+below). For a 680[234]0 or VAX or most modern 32-bit architectures, it is
+4,294,967,296 8-bit bytes (4 gigabytes). 3. A title of address (never of
+third-person reference), usually used to show admiration, respect, and/or
+friendliness to a competent hacker. "Greetings, moby Dave. How's that
+address-book thing for the Mac going?" 4. adj. In backgammon, doubles on the
+dice, as in `moby sixes', `moby ones', etc. Compare this with {bignum} (sense
+3): double sixes are both bignums and moby sixes, but moby ones are not
+bignums (the use of `moby' to describe double ones is sarcastic). Standard
+emphatic forms: `Moby foo', `moby win', `moby loss'. `Foby moo': a spoonerism
+due to Richard Greenblatt. 5. The largest available unit of something which
+is available in discrete increments. Thus, ordering a "moby Coke" at the
+local fast-food joint is not just a request for a large Coke, it's an
+explicit request for the largest size they sell. This term entered hackerdom
+with the Fabritek 256K memory added to the MIT AI PDP-6 machine, which was
+considered unimaginably huge when it was installed in the 1960s (at a time
+when a more typical memory size for a timesharing system was 72 kilobytes).
+Thus, a moby is classically 256K 36-bit words, the size of a PDP-6 or PDP-10
+moby. Back when address registers were narrow the term was more generally
+useful, because when a computer had virtual memory mapping, it might actually
+have more physical memory attached to it than any one program could access
 directly. One could then say "This computer has 6 mobies" meaning that the
 ratio of physical memory to address space is 6, without having to say
 specifically how much memory there actually is. That in turn implied that the
@@ -230,59 +235,59 @@ megabyte of 9-bit bytes). :mockingbird: n. Software that intercepts
 communications (especially login transactions) between users and hosts and
 provides system-like responses to the users while saving their responses
 (especially account IDs and passwords). A special case of {Trojan horse}.
-:mod: vt.,n. 1. Short for `modify' or `modification'. Very commonly used --
-in fact the full terms are considered markers that one is being formal. The
-plural `mods' is used esp. with reference to bug fixes or minor design
-changes in hardware or software, most esp. with respect to {patch} sets or a
-{diff}. 2. Short for {modulo} but used _only_ for its techspeak sense. :mode:
-n. A general state, usually used with an adjective describing the state. Use
-of the word `mode' rather than `state' implies that the state is extended
-over time, and probably also that some activity characteristic of that state
-is being carried out. "No time to hack; I'm in thesis mode." In its jargon
-sense, `mode' is most often attributed to people, though it is sometimes
-applied to programs and inanimate objects. In particular, see {hack mode},
-{day mode}, {night mode}, {demo mode}, {fireworks mode}, and {yoyo mode};
-also {talk mode}. One also often hears the verbs `enable' and `disable' used
-in connection with jargon modes. Thus, for example, a sillier way of saying
-"I'm going to crash" is "I'm going to enable crash mode now". One might also
-hear a request to "disable flame mode, please". In a usage much closer to
-techspeak, a mode is a special state that certain user interfaces must pass
-into in order to perform certain functions. For example, in order to insert
-characters into a document in the Unix editor `vi', one must type the "i"
-key, which invokes the "Insert" command. The effect of this command is to put
-vi into "insert mode", in which typing the "i" key has a quite different
-effect (to wit, it inserts an "i" into the document). One must then hit
-another special key, "ESC", in order to leave "insert mode". Nowadays,
-modeful interfaces are generally considered {losing} but survive in quite a
-few widely used tools built in less enlightened times. :mode bit: n. A
-{flag}, usually in hardware, that selects between two (usually quite
-different) modes of operation. The connotations are different from {flag} bit
-in that mode bits are mainly written during a boot or set-up phase, are
-seldom explicitly read, and seldom change over the lifetime of an ordinary
-program. The classic example was the EBCDIC-vs.-ASCII bit (#12) of the
-Program Status Word of the IBM 360. :modulo: /mod'yu-loh/ prep. Except for.
-An overgeneralization of mathematical terminology; one can consider saying
-that 4 equals 22 except for the 9s (4 = 22 mod 9). "Well, LISP seems to work
-okay now, modulo that {GC} bug." "I feel fine today modulo a slight
-headache." :molly-guard: /mol'ee-gard/ n. [University of Illinois] A shield
-to prevent tripping of some {Big Red Switch} by clumsy or ignorant hands.
-Originally used of the plexiglass covers improvised for the BRS on an IBM
-4341 after a programmer's toddler daughter (named Molly) frobbed it twice in
-one day. Later generalized to covers over stop/reset switches on disk drives
-and networking equipment. :Mongolian Hordes technique: n. [poss. from the
-Sixties counterculture expression `Mongolian clusterfuck' for a public orgy]
-Development by {gang bang}. Implies that large numbers of inexperienced
-programmers are being put on a job better performed by a few skilled ones.
-Also called `Chinese Army technique'; see also {Brooks's Law}. :monkey up:
-vt. To hack together hardware for a particular task, especially a one-shot
-job. Connotes an extremely {crufty} and consciously temporary solution.
-Compare {hack up}, {kluge up}, {cruft together}. :monkey, scratch: n. see
-{scratch monkey}. :monstrosity: 1. n. A ridiculously {elephantine} program or
-system, esp. one that is buggy or only marginally functional. 2. adj. The
-quality of being monstrous (see `Overgeneralization' in the discussion of
-jargonification). see also {baroque}. :monty: /mon'tee/ n. 1. [US Geological
-Survey] A program with a ludicrously complex user interface written to
-perform extremely trivial tasks. An example would be a menu-driven, button
-clicking, pulldown, pop-up windows program for listing directories. The
-original monty was an infamous weather-reporting program, Monty the Amazing
-Weather Man, written at the USGS. Monty had a widget-packed
+:mod: vt.,n. [very common] 1. Short for `modify' or `modification'. Very
+commonly used -- in fact the full terms are considered markers that one is
+being formal. The plural `mods' is used esp. with reference to bug fixes or
+minor design changes in hardware or software, most esp. with respect to
+{patch} sets or a {diff}. 2. Short for {modulo} but used _only_ for its
+techspeak sense. :mode: n. [common] A general state, usually used with an
+adjective describing the state. Use of the word `mode' rather than `state'
+implies that the state is extended over time, and probably also that some
+activity characteristic of that state is being carried out. "No time to hack;
+I'm in thesis mode." In its jargon sense, `mode' is most often attributed to
+people, though it is sometimes applied to programs and inanimate objects. In
+particular, see {hack mode}, {day mode}, {night mode}, {demo mode},
+{fireworks mode}, and {yoyo mode}; also {talk mode}. One also often hears the
+verbs `enable' and `disable' used in connection with jargon modes. Thus, for
+example, a sillier way of saying "I'm going to crash" is "I'm going to enable
+crash mode now". One might also hear a request to "disable flame mode,
+please". In a usage much closer to techspeak, a mode is a special state that
+certain user interfaces must pass into in order to perform certain functions.
+For example, in order to insert characters into a document in the Unix editor
+`vi', one must type the "i" key, which invokes the "Insert" command. The
+effect of this command is to put vi into "insert mode", in which typing the
+"i" key has a quite different effect (to wit, it inserts an "i" into the
+document). One must then hit another special key, "ESC", in order to leave
+"insert mode". Nowadays, modeful interfaces are generally considered {losing}
+but survive in quite a few widely used tools built in less enlightened times.
+:mode bit: n. [common] A {flag}, usually in hardware, that selects between
+two (usually quite different) modes of operation. The connotations are
+different from {flag} bit in that mode bits are mainly written during a boot
+or set-up phase, are seldom explicitly read, and seldom change over the
+lifetime of an ordinary program. The classic example was the EBCDIC-vs.-ASCII
+bit (#12) of the Program Status Word of the IBM 360. :modulo: /mod'yu-loh/
+prep. Except for. An overgeneralization of mathematical terminology; one can
+consider saying that 4 equals 22 except for the 9s (4 = 22 mod 9). "Well,
+LISP seems to work okay now, modulo that {GC} bug." "I feel fine today modulo
+a slight headache." :molly-guard: /mol'ee-gard/ n. [University of Illinois] A
+shield to prevent tripping of some {Big Red Switch} by clumsy or ignorant
+hands. Originally used of the plexiglass covers improvised for the BRS on an
+IBM 4341 after a programmer's toddler daughter (named Molly) frobbed it twice
+in one day. Later generalized to covers over stop/reset switches on disk
+drives and networking equipment. :Mongolian Hordes technique: n. [poss. from
+the Sixties counterculture expression `Mongolian clusterfuck' for a public
+orgy] Development by {gang bang}. Implies that large numbers of inexperienced
+programmers are being put on a job better performed by a few skilled ones
+(but see {bazaar}). Also called `Chinese Army technique'; see also {Brooks's
+Law}. :monkey up: vt. To hack together hardware for a particular task,
+especially a one-shot job. Connotes an extremely {crufty} and consciously
+temporary solution. Compare {hack up}, {kluge up}, {cruft together}. :monkey,
+scratch: n. see {scratch monkey}. :monstrosity: 1. n. A ridiculously
+{elephantine} program or system, esp. one that is buggy or only marginally
+functional. 2. adj. The quality of being monstrous (see `Overgeneralization'
+in the discussion of jargonification). see also {baroque}. :monty: /mon'tee/
+n. 1. [US Geological Survey] A program with a ludicrously complex user
+interface written to perform extremely trivial tasks. An example would be a
+menu-driven, button clicking, pulldown, pop-up windows program for listing
+directories. The original monty was an infamous weather-reporting program,
+Monty the Amazing Weather Man, written at the USGS. Monty had a widget-packed

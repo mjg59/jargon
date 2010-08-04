@@ -15,34 +15,35 @@ still very small. "The cost isn't epsilon, but it's delta" means that the
 cost isn't totally negligible, but it is nevertheless very small. Common
 constructions include `within delta of --', `within epsilon of --': that is,
 `close to' and `even closer to'. :demented: adj. Yet another term of disgust
-used to describe a program. The connotation in this case is that the program
-works as designed, but the design is bad. Said, for example, of a program
-that generates large numbers of meaningless error messages, implying that it
-is on the brink of imminent collapse. Compare {wonky}, {bozotic}. :demigod:
-n. A hacker with years of experience, a world-wide reputation, and a major
-role in the development of at least one design, tool, or game used by or
-known to more than half of the hacker community. To qualify as a genuine
-demigod, the person must recognizably identify with the hacker community and
-have helped shape it. Major demigods include Ken Thompson and Dennis Ritchie
-(co-inventors of {{Unix}} and {C}), Richard M. Stallman (inventor of
-{EMACS}), Linus Torvalds (inventor of Linux), and most recently James Gosling
-(inventor of Java). In their hearts of hearts, most hackers dream of someday
-becoming demigods themselves, and more than one major software project has
-been driven to completion by the author's veiled hopes of apotheosis. see
-also {net.god}, {true-hacker}. :demo: /de'moh/ [short for `demonstration'] 1.
-v. To demonstrate a product or prototype. A far more effective way of
-inducing bugs to manifest than any number of {test} runs, especially when
-important people are watching. 2. n. The act of demoing. "I've gotta give a
-demo of the drool-proof interface; how does it work again?" 3. n. Esp. as
-`demo version', can refer either to an early, barely-functional version of a
-program which can be used for demonstration purposes as long as the operator
-uses _exactly_ the right commands and skirts its numerous bugs, deficiencies,
-and unimplemented portions, or to a special version of a program (frequently
-with some features crippled) which is distributed at little or no cost to the
-user for enticement purposes. 4. [{demoscene}] A sequence of {demoeffect}s
+used to describe a malfunctioning program. The connotation in this case is
+that the program works as designed, but the design is bad. Said, for example,
+of a program that generates large numbers of meaningless error messages,
+implying that it is on the brink of imminent collapse. Compare {wonky},
+{brain-damaged}, {bozotic}. :demigod: n. A hacker with years of experience, a
+world-wide reputation, and a major role in the development of at least one
+design, tool, or game used by or known to more than half of the hacker
+community. To qualify as a genuine demigod, the person must recognizably
+identify with the hacker community and have helped shape it. Major demigods
+include Ken Thompson and Dennis Ritchie (co-inventors of {{Unix}} and {C}),
+Richard M. Stallman, Larry Wall (inventor of {Perl}) (inventor of {EMACS}),
+Linus Torvalds (inventor of Linux), and most recently James Gosling (inventor
+of Java). In their hearts of hearts, most hackers dream of someday becoming
+demigods themselves, and more than one major software project has been driven
+to completion by the author's veiled hopes of apotheosis. see also {net.god},
+{true-hacker}. :demo: /de'moh/ [short for `demonstration'] 1. v. To
+demonstrate a product or prototype. A far more effective way of inducing bugs
+to manifest than any number of {test} runs, especially when important people
+are watching. 2. n. The act of demoing. "I've gotta give a demo of the
+drool-proof interface; how does it work again?" 3. n. Esp. as `demo version',
+can refer either to an early, barely-functional version of a program which
+can be used for demonstration purposes as long as the operator uses _exactly_
+the right commands and skirts its numerous bugs, deficiencies, and
+unimplemented portions, or to a special version of a program (frequently with
+some features crippled) which is distributed at little or no cost to the user
+for enticement purposes. 4. [{demoscene}] A sequence of {demoeffect}s
 (usually) combined with self-composed music and hand-drawn ("pixelated")
 graphics. These days (1997) usually built to attend a {compo}. Often called
-`eurodemos' outside Europe, as most of the demoscene activity seems to have
+`eurodemos' outside Europe, as most of the {demoscene} activity seems to have
 gathered in northern Europe and especially Scandinavia. see also {intro},
 {dentro}. :demo mode: n. 1. [Sun] The state of being {heads down} in order to
 finish code in time for a {demo}, usually due yesterday. 2. A mode in which
@@ -87,7 +88,7 @@ access to a {BBS} line) or malign (that is, used as a prank or
 denial-of-service attack). This term dates from the {blue box} days of the
 1970s and early 1980s and is now semi-obsolescent among {phreaker}s; see {war
 dialer} for its contemporary progeny. :demoparty: n. [{demoscene}]
-Aboveground descendent of the {copyparty}, with emphasis shifted away from
+Aboveground descendant of the {copyparty}, with emphasis shifted away from
 software piracy and towards {compo}s. Smaller demoparties, for 100 persons or
 less, are held quite often, sometimes even once a month, and usually last for
 one to two days. On the other end of the scale, huge demo parties are held
@@ -103,157 +104,160 @@ usually containing colorful {display hack}s with greetings to other cracking
 groups. The demoscene was born among people who decided building these
 display hacks is more interesting than hacking and began to build
 self-contained display hacks of considerable elaboration and beauty (within
-the culture such a hack is called a {demo}. The split seems to have happened
+the culture such a hack is called a {demo}). The split seems to have happened
 at the end of the 1980s. As more of these {demogroup}s emerged, they started
 to have {compo}s at copying parties (see {copyparty}), which later evolved to
 standalone events (see {demoparty}). The demoscene has retained some traits
 from the {warez d00dz}, including their style of handles and group names and
-some of their jargon. Ten years on (in 1998-1999), the demoscene is changing
-as its original platforms (C64, Amiga, Spectrum, Atari ST, IBM PC under DOS)
-die out and activity shifts towards Windows, Linux, and the Internet. While
-deeply underground in the past, demoscene is trying to get into the
-mainstream as accepted art form, and one symptom of this is the
-commercialization of bigger demoparties. Older demosceneers frown at this,
-but majority think it's a good direction. Many demosceneers end up working in
-the computer game industry. Demoscene resource pages are available at
-`http://www.oldskool.org/demos/explained/' and `http://www.scene.org/'.
-:dentro: /den'troh/ [{demoscene}] Combination of {demo} (sense 4) and
-{intro}. Other name mixings include intmo, dentmo etc. and are used usually
-when the authors are not quite sure whether the program is a {demo} or an
-{intro}. Special purposes coinages like wedtro (some member of a group got
-married), invtro (invitation intro) etc. have also been sighted. :depeditate:
-/dee-ped'*-tayt/ n. [by (faulty) analogy with `decapitate'] Humorously, to
-cut off the feet of. When one is using some computer-aided typesetting tools,
-careless placement of text blocks within a page or above a rule can result in
-chopped-off letter descenders. Such letters are said to have been
-depeditated. :deprecated: adj. Said of a program or feature that is
-considered obsolescent and in the process of being phased out, usually in
-favor of a specified replacement. Deprecated features can, unfortunately,
-linger on for many years. This term appears with distressing frequency in
-standards documents when the committees writing the documents realize that
-large amounts of extant (and presumably happily working) code depend on the
-feature(s) that have passed out of favor. see also {dusty deck}. :derf:
-/derf/ v.,n. [PLATO] The act of exploiting a terminal which someone else has
-absentmindedly left logged on, to use that person's account, especially to
-post articles intended to make an ass of the victim you're impersonating. It
-has been alleged that the term originated as a reversal of the name of the
-gentleman who most usually left himself vulnerable to it, who also happened
-to be the head of the department that handled PLATO at the University of
-Delaware. :deserves to lose: adj. Said of someone who willfully does the
-{Wrong Thing}; humorously, if one uses a feature known to be {marginal}. What
-is meant is that one deserves the consequences of one's {losing} actions.
-"Boy, anyone who tries to use {mess-dos} deserves to {lose}!" ({{ITS}} fans
-used to say the same thing of {{Unix}}; many still do.) see also {screw},
-{chomp}, {bagbiter}. :desk check: n.,v. To {grovel} over hardcopy of source
-code, mentally simulating the control flow; a method of catching bugs. No
-longer common practice in this age of on-screen editing, fast compiles, and
-sophisticated debuggers -- though some maintain stoutly that it ought to be.
-Compare {eyeball search}, {vdiff}, {vgrep}. :despew: /d*-spyoo'/ v. [Usenet]
-To automatically generate a large amount of garbage to the net, esp. from an
-automated posting program gone wild. see {ARMM}. :Devil Book: n. see {daemon
-book}, the term preferred by its authors. :dickless workstation: n. Extremely
-pejorative hackerism for `diskless workstation', a class of botches including
-the Sun 3/50 and other machines designed exclusively to network with an
-expensive central disk server. These combine all the disadvantages of
-time-sharing with all the disadvantages of distributed personal computers;
-typically, they cannot even {boot} themselves without help (in the form of
-some kind of {breath-of-life packet}) from the server. :dictionary flame: n.
-[Usenet] An attempt to sidetrack a debate away from issues by insisting on
-meanings for key terms that presuppose a desired conclusion or smuggle in an
-implicit premise. A common tactic of people who prefer argument over
-definitions to disputes about reality. Compare {spelling flame}. :diddle: 1.
-vt. To work with or modify in a not particularly serious manner. "I diddled a
-copy of {ADVENT} so it didn't double-space all the time." "Let's diddle this
-piece of code and see if the problem goes away." see {tweak} and {twiddle}.
-2. n. The action or result of diddling. see also {tweak}, {twiddle}, {frob}.
-:die: v. Syn. {crash}. Unlike {crash}, which is used primarily of hardware,
-this verb is used of both hardware and software. see also {go flatline},
-{casters-up mode}. :die horribly: v. The software equivalent of {crash and
-burn}, and the preferred emphatic form of {die}. "The converter choked on an
-FF in its input and died horribly". :diff: /dif/ n. 1. A change listing,
-especially giving differences between (and additions to) source code or
-documents (the term is often used in the plural `diffs'). "Send me your diffs
-for the Jargon File!" Compare {vdiff}. 2. Specifically, such a listing
-produced by the `diff(1)' command, esp. when used as specification input to
-the `patch(1)' utility (which can actually perform the modifications; see
-{patch}). This is a common method of distributing patches and source updates
-in the Unix/C world. 3. v. To compare (whether or not by use of automated
-tools on machine-readable files); see also {vdiff}, {mod}. :digit: n.,obs. An
-employee of Digital Equipment Corporation. see also {VAX}, {VMS}, {PDP-10},
-{{TOPS-10}}, {field circus}. :dike: vt. To remove or disable a portion of
-something, as a wire from a computer or a subroutine from a program. A
-standard slogan is "When in doubt, dike it out". (The implication is that it
-is usually more effective to attack software problems by reducing complexity
-than by increasing it.) The word `dikes' is widely used among mechanics and
-engineers to mean `diagonal cutters', esp. the heavy-duty metal-cutting
-version, but may also refer to a kind of wire-cutters used by electronics
-techs. To `dike something out' means to use such cutters to remove something.
-Indeed, the TMRC Dictionary defined dike as "to attack with dikes". Among
-hackers this term has been metaphorically extended to informational objects
-such as sections of code. :Dilbert: n. Name and title character of a comic
-strip nationally syndicated in the U.S. and enormously popular among hackers.
-Dilbert is an archetypical engineer-nerd who works at an anonymous
-high-technology company; the strips present a lacerating satire of insane
-working conditions and idiotic {management} practices all too readily
-recognized by hackers. Adams, who spent nine years in {cube} 4S700R at
-Pacific Bell (not {DEC} as often reported), often remarks that he has never
-been able to come up with a fictional management blunder that his
-correspondents didn't quickly either report to have actually happened or top
-with a similar but even more bizarre incident. In 1996 Adams distilled his
-insights into the collective psychology of businesses into an even funnier
-book, "The Dilbert Principle" (HarperCollins, ISBN 0-887-30787-6). see also
-{pointy-haired}, {rat dance}. :ding: n.,vi. 1. Synonym for {feep}. Usage:
-rare among hackers, but commoner in the {Real World}. 2. `dinged': What
-happens when someone in authority gives you a minor bitching about something,
-esp. something trivial. "I was dinged for having a messy desk." :dink: /dink/
-adj. Said of a machine that has the {bitty box} nature; a machine too small
-to be worth bothering with -- sometimes the system you're currently forced to
-work on. First heard from an MIT hacker working on a CP/M system with 64K, in
-reference to any 6502 system, then from fans of 32-bit architectures about
-16-bit machines. "GNUMACS will never work on that dink machine." Probably
-derived from mainstream `dinky', which isn't sufficiently pejorative. see
-{macdink}. :dinosaur: n. 1. Any hardware requiring raised flooring and
-special power. Used especially of old minis and mainframes, in contrast with
-newer microprocessor-based machines. In a famous quote from the 1988 Unix
-EXPO, Bill Joy compared the liquid-cooled mainframe in the massive IBM
-display with a grazing dinosaur "with a truck outside pumping its bodily
-fluids through it". IBM was not amused. Compare {big iron}; see also
-{mainframe}. 2. [IBM] A very conservative user; a {zipperhead}. :dinosaur
-pen: n. A traditional {mainframe} computer room complete with raised
-flooring, special power, its own ultra-heavy-duty air conditioning, and a
-side order of Halon fire extinguishers. see {boa}. :dinosaurs mating: n. Said
-to occur when yet another {big iron} merger or buyout occurs; reflects a
-perception by hackers that these signal another stage in the long, slow dying
-of the {mainframe} industry. In its glory days of the 1960s, it was `IBM and
-the Seven Dwarves': Burroughs, Control Data, General Electric, Honeywell,
-NCR, RCA, and Univac. RCA and GE sold out early, and it was `IBM and the
-Bunch' (Burroughs, Univac, NCR, Control Data, and Honeywell) for a while.
-Honeywell was bought out by Bull; Burroughs merged with Univac to form Unisys
-(in 1984 -- this was when the phrase `dinosaurs mating' was coined); and in
-1991 AT&T absorbed NCR. Control Data still exists but is no longer in the
-mainframe business. More such earth-shaking unions of doomed giants seem
-inevitable. :dirtball: n. [XEROX PARC] A small, perhaps struggling outsider;
-not in the major or even the minor leagues. For example, "Xerox is not a
-dirtball company". [Outsiders often observe in the PARC culture an
-institutional arrogance which usage of this term exemplifies. The brilliance
-and scope of PARC's contributions to computer science have been such that
-this superior attitude is not much resented. --ESR] :dirty power: n.
-Electrical mains voltage that is unfriendly to the delicate innards of
-computers. Spikes, {drop-outs}, average voltage significantly higher or lower
-than nominal, or just plain noise can all cause problems of varying subtlety
-and severity (these are collectively known as {power hit}s). :disclaimer: n.
-[Usenet] Statement ritually appended to many Usenet postings (sometimes
-automatically, by the posting software) reiterating the fact (which should be
-obvious, but is easily forgotten) that the article reflects its author's
-opinions and not necessarily those of the organization running the machine
-through which the article entered the network. :Discordianism:
-/dis-kor'di-*n-ism/ n. The veneration of {Eris}, a.k.a. Discordia; widely
-popular among hackers. Discordianism was popularized by Robert Shea and
-Robert Anton Wilson's novel "{Illuminatus!}" as a sort of self-subverting
-Dada-Zen for Westerners -- it should on no account be taken seriously but is
-far more serious than most jokes. Consider, for example, the Fifth
-Commandment of the Pentabarf, from "Principia Discordia": "A Discordian is
-Prohibited of Believing What he Reads." Discordianism is usually connected
+some of their jargon. Traditionally demos were written in assembly language,
+with lots of smart tricks, self-modifying code, undocumented op-codes and the
+like. Some time around 1995, people started coding demos in C, and a couple
+of years after that, they also started using Java. Ten years on (in
+1998-1999), the demoscene is changing as its original platforms (C64, Amiga,
+Spectrum, Atari ST, IBM PC under DOS) die out and activity shifts towards
+Windows, Linux, and the Internet. While deeply underground in the past,
+demoscene is trying to get into the mainstream as accepted art form, and one
+symptom of this is the commercialization of bigger demoparties. Older
+demosceneers frown at this, but the majority think it's a good direction.
+Many demosceneers end up working in the computer game industry. Demoscene
+resource pages are available at `http://www.oldskool.org/demos/explained/'
+and `http://www.scene.org/'. :dentro: /den'troh/ [{demoscene}] Combination of
+{demo} (sense 4) and {intro}. Other name mixings include intmo, dentmo etc.
+and are used usually when the authors are not quite sure whether the program
+is a {demo} or an {intro}. Special purposes coinages like wedtro (some member
+of a group got married), invtro (invitation intro) etc. have also been
+sighted. :depeditate: /dee-ped'*-tayt/ n. [by (faulty) analogy with
+`decapitate'] Humorously, to cut off the feet of. When one is using some
+computer-aided typesetting tools, careless placement of text blocks within a
+page or above a rule can result in chopped-off letter descenders. Such
+letters are said to have been depeditated. :deprecated: adj. Said of a
+program or feature that is considered obsolescent and in the process of being
+phased out, usually in favor of a specified replacement. Deprecated features
+can, unfortunately, linger on for many years. This term appears with
+distressing frequency in standards documents when the committees writing the
+documents realize that large amounts of extant (and presumably happily
+working) code depend on the feature(s) that have passed out of favor. see
+also {dusty deck}. :derf: /derf/ v.,n. [PLATO] The act of exploiting a
+terminal which someone else has absentmindedly left logged on, to use that
+person's account, especially to post articles intended to make an ass of the
+victim you're impersonating. It has been alleged that the term originated as
+a reversal of the name of the gentleman who most usually left himself
+vulnerable to it, who also happened to be the head of the department that
+handled PLATO at the University of Delaware. :deserves to lose: adj. [common]
+Said of someone who willfully does the {Wrong Thing}; humorously, if one uses
+a feature known to be {marginal}. What is meant is that one deserves the
+consequences of one's {losing} actions. "Boy, anyone who tries to use
+{mess-dos} deserves to {lose}!" ({{ITS}} fans used to say the same thing of
+{{Unix}}; many still do.) see also {screw}, {chomp}, {bagbiter}. :desk check:
+n.,v. To {grovel} over hardcopy of source code, mentally simulating the
+control flow; a method of catching bugs. No longer common practice in this
+age of on-screen editing, fast compiles, and sophisticated debuggers --
+though some maintain stoutly that it ought to be. Compare {eyeball search},
+{vdiff}, {vgrep}. :despew: /d*-spyoo'/ v. [Usenet] To automatically generate
+a large amount of garbage to the net, esp. from an automated posting program
+gone wild. see {ARMM}. :Devil Book: n. see {daemon book}, the term preferred
+by its authors. :dickless workstation: n. Extremely pejorative hackerism for
+`diskless workstation', a class of botches including the Sun 3/50 and other
+machines designed exclusively to network with an expensive central disk
+server. These combine all the disadvantages of time-sharing with all the
+disadvantages of distributed personal computers; typically, they cannot even
+{boot} themselves without help (in the form of some kind of {breath-of-life
+packet}) from the server. :dictionary flame: n. [Usenet] An attempt to
+sidetrack a debate away from issues by insisting on meanings for key terms
+that presuppose a desired conclusion or smuggle in an implicit premise. A
+common tactic of people who prefer argument over definitions to disputes
+about reality. Compare {spelling flame}. :diddle: 1. vt. To work with or
+modify in a not particularly serious manner. "I diddled a copy of {ADVENT} so
+it didn't double-space all the time." "Let's diddle this piece of code and
+see if the problem goes away." see {tweak} and {twiddle}. 2. n. The action or
+result of diddling. see also {tweak}, {twiddle}, {frob}. :die: v. Syn.
+{crash}. Unlike {crash}, which is used primarily of hardware, this verb is
+used of both hardware and software. see also {go flatline}, {casters-up
+mode}. :die horribly: v. The software equivalent of {crash and burn}, and the
+preferred emphatic form of {die}. "The converter choked on an FF in its input
+and died horribly". :diff: /dif/ n. 1. A change listing, especially giving
+differences between (and additions to) source code or documents (the term is
+often used in the plural `diffs'). "Send me your diffs for the Jargon File!"
+Compare {vdiff}. 2. Specifically, such a listing produced by the `diff(1)'
+command, esp. when used as specification input to the `patch(1)' utility
+(which can actually perform the modifications; see {patch}). This is a common
+method of distributing patches and source updates in the Unix/C world. 3. v.
+To compare (whether or not by use of automated tools on machine-readable
+files); see also {vdiff}, {mod}. :digit: n.,obs. An employee of Digital
+Equipment Corporation. see also {VAX}, {VMS}, {PDP-10}, {{TOPS-10}}, {field
+circus}. :dike: vt. To remove or disable a portion of something, as a wire
+from a computer or a subroutine from a program. A standard slogan is "When in
+doubt, dike it out". (The implication is that it is usually more effective to
+attack software problems by reducing complexity than by increasing it.) The
+word `dikes' is widely used among mechanics and engineers to mean `diagonal
+cutters', esp. the heavy-duty metal-cutting version, but may also refer to a
+kind of wire-cutters used by electronics techs. To `dike something out' means
+to use such cutters to remove something. Indeed, the TMRC Dictionary defined
+dike as "to attack with dikes". Among hackers this term has been
+metaphorically extended to informational objects such as sections of code.
+:Dilbert: n. Name and title character of a comic strip nationally syndicated
+in the U.S. and enormously popular among hackers. Dilbert is an archetypical
+engineer-nerd who works at an anonymous high-technology company; the strips
+present a lacerating satire of insane working conditions and idiotic
+{management} practices all too readily recognized by hackers. Adams, who
+spent nine years in {cube} 4S700R at Pacific Bell (not {DEC} as often
+reported), often remarks that he has never been able to come up with a
+fictional management blunder that his correspondents didn't quickly either
+report to have actually happened or top with a similar but even more bizarre
+incident. In 1996 Adams distilled his insights into the collective psychology
+of businesses into an even funnier book, "The Dilbert Principle"
+(HarperCollins, ISBN 0-887-30787-6). see also {pointy-haired}, {rat dance}.
+:ding: n.,vi. 1. Synonym for {feep}. Usage: rare among hackers, but commoner
+in the {Real World}. 2. `dinged': What happens when someone in authority
+gives you a minor bitching about something, esp. something trivial. "I was
+dinged for having a messy desk." :dink: /dink/ adj. Said of a machine that
+has the {bitty box} nature; a machine too small to be worth bothering with --
+sometimes the system you're currently forced to work on. First heard from an
+MIT hacker working on a CP/M system with 64K, in reference to any 6502
+system, then from fans of 32-bit architectures about 16-bit machines.
+"GNUMACS will never work on that dink machine." Probably derived from
+mainstream `dinky', which isn't sufficiently pejorative. see {macdink}.
+:dinosaur: n. 1. Any hardware requiring raised flooring and special power.
+Used especially of old minis and mainframes, in contrast with newer
+microprocessor-based machines. In a famous quote from the 1988 Unix EXPO,
+Bill Joy compared the liquid-cooled mainframe in the massive IBM display with
+a grazing dinosaur "with a truck outside pumping its bodily fluids through
+it". IBM was not amused. Compare {big iron}; see also {mainframe}. 2. [IBM] A
+very conservative user; a {zipperhead}. :dinosaur pen: n. A traditional
+{mainframe} computer room complete with raised flooring, special power, its
+own ultra-heavy-duty air conditioning, and a side order of Halon fire
+extinguishers. see {boa}. :dinosaurs mating: n. Said to occur when yet
+another {big iron} merger or buyout occurs; reflects a perception by hackers
+that these signal another stage in the long, slow dying of the {mainframe}
+industry. In its glory days of the 1960s, it was `IBM and the Seven Dwarves':
+Burroughs, Control Data, General Electric, Honeywell, NCR, RCA, and Univac.
+RCA and GE sold out early, and it was `IBM and the Bunch' (Burroughs, Univac,
+NCR, Control Data, and Honeywell) for a while. Honeywell was bought out by
+Bull; Burroughs merged with Univac to form Unisys (in 1984 -- this was when
+the phrase `dinosaurs mating' was coined); and in 1991 AT&T absorbed NCR.
+Control Data still exists but is no longer in the mainframe business. More
+such earth-shaking unions of doomed giants seem inevitable. :dirtball: n.
+[XEROX PARC] A small, perhaps struggling outsider; not in the major or even
+the minor leagues. For example, "Xerox is not a dirtball company". [Outsiders
+often observe in the PARC culture an institutional arrogance which usage of
+this term exemplifies. The brilliance and scope of PARC's contributions to
+computer science have been such that this superior attitude is not much
+resented. --ESR] :dirty power: n. Electrical mains voltage that is unfriendly
+to the delicate innards of computers. Spikes, {drop-outs}, average voltage
+significantly higher or lower than nominal, or just plain noise can all cause
+problems of varying subtlety and severity (these are collectively known as
+{power hit}s). :disclaimer: n. [Usenet] Statement ritually appended to many
+Usenet postings (sometimes automatically, by the posting software)
+reiterating the fact (which should be obvious, but is easily forgotten) that
+the article reflects its author's opinions and not necessarily those of the
+organization running the machine through which the article entered the
+network. :Discordianism: /dis-kor'di-*n-ism/ n. The veneration of {Eris},
+a.k.a. Discordia; widely popular among hackers. Discordianism was popularized
+by Robert Shea and Robert Anton Wilson's novel "{Illuminatus!}" as a sort of
+self-subverting Dada-Zen for Westerners -- it should on no account be taken
+seriously but is far more serious than most jokes. Consider, for example, the
+Fifth Commandment of the Pentabarf, from "Principia Discordia": "A Discordian
+is Prohibited of Believing What he Reads." Discordianism is usually connected
 with an elaborate conspiracy theory/joke involving millennia-long warfare
 between the anarcho-surrealist partisans of Eris and a malevolent,
 authoritarian secret society called the Illuminati. see {Religion} in
@@ -328,27 +332,29 @@ named `Clarus'). Option-shift-click will cause it to emit a characteristic
 discover how to do that, one must needs examine the stack script with a
 hackerly eye. Clue: {rot13} is involved. A dogcow also appears if you choose
 `Page Setup...' with a LaserWriter selected and click on the `Options'
-button. :dogfood: n. [Microsoft] Interim software used internally for
-testing. "To eat one's own dogfood" (from which the slang noun derives) means
-to use the software one is developing, as part of one's everyday development
-environment (the phrase is used outside Microsoft, and the practice is normal
-in the Linux community and elsewhere). The idea is that developers who are
-using their own software will quickly learn what's missing or broken. Dogfood
-is typically not even of {beta} quality. :dogpile: v. [Usenet: prob. fr.
-mainstream "puppy pile"] When many people post unfriendly responses in short
-order to a single posting, they are sometimes said to "dogpile" or "dogpile
-on" the person to whom they're responding. For example, when a religious
-missionary posts a simplistic appeal to alt.atheism, he can expect to be
-dogpiled. :dogwash: /dog'wosh/ [From a quip in the `urgency' field of a very
-optional software change request, ca. 1982. It was something like "Urgency:
-Wash your dog first".] 1. n. A project of minimal priority, undertaken as an
-escape from more serious work. 2. v. To engage in such a project. Many games
-and much {freeware} get written this way. :domainist: /doh-mayn'ist/ adj. 1.
-[USENET, by pointed analogy with "sexist", "racist", etc.] Someone who judges
-people by the domain of their email addresses; esp. someone who dismisses
-anyone who posts from a public internet provider. "What do you expect from an
-article posted from aol.com?" 2. Said of an {{Internet address}} (as opposed
-to a {bang path}) because the part to the right of the `@' specifies a nested
+button. It also lurks in other Mac printer drivers, notably those for the
+now-discontinued Style Writers. :dogfood: n. [Microsoft, Netscape] Interim
+software used internally for testing. "To eat one's own dogfood" (from which
+the slang noun derives) means to use the software one is developing, as part
+of one's everyday development environment (the phrase is used outside
+Microsoft and Netscape, and the practice is normal in the Linux community and
+elsewhere). The idea is that developers who are using their own software will
+quickly learn what's missing or broken. Dogfood is typically not even of
+{beta} quality. :dogpile: v. [Usenet: prob. fr. mainstream "puppy pile"] When
+many people post unfriendly responses in short order to a single posting,
+they are sometimes said to "dogpile" or "dogpile on" the person to whom
+they're responding. For example, when a religious missionary posts a
+simplistic appeal to alt.atheism, he can expect to be dogpiled. :dogwash:
+/dog'wosh/ [From a quip in the `urgency' field of a very optional software
+change request, ca. 1982. It was something like "Urgency: Wash your dog
+first".] 1. n. A project of minimal priority, undertaken as an escape from
+more serious work. 2. v. To engage in such a project. Many games and much
+{freeware} get written this way. :domainist: /doh-mayn'ist/ adj. 1. [Usenet,
+by pointed analogy with "sexist", "racist", etc.] Someone who judges people
+by the domain of their email addresses; esp. someone who dismisses anyone who
+posts from a public internet provider. "What do you expect from an article
+posted from aol.com?" 2. Said of an {{Internet address}} (as opposed to a
+{bang path}) because the part to the right of the `@' specifies a nested
 series of `domains'; for example, <esr@snark.thyrsus.com> specifies the
 machine called snark in the subdomain called thyrsus within the top-level
 domain called com. see also {big-endian}, sense 2. The meaning of this term
@@ -396,7 +402,7 @@ doughnut-shaped magnetic flip-flop. :doorstop: n. Used to describe equipment
 that is non-functional and halfway expected to remain so, especially obsolete
 equipment kept around for political reasons or ostensibly as a backup. "When
 we get another Wyse-50 in here, that ADM 3 will turn into a doorstop."
-Compare {boat anchor}. :DOS attack: // [USENET] Abbreviation for
+Compare {boat anchor}. :DoS attack: // [Usenet] Abbreviation for
 Denial-Of-Service attack. This abbreviation is most often used of attempts to
 shut down newsgroups with floods of {spam}. :dot file: [Unix] n. A file that
 is not visible by default to normal directory-browsing tools (on Unix, files

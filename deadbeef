@@ -1,5 +1,43 @@
- 1982 by William Gibson's epoch-making novel "Neuromancer" (though its roots
-go back through Vernor Vinge's "True Names" (see the {Bibliography} in
+ CD drive itself. So called because of a common tech support legend about the
+idiot who called to complain that the cup holder on his computer broke. A
+joke program was once distributed around the net called "cupholder.exe",
+which when run simply extended the CD drive tray. The humor of this was of
+course lost on people whose drive had a slot or a caddy instead. :cursor
+dipped in X: n. There are a couple of metaphors in English of the form `pen
+dipped in X' (perhaps the most common values of X are `acid', `bile', and
+`vitriol'). These map over neatly to this hackish usage (the cursor being
+what moves, leaving letters behind, when one is composing on-line). "Talk
+about a {nastygram}! He must've had his cursor dipped in acid when he wrote
+that one!" :cuspy: /kuhs'pee/ adj. [WPI: from the {DEC} abbreviation CUSP,
+for `Commonly Used System Program', i.e., a utility program used by many
+people] 1. (of a program) Well-written. 2. Functionally excellent. A program
+that performs well and interfaces well to users is cuspy. see {rude}. 3.
+[NYU] Said of an attractive woman, especially one regarded as available.
+Implies a certain curvaceousness. :cut a tape: vi. To write a software or
+document distribution on magnetic tape for shipment. Has nothing to do with
+physically cutting the medium! Early versions of this lexicon claimed that
+one never analogously speaks of `cutting a disk', but this has since been
+reported as live usage. Related slang usages are mainstream business's `cut a
+check', the recording industry's `cut a record', and the military's `cut an
+order'. All of these usages reflect physical processes in obsolete recording
+and duplication technologies. The first stage in manufacturing an old-style
+vinyl record involved cutting grooves in a stamping die with a precision
+lathe. More mundanely, the dominant technology for mass duplication of paper
+documents in pre-photocopying days involved "cutting a stencil", punching
+away portions of the wax overlay on a silk screen. More directly, paper tape
+with holes punched in it was an important early storage medium. :cybercrud:
+/si:'ber-kruhd/ n. 1. [coined by Ted Nelson] Obfuscatory tech-talk. Verbiage
+with a high {MEGO} factor. The computer equivalent of bureaucratese. 2.
+Incomprehensible stuff embedded in email. First there were the "Received"
+headers that show how mail flows through systems, then MIME (Multi-purpose
+Internet Mail Extensions) headers and part boundaries, and now huge blocks of
+hex for PEM (Privacy Enhanced Mail) or PGP (Pretty Good Privacy) digital
+signatures and certificates of authenticity. This stuff all services a
+purpose and good user interfaces should hide it, but all too often users are
+forced to wade through it. :cyberpunk: /si:'ber-puhnk/ n.,adj. [orig. by SF
+writer Bruce Bethke and/or editor Gardner Dozois] A subgenre of SF launched
+in 1982 by William Gibson's epoch-making novel "Neuromancer" (though its
+roots go back through Vernor Vinge's "True Names" (see the {Bibliography} in
 Appendix C) to John Brunner's 1975 novel "The Shockwave Rider"). Gibson's
 near-total ignorance of computers and the present-day hacker culture enabled
 him to speculate about the role of computers and hackers in the future in
@@ -36,7 +74,7 @@ particular, the dominant colors of this subjective `cyberspace' are often
 gray and silver, and the imagery often involves constellations of marching
 dots, elaborate shifting patterns of lines and angles, or moire patterns.
 :cycle: 1. n. The basic unit of computation. What every hacker wants more of
-(noted hacker Bill Gosper describes himself as a "cycle junkie"). One can
+(noted hacker Bill Gosper described himself as a "cycle junkie"). One can
 describe an instruction as taking so many `clock cycles'. Often the computer
 can access its memory once on every clock cycle, and so one speaks also of
 `memory cycles'. These are technical meanings of {cycle}. The jargon meaning
@@ -50,8 +88,8 @@ emphasizing that lots of things compete for the typical hacker's think time.
 "I refused to get involved with the Rubik's Cube back when it was big. Knew
 I'd burn too many cycles on it if I let myself." 3. vt. Syn. {bounce} (sense
 4), {120 reset}; from the phrase `cycle power'. "Cycle the machine again,
-that serial port's still hung." :cycle crunch: n. A situation wherein the
-number of people trying to use a computer simultaneously has reached the
+that serial port's still hung." :cycle crunch: n.,obs. A situation wherein
+the number of people trying to use a computer simultaneously has reached the
 point where no one can get enough cycles because they are spread too thin and
 the system has probably begun to {thrash}. This scenario is an inevitable
 result of Parkinson's Law applied to timesharing. Usually the only solution
@@ -77,59 +115,60 @@ in graphics-processor design, and at least one or two in communications and
 floating-point processors. Also known as `the Wheel of Life', `the Wheel of
 Samsara', and other variations of the basic Hindu/Buddhist theological idea.
 see also {blitter}, {bit bang}. :cycle server: n. A powerful machine that
-exists primarily for running large compute-, disk-, or memory-intensive jobs.
-Implies that interactive tasks such as editing are done on other machines on
-the network, such as workstations. :cypherpunk: n. [from {cyberpunk}] Someone
-interested in the uses of encryption via electronic ciphers for enhancing
-personal privacy and guarding against tyranny by centralized, authoritarian
-power structures, especially government. There is an active cypherpunks
-mailing list at <cypherpunks-request@toad.com> coordinating work on
-public-key encryption freeware, privacy, and digital cash. see also
-{tentacle}. :C|N>K: n. [USENET] Coffee through Nose to Keyboard; that is, "I
-laughed so hard I {snarf}ed my coffee onto my keyboard.". Common on
-alt.fan.pratchett and {scary devil monastery}; recognized elsewhere. The
-Acronymphomania FAQ (http://www.lspace.org/faqs/acronym-faq.g.html) on
-alt.fan.pratchett recognizes variants such as T|N>K = `Tea through Nose to
-Keyboard' and C|N>S = `Coffee through Nose to Screen'. = D = ===== :D. C.
-Power Lab: n. The former site of {{SAIL}}. Hackers thought this was very
-funny because the obvious connection to electrical engineering was
-nonexistent -- the lab was named for a Donald C. Power. Compare {Marginal
-Hacks}. :daemon: /day'mn/ or /dee'mn/ n. [from the mythological meaning,
-later rationalized as the acronym `Disk And Execution MONitor'] A program
-that is not invoked explicitly, but lies dormant waiting for some
-condition(s) to occur. The idea is that the perpetrator of the condition need
-not be aware that a daemon is lurking (though often a program will commit an
-action only because it knows that it will implicitly invoke a daemon). For
-example, under {{ITS}} writing a file on the {LPT} spooler's directory would
-invoke the spooling daemon, which would then print the file. The advantage is
-that programs wanting (in this example) files printed need neither compete
-for access to nor understand any idiosyncrasies of the {LPT}. They simply
-enter their implicit requests and let the daemon decide what to do with them.
-Daemons are usually spawned automatically by the system, and may either live
-forever or be regenerated at intervals. Daemon and {demon} are often used
-interchangeably, but seem to have distinct connotations. The term `daemon'
-was introduced to computing by {CTSS} people (who pronounced it /dee'mon/)
-and used it to refer to what ITS called a {dragon}. Although the meaning and
-the pronunciation have drifted, we think this glossary reflects current
-(1999) usage. :daemon book: n. "The Design and Implementation of the 4.3BSD
-UNIX Operating System", by Samuel J. Leffler, Marshall Kirk McKusick, Michael
-J. Karels, and John S. Quarterman (Addison-Wesley Publishers, 1989, ISBN
-0-201-06196-1); or "The Design and Implementation of the 4.4 BSD Operating
-System" by Marshall Kirk McKusick, Keith Bostic, Michael J. Karels and John
-S. Quarterman (Addison-Wesley Longman, 1996, SBN 0-201-54979-4) Either of the
-standard reference books on the internals of {BSD} Unix. So called because
-the covers have a picture depicting a little devil (a visual play on
-{daemon}) in sneakers, holding a pitchfork (referring to one of the
-characteristic features of Unix, the `fork(2)' system call). Also known as
-the {Devil Book}. :dahmum: /dah'mum/ n. [Usenet] The material of which
-protracted {flame war}s, especially those about operating systems, is
-composed. Homeomorphic to {spam}. The term `dahmum' is derived from the name
-of a militant {OS/2} advocate, and originated when an extensively crossposted
-OS/2-versus-{Linux} debate was fed through {Dissociated Press}. :dancing
-frog: n. [Vancouver area] A problem that occurs on a computer that will not
-reappear while anyone else is watching. From the classic Warner Brothers
-cartoon of the dancing and singing Michigan J. Frog that just croaks when
-anyone else is around (now the WB network mascot). :dangling pointer: n. A
+exists primarily for running large compute-, disk-, or memory-intensive jobs
+(more formally called a `compute server'). Implies that interactive tasks
+such as editing are done on other machines on the network, such as
+workstations. :cypherpunk: n. [from {cyberpunk}] Someone interested in the
+uses of encryption via electronic ciphers for enhancing personal privacy and
+guarding against tyranny by centralized, authoritarian power structures,
+especially government. There is an active cypherpunks mailing list at
+<cypherpunks-request@toad.com> coordinating work on public-key encryption
+freeware, privacy, and digital cash. see also {tentacle}. :C|N>K: n. [Usenet]
+Coffee through Nose to Keyboard; that is, "I laughed so hard I {snarf}ed my
+coffee onto my keyboard.". Common on alt.fan.pratchett and {scary devil
+monastery}; recognized elsewhere. The Acronymphomania FAQ
+(http://www.lspace.org/faqs/acronym-faq.g.html) on alt.fan.pratchett
+recognizes variants such as T|N>K = `Tea through Nose to Keyboard' and C|N>S
+= `Coffee through Nose to Screen'. = D = ===== :D. C. Power Lab: n. The
+former site of {{SAIL}}. Hackers thought this was very funny because the
+obvious connection to electrical engineering was nonexistent -- the lab was
+named for a Donald C. Power. Compare {Marginal Hacks}. :daemon: /day'mn/ or
+/dee'mn/ n. [from the mythological meaning, later rationalized as the acronym
+`Disk And Execution MONitor'] A program that is not invoked explicitly, but
+lies dormant waiting for some condition(s) to occur. The idea is that the
+perpetrator of the condition need not be aware that a daemon is lurking
+(though often a program will commit an action only because it knows that it
+will implicitly invoke a daemon). For example, under {{ITS}} writing a file
+on the {LPT} spooler's directory would invoke the spooling daemon, which
+would then print the file. The advantage is that programs wanting (in this
+example) files printed need neither compete for access to nor understand any
+idiosyncrasies of the {LPT}. They simply enter their implicit requests and
+let the daemon decide what to do with them. Daemons are usually spawned
+automatically by the system, and may either live forever or be regenerated at
+intervals. Daemon and {demon} are often used interchangeably, but seem to
+have distinct connotations. The term `daemon' was introduced to computing by
+{CTSS} people (who pronounced it /dee'mon/) and used it to refer to what ITS
+called a {dragon}. Although the meaning and the pronunciation have drifted,
+we think this glossary reflects current (1999) usage. :daemon book: n. "The
+Design and Implementation of the 4.3BSD UNIX Operating System", by Samuel J.
+Leffler, Marshall Kirk McKusick, Michael J. Karels, and John S. Quarterman
+(Addison-Wesley Publishers, 1989, ISBN 0-201-06196-1); or "The Design and
+Implementation of the 4.4 BSD Operating System" by Marshall Kirk McKusick,
+Keith Bostic, Michael J. Karels and John S. Quarterman (Addison-Wesley
+Longman, 1996, SBN 0-201-54979-4) Either of the standard reference books on
+the internals of {BSD} Unix. So called because the covers have a picture
+depicting a little devil (a visual play on {daemon}) in sneakers, holding a
+pitchfork (referring to one of the characteristic features of Unix, the
+`fork(2)' system call). Also known as the {Devil Book}. :dahmum: /dah'mum/ n.
+[Usenet] The material of which protracted {flame war}s, especially those
+about operating systems, is composed. Homeomorphic to {spam}. The term
+`dahmum' is derived from the name of a militant {OS/2} advocate, and
+originated when an extensively crossposted OS/2-versus-{Linux} debate was fed
+through {Dissociated Press}. :dancing frog: n. [Vancouver area] A problem
+that occurs on a computer that will not reappear while anyone else is
+watching. From the classic Warner Brothers cartoon "One Froggy Evening",
+featuring a dancing and singing Michigan J. Frog that just croaks when anyone
+else is around (now the WB network mascot). :dangling pointer: n. [common] A
 reference that doesn't actually lead anywhere (in C and some other languages,
 a pointer that doesn't actually point at anything valid). Usually this
 happens because it formerly pointed to something that has moved or
@@ -157,7 +196,7 @@ Anzunehmender Unfall, worst assumable accident, esp. of a LNG tank farm plant
 or something with similarly disastrous consequences. In popular German, GAU
 is used only to refer to worst-case nuclear acidents such as a core meltdown.
 see {cretin}, {fool}, {loser} and {weasel}. :Dave the Resurrector: n.
-[USENET; also abbreviated DtR] A {cancelbot} that cancels cancels. Dave the
+[Usenet; also abbreviated DtR] A {cancelbot} that cancels cancels. Dave the
 Resurrector originated when some {spam}-spewers decided to try to impede
 spam-fighting by wholesale cancellation of anti-spam coordination messages in
 the news.admin.net-abuse.usenet newsgroup. :day mode: n. see {phase} (sense
@@ -224,26 +263,26 @@ program (see also {software rot}); a good compiler should report dead code so
 a maintainer can think about what it means. (Sometimes it simply means that
 an _extremely_ defensive programmer has inserted {can't happen} tests which
 really can't happen -- yet.) Syn. {grunge}. see also {dead}, and {The Story
-of Mel}. :dead link: n. [WWW] A World-Wide-Web URL that no longer points to
-the information it was written to reach. Usually this happens because the
-document has been moved or deleted. Lots of dead links make a WWW page
-frustrating and useless and are the #1 sign of poor page maintainance.
-Compare {dangling pointer}. :DEADBEEF: /ded-beef/ n. The hexadecimal
-word-fill pattern for freshly allocated memory (decimal -21524111) under a
-number of IBM environments, including the RS/6000. Some modern debugging
-tools deliberately fill freed memory with this value as a way of converting
-{heisenbug}s into {Bohr bug}s. As in "Your program is DEADBEEF" (meaning
-gone, aborted, flushed from memory); if you start from an odd half-word
-boundary, of course, you have BEEFDEAD. see also the anecdote under {fool}.
-:deadlock: n. 1. [techspeak] A situation wherein two or more processes are
-unable to proceed because each is waiting for one of the others to do
-something. A common example is a program communicating to a server, which may
-find itself waiting for output from the server before sending anything more
-to it, while the server is similarly waiting for more input from the
-controlling program before outputting anything. (It is reported that this
-particular flavor of deadlock is sometimes called a `starvation deadlock',
-though the term `starvation' is more properly used for situations where a
-program can never run simply because it never gets high enough priority.
-Another common flavor is `constipation', in which each process is trying to
-send stuff to the other but all buffers are full because nobody is reading
-anything.) see {deadly embrace}.
+of Mel}. :dead link: n. [very common] A World-Wide-Web URL that no longer
+points to the information it was written to reach. Usually this happens
+because the document has been moved or deleted. Lots of dead links make a WWW
+page frustrating and useless and are the #1 sign of poor page maintainance.
+Compare {dangling pointer}, {link rot}. :DEADBEEF: /ded-beef/ n. The
+hexadecimal word-fill pattern for freshly allocated memory (decimal
+-21524111) under a number of IBM environments, including the RS/6000. Some
+modern debugging tools deliberately fill freed memory with this value as a
+way of converting {heisenbug}s into {Bohr bug}s. As in "Your program is
+DEADBEEF" (meaning gone, aborted, flushed from memory); if you start from an
+odd half-word boundary, of course, you have BEEFDEAD. see also the anecdote
+under {fool}. :deadlock: n. 1. [techspeak] A situation wherein two or more
+processes are unable to proceed because each is waiting for one of the others
+to do something. A common example is a program communicating to a server,
+which may find itself waiting for output from the server before sending
+anything more to it, while the server is similarly waiting for more input
+from the controlling program before outputting anything. (It is reported that
+this particular flavor of deadlock is sometimes called a `starvation
+deadlock', though the term `starvation' is more properly used for situations
+where a program can never run simply because it never gets high enough
+priority. Another common flavor is `constipation', in which each process is
+trying to send stuff to the other but all buffers are full because nobody is
+reading anything.) see {deadly embrace}.

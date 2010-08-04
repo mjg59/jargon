@@ -24,7 +24,7 @@ aspirations of the poster. Features a G at the left margin followed by
 numerous letter codes, often suffixed with plusses or minuses. Because many
 net users are involved in computer science, the most common prefix is `GCS'.
 To see a copy of the current code, browse `http://www.geekcode.com'. Here is
-a sample geek code (that or Robert Hayden, the code's inventor) from that
+a sample geek code (that of Robert Hayden, the code's inventor) from that
 page: -----BEGIN GEEK CODE BLOCK----- Version: 3.1 GED/J d-- s:++>: a-
 C++(++++)$ ULUO++ P+>+++ L++ !E---- W+(---) N+++ o+ K+++ w+(---) O- M+$>++
 V-- PS++(+++)>$ PE++(+)>$ Y++ PGP++ t- 5+++ X++ R+++>$ tv+ b+ DI+++ D+++
@@ -38,13 +38,13 @@ context, for example at parties held near computer equipment. Especially used
 when you need to do or say something highly technical and don't have time to
 explain: "Pardon me while I geek out for a moment." see {computer geek}; see
 also {propeller head}. :gen: /jen/ n.,v. Short for {generate}, used
-frequently in both spoken and written contexts. :gender mender: n. A cable
-connector shell with either two male or two female connectors on it, used to
-correct the mismatches that result when some {loser} didn't understand the
-RS232C specification and the distinction between DTE and DCE. Used esp. for
-RS-232C parts in either the original D-25 or the IBM PC's bogus D-9 format.
-Also called `gender bender', `gender blender', `sex changer', and even
-`homosexual adapter;' however, there appears to be some confusion as to
+frequently in both spoken and written contexts. :gender mender: n. [common] A
+cable connector shell with either two male or two female connectors on it,
+used to correct the mismatches that result when some {loser} didn't
+understand the RS232C specification and the distinction between DTE and DCE.
+Used esp. for RS-232C parts in either the original D-25 or the IBM PC's bogus
+D-9 format. Also called `gender bender', `gender blender', `sex changer', and
+even `homosexual adapter;' however, there appears to be some confusion as to
 whether a `male homosexual adapter' has pins on both sides (is doubly male)
 or sockets on both sides (connects two males). :General Public Virus: n.
 Pejorative name for some versions of the {GNU} project {copyleft} or General
@@ -56,10 +56,9 @@ any of its code. The Free Software Foundation's official position as of
 January 1991 is that copyright law limits the scope of the GPL to "programs
 textually incorporating significant amounts of GNU code", and that the
 `infection' is not passed on to third parties unless actual GNU source is
-transmitted (as in, for example, use of the Bison parser skeleton).
-Nevertheless, widespread suspicion that the {copyleft} language is
-`boobytrapped' has caused many developers to avoid using GNU tools and the
-GPL. Changes in the language of the version 2.00 GPL did not eliminate this
+transmitted. Nevertheless, widespread suspicion that the {copyleft} language
+is `boobytrapped' has caused many developers to avoid using GNU tools and the
+GPL. Changes in the language of the version 2.0 GPL did not eliminate this
 problem. :generate: vt. To produce something according to an algorithm or
 program or set of rules, or as a (possibly unintended) side effect of the
 execution of an algorithm or program. The opposite of {parse}. This term
@@ -107,202 +106,207 @@ way. Also commonly used to describe failures in human decision making due to
 faulty, incomplete, or imprecise data. 2. `Garbage In, Gospel Out': this more
 recent expansion is a sardonic comment on the tendency human beings have to
 put excessive trust in `computerized' data. :gilley: n. [Usenet] The unit of
-analogical bogosity. According to its originator, the standard for one gilley
-was "the act of bogotoficiously comparing the shutting down of 1000 machines
-for a day with the killing of one person". The milligilley has been found to
-suffice for most normal conversational exchanges. :gillion: /gil'y*n/ or
-/jil'y*n/ n. [formed from {giga-} by analogy with mega/million and
-tera/trillion] 10^9. Same as an American billion or a British `milliard'. How
-one pronounces this depends on whether one speaks {giga-} with a hard or soft
-`g'. :GIPS: /gips/ or /jips/ n. [analogy with {MIPS}] Giga-Instructions per
-Second (also possibly `Gillions of Instructions per Second'; see {gillion}).
-In 1991, this is used of only a handful of highly parallel machines, but this
-is expected to change. Compare {KIPS}. :glark: /glark/ vt. To figure
-something out from context. "The System III manuals are pretty poor, but you
-can generally glark the meaning from context." Interestingly, the word was
-originally `glork'; the context was "This gubblick contains many nonsklarkish
-English flutzpahs, but the overall pluggandisp can be glorked [sic] from
-context" (David Moser, quoted by Douglas Hofstadter in his "Metamagical
-Themas" column in the January 1981 "Scientific American"). It is conjectured
-that hackish usage mutated the verb to `glark' because {glork} was already an
-established jargon term. Compare {grok}, {zen}. :glass: n. [IBM] Synonym for
-{silicon}. :glass tty: /glas T-T-Y/ or /glas ti'tee/ n. A terminal that has a
-display screen but which, because of hardware or software limitations,
-behaves like a teletype or some other printing terminal, thereby combining
-the disadvantages of both: like a printing terminal, it can't do fancy
-display hacks, and like a display terminal, it doesn't produce hard copy. An
-example is the early `dumb' version of Lear-Siegler ADM 3 (without cursor
-control). see {tube}, {tty}; compare {dumb terminal}, {smart terminal}. See
-"{TV Typewriters}" (Appendix A) for an interesting true story about a glass
-tty. :glassfet: /glas'fet/ n. [by analogy with MOSFET, the acronym for
+analogical {bogosity}. According to its originator, the standard for one
+gilley was "the act of bogotoficiously comparing the shutting down of 1000
+machines for a day with the killing of one person". The milligilley has been
+found to suffice for most normal conversational exchanges. :gillion:
+/gil'y*n/ or /jil'y*n/ n. [formed from {giga-} by analogy with mega/million
+and tera/trillion] 10^9. Same as an American billion or a British `milliard'.
+How one pronounces this depends on whether one speaks {giga-} with a hard or
+soft `g'. :GIPS: /gips/ or /jips/ n. [analogy with {MIPS}] Giga-Instructions
+per Second (also possibly `Gillions of Instructions per Second'; see
+{gillion}). In 1991, this is used of only a handful of highly parallel
+machines, but this is expected to change. Compare {KIPS}. :glark: /glark/ vt.
+To figure something out from context. "The System III manuals are pretty
+poor, but you can generally glark the meaning from context." Interestingly,
+the word was originally `glork'; the context was "This gubblick contains many
+nonsklarkish English flutzpahs, but the overall pluggandisp can be glorked
+[sic] from context" (David Moser, quoted by Douglas Hofstadter in his
+"Metamagical Themas" column in the January 1981 "Scientific American"). It is
+conjectured that hacker usage mutated the verb to `glark' because {glork} was
+already an established jargon term (some hackers do report using the original
+term). Compare {grok}, {zen}. :glass: n. [IBM] Synonym for {silicon}. :glass
+tty: /glas T-T-Y/ or /glas ti'tee/ n. A terminal that has a display screen
+but which, because of hardware or software limitations, behaves like a
+teletype or some other printing terminal, thereby combining the disadvantages
+of both: like a printing terminal, it can't do fancy display hacks, and like
+a display terminal, it doesn't produce hard copy. An example is the early
+`dumb' version of Lear-Siegler ADM 3 (without cursor control). see {tube},
+{tty}; compare {dumb terminal}, {smart terminal}. See "{TV Typewriters}"
+(Appendix A) for an interesting true story about a glass tty. :glassfet:
+/glas'fet/ n. [by analogy with MOSFET, the acronym for
 `Metal-Oxide-Semiconductor Field-Effect Transistor'] Syn. {firebottle}, a
-humorous way to refer to a vacuum tube. :glitch: /glich/ [from German
-`glitschig' to slip, via Yiddish `glitshen', to slide or skid] 1. n. A sudden
-interruption in electric service, sanity, continuity, or program function.
-Sometimes recoverable. An interruption in electric service is specifically
-called a `power glitch' (also {power hit}), of grave concern because it
-usually crashes all the computers. In jargon, though, a hacker who got to the
-middle of a sentence and then forgot how he or she intended to complete it
-might say, "Sorry, I just glitched". 2. vi. To commit a glitch. see {gritch}.
-3. vt. [Stanford] To scroll a display screen, esp. several lines at a time.
-{{WAITS}} terminals used to do this in order to avoid continuous scrolling,
-which is distracting to the eye. 4. obs. Same as {magic cookie}, sense 2. All
-these uses of `glitch' derive from the specific technical meaning the term
-has in the electronic hardware world, where it is now techspeak. A glitch can
-occur when the inputs of a circuit change, and the outputs change to some
-{random} value for some very brief time before they settle down to the
-correct value. If another circuit inspects the output at just the wrong time,
-reading the random value, the results can be very wrong and very hard to
-debug (a glitch is one of many causes of electronic {heisenbug}s). :glob:
-/glob/, _not_ /glohb/ v.,n. [Unix] To expand special characters in a
-wildcarded name, or the act of so doing (the action is also called
-`globbing'). The Unix conventions for filename wildcarding have become
-sufficiently pervasive that many hackers use some of them in written English,
-especially in email or news on technical topics. Those commonly encountered
-include the following: * wildcard for any string (see also {UN*X}) ? wildcard
-for any single character (generally read this way only at the beginning or in
-the middle of a word) [] delimits a wildcard matching any of the enclosed
-characters {} alternation of comma-separated alternatives; thus,
-`foo{baz,qux}' would be read as `foobaz' or `fooqux' Some examples: "He said
-his name was [KC]arl" (expresses ambiguity). "I don't read talk.politics.*"
-(any of the talk.politics subgroups on {Usenet}). Other examples are given
-under the entry for {X}. Note that glob patterns are similar, but not
-identical, to those used in {regexp}s. Historical note: The jargon usage
-derives from `glob', the name of a subprogram that expanded wildcards in
-archaic pre-Bourne versions of the Unix shell. :glork: /glork/ 1. interj.
-Term of mild surprise, usually tinged with outrage, as when one attempts to
-save the results of two hours of editing and finds that the system has just
-crashed. 2. Used as a name for just about anything. see {foo}. 3. vt. Similar
-to {glitch}, but usually used reflexively. "My program just glorked itself."
-see also {glark}. :glue: n. Generic term for any interface logic or protocol
-that connects two component blocks. For example, {Blue Glue} is IBM's SNA
-protocol, and hardware designers call anything used to connect large VLSI's
-or circuit blocks `glue logic'. :gnarly: /nar'lee/ adj. Both {obscure} and
-{hairy} (sense 1). "{Yow!} -- the tuned assembler implementation of BitBlt is
-really gnarly!" From a similar but less specific usage in surfer slang. :GNU:
-/gnoo/, _not_ /noo/ 1. [acronym: `GNU's Not Unix!', see {{recursive
-acronym}}] A Unix-workalike development effort of the Free Software
-Foundation headed by Richard Stallman <<rms@gnu.ai.mit.edu>>. GNU EMACS and
-the GNU C compiler, two tools designed for this project, have become very
-popular in hackerdom and elsewhere. The GNU project was designed partly to
-proselytize for RMS's position that information is community property and all
-software source should be shared. One of its slogans is "Help stamp out
-software hoarding!" Though this remains controversial (because it implicitly
-denies any right of designers to own, assign, and sell the results of their
-labors), many hackers who disagree with RMS have nevertheless cooperated to
-produce large amounts of high-quality software for free redistribution under
-the Free Software Foundation's imprimatur. see {EMACS}, {copyleft}, {General
-Public Virus}, {Linux}. 2. Noted Unix hacker John Gilmore <<gnu@toad.com>>,
-founder of Usenet's anarchic alt.* hierarchy. :GNUMACS: /gnoo'maks/ n.
-[contraction of `GNU EMACS'] Often-heard abbreviated name for the {GNU}
-project's flagship tool, {EMACS}. Used esp. in contrast with {GOSMACS}. :go
-flatline: v. [from cyberpunk SF, refers to flattening of EEG traces upon
-brain-death] (also adjectival `flatlined'). 1. To {die}, terminate, or fail,
-esp. irreversibly. In hacker parlance, this is used of machines only, human
-death being considered somewhat too serious a matter to employ jargon-jokes
-about. 2. To go completely quiescent; said of machines undergoing controlled
-shutdown. "You can suffer file damage if you shut down Unix but power off
-before the system has gone flatline." 3. Of a video tube, to fail by losing
-vertical scan, so all one sees is a bright horizontal line bisecting the
-screen. :go root: vi. [Unix] To temporarily enter {root mode} in order to
-perform a privileged operation. This use is deprecated in Australia, where v.
-`root' is a synonym for "fuck". :go-faster stripes: n. [UK] Syn. {chrome}.
-Mainstream in some parts of UK. :GoAT: // [USENET] Abbreviation: "Go Away,
-Troll". see {troll}. :gobble: vt. 1. To consume, usu. used with `up'. "The
-output spy gobbles characters out of a {tty} output buffer." 2. To obtain,
-usu. used with `down'. "I guess I'll gobble down a copy of the documentation
-tomorrow." see also {snarf}. :Godwin's Law: prov. [Usenet] "As a Usenet
-discussion grows longer, the probability of a comparison involving Nazis or
-Hitler approaches one." There is a tradition in many groups that, once this
-occurs, that thread is over, and whoever mentioned the Nazis has
-automatically lost whatever argument was in progress. Godwin's Law thus
-practically guarantees the existence of an upper bound on thread length in
-those groups. :Godzillagram: /god-zil'*-gram/ n. [from Japan's national hero]
-1. A network packet that in theory is a broadcast to every machine in the
-universe. The typical case is an IP datagram whose destination IP address is
-[255.255.255.255]. Fortunately, few gateways are foolish enough to attempt to
-implement this case! 2. A network packet of maximum size. An IP Godzillagram
-has 65,536 octets. Compare {super source quench}. :golden: adj. [prob. from
-folklore's `golden egg'] When used to describe a magnetic medium (e.g.,
-`golden disk', `golden tape'), describes one containing a tested, up-to-spec,
-ready-to-ship software version. Compare {platinum-iridium}. :golf-ball
-printer: n. obs. The IBM 2741, a slow but letter-quality printing device and
-terminal based on the IBM Selectric typewriter. The `golf ball' was a little
-spherical frob bearing reversed embossed images of 88 different characters
-arranged on four parallels of latitude; one could change the font by swapping
-in a different golf ball. The print element spun and jerked alarmingly in
-action and when in motion was sometimes described as an `infuriated golf
-ball'. This was the technology that enabled APL to use a non-EBCDIC,
-non-ASCII, and in fact completely non-standard character set. This put it 10
-years ahead of its time -- where it stayed, firmly rooted, for the next 20,
-until character displays gave way to programmable bit-mapped devices with the
-flexibility to support other character sets. :gonk: /gonk/ vi.,n. 1. To
-prevaricate or to embellish the truth beyond any reasonable recognition. In
-German the term is (mythically) `gonken'; in Spanish the verb becomes
-`gonkar'. "You're gonking me. That story you just told me is a bunch of
-gonk." In German, for example, "Du gonkst mich" (You're pulling my leg). see
-also {gonkulator}. 2. [British] To grab some sleep at an odd time; compare
-{gronk out}. :gonkulator: /gon'kyoo-lay-tr/ n. [from the old "Hogan's Heroes"
-TV series] A pretentious piece of equipment that actually serves no useful
-purpose. Usually used to describe one's least favorite piece of computer
-hardware. see {gonk}. :gonzo: /gon'zoh/ adj. [from Hunter S. Thompson]
-Overwhelming; outrageous; over the top; very large, esp. used of collections
-of source code, source files, or individual functions. Has some of the
-connotations of {moby} and {hairy}, but without the implication of obscurity
-or complexity. :Good Thing: n.,adj. Often capitalized; always pronounced as
-if capitalized. 1. Self-evidently wonderful to anyone in a position to
-notice: "The Trailblazer's 19.2Kbaud PEP mode with on-the-fly Lempel-Ziv
-compression is a Good Thing for sites relaying netnews." 2. Something that
-can't possibly have any ill side-effects and may save considerable grief
-later: "Removing the self-modifying code from that shared library would be a
-Good Thing." 3. When said of software tools or libraries, as in "YACC is a
-Good Thing", specifically connotes that the thing has drastically reduced a
-programmer's work load. Oppose {Bad Thing}. :gopher: n. A type of Internet
-service first floated around 1991 and now (1994) being obsolesced by the
-World Wide Web. Gopher presents a menuing interface to a tree or graph of
-links; the links can be to documents, runnable programs, or other gopher
-menus arbitrarily far across the net. Some claim that the gopher software,
-which was originally developed at the University of Minnesota, was named
-after the Minnesota Gophers (a sports team). Others claim the word derives
-from American slang `gofer' (from "go for", dialectal "go fer"), one whose
-job is to run and fetch things. Finally, observe that gophers dig long
-tunnels, and the idea of tunneling through the net to find information was a
-defining metaphor for the developers. Probably all three things were true,
-but with the first two coming first and the gopher-tunnel metaphor
-serendipitously adding flavor and impetus to the project as it developed out
-of its concept stage. :gopher hole: n. 1. Any access to a {gopher}. 2.
-[Amateur Packet Radio] The terrestrial analog of a {wormhole} (sense 2), from
-which this term was coined. A gopher hole links two amateur packet relays
-through some non-ham radio medium. :gorets: /gor'ets/ n. The unknown ur-noun,
-fill in your own meaning. Found esp. on the Usenet newsgroup alt.gorets,
-which seems to be a running contest to redefine the word by implication in
-the funniest and most peculiar way, with the understanding that no definition
-is ever final. [A correspondent from the Former Soviet Union informs me that
-`gorets' is Russian for `mountain dweller'. Another from France informs me
-that `goret' is archaic French for a young pig --ESR] Compare {frink}.
-:gorilla arm: n. The side-effect that destroyed touch-screens as a mainstream
-input technology despite a promising start in the early 1980s. It seems the
-designers of all those {spiffy} touch-menu systems failed to notice that
-humans aren't designed to hold their arms in front of their faces making
-small motions. After more than a very few selections, the arm begins to feel
-sore, cramped, and oversized -- the operator looks like a gorilla while using
-the touch screen and feels like one afterwards. This is now considered a
-classic cautionary tale to human-factors designers; "Remember the gorilla
-arm!" is shorthand for "How is this going to fly in _real_ use?". :gorp:
-/gorp/ n. [CMU: perhaps from the canonical hiker's food, Good Old Raisins and
-Peanuts] Another {metasyntactic variable}, like {foo} and {bar}. :GOSMACS:
-/goz'maks/ n. [contraction of `Gosling EMACS'] The first {EMACS}-in-C
-implementation, predating but now largely eclipsed by {GNUMACS}. Originally
-freeware; a commercial version is now modestly popular as `UniPress EMACS'.
-The author, James Gosling, went on to invent {NeWS} and the programming
-language Java; the latter earned him {demigod} status. :Gosperism:
-/gos'p*r-izm/ n. A hack, invention, or saying due to arch-hacker R. William
-(Bill) Gosper. This notion merits its own term because there are so many of
-them. Many of the entries in {HAKMEM} are Gosperisms; see also {life}.
-:gotcha: n. A {misfeature} of a system, especially a programming language or
-environment, that tends to breed bugs or mistakes because it both enticingly
-easy to invoke and completely unexpected and/or unreasonable in its outcome.
-For example, a classic gotcha in {C} is the fact that `if (a=b) {code;}' is
+humorous way to refer to a vacuum tube. :glitch: /glich/ [very common; from
+German `glitschig' to slip, via Yiddish `glitshen', to slide or skid] 1. n. A
+sudden interruption in electric service, sanity, continuity, or program
+function. Sometimes recoverable. An interruption in electric service is
+specifically called a `power glitch' (also {power hit}), of grave concern
+because it usually crashes all the computers. In jargon, though, a hacker who
+got to the middle of a sentence and then forgot how he or she intended to
+complete it might say, "Sorry, I just glitched". 2. vi. To commit a glitch.
+see {gritch}. 3. vt. [Stanford] To scroll a display screen, esp. several
+lines at a time. {{WAITS}} terminals used to do this in order to avoid
+continuous scrolling, which is distracting to the eye. 4. obs. Same as {magic
+cookie}, sense 2. All these uses of `glitch' derive from the specific
+technical meaning the term has in the electronic hardware world, where it is
+now techspeak. A glitch can occur when the inputs of a circuit change, and
+the outputs change to some {random} value for some very brief time before
+they settle down to the correct value. If another circuit inspects the output
+at just the wrong time, reading the random value, the results can be very
+wrong and very hard to debug (a glitch is one of many causes of electronic
+{heisenbug}s). :glob: /glob/, _not_ /glohb/ v.,n. [Unix; common] To expand
+special characters in a wildcarded name, or the act of so doing (the action
+is also called `globbing'). The Unix conventions for filename wildcarding
+have become sufficiently pervasive that many hackers use some of them in
+written English, especially in email or news on technical topics. Those
+commonly encountered include the following: * wildcard for any string (see
+also {UN*X}) ? wildcard for any single character (generally read this way
+only at the beginning or in the middle of a word) [] delimits a wildcard
+matching any of the enclosed characters {} alternation of comma-separated
+alternatives; thus, `foo{baz,qux}' would be read as `foobaz' or `fooqux' Some
+examples: "He said his name was [KC]arl" (expresses ambiguity). "I don't read
+talk.politics.*" (any of the talk.politics subgroups on {Usenet}). Other
+examples are given under the entry for {X}. Note that glob patterns are
+similar, but not identical, to those used in {regexp}s. Historical note: The
+jargon usage derives from `glob', the name of a subprogram that expanded
+wildcards in archaic pre-Bourne versions of the Unix shell. :glork: /glork/
+1. interj. Term of mild surprise, usually tinged with outrage, as when one
+attempts to save the results of two hours of editing and finds that the
+system has just crashed. 2. Used as a name for just about anything. see
+{foo}. 3. vt. Similar to {glitch}, but usually used reflexively. "My program
+just glorked itself." 4. Syn. for {glark}, which see. :glue: n. Generic term
+for any interface logic or protocol that connects two component blocks. For
+example, {Blue Glue} is IBM's SNA protocol, and hardware designers call
+anything used to connect large VLSI's or circuit blocks `glue logic'.
+:gnarly: /nar'lee/ adj. Both {obscure} and {hairy} (sense 1). "{Yow!} -- the
+tuned assembler implementation of BitBlt is really gnarly!" From a similar
+but less specific usage in surfer slang. :GNU: /gnoo/, _not_ /noo/ 1.
+[acronym: `GNU's Not Unix!', see {{recursive acronym}}] A Unix-workalike
+development effort of the Free Software Foundation headed by Richard Stallman
+<<rms@gnu.ai.mit.edu>>. GNU EMACS and the GNU C compiler, two tools designed
+for this project, have become very popular in hackerdom and elsewhere. The
+GNU project was designed partly to proselytize for RMS's position that
+information is community property and all software source should be shared.
+One of its slogans is "Help stamp out software hoarding!" Though this remains
+controversial (because it implicitly denies any right of designers to own,
+assign, and sell the results of their labors), many hackers who disagree with
+RMS have nevertheless cooperated to produce large amounts of high-quality
+software for free redistribution under the Free Software Foundation's
+imprimatur. see {EMACS}, {copyleft}, {General Public Virus}, {Linux}. 2.
+Noted Unix hacker John Gilmore <<gnu@toad.com>>, founder of Usenet's anarchic
+alt.* hierarchy. :GNUMACS: /gnoo'maks/ n. [contraction of `GNU EMACS']
+Often-heard abbreviated name for the {GNU} project's flagship tool, {EMACS}.
+Used esp. in contrast with {GOSMACS}. :go flatline: v. [from cyberpunk SF,
+refers to flattening of EEG traces upon brain-death] (also adjectival
+`flatlined'). 1. To {die}, terminate, or fail, esp. irreversibly. In hacker
+parlance, this is used of machines only, human death being considered
+somewhat too serious a matter to employ jargon-jokes about. 2. To go
+completely quiescent; said of machines undergoing controlled shutdown. "You
+can suffer file damage if you shut down Unix but power off before the system
+has gone flatline." 3. Of a video tube, to fail by losing vertical scan, so
+all one sees is a bright horizontal line bisecting the screen. :go root: vi.
+[Unix; common] To temporarily enter {root mode} in order to perform a
+privileged operation. This use is deprecated in Australia, where v. `root' is
+a synonym for "fuck". :go-faster stripes: n. [UK] Syn. {chrome}. Mainstream
+in some parts of UK. :GoAT: // [Usenet] Abbreviation: "Go Away, Troll". see
+{troll}. :gobble: vt. 1. To consume, usu. used with `up'. "The output spy
+gobbles characters out of a {tty} output buffer." 2. To obtain, usu. used
+with `down'. "I guess I'll gobble down a copy of the documentation tomorrow."
+see also {snarf}. :Godwin's Law: prov. [Usenet] "As a Usenet discussion grows
+longer, the probability of a comparison involving Nazis or Hitler approaches
+one." There is a tradition in many groups that, once this occurs, that thread
+is over, and whoever mentioned the Nazis has automatically lost whatever
+argument was in progress. Godwin's Law thus practically guarantees the
+existence of an upper bound on thread length in those groups. :Godzillagram:
+/god-zil'*-gram/ n. [from Japan's national hero] 1. A network packet that in
+theory is a broadcast to every machine in the universe. The typical case is
+an IP datagram whose destination IP address is [255.255.255.255].
+Fortunately, few gateways are foolish enough to attempt to implement this
+case! 2. A network packet of maximum size. An IP Godzillagram has 65,536
+octets. Compare {super source quench}, {Christmas tree packet}, {martian}.
+:golden: adj. [prob. from folklore's `golden egg'] When used to describe a
+magnetic medium (e.g., `golden disk', `golden tape'), describes one
+containing a tested, up-to-spec, ready-to-ship software version. Compare
+{platinum-iridium}. :golf-ball printer: n. obs. The IBM 2741, a slow but
+letter-quality printing device and terminal based on the IBM Selectric
+typewriter. The `golf ball' was a little spherical frob bearing reversed
+embossed images of 88 different characters arranged on four parallels of
+latitude; one could change the font by swapping in a different golf ball. The
+print element spun and jerked alarmingly in action and when in motion was
+sometimes described as an `infuriated golf ball'. This was the technology
+that enabled APL to use a non-EBCDIC, non-ASCII, and in fact completely
+non-standard character set. This put it 10 years ahead of its time -- where
+it stayed, firmly rooted, for the next 20, until character displays gave way
+to programmable bit-mapped devices with the flexibility to support other
+character sets. :gonk: /gonk/ vi.,n. 1. To prevaricate or to embellish the
+truth beyond any reasonable recognition. In German the term is (mythically)
+`gonken'; in Spanish the verb becomes `gonkar'. "You're gonking me. That
+story you just told me is a bunch of gonk." In German, for example, "Du
+gonkst mich" (You're pulling my leg). see also {gonkulator}. 2. [British] To
+grab some sleep at an odd time; compare {gronk out}. :gonkulator:
+/gon'kyoo-lay-tr/ n. [common; from the 1960s "Hogan's Heroes" TV series] A
+pretentious piece of equipment that actually serves no useful purpose.
+Usually used to describe one's least favorite piece of computer hardware. see
+{gonk}. :gonzo: /gon'zoh/ adj. [from Hunter S. Thompson] 1. With total
+commitment, total concentration, and a mad sort of panache. (Thompson's
+original sense.) 2. More loosely: Overwhelming; outrageous; over the top;
+very large, esp. used of collections of source code, source files, or
+individual functions. Has some of the connotations of {moby} and {hairy}, but
+without the implication of obscurity or complexity. :Good Thing: n.,adj.
+[very common; often capitalized; always pronounced as if capitalized.] 1.
+Self-evidently wonderful to anyone in a position to notice: "The
+Trailblazer's 19.2Kbaud PEP mode with on-the-fly Lempel-Ziv compression is a
+Good Thing for sites relaying netnews." 2. Something that can't possibly have
+any ill side-effects and may save considerable grief later: "Removing the
+self-modifying code from that shared library would be a Good Thing." 3. When
+said of software tools or libraries, as in "YACC is a Good Thing",
+specifically connotes that the thing has drastically reduced a programmer's
+work load. Oppose {Bad Thing}. :gopher: n. A type of Internet service first
+floated around 1991 and obsolesced around 1995 by the World Wide Web. Gopher
+presents a menuing interface to a tree or graph of links; the links can be to
+documents, runnable programs, or other gopher menus arbitrarily far across
+the net. Some claim that the gopher software, which was originally developed
+at the University of Minnesota, was named after the Minnesota Gophers (a
+sports team). Others claim the word derives from American slang `gofer' (from
+"go for", dialectal "go fer"), one whose job is to run and fetch things.
+Finally, observe that gophers dig long tunnels, and the idea of tunneling
+through the net to find information was a defining metaphor for the
+developers. Probably all three things were true, but with the first two
+coming first and the gopher-tunnel metaphor serendipitously adding flavor and
+impetus to the project as it developed out of its concept stage. :gopher
+hole: n. 1. Any access to a {gopher}. 2. [Amateur Packet Radio] The
+terrestrial analog of a {wormhole} (sense 2), from which this term was
+coined. A gopher hole links two amateur packet relays through some non-ham
+radio medium. :gorets: /gor'ets/ n. The unknown ur-noun, fill in your own
+meaning. Found esp. on the Usenet newsgroup alt.gorets, which seems to be a
+running contest to redefine the word by implication in the funniest and most
+peculiar way, with the understanding that no definition is ever final. [A
+correspondent from the Former Soviet Union informs me that `gorets' is
+Russian for `mountain dweller'. Another from France informs me that `goret'
+is archaic French for a young pig --ESR] Compare {frink}. :gorilla arm: n.
+The side-effect that destroyed touch-screens as a mainstream input technology
+despite a promising start in the early 1980s. It seems the designers of all
+those {spiffy} touch-menu systems failed to notice that humans aren't
+designed to hold their arms in front of their faces making small motions.
+After more than a very few selections, the arm begins to feel sore, cramped,
+and oversized -- the operator looks like a gorilla while using the touch
+screen and feels like one afterwards. This is now considered a classic
+cautionary tale to human-factors designers; "Remember the gorilla arm!" is
+shorthand for "How is this going to fly in _real_ use?". :gorp: /gorp/ n.
+[CMU: perhaps from the canonical hiker's food, Good Old Raisins and Peanuts]
+Another {metasyntactic variable}, like {foo} and {bar}. :GOSMACS: /goz'maks/
+n. [contraction of `Gosling EMACS'] The first {EMACS}-in-C implementation,
+predating but now largely eclipsed by {GNUMACS}. Originally freeware; a
+commercial version is now modestly popular as `UniPress EMACS'. The author,
+James Gosling, went on to invent {NeWS} and the programming language Java;
+the latter earned him {demigod} status. :Gosperism: /gos'p*r-izm/ n. A hack,
+invention, or saying due to {elder days} arch-hacker R. William (Bill)
+Gosper. This notion merits its own term because there are so many of them.
+Many of the entries in {HAKMEM} are Gosperisms; see also {life}. :gotcha: n.
+A {misfeature} of a system, especially a programming language or environment,
+that tends to breed bugs or mistakes because it both enticingly easy to
+invoke and completely unexpected and/or unreasonable in its outcome. For
+example, a classic gotcha in {C} is the fact that `if (a=b) {code;}' is
 syntactically valid and sometimes even correct. It puts the value of `b' into
 `a' and then executes `code' if `a' is non-zero. What the programmer probably
 meant was `if (a==b) {code;}', which executes `code' if `a' and `b' are
@@ -427,177 +431,180 @@ reincarnated as a new word. seems to have originated sometime in 1992 on
 The Dark", in which alien species after species goes insane and begins to
 chant "Grilf! Grilf!". A human detective eventually determines that the word
 means "Liar!" I hope this has nothing to do with the popularity of the Usenet
-term. --ESR] :grind: vt. 1. [MIT and Berkeley] To prettify hardcopy of code,
-especially LISP code, by reindenting lines, printing keywords and comments in
-distinct fonts (if available), etc. This usage was associated with the
-MacLISP community and is now rare; {prettyprint} was and is the generic term
-for such operations. 2. [Unix] To generate the formatted version of a
-document from the {{nroff}}, {{troff}}, {{TeX}}, or Scribe source. 3. To run
-seemingly interminably, esp. (but not necessarily) if performing some tedious
-and inherently useless task. Similar to {crunch} or {grovel}. Grinding has a
-connotation of using a lot of CPU time, but it is possible to grind a disk,
-network, etc. see also {hog}. 4. To make the whole system slow. "Troff really
-grinds a PDP-11." 5. `grind grind' excl. Roughly, "Isn't the machine slow
-today!" :grind crank: n. A mythical accessory to a terminal. A crank on the
-side of a monitor, which when operated makes a zizzing noise and causes the
-computer to run faster. Usually one does not refer to a grind crank out loud,
-but merely makes the appropriate gesture and noise. see {grind} and {wugga
-wugga}. Historical note: At least one real machine actually had a grind crank
--- the R1, a research machine built toward the end of the days of the great
-vacuum tube computers, in 1959. R1 (also known as `The Rice Institute
-Computer' (TRIC) and later as `The Rice University Computer' (TRUC)) had a
-single-step/free-run switch for use when debugging programs. Since
-single-stepping through a large program was rather tedious, there was also a
-crank with a cam and gear arrangement that repeatedly pushed the single-step
-button. This allowed one to `crank' through a lot of code, then slow down to
-single-step for a bit when you got near the code of interest, poke at some
-registers using the console typewriter, and then keep on cranking. :gripenet:
-n. [IBM] A wry (and thoroughly unofficial) name for IBM's internal VNET
-system, deriving from its common use by IBMers to voice pointed criticism of
-IBM management that would be taboo in more formal channels. :gritch: /grich/
-[MIT] 1. n. A complaint (often caused by a {glitch}). 2. vi. To complain.
-Often verb-doubled: "Gritch gritch". 3. A synonym for {glitch} (as verb or
-noun). Interestingly, this word seems to have a separate history from
-{glitch}, with which it is often confused. Back in the early 1960s, when
-`glitch' was strictly a hardware-tech's term of art, the Burton House dorm at
-M.I.T. maintained a "Gritch Book", a blank volume, into which the residents
-hand-wrote complaints, suggestions, and witticisms. Previous years' volumes
-of this tradition were maintained, dating back to antiquity. The word
-"gritch" was described as a portmanteau of "gripe" and "bitch". Thus, sense 3
-above is at least historically incorrect. :grok: /grok/, var. /grohk/ vt.
-[from the novel "Stranger in a Strange Land", by Robert A. Heinlein, where it
-is a Martian word meaning literally `to drink' and metaphorically `to be one
-with'] The emphatic form is `grok in fullness'. 1. To understand, usually in
-a global sense. Connotes intimate and exhaustive knowledge. Contrast {zen},
-which is similar supernal understanding experienced as a single brief flash.
-see also {glark}. 2. Used of programs, may connote merely sufficient
-understanding. "Almost all C compilers grok the `void' type these days."
-:gronk: /gronk/ vt. [popularized by Johnny Hart's comic strip "B.C." but the
-word apparently predates that] 1. To clear the state of a wedged device and
-restart it. More severe than `to {frob}' (sense 2). 2. [TMRC] To cut, sever,
-smash, or similarly disable. 3. The sound made by many 3.5-inch diskette
-drives. In particular, the microfloppies on a Commodore Amiga go "grink,
-gronk". :gronk out: vi. To cease functioning. Of people, to go home and go to
-sleep. "I guess I'll gronk out now; see you all tomorrow." :gronked: adj. 1.
-Broken. "The teletype scanner was gronked, so we took the system down." 2. Of
-people, the condition of feeling very tired or (less commonly) sick. "I've
-been chasing that bug for 17 hours now and I am thoroughly gronked!" Compare
-{broken}, which means about the same as {gronk} used of hardware, but
-connotes depression or mental/emotional problems in people. :grovel: vi. 1.
-To work interminably and without apparent progress. Often used transitively
-with `over' or `through'. "The file scavenger has been groveling through the
-/usr directories for 10 minutes now." Compare {grind} and {crunch}. Emphatic
-form: `grovel obscenely'. 2. To examine minutely or in complete detail. "The
-compiler grovels over the entire source program before beginning to translate
-it." "I grovelled through all the documentation, but I still couldn't find
-the command I wanted." :grue: n. [from archaic English verb for `shudder', as
-with fear] The grue was originated in the game {Zork} and used in several
-other {Infocom} games as a hint that you should perhaps look for a lamp,
-torch or some type of light source. Wandering into a dark area would cause
-the game to prompt you, "It is very dark. If you continue you are likely to
-be eaten by a grue." If you failed to locate a light source within the next
-couple of moves this would indeed be the case. The grue, according to
-scholars of the Great Underground Empire, is a sinister, lurking presence in
-the dark places of the earth. Its favorite diet is either adventurers or
-enchanters, but its insatiable appetite is tempered by its extreme fear of
-light. No grues have ever been seen by the light of day, and only a few have
-been observed in their underground lairs. Of those who have seen grues, few
-have survived their fearsome jaws to tell the tale. Grues have sharp claws
-and fangs, and an uncontrollable tendency to slaver and gurgle. They are
-certainly the most evil-tempered of all creatures; to say they are touchy is
-a dangerous understatement. "Sour as a grue" is a common expression, even
-among themselves. All this folklore is widely known among hackers. :grunge:
-/gruhnj/ n. 1. That which is grungy, or that which makes it so. 2.
-[Cambridge] Code which is inaccessible due to changes in other parts of the
-program. The preferred term in North America is {dead code}. :gubbish:
-/guhb'*sh/ n. [a portmanteau of `garbage' and `rubbish'; may have originated
-with SF author Philip K. Dick] Garbage; crap; nonsense. "What is all this
-gubbish?" The opposite portmanteau `rubbage' is also reported; in fact, it
-was British slang during the 19th century and appears in Dickens. :guiltware:
-/gilt'weir/ n. 1. A piece of {freeware} decorated with a message telling one
-how long and hard the author worked on it and intimating that one is a
-no-good freeloader if one does not immediately send the poor suffering martyr
-gobs of money. 2. A piece of {shareware} that works. :gumby: /guhm'bee/ n.
-[from a class of Monty Python characters, poss. with some influence from the
-1960s claymation character] An act of minor but conspicuous stupidity, often
-in `gumby maneuver' or `pull a gumby'. 2. [NRL] n. A bureaucrat, or other
-technical incompetent who impedes the progress of real work. 3. adj. Relating
-to things typically associated with people in sense 2. (e.g. "Ran would be
-writing code, but Richard gave him gumby work that's due on Friday", or,
-"Dammit! Travel screwed up my plane tickets. I have to go out on gumby
-patrol.") :gun: vt. [ITS: from the `:GUN' command] To forcibly terminate a
-program or job (computer, not career). "Some idiot left a background process
-running soaking up half the cycles, so I gunned it." Usage: now rare. Compare
-{can}, {blammo}. :gunch: /guhnch/ vt. [TMRC] To push, prod, or poke at a
-device that has almost (but not quite) produced the desired result. Implies a
-threat to {mung}. :gunpowder chicken: n. Same as {laser chicken}. :gurfle:
-/ger'fl/ interj. An expression of shocked disbelief. "He said we have to
-recode this thing in FORTRAN by next week. Gurfle!" Compare {weeble}. :guru:
-n. [Unix] An expert. Implies not only {wizard} skill but also a history of
-being a knowledge resource for others. Less often, used (with a qualifier)
-for other experts on other systems, as in `VMS guru'. see {source of all good
-bits}. :guru meditation: n. Amiga equivalent of `panic' in Unix (sometimes
-just called a `guru' or `guru event'). When the system crashes, a cryptic
-message of the form "GURU MEDITATION #XXXXXXXX.YYYYYYYY" may appear,
-indicating what the problem was. An Amiga guru can figure things out from the
-numbers. Sometimes a {guru} event must be followed by a {Vulcan nerve pinch}.
-This term is (no surprise) an in-joke from the earliest days of the Amiga.
-There used to be a device called a `Joyboard' which was basically a plastic
-board built onto a joystick-like device; it was sold with a skiing game
-cartridge for the Atari game machine. It is said that whenever the prototype
-OS crashed, the system programmer responsible would calm down by
-concentrating on a solution while sitting cross-legged on a Joyboard trying
-to keep the board in balance. This position resembled that of a meditating
-guru. Sadly, the joke was removed fairly early on. :gweep: /gweep/ [WPI] 1.
-v. To {hack}, usually at night. At WPI, from 1975 onwards, one who gweeped
-could often be found at the College Computing Center punching cards or
-crashing the {PDP-10} or, later, the DEC-20. A correspondent who was there at
-the time opines that the term was originally onomatopoetic, describing the
-keyclick sound of the Datapoint terminals long connected to the PDP-10. The
-term has survived the demise of those technologies, however, and was still
-alive in late 1991. "I'm going to go gweep for a while. see you in the
-morning." "I gweep from 8 PM till 3 AM during the week." 2. n. One who
-habitually gweeps in sense 1; a {hacker}. "He's a hard-core gweep, mumbles
-code in his sleep." = H = ===== :h: [from SF fandom] A method of `marking'
-common words, i.e., calling attention to the fact that they are being used in
-a nonstandard, ironic, or humorous way. Originated in the fannish catchphrase
-"Bheer is the One True Ghod!" from decades ago. H-infix marking of `Ghod' and
-other words spread into the 1960s counterculture via underground comix, and
-into early hackerdom either from the counterculture or from SF fandom (the
-three overlapped heavily at the time). More recently, the h infix has become
-an expected feature of benchmark names (Dhrystone, Rhealstone, etc.); this is
-probably patterning on the original Whetstone (the name of a laboratory) but
-influenced by the fannish/counterculture h infix. :ha ha only serious: [from
-SF fandom, orig. as mutation of HHOK, `Ha Ha Only Kidding'] A phrase (often
-seen abbreviated as HHOS) that aptly captures the flavor of much hacker
-discourse. Applied especially to parodies, absurdities, and ironic jokes that
-are both intended and perceived to contain a possibly disquieting amount of
-truth, or truths that are constructed on in-joke and self-parody. This
-lexicon contains many examples of ha-ha-only-serious in both form and
-content. Indeed, the entirety of hacker culture is often perceived as
-ha-ha-only-serious by hackers themselves; to take it either too lightly or
-too seriously marks a person as an outsider, a {wannabee}, or in {larval
-stage}. For further enlightenment on this subject, consult any Zen master.
-see also {{hacker humor}}, and {AI koans}. :hack: 1. n. Originally, a quick
-job that produces what is needed, but not well. 2. n. An incredibly good, and
-perhaps very time-consuming, piece of work that produces exactly what is
-needed. 3. vt. To bear emotionally or physically. "I can't hack this heat!"
-4. vt. To work on something (typically a program). In an immediate sense:
-"What are you doing?" "I'm hacking TECO." In a general (time-extended) sense:
-"What do you do around here?" "I hack TECO." More generally, "I hack `foo'"
-is roughly equivalent to "`foo' is my major interest (or project)". "I hack
-solid-state physics." see {Hacking X for Y}. 5. vt. To pull a prank on. see
-sense 2 and {hacker} (sense 5). 6. vi. To interact with a computer in a
-playful and exploratory rather than goal-directed way. "Whatcha up to?" "Oh,
-just hacking." 7. n. Short for {hacker}. 8. see {nethack}. 9. [MIT] v. To
-explore the basements, roof ledges, and steam tunnels of a large,
-institutional building, to the dismay of Physical Plant workers and (since
-this is usually performed at educational institutions) the Campus Police.
-This activity has been found to be eerily similar to playing adventure games
-such as Dungeons and Dragons and {Zork}. see also {vadding}. Constructions on
-this term abound. They include `happy hacking' (a farewell), `how's hacking?'
-(a friendly greeting among hackers) and `hack, hack' (a fairly content-free
-but friendly comment, often used as a temporary farewell). For more on this
+term. --ESR] :grind: vt. 1. [MIT and Berkeley; now rare] To prettify hardcopy
+of code, especially LISP code, by reindenting lines, printing keywords and
+comments in distinct fonts (if available), etc. This usage was associated
+with the MacLISP community and is now rare; {prettyprint} was and is the
+generic term for such operations. 2. [Unix] To generate the formatted version
+of a document from the {{nroff}}, {{troff}}, {{TeX}}, or Scribe source. 3.
+[common] To run seemingly interminably, esp. (but not necessarily) if
+performing some tedious and inherently useless task. Similar to {crunch} or
+{grovel}. Grinding has a connotation of using a lot of CPU time, but it is
+possible to grind a disk, network, etc. see also {hog}. 4. To make the whole
+system slow. "Troff really grinds a PDP-11." 5. `grind grind' excl. Roughly,
+"Isn't the machine slow today!" :grind crank: n. A mythical accessory to a
+terminal. A crank on the side of a monitor, which when operated makes a
+zizzing noise and causes the computer to run faster. Usually one does not
+refer to a grind crank out loud, but merely makes the appropriate gesture and
+noise. see {grind}. Historical note: At least one real machine actually had a
+grind crank -- the R1, a research machine built toward the end of the days of
+the great vacuum tube computers, in 1959. R1 (also known as `The Rice
+Institute Computer' (TRIC) and later as `The Rice University Computer'
+(TRUC)) had a single-step/free-run switch for use when debugging programs.
+Since single-stepping through a large program was rather tedious, there was
+also a crank with a cam and gear arrangement that repeatedly pushed the
+single-step button. This allowed one to `crank' through a lot of code, then
+slow down to single-step for a bit when you got near the code of interest,
+poke at some registers using the console typewriter, and then keep on
+cranking. :gripenet: n. [IBM] A wry (and thoroughly unofficial) name for
+IBM's internal VNET system, deriving from its common use by IBMers to voice
+pointed criticism of IBM management that would be taboo in more formal
+channels. :gritch: /grich/ [MIT] 1. n. A complaint (often caused by a
+{glitch}). 2. vi. To complain. Often verb-doubled: "Gritch gritch". 3. A
+synonym for {glitch} (as verb or noun). Interestingly, this word seems to
+have a separate history from {glitch}, with which it is often confused. Back
+in the early 1960s, when `glitch' was strictly a hardware-tech's term of art,
+the Burton House dorm at M.I.T. maintained a "Gritch Book", a blank volume,
+into which the residents hand-wrote complaints, suggestions, and witticisms.
+Previous years' volumes of this tradition were maintained, dating back to
+antiquity. The word "gritch" was described as a portmanteau of "gripe" and
+"bitch". Thus, sense 3 above is at least historically incorrect. :grok:
+/grok/, var. /grohk/ vt. [from the novel "Stranger in a Strange Land", by
+Robert A. Heinlein, where it is a Martian word meaning literally `to drink'
+and metaphorically `to be one with'] The emphatic form is `grok in fullness'.
+1. To understand, usually in a global sense. Connotes intimate and exhaustive
+knowledge. Contrast {zen}, which is similar supernal understanding
+experienced as a single brief flash. see also {glark}. 2. Used of programs,
+may connote merely sufficient understanding. "Almost all C compilers grok the
+`void' type these days." :gronk: /gronk/ vt. [popularized by Johnny Hart's
+comic strip "B.C." but the word apparently predates that] 1. To clear the
+state of a wedged device and restart it. More severe than `to {frob}' (sense
+2). 2. [TMRC] To cut, sever, smash, or similarly disable. 3. The sound made
+by many 3.5-inch diskette drives. In particular, the microfloppies on a
+Commodore Amiga go "grink, gronk". :gronk out: vi. To cease functioning. Of
+people, to go home and go to sleep. "I guess I'll gronk out now; see you all
+tomorrow." :gronked: adj. 1. Broken. "The teletype scanner was gronked, so we
+took the system down." 2. Of people, the condition of feeling very tired or
+(less commonly) sick. "I've been chasing that bug for 17 hours now and I am
+thoroughly gronked!" Compare {broken}, which means about the same as {gronk}
+used of hardware, but connotes depression or mental/emotional problems in
+people. :grovel: vi. 1. To work interminably and without apparent progress.
+Often used transitively with `over' or `through'. "The file scavenger has
+been groveling through the /usr directories for 10 minutes now." Compare
+{grind} and {crunch}. Emphatic form: `grovel obscenely'. 2. To examine
+minutely or in complete detail. "The compiler grovels over the entire source
+program before beginning to translate it." "I grovelled through all the
+documentation, but I still couldn't find the command I wanted." :grue: n.
+[from archaic English verb for `shudder', as with fear] The grue was
+originated in the game {Zork} (Dave Lebling took the name from Jack Vance's
+"Dying Earth" fantasies) and used in several other {Infocom} games as a hint
+that you should perhaps look for a lamp, torch or some type of light source.
+Wandering into a dark area would cause the game to prompt you, "It is very
+dark. If you continue you are likely to be eaten by a grue." If you failed to
+locate a light source within the next couple of moves this would indeed be
+the case. The grue, according to scholars of the Great Underground Empire, is
+a sinister, lurking presence in the dark places of the earth. Its favorite
+diet is either adventurers or enchanters, but its insatiable appetite is
+tempered by its extreme fear of light. No grues have ever been seen by the
+light of day, and only a few have been observed in their underground lairs.
+Of those who have seen grues, few have survived their fearsome jaws to tell
+the tale. Grues have sharp claws and fangs, and an uncontrollable tendency to
+slaver and gurgle. They are certainly the most evil-tempered of all
+creatures; to say they are touchy is a dangerous understatement. "Sour as a
+grue" is a common expression, even among themselves. All this folklore is
+widely known among hackers. :grunge: /gruhnj/ n. 1. That which is grungy, or
+that which makes it so. 2. [Cambridge] Code which is inaccessible due to
+changes in other parts of the program. The preferred term in North America is
+{dead code}. :gubbish: /guhb'*sh/ n. [a portmanteau of `garbage' and
+`rubbish'; may have originated with SF author Philip K. Dick] Garbage; crap;
+nonsense. "What is all this gubbish?" The opposite portmanteau `rubbage' is
+also reported; in fact, it was British slang during the 19th century and
+appears in Dickens. :guiltware: /gilt'weir/ n. 1. A piece of {freeware}
+decorated with a message telling one how long and hard the author worked on
+it and intimating that one is a no-good freeloader if one does not
+immediately send the poor suffering martyr gobs of money. 2. A piece of
+{shareware} that works. :gumby: /guhm'bee/ n. [from a class of Monty Python
+characters, poss. with some influence from the 1960s claymation character] An
+act of minor but conspicuous stupidity, often in `gumby maneuver' or `pull a
+gumby'. 2. [NRL] n. A bureaucrat, or other technical incompetent who impedes
+the progress of real work. 3. adj. Relating to things typically associated
+with people in sense 2. (e.g. "Ran would be writing code, but Richard gave
+him gumby work that's due on Friday", or, "Dammit! Travel screwed up my plane
+tickets. I have to go out on gumby patrol.") :gun: vt. [ITS, now rare: from
+the `:GUN' command] To forcibly terminate a program or job (computer, not
+career). "Some idiot left a background process running soaking up half the
+cycles, so I gunned it." Usage: now rare. Compare {can}, {blammo}. :gunch:
+/guhnch/ vt. [TMRC] To push, prod, or poke at a device that has almost (but
+not quite) produced the desired result. Implies a threat to {mung}.
+:gunpowder chicken: n. Same as {laser chicken}. :gurfle: /ger'fl/ interj. An
+expression of shocked disbelief. "He said we have to recode this thing in
+FORTRAN by next week. Gurfle!" Compare {weeble}. :guru: n. [Unix] An expert.
+Implies not only {wizard} skill but also a history of being a knowledge
+resource for others. Less often, used (with a qualifier) for other experts on
+other systems, as in `VMS guru'. see {source of all good bits}. :guru
+meditation: n. Amiga equivalent of `panic' in Unix (sometimes just called a
+`guru' or `guru event'). When the system crashes, a cryptic message of the
+form "GURU MEDITATION #XXXXXXXX.YYYYYYYY" may appear, indicating what the
+problem was. An Amiga guru can figure things out from the numbers. Sometimes
+a {guru} event must be followed by a {Vulcan nerve pinch}. This term is (no
+surprise) an in-joke from the earliest days of the Amiga. There used to be a
+device called a `Joyboard' which was basically a plastic board built onto a
+joystick-like device; it was sold with a skiing game cartridge for the Atari
+game machine. It is said that whenever the prototype OS crashed, the system
+programmer responsible would calm down by concentrating on a solution while
+sitting cross-legged on a Joyboard trying to keep the board in balance. This
+position resembled that of a meditating guru. Sadly, the joke was removed
+fairly early on (but there's a well-known patch to restore it in more recent
+versions). :gweep: /gweep/ [WPI] 1. v. To {hack}, usually at night. At WPI,
+from 1975 onwards, one who gweeped could often be found at the College
+Computing Center punching cards or crashing the {PDP-10} or, later, the
+DEC-20. A correspondent who was there at the time opines that the term was
+originally onomatopoetic, describing the keyclick sound of the Datapoint
+terminals long connected to the PDP-10. The term has survived the demise of
+those technologies, however, and was still alive in early 1999. "I'm going to
+go gweep for a while. see you in the morning." "I gweep from 8 PM till 3 AM
+during the week." 2. n. One who habitually gweeps in sense 1; a {hacker}.
+"He's a hard-core gweep, mumbles code in his sleep." = H = ===== :h: [from SF
+fandom] A method of `marking' common words, i.e., calling attention to the
+fact that they are being used in a nonstandard, ironic, or humorous way.
+Originated in the fannish catchphrase "Bheer is the One True Ghod!" from
+decades ago. H-infix marking of `Ghod' and other words spread into the 1960s
+counterculture via underground comix, and into early hackerdom either from
+the counterculture or from SF fandom (the three overlapped heavily at the
+time). More recently, the h infix has become an expected feature of benchmark
+names (Dhrystone, Rhealstone, etc.); this is probably patterning on the
+original Whetstone (the name of a laboratory) but influenced by the
+fannish/counterculture h infix. :ha ha only serious: [from SF fandom, orig.
+as mutation of HHOK, `Ha Ha Only Kidding'] A phrase (often seen abbreviated
+as HHOS) that aptly captures the flavor of much hacker discourse. Applied
+especially to parodies, absurdities, and ironic jokes that are both intended
+and perceived to contain a possibly disquieting amount of truth, or truths
+that are constructed on in-joke and self-parody. This lexicon contains many
+examples of ha-ha-only-serious in both form and content. Indeed, the entirety
+of hacker culture is often perceived as ha-ha-only-serious by hackers
+themselves; to take it either too lightly or too seriously marks a person as
+an outsider, a {wannabee}, or in {larval stage}. For further enlightenment on
+this subject, consult any Zen master. see also {{hacker humor}}, and {AI
+koans}. :hack: [very common] 1. n. Originally, a quick job that produces what
+is needed, but not well. 2. n. An incredibly good, and perhaps very
+time-consuming, piece of work that produces exactly what is needed. 3. vt. To
+bear emotionally or physically. "I can't hack this heat!" 4. vt. To work on
+something (typically a program). In an immediate sense: "What are you doing?"
+"I'm hacking TECO." In a general (time-extended) sense: "What do you do
+around here?" "I hack TECO." More generally, "I hack `foo'" is roughly
+equivalent to "`foo' is my major interest (or project)". "I hack solid-state
+physics." see {Hacking X for Y}. 5. vt. To pull a prank on. See sense 2 and
+{hacker} (sense 5). 6. vi. To interact with a computer in a playful and
+exploratory rather than goal-directed way. "Whatcha up to?" "Oh, just
+hacking." 7. n. Short for {hacker}. 8. see {nethack}. 9. [MIT] v. To explore
+the basements, roof ledges, and steam tunnels of a large, institutional
+building, to the dismay of Physical Plant workers and (since this is usually
+performed at educational institutions) the Campus Police. This activity has
+been found to be eerily similar to playing adventure games such as Dungeons
+and Dragons and {Zork}. see also {vadding}. Constructions on this term
+abound. They include `happy hacking' (a farewell), `how's hacking?' (a
+friendly greeting among hackers) and `hack, hack' (a fairly content-free but
+friendly comment, often used as a temporary farewell). For more on this
 totipotent term see "{The Meaning of `Hack'}". see also {neat hack}, {real
 hack}. :hack attack: n. [poss. by analogy with `Big Mac Attack' from ads for
 the McDonald's fast-food chain; the variant `big hack attack' is reported]
@@ -613,7 +620,7 @@ the sensation of being in hack mode is more than a little habituating. The
 intensity of this experience is probably by itself sufficient explanation for
 the existence of hackers, and explains why many resist being promoted out of
 positions where they can code. see also {cyberspace} (sense 2). Some aspects
-of hackish etiquette will appear quite odd to an observer unaware of the high
+of hacker etiquette will appear quite odd to an observer unaware of the high
 value placed on hack mode. For example, if someone appears at your door, it
 is perfectly okay to hold up a hand (without turning one's eyes away from the
 screen) to avoid being interrupted. One may read, type, and interact with the
@@ -622,171 +629,172 @@ presence (of course, he or she is reciprocally free to leave without a word).
 The understanding is that you might be in {hack mode} with a lot of delicate
 {state} (sense 2) in your head, and you dare not {swap} that context out
 until you have reached a good point to pause. see also {juggling eggs}. :hack
-on: vt. To {hack}; implies that the subject is some pre-existing hunk of code
-that one is evolving, as opposed to something one might {hack up}. :hack
-together: vt. To throw something together so it will work. Unlike `kluge
-together' or {cruft together}, this does not necessarily have negative
-connotations. :hack up: vt. To {hack}, but generally implies that the result
-is a hack in sense 1 (a quick hack). Contrast this with {hack on}. To `hack
-up on' implies a {quick-and-dirty} modification to an existing system.
-Contrast {hacked up}; compare {kluge up}, {monkey up}, {cruft together}.
-:hack value: n. Often adduced as the reason or motivation for expending
-effort toward a seemingly useless goal, the point being that the accomplished
-goal is a hack. For example, MacLISP had features for reading and printing
-Roman numerals, which were installed purely for hack value. see {display
-hack} for one method of computing hack value, but this cannot really be
-explained, only experienced. As Louis Armstrong once said when asked to
-explain jazz: "Man, if you gotta ask you'll never know." (Feminists please
-note Fats Waller's explanation of rhythm: "Lady, if you got to ask, you ain't
-got it.") :hacked off: adj. [analogous to `pissed off'] Said of system
-administrators who have become annoyed, upset, or touchy owing to suspicions
-that their sites have been or are going to be victimized by crackers, or used
-for inappropriate, technically illegal, or even overtly criminal activities.
-For example, having unreadable files in your home directory called `worm',
-`lockpick', or `goroot' would probably be an effective (as well as
-impressively obvious and stupid) way to get your sysadmin hacked off at you.
-It has been pointed out that there is precedent for this usage in U.S. Navy
-slang, in which officers under discipline are sometimes said to be "in hack"
-and one may speak of "hacking off the C.O.". :hacked up: adj. Sufficiently
-patched, kluged, and tweaked that the surgical scars are beginning to crowd
-out normal tissue (compare {critical mass}). Not all programs that are hacked
-become `hacked up'; if modifications are done with some eye to coherence and
-continued maintainability, the software may emerge better for the experience.
-Contrast {hack up}. :hacker: n. [originally, someone who makes furniture with
-an axe] 1. A person who enjoys exploring the details of programmable systems
-and how to stretch their capabilities, as opposed to most users, who prefer
-to learn only the minimum necessary. 2. One who programs enthusiastically
-(even obsessively) or who enjoys programming rather than just theorizing
-about programming. 3. A person capable of appreciating {hack value}. 4. A
-person who is good at programming quickly. 5. An expert at a particular
-program, or one who frequently does work using it or on it; as in `a Unix
-hacker'. (Definitions 1 through 5 are correlated, and people who fit them
-congregate.) 6. An expert or enthusiast of any kind. One might be an
-astronomy hacker, for example. 7. One who enjoys the intellectual challenge
-of creatively overcoming or circumventing limitations. 8. [deprecated] A
-malicious meddler who tries to discover sensitive information by poking
-around. Hence `password hacker', `network hacker'. The correct term for this
-sense is {cracker}. The term `hacker' also tends to connote membership in the
-global community defined by the net (see {the network} and {Internet
-address}). For discussion of some of the basics of this culture, see the How
-To Become A Hacker (http://www.tuxedo.org/~esr/faqs/hacker-howto.html) FAQ.
-It also implies that the person described is seen to subscribe to some
-version of the hacker ethic (see {hacker ethic}). It is better to be
-described as a hacker by others than to describe oneself that way. Hackers
-consider themselves something of an elite (a meritocracy based on ability),
-though one to which new members are gladly welcome. There is thus a certain
-ego satisfaction to be had in identifying yourself as a hacker (but if you
-claim to be one and are not, you'll quickly be labeled {bogus}). see also
-{wannabee}. This term seems to have been first adopted as a badge in the
-1960s by the hacker culture surrounding TMRC and the MIT AI Lab. We have a
-report that it was used in a sense close to this entry's by teenage radio
-hams and electronics tinkerers in the mid-1950s. :hacker ethic: n. 1. The
-belief that information-sharing is a powerful positive good, and that it is
-an ethical duty of hackers to share their expertise by writing open-source
-and facilitating access to information and to computing resources wherever
-possible. 2. The belief that system-cracking for fun and exploration is
-ethically OK as long as the cracker commits no theft, vandalism, or breach of
-confidentiality. Both of these normative ethical principles are widely, but
-by no means universally, accepted among hackers. Most hackers subscribe to
-the hacker ethic in sense 1, and many act on it by writing and giving away
-open-source software. A few go further and assert that _all_ information
-should be free and _any_ proprietary control of it is bad; this is the
-philosophy behind the {GNU} project. Sense 2 is more controversial: some
-people consider the act of cracking itself to be unethical, like breaking and
-entering. But the belief that `ethical' cracking excludes destruction at
-least moderates the behavior of people who see themselves as `benign'
-crackers (see also {samurai}). On this view, it may be one of the highest
-forms of hackerly courtesy to (a) break into a system, and then (b) explain
-to the sysop, preferably by email from a {superuser} account, exactly how it
-was done and how the hole can be plugged -- acting as an unpaid (and
-unsolicited) {tiger team}. The most reliable manifestation of either version
-of the hacker ethic is that almost all hackers are actively willing to share
-technical tricks, software, and (where possible) computing resources with
-other hackers. Huge cooperative networks such as {Usenet}, {FidoNet} and
-Internet (see {Internet address}) can function without central control
-because of this trait; they both rely on and reinforce a sense of community
-that may be hackerdom's most valuable intangible asset. :hacker humor:: A
-distinctive style of shared intellectual humor found among hackers, having
-the following marked characteristics: 1. Fascination with form-vs.-content
-jokes, paradoxes, and humor having to do with confusion of metalevels (see
-{meta}). One way to make a hacker laugh: hold a red index card in front of
-him/her with "GREEN" written on it, or vice-versa (note, however, that this
-is funny only the first time). 2. Elaborate deadpan parodies of large
-intellectual constructs, such as specifications (see {write-only memory}),
-standards documents, language descriptions (see {INTERCAL}), and even entire
-scientific theories (see {quantum bogodynamics}, {computron}). 3. Jokes that
-involve screwily precise reasoning from bizarre, ludicrous, or just grossly
-counter-intuitive premises. 4. Fascination with puns and wordplay. 5. A
-fondness for apparently mindless humor with subversive currents of
-intelligence in it -- for example, old Warner Brothers and Rocky & Bullwinkle
-cartoons, the Marx brothers, the early B-52s, and Monty Python's Flying
-Circus. Humor that combines this trait with elements of high camp and
-slapstick is especially favored. 6. References to the symbol-object
-antinomies and associated ideas in Zen Buddhism and (less often) Taoism. see
-{has the X nature}, {Discordianism}, {zen}, {ha ha only serious}, {AI koans}.
-see also {filk}, {retrocomputing}, and {A Portrait of J. Random Hacker} in
-Appendix B. If you have an itchy feeling that all 6 of these traits are
-really aspects of one thing that is incredibly difficult to talk about
-exactly, you are (a) correct and (b) responding like a hacker. These traits
-are also recognizable (though in a less marked form) throughout
-{{science-fiction fandom}}. :Hackers (the movie): n. A notable bomb from
-1995. Should have been titled "Crackers", because cracking is what the movie
-was about. It's understandable that they didn't however; titles redolent of
-snack food are probably a tough sell in Hollywood. :hacking run: n. [analogy
-with `bombing run' or `speed run'] A hack session extended long outside
-normal working times, especially one longer than 12 hours. May cause you to
-`change phase the hard way' (see {phase}). :Hacking X for Y: n. [ITS] Ritual
-phrasing of part of the information which ITS made publicly available about
-each user. This information (the INQUIR record) was a sort of form in which
-the user could fill out various fields. On display, two of these fields were
-always combined into a project description of the form "Hacking X for Y"
-(e.g., `"Hacking perceptrons for Minsky"'). This form of description became
-traditional and has since been carried over to other systems with more
-general facilities for self-advertisement (such as Unix {plan file}s).
-:Hackintosh: n. 1. An Apple Lisa that has been hacked into emulating a
-Macintosh (also called a `Mac XL'). 2. A Macintosh assembled from parts
-theoretically belonging to different models in the line. :hackish: /hak'ish/
-adj. (also {hackishness} n.) 1. Said of something that is or involves a hack.
-2. Of or pertaining to hackers or the hacker subculture. see also
-{true-hacker}. :hackishness: n. The quality of being or involving a hack.
-This term is considered mildly silly. Syn. {hackitude}. :hackitude: n. Syn.
-{hackishness}; this word is considered sillier. :hair: n. [back-formation
-from {hairy}] The complications that make something hairy. "Decoding {TECO}
-commands requires a certain amount of hair." Often seen in the phrase
-`infinite hair', which connotes extreme complexity. Also in `hairiferous'
-(tending to promote hair growth): "GNUMACS elisp encourages lusers to write
-complex editing modes." "Yeah, it's pretty hairiferous all right." (or just:
-"Hair squared!") :hairball: n. 1. [Fidonet] A large batch of messages that a
-store-and-forward network is failing to forward when it should. Often used in
-the phrase "Fido coughed up a hairball today", meaning that the stuck
-messages have just come unstuck, producing a flood of mail where there had
-previously been drought. 2. An unmanageably huge mass of source code. "JWZ
-thought the Mozilla effort bogged down because the code was a huge hairball."
-:hairy: adj. 1. Annoyingly complicated. "{DWIM} is incredibly hairy." 2.
-Incomprehensible. "{DWIM} is incredibly hairy." 3. Of people, high-powered,
-authoritative, rare, expert, and/or incomprehensible. Hard to explain except
-in context: "He knows this hairy lawyer who says there's nothing to worry
-about." see also {hirsute}. A well-known result in topology called the
-Brouwer Fixed-Point Theorem states that any continuous transformation of a
-2-sphere into itself has at least one fixed point. Mathematically literate
-hackers tend to associate the term `hairy' with the informal version of this
-theorem; "You can't comb a hairy ball smooth." The adjective `long-haired' is
-well-attested to have been in slang use among scientists and engineers during
-the early 1950s; it was equivalent to modern `hairy' senses 1 and 2, and was
-very likely ancestral to the hackish use. In fact the noun `long-hair' was at
-the time used to describe a person satisfying sense 3. Both senses probably
-passed out of use when long hair was adopted as a signature trait by the
-1960s counterculture, leaving hackish `hairy' as a sort of stunted mutant
-relic. :HAKMEM: /hak'mem/ n. MIT AI Memo 239 (February 1972). A legendary
-collection of neat mathematical and programming hacks contributed by many
-people at MIT and elsewhere. (The title of the memo really is "HAKMEM", which
-is a 6-letterism for `hacks memo'.) Some of them are very useful techniques,
-powerful theorems, or interesting unsolved problems, but most fall into the
-category of mathematical and computer trivia. Here is a sampling of the
-entries (with authors), slightly paraphrased: Item 41 (Gene Salamin): There
-are exactly 23,000 prime numbers less than 2^(18). Item 46 (Rich Schroeppel):
-The most _probable_ suit distribution in bridge hands is 4-4-3-2, as compared
-to 4-3-3-3, which is the most _evenly_ distributed. This is because the world
+on: vt. [very common] To {hack}; implies that the subject is some
+pre-existing hunk of code that one is evolving, as opposed to something one
+might {hack up}. :hack together: vt. [common] To throw something together so
+it will work. Unlike `kluge together' or {cruft together}, this does not
+necessarily have negative connotations. :hack up: vt. To {hack}, but
+generally implies that the result is a hack in sense 1 (a quick hack).
+Contrast this with {hack on}. To `hack up on' implies a {quick-and-dirty}
+modification to an existing system. Contrast {hacked up}; compare {kluge up},
+{monkey up}, {cruft together}. :hack value: n. Often adduced as the reason or
+motivation for expending effort toward a seemingly useless goal, the point
+being that the accomplished goal is a hack. For example, MacLISP had features
+for reading and printing Roman numerals, which were installed purely for hack
+value. see {display hack} for one method of computing hack value, but this
+cannot really be explained, only experienced. As Louis Armstrong once said
+when asked to explain jazz: "Man, if you gotta ask you'll never know."
+(Feminists please note Fats Waller's explanation of rhythm: "Lady, if you got
+to ask, you ain't got it.") :hacked off: adj. [analogous to `pissed off']
+Said of system administrators who have become annoyed, upset, or touchy owing
+to suspicions that their sites have been or are going to be victimized by
+crackers, or used for inappropriate, technically illegal, or even overtly
+criminal activities. For example, having unreadable files in your home
+directory called `worm', `lockpick', or `goroot' would probably be an
+effective (as well as impressively obvious and stupid) way to get your
+sysadmin hacked off at you. It has been pointed out that there is precedent
+for this usage in U.S. Navy slang, in which officers under discipline are
+sometimes said to be "in hack" and one may speak of "hacking off the C.O.".
+:hacked up: adj. Sufficiently patched, kluged, and tweaked that the surgical
+scars are beginning to crowd out normal tissue (compare {critical mass}). Not
+all programs that are hacked become `hacked up'; if modifications are done
+with some eye to coherence and continued maintainability, the software may
+emerge better for the experience. Contrast {hack up}. :hacker: n.
+[originally, someone who makes furniture with an axe] 1. A person who enjoys
+exploring the details of programmable systems and how to stretch their
+capabilities, as opposed to most users, who prefer to learn only the minimum
+necessary. 2. One who programs enthusiastically (even obsessively) or who
+enjoys programming rather than just theorizing about programming. 3. A person
+capable of appreciating {hack value}. 4. A person who is good at programming
+quickly. 5. An expert at a particular program, or one who frequently does
+work using it or on it; as in `a Unix hacker'. (Definitions 1 through 5 are
+correlated, and people who fit them congregate.) 6. An expert or enthusiast
+of any kind. One might be an astronomy hacker, for example. 7. One who enjoys
+the intellectual challenge of creatively overcoming or circumventing
+limitations. 8. [deprecated] A malicious meddler who tries to discover
+sensitive information by poking around. Hence `password hacker', `network
+hacker'. The correct term for this sense is {cracker}. The term `hacker' also
+tends to connote membership in the global community defined by the net (see
+{the network} and {Internet address}). For discussion of some of the basics
+of this culture, see the How To Become A Hacker
+(http://www.tuxedo.org/~esr/faqs/hacker-howto.html) FAQ. It also implies that
+the person described is seen to subscribe to some version of the hacker ethic
+(see {hacker ethic}). It is better to be described as a hacker by others than
+to describe oneself that way. Hackers consider themselves something of an
+elite (a meritocracy based on ability), though one to which new members are
+gladly welcome. There is thus a certain ego satisfaction to be had in
+identifying yourself as a hacker (but if you claim to be one and are not,
+you'll quickly be labeled {bogus}). see also {wannabee}. This term seems to
+have been first adopted as a badge in the 1960s by the hacker culture
+surrounding TMRC and the MIT AI Lab. We have a report that it was used in a
+sense close to this entry's by teenage radio hams and electronics tinkerers
+in the mid-1950s. :hacker ethic: n. 1. The belief that information-sharing is
+a powerful positive good, and that it is an ethical duty of hackers to share
+their expertise by writing open-source and facilitating access to information
+and to computing resources wherever possible. 2. The belief that
+system-cracking for fun and exploration is ethically OK as long as the
+cracker commits no theft, vandalism, or breach of confidentiality. Both of
+these normative ethical principles are widely, but by no means universally,
+accepted among hackers. Most hackers subscribe to the hacker ethic in sense
+1, and many act on it by writing and giving away open-source software. A few
+go further and assert that _all_ information should be free and _any_
+proprietary control of it is bad; this is the philosophy behind the {GNU}
+project. Sense 2 is more controversial: some people consider the act of
+cracking itself to be unethical, like breaking and entering. But the belief
+that `ethical' cracking excludes destruction at least moderates the behavior
+of people who see themselves as `benign' crackers (see also {samurai}). On
+this view, it may be one of the highest forms of hackerly courtesy to (a)
+break into a system, and then (b) explain to the sysop, preferably by email
+from a {superuser} account, exactly how it was done and how the hole can be
+plugged -- acting as an unpaid (and unsolicited) {tiger team}. The most
+reliable manifestation of either version of the hacker ethic is that almost
+all hackers are actively willing to share technical tricks, software, and
+(where possible) computing resources with other hackers. Huge cooperative
+networks such as {Usenet}, {FidoNet} and Internet (see {Internet address})
+can function without central control because of this trait; they both rely on
+and reinforce a sense of community that may be hackerdom's most valuable
+intangible asset. :hacker humor:: A distinctive style of shared intellectual
+humor found among hackers, having the following marked characteristics: 1.
+Fascination with form-vs.-content jokes, paradoxes, and humor having to do
+with confusion of metalevels (see {meta}). One way to make a hacker laugh:
+hold a red index card in front of him/her with "GREEN" written on it, or
+vice-versa (note, however, that this is funny only the first time). 2.
+Elaborate deadpan parodies of large intellectual constructs, such as
+specifications (see {write-only memory}), standards documents, language
+descriptions (see {INTERCAL}), and even entire scientific theories (see
+{quantum bogodynamics}, {computron}). 3. Jokes that involve screwily precise
+reasoning from bizarre, ludicrous, or just grossly counter-intuitive
+premises. 4. Fascination with puns and wordplay. 5. A fondness for apparently
+mindless humor with subversive currents of intelligence in it -- for example,
+old Warner Brothers and Rocky & Bullwinkle cartoons, the Marx brothers, the
+early B-52s, and Monty Python's Flying Circus. Humor that combines this trait
+with elements of high camp and slapstick is especially favored. 6. References
+to the symbol-object antinomies and associated ideas in Zen Buddhism and
+(less often) Taoism. see {has the X nature}, {Discordianism}, {zen}, {ha ha
+only serious}, {koan}, {AI koans}. see also {filk}, {retrocomputing}, and {A
+Portrait of J. Random Hacker} in Appendix B. If you have an itchy feeling
+that all six of these traits are really aspects of one thing that is
+incredibly difficult to talk about exactly, you are (a) correct and (b)
+responding like a hacker. These traits are also recognizable (though in a
+less marked form) throughout {{science-fiction fandom}}. :Hackers (the
+movie): n. A notable bomb from 1995. Should have been titled "Crackers",
+because cracking is what the movie was about. It's understandable that they
+didn't however; titles redolent of snack food are probably a tough sell in
+Hollywood. :hacking run: n. [analogy with `bombing run' or `speed run'] A
+hack session extended long outside normal working times, especially one
+longer than 12 hours. May cause you to `change phase the hard way' (see
+{phase}). :Hacking X for Y: n. [ITS] Ritual phrasing of part of the
+information which ITS made publicly available about each user. This
+information (the INQUIR record) was a sort of form in which the user could
+fill out various fields. On display, two of these fields were always combined
+into a project description of the form "Hacking X for Y" (e.g., `"Hacking
+perceptrons for Minsky"'). This form of description became traditional and
+has since been carried over to other systems with more general facilities for
+self-advertisement (such as Unix {plan file}s). :Hackintosh: n. 1. An Apple
+Lisa that has been hacked into emulating a Macintosh (also called a `Mac
+XL'). 2. A Macintosh assembled from parts theoretically belonging to
+different models in the line. :hackish: /hak'ish/ adj. (also {hackishness}
+n.) 1. Said of something that is or involves a hack. 2. Of or pertaining to
+hackers or the hacker subculture. see also {true-hacker}. :hackishness: n.
+The quality of being or involving a hack. This term is considered mildly
+silly. Syn. {hackitude}. :hackitude: n. Syn. {hackishness}; this word is
+considered sillier. :hair: n. [back-formation from {hairy}] The complications
+that make something hairy. "Decoding {TECO} commands requires a certain
+amount of hair." Often seen in the phrase `infinite hair', which connotes
+extreme complexity. Also in `hairiferous' (tending to promote hair growth):
+"GNUMACS elisp encourages lusers to write complex editing modes." "Yeah, it's
+pretty hairiferous all right." (or just: "Hair squared!") :hairball: n. 1.
+[Fidonet] A large batch of messages that a store-and-forward network is
+failing to forward when it should. Often used in the phrase "Fido coughed up
+a hairball today", meaning that the stuck messages have just come unstuck,
+producing a flood of mail where there had previously been drought. 2. An
+unmanageably huge mass of source code. "JWZ thought the Mozilla effort bogged
+down because the code was a huge hairball." :hairy: adj. 1. Annoyingly
+complicated. "{DWIM} is incredibly hairy." 2. Incomprehensible. "{DWIM} is
+incredibly hairy." 3. Of people, high-powered, authoritative, rare, expert,
+and/or incomprehensible. Hard to explain except in context: "He knows this
+hairy lawyer who says there's nothing to worry about." see also {hirsute}. A
+well-known result in topology called the Brouwer Fixed-Point Theorem states
+that any continuous transformation of a 2-sphere into itself has at least one
+fixed point. Mathematically literate hackers tend to associate the term
+`hairy' with the informal version of this theorem; "You can't comb a hairy
+ball smooth." The adjective `long-haired' is well-attested to have been in
+slang use among scientists and engineers during the early 1950s; it was
+equivalent to modern `hairy' senses 1 and 2, and was very likely ancestral to
+the hackish use. In fact the noun `long-hair' was at the time used to
+describe a person satisfying sense 3. Both senses probably passed out of use
+when long hair was adopted as a signature trait by the 1960s counterculture,
+leaving hackish `hairy' as a sort of stunted mutant relic. :HAKMEM: /hak'mem/
+n. MIT AI Memo 239 (February 1972). A legendary collection of neat
+mathematical and programming hacks contributed by many people at MIT and
+elsewhere. (The title of the memo really is "HAKMEM", which is a 6-letterism
+for `hacks memo'.) Some of them are very useful techniques, powerful
+theorems, or interesting unsolved problems, but most fall into the category
+of mathematical and computer trivia. Here is a sampling of the entries (with
+authors), slightly paraphrased: Item 41 (Gene Salamin): There are exactly
+23,000 prime numbers less than 2^(18). Item 46 (Rich Schroeppel): The most
+_probable_ suit distribution in bridge hands is 4-4-3-2, as compared to
+4-3-3-3, which is the most _evenly_ distributed. This is because the world
 likes to have unequal numbers: a thermodynamic effect saying things will not
 be in the state of lowest energy, but in the state of lowest disordered
 energy. Item 81 (Rich Schroeppel): Count the magic squares of order 5 (that
@@ -839,7 +847,7 @@ systems and no standard methods of communication. Has become rarer since. see
 also {talk mode}. :Halloween Documents: n. A pair of Microsoft internal
 strategy memoranda leaked to ESR in late 1998 that confirmed everybody's
 paranoia about the current {Evil Empire}. These documents
-(http://www.opensource.org/hallloween.html) praised the technical excellence
+(http://www.opensource.org/halloween.html) praised the technical excellence
 of {Linux} and outlined a counterstrategy of attempting to lock in customers
 by "de-commoditizing" Internet protocols and services. They were extensively
 cited on the Internet and in the press and proved so embarrassing that

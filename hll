@@ -151,87 +151,89 @@ though; `th', `tr', `ed', and `er', for example, each use two nearby keys).
 Also, putting the letters of `typewriter' on one line allowed it to be typed
 with particular speed and accuracy for {demo}s. The jamming problem was
 essentially solved soon afterward by a suitable use of springs, but the
-keyboard layout lives on. = R = ===== :rabbit job: n. [Cambridge] A batch job
-that does little, if any, real work, but creates one or more copies of
-itself, breeding like rabbits. Compare {wabbit}, {fork bomb}. :rain dance: n.
-1. Any ceremonial action taken to correct a hardware problem, with the
-expectation that nothing will be accomplished. This especially applies to
-reseating printed circuit boards, reconnecting cables, etc. "I can't boot up
-the machine. We'll have to wait for Greg to do his rain dance." 2. Any arcane
-sequence of actions performed with computers or software in order to achieve
-some goal; the term is usually restricted to rituals that include both an
-{incantation} or two and physical activity or motion. Compare {magic},
-{voodoo programming}, {black art}, {cargo cult programming}, {wave a dead
-chicken}; see also {casting the runes}. :rainbow series: n. Any of several
-series of technical manuals distinguished by cover color. The original
-rainbow series was the NCSC security manuals (see {Orange Book}, {crayola
-books}); the term has also been commonly applied to the PostScript reference
-set (see {Red Book}, {Green Book}, {Blue Book}, {White Book}). Which books
-are meant by "`the' rainbow series" unqualified is thus dependent on one's
-local technical culture. :random: adj. 1. Unpredictable (closest to
-mathematical definition); weird. "The system's been behaving pretty
-randomly." 2. Assorted; undistinguished. "Who was at the conference?" "Just a
-bunch of random business types." 3. (pejorative) Frivolous; unproductive;
-undirected. "He's just a random loser." 4. Incoherent or inelegant; poorly
-chosen; not well organized. "The program has a random set of misfeatures."
-"That's a random name for that function." "Well, all the names were chosen
-pretty randomly." 5. In no particular order, though deterministic. "The I/O
-channels are in a pool, and when a file is opened one is chosen randomly." 6.
-Arbitrary. "It generates a random name for the scratch file." 7. Gratuitously
-wrong, i.e., poorly done and for no good apparent reason. For example, a
-program that handles file name defaulting in a particularly useless way, or
-an assembler routine that could easily have been coded using only three
-registers, but redundantly uses seven for values with non-overlapping
-lifetimes, so that no one else can invoke it without first saving four extra
-registers. What {randomness}! 8. n. A random hacker; used particularly of
-high-school students who soak up computer time and generally get in the way.
-9. n. Anyone who is not a hacker (or, sometimes, anyone not known to the
-hacker speaking); the noun form of sense 2. "I went to the talk, but the
-audience was full of randoms asking bogus questions". 10. n. (occasional MIT
-usage) One who lives at Random Hall. see also {J. Random}, {some random X}.
-11. [UK] Conversationally, a non sequitur or something similarly
-out-of-the-blue. As in: "Stop being so random!" This sense equates to
-`hatstand', taken from the Viz comic character "Roger Irrelevant - He's
-completely Hatstand." :random numbers:: n. When one wishes to specify a large
-but random number of things, and the context is inappropriate for {N},
-certain numbers are preferred by hacker tradition (that is, easily recognized
-as placeholders). These include the following: 17 Long described at MIT as
-`the least random number'; see 23. 23 Sacred number of Eris, Goddess of
-Discord (along with 17 and 5). 42 The Answer to the Ultimate Question of
-Life, the Universe, and Everything. (Note that this answer is completely
-fortuitous. `:-)') 69 From the sexual act. This one was favored in MIT's ITS
-culture. 105 69 hex = 105 decimal, and 69 decimal = 105 octal. Also, 105 is
-69 in base 42. 666 The Number of the Beast. For further enlightenment, study
-the "Principia Discordia", "{The Hitchhiker's Guide to the Galaxy}", "The Joy
-of Sex", and the Christian Bible (Revelation 13:18). see also {Discordianism}
-or consult your pineal gland. see also {for values of}. :randomness: n. 1. An
-inexplicable misfeature; gratuitous inelegance. 2. A {hack} or {crock} that
-depends on a complex combination of coincidences (or, possibly, the
-combination upon which the crock depends for its accidental failure to
-malfunction). "This hack can output characters 40-57 by putting the character
-in the four-bit accumulator field of an XCT and then extracting six bits --
-the low 2 bits of the XCT opcode are the right thing." "What randomness!" 3.
-Of people, synonymous with `flakiness'. The connotation is that the person so
-described is behaving weirdly, incompetently, or inappropriately for reasons
-which are (a) too tiresome to bother inquiring into, (b) are probably as
-inscrutable as quantum phenomena anyway, and (c) are likely to pass with
-time. "Maybe he has a real complaint, or maybe it's just randomness. see if
-he calls back." Despite the negative connotations jargon uses of this term
-have, it is worth noting that randomness can actually be a valuable resource,
-very useful for applications in cryptography and elsewhere. Computers are so
-thoroughly deterministic that they have a hard time generating high-quality
-randomess, so hackers have sometimes felt the need to built special-purpose
-contraptions for this purpose alone. One well-known website offers random
-bits generated by radioactive decay (http://www.fourmilab.ch/hotbits/).
-Another derives random bits from images of Lava Lite lamps
-(http://lavarand.sgi.com/). (Hackers invariably find the latter hilarious. If
-you have to ask why, you'll never get it.) :rape: vt. 1. To {screw} someone
-or something, violently; in particular, to destroy a program or information
-irrecoverably. Often used in describing file-system damage. "So-and-so was
-running a program that did absolute disk I/O and ended up raping the master
-directory." 2. To strip a piece of hardware for parts. 3. [CMU/Pitt] To
-mass-copy files from an anonymous ftp site. "Last night I raped Simtel's
-dskutl directory." :rare mode: adj. [Unix] CBREAK mode
+keyboard layout lives on. The QWERTY keyboard has also spawned some unhelpful
+economic myths about how technical standards get and stay established; see
+`http://www.reasonmag.com/9606/Fe.QWERTY.html'. = R = ===== :rabbit job: n.
+[Cambridge] A batch job that does little, if any, real work, but creates one
+or more copies of itself, breeding like rabbits. Compare {wabbit}, {fork
+bomb}. :rain dance: n. 1. Any ceremonial action taken to correct a hardware
+problem, with the expectation that nothing will be accomplished. This
+especially applies to reseating printed circuit boards, reconnecting cables,
+etc. "I can't boot up the machine. We'll have to wait for Greg to do his rain
+dance." 2. Any arcane sequence of actions performed with computers or
+software in order to achieve some goal; the term is usually restricted to
+rituals that include both an {incantation} or two and physical activity or
+motion. Compare {magic}, {voodoo programming}, {black art}, {cargo cult
+programming}, {wave a dead chicken}; see also {casting the runes}. :rainbow
+series: n. Any of several series of technical manuals distinguished by cover
+color. The original rainbow series was the NCSC security manuals (see {Orange
+Book}, {crayola books}); the term has also been commonly applied to the
+PostScript reference set (see {Red Book}, {Green Book}, {Blue Book}, {White
+Book}). Which books are meant by "`the' rainbow series" unqualified is thus
+dependent on one's local technical culture. :random: adj. 1. Unpredictable
+(closest to mathematical definition); weird. "The system's been behaving
+pretty randomly." 2. Assorted; undistinguished. "Who was at the conference?"
+"Just a bunch of random business types." 3. (pejorative) Frivolous;
+unproductive; undirected. "He's just a random loser." 4. Incoherent or
+inelegant; poorly chosen; not well organized. "The program has a random set
+of misfeatures." "That's a random name for that function." "Well, all the
+names were chosen pretty randomly." 5. In no particular order, though
+deterministic. "The I/O channels are in a pool, and when a file is opened one
+is chosen randomly." 6. Arbitrary. "It generates a random name for the
+scratch file." 7. Gratuitously wrong, i.e., poorly done and for no good
+apparent reason. For example, a program that handles file name defaulting in
+a particularly useless way, or an assembler routine that could easily have
+been coded using only three registers, but redundantly uses seven for values
+with non-overlapping lifetimes, so that no one else can invoke it without
+first saving four extra registers. What {randomness}! 8. n. A random hacker;
+used particularly of high-school students who soak up computer time and
+generally get in the way. 9. n. Anyone who is not a hacker (or, sometimes,
+anyone not known to the hacker speaking); the noun form of sense 2. "I went
+to the talk, but the audience was full of randoms asking bogus questions".
+10. n. (occasional MIT usage) One who lives at Random Hall. see also {J.
+Random}, {some random X}. 11. [UK] Conversationally, a non sequitur or
+something similarly out-of-the-blue. As in: "Stop being so random!" This
+sense equates to `hatstand', taken from the Viz comic character "Roger
+Irrelevant - He's completely Hatstand." :random numbers:: n. When one wishes
+to specify a large but random number of things, and the context is
+inappropriate for {N}, certain numbers are preferred by hacker tradition
+(that is, easily recognized as placeholders). These include the following: 17
+Long described at MIT as `the least random number'; see 23. 23 Sacred number
+of Eris, Goddess of Discord (along with 17 and 5). 42 The Answer to the
+Ultimate Question of Life, the Universe, and Everything. (Note that this
+answer is completely fortuitous. `:-)') 69 From the sexual act. This one was
+favored in MIT's ITS culture. 105 69 hex = 105 decimal, and 69 decimal = 105
+octal. Also, 105 is 69 in base 42. 666 The Number of the Beast. For further
+enlightenment, study the "Principia Discordia", "{The Hitchhiker's Guide to
+the Galaxy}", "The Joy of Sex", and the Christian Bible (Revelation 13:18).
+see also {Discordianism} or consult your pineal gland. see also {for values
+of}. :randomness: n. 1. An inexplicable misfeature; gratuitous inelegance. 2.
+A {hack} or {crock} that depends on a complex combination of coincidences
+(or, possibly, the combination upon which the crock depends for its
+accidental failure to malfunction). "This hack can output characters 40-57 by
+putting the character in the four-bit accumulator field of an XCT and then
+extracting six bits -- the low 2 bits of the XCT opcode are the right thing."
+"What randomness!" 3. Of people, synonymous with `flakiness'. The connotation
+is that the person so described is behaving weirdly, incompetently, or
+inappropriately for reasons which are (a) too tiresome to bother inquiring
+into, (b) are probably as inscrutable as quantum phenomena anyway, and (c)
+are likely to pass with time. "Maybe he has a real complaint, or maybe it's
+just randomness. see if he calls back." Despite the negative connotations
+jargon uses of this term have, it is worth noting that randomness can
+actually be a valuable resource, very useful for applications in cryptography
+and elsewhere. Computers are so thoroughly deterministic that they have a
+hard time generating high-quality randomess, so hackers have sometimes felt
+the need to built special-purpose contraptions for this purpose alone. One
+well-known website offers random bits generated by radioactive decay
+(http://www.fourmilab.ch/hotbits/). Another derives random bits from images
+of Lava Lite lamps (http://lavarand.sgi.com/). (Hackers invariably find the
+latter hilarious. If you have to ask why, you'll never get it.) :rape: vt. 1.
+To {screw} someone or something, violently; in particular, to destroy a
+program or information irrecoverably. Often used in describing file-system
+damage. "So-and-so was running a program that did absolute disk I/O and ended
+up raping the master directory." 2. To strip a piece of hardware for parts.
+3. [CMU/Pitt] To mass-copy files from an anonymous ftp site. "Last night I
+raped Simtel's dskutl directory." :rare mode: adj. [Unix] CBREAK mode
 (character-by-character with interrupts enabled). Distinguished from {raw
 mode} and {cooked mode}; the phrase "a sort of half-cooked (rare?) mode" is
 used in the V7/BSD manuals to describe the mode. Usage: rare. :raster

@@ -52,7 +52,7 @@ line printers. :NSA line eater: n. The National Security Agency trawling
 program sometimes assumed to be reading the net for the U.S. Government's
 spooks. Most hackers describe it as a mythical beast, but some believe it
 actually exists, more aren't sure, and many believe in acting as though it
-exists just in case. Some netters put loaded phrases like `KGB', `Uzi',
+does exist just in case. Some netters put loaded phrases like `KGB', `Uzi',
 `nuclear materials', `Palestine', `cocaine', and `assassination' in their
 {sig block}s in a (probably futile) attempt to confuse and overload the
 creature. The {GNU} version of {EMACS} actually has a command that randomly
@@ -86,77 +86,79 @@ especially if it is a variant of the notorious and unanswerable "What,
 besides `angry' and `hungry', is the third common English word that ends in
 -GRY?". In the newsgroup, the canonical answer is of course `nugry' itself.
 Plural is `nusgry' /n[y]oos'gree/. 2. adj. Having the qualities of a nugry.
-:nuke: /n[y]ook/ vt. 1. To intentionally delete the entire contents of a
-given directory or storage volume. "On Unix, `rm -r /usr' will nuke
-everything in the usr filesystem." Never used for accidental deletion. Oppose
-{blow away}. 2. Syn. for {dike}, applied to smaller things such as files,
-features, or code sections. Often used to express a final verdict. "What do
-you want me to do with that 80-meg {wallpaper} file?" "Nuke it." 3. Used of
-processes as well as files; nuke is a frequent verbal alias for `kill -9' on
-Unix. 4. On IBM PCs, a bug that results in {fandango on core} can trash the
-operating system, including the FAT (the in-core copy of the disk block
-chaining information). This can utterly scramble attached disks, which are
-then said to have been `nuked'. This term is also used of analogous lossages
-on Macintoshes and other micros without memory protection. :number-crunching:
-n. Computations of a numerical nature, esp. those that make extensive use of
-floating-point numbers. The only thing {Fortrash} is good for. This term is
-in widespread informal use outside hackerdom and even in mainstream slang,
-but has additional hackish connotations: namely, that the computations are
-mindless and involve massive use of {brute force}. This is not always {evil},
-esp. if it involves ray tracing or fractals or some other use that makes
-{pretty pictures}, esp. if such pictures can be used as {wallpaper}. see also
-{crunch}. :numbers: n. [scientific computation] Output of a computation that
-may not be significant results but at least indicate that the program is
-running. May be used to placate management, grant sponsors, etc. `Making
-numbers' means running a program because output -- any output, not
-necessarily meaningful output -- is needed as a demonstration of progress.
-see {pretty pictures}, {math-out}, {social science number}. :NUXI problem:
-/nuk'see pro'bl*m/ n. Refers to the problem of transferring data between
-machines with differing byte-order. The string `UNIX' might look like `NUXI'
-on a machine with a different `byte sex' (e.g., when transferring data from a
-{little-endian} to a {big-endian}, or vice-versa). see also {middle-endian},
-{swab}, and {bytesexual}. :nybble: /nib'l/ (alt. `nibble') n. [from v.
-`nibble' by analogy with `bite' => `byte'] Four bits; one {hex} digit; a
-half-byte. Though `byte' is now techspeak, this useful relative is still
-jargon. Compare {{byte}}; see also {bit}, Apparently the `nybble' spelling is
-uncommon in Commonwealth Hackish, as British orthography suggests the
-pronunciation /ni:'bl/. Following `bit', `byte' and `nybble' there have been
-quite a few analogical attempts to construct unambiguous terms for bit blocks
-of other sizes. All of these are strictly jargon, not techspeak, and not very
-common jargon at that (most hackers would recognize them in context but not
-use them spontaneously). We collect them here for reference together with the
-ambiguous techspeak terms `word', `half-word' and `double word'; some
-(indicated) have substantial information separate entries. 2 bits: {crumb},
-{quad}, {quarter}, tayste 4 bits: nybble 5 bits: {nickle} 10 bits: {deckle}
-16 bits: playte, {chawmp} (on a 32-bit machine), word (on a 16-bit machine),
-half-word (on a 32-bit machine). 18 bits: {chawmp} (on a 36-bit machine),
-half-word (on a 36-bit machine) 32 bits: dynner, {gawble} (on a 32-bit
-machine), word (on a 32-bit machine), longword (on a 16-bit machine). 36:
-word (on a 36-bit machine) 48 bits: {gawble} (under circumstances that remain
-obscure) 64 bits double word (on a 32-bit machine) The fundamental motivation
-for most of these jargon terms (aside from the normal hackerly enjoyment of
-punning wordplay) is the extreme ambiguity of the term `word' and its
-derivatives. :nyetwork: /nyet'werk/ n. [from Russian `nyet' = no] A network,
-when it is acting {flaky} or is {down}. Compare {notwork}. = O = ===== :Ob-:
-/ob/ pref. Obligatory. A piece of {netiquette} acknowledging that the author
-has been straying from the newsgroup's charter topic. For example, if a
-posting in alt.sex is a response to a part of someone else's posting that has
-nothing particularly to do with sex, the author may append `ObSex' (or
-`Obsex') and toss off a question or vignette about some unusual erotic act.
-It is considered a sign of great {winnitude} when one's Obs are more
-interesting than other people's whole postings. :Obfuscated C Contest: n. (in
-full, the `International Obfuscated C Code Contest', or IOCCC) An annual
-contest run since 1984 over Usenet by Landon Curt Noll and friends. The
-overall winner is whoever produces the most unreadable, creative, and bizarre
-(but working) C program; various other prizes are awarded at the judges'
-whim. C's terse syntax and macro-preprocessor facilities give contestants a
-lot of maneuvering room. The winning programs often manage to be
-simultaneously (a) funny, (b) breathtaking works of art, and (c) horrible
-examples of how _not_ to code in C. This relatively short and sweet entry
-might help convey the flavor of obfuscated C: /* * HELLO WORLD program * by
-Jack Applin and Robert Heckendorn, 1985 * (Note: depends on being able to
-modify elements of argv[], * which is not guaranteed by ANSI and often not
-possible.) */ main(v,c)char**c;{for(v[c++]="Hello, world!\n)";
+:nuke: /n[y]ook/ vt. [common] 1. To intentionally delete the entire contents
+of a given directory or storage volume. "On Unix, `rm -r /usr' will nuke
+everything in the usr filesystem." Never used for accidental deletion;
+contrast {blow away}. 2. Syn. for {dike}, applied to smaller things such as
+files, features, or code sections. Often used to express a final verdict.
+"What do you want me to do with that 80-meg {wallpaper} file?" "Nuke it." 3.
+Used of processes as well as files; nuke is a frequent verbal alias for `kill
+-9' on Unix. 4. On IBM PCs, a bug that results in {fandango on core} can
+trash the operating system, including the FAT (the in-core copy of the disk
+block chaining information). This can utterly scramble attached disks, which
+are then said to have been `nuked'. This term is also used of analogous
+lossages on Macintoshes and other micros without memory protection.
+:number-crunching: n. [common] Computations of a numerical nature, esp. those
+that make extensive use of floating-point numbers. The only thing {Fortrash}
+is good for. This term is in widespread informal use outside hackerdom and
+even in mainstream slang, but has additional hackish connotations: namely,
+that the computations are mindless and involve massive use of {brute force}.
+This is not always {evil}, esp. if it involves ray tracing or fractals or
+some other use that makes {pretty pictures}, esp. if such pictures can be
+used as {wallpaper}. see also {crunch}. :numbers: n. [scientific computation]
+Output of a computation that may not be significant results but at least
+indicate that the program is running. May be used to placate management,
+grant sponsors, etc. `Making numbers' means running a program because output
+-- any output, not necessarily meaningful output -- is needed as a
+demonstration of progress. see {pretty pictures}, {math-out}, {social science
+number}. :NUXI problem: /nuk'see pro'bl*m/ n. Refers to the problem of
+transferring data between machines with differing byte-order. The string
+`UNIX' might look like `NUXI' on a machine with a different `byte sex' (e.g.,
+when transferring data from a {little-endian} to a {big-endian}, or
+vice-versa). see also {middle-endian}, {swab}, and {bytesexual}. :nybble:
+/nib'l/ (alt. `nibble') n. [from v. `nibble' by analogy with `bite' =>
+`byte'] Four bits; one {hex} digit; a half-byte. Though `byte' is now
+techspeak, this useful relative is still jargon. Compare {{byte}}; see also
+{bit}. The more mundane spelling "nibble" is also commonly used. Apparently
+the `nybble' spelling is uncommon in Commonwealth Hackish, as British
+orthography would suggest the pronunciation /ni:'bl/. Following `bit', `byte'
+and `nybble' there have been quite a few analogical attempts to construct
+unambiguous terms for bit blocks of other sizes. All of these are strictly
+jargon, not techspeak, and not very common jargon at that (most hackers would
+recognize them in context but not use them spontaneously). We collect them
+here for reference together with the ambiguous techspeak terms `word',
+`half-word' and `double word'; some (indicated) have substantial information
+separate entries. 2 bits: {crumb}, {quad}, {quarter}, tayste 4 bits: nybble 5
+bits: {nickle} 10 bits: {deckle} 16 bits: playte, {chawmp} (on a 32-bit
+machine), word (on a 16-bit machine), half-word (on a 32-bit machine). 18
+bits: {chawmp} (on a 36-bit machine), half-word (on a 36-bit machine) 32
+bits: dynner, {gawble} (on a 32-bit machine), word (on a 32-bit machine),
+longword (on a 16-bit machine). 36: word (on a 36-bit machine) 48 bits:
+{gawble} (under circumstances that remain obscure) 64 bits double word (on a
+32-bit machine) The fundamental motivation for most of these jargon terms
+(aside from the normal hackerly enjoyment of punning wordplay) is the extreme
+ambiguity of the term `word' and its derivatives. :nyetwork: /nyet'werk/ n.
+[from Russian `nyet' = no] A network, when it is acting {flaky} or is {down}.
+Compare {notwork}. = O = ===== :Ob-: /ob/ pref. Obligatory. A piece of
+{netiquette} acknowledging that the author has been straying from the
+newsgroup's charter topic. For example, if a posting in alt.sex is a response
+to a part of someone else's posting that has nothing particularly to do with
+sex, the author may append `ObSex' (or `Obsex') and toss off a question or
+vignette about some unusual erotic act. It is considered a sign of great
+{winnitude} when one's Obs are more interesting than other people's whole
+postings. :Obfuscated C Contest: n. (in full, the `International Obfuscated C
+Code Contest', or IOCCC) An annual contest run since 1984 over Usenet by
+Landon Curt Noll and friends. The overall winner is whoever produces the most
+unreadable, creative, and bizarre (but working) C program; various other
+prizes are awarded at the judges' whim. C's terse syntax and
+macro-preprocessor facilities give contestants a lot of maneuvering room. The
+winning programs often manage to be simultaneously (a) funny, (b)
+breathtaking works of art, and (c) horrible examples of how _not_ to code in
+C. This relatively short and sweet entry might help convey the flavor of
+obfuscated C: /* * HELLO WORLD program * by Jack Applin and Robert
+Heckendorn, 1985 * (Note: depends on being able to modify elements of argv[],
+* which is not guaranteed by ANSI and often not possible.) */
+main(v,c)char**c;{for(v[c++]="Hello, world!\n)";
 (!!c)[*c]&&(v--||--c&&execlp(*c,*c,c[!!c]+!!c,!c));
 **c=!c)write(!!*c,*c,!!**c);} Here's another good one: /* * Program to
 compute an approximation of pi * by Brian Westley, 1988 * (requires pcc macro
@@ -201,13 +203,13 @@ crashing. The streetcar is then said to be off the trolley, or off the wire.
 Later on, trolley came to mean the streetcar itself. Since streetcars became
 common in the 1890s, the term is more than 100 years old. Nowadays, trolleys
 are only seen on historic streetcars, since modern streetcars use pantographs
-to contact the wire. :off-by-one error: n. Exceedingly common error induced
-in many ways, such as by starting at 0 when you should have started at 1 or
-vice-versa, or by writing `< N' instead of `<= N' or vice-versa. Also applied
-to giving something to the person next to the one who should have gotten it.
-Often confounded with {fencepost error}, which is properly a particular
-subtype of it. :offline: adv. Not now or not here. "Let's take this
-discussion offline." Specifically used on {Usenet} to suggest that a
+to contact the wire. :off-by-one error: n. [common] Exceedingly common error
+induced in many ways, such as by starting at 0 when you should have started
+at 1 or vice-versa, or by writing `< N' instead of `<= N' or vice-versa. Also
+applied to giving something to the person next to the one who should have
+gotten it. Often confounded with {fencepost error}, which is properly a
+particular subtype of it. :offline: adv. Not now or not here. "Let's take
+this discussion offline." Specifically used on {Usenet} to suggest that a
 discussion be moved off a public newsgroup to email. :ogg: /og/ v. [CMU] 1.
 In the multi-player space combat game Netrek, to execute kamikaze attacks
 against enemy ships which are carrying armies or occupying strategic
@@ -281,26 +283,34 @@ site. Sometimes used interchangeably with {CHOP}. Compare {sysop}. :open: n.
 Abbreviation for `open (or left) parenthesis' -- used when necessary to
 eliminate oral ambiguity. To read aloud the LISP form (DEFUN FOO (X) (PLUS X
 1)) one might say: "Open defun foo, open eks close, open, plus eks one, close
-close." :open switch: n. [IBM: prob. from railroading] An unresolved
-question, issue, or problem. :operating system:: n. [techspeak] (Often
-abbreviated `OS') The foundation software of a machine; that which schedules
-tasks, allocates storage, and presents a default interface to the user
-between applications. The facilities an operating system provides and its
-general design philosophy exert an extremely strong influence on programming
-style and on the technical cultures that grow up around its host machines.
-Hacker folklore has been shaped primarily by the {{Unix}}, {{ITS}},
-{{TOPS-10}}, {{TOPS-20}}/{{TWENEX}}, {{WAITS}}, {{CP/M}}, {{MS-DOS}}, and
-{{Multics}} operating systems (most importantly by ITS and Unix). :optical
-diff: n. see {vdiff}. :optical grep: n. see {vgrep}. :optimism: n. What a
-programmer is full of after fixing the last bug and before discovering the
-_next_ last bug. Fred Brooks's book "The Mythical Man-Month" (see "Brooks's
-Law") contains the following paragraph that describes this extremely well:
-All programmers are optimists. Perhaps this modern sorcery especially
-attracts those who believe in happy endings and fairy godmothers. Perhaps the
-hundreds of nitty frustrations drive away all but those who habitually focus
-on the end goal. Perhaps it is merely that computers are young, programmers
-are younger, and the young are always optimists. But however the selection
-process works, the result is indisputable: "This time it will surely run," or
-"I just found the last bug.". see also {Lubarsky's Law of Cybernetic
-Entomology}. :Orange Book: n. The U.S. Government's standards document
-"Trusted Computer System Evaluation Criteria, DOD standard
+close." :open source: n. [common; also adj. `open-source'] Term coined in
+March 1998 following the Mozilla release to describe software distributed in
+source under licenses guaranteeing anybody rights to freely use, modify, and
+redistribute, the code. The intent was to be able to sell the hackers' ways
+of doing software to industry and the mainstream by avoid the negative
+connotations (to {suit}s) of the term "free software". For discussion of the
+followon tactics and their consequences, see the Open Source Initiative
+(http://www.opensource.org) site. :open switch: n. [IBM: prob. from
+railroading] An unresolved question, issue, or problem. :operating system::
+n. [techspeak] (Often abbreviated `OS') The foundation software of a machine;
+that which schedules tasks, allocates storage, and presents a default
+interface to the user between applications. The facilities an operating
+system provides and its general design philosophy exert an extremely strong
+influence on programming style and on the technical cultures that grow up
+around its host machines. Hacker folklore has been shaped primarily by the
+{{Unix}}, {{ITS}}, {{TOPS-10}}, {{TOPS-20}}/{{TWENEX}}, {{WAITS}}, {{CP/M}},
+{{MS-DOS}}, and {{Multics}} operating systems (most importantly by ITS and
+Unix). :optical diff: n. see {vdiff}. :optical grep: n. see {vgrep}.
+:optimism: n. What a programmer is full of after fixing the last bug and
+before discovering the _next_ last bug. Fred Brooks's book "The Mythical
+Man-Month" (see "Brooks's Law") contains the following paragraph that
+describes this extremely well: All programmers are optimists. Perhaps this
+modern sorcery especially attracts those who believe in happy endings and
+fairy godmothers. Perhaps the hundreds of nitty frustrations drive away all
+but those who habitually focus on the end goal. Perhaps it is merely that
+computers are young, programmers are younger, and the young are always
+optimists. But however the selection process works, the result is
+indisputable: "This time it will surely run," or "I just found the last
+bug.". see also {Lubarsky's Law of Cybernetic Entomology}. :Orange Book: n.
+The U.S. Government's standards document "Trusted Computer System Evaluation
+Criteria, DOD standard

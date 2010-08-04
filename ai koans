@@ -11,7 +11,7 @@ tredecimal instead of binary. \end{flame} The Scribe users at CMU and
 elsewhere used to use @Begin/@End in an identical way (LaTeX was built to
 resemble Scribe). On Usenet, this construct would more frequently be rendered
 as `<FLAME ON>' and `<FLAME OFF>', or `#ifdef FLAME' and `#endif FLAME'.
-Recently the pseudo-HTML form `<flame> ... </flame>' has become popular
+Recently the pseudo-HTML form `<flame> ... </flame>' has become popular.
 :(Lexicon Entries End Here): :Hacker Folklore: ***************** This
 appendix contains several legends and fables that illuminate the meaning of
 various entries in the lexicon. :The Meaning of `Hack':

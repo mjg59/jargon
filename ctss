@@ -8,93 +8,54 @@ vt. {kluge up}, but more pejorative. "There isn't any program now to reverse
 all the lines of a file, but I can probably cruft one together in about 10
 minutes." see {hack together}, {hack up}, {kluge up}, {crufty}.
 :cruftsmanship: /kruhfts'm*n-ship / n. [from {cruft}] The antithesis of
-craftsmanship. :crufty: /kruhf'tee/ adj. [origin unknown; poss. from `crusty'
-or `cruddy'] 1. Poorly built, possibly over-complex. The {canonical} example
-is "This is standard old crufty {DEC} software". In fact, one fanciful theory
-of the origin of `crufty' holds that was originally a mutation of `crusty'
-applied to DEC software so old that the `s' characters were tall and skinny,
-looking more like `f' characters. 2. Unpleasant, especially to the touch,
-often with encrusted junk. Like spilled coffee smeared with peanut butter and
-catsup. 3. Generally unpleasant. 4. (sometimes spelled `cruftie') n. A small
-crufty object (see {frob}); often one that doesn't fit well into the scheme
-of things. "A LISP property list is a good place to store crufties (or,
-collectively, {random} cruft)." This term is one of the oldest in the jargon
-and no one is sure of its etymology, but it is suggestive that there is a
-Cruft Hall at Harvard University which is part of the old physics building;
-it's said to have been the physics department's radar lab during WWII. To
-this day (early 1993) the windows appear to be full of random techno-junk.
-MIT or Lincoln Labs people may well have coined the term as a knock on the
-competition. :crumb: n. Two binary digits; a {quad}. Larger than a {bit},
-smaller than a {nybble}. Considered silly. Syn. {tayste}. General discussion
-of such terms is under {nybble}. :crunch: 1. vi. To process, usually in a
-time-consuming or complicated way. Connotes an essentially trivial operation
-that is nonetheless painful to perform. The pain may be due to the
-triviality's being embedded in a loop from 1 to 1,000,000,000. "FORTRAN
-programs do mostly {number-crunching}." 2. vt. To reduce the size of a file
-by a complicated scheme that produces bit configurations completely unrelated
-to the original data, such as by a Huffman code. (The file ends up looking
-something like a paper document would if somebody crunched the paper into a
-wad.) Since such compression usually takes more computations than simpler
-methods such as run-length encoding, the term is doubly appropriate. (This
-meaning is usually used in the construction `file crunch(ing)' to distinguish
-it from {number-crunching}.) see {compress}. 3. n. The character `#'. Used at
-XEROX and CMU, among other places. see {{ASCII}}. 4. vt. To squeeze program
-source into a minimum-size representation that will still compile or execute.
-The term came into being specifically for a famous program on the BBC micro
-that crunched BASIC source in order to make it run more quickly (it was a
-wholly interpretive BASIC, so the number of characters mattered). {Obfuscated
-C Contest} entries are often crunched; see the first example under that
-entry. :cruncha cruncha cruncha: /kruhn'ch* kruhn'ch* kruhn'ch*/ interj. An
-encouragement sometimes muttered to a machine bogged down in a serious
-{grovel}. Also describes a notional sound made by groveling hardware. see
-{wugga wugga}, {grind} (sense 3). :cryppie: /krip'ee/ n. A cryptographer. One
-who hacks or implements cryptographic software or hardware. :CTSS: /C-T-S-S/
-n. Compatible Time-Sharing System. An early (1963) experiment in the design
-of interactive time-sharing operating systems, ancestral to {{Multics}},
-{{Unix}}, and {{ITS}}. The name {{ITS}} (Incompatible Time-sharing System)
-was a hack on CTSS, meant both as a joke and to express some basic
-differences in philosophy about the way I/O services should be presented to
-user programs. :CTY: /sit'ee/ or /C-T-Y/ n. [MIT] The terminal physically
-associated with a computer's system {{console}}. The term is a contraction of
-`Console {tty}', that is, `Console TeleTYpe'. This {{ITS}}- and
-{{TOPS-10}}-associated term has become less common, as most Unix hackers
-simply refer to the CTY as `the console'. :cube: n. 1. [short for `cubicle']
-A module in the open-plan offices used at many programming shops. "I've got
-the manuals in my cube." 2. A NeXT machine (which resembles a matte-black
-cube). :cubing: vi. [parallel with `tubing'] 1. Hacking on an IPSC (Intel
-Personal SuperComputer) hypercube. "Louella's gone cubing _again_!!" 2.
-Hacking Rubik's Cube or related puzzles, either physically or mathematically.
-3. An indescribable form of self-torture (see sense 1 or 2). :cursor dipped
-in X: n. There are a couple of metaphors in English of the form `pen dipped
-in X' (perhaps the most common values of X are `acid', `bile', and
-`vitriol'). These map over neatly to this hackish usage (the cursor being
-what moves, leaving letters behind, when one is composing on-line). "Talk
-about a {nastygram}! He must've had his cursor dipped in acid when he wrote
-that one!" :cuspy: /kuhs'pee/ adj. [WPI: from the {DEC} abbreviation CUSP,
-for `Commonly Used System Program', i.e., a utility program used by many
-people] 1. (of a program) Well-written. 2. Functionally excellent. A program
-that performs well and interfaces well to users is cuspy. see {rude}. 3.
-[NYU] Said of an attractive woman, especially one regarded as available.
-Implies a certain curvaceousness. :cut a tape: vi. To write a software or
-document distribution on magnetic tape for shipment. Has nothing to do with
-physically cutting the medium! Early versions of this lexicon claimed that
-one never analogously speaks of `cutting a disk', but this has since been
-reported as live usage. Related slang usages are mainstream business's `cut a
-check', the recording industry's `cut a record', and the military's `cut an
-order'. All of these usages reflect physical processes in obsolete recording
-and duplication technologies. The first stage in manufacturing an old-style
-vinyl record involved cutting grooves in a stamping die with a precision
-lathe. More mundanely, the dominant technology for mass duplication of paper
-documents in pre-photocopying days involved "cutting a stencil", punching
-away portions of the wax overlay on a silk screen. More directly, paper tape
-with holes punched in it was an important early storage medium. :cybercrud:
-/si:'ber-kruhd/ n. 1. [coined by Ted Nelson] Obfuscatory tech-talk. Verbiage
-with a high {MEGO} factor. The computer equivalent of bureaucratese. 2.
-Incomprehensible stuff embedded in email. First there were the "Received"
-headers that show how mail flows through systems, then MIME (Multi-purpose
-Internet Mail Extensions) headers and part boundaries, and now huge blocks of
-hex for PEM (Privacy Enhanced Mail) or PGP (Pretty Good Privacy) digital
-signatures and certificates of authenticity. This stuff all services a
-purpose and good user interfaces should hide it, but all too often users are
-forced to wade through it. :cyberpunk: /si:'ber-puhnk/ n.,adj. [orig. by SF
-writer Bruce Bethke and/or editor Gardner Dozois] A subgenre of SF launched in
+craftsmanship. :crufty: /kruhf'tee/ adj. [very common; origin unknown; poss.
+from `crusty' or `cruddy'] 1. Poorly built, possibly over-complex. The
+{canonical} example is "This is standard old crufty {DEC} software". In fact,
+one fanciful theory of the origin of `crufty' holds that was originally a
+mutation of `crusty' applied to DEC software so old that the `s' characters
+were tall and skinny, looking more like `f' characters. 2. Unpleasant,
+especially to the touch, often with encrusted junk. Like spilled coffee
+smeared with peanut butter and catsup. 3. Generally unpleasant. 4. (sometimes
+spelled `cruftie') n. A small crufty object (see {frob}); often one that
+doesn't fit well into the scheme of things. "A LISP property list is a good
+place to store crufties (or, collectively, {random} cruft)." This term is one
+of the oldest in the jargon and no one is sure of its etymology, but it is
+suggestive that there is a Cruft Hall at Harvard University which is part of
+the old physics building; it's said to have been the physics department's
+radar lab during WWII. To this day (early 1993) the windows appear to be full
+of random techno-junk. MIT or Lincoln Labs people may well have coined the
+term as a knock on the competition. :crumb: n. Two binary digits; a {quad}.
+Larger than a {bit}, smaller than a {nybble}. Considered silly. Syn.
+{tayste}. General discussion of such terms is under {nybble}. :crunch: 1. vi.
+To process, usually in a time-consuming or complicated way. Connotes an
+essentially trivial operation that is nonetheless painful to perform. The
+pain may be due to the triviality's being embedded in a loop from 1 to
+1,000,000,000. "FORTRAN programs do mostly {number-crunching}." 2. vt. To
+reduce the size of a file by a complicated scheme that produces bit
+configurations completely unrelated to the original data, such as by a
+Huffman code. (The file ends up looking something like a paper document would
+if somebody crunched the paper into a wad.) Since such compression usually
+takes more computations than simpler methods such as run-length encoding, the
+term is doubly appropriate. (This meaning is usually used in the construction
+`file crunch(ing)' to distinguish it from {number-crunching}.) see
+{compress}. 3. n. The character `#'. Used at XEROX and CMU, among other
+places. see {{ASCII}}. 4. vt. To squeeze program source into a minimum-size
+representation that will still compile or execute. The term came into being
+specifically for a famous program on the BBC micro that crunched BASIC source
+in order to make it run more quickly (it was a wholly interpretive BASIC, so
+the number of characters mattered). {Obfuscated C Contest} entries are often
+crunched; see the first example under that entry. :cryppie: /krip'ee/ n. A
+cryptographer. One who hacks or implements cryptographic software or
+hardware. :CTSS: /C-T-S-S/ n. Compatible Time-Sharing System. An early (1963)
+experiment in the design of interactive time-sharing operating systems,
+ancestral to {{Multics}}, {{Unix}}, and {{ITS}}. The name {{ITS}}
+(Incompatible Time-sharing System) was a hack on CTSS, meant both as a joke
+and to express some basic differences in philosophy about the way I/O
+services should be presented to user programs. :cube: n. 1. [short for
+`cubicle'] A module in the open-plan offices used at many programming shops.
+"I've got the manuals in my cube." 2. A NeXT machine (which resembles a
+matte-black cube). :cubing: vi. [parallel with `tubing'] 1. Hacking on an
+IPSC (Intel Personal SuperComputer) hypercube. "Louella's gone cubing
+_again_!!" 2. Hacking Rubik's Cube or related puzzles, either physically or
+mathematically. 3. An indescribable form of self-torture (see sense 1 or 2).
+:cup holder: n. The tray of a CD-ROM drive, or by extension the

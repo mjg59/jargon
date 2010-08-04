@@ -1,65 +1,54 @@
- CHAOS System". 3. n. Algebraic Operating System, in reference to those
-calculators which use infix instead of postfix (reverse Polish) notation. 4.
-A {BSD}-like operating system for the IBM RT. Historical note: AOS in sense 1
-was the name of a {PDP-10} instruction that took any memory location in the
-computer and added 1 to it; AOS meant `Add One and do not Skip'. Why, you may
-ask, does the `S' stand for `do not Skip' rather than for `Skip'? Ah, here
-was a beloved piece of PDP-10 folklore. There were eight such instructions:
-AOSE added 1 and then skipped the next instruction if the result was Equal to
-zero; AOSG added 1 and then skipped if the result was Greater than 0; AOSN
-added 1 and then skipped if the result was Not 0; AOSA added 1 and then
-skipped Always; and so on. Just plain AOS didn't say when to skip, so it
-never skipped. For similar reasons, AOJ meant `Add One and do not Jump'. Even
-more bizarre, SKIP meant `do not SKIP'! If you wanted to skip the next
-instruction, you had to say `SKIPA'. Likewise, JUMP meant `do not JUMP'; the
-unconditional form was JUMPA. However, hackers never did this. By some quirk
-of the 10's design, the {JRST} (Jump and ReSTore flag with no flag specified)
-was actually faster and so was invariably used. Such were the perverse
-mysteries of assembler programming. :app: /ap/ n. Short for `application
-program', as opposed to a systems program. Apps are what systems vendors are
-forever chasing developers to create for their environments so they can sell
-more boxes. Hackers tend not to think of the things they themselves run as
-apps; thus, in hacker parlance the term excludes compilers, program editors,
-games, and messaging systems, though a user would consider all those to be
-apps. (Broadly, an app is often a self-contained environment for performing
-some well-defined task such as `word processing'; hackers tend to prefer more
+ CMU hackers during some period leading up to mid-1990 were of that flavor.
+see also {rotary debugger}; compare {ISO standard cup of tea}. :AOL!: n.
+[Usenet] Common synonym for "Me, too!" alluding to the legendary propensity
+of America Online users to utter contentless "Me, too!" postings. The number
+of exclamation points following varies from zero to five or so. The
+pseudo-HTML <AOL>Me, too!</AOL> is also frequently seen. see also {September
+that never ended}. :app: /ap/ n. Short for `application program', as opposed
+to a systems program. Apps are what systems vendors are forever chasing
+developers to create for their environments so they can sell more boxes.
+Hackers tend not to think of the things they themselves run as apps; thus, in
+hacker parlance the term excludes compilers, program editors, games, and
+messaging systems, though a user would consider all those to be apps.
+(Broadly, an app is often a self-contained environment for performing some
+well-defined task such as `word processing'; hackers tend to prefer more
 general-purpose tools.) see {killer app}; oppose {tool}, {operating system}.
-:arena: [Unix] n. The area of memory attached to a process by `brk(2)' and
-`sbrk(2)' and used by `malloc(3)' as dynamic storage. So named from a
-`malloc: corrupt arena' message emitted when some early versions detected an
-impossible value in the free block list. see {overrun screw}, {aliasing bug},
-{memory leak}, {memory smash}, {smash the stack}. :arg: /arg/ n. Abbreviation
-for `argument' (to a function), used so often as to have become a new word
-(like `piano' from `pianoforte'). "The sine function takes 1 arg, but the
-arc-tangent function can take either 1 or 2 args." Compare {param}, {parm},
-{var}. :ARMM: n. [acronym, `Automated Retroactive Minimal Moderation'] A
-Usenet {cancelbot} created by Dick Depew of Munroe Falls, Ohio. ARMM was
-intended to automatically cancel posts from anonymous-posting sites.
-Unfortunately, the robot's recognizer for anonymous postings triggered on its
-own automatically-generated control messages! Transformed by this stroke of
-programming ineptitude into a monster of Frankensteinian proportions, it
-broke loose on the night of March 31, 1993 and proceeded to {spam}
-news.admin.policy with a recursive explosion of over 200 messages. ARMM's bug
-produced a recursive {cascade} of messages each of which mechanically added
-text to the ID and Subject and some other headers of its parent. This
-produced a flood of messages in which each header took up several screens and
-each message ID and subject line got longer and longer and longer. Reactions
-varied from amusement to outrage. The pathological messages crashed at least
-one mail system, and upset people paying line charges for their Usenet feeds.
-One poster described the ARMM debacle as "instant Usenet history" (also
-establishing the term {despew}), and it has since been widely cited as a
-cautionary example of the havoc the combination of good intentions and
-incompetence can wreak on a network. Compare {Great Worm}; {sorcerer's
-apprentice mode}. see also {software laser}, {network meltdown}.
-:armor-plated: n. Syn. for {bulletproof}. :asbestos: adj. Used as a modifier
-to anything intended to protect one from {flame}s; also in other highly
-{flame}-suggestive usages. see, for example, {asbestos longjohns} and
-{asbestos cork award}. :asbestos cork award: n. Once, long ago at MIT, there
-was a {flamer} so consistently obnoxious that another hacker designed, had
-made, and distributed posters announcing that said flamer had been nominated
-for the `asbestos cork award'. (Any reader in doubt as to the intended
-application of the cork should consult the etymology under {flame}.) Since
-then, it is agreed that only a select few have risen to the heights of
+:arena: [common; Unix] n. The area of memory attached to a process by
+`brk(2)' and `sbrk(2)' and used by `malloc(3)' as dynamic storage. So named
+from a `malloc: corrupt arena' message emitted when some early versions
+detected an impossible value in the free block list. see {overrun screw},
+{aliasing bug}, {memory leak}, {memory smash}, {smash the stack}. :arg: /arg/
+n. Abbreviation for `argument' (to a function), used so often as to have
+become a new word (like `piano' from `pianoforte'). "The sine function takes
+1 arg, but the arc-tangent function can take either 1 or 2 args." Compare
+{param}, {parm}, {var}. :ARMM: n. [acronym, `Automated Retroactive Minimal
+Moderation'] A Usenet {cancelbot} created by Dick Depew of Munroe Falls,
+Ohio. ARMM was intended to automatically cancel posts from anonymous-posting
+sites. Unfortunately, the robot's recognizer for anonymous postings triggered
+on its own automatically-generated control messages! Transformed by this
+stroke of programming ineptitude into a monster of Frankensteinian
+proportions, it broke loose on the night of March 31, 1993 and proceeded to
+{spam} news.admin.policy with a recursive explosion of over 200 messages.
+ARMM's bug produced a recursive {cascade} of messages each of which
+mechanically added text to the ID and Subject and some other headers of its
+parent. This produced a flood of messages in which each header took up
+several screens and each message ID and subject line got longer and longer
+and longer. Reactions varied from amusement to outrage. The pathological
+messages crashed at least one mail system, and upset people paying line
+charges for their Usenet feeds. One poster described the ARMM debacle as
+"instant Usenet history" (also establishing the term {despew}), and it has
+since been widely cited as a cautionary example of the havoc the combination
+of good intentions and incompetence can wreak on a network. Compare {Great
+Worm}; {sorcerer's apprentice mode}. see also {software laser}, {network
+meltdown}. :armor-plated: n. Syn. for {bulletproof}. :asbestos: adj. [common]
+Used as a modifier to anything intended to protect one from {flame}s; also in
+other highly {flame}-suggestive usages. see, for example, {asbestos
+longjohns} and {asbestos cork award}. :asbestos cork award: n. Once, long ago
+at MIT, there was a {flamer} so consistently obnoxious that another hacker
+designed, had made, and distributed posters announcing that said flamer had
+been nominated for the `asbestos cork award'. (Any reader in doubt as to the
+intended application of the cork should consult the etymology under {flame}.)
+Since then, it is agreed that only a select few have risen to the heights of
 bombast required to earn this dubious dignity -- but there is no agreement on
 _which_ few. :asbestos longjohns: n. Notional garments donned by {Usenet}
 posters just before emitting a remark they expect will elicit {flamage}. This

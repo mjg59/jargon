@@ -1,0 +1,365 @@
+ J-C-L, M-o-u-s-e" to the tune of the "Mickey Mouse Club" theme to express
+their opinion of the beast. 2. A comparative for any very {rude} software
+that a hacker is expected to use. "That's as bad as JCL." As with {COBOL},
+JCL is often used as an archetype of ugliness even by those who haven't
+experienced it. see also {IBM}, {fear and loathing}. A (poorly documented,
+naturally) shell simulating JCL syntax is available at the Retrocomputing
+Museum `http://www.ccil.org/retro'. :JEDR: // n. Synonymous with {IYFEG}. At
+one time, people in the Usenet newsgroup rec.humor.funny tended to use `JEDR'
+instead of {IYFEG} or `<ethnic>'; this stemmed from a public attempt to
+suppress the group once made by a loser with initials JEDR after he was
+offended by an ethnic joke posted there. (The practice was {retcon}ned by the
+expanding these initials as `Joke Ethnic/Denomination/Race'.) After much
+sound and fury JEDR faded away; this term appears to be doing likewise.
+JEDR's only permanent effect on the net.culture was to discredit
+`sensitivity' arguments for censorship so thoroughly that more recent
+attempts to raise them have met with immediate and near-universal rejection.
+:jello: n. [Usenet: by analogy with {spam}] A message that is both
+excessively cross-posted and too frequently posted, as opposed to {spam}
+(which is merely too frequently posted) or {velveeta} (which is merely
+excessively cross-posted). This term is widely recognized but not commonly
+used; most people refer to both kinds of abuse or their combination as spam.
+:jiffy: n. 1. The duration of one tick of the system clock on your computer
+(see {tick}). Often one AC cycle time (1/60 second in the U.S. and Canada,
+1/50 most other places), but more recently 1/100 sec has become common. "The
+swapper runs every 6 jiffies" means that the virtual memory management
+routine is executed once for every 6 ticks of the clock, or about ten times a
+second. 2. Confusingly, the term is sometimes also used for a 1-millisecond
+{wall time} interval. 3. Even more confusingly, physicists semi-jokingly use
+`jiffy' to mean the time required for light to travel one foot in a vacuum,
+which turns out to be close to one _nanosecond_. 4. Indeterminate time from a
+few seconds to forever. "I'll do it in a jiffy" means certainly not now and
+possibly never. This is a bit contrary to the more widespread use of the
+word. Oppose {nano}. see also {Real Soon Now}. :job security: n. When some
+piece of code is written in a particularly {obscure} fashion, and no good
+reason (such as time or space optimization) can be discovered, it is often
+said that the programmer was attempting to increase his job security (i.e.,
+by making himself indispensable for maintenance). This sour joke seldom has
+to be said in full; if two hackers are looking over some code together and
+one points at a section and says "job security", the other one may just nod.
+:jock: n. 1. A programmer who is characterized by large and somewhat
+brute-force programs. see {brute force}. 2. When modified by another noun,
+describes a specialist in some particular computing area. The compounds
+`compiler jock' and `systems jock' seem to be the best-established examples.
+:joe code: /joh' kohd`/ n. 1. Code that is overly {tense} and unmaintainable.
+"{Perl} may be a handy program, but if you look at the source, it's complete
+joe code." 2. Badly written, possibly buggy code. Correspondents wishing to
+remain anonymous have fingered a particular Joe at the Lawrence Berkeley
+Laboratory and observed that usage has drifted slightly; the original
+sobriquet `Joe code' was intended in sense 1. 1994 update: This term has now
+generalized to `<name> code', used to designate code with distinct
+characteristics traceable to its author. "This section doesn't check for a
+NULL return from malloc()! Oh. No wonder! It's Ed code!". Used most often
+with a programmer who has left the shop and thus is a convenient scapegoat
+for anything that is wrong with the project. :jolix: /joh'liks/ n.,adj.
+386BSD, the freeware port of the BSD Net/2 release to the Intel i386
+architecture by Bill Jolitz and friends. Used to differentiate from BSDI's
+port based on the same source tape, which used to be called BSD/386 and is
+now BSD/OS. see {BSD}. :JR[LN]: /J-R-L/, /J-R-N/ n. The names JRL and JRN
+were sometimes used as example names when discussing a kind of user ID used
+under {{TOPS-10}} and {WAITS}; they were understood to be the initials of
+(fictitious) programmers named `J. Random Loser' and `J. Random Nerd' (see
+{J. Random}). For example, if one said "To log in, type log one comma jay are
+en" (that is, "log 1,JRN"), the listener would have understood that he should
+use his own computer ID in place of `JRN'. :juggling eggs: vi. Keeping a lot
+of {state} in your head while modifying a program. "Don't bother me now, I'm
+juggling eggs", means that an interrupt is likely to result in the program's
+being scrambled. In the classic first-contact SF novel "The Mote in God's
+Eye", by Larry Niven and Jerry Pournelle, an alien describes a very difficult
+task by saying "We juggle priceless eggs in variable gravity." see also {hack
+mode}. :jump off into never-never land: v. [from J. M. Barrie's "Peter Pan"]
+Same as {branch to Fishkill}, but more common in technical cultures
+associated with non-IBM computers that use the term `jump' rather than
+`branch'. Compare {hyperspace}. :jupiter: vt. [IRC] To kill an {IRC} {bot} or
+user and then take its place by adopting its {nick} so that it cannot
+reconnect. Named after a particular IRC user who did this to NickServ, the
+robot in charge of preventing people from inadvertently using a nick claimed
+by another user. Now commonly shortened to `jupe'. = K = ===== :K: /K/ n.
+[from {kilo-}] A kilobyte. Used both as a spoken word and a written suffix
+(like {meg} and {gig} for megabyte and gigabyte). see {{quantifiers}}. :K&R:
+[Kernighan and Ritchie] n. Brian Kernighan and Dennis Ritchie's book "The C
+Programming Language", esp. the classic and influential first edition
+(Prentice-Hall 1978; ISBN 0-13-110163-3). Syn. {White Book}, {Old Testament}.
+see also {New Testament}. :k-: pref. Extremely. Not commonly used among
+hackers, but quite common among crackers and {warez d00dz} in compounds such
+as `k-kool' /K'kool'/, `k-rad' /K'rad'/, and `k-awesome' /K'aw`sm/. Also used
+to intensify negatives; thus, `k-evil', `k-lame', `k-screwed', and
+`k-annoying'. Overuse of this prefix, or use in more formal or technical
+contexts, is considered an indicator of {lamer} status. :kahuna: /k*-hoo'n*/
+n. [IBM: from the Hawaiian title for a shaman] Synonym for {wizard}, {guru}.
+:kamikaze packet: n. The `official' jargon for what is more commonly called a
+{Christmas tree packet}. {RFC}-1025, "TCP and IP Bake Off" says: 10 points
+for correctly being able to process a "Kamikaze" packet (AKA nastygram,
+christmas tree packet, lamp test segment, et al.). That is, correctly handle
+a segment with the maximum combination of features at once (e.g., a SYN URG
+PUSH FIN segment with options and data). see also {Chernobyl packet}.
+:kangaroo code: n. Syn. {spaghetti code}. :ken: /ken/ n. 1. [Unix] Ken
+Thompson, principal inventor of Unix. In the early days he used to hand-cut
+distribution tapes, often with a note that read "Love, ken". Old-timers still
+use his first name (sometimes uncapitalized, because it's a login name and
+mail address) in third-person reference; it is widely understood (on Usenet,
+in particular) that without a last name `Ken' refers only to Ken Thompson.
+Similarly, Dennis without last name means Dennis Ritchie (and he is often
+known as dmr). see also {demigod}, {{Unix}}. 2. A flaming user. This was
+originated by the Software Support group at Symbolics because the two
+greatest flamers in the user community were both named Ken. :kgbvax:
+/K-G-B'vaks/ n. see {kremvax}. :KIBO: /ki:'boh/ 1. [acronym] Knowledge In,
+Bullshit Out. A summary of what happens whenever valid data is passed through
+an organization (or person) that deliberately or accidentally disregards or
+ignores its significance. Consider, for example, what an advertising campaign
+can do with a product's actual specifications. Compare {GIGO}; see also
+{SNAFU principle}. 2. James Parry <kibo@world.std.com>, a Usenetter infamous
+for various surrealist net.pranks and an uncanny, machine-assisted knack for
+joining any thread in which his nom de guerre is mentioned. :kiboze: v.
+[Usenet] To {grep} the Usenet news for a string, especially with the
+intention of posting a follow-up. This activity was popularised by Kibo (see
+{KIBO}, sense 2). :kibozo: /ki:-boh'zoh/ n. [Usenet] One who {kiboze}s but is
+not Kibo (see {KIBO}, sense 2). :kick: v. [IRC] To cause somebody to be
+removed from a {IRC} channel, an option only available to {CHOP}s. This is an
+extreme measure, often used to combat extreme {flamage} or {flood}ing, but
+sometimes used at the chop's whim. Compare {gun}. :kill file: n. [Usenet;
+very common] (alt. `KILL file') Per-user file(s) used by some {Usenet}
+reading programs (originally Larry Wall's `rn(1)') to discard summarily
+(without presenting for reading) articles matching some particularly
+uninteresting (or unwanted) patterns of subject, author, or other header
+lines. Thus to add a person (or subject) to one's kill file is to arrange for
+that person to be ignored by one's newsreader in future. By extension, it may
+be used for a decision to ignore the person or subject in other media. see
+also {plonk}. :killer app: The application that actually makes a sustaining
+market for a promising but under-utilized technology. First used in the
+mid-1980s to describe Lotus 1-2-3 once it became evident that demand for that
+product had been the major driver of the early business market for IBM PCs.
+The term was then restrospectively applied to VisiCalc, which had played a
+similar role in the success of the Apple II. After 1994 it became commonplace
+to describe the World Wide Web as the Internet's killer app. One of the
+standard questions asked about each new personal-computer technology as it
+emerges has become "what's the killer app?" :killer micro: n. [popularized by
+Eugene Brooks] A microprocessor-based machine that infringes on mini,
+mainframe, or supercomputer performance turf. Often heard in "No one will
+survive the attack of the killer micros!", the battle cry of the downsizers.
+Used esp. of RISC architectures. The popularity of the phrase `attack of the
+killer micros' is doubtless reinforced by the title of the movie "Attack Of
+The Killer Tomatoes" (one of the {canonical} examples of
+so-bad-it's-wonderful among hackers). This has even more {flavor} now that
+killer micros have gone on the offensive not just individually (in
+workstations) but in hordes (within massively parallel computers). [1996
+update: Eugene Brooks was right. Since this term first entered the Jargon
+File in 1990, the minicomputer has effectively vanished, the {mainframe}
+sector is in deep and apparently terminal decline (with IBM but a shadow of
+its former self), and even the supercomputer business has contracted into a
+smaller niche. It's networked killer micros as far as the eye can see. --ESR]
+:killer poke: n. A recipe for inducing hardware damage on a machine via
+insertion of invalid values (see {poke}) into a memory-mapped control
+register; used esp. of various fairly well-known tricks on {bitty box}es
+without hardware memory management (such as the IBM PC and Commodore PET)
+that can overload and trash analog electronics in the monitor. see also
+{HCF}. :kilo-: pref. [SI] see {{quantifiers}}. :KIPS: /kips/ n.
+[abbreviation, by analogy with {MIPS} using {K}] Thousands (_not_ 1024s) of
+Instructions Per Second. Usage: rare. :KISS Principle: /kis' prin'si-pl/ n.
+"Keep It Simple, Stupid". A maxim often invoked when discussing design to
+fend off {creeping featurism} and control development complexity. Possibly
+related to the {marketroid} maxim on sales presentations, "Keep It Short and
+Simple". :kit: n. [Usenet; poss. fr. {DEC} slang for a full software
+distribution, as opposed to a patch or upgrade] A source software
+distribution that has been packaged in such a way that it can (theoretically)
+be unpacked and installed according to a series of steps using only standard
+Unix tools, and entirely documented by some reasonable chain of references
+from the top-level {README file}. The more general term {distribution} may
+imply that special tools or more stringent conditions on the host environment
+are required. :klone: /klohn/ n. see {clone}, sense 4. :kludge: 1. /klooj/ n.
+Incorrect (though regrettably common) spelling of {kluge} (US). These two
+words have been confused in American usage since the early 1960s, and widely
+confounded in Great Britain since the end of World War II. 2. [TMRC] A
+{crock} that works. (A long-ago "Datamation" article by Jackson Granholme
+similarly said: "An ill-assorted collection of poorly matching parts, forming
+a distressing whole.") 3. v. To use a kludge to get around a problem. "I've
+kludged around it for now, but I'll fix it up properly later." This word
+appears to have derived from Scots `kludge' or `kludgie' for a common toilet,
+via British military slang. It apparently became confused with U.S. {kluge}
+during or after World War II; some Britons from that era use both words in
+definably different ways, but {kluge} is now uncommon in Great Britain.
+`Kludge' in Commonwealth hackish differs in meaning from `kluge' in that it
+lacks the positive senses; a kludge is something no Commonwealth hacker wants
+to be associated too closely with. Also, `kludge' is more widely known in
+British mainstream slang than `kluge' is in the U.S. :kluge: /klooj/ [from
+the German `klug', clever; poss. related to Polish `klucza', a trick or hook]
+1. n. A Rube Goldberg (or Heath Robinson) device, whether in hardware or
+software. 2. n. A clever programming trick intended to solve a particular
+nasty case in an expedient, if not clear, manner. Often used to repair bugs.
+Often involves {ad-hockery} and verges on being a {crock}. 3. n. Something
+that works for the wrong reason. 4. vt. To insert a kluge into a program.
+"I've kluged this routine to get around that weird bug, but there's probably
+a better way." 5. [WPI] n. A feature that is implemented in a {rude} manner.
+Nowadays this term is often encountered in the variant spelling `kludge'.
+Reports from {old fart}s are consistent that `kluge' was the original
+spelling, reported around computers as far back as the mid-1950s and, at that
+time, used exclusively of _hardware_ kluges. In 1947, the "New York Folklore
+Quarterly" reported a classic shaggy-dog story `Murgatroyd the Kluge Maker'
+then current in the Armed Forces, in which a `kluge' was a complex and
+puzzling artifact with a trivial function. Other sources report that `kluge'
+was common Navy slang in the WWII era for any piece of electronics that
+worked well on shore but consistently failed at sea. However, there is reason
+to believe this slang use may be a decade older. Several respondents have
+connected it to the brand name of a device called a "Kluge paper feeder", an
+adjunct to mechanical printing presses. Legend has it that the Kluge feeder
+was designed before small, cheap electric motors and control electronics; it
+relied on a fiendishly complex assortment of cams, belts, and linkages to
+both power and synchronize all its operations from one motive driveshaft. It
+was accordingly temperamental, subject to frequent breakdowns, and devilishly
+difficult to repair -- but oh, so clever! People who tell this story also
+aver that `Kluge' was the name of a design engineer. There is in fact a
+Brandtjen & Kluge Inc., an old family business that manufactures printing
+equipment - interestingly, their name is pronounced /kloo'gee/! Henry
+Brandtjen, president of the firm, told me (ESR, 1994) that his company was
+co-founded by his father and an engineer named Kluge /kloo'gee/, who built
+and co-designed the original Kluge automatic feeder in 1919. Mr. Brandtjen
+claims, however, that this was a _simple_ device (with only four cams); he
+says he has no idea how the myth of its complexity took hold. {TMRC} and the
+MIT hacker culture of the early '60s seems to have developed in a milieu that
+remembered and still used some WWII military slang (see also {foobar}). It
+seems likely that `kluge' came to MIT via alumni of the many military
+electronics projects that had been located in Cambridge (many in MIT's
+venerable Building 20, in which {TMRC} is also located) during the war. The
+variant `kludge' was apparently popularized by the {Datamation} article
+mentioned above; it was titled "How to Design a Kludge" (February 1962, pp.
+30, 31). This spelling was probably imported from Great Britain, where
+{kludge} has an independent history (though this fact was largely unknown to
+hackers on either side of the Atlantic before a mid-1993 debate in the Usenet
+group alt.folklore.computers over the First and Second Edition versions of
+this entry; everybody used to think {kludge} was just a mutation of {kluge}).
+It now appears that the British, having forgotten the etymology of their own
+`kludge' when `kluge' crossed the Atlantic, repaid the U.S. by lobbing the
+`kludge' orthography in the other direction and confusing their American
+cousins' spelling! The result of this history is a tangle. Many younger U.S.
+hackers pronounce the word as /klooj/ but spell it, incorrectly for its
+meaning and pronunciation, as `kludge'. (Phonetically, consider huge, refuge,
+centrifuge, and deluge as opposed to sludge, judge, budge, and fudge.
+Whatever its failings in other areas, English spelling is perfectly
+consistent about this distinction.) British hackers mostly learned /kluhj/
+orally, use it in a restricted negative sense and are at least consistent.
+European hackers have mostly learned the word from written American sources
+and tend to pronounce it /kluhj/ but use the wider American meaning! Some
+observers consider this mess appropriate in view of the word's meaning.
+:kluge around: vt. To avoid a bug or difficult condition by inserting a
+{kluge}. Compare {workaround}. :kluge up: vt. To lash together a quick hack
+to perform a task; this is milder than {cruft together} and has some of the
+connotations of {hack up} (note, however, that the construction `kluge on'
+corresponding to {hack on} is never used). "I've kluged up this routine to
+dump the buffer contents to a safe place." :Knights of the Lambda Calculus:
+n. A semi-mythical organization of wizardly LISP and Scheme hackers. The name
+refers to a mathematical formalism invented by Alonzo Church, with which LISP
+is intimately connected. There is no enrollment list and the criteria for
+induction are unclear, but one well-known LISPer has been known to give out
+buttons and, in general, the _members_ know who they are.... :knobs: pl.n.
+Configurable options, even in software and even those you can't adjust in
+real time. Anything you can {twiddle} is a knob. "Has this PNG viewer got an
+alpha knob?" Software may be described as having "knobs and switches" or
+occasionally "knobs and lights". :Knuth: /knooth'/ n. [Donald E. Knuth's "The
+Art of Computer Programming"] Mythically, the reference that answers all
+questions about data structures or algorithms. A safe answer when you do not
+know: "I think you can find that in Knuth." Contrast {the literature}. see
+also {bible}. There is a Donald Knuth home page at
+`http://www-cs-faculty.Stanford.EDU/~knuth'. :koan: /koh'an/ n. A Zen
+teaching riddle. Classically, koans are attractive paradoxes to be meditated
+on; their purpose is to help one to enlightenment by temporarily jamming
+normal cognitive processing so that something more interesting can happen
+(this practice is associated with Rinzei Zen Buddhism). Hackers are very fond
+of the koan form and compose their own koans for humororous and/or
+enlightening effect. see {AI Koans}, {has the X nature}, {hacker humor}.
+:kremvax: /krem-vaks/ n. [from the then large number of {Usenet} {VAXen} with
+names of the form foovax] Originally, a fictitious Usenet site at the
+Kremlin, announced on April 1, 1984 in a posting ostensibly originated there
+by Soviet leader Konstantin Chernenko. The posting was actually forged by
+Piet Beertema as an April Fool's joke. Other fictitious sites mentioned in
+the hoax were moskvax and {kgbvax}. This was probably the funniest of the
+many April Fool's forgeries perpetrated on Usenet (which has negligible
+security against them), because the notion that Usenet might ever penetrate
+the Iron Curtain seemed so totally absurd at the time. In fact, it was only
+six years later that the first genuine site in Moscow, demos.su, joined
+Usenet. Some readers needed convincing that the postings from it weren't just
+another prank. Vadim Antonov, senior programmer at Demos and the major poster
+from there up to mid-1991, was quite aware of all this, referred to it
+frequently in his own postings, and at one point twitted some credulous
+readers by blandly asserting that he _was_ a hoax! Eventually he even
+arranged to have the domain's gateway site named kremvax, thus neatly turning
+fiction into fact and demonstrating that the hackish sense of humor
+transcends cultural barriers. [Mr. Antonov also contributed the
+Russian-language material for this lexicon. --ESR] In an even more ironic
+historical footnote, kremvax became an electronic center of the
+anti-communist resistance during the bungled hard-line coup of August 1991.
+During those three days the Soviet UUCP network centered on kremvax became
+the only trustworthy news source for many places within the USSR. Though the
+sysops were concentrating on internal communications, cross-border postings
+included immediate transliterations of Boris Yeltsin's decrees condemning the
+coup and eyewitness reports of the demonstrations in Moscow's streets. In
+those hours, years of speculation that totalitarianism would prove unable to
+maintain its grip on politically-loaded information in the age of computer
+networking were proved devastatingly accurate -- and the original kremvax
+joke became a reality as Yeltsin and the new Russian revolutionaries of
+`glasnost' and `perestroika' made kremvax one of the timeliest means of their
+outreach to the West. :kyrka: /shir'k*/ n. [Swedish] see {feature key}. = L =
+===== :lace card: n. obs. A {{punched card}} with all holes punched (also
+called a `whoopee card' or `ventilator card'). Card readers tended to jam
+when they got to one of these, as the resulting card had too little
+structural strength to avoid buckling inside the mechanism. Card punches
+could also jam trying to produce these things owing to power-supply problems.
+When some practical joker fed a lace card through the reader, you needed to
+clear the jam with a `card knife' -- which you used on the joker first. :lag:
+n. [MUD, IRC; very common] When used without qualification this is synomous
+with {netlag}. Curiously, people will often complain "I'm really lagged" when
+in fact it is their server or network connection that is lagging. :lamer: n.
+[prob. originated in skateboarder slang] 1. Synonym for {luser}, not used
+much by hackers but common among {warez d00dz}, crackers, and {phreaker}s. A
+person who downloads much, but who never uploads. (Also known as `leecher').
+Oppose {elite}. Has the same connotations of self-conscious elitism that use
+of {luser} does among hackers. 2. Someone who tries to crack a BBS. 3.
+Someone who annoys the sysop or other BBS users - for instance, by posting
+lots of silly messages, uploading virus-ridden software, frequently dropping
+carrier, etc. Crackers also use it to refer to cracker {wannabee}s. In phreak
+culture, a lamer is one who scams codes off others rather than doing cracks
+or really understanding the fundamental concepts. In {warez d00dz} culture,
+where the ability to wave around cracked commercial software within days of
+(or before) release to the commercial market is much esteemed, the lamer
+might try to upload garbage or shareware or something incredibly old (old in
+this context is read as a few years to anything older than 3 days). `Lamer'
+is also much used in the IRC world in a similar sense to the above. :language
+lawyer: n. A person, usually an experienced or senior software engineer, who
+is intimately familiar with many or most of the numerous restrictions and
+features (both useful and esoteric) applicable to one or more computer
+programming languages. A language lawyer is distinguished by the ability to
+show you the five sentences scattered through a 200-plus-page manual that
+together imply the answer to your question "if only you had thought to look
+there". Compare {wizard}, {legal}, {legalese}. :languages of choice: n. {C},
+{C++}, {LISP}, and {Perl}. Nearly every hacker knows one of C or LISP, and
+most good ones are fluent in both. C++, despite some serious drawbacks, is
+generally preferred to other object-oriented languages (though in 1999 it
+looks as though Java has displaced it in the affections of hackers, if not
+everywhere). Since around 1990 Perl has rapidly been gaining favor,
+especially as a tool for systems-administration utilities and rapid
+prototyping. Python, Smalltalk and Prolog are also popular in small but
+influential communities. There is also a rapidly dwindling category of older
+hackers with FORTRAN, or even assembler, as their language of choice. They
+often prefer to be known as {Real Programmer}s, and other hackers consider
+them a bit odd (see "{The Story of Mel}" in Appendix A). Assembler is
+generally no longer considered interesting or appropriate for anything but
+{HLL} implementation, {glue}, and a few time-critical and hardware-specific
+uses in systems programs. FORTRAN occupies a shrinking niche in scientific
+programming. Most hackers tend to frown on languages like {{Pascal}} and
+{{Ada}}, which don't give them the near-total freedom considered necessary
+for hacking (see {bondage-and-discipline language}), and to regard everything
+even remotely connected with {COBOL} or other traditional {card walloper}
+languages as a total and unmitigated {loss}. :LART: // Luser Attitude
+Readjustment Tool. 1. n. In the collective mythos of {scary devil monastery},
+this is an essential item in the toolkit of every {BOFH}. The LART classic is
+a 2x4 or other large billet of wood usable as a club, to be applied upside
+the head of spammers and other people who cause sysadmins more grief than
+just naturally goes with the job. Perennial debates rage on
+alt.sysadmin.recovery over what constitutes the truly effective LART;
+knobkerries, semiautomatic weapons, flamethrowers, and tactical nukes all
+have their partisans. Compare {clue-by-four}. 2. v. To use a LART. Some would
+add "in malice", but some sysadmins do prefer to gently lart their users as a
+first (and sometimes final) warning. 3. interj. Calling for one's LART, much
+as a surgeon might call "Scalpel!". 4. interj. [rare] Used in {flame}s as a
+rebuke. "LART! LART! LART!" :larval stage: n. Describes a period of
+monomaniacal concentration on coding apparently passed through by all
+fledgling hackers. Common symptoms include the perpetration of more than one

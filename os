@@ -57,8 +57,9 @@ ticks, and on multiprocessor systems with good thread support one may get
 more processor time than real time). :wall wart: n. A small power-supply
 brick with integral male plug, designed to plug directly into a wall outlet.
 These are frequently associated with modems and other small electronic
-devices which would become unacceptably bulk or hot if they had power
-supplies on board. :wallpaper: n. 1. A file containing a listing (e.g.,
+devices which would become unacceptably bulky or hot if they had power
+supplies on board (there are other reasons as well having to do with the cost
+of UL certification). :wallpaper: n. 1. A file containing a listing (e.g.,
 assembly listing) or a transcript, esp. a file containing a transcript of all
 or part of a login session. (The idea was that the paper for such listings
 was essentially good only for wallpaper, as evidenced at Stanford, where it
@@ -155,46 +156,48 @@ behind their terminals. More likely, if you were given a sample of 100
 people, the person whose handle is Hellraiser is the last person you'd
 associate with the name. The contrast with Internet hackers is stark and
 instructive. see {cracker}, {wannabee}, {handle}, {elite}; compare {weenie},
-{spod}. :warlording: v. [from the Usenet group alt.fan.warlord] The act of
-excoriating a bloated, ugly, or derivative {sig block}. Common grounds for
-warlording include the presence of a signature rendered in a {BUAF},
-over-used or cliched {sig quote}s, ugly {ASCII art}, or simply excessive
-size. The original `Warlord' was a {B1FF}-like {newbie} c.1991 who featured
-in his sig a particularly large and obnoxious ASCII graphic resembling the
-sword of Conan the Barbarian in the 1981 John Milius movie; the group name
-alt.fan.warlord was sarcasm, and the characteristic mode of warlording is
-devastatingly sarcastic praise. :warm boot: n. see {boot}. :wart: n. A small,
-{crock}y {feature} that sticks out of an otherwise {clean} design. Something
-conspicuous for localized ugliness, especially a special-case exception to a
-general rule. For example, in some versions of `csh(1)', single quotes
-literalize every character inside them except `!'. In ANSI C, the `??' syntax
-used for obtaining ASCII characters in a foreign environment is a wart. see
-also {miswart}. :washing machine: n. 1. Old-style 14-inch hard disks in
-floor-standing cabinets. So called because of the size of the cabinet and the
-`top-loading' access to the media packs -- and, of course, they were always
-set on `spin cycle'. The washing-machine idiom transcends language barriers;
-it is even used in Russian hacker jargon. see also {walking drives}. The
-thick channel cables connecting these were called `bit hoses' (see {hose},
-sense 3). 2. [CMU] A machine used exclusively for {washing software}. CMU has
-clusters of these. :washing software: n. The process of recompiling a
-software distribution (used more often when the recompilation is occuring
-from scratch) to pick up and merge together all of the various changes that
-have been made to the source. :water MIPS: n. (see {MIPS}, sense 2) Large,
-water-cooled machines of either today's ECL-supercomputer flavor or
-yesterday's traditional {mainframe} type. :wave a dead chicken: v. To perform
-a ritual in the direction of crashed software or hardware that one believes
-to be futile but is nevertheless necessary so that others are satisfied that
-an appropriate degree of effort has been expended. "I'll wave a dead chicken
-over the source code, but I really think we've run into an OS bug." Compare
-{voodoo programming}, {rain dance}; see also {casting the runes}. :weasel: n.
-[Cambridge] A naive user, one who deliberately or accidentally does things
-that are stupid or ill-advised. Roughly synonymous with {loser}. :web
-pointer: n. A World Wide Web {URL}. see also {hotlink}, which has slightly
-different connotations. :web toaster: n. A small specialized computer,
-shipped with no monitor or keyboard or any other external peripherals,
-pre-configured to be controlled through an Ethernet port and function as a
-WWW server. Products of this kind (for example the Cobalt Qube) are often
-about the size of a toaster. see {toaster}; compare {video toaster}. :webify:
-n. [MIT] To put a piece of (possibly already existing) material on the WWW.
-Frequently used for papers ("Why don't you webify all your publications?") or
-for demos ("They webified their
+{spod}. :warez kiddies: n. Even more derogatory way of referring to {warez
+d00dz}; refers to the fact that most warez d00dz are around the age of
+puberty. Compare {script kiddies}. :warlording: v. [from the Usenet group
+alt.fan.warlord] The act of excoriating a bloated, ugly, or derivative {sig
+block}. Common grounds for warlording include the presence of a signature
+rendered in a {BUAF}, over-used or cliched {sig quote}s, ugly {ASCII art}, or
+simply excessive size. The original `Warlord' was a {B1FF}-like {newbie}
+c.1991 who featured in his sig a particularly large and obnoxious ASCII
+graphic resembling the sword of Conan the Barbarian in the 1981 John Milius
+movie; the group name alt.fan.warlord was sarcasm, and the characteristic
+mode of warlording is devastatingly sarcastic praise. :warm boot: n. see
+{boot}. :wart: n. A small, {crock}y {feature} that sticks out of an otherwise
+{clean} design. Something conspicuous for localized ugliness, especially a
+special-case exception to a general rule. For example, in some versions of
+`csh(1)', single quotes literalize every character inside them except `!'. In
+ANSI C, the `??' syntax used for obtaining ASCII characters in a foreign
+environment is a wart. see also {miswart}. :washing machine: n. 1. Old-style
+14-inch hard disks in floor-standing cabinets. So called because of the size
+of the cabinet and the `top-loading' access to the media packs -- and, of
+course, they were always set on `spin cycle'. The washing-machine idiom
+transcends language barriers; it is even used in Russian hacker jargon. see
+also {walking drives}. The thick channel cables connecting these were called
+`bit hoses' (see {hose}, sense 3). 2. [CMU] A machine used exclusively for
+{washing software}. CMU has clusters of these. :washing software: n. The
+process of recompiling a software distribution (used more often when the
+recompilation is occuring from scratch) to pick up and merge together all of
+the various changes that have been made to the source. :water MIPS: n. (see
+{MIPS}, sense 2) Large, water-cooled machines of either today's
+ECL-supercomputer flavor or yesterday's traditional {mainframe} type. :wave a
+dead chicken: v. To perform a ritual in the direction of crashed software or
+hardware that one believes to be futile but is nevertheless necessary so that
+others are satisfied that an appropriate degree of effort has been expended.
+"I'll wave a dead chicken over the source code, but I really think we've run
+into an OS bug." Compare {voodoo programming}, {rain dance}; see also
+{casting the runes}. :weasel: n. [Cambridge] A naive user, one who
+deliberately or accidentally does things that are stupid or ill-advised.
+Roughly synonymous with {loser}. :web pointer: n. A World Wide Web {URL}. see
+also {hotlink}, which has slightly different connotations. :web toaster: n. A
+small specialized computer, shipped with no monitor or keyboard or any other
+external peripherals, pre-configured to be controlled through an Ethernet
+port and function as a WWW server. Products of this kind (for example the
+Cobalt Qube) are often about the size of a toaster. see {toaster}; compare
+{video toaster}. :webify: n. [MIT] To put a piece of (possibly already
+existing) material on the WWW. Frequently used for papers ("Why don't you
+webify all your publications?") or for demos ("They webified their

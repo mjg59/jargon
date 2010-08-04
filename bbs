@@ -28,18 +28,18 @@ silliness, evoking the creeping horrors of low-budget monster movies.
 at the expense of the less interesting parts of the design, the schedule, and
 other things deemed important in the {Real World}. see also {creeping
 featurism}, {second-system effect}, {tense}. :creeping featurism: /kree'ping
-fee'chr-izm/ n. 1. Describes a systematic tendency to load more {chrome} and
-{feature}s onto systems at the expense of whatever elegance they may have
-possessed when originally designed. see also {feeping creaturism}. "You know,
-the main problem with {BSD} Unix has always been creeping featurism." 2. More
-generally, the tendency for anything complicated to become even more
-complicated because people keep saying "Gee, it would be even better if it
-had this feature too". (see {feature}.) The result is usually a patchwork
-because it grew one ad-hoc step at a time, rather than being planned.
-Planning is a lot of work, but it's easy to add just one extra little feature
-to help someone ... and then another ... and another.... When creeping
-featurism gets out of hand, it's like a cancer. Usually this term is used to
-describe computer programs, but it could also be said of the federal
+fee'chr-izm/ n. [common] 1. Describes a systematic tendency to load more
+{chrome} and {feature}s onto systems at the expense of whatever elegance they
+may have possessed when originally designed. see also {feeping creaturism}.
+"You know, the main problem with {BSD} Unix has always been creeping
+featurism." 2. More generally, the tendency for anything complicated to
+become even more complicated because people keep saying "Gee, it would be
+even better if it had this feature too". (see {feature}.) The result is
+usually a patchwork because it grew one ad-hoc step at a time, rather than
+being planned. Planning is a lot of work, but it's easy to add just one extra
+little feature to help someone ... and then another ... and another.... When
+creeping featurism gets out of hand, it's like a cancer. Usually this term is
+used to describe computer programs, but it could also be said of the federal
 government, the IRS 1040 form, and new cars. A similar phenomenon sometimes
 afflicts conscious redesigns; see {second-system effect}. see also {creeping
 elegance}. :creeping featuritis: /kree'ping fee'-chr-i:`t*s/ n. Variant of
@@ -55,53 +55,54 @@ thought this may be due to the insidious phonetic influence of Monty Python's
 Flying Circus. :cretinous: /kret'n-*s/ or /kreet'n-*s/ adj. Wrong; stupid;
 non-functional; very poorly designed. Also used pejoratively of people. see
 {dread high-bit disease} for an example. Approximate synonyms: {bletcherous},
-{bagbiting} {losing}, {brain-damaged}. :crippleware: n. 1. Software that has
-some important functionality deliberately removed, so as to entice potential
-users to pay for a working version. 2. [Cambridge] Variety of {guiltware}
-that exhorts you to donate to some charity (compare {careware}, {nagware}).
-3. Hardware deliberately crippled, which can be upgraded to a more expensive
-model by a trivial change (e.g., cutting a jumper). An excellent example of
-crippleware (sense 3) is Intel's 486SX chip, which is a standard 486DX chip
-with the co-processor dyked out (in some early versions it was present but
-disabled). To upgrade, you buy a complete 486DX chip with _working_
-co-processor (its identity thinly veiled by a different pinout) and plug it
-into the board's expansion socket. It then disables the SX, which becomes a
-fancy power sink. Don't you love Intel? :critical mass: n. In physics, the
-minimum amount of fissionable material required to sustain a chain reaction.
-Of a software product, describes a condition of the software such that fixing
-one bug introduces one plus {epsilon} bugs. (This malady has many causes:
-{creeping featurism}, ports to too many disparate environments, poor initial
-design, etc.) When software achieves critical mass, it can never be fixed; it
-can only be discarded and rewritten. :crlf: /ker'l*f/, sometimes /kru'l*f/ or
-/C-R-L-F/ n. (often capitalized as `CRLF') A carriage return (CR, ASCII
-0001101) followed by a line feed (LF, ASCII 0001010). More loosely, whatever
-it takes to get you from the end of one line of text to the beginning of the
-next line. see {newline}, {terpri}. Under {{Unix}} influence this usage has
-become less common (Unix uses a bare line feed as its `CRLF'). :crock: n.
-[from the American scatologism `crock of shit'] 1. An awkward feature or
-programming technique that ought to be made cleaner. For example, using small
-integers to represent error codes without the program interpreting them to
-the user (as in, for example, Unix `make(1)', which returns code 139 for a
-process that dies due to {segfault}). 2. A technique that works acceptably,
-but which is quite prone to failure if disturbed in the least. For example, a
-too-clever programmer might write an assembler which mapped instruction
-mnemonics to numeric opcodes algorithmically, a trick which depends far too
-intimately on the particular bit patterns of the opcodes. (For another
-example of programming with a dependence on actual opcode values, see {The
-Story of Mel} in Appendix A.) Many crocks have a tightly woven, almost
-completely unmodifiable structure. see {kluge}, {brittle}. The adjectives
-`crockish' and `crocky', and the nouns `crockishness' and `crockitude', are
-also used. :cross-post: [Usenet] vi. To post a single article simultaneously
-to several newsgroups. Distinguished from posting the article repeatedly,
-once to each newsgroup, which causes people to see it multiple times (which
-is very bad form). Gratuitous cross-posting without a Followup-To line
-directing responses to a single followup group is frowned upon, as it tends
-to cause {followup} articles to go to inappropriate newsgroups when people
-respond to only one part of the original posting. :crudware: /kruhd'weir/ n.
-Pejorative term for the hundreds of megabytes of low-quality {freeware}
-circulated by user's groups and BBS systems in the micro-hobbyist world. "Yet
-_another_ set of disk catalog utilities for {{MS-DOS}}? What crudware!"
-:cruft: /kruhft/ [back-formation from {crufty}] 1. n. An unpleasant
-substance. The dust that gathers under your bed is cruft; the TMRC Dictionary
-correctly noted that attacking it with a broom only produces more. 2. n. The
-results of shoddy construction.
+{bagbiting} {losing}, {brain-damaged}. :crippleware: n. 1. [common] Software
+that has some important functionality deliberately removed, so as to entice
+potential users to pay for a working version. 2. [Cambridge] Variety of
+{guiltware} that exhorts you to donate to some charity (compare {careware},
+{nagware}). 3. Hardware deliberately crippled, which can be upgraded to a
+more expensive model by a trivial change (e.g., cutting a jumper). An
+excellent example of crippleware (sense 3) is Intel's 486SX chip, which is a
+standard 486DX chip with the co-processor dyked out (in some early versions
+it was present but disabled). To upgrade, you buy a complete 486DX chip with
+_working_ co-processor (its identity thinly veiled by a different pinout) and
+plug it into the board's expansion socket. It then disables the SX, which
+becomes a fancy power sink. Don't you love Intel? :critical mass: n. In
+physics, the minimum amount of fissionable material required to sustain a
+chain reaction. Of a software product, describes a condition of the software
+such that fixing one bug introduces one plus {epsilon} bugs. (This malady has
+many causes: {creeping featurism}, ports to too many disparate environments,
+poor initial design, etc.) When software achieves critical mass, it can never
+be fixed; it can only be discarded and rewritten. :crlf: /ker'l*f/, sometimes
+/kru'l*f/ or /C-R-L-F/ n. (often capitalized as `CRLF') A carriage return
+(CR, ASCII 0001101) followed by a line feed (LF, ASCII 0001010). More
+loosely, whatever it takes to get you from the end of one line of text to the
+beginning of the next line. see {newline}, {terpri}. Under {{Unix}} influence
+this usage has become less common (Unix uses a bare line feed as its `CRLF').
+:crock: n. [from the American scatologism `crock of shit'] 1. An awkward
+feature or programming technique that ought to be made cleaner. For example,
+using small integers to represent error codes without the program
+interpreting them to the user (as in, for example, Unix `make(1)', which
+returns code 139 for a process that dies due to {segfault}). 2. A technique
+that works acceptably, but which is quite prone to failure if disturbed in
+the least. For example, a too-clever programmer might write an assembler
+which mapped instruction mnemonics to numeric opcodes algorithmically, a
+trick which depends far too intimately on the particular bit patterns of the
+opcodes. (For another example of programming with a dependence on actual
+opcode values, see {The Story of Mel} in Appendix A.) Many crocks have a
+tightly woven, almost completely unmodifiable structure. see {kluge},
+{brittle}. The adjectives `crockish' and `crocky', and the nouns
+`crockishness' and `crockitude', are also used. :cross-post: [Usenet] vi. To
+post a single article simultaneously to several newsgroups. Distinguished
+from posting the article repeatedly, once to each newsgroup, which causes
+people to see it multiple times (which is very bad form). Gratuitous
+cross-posting without a Followup-To line directing responses to a single
+followup group is frowned upon, as it tends to cause {followup} articles to
+go to inappropriate newsgroups when people respond to only one part of the
+original posting. :crudware: /kruhd'weir/ n. Pejorative term for the hundreds
+of megabytes of low-quality {freeware} circulated by user's groups and BBS
+systems in the micro-hobbyist world. "Yet _another_ set of disk catalog
+utilities for {{MS-DOS}}? What crudware!" :cruft: /kruhft/ [very common;
+back-formation from {crufty}] 1. n. An unpleasant substance. The dust that
+gathers under your bed is cruft; the TMRC Dictionary correctly noted that
+attacking it with a broom only produces more. 2. n. The results of shoddy
+construction.
