@@ -192,74 +192,74 @@ controversial (because it implicitly denies any right of designers to own,
 assign, and sell the results of their labors), many hackers who disagree with
 RMS have nevertheless cooperated to produce large amounts of high-quality
 software for free redistribution under the Free Software Foundation's
-imprimatur. see {EMACS}, {copyleft}, {General Public Virus}, {Linux}. 2.
-Noted Unix hacker John Gilmore <<gnu@toad.com>>, founder of Usenet's anarchic
-alt.* hierarchy. :GNUMACS: /gnoo'maks/ n. [contraction of `GNU EMACS']
-Often-heard abbreviated name for the {GNU} project's flagship tool, {EMACS}.
-Used esp. in contrast with {GOSMACS}. :go flatline: v. [from cyberpunk SF,
-refers to flattening of EEG traces upon brain-death] (also adjectival
-`flatlined'). 1. To {die}, terminate, or fail, esp. irreversibly. In hacker
-parlance, this is used of machines only, human death being considered
-somewhat too serious a matter to employ jargon-jokes about. 2. To go
-completely quiescent; said of machines undergoing controlled shutdown. "You
-can suffer file damage if you shut down Unix but power off before the system
-has gone flatline." 3. Of a video tube, to fail by losing vertical scan, so
-all one sees is a bright horizontal line bisecting the screen. :go root: vi.
-[Unix; common] To temporarily enter {root mode} in order to perform a
-privileged operation. This use is deprecated in Australia, where v. `root' is
-a synonym for "fuck". :go-faster stripes: n. [UK] Syn. {chrome}. Mainstream
-in some parts of UK. :GoAT: // [Usenet] Abbreviation: "Go Away, Troll". see
-{troll}. :gobble: vt. 1. To consume, usu. used with `up'. "The output spy
-gobbles characters out of a {tty} output buffer." 2. To obtain, usu. used
-with `down'. "I guess I'll gobble down a copy of the documentation tomorrow."
-see also {snarf}. :Godwin's Law: prov. [Usenet] "As a Usenet discussion grows
-longer, the probability of a comparison involving Nazis or Hitler approaches
-one." There is a tradition in many groups that, once this occurs, that thread
-is over, and whoever mentioned the Nazis has automatically lost whatever
-argument was in progress. Godwin's Law thus practically guarantees the
-existence of an upper bound on thread length in those groups. :Godzillagram:
-/god-zil'*-gram/ n. [from Japan's national hero] 1. A network packet that in
-theory is a broadcast to every machine in the universe. The typical case is
-an IP datagram whose destination IP address is [255.255.255.255].
-Fortunately, few gateways are foolish enough to attempt to implement this
-case! 2. A network packet of maximum size. An IP Godzillagram has 65,536
-octets. Compare {super source quench}, {Christmas tree packet}, {martian}.
-:golden: adj. [prob. from folklore's `golden egg'] When used to describe a
-magnetic medium (e.g., `golden disk', `golden tape'), describes one
-containing a tested, up-to-spec, ready-to-ship software version. Compare
-{platinum-iridium}. :golf-ball printer: n. obs. The IBM 2741, a slow but
-letter-quality printing device and terminal based on the IBM Selectric
-typewriter. The `golf ball' was a little spherical frob bearing reversed
-embossed images of 88 different characters arranged on four parallels of
-latitude; one could change the font by swapping in a different golf ball. The
-print element spun and jerked alarmingly in action and when in motion was
-sometimes described as an `infuriated golf ball'. This was the technology
-that enabled APL to use a non-EBCDIC, non-ASCII, and in fact completely
-non-standard character set. This put it 10 years ahead of its time -- where
-it stayed, firmly rooted, for the next 20, until character displays gave way
-to programmable bit-mapped devices with the flexibility to support other
-character sets. :gonk: /gonk/ vi.,n. 1. To prevaricate or to embellish the
-truth beyond any reasonable recognition. In German the term is (mythically)
-`gonken'; in Spanish the verb becomes `gonkar'. "You're gonking me. That
-story you just told me is a bunch of gonk." In German, for example, "Du
-gonkst mich" (You're pulling my leg). see also {gonkulator}. 2. [British] To
-grab some sleep at an odd time; compare {gronk out}. :gonkulator:
-/gon'kyoo-lay-tr/ n. [common; from the 1960s "Hogan's Heroes" TV series] A
-pretentious piece of equipment that actually serves no useful purpose.
-Usually used to describe one's least favorite piece of computer hardware. see
-{gonk}. :gonzo: /gon'zoh/ adj. [from Hunter S. Thompson] 1. With total
-commitment, total concentration, and a mad sort of panache. (Thompson's
-original sense.) 2. More loosely: Overwhelming; outrageous; over the top;
-very large, esp. used of collections of source code, source files, or
-individual functions. Has some of the connotations of {moby} and {hairy}, but
-without the implication of obscurity or complexity. :Good Thing: n.,adj.
-[very common; often capitalized; always pronounced as if capitalized.] 1.
-Self-evidently wonderful to anyone in a position to notice: "The
-Trailblazer's 19.2Kbaud PEP mode with on-the-fly Lempel-Ziv compression is a
-Good Thing for sites relaying netnews." 2. Something that can't possibly have
-any ill side-effects and may save considerable grief later: "Removing the
-self-modifying code from that shared library would be a Good Thing." 3. When
-said of software tools or libraries, as in "YACC is a Good Thing",
+imprimatur. The GNU project has a web page at `http://www.gnu.org'. see
+{EMACS}, {copyleft}, {General Public Virus}, {Linux}. 2. Noted Unix hacker
+John Gilmore <<gnu@toad.com>>, founder of Usenet's anarchic alt.* hierarchy.
+:GNUMACS: /gnoo'maks/ n. [contraction of `GNU EMACS'] Often-heard abbreviated
+name for the {GNU} project's flagship tool, {EMACS}. Used esp. in contrast
+with {GOSMACS}. :go flatline: v. [from cyberpunk SF, refers to flattening of
+EEG traces upon brain-death] (also adjectival `flatlined'). 1. To {die},
+terminate, or fail, esp. irreversibly. In hacker parlance, this is used of
+machines only, human death being considered somewhat too serious a matter to
+employ jargon-jokes about. 2. To go completely quiescent; said of machines
+undergoing controlled shutdown. "You can suffer file damage if you shut down
+Unix but power off before the system has gone flatline." 3. Of a video tube,
+to fail by losing vertical scan, so all one sees is a bright horizontal line
+bisecting the screen. :go root: vi. [Unix; common] To temporarily enter {root
+mode} in order to perform a privileged operation. This use is deprecated in
+Australia, where v. `root' is a synonym for "fuck". :go-faster stripes: n.
+[UK] Syn. {chrome}. Mainstream in some parts of UK. :GoAT: // [Usenet]
+Abbreviation: "Go Away, Troll". see {troll}. :gobble: vt. 1. To consume, usu.
+used with `up'. "The output spy gobbles characters out of a {tty} output
+buffer." 2. To obtain, usu. used with `down'. "I guess I'll gobble down a
+copy of the documentation tomorrow." see also {snarf}. :Godwin's Law: prov.
+[Usenet] "As a Usenet discussion grows longer, the probability of a
+comparison involving Nazis or Hitler approaches one." There is a tradition in
+many groups that, once this occurs, that thread is over, and whoever
+mentioned the Nazis has automatically lost whatever argument was in progress.
+Godwin's Law thus practically guarantees the existence of an upper bound on
+thread length in those groups. :Godzillagram: /god-zil'*-gram/ n. [from
+Japan's national hero] 1. A network packet that in theory is a broadcast to
+every machine in the universe. The typical case is an IP datagram whose
+destination IP address is [255.255.255.255]. Fortunately, few gateways are
+foolish enough to attempt to implement this case! 2. A network packet of
+maximum size. An IP Godzillagram has 65,536 octets. Compare {super source
+quench}, {Christmas tree packet}, {martian}. :golden: adj. [prob. from
+folklore's `golden egg'] When used to describe a magnetic medium (e.g.,
+`golden disk', `golden tape'), describes one containing a tested, up-to-spec,
+ready-to-ship software version. Compare {platinum-iridium}. :golf-ball
+printer: n. obs. The IBM 2741, a slow but letter-quality printing device and
+terminal based on the IBM Selectric typewriter. The `golf ball' was a little
+spherical frob bearing reversed embossed images of 88 different characters
+arranged on four parallels of latitude; one could change the font by swapping
+in a different golf ball. The print element spun and jerked alarmingly in
+action and when in motion was sometimes described as an `infuriated golf
+ball'. This was the technology that enabled APL to use a non-EBCDIC,
+non-ASCII, and in fact completely non-standard character set. This put it 10
+years ahead of its time -- where it stayed, firmly rooted, for the next 20,
+until character displays gave way to programmable bit-mapped devices with the
+flexibility to support other character sets. :gonk: /gonk/ vi.,n. 1. To
+prevaricate or to embellish the truth beyond any reasonable recognition. In
+German the term is (mythically) `gonken'; in Spanish the verb becomes
+`gonkar'. "You're gonking me. That story you just told me is a bunch of
+gonk." In German, for example, "Du gonkst mich" (You're pulling my leg). see
+also {gonkulator}. 2. [British] To grab some sleep at an odd time; compare
+{gronk out}. :gonkulator: /gon'kyoo-lay-tr/ n. [common; from the 1960s
+"Hogan's Heroes" TV series] A pretentious piece of equipment that actually
+serves no useful purpose. Usually used to describe one's least favorite piece
+of computer hardware. see {gonk}. :gonzo: /gon'zoh/ adj. [from Hunter S.
+Thompson] 1. With total commitment, total concentration, and a mad sort of
+panache. (Thompson's original sense.) 2. More loosely: Overwhelming;
+outrageous; over the top; very large, esp. used of collections of source
+code, source files, or individual functions. Has some of the connotations of
+{moby} and {hairy}, but without the implication of obscurity or complexity.
+:Good Thing: n.,adj. [very common; often capitalized; always pronounced as if
+capitalized.] 1. Self-evidently wonderful to anyone in a position to notice:
+"The Trailblazer's 19.2Kbaud PEP mode with on-the-fly Lempel-Ziv compression
+is a Good Thing for sites relaying netnews." 2. Something that can't possibly
+have any ill side-effects and may save considerable grief later: "Removing
+the self-modifying code from that shared library would be a Good Thing." 3.
+When said of software tools or libraries, as in "YACC is a Good Thing",
 specifically connotes that the thing has drastically reduced a programmer's
 work load. Oppose {Bad Thing}. :gopher: n. A type of Internet service first
 floated around 1991 and obsolesced around 1995 by the World Wide Web. Gopher
@@ -851,9 +851,9 @@ operating systems and no standard methods of communication. Has become rarer
 since. see also {talk mode}. :Halloween Documents: n. A pair of Microsoft
 internal strategy memoranda leaked to ESR in late 1998 that confirmed
 everybody's paranoia about the current {Evil Empire}. These documents
-(http://www.opensource.org/halloween.html) praised the technical excellence
-of {Linux} and outlined a counterstrategy of attempting to lock in customers
-by "de-commoditizing" Internet protocols and services. They were extensively
+(http://www.opensource.org/halloween/) praised the technical excellence of
+{Linux} and outlined a counterstrategy of attempting to lock in customers by
+"de-commoditizing" Internet protocols and services. They were extensively
 cited on the Internet and in the press and proved so embarrassing that
 Microsoft PR barely said a word in public for six months afterwards. :hammer:
 vt. Commonwealth hackish syn. for {bang on}. :hamster: n. 1. [Fairchild] A

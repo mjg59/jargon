@@ -1,48 +1,86 @@
- NS32000 and several variants. At one point early in the great microprocessor
-race, the specs on these chips made them look like serious competition for
-the rising Intel 80x86 and Motorola 680x0 series. Unfortunately, the actual
-parts were notoriously flaky and never implemented the full instruction set
-promised in their literature, apparently because the company couldn't get any
-of the mask steppings to work as designed. They eventually sank without
-trace, joining the Zilog Z8000 and a few even more obscure also-rans in the
-graveyard of forgotten microprocessors. Compare {HP-SUX}, {AIDX}, {buglix},
-{Macintrash}, {Telerat}, {ScumOS}, {sun-stools}, {Slowlaris}. :non-optimal
-solution: n. (also `sub-optimal solution') An astoundingly stupid way to do
-something. This term is generally used in deadpan sarcasm, as its impact is
-greatest when the person speaking looks completely serious. Compare
-{stunning}. see also {Bad Thing}. :nonlinear: adj. [scientific computation]
-1. Behaving in an erratic and unpredictable fashion; unstable. When used to
-describe the behavior of a machine or program, it suggests that said machine
-or program is being forced to run far outside of design specifications. This
-behavior may be induced by unreasonable inputs, or may be triggered when a
-more mundane bug sends the computation far off from its expected course. 2.
-When describing the behavior of a person, suggests a tantrum or a {flame}.
-"When you talk to Bob, don't mention the drug problem or he'll go nonlinear
-for hours." In this context, `go nonlinear' connotes `blow up out of
-proportion' (proportion connotes linearity). :nontrivial: adj. Requiring real
-thought or significant computing power. Often used as an understated way of
-saying that a problem is quite difficult or impractical, or even entirely
-unsolvable ("Proving P=NP is nontrivial"). The preferred emphatic form is
-`decidedly nontrivial'. see {trivial}, {uninteresting}, {interesting}. :not
-ready for prime time: adj. Usable, but only just so; not very robust; for
-internal use only. Said of a program or device. Often connotes that the thing
-will be made more solid {Real Soon Now}. This term comes from the ensemble
-name of the original cast of "Saturday Night Live", the "Not Ready for Prime
-Time Players". It has extra flavor for hackers because of the special (though
-now semi-obsolescent) meaning of {prime time}. Compare {beta}. :notwork:
-/not'werk/ n. A network, when it is acting {flaky} or is {down}. Compare
-{nyetwork}. Said at IBM to have originally referred to a particular period of
-flakiness on IBM's VNET corporate network ca. 1988; but there are independent
-reports of the term from elsewhere. :NP-: /N-P/ pref. Extremely. Used to
-modify adjectives describing a level or quality of difficulty; the
-connotation is often `more so than it should be' This is generalized from the
-computer-science terms `NP-hard' and `NP-complete'; NP-complete problems all
-seem to be very hard, but so far no one has found a proof that they are. NP
-is the set of Nondeterministic-Polynomial algorithms, those that can be
-completed by a nondeterministic Turing machine in an amount of time that is a
-polynomial function of the size of the input; a solution for one NP-complete
-problem would solve all the others. "Coding a BitBlt implementation to
-perform correctly in every case is NP-annoying." Note, however, that strictly
+ IBM ThinkPads and a few other laptop computers. The device, which sits
+between the `g' and `h' keys on the keyboard, indeed resembles a rubber
+nipple intended to be tweaked by a forefinger. Many hackers consider these
+superior to the glide pads found on most laptops, which are harder to control
+precisely. :NMI: /N-M-I/ n. Non-Maskable Interrupt. An IRQ 7 on the PDP-11 or
+680[01234]0; the NMI line on an 80[1234]86. In contrast with a {priority
+interrupt} (which might be ignored, although that is unlikely), an NMI is
+_never_ ignored. Except, that is, on {clone} boxes, where NMI is often
+ignored on the motherboard because flaky hardware can generate many spurious
+ones. :no-op: /noh'op/ n.,v. alt. NOP /nop/ [no operation] 1. A machine
+instruction that does nothing (sometimes used in assembler-level programming
+as filler for data or patch areas, or to overwrite code to be removed in
+binaries). 2. A person who contributes nothing to a project, or has nothing
+going on upstairs, or both. As in "He's a no-op." 3. Any operation or
+sequence of operations with no effect, such as circling the block without
+finding a parking space, or putting money into a vending machine and having
+it fall immediately into the coin-return box, or asking someone for help and
+being told to go away. "Oh, well, that was a no-op." Hot-and-sour soup (see
+{great-wall}) that is insufficiently either is `no-op soup'; so is wonton
+soup if everybody else is having hot-and-sour. :noddy: /nod'ee/ adj. [UK:
+from the children's books] 1. Small and un-useful, but demonstrating a point.
+Noddy programs are often written by people learning a new language or system.
+The archetypal noddy program is {hello world}. Noddy code may be used to
+demonstrate a feature or bug of a compiler. May be used of real hardware or
+software to imply that it isn't worth using. "This editor's a bit noddy." 2.
+A program that is more or less instant to produce. In this use, the term does
+not necessarily connote uselessness, but describes a {hack} sufficiently
+trivial that it can be written and debugged while carrying on (and during the
+space of) a normal conversation. "I'll just throw together a noddy {awk}
+script to dump all the first fields." In North America this might be called a
+{mickey mouse program}. see {toy program}. :node: n. 1. [Internet, UUCP] A
+host machine on the network. 2. [MS-DOS BBSes] A dial-in line on a BBS. Thus
+an MS-DOS {sysop} might say that his BBS has 4 nodes even though it has a
+single machine and no Internet link, confusing an Internet hacker no end.
+:Nominal Semidestructor: n. Soundalike slang for `National Semiconductor',
+found among other places in the Networking/2 networking sources. During the
+late 1970s to mid-1980s this company marketed a series of microprocessors
+including the NS16000 and NS32000 and several variants. At one point early in
+the great microprocessor race, the specs on these chips made them look like
+serious competition for the rising Intel 80x86 and Motorola 680x0 series.
+Unfortunately, the actual parts were notoriously flaky and never implemented
+the full instruction set promised in their literature, apparently because the
+company couldn't get any of the mask steppings to work as designed. They
+eventually sank without trace, joining the Zilog Z8000 and a few even more
+obscure also-rans in the graveyard of forgotten microprocessors. Compare
+{HP-SUX}, {AIDX}, {buglix}, {Macintrash}, {Telerat}, {ScumOS}, {sun-stools},
+{Slowlaris}. :non-optimal solution: n. (also `sub-optimal solution') An
+astoundingly stupid way to do something. This term is generally used in
+deadpan sarcasm, as its impact is greatest when the person speaking looks
+completely serious. Compare {stunning}. see also {Bad Thing}. :nonlinear:
+adj. [scientific computation] 1. Behaving in an erratic and unpredictable
+fashion; unstable. When used to describe the behavior of a machine or
+program, it suggests that said machine or program is being forced to run far
+outside of design specifications. This behavior may be induced by
+unreasonable inputs, or may be triggered when a more mundane bug sends the
+computation far off from its expected course. 2. When describing the behavior
+of a person, suggests a tantrum or a {flame}. "When you talk to Bob, don't
+mention the drug problem or he'll go nonlinear for hours." In this context,
+`go nonlinear' connotes `blow up out of proportion' (proportion connotes
+linearity). :nontrivial: adj. Requiring real thought or significant computing
+power. Often used as an understated way of saying that a problem is quite
+difficult or impractical, or even entirely unsolvable ("Proving P=NP is
+nontrivial"). The preferred emphatic form is `decidedly nontrivial'. see
+{trivial}, {uninteresting}, {interesting}. :not ready for prime time: adj.
+Usable, but only just so; not very robust; for internal use only. Said of a
+program or device. Often connotes that the thing will be made more solid
+{Real Soon Now}. This term comes from the ensemble name of the original cast
+of "Saturday Night Live", the "Not Ready for Prime Time Players". It has
+extra flavor for hackers because of the special (though now semi-obsolescent)
+meaning of {prime time}. Compare {beta}. :notwork: /not'werk/ n. A network,
+when it is acting {flaky} or is {down}. Compare {nyetwork}. Said at IBM to
+have originally referred to a particular period of flakiness on IBM's VNET
+corporate network ca. 1988; but there are independent reports of the term
+from elsewhere. :NP-: /N-P/ pref. Extremely. Used to modify adjectives
+describing a level or quality of difficulty; the connotation is often `more
+so than it should be' This is generalized from the computer-science terms
+`NP-hard' and `NP-complete'; NP-complete problems all seem to be very hard,
+but so far no one has found a proof that they are. NP is the set of
+Nondeterministic-Polynomial algorithms, those that can be completed by a
+nondeterministic Turing machine in an amount of time that is a polynomial
+function of the size of the input; a solution for one NP-complete problem
+would solve all the others. "Coding a BitBlt implementation to perform
+correctly in every case is NP-annoying." Note, however, that strictly
 speaking this usage is misleading; there are plenty of easy problems in class
 NP. NP-complete problems are hard not because they are in class NP, but
 because they are the hardest problems in class NP. :nroff:: /N'rof/ n. [Unix,

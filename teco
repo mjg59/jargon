@@ -46,63 +46,67 @@ folk tales] An archive, created with the Unix tar(1) utility, containing
 myriad related files. "Here, I'll just ftp you a tarball of the whole
 project." Tarballs have been the standard way to ship around source-code
 distributions since the mid-1980s; in retrospect it seems odd that this term
-did not enter common usage until the late 1990s. :taste: [primarily MIT] n.
-1. The quality in a program that tends to be inversely proportional to the
-number of features, hacks, and kluges programmed into it. Also `tasty',
-`tasteful', `tastefulness'. "This feature comes in N tasty flavors." Although
-`tasty' and `flavorful' are essentially synonyms, `taste' and {flavor} are
-not. Taste refers to sound judgment on the part of the creator; a program or
-feature can _exhibit_ taste but cannot _have_ taste. On the other hand, a
-feature can have {flavor}. Also, {flavor} has the additional meaning of
-`kind' or `variety' not shared by `taste'. The marked sense of {flavor} is
-more popular than `taste', though both are widely used. see also {elegant}.
-2. Alt. sp. of {tayste}. :tayste: /tayst/ n. Two bits; also as {taste}. Syn.
-{crumb}, {quarter}. see {nybble}. :TCB: /T-C-B/ n. [IBM] 1. Trouble Came
-Back. An intermittent or difficult-to-reproduce problem that has failed to
-respond to neglect or {shotgun debugging}. Compare {heisenbug}. Not to be
-confused with: 2. Trusted Computing Base, an `official' jargon term from the
-{Orange Book}. :TCP/IP: /T'C-P I'P/ n. 1. [Transmission Control
-Protocol/Internet Protocol] The wide-area-networking protocol that makes the
-Internet work, and the only one most hackers can speak the name of without
-laughing or retching. Unlike such allegedly `standard' competitors such as
-X.25, DECnet, and the ISO 7-layer stack, TCP/IP evolved primarily by actually
-being _used_, rather than being handed down from on high by a vendor or a
-heavily-politicized standards committee. Consequently, it (a) works, (b)
-actually promotes cheap cross-platform connectivity, and (c) annoys the hell
-out of corporate and governmental empire-builders everywhere. Hackers value
-all three of these properties. see {creationism}. 2. [Amateur Packet Radio]
-Formerly expanded as "The Crap Phil Is Pushing". The reference is to Phil
-Karn, KA9Q, and the context was an ongoing technical/political war between
-the majority of sites still running AX.25 and the TCP/IP relays. TCP/IP won.
-:TechRef: /tek'ref/ n. [MS-DOS] The original "IBM PC Technical Reference
-Manual", including the BIOS listing and complete schematics for the PC. The
-only PC documentation in the original-issue package that was considered
-serious by real hackers. :TECO: /tee'koh/ n.,v. obs. 1. [originally an
-acronym for `[paper] Tape Editor and COrrector'; later, `Text Editor and
-COrrector'] n. A text editor developed at MIT and modified by just about
-everybody. With all the dialects included, TECO may have been the most
-prolific editor in use before {EMACS}, to which it was directly ancestral.
-Noted for its powerful programming-language-like features and its unspeakably
-hairy syntax. It is literally the case that every string of characters is a
-valid TECO program (though probably not a useful one); one common game used
-to be mentally working out what the TECO commands corresponding to human
-names did. 2. vt. Originally, to edit using the TECO editor in one of its
-infinite variations (see below). 3. vt.,obs. To edit even when TECO is _not_
-the editor being used! This usage is rare and now primarily historical. As an
-example of TECO's obscurity, here is a TECO program that takes a list of
-names such as: Loser, J. Random Quux, The Great Dick, Moby sorts them
-alphabetically according to surname, and then puts the surname last, removing
-the comma, to produce the following: Moby Dick J. Random Loser The Great Quux
-The program is [1 J^P$L$$ J <.-Z; .,(S,$ -D .)FX1 @F^B $K :L I $ G1 L>$$
-(where ^B means `Control-B' (ASCII 0000010) and $ is actually an {alt} or
-escape (ASCII 0011011) character). In fact, this very program was used to
-produce the second, sorted list from the first list. The first hack at it had
-a {bug}: GLS (the author) had accidentally omitted the `@' in front of `F^B',
-which as anyone can see is clearly the {Wrong Thing}. It worked fine the
-second time. There is no space to describe all the features of TECO, but it
-may be of interest that `^P' means `sort' and `J<.-Z; ... L>' is an idiomatic
-series of commands for `do once for every line'. In mid-1991, TECO is pretty
-much one with the dust of history, having been replaced in the affections of
-hackerdom by {EMACS}. Descendants of an early (and somewhat lobotomized)
-version adopted by DEC can still be found lurking on VMS and a couple of
-crufty
+did not enter common usage until the late 1990s. :tardegy: tar'djee n.
+[deliberate mangling of `tragedy'] An incident in which someone who clearly
+deserves to be selected out of the gene pool on grounds of extreme stupidity
+meets with a messy end. Coined on the Darwin list, which is dedicated to
+chronicling such incidents; but almost all hackers would instantly recognize
+the intention of the term and laugh. :taste: [primarily MIT] n. 1. The
+quality in a program that tends to be inversely proportional to the number of
+features, hacks, and kluges programmed into it. Also `tasty', `tasteful',
+`tastefulness'. "This feature comes in N tasty flavors." Although `tasty' and
+`flavorful' are essentially synonyms, `taste' and {flavor} are not. Taste
+refers to sound judgment on the part of the creator; a program or feature can
+_exhibit_ taste but cannot _have_ taste. On the other hand, a feature can
+have {flavor}. Also, {flavor} has the additional meaning of `kind' or
+`variety' not shared by `taste'. The marked sense of {flavor} is more popular
+than `taste', though both are widely used. see also {elegant}. 2. Alt. sp. of
+{tayste}. :tayste: /tayst/ n. Two bits; also as {taste}. Syn. {crumb},
+{quarter}. see {nybble}. :TCB: /T-C-B/ n. [IBM] 1. Trouble Came Back. An
+intermittent or difficult-to-reproduce problem that has failed to respond to
+neglect or {shotgun debugging}. Compare {heisenbug}. Not to be confused with:
+2. Trusted Computing Base, an `official' jargon term from the {Orange Book}.
+:TCP/IP: /T'C-P I'P/ n. 1. [Transmission Control Protocol/Internet Protocol]
+The wide-area-networking protocol that makes the Internet work, and the only
+one most hackers can speak the name of without laughing or retching. Unlike
+such allegedly `standard' competitors such as X.25, DECnet, and the ISO
+7-layer stack, TCP/IP evolved primarily by actually being _used_, rather than
+being handed down from on high by a vendor or a heavily-politicized standards
+committee. Consequently, it (a) works, (b) actually promotes cheap
+cross-platform connectivity, and (c) annoys the hell out of corporate and
+governmental empire-builders everywhere. Hackers value all three of these
+properties. see {creationism}. 2. [Amateur Packet Radio] Formerly expanded as
+"The Crap Phil Is Pushing". The reference is to Phil Karn, KA9Q, and the
+context was an ongoing technical/political war between the majority of sites
+still running AX.25 and the TCP/IP relays. TCP/IP won. :TechRef: /tek'ref/ n.
+[MS-DOS] The original "IBM PC Technical Reference Manual", including the BIOS
+listing and complete schematics for the PC. The only PC documentation in the
+original-issue package that was considered serious by real hackers. :TECO:
+/tee'koh/ n.,v. obs. 1. [originally an acronym for `[paper] Tape Editor and
+COrrector'; later, `Text Editor and COrrector'] n. A text editor developed at
+MIT and modified by just about everybody. With all the dialects included,
+TECO may have been the most prolific editor in use before {EMACS}, to which
+it was directly ancestral. Noted for its powerful programming-language-like
+features and its unspeakably hairy syntax. It is literally the case that
+every string of characters is a valid TECO program (though probably not a
+useful one); one common game used to be mentally working out what the TECO
+commands corresponding to human names did. 2. vt. Originally, to edit using
+the TECO editor in one of its infinite variations (see below). 3. vt.,obs. To
+edit even when TECO is _not_ the editor being used! This usage is rare and
+now primarily historical. As an example of TECO's obscurity, here is a TECO
+program that takes a list of names such as: Loser, J. Random Quux, The Great
+Dick, Moby sorts them alphabetically according to surname, and then puts the
+surname last, removing the comma, to produce the following: Moby Dick J.
+Random Loser The Great Quux The program is [1 J^P$L$$ J <.-Z; .,(S,$ -D .)FX1
+@F^B $K :L I $ G1 L>$$ (where ^B means `Control-B' (ASCII 0000010) and $ is
+actually an {alt} or escape (ASCII 0011011) character). In fact, this very
+program was used to produce the second, sorted list from the first list. The
+first hack at it had a {bug}: GLS (the author) had accidentally omitted the
+`@' in front of `F^B', which as anyone can see is clearly the {Wrong Thing}.
+It worked fine the second time. There is no space to describe all the
+features of TECO, but it may be of interest that `^P' means `sort' and
+`J<.-Z; ... L>' is an idiomatic series of commands for `do once for every
+line'. In mid-1991, TECO is pretty much one with the dust of history, having
+been replaced in the affections of hackerdom by {EMACS}. Descendants of an
+early (and somewhat lobotomized) version adopted by DEC can still be found
+lurking on VMS and a couple of crufty
