@@ -1,2 +1,5 @@
- BLT (bee ell tee, [rarely] belt) n.,v. Synonym for BLIT. This form is older
-but now less common.
+ BLT /bee ell tee/ or (rarely) /belt/ n.,v. 1. Synonym for BLIT. This is the
+original form of BLIT and the ancestor of BITBLT (q.v.). In these versions
+the usage has outlasted the PDP-10 BLock Transfer instruction for which BLT
+derives; nowadays, the assembler mnemonic BLT almost always means `Branch if
+Less Than Zero'.

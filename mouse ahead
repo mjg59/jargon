@@ -1,0 +1,7 @@
+ MOUSE AHEAD v. To manipulate a computer's pointing device (almost always a
+mouse in this usage, but not necessarily) and its selection or command
+buttons before a computer program is ready to accept such input, in
+anticipation of the program accepting the input. Handling this properly is
+rare, but it can help make a USER FRIENDLY program usable by real users,
+assuming they are familiar with the behavior of the user interface.
+Point-and-click analog of "type ahead".

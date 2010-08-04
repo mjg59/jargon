@@ -1,0 +1,7 @@
+ CONWAY'S LAW n. The rule that the organization of the software and the
+organization of the software team will be congruent; originally stated as "If
+you have four groups working on a compiler, you'll get a four-pass compiler."
+This was originally promulgated by Melvin Conway, an early proto-hacker who
+wrote an assembler for the Burroughs 220 called SAVE. "SAVE" didn't stand for
+anything, it was just that you lost fewer decks and listings because they all
+had SAVE written on top of them.

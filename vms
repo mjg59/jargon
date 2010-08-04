@@ -1,5 +1,9 @@
- VMS (vee em ess) n. DEC's proprietary operating system for their VAX
-minicomputer; one of the seven or so environments that looms largest in
-hacker folklore. Many UNIX fans generously concede that VMS would probably be
-the hacker's favorite commercial OS if UNIX didn't exist; though true, this
-makes VMS fans furious. see also TOPS-10, TOPS-20, UNIX.
+ VMS /vee em ess/ n. DEC's proprietary operating system for their VAX
+minicomputer; one of the seven or so environments that loom largest in hacker
+folklore. Many UNIX fans generously concede that VMS would probably be the
+hacker's favorite commercial OS if UNIX didn't exist; though true, this makes
+VMS fans furious. One major hacker gripe with it is its slowness, thus the
+following limerick: There once was a system called VMS Of cycles by no means
+abstemious. It's chock-full of hacks And runs on a VAX And makes my poor
+stomach all squeamious. ---The Great Quux see also VAX, TOPS-10, TOPS-20,
+UNIX.

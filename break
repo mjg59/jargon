@@ -1,4 +1,7 @@
  BREAK v. 1. To cause to be broken (in any sense). "Your latest patch to the
-system broke the TELNET server." 2. (of a program) To stop temporarily, so
-that it may be examined for debugging purposes. The place where it stops is a
-BREAKPOINT.
+editor broke the paragraph commands." 2. (of a program) To stop temporarily,
+so that it may be examined for debugging purposes. The place where it stops
+is a "breakpoint". 3. To send an RS-232 "break" (125 msec. of line high) over
+a serial comm line. 4. [UNIX] To strike whatever key currently causes the tty
+driver to send SIGINT to the current process. Normally "break" (sense 3) or
+delete does this.

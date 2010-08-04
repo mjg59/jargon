@@ -1,0 +1,2 @@
+ POD n. A diablo 630 (or, latterly, any impact letter quality printer). From
+the DEC-10 PODTYPE program used to feed formatted text to same.

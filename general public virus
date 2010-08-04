@@ -1,0 +1,9 @@
+ GENERAL PUBLIC VIRUS n. Pejorative name for some versions of the GNU project
+COPYLEFT (q.v.) or General Public License, which requires that any tools or
+apps incorporating copylefted code must be source-distributed on the same
+anti-commercial terms as GNU stuff. Thus it is alleged that the copyleft
+`infects' software generated with GNU tools. FSF's official position is that
+only code incorporating either the Bison parser skeleton or GNU CC libraries
+is so infected. Nevertheless, widespread suspicion that the COPYLEFT language
+is `boobytrapped' has caused many developers to avoid using GNU tools and the
+GPL license.

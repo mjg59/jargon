@@ -1,16 +1,16 @@
- BIGNUM (big'num) n. A multiple-precision computer representation for very
-large integers. More generally, any very large number. "Have you ever looked
-at the United States Budget? There's bignums for you!" When playing
-backgammon, large numbers on the dice, especially a roll of double fives or
-double sixes. Most computer languages provide a kind of data called
-"integer", but such computer integers are usually very limited in size;
-usually they must be smaller than 2 ^ 31 (2147483648) or (on losing BITTY
-BOXES) 2 ^ 16 (32767). If you want to work with numbers larger than that, you
-have to use floating-point numbers, which are usually only accurate to six or
-seven decimal places. Computer languages that provide bignums can perform
-exact calculations on very large numbers, such as 1000! (the factorial of
-1000, which is 1000 times 999 times 998 times ... times 2 times 1) exactly.
-For example, this value for 1000! was computed by the MACLISP system using
+ BIGNUM /big'num/ [orig. from MIT MACLISP; the name is said to derive from a
+pun on the FORTRAN REAL type] n. 1. A multiple-precision computer
+representation for very large integers. More generally, any very large
+number. "Have you ever looked at the United States Budget? There's bignums
+for you!" Most computer languages provide a kind of data called "integer",
+but such computer integers are usually very limited in size; usually they
+must be smaller than 2 ^ 31 (2147483648) or (on losing BITTY BOXES) 2 ^ 15
+(32767). If you want to work with numbers larger than that, you have to use
+floating-point numbers, which are usually only accurate to six or seven
+decimal places. Computer languages that provide bignums can perform exact
+calculations on very large numbers, such as 1000! (the factorial of 1000,
+which is 1000 times 999 times 998 times ... times 2 times 1) exactly. For
+example, this value for 1000! was computed by the MACLISP system using
 bignums: 4023872600770937735437024339230039857193748642107146325437999104
 2993851239862902059204420848696940480047998861019719605863166687
 2994808558901323829669944590997424504087073759918823627727188732
@@ -50,6 +50,6 @@ bignums: 4023872600770937735437024339230039857193748642107146325437999104
 4109700277534720000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000000000000000000
-0000000000000000000000000000000000000000000000000000000000000000 00000000.
-The MACLISP language was not the first computer system to calculate very
-large integers, but it was @c[MACLISP] that provided the name "bignum".]
+0000000000000000000000000000000000000000000000000000000000000000 00000000. 2.
+BIGNUMS [from Macsyma] n. In backgammon, large numbers on the dice,
+especially a roll of double fives or double sixes. see also EL CAMINO BIGNUM.

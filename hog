@@ -1,6 +1,8 @@
- HOG n.,v. Favored term to describe programs which seem to eat far more than
-their share of a system's resources, esp. those which noticeably degrade
-general timesharing response. *Not* used of programs which are simply
-extremely large or complex or which are merely painfully slow themselves (see
-PIG, RUN LIKE A). More often than not encountered in qualified forms, e.g.
-MEMORY HOG, CORE HOG, HOG THE PROCESSOR, HOG THE DISK.
+ HOG n.,v. Favored term to describe programs or hardware which seem to eat
+far more than their share of a system's resources, esp. those which
+noticeably degrade general timesharing response. *Not* used of programs which
+are simply extremely large or complex or which are merely painfully slow
+themselves (see PIG, RUN LIKE A). More often than not encountered in
+qualified forms, e.g. "memory hog", "core hog", "hog the processor", "hog the
+disk". Example: "A controller that never gives up the I/O bus gets killed
+after the bus hog timer expires."

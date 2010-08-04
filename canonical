@@ -1,9 +1,16 @@
- CANONICAL adj. The usual or standard state or manner of something. This
-usage is actually not confined to hackers, and may be found throughout
-academia. A true story: One Bob Sjoberg, new at the MIT AI Lab, expressed
-some annoyance at the use of jargon. Over his loud objections, we made a
-point of using jargon as much as possible in his presence, and eventually it
-began to sink in. Finally, in one conversation, he used the word "canonical"
-in jargon-like fashion without thinking. Steele: "Aha! We've finally got you
-talking jargon too!" Stallman: "What did he say?" Steele: "He just used
-`canonical' in the canonical way."
+ CANONICAL adj. The usual or standard state or manner of something. This word
+has a somewhat more technical meaning in mathematics. For example, one
+sometimes speaks of a formula as being in canonical form. Two formulas such
+as "9 + x" and "x + 9" are said to be equivalent because they mean the same
+thing, but the second one is in canonical form because it is written in the
+usual way, with the highest power of x first. Usually there are fixed rules
+you can use to decide whether something is in canonical form. The slang
+meaning is a relaxation of the technical meaning (this generalization is
+actually not confined to hackers, and may be found throughout academia). A
+true story: One Bob Sjoberg, new at the MIT AI Lab, expressed some annoyance
+at the use of jargon. Over his loud objections, we made a point of using
+jargon as much as possible in his presence, and eventually it began to sink
+in. Finally, in one conversation, he used the word "canonical" in jargon-like
+fashion without thinking. Steele: "Aha! We've finally got you talking jargon
+too!" Stallman: "What did he say?" Steele: "Bob just used `canonical' in the
+canonical way."

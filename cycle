@@ -1,0 +1,14 @@
+ CYCLE n. The "basic unit of computation". What every hacker wants more of.
+One might think that single machine instructions would be the measure of
+computation, and indeed computers are often compared by how many instructions
+they can process per second, but some instructions take longer than others.
+Nearly all computers have an internal clock, though, and you can describe an
+instruction as taking so many "clock cycles". Frequently the computer can
+access its memory once on every clock cycle, and so one speaks also of
+"memory cycles". These are technical meanings of "cycle". The slang meaning
+comes from the observation that there are only so many cycles per second, and
+when you are sharing a computer, the cycles get divided up among the users.
+The more cycles the computer spends working on your program rather than
+someone else's, the faster your program will run. That's why every hacker
+wants more cycles: so he can spend less time waiting for the computer to
+respond.

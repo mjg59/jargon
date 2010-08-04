@@ -1,0 +1,14 @@
+ OUTPUT SPY n. On the ITS system there was a program that allowed you to see
+what is being printed on someone else's terminal. It works by "spying" on the
+other guy's output, by examining the insides of the monitor system. It could
+do this because the MIT system purposely had very little in the way of
+"protection" that prevents one user from interfering with another. Fair is
+fair, however. There was another program that would automatically notify you
+if anyone starts to spy on your output. It worked in exactly the same way, by
+looking at the insides of the operating system to see if anyone else was
+looking at the insides that have to do with your output. This "counterspy"
+program was called JEDGAR (pronounced as two syllables: /jed'gr/), in honor
+of the former head of the FBI. By the way, the output spy program is called
+OS. Throughout the rest of computer science, and also at IBM, OS means
+"operating system", but among old-time ITS hackers it almost always meant
+"output spy".

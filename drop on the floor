@@ -1,3 +1,4 @@
- DROP ON THE FLOOR vt. To discard silently. Example: "The gateway ran out of
-memory, so it just started dropping packets on the floor." Also frequently
-used of faulty mail and netnews relay sites that lose messages.
+ DROP ON THE FLOOR vt. To react to an error condition by silent discarding
+messages or other valuable data. Example: "The gateway ran out of memory, so
+it just started dropping packets on the floor." Also frequently used of
+faulty mail and netnews relay sites that lose messages. see also BLACK HOLE.

@@ -1,9 +1,10 @@
- PDP-10 [Programmable Digital Processor model 10] n. The machine that made
+ PDP-10 [Programmable Data Processor model 10] n. The machine that made
 timesharing real. Looms large in hacker folklore due to early adoption in the
 mid-70s by many university computing facilities and research labs including
 the MIT AI lab, Stanford and CMU. Some aspects of the instruction set (most
-notably the bit-field instructions) are still considered unsurpassed. The '10
-was eventually eclipsed by the PDP-11 and VAX machines and dropped from DEC's
-line in the early '80s, and in 1990 to have cut one's teeth on one is
-considered something of a badge of honorable old-timerhood among hackers. see
-TOPS-10, ITS, Appendix B.
+notably the bit-field instructions) are still considered unsurpassed. Later
+editions were labelled `DECsystem-10' as a way of differentiating them from
+the PDP-11. The '10 was eventually eclipsed by the PDP-11 and VAX machines
+and dropped from DEC's line in the early '80s, and in 1990 to have cut one's
+teeth on one is considered something of a badge of honorable old-timerhood
+among hackers. see TOPS-10, ITS, Appendix B.

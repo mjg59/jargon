@@ -1,3 +1,10 @@
- BIT [from the unit of information] n. A mental flag: a reminder that
-something should be done eventually. Example: "I have a bit set for you." (I
-haven't seen you for a while, and I'm supposed to tell or ask you something.)
+ BIT [from the unit of information] n. 1. The unit of information; the amount
+of information obtained by asking a yes-or-no question (this is straight
+technicalese). 2. A computational quantity that can take on one of two
+values, such as true and false, or zero and one. 3. A mental flag: a reminder
+that something should be done eventually. Example: "I have a bit set for
+you." (I haven't seen you for a while, and I'm supposed to tell or ask you
+something.) A bit is said to be "set" if its value is true or one, and
+"reset" or "clear" if its value is false or zero. One speaks of setting and
+clearing bits. To "toggle" or "invert" a bit is to change it, either from
+zero to one or from one to zero.

@@ -1,3 +1,4 @@
  ZOMBIE [UNIX] n. A process which has been killed but has not yet
-relinquished its process table slot. These show up in ps(1) listings
-occasionally.
+relinquished its process table slot (because the parent process hasn't
+executed a wait(2) for it yet). These show up in ps(1) listings occasionally.
+Compare ORPHAN.

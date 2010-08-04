@@ -1,0 +1,7 @@
+ DREAD HIGH BIT DISEASE n. A condition endemic to PRIME (formerly PR1ME)
+minicomputers which results in all the characters having their high (\200)
+bit ON rather than OFF. This of course makes transporting files to other
+systems much more difficult, not to mention talking to true eightbit devices.
+It is reported that PRIME adopted the reversed eight bit convention in order
+to save 25 cents/serial line/machine. This probably qualifies as one of the
+most CRETINOUS design tradeoffs ever made. see META BIT.

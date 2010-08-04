@@ -1,3 +1,3 @@
  FUZZ n. In floating-point arithmetic, the maximum difference allowed between
 two quantities for them to compare equal. Has to be set properly relative to
-the FPU's precision limits.
+the FPU's precision limits. see FUDGE FACTOR.

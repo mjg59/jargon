@@ -1,0 +1,14 @@
+ DELTA n. 1. A change, especially a small or incremental change. Example: "I
+just doubled the speed of my program!" "What was the delta on program size?"
+"About thirty percent." (He doubled the speed of his program, but increased
+its size by only thirty percent.) 2. [UNIX] A DIFF (q.v.), especially a DIFF
+stored under the set of version-control tools called SCCS (Source Code
+Control System). 3. n. A small quantity, but not as small as EPSILON. The
+slang usage of DELTA and EPSILON stems from the traditional use of these
+letters in mathematics for very small numerical quantities, particularly in
+so-called "epsilon-delta" proofs in the differential calculus. DELTA is often
+used once EPSILON has been mentioned to mean a quantity that is slightly
+bigger than EPSILON but still very small. For example, "The cost isn't
+epsilon, but it's delta" means that the cost isn't totally negligible, but it
+is nevertheless very small. Compare WITHIN DELTA OF, WITHIN EPSILON OF: that
+is, close to and even closer to.

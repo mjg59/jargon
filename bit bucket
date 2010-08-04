@@ -1,3 +1,7 @@
- BIT BUCKET n. The great data sink in the sky. Data that is discarded is said
-to "go to the bit bucket". On UNIX, often used for /DEV/NULL (q.v.).
-Sometimes amplified as THE GREAT BIT BUCKET IN THE SKY.
+ BIT BUCKET n. The great data sink in the sky (originally, the mythical
+receptacle used to catch bits when they fall off the end of a register during
+a shift instruction). Data that is discarded, lost, or destroyed is said to
+"go to the bit bucket". On UNIX, often used for /DEV/NULL (q.v.). Sometimes
+amplified as "the Great Bit Bucket in the Sky". This term is used purely in
+jest. It's based on the fanciful notion that bits are objects that are not
+destroyed, but only misplaced. see also NULL DEVICE.

@@ -1,4 +1,4 @@
- MACRO (mak'ro) n. A name (possibly followed by a formal ARG list) which is
+ MACRO /mak'ro/ n. A name (possibly followed by a formal ARG list) which is
 equated to a text expression to which it is to be expanded (possibly with
 substitution of actual arguments) by a language translator. This definition
 can be found in any technical dictionary; what those won't tell you is how
@@ -10,7 +10,9 @@ HLLs, only to fall from favor as improving compiler technology marginalized
 assembler programming (see LANGUAGES OF CHOICE). Nowadays the term is most
 often used in connection with the C preprocessor, LISP, or one of several
 special-purpose languages built around a macro-expansion facility (such as
-TEX or UNIX's nroff, troff and pic suite). Indeed, the meaning has drifted
+TeX or UNIX's nroff, troff and pic suite). Indeed, the meaning has drifted
 enough that the collective `macros' is now sometimes used for code in any
-special-purpose application-control language, whether or not the language is
-actually translated by text expansion.
+special-purpose application-control language (whether or not the language is
+actually translated by text expansion) as well as other "expansions" such as
+the "keyboard macros" supported in some text editors (and PC TSR keyboard
+enhancers).

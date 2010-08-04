@@ -1,7 +1,7 @@
- ONE-LINER WARS n. Popular game among hackers who code in the language APL.
-The objective is to see who can code the most interesting and/or useful
-routine in one line of operators chosen from APL's exceedingly HAIRY
-primitive set. [This is not *quite* as silly as it sounds; I myself have
-coded one-line LIFE programs and once uttered a one-liner that performed
-lexical analysis of its input string followed by a dictionary lookup for good
-measure -- ESR]
+ ONE-LINER WARS n. Popular game among hackers who code in the language APL
+(see WRITE-ONLY LANGUAGE). The objective is to see who can code the most
+interesting and/or useful routine in one line of operators chosen from APL's
+exceedingly HAIRY primitive set. [This is not *quite* as silly as it sounds;
+I myself have coded one-line LIFE (q.v.) programs and once uttered a
+one-liner that performed lexical analysis of its input string followed by a
+dictionary lookup for good measure --- ESR]

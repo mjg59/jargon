@@ -1,2 +1,10 @@
- SOS 1. (ess-oh-ess) n. A losing editor, SON OF STOPGAP. 2. (sahss) v.
-Inverse of AOS, from the PDP-10 instruction set.
+ SOS n. 1. /sahss/ Inverse of AOS, from the PDP-10 instruction set. 2.
+/ess-oh-ess/ An infamously LOSING text editor. Once, back in the 1960's, when
+a text editor was needed for the PDP-6, a hacker CRUFTED TOGETHER a
+quick-and-dirty "stopgap editor" to be used until a better one was written.
+Unfortunately, the old one was never really discarded when new ones (in
+particular, TECO) came along. SOS is a descendant of that editor; SOS means
+"Son of Stopgap", and many PDP-10 users gained the dubious pleasure of its
+axquaintance. [Since then other programs similar in style to SOS have been
+written, notably BILOS (bye'lohss) the Brother-In-Law Of Stopgap.] see also
+TECO.

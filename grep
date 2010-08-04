@@ -1,4 +1,5 @@
- GREP (grep) [from the UNIX grep tool] v. To rapidly scan a file or file set
-looking for a particular string or pattern. By extension, to look for
+ GREP /grep/ [from the qed/ed editor idiom g/re/p (Global search for Regular
+Expression and Print) via UNIX grep(1)] vt. To rapidly scan a file or file
+set looking for a particular string or pattern. By extension, to look for
 something by pattern. "Grep the bulletin board for the system backup
 schedule, would you?"

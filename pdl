@@ -1,7 +1,13 @@
- PDL (pid'l or pud'l) [acronym for Push Down List] n. 1. A LIFO queue
-(stack); more loosely, any priority queue; even more loosely, any queue. A
+ PDL /pid'l/ or /pud'l/ [acronym for Push Down List] n. 1. A LIFO queue or
+stack; more loosely, any priority queue; even more loosely, any queue. A
 person's pdl is the set of things he has to do in the future. One speaks of
 the next project to be attacked as having risen to the top of the pdl. "I'm
 afraid I've got real work to do, so this'll have to be pushed way down on my
-pdl." All these usages are also frequently found with STACK (q.v) itself as
-the subject noun. see PUSH and POP. 2. Dave Lebling (PDL@DM).
+pdl." "I haven't done it yet because every time I pop my pdl something new
+gets pushed." If you are interrupted several times in the middle of a
+conversation, "my pdl overflowed" means "I forget what we were talking about"
+(the implication is that too many items were pushed onto the pdl than could
+be remembered, and so the least recent items were lost). All these usages are
+also frequently found with STACK (q.v) itself as the subject noun. see PUSH
+and POP. 2. Dave Lebling, one of the coauthors of ZORK (q.v.); (his NETWORK
+ADDRESS on the ITS machines was at one time pdl@dms).

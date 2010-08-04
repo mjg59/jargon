@@ -6,4 +6,4 @@ scribbles beyond the end of arrays allocated with malloc(3); this typically
 trashes the allocation header for the next block in the ARENA, producing
 massive lossage within malloc and (frequently) a core dump on the next
 operation to use stdio or malloc(3) itself. see also MEMORY LEAK, ALIASING
-BUG, PRECEDENCE LOSSAGE, FANDANGO ON CORE. = P =
+BUG, PRECEDENCE LOSSAGE, FANDANGO ON CORE. {= P =}

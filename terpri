@@ -1,2 +1,3 @@
- TERPRI (ter'pree) [from the LISP 1.5 (and later, MacLISP) function to start
-a new line of output] v. To output a CRLF (q.v.).
+ TERPRI /ter'pree/ [from the LISP 1.5 (and later, MacLISP) function to start
+a new line of output] v. To output a CRLF (q.v.). Now rare. It is a
+contraction of "TERminate PRInt line".

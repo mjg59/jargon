@@ -1,5 +1,5 @@
  MEMORY LEAK [C/UNIX programmers] n. An error in a program's dynamic-store
 allocation logic that causes it to fail to reclaim discarded memory, leading
 to attempted hogging of main store and eventual collapse due to memory
-exhaustion. Also (esp. at CMU) called CORE LEAK. see ALIASING BUG, FANDANGO
-ON CORE, SMASH THE STACK, PRECEDENCE LOSSAGE, OVERRUN SCREW.
+exhaustion. Also (esp. at CMU) called CORE LEAK, LEAKY HEAP. see ALIASING
+BUG, FANDANGO ON CORE, SMASH THE STACK, PRECEDENCE LOSSAGE, OVERRUN SCREW.

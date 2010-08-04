@@ -1,4 +1,5 @@
  HYPERSPACE (hie'per-spays) n. A memory location within a virtual memory
 machine that is many, many megabytes (or gigabytes) away from where the
-program counter should be pointing. "Another core dump...looks like the
-program jumped off to hyperspace somehow." = I =
+program counter should be pointing, usually inaccessible because it is not
+even mapped in. "Another core dump... looks like the program jumped off to
+hyperspace somehow." {= I =}

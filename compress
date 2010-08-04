@@ -1,4 +1,4 @@
- COMPRESS [UNIX] v. When used without a qualifier, generally refers to
+ COMPRESS [UNIX] vt. When used without a qualifier, generally refers to
 CRUNCHing of a file using a particular C implementation of Lempel-Ziv
 compression by James A. Woods et al and widely circulated via USENET. Use of
 CRUNCH (q.v.) itself in this sense is rare among UNIX hackers.

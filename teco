@@ -1,19 +1,31 @@
- TECO (tee'koh) [acronym for Text Editor and COrrector] 1. n. A text editor
-developed at MIT, and modified by just about everybody. If all the dialects
-are included, TECO might well be the single most prolific editor in use.
-Noted for its powerful pseudo-programming features and its incredibly hairy
-syntax. 2. v. obs. To edit using the TECO editor in one of its infinite
-forms; sometimes used to mean "to edit" even when not using TECO! Usage: rare
-at SAIL, where most people wouldn't touch TECO with a TENEX pole. [Historical
-note, c. 1982: DEC grabbed an ancient version of MIT TECO many years ago when
-it was still a TTY-oriented editor. By now, TECO at MIT is highly
+ TECO /tee'koh/ [acronym for Tape (later, Text) Editor and COrrector] n. 1. A
+text editor developed at MIT, and modified by just about everybody. If all
+the dialects are included, TECO might have been the single most prolific
+editor in use before EMACS (q.v.) to which it was directly ancestral. Noted
+for its powerful programming-language-like features and its incredibly hairy
+syntax. It is literally the case that every possible sequence of ASCII
+characters is a valid, though probably uninteresting, TECO program; one
+common hacker game used to be mentally working out what the teco commands
+corresponding to human names did. As an example, here is a TECO program that
+takes a list of names like this: Loser, J. Random Quux, The Great Dick, Moby
+sorts them alphabetically according to last name, and then puts the last name
+last, removing the comma, to produce this: Moby Dick J. Random Loser The
+Great Quux The program is: [1 J ^P $ L $ $ J <.-Z; .,(S,$ -D .)FX1 @F^B $K :L
+I $ G1 L>$$ In fact, this very program was used to produce the second, sorted
+list from the first list! The first time I tried the program it had a BUG: I
+had accidentally omitted the "@" in front of "F^B", which as anyone can see
+is clearly the wrong thing. It worked fine the second time. There is no space
+to describe all the features of TECO, but I will note that "^P" means "sort"
+and "J <.-Z; ... L>" is an idiomatic series of commands for "do once for
+every line". Historical data from MRC: DEC grabbed an ancient version of MIT
+TECO many years ago when it was still a TTY-oriented editor (that is, didn't
+make use of display screens). By then, TECO at MIT had become a highly
 display-oriented and is actually a language for writing editors, rather than
-an editor. Meanwhile, the outside world's various versions of TECO remain
+an editor. Meanwhile, the outside world's various versions of TECO remained
 almost the same as the MIT version of the early 1970s. DEC recently tried to
-discourage its use, but an underground movement of sorts kept it alive. --
-GLS] [Since this note was written I found out that DEC tried to force their
-hackers by administrative decision to use a hacked up and generally
-lobotomized version of SOS instead of TECO, and they revolted. -- MRC] [1990
-update: TECO is now pretty much one with the dust of history, having been
-replaced (both functionally and psychologically) almost everywhere by GNU
-EMACS -- ESR]
+discourage its use, but an underground movement of sorts kept it alive. DEC
+later tried to force their hackers by administrative decision to use a hacked
+up and generally lobotomized version of SOS instead of TECO, and they
+revolted. 1990 update: TECO is now pretty much one with the dust of history,
+having been replaced (both functionally and psychologically) almost
+everywhere by GNU EMACS -- ESR.

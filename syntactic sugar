@@ -2,6 +2,6 @@
 `sweeter' for humans, that do not affect the expressiveness of the formalism
 (compare CHROME). Used esp. when there is an obvious and trivial translation
 of the `sugar' feature into other constructs already present in the notation.
-Example: the \n, \t, \r, and \b escapes in C strings, which could be
-expressed as octal escapes. Coined by Peter Landin. "Syntactic sugar causes
-cancer of the semicolon." - Alan Perlis.
+Example: C's "a[i]" notation in syntactic sugar for "*(a + i)". Coined by
+Peter Landin. "Syntactic sugar causes cancer of the semicolon." - Alan
+Perlis.

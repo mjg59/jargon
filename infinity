@@ -1,0 +1,5 @@
+ INFINITY n. 1. The largest value that can be represented in a particular
+type of variable (register, memory location, data type, whatever). 2. MINUS
+INFINITY The smallest such value. Note that this is different from TIME T
+EQUALS MINUS INFINITY, which is closer to a mathematician's usage of
+infinity.

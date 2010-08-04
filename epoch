@@ -1,1 +1,7 @@
- EPOCH, THE [UNIX] n. Syn. for ERA.
+ EPOCH, THE [UNIX] n. The time and date corresponding to zero in an operating
+system's clock and timestamp values. Under most UNIX versions, 00:00 of
+January 1st 1970 GMT. System time is measured in seconds or TICKS past the
+era. Syn. with EPOCH. see TICKS, WALL TIME. Note that weird problems may
+ensue when the clock wraps around, and that this is actually not a rare
+event; on systems counting 10 TICKS per second, a 32 bit count of ticks is
+only good for 6.8 years.

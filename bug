@@ -1,3 +1,24 @@
- BUG [from telephone terminology, "bugs in a telephone cable", blamed for
-noisy lines] n. An unwanted and unintended property of a program, esp. one
-which causes it to malfunction. see FEATURE.
+ BUG n. An unwanted and unintended property of a program or hardware, esp.
+one which causes it to malfunction. Antonym of FEATURE. Examples: "There's a
+bug in the editor: it writes things out backwards." "The system CRASHED
+because of a hardware bug." "Fred is a winner, but he has a few bugs." (e.g.
+Fred is a good guy, but he has a few personality problems.) Some have said
+this term came from telephone company usage: "bugs in a telephone cable" were
+blamed for noisy lines, but this appears to be a `folk etymology'. Admiral
+Grace Hopper (an early computing pioneer better known for inventing COBOL)
+liked to tell a story in which a technician solved a persistent glitch in the
+Harvard Mark II machine by pulling an actual physical bug out between the
+contacts of one of its relays, and she subsequently promulgated BUG in its
+hackish sense as a joke about the incident (though, as she was careful to
+admit, she was not there when it happened). For many years the logbook
+associated with the incident and the actual bug in question (a moth) sat in a
+display case at the Naval Surface Warfare Center, and now resides in the
+Smithsonian. Interestingly, the text of the log entry, which is said to read
+"First example of a real computer `bug"' establishes that the term was
+already in use at the time; and a similar incident is alleged to have
+occurred on the original ENIAC machine. Indeed, the use of "bug" to mean an
+industrial defect was already established in Thomas Edison's time, and "bug"
+in the sense of an annoyance goes back to Shakespeare! In any case, in
+hacker's slang the word almost never refers to insects. Here is a plausible
+conversation that never actually happened: "This ant-farm has a bug." "What
+do you mean? There aren't even any ants in it." "That's the bug."

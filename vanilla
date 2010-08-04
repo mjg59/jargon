@@ -3,4 +3,11 @@ often does not mean that the food is flavored with vanilla extract! For
 example, "vanilla-flavored wonton soup" (or simply "vanilla wonton soup")
 means ordinary wonton soup, as opposed to hot and sour wonton soup. Applied
 to hardware and software. As in "Vanilla Version 7 UNIX can't run on a
-vanilla 11/34".
+vanilla 11/34". Also used to orthogonalize TTL nomenclature; for instance a
+74V00 is what TI calls a 7400, as distinct from a 74LS00, etc. This word
+differs from [CANONICAL in that the latter means "the thing you always use
+(or the way you always do it) unless you have some strong reason to do
+otherwise", whereas VANILLA simply means "ordinary". For example, when
+hackers go on a GREAT WALL (q.v.), hot-and-sour wonton soup is the CANONICAL
+wonton soup to get (because that is what most of them usually order) even
+though it isn't the VANILLA wonton soup.

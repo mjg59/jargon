@@ -1,6 +1,6 @@
  GET A REAL COMPUTER imp. Typical hacker response to news that somebody is
 having trouble getting work done on a system that is a) single-tasking, b)
-has no Winchester, or c) has less than 4 megabytes of DRAM. This is as of
-1990; note that the threshold for `real computer' rises with time, and it may
-well be (for example) that machines with character-only displays will be
-considered `unreal' in a few years. see BITTY BOX and TOY.
+has no Winchester, or c) has an address space smaller than 4 megabytes. This
+is as of 1990; note that the threshold for `real computer' rises with time,
+and it may well be (for example) that machines with character-only displays
+will be considered `unreal' in a few years. see BITTY BOX and TOY.

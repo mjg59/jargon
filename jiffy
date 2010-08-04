@@ -1,3 +1,9 @@
- JIFFY n. 1. Interval of CPU time, commonly 1/60 second or 1 millisecond (see
-TICK). 2. Indeterminate time from a few seconds to forever. "I'll do it in a
-jiffy" means certainly not now and possibly never.
+ JIFFY n. 1. The width of one tick of the system clock on the computer (see
+TICK). Often 1 AC cycle time (1/60 second in the U.S. and 1/50 elsewhere) but
+more recently 1/100 sec has become common. 2. Confusingly, the term is
+sometimes also used for a 1-millisecond WALL TIME interval. "The swapper runs
+every six jiffies" means that the virtual memory management routine is
+executed once for every six ticks of the clock, or about ten times a second.
+3. Indeterminate time from a few seconds to forever. "I'll do it in a jiffy"
+means certainly not now and possibly never. This is a bit contrary to the
+more widespread use of the word.

@@ -1,11 +1,13 @@
- GLOB [UNIX, from "glob", the name of a subprogram that translated wildcards
-in archaic Bourne Shell versions] n.,v. The UNIX conventions for filename
-wildcarding have become sufficiently pervasive that many hackers use some of
-them in written English, especially in email or news on technical topics.
-Those commonly encountered include: * wildcard for any string (see UN*X,
-U*IX). ? wildcard for any character (generally only read this way in the
-middle of a word. [] set-of-characters braces. Some examples: "He said his
-name was [KC]arl" (expresses ambiguity). "That got posted to talk.politics.*"
-(all the talk.politics subgroups on USENET). Other examples are given under
-the entry for `X'. GLOB as a noun refers to the act of expanding a string
-using these conventions. It is also used as a verb.
+ GLOB /glob/, *not* /glohb/ [UNIX, from "glob", the name of a subprogram that
+translated wildcards in archaic Bourne Shell versions] v. To expand special
+characters in a wildcarded name (the action is "globbing"). The UNIX
+conventions for filename wildcarding have become sufficiently pervasive that
+many hackers use some of them in written English, especially in email or news
+on technical topics. Those commonly encountered include: * wildcard for any
+string (see UN*X, U*IX). ? wildcard for any character (generally only read
+this way at the beginning or in the middle of a word). [] wildcard matching
+one character from a specified set. Some examples: "He said his name was
+[KC]arl" (expresses ambiguity). "That got posted to talk.politics.*" (all the
+talk.politics subgroups on USENET). Other examples are given under the entry
+for `X'. GLOB as a noun refers to the act of expanding a string using these
+conventions. It is also used as a verb.

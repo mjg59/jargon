@@ -1,8 +1,13 @@
- MISFEATURE (mis-fee'chr) n. A feature which eventually screws someone,
+ MISFEATURE /mis-fee'chr/ n. A feature which eventually screws someone,
 possibly because it is not adequate for a new situation which has evolved. It
 is not the same as a bug because fixing it involves a gross philosophical
-change to the structure of the system involved. Often a former feature
-becomes a misfeature because a tradeoff was made whose parameters
-subsequently changed (possibly only in the judgment of the implementors).
-"Well, yeah, it's kind of a misfeature that file names are limited to six
-characters, but we're stuck with it for now."
+change to the structure of the system involved. A misfeature is different
+from a simple unforeseen side effect; the term implies that the misfeature
+was actually carefully planned to be that way, but future consequences or
+circumstances just weren't predicted accurately. This is different from just
+not having thought ahead about it at all. Often a former feature becomes a
+misfeature because a tradeoff was made whose parameters subsequently changed
+(possibly only in the judgment of the implementors). "Well, yeah, it's kind
+of a misfeature that file names are limited to six characters, but the
+original implementors wanted to save directory space and we're stuck with it
+for now."

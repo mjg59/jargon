@@ -1,4 +1,4 @@
- BNF (bee-en-ef) n. Hacker acronym for `Backus-Naur Form', a metasyntactic
+ BNF /bee-en-ef/ n. Hacker acronym for `Backus-Naur Form', a metasyntactic
 notation used to specify the syntax of programming languages, command sets
 and the like. Widely used for language descriptions but seldom documented
 anywhere, so that it must usually be learned by osmosis from other hackers.
@@ -16,4 +16,6 @@ followed by a street name. A zip-part consts of a town-name, followed by a
 state code, followed by a zip code. Note that many things such as the format
 of a first-name, apartment specifier or zip-code are left unspecified. These
 are presumed to be obvious from context or detailed in another part of the
-specification the BNF is part of.
+specification the BNF is part of. see also PARSE. It is worth noting that the
+term BNF is also used loosely for extensions of this notation containing some
+or all of the GLOB wildcards.

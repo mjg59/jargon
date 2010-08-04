@@ -1,4 +1,11 @@
- SMOP (smop) [Simple (or Small) Matter of Programming] n. A piece of code,
+ SMOP /smop/ [Simple (or Small) Matter of Programming] n. 1. A piece of code,
 not yet written, whose anticipated length is significantly greater than its
 complexity. Usage: used to refer to a program that could obviously be
-written, but is not worth the trouble.
+written, but is not worth the trouble. It is also used ironically to imply
+that a difficult problem can be easily solved because a program can be
+written to do it; the irony is that it is very clear that writing such a
+program will be a great deal of work. Example: "It's easy to change a FORTRAN
+compiler to compile COBOL as well; it's just a Small Matter of Programming."
+2. Often used ironically by the intended victim when a suggestion for a
+program is made which seems easy to the suggester, but is obviously a lot of
+work to the programmer.

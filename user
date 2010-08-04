@@ -1,9 +1,20 @@
- USER n. A programmer who will believe anything you tell him. One who asks
-annoying questions. Identified at MIT with "loser" by the spelling "luser".
-see REAL USER. [Note by GLS: I don't agree with RF's definition at all.
-Basically, there are two classes of people who work with a program: there are
+ USER n. 1. Someone doing "real work" with the computer, who uses a computer
+as a means rather than an end. Someone who pays to use a computer. see REAL
+USER. 2. A programmer who will believe anything you tell him. One who asks
+silly questions. (This is slightly unfair. It is true that users ask
+questions (of necessity). Sometimes they are thoughtful or deep. Very often
+they are annoying or downright stupid, apparently because the user failed to
+think for two seconds or look in the documentation before bothering the
+maintainer.) see LUSER. 3. Someone who uses a program from the outside,
+however skillfully, without getting into the internals of the program. One
+who reports bugs instead of just going ahead and fixing them. Basically,
+there are two classes of people who work with a program: there are
 implementors (hackers) and users (losers). The users are looked down on by
 hackers to a mild degree because they don't understand the full ramifications
-of the system in all its glory. (A few users who do are known as real
-winners.) It is true that users ask questions (of necessity). Very often they
-are annoying or downright stupid.]
+of the system in all its glory. (The few users who do are known as REAL
+WINNERS.) The term is a relative one: a consummate hacker may be a user with
+respect to some program he himself does not hack. A LISP hacker might be one
+who maintains LISP or one who uses LISP (but with the skill of a hacker). A
+LISP user is one who uses LISP, whether skillfully or not. Thus there is some
+overlap between the two terms; the subtle distinctions must be resolved by
+context.

@@ -1,6 +1,6 @@
- FINGER [BSD UNIX] 1. n. A program that displays a particular user or all
-users logged on the system or a remote system. Typically shows full name,
-last login time, idle time, terminal line and terminal location. May also
-display a "plan file" left by the user. 2. v. To apply finger to a username.
-3. v. By extension, to check a human's current state by any means. "Foodp?"
-"T!" "OK, finger Lisa and see if she's idle".
+ FINGER [SAIL's ITS, via BSD UNIX] 1. n. A program that displays a particular
+user or all users logged on the system or a remote system. Typically shows
+full name, last login time, idle time, terminal line and terminal location.
+May also display a "plan file" left by the user. 2. vt. To apply finger to a
+username. 3. v. By extension, to check a human's current state by any means.
+"Foodp?" "T!" "OK, finger Lisa and see if she's idle".

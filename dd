@@ -1,3 +1,10 @@
- DD (dee-dee) [from archaic UNIX dd(1)] v. Equivalent to CAT or BLT. Very
-rare outside UNIX sites and now nearly obsolescent even there, as dd(1) has
-been DEPRECATED for a long time. Replaced by BLT or simple English `copy'.
+ DD /dee-dee/ [from IBM JCL via archaic UNIX dd(1)] vt. Equivalent to CAT or
+BLT. A specialized UNIX copy command for block-oriented devices. Often used
+in heavy-handed system abuse, as in "Let's dd the root partition onto a tape,
+then use the boot prom to load it back on to a new disk". The UNIX dd(1) was
+originally written with a weird, distinctly non-UNIXy keyword option syntax
+reminiscent of IBM System/360 JCL (which had a similar DD command); though
+the command filled a need the design choice looks to have been somebody's
+joke. The slang usage is now very rare outside UNIX sites and now nearly
+obsolescent even there, as dd(1) has been DEPRECATED for a long time (though
+it has no replacement). Replaced by BLT or simple English `copy'.

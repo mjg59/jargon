@@ -1,0 +1,4 @@
+ UUCPNET n. The store-and-forward network consisting of all the world's UNIX
+machines (and others running some clone of the UUCP (Unix-to-Unix Copy
+Program) software). Any machine reachable via a BANG PATH is on UUCPNET. see
+NETWORK ADDRESS. {= V =}

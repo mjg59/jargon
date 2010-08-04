@@ -1,4 +1,4 @@
- PHANTOM (fan'tm) [Stanford] n. The SAIL equivalent of a DRAGON (q.v.).
-Typical phantoms include the accounting program, the news-wire monitor, and
-the lpt and xgp spoolers. UNIX and most other environments call this sort of
+ PHANTOM /fan'tm/ [Stanford] n. The SAIL equivalent of a DRAGON (q.v.).
+Typical phantoms included the accounting program, the news-wire monitor, and
+the LPT and XGP spoolers. UNIX and most other environments call this sort of
 program a background DEMON or DAEMON.

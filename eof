@@ -1,4 +1,4 @@
- EOF (ee-oh-ef) [UNIX/C] n. End Of File. 1. Refers esp. to whatever
+ EOF /ee-oh-ef/ [UNIX/C] n. End Of File. 1. Refers esp. to whatever
 pseudo-character value is returned by C's sequential input functions (and
 their equivalents in other environments) when the logical end of file has
 been reached (this was 0 under V6 UNIX, is -1 under V7 and all subsequent

@@ -1,4 +1,9 @@
- BUZZ v. 1. To run in a very tight loop, perhaps without guarantee of getting
-out. see SPIN. 2. [ETA Systems] To test a wire or PCB trace for continuity by
-applying an AC signal as opposed to applying a DC signal. Some wire faults
-will pass DC tests but fail a BUZZ test.
+ BUZZ vi. 1. Of a program, to run with no indication of progress and perhaps
+without guarantee of ever finishing; esp. said of programs thought to be
+executing tight loops of code. The state of a buzzing program resembles
+CATATONIA, but you never get out of catatonia, while a buzzing loop may
+eventually end of its own accord. Example: "The program buzzes for about ten
+seconds trying to sort all the names into order." see SPIN. 2. [ETA Systems]
+To test a wire or PCB trace for continuity by applying an AC signal as
+opposed to applying a DC signal. Some wire faults will pass DC tests but fail
+a BUZZ test.

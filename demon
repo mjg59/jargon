@@ -1,5 +1,5 @@
  DEMON n. 1. [MIT] A portion of a program which is not invoked explicitly,
-but which lays dormant waiting for some condition(s) to occur. see DAEMON.
+but which lies dormant waiting for some condition(s) to occur. see DAEMON.
 The distinction is that demons are usually processes within a program, while
 daemons are usually programs running on an operating system. Demons are
 particularly common in AI programs. For example, a knowledge manipulation

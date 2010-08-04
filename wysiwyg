@@ -1,0 +1,8 @@
+ WYSIWYG /wiz'ee-wig/ adj. User interface (usu. text or graphics editor)
+characterized as being "what you see is what you get;" as opposed to one
+which uses more-or-less obscure commands which do not result in immediate
+visual feedback. The term can be mildly derogatory, as it is often used to
+refer to dumbed-down interfaces targeted at non-programmers, while a hacker
+has no fear of obscure commands. On the other hand, EMACS was one of the very
+first WYSIWYG editors, replacing (actually, at first overlaying) the
+extremely obscure, command-based TECO. {= X =}

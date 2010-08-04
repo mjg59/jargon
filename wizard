@@ -1,6 +1,13 @@
  WIZARD n. 1. A person who knows how a complex piece of software or hardware
-works; someone who can find and fix his bugs in an emergency. Rarely used at
-MIT, where HACKER is the preferred term. 2. A person who is permitted to do
-things forbidden to ordinary people, e.g., a "net wizard" on a TENEX may run
-programs which speak low-level host-imp protocol; an ADVENT wizard at SAIL
-may play Adventure during the day. 3. A UNIX expert. see GURU.
+works (that is, who GROKS it); esp. someone who can find and fix bugs quickly
+in an emergency. This term differs somewhat from HACKER. Someone is a hacker
+if he has general hacking ability, but is only a wizard with respect to
+something if he has specific detailed knowledge of that thing. A good hacker
+could become a wizard for something given the time to study it. 2. A person
+who is permitted to do things forbidden to ordinary people. For example, an
+Adventure wizard at Stanford may play the Adventure game during the day,
+which is forbidden (the program simply refuses to play) to most people
+because it uselessly consumes too many CYCLES. 3. A UNIX expert, esp. a UNIX
+systems programmer. This usage is well enough established that UNIX WIZARD is
+a recognized job title at some corporations and to most headhunters. see
+GURU.

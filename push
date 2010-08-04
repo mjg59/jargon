@@ -1,4 +1,7 @@
  PUSH [based on the stack operation that puts the current information on a
 stack, and the fact that procedure call addresses are saved on the stack]
-dialect: PUSHJ (push-jay), based on the PDP-10 procedure call instruction. v.
-To enter upon a digression, to save the current discussion for later. = Q =
+Also PUSHJ (push-jay), based on the PDP-10 procedure call instruction. 1. To
+put something onto a stack or PDL. If a person says something has been pushed
+onto his pdl, he means yet another thing has been added to the list of things
+hanging over his head for him to do. 2. v. To enter upon a digression, to
+save the current discussion for later. Antonym of POP, POPJ; see also PDL.

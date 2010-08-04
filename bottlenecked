@@ -1,5 +1,7 @@
  BOTTLENECKED adj. 1. Used by hackers specifically to describe hardware under
 which performance is usually limited by contention for one particular
-resource (such as disk, memory or processor CLOCKS); see BALANCED. 2. Less
-often, applied to the software analogue of sense #1, a slow code section or
-algorithm through which all computation must pass (see also HOT SPOT).
+resource (such as disk, memory or processor CLOCKS); the opposite condition
+is called `balanced', which is more jargon in the strict sense and may be
+found in technical dictionaries. 2. Less often, applied to the software
+analogue of sense #1, a slow code section or algorithm through which all
+computation must pass (see also HOT SPOT).

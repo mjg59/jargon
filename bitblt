@@ -1,7 +1,6 @@
- BITBLT (bit'blit, bit'belt) n. [from BLT, q.v.] 1. One of a closely related
-family of algorithms for moving and copying rectangles of bits between main
-and display memory on a bit-mapped device, or between two areas of either
-main or display memory (the requirement to do the right thing in the case of
-overlapping source and destination rectangles is what makes BitBlt tricky).
-2. An early experimental bit-mapped terminal at Bell Labs, later
-commercialized as the AT&T 5620.
+ BITBLT /bit'blit/ or /bit'belt/ n. [from BLT, q.v.] 1. Any of a closely
+related family of algorithms for moving and copying rectangles of bits
+between main and display memory on a bit-mapped device, or between two areas
+of either main or display memory (the requirement to do the right thing in
+the case of overlapping source and destination rectangles is what makes
+BitBlt tricky). 2. Synonym for BLIT or BLT (q.v.)

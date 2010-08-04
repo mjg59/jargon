@@ -1,5 +1,7 @@
- FLAG DAY [from a bit of Multics history involving a change in the ASCII
-character set originally scheduled for June 14, 1966] n. A software change
-which is neither forward nor backward compatible, and which is costly to make
-and costly to revert. "Can we install that without causing a flag day for all
-users?"
+ FLAG DAY n. A software change which is neither forward nor backward
+compatible, and which is costly to make and costly to revert. "Can we install
+that without causing a flag day for all users?" This term has nothing to do
+with the use of the word FLAG to mean a variable that has two values. It came
+into use when a massive change was made to the MULTICS timesharing system to
+convert from the old ASCII code to the new one; this was scheduled for Flag
+Day, June 14, 1966.

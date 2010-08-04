@@ -2,4 +2,5 @@
 thing to use, do, say, etc. Use of this term often implies that in fact
 reasonable people may disagree. "Never let your conscience keep you from
 doing the right thing!" "What's the right thing for LISP to do when it reads
-`(.)'?" Antonym: THE WRONG THING (q.v.).
+a mod 0? Should it return a, or give a divide-by-zero error?" Antonym: WRONG
+THING, THE (q.v.).

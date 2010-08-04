@@ -5,4 +5,4 @@ sometimes said to have `done a fandango on core'. On low-end personal
 machines without an MMU this can corrupt the OS itself, causing massive
 lossage. Other third-world dances such as the rhumba, cha-cha or watusi may
 be substituted. see ALIASING BUG, PRECEDENCE LOSSAGE, SMASH THE STACK, MEMORY
-LEAK, OVERRUN SCREW.
+LEAK, OVERRUN SCREW, CORE.

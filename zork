@@ -1,5 +1,60 @@
- ZORK (zork) n. Second of the great early experiments in computer fantasy
+ ZORK /zork/ n. Second of the great early experiments in computer fantasy
 gaming; see ADVENT. Originally written on MIT-DMS during the late seventies,
 later distributed with BSD UNIX and commercialized as "The Zork Trilogy" by
-Infocom. ==================== MAIN TEXT ENDS HERE
-===================================
+Infocom. Appendix A: Hacker Folklore *************************** This
+appendix contains several fables and legends which illuminate the meaning of
+various entries in the main text. All of this material except THE UNTIMELY
+DEMISE OF MABEL THE MONKEY appeared in the 1983 paper edition of the Jargon
+File (but not in the previous on-line versions). The Meaning of "Hack"
+********************* "The word HACK doesn't really have 69 different
+meanings," according to Phil Agre, an MIT hacker. "In fact, HACK has only one
+meaning, an extremely subtle and profound one which defies articulation.
+Which connotation is implied by a given use of the word depends in similarly
+profound ways on the context. Similar remarks apply to a couple of other
+hacker words, most notably RANDOM." Hacking might be characterized as "an
+appropriate application of ingenuity". Whether the result is a
+quick-and-dirty patchwork job or a carefully crafted work of art, you have to
+admire the cleverness that went into it. An important secondary meaning of
+`hack' is `a creative practical joke'. This kind of hack is often easier to
+explain to non-hackers than the programming kind. Accordingly, here are three
+examples of practical joke hacks: In 1961, students from Caltech (California
+Institute of Technology in Pasadena) hacked the Rose Bowl football game. One
+student posed as a reporter and "interviewed" the director of the University
+of Washington card stunts (such stunts involve people in the stands who hold
+up colored cards to make pictures). The reporter learned exactly how the
+stunts were operated, and also that the director would be out to dinner
+later. While the director was eating, the students (who called themselves the
+"Fiendish Fourteen") picked a lock and stole one of the direction sheets for
+the card stunts. They then had a printer run off 2300 copies of the sheet.
+The next day they picked the lock again and stole the master plans for the
+stunts, large sheets of graph paper colored in with the stunt pictures. Using
+these as a guide, they carefully made "corrections" for three of the stunts
+on the duplicate instruction sheets. Finally, they broke in once more,
+replacing the stolen master plans and substituting the stack of altered
+instruction sheets for the original set. The result was that three of the
+pictures were totally different. Instead of spelling "WASHINGTON", the word
+"CALTECH" was flashed. Another stunt showed the word "HUSKIES", the
+Washington nickname, but spelled it backwards. And what was supposed to have
+been a picture of a husky instead showed a beaver. (Both Caltech and MIT use
+the beaver as a mascot. Beavers are nature's engineers.) After the game, the
+Washington faculty athletic representative said, "Some thought it ingenious;
+others were indignant." The Washington student body president remarked, "No
+hard feelings, but at the time it was unbelievable. We were amazed." This is
+now considered a classic hack, particularly because revising the direction
+sheets constituted a form of programming not unlike computer programming.
+Another classic hack: One winter, late at night, an MIT fraternity hosed down
+an underpass that is part of a commuter expressway near MIT. This produced an
+ice slick that "trapped" a couple of small cars: they didn't have the
+momentum or traction to climb out of the underpass. While it was clever to
+apply some simple science to trap a car, it was also very dangerous as it
+could have caused a collision. Therefore this was a very poor hack overall.
+(There is another story about an even less appealing hack in which some MIT
+students used thermite to weld a trolley car to its tracks. The story may be
+apocryphal, however.) And yet another: On November 20, 1982, MIT hacked the
+Harvard-Yale football game. Just after Harvard's second touchdown against
+Yale in the second quarter, a small black ball popped up out of the ground at
+the 40-yard line, and grew bigger, and bigger, and bigger. The letters "MIT"
+appeared all over the ball. As the players and officials stood around
+gawking, the ball grew to six feet in diameter and then burst with a bang and
+a cloud of white smoke. As the Boston Globe later reported, "If you want to
+know the truth,

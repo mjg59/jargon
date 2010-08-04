@@ -1,6 +1,11 @@
  MODE n. A general state, usually used with an adjective describing the
-state. "No time to hack; I'm in thesis mode." Usage: in its jargon sense,
-MODE is most often said of people, though it is sometimes applied to programs
-and inanimate objects. "If you're on a TTY, E will switch to non-display
-mode." In particular, see HACK MODE, DAY MODE, NIGHT MODE, and YOYO MODE;
-also TALK MODE, and GABRIEL MODE.
+state. Use of the word "mode" rather than "state" implies that the state is
+extended over time, and probably also that some activity characteristic of
+that state is being carried out. "No time to hack; I'm in thesis mode."
+Usage: in its jargon sense, MODE is most often said of people, though it is
+sometimes applied to programs and inanimate objects. "The E editor normally
+uses a display terminal, but if you're on a TTY it will switch to non-display
+mode." This term is normally used in a technical sense to describe the state
+of a program. Extended usage --- for example, to describe people --- is
+definitely slang. In particular, see HACK MODE, DAY MODE, NIGHT MODE, and
+YOYO MODE; also TALK MODE and GABRIEL MODE.

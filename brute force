@@ -1,0 +1,15 @@
+ BRUTE FORCE adj. Describes a certain kind of primitive programming style.
+Brute-force programs typically work by enumerating all possible combinations
+of things in an effort to find the one combination that solves the problem.
+An example of a brute-force program is one that sorts a thousand numbers by
+examining them all, picking the smallest one, and saving it in another table;
+then examining all the numbers again, and picking the smallest one except for
+the one it already picked; and in general choosing the next number by
+examining all one thousand numbers and choosing the smallest one that hasn't
+yet been picked (as determined by examining all the ones already picked).
+Yes, the program will produce the right answer, but it will be much slower
+than a program that uses even a modicum of cleverness to avoid most of the
+work. (A little bit of computer science---specifically, the theory of
+algorithms---will show that if a typical large computer can sort a thousand
+numbers in a tenth of a second using a clever sorting method, the brute-force
+method outlined above would take about 14 hours.)

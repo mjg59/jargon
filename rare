@@ -1,3 +1,5 @@
  RARE [UNIX] adj. CBREAK mode (character-by-character with interrupts
 enabled). Distinguished from `raw' and `cooked', but unlike them this term is
-strictly a creature of folklore, not found in the manuals. Usage: rare.
+strictly a creature of folklore, not found in the manuals (though it is
+alleged that some versions of the V7 manuals used the term `half-cooked').
+Usage: rare.

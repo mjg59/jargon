@@ -1,0 +1,51 @@
+ A note or two on hackish usages in Russian have been added where they are
+parallel with and comprehensible to English-speakers. UNIX Conventions
+================ References such as `malloc(3)' and `patch(1)' are to UNIX
+facilities (some of which, such as patch(1), are actually freeware
+distributed over USENET). The UNIX manuals use `foo(n)' to refer to item foo
+in section n) of the manual, where n=1 is utilities, n=2 is system calls, n=3
+is C library routines and n=6 is games. Sections 4, 5, 7 and 8 have changed
+roles frequently and in any case are not referred to from any of the entries.
+Pronunciation Guide =================== Pronunciation keys are provided in
+the jargon listing for all entries which are neither dictionary words
+pronounced as in standard English nor obvious compounds of same. Slashes
+bracket a phonetic pronunciation to be interpreted using the following
+conventions: 1. Syllables are hyphen-separated, except that an apostrophe or
+back-apostrophe follows each accented syllable (the back apostrophe marks a
+secondary accent in some words of four or more syllables). 2. Consonants are
+pronounced as in American English. The letter "g" is always hard (as in "got"
+rather than "giant"); "ch" is soft ("church" rather than "chemist"). The
+letter "j" is the sound that occurs twice in "judge". The letter "s" is
+always as in "pass", never a z sound (but it is sometimes doubled at the end
+of syllables to emphasize this). The digraph `dh' is the th of `these
+clothes', not of `thick'. The digraph `kh' is the guttural of `loch' or
+`l'chaim'. 3. Vowels are represented as follows: a back, that ah father, palm
+ar far, mark aw flaw, caught ay bake, rain e less, men ee easy, ski eir
+their, software i trip, hit ie life, sky o cot, top oh flow, sew oo loot,
+through or more, door ow out, how oy boy, coin uh but, some u put, foot y yet
+yoo few [y]oo oo with optional fronting as in `news' (noos or nyoos) An
+at-sign is used for the "schwa" sound of unstressed or occluded vowels (the
+one that is often written with an upside-down "e"). The schwa vowel is
+omitted in syllables containing vocalic r, l, m or n; that is, "kitten" and
+"color" would be rendered /kit'n/ and /kul'r/, not /kit'@n/ and /kul'@r/. The
+Jargon (Low Moby, Current Terminology)
+****************************************** {= =} @-SIGN PARTY n. Semi-closed
+parties thrown at SF conventions (esp. the annual Worldcon) for hackers; one
+must have a NETWORK ADDRESS to get in, or at least be in company with someone
+who is. One of the most reliable opportunities for hackers to meet face to
+face with people who might otherwise be represented by mere phosphor dots on
+their screens. Compare BOINK. @BEGIN [primarily CMU] with @End, used
+humorously in writing to indicate a context or to remark on the surrounded
+text. From the SCRIBE command of the same name. For example: @Begin(Flame)
+Predicate logic is the only good programming language. Anyone who would use
+anything else is an idiot. Also, computers should be tredecimal instead of
+binary. @End(Flame) On USENET, this construct would more frequently be
+rendered as <FLAME ON> and <FLAME OFF>. /DEV/NULL [from the UNIX null device,
+used as a data sink; note, if you are viewing an ASCII-only version of this
+file, that the actual case is all-lower: "/dev/null"] n. A notional `black
+hole' in any information space being discussed, used or referred to. A
+controversial posting, for example, might end "Kudos to rasputin@kremlin.org,
+flames to /dev/null". see BIT BUCKET, NULL DEVICE. 2 INFIX n. In translation
+software written by hackers, infix 2 often represents the syllable "to" with
+the comnnotation "translate to"; as in dvi2ps (DVI to PostScript), int2string
+(integer to string) and texi2roff (Texinfo to [nt]roff). {= A =}

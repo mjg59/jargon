@@ -1,4 +1,8 @@
  SACRED adj. Reserved for the exclusive use of something (a metaphorical
 extension of the standard meaning). "Accumulator 7 is sacred to the UUO
 handler." Often means that anyone may look at the sacred object, but
-clobbering it will screw whatever it is sacred to.
+clobbering it will screw whatever it is sacred to. Example: The comment
+"Register 7 is sacred to the interrupt handler" appearing in a program would
+be interpreted by a hacker to mean that one part of the program, the
+"interrupt handler", uses register 7, and if any other part of the program
+changes the contents of register 7 dire consequences are likely to ensue.

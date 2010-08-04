@@ -1,0 +1,43 @@
+ VAXOCENTRISM /vak`soh-sen'trizm/ [analogy with "ethnocentrism"] n. A
+notional disease said to afflict C programmers who persist in coding
+according to certain assumptions valid (esp. under UNIX) on VAXEN, but false
+elsewhere (this can create substantial portability problems). Among these
+are: 1. The assumption that dereferencing a null pointer is safe because
+location 0 is readable and zero (it may instead cause an illegal-address trap
+on non-VAXEN, and even on VAXEN under OSs other than BSD UNIX). 2. The
+assumption that pointer and integer types are the same size, and that
+pointers can be stuffed into integer variables and drawn back out without
+being truncated or mangled. 3. The assumption that a data type of any size
+may begin at any byte address in memory (for example, that you can freely
+construct and dereference a pointer to a word-sized object at an odd
+address). On many (esp. RISC) architectures better optimized for HLL
+execution speed this is invalid and can cause an illegal address fault or bus
+error. 4. The (related) assumption that there is no `padding' at the end of
+types and that in an array you can thus step right from the last byte of a
+previous component to the first byte of the next one. 5. The assumption that
+memory address space is globally flat and that the array reference foo[-1] is
+necessarily valid This is not true on segment-addressed machines like Intel
+chips (yes, segmentatation is universally considered a BRAIN-DAMAGED way to
+design but that is a separate issue). 6. The assumption that objects can be
+arbitrarily large with no special considerations (again, not true on
+segmented architectures); 7. The assumption that the parameters of a routine
+are stored in memory, contiguously, and in strictly ascending or descending
+order (fails on many RISC architectures). 8. The assumption that bits and
+addressable units within an object are ordered in the same way and that this
+order is a constant of nature (fails on BIG-ENDIAN machines). 9. The
+assumption that it is meaningful to compare pointers to different objects not
+located within the same array, or to objects of different types (the former
+fails on segmented architectures, the latter on word-oriented machines with
+multiple pointer formats). 10. The assumption that a pointer to any one type
+can freely be cast into a pointer to any other type (fails on word- oriented
+machines with multiple pointer formats). 11. The assumption that "int" is 32
+bits (fails on 286-based systems under some compilers), or (nearly
+equivelantly) the assumption that sizeof(int) == sizeof(long). 12. The
+assumption that argv[] is writeable (fails in some embedded-systems C
+environments). 13. The assumption that characters are signed (fails on the
+68000 series and elsewhere). 14. The assumption that all pointers are the
+same size and format, which means you don't have to worry about getting the
+types correct in calls (fails on word-oriented machines with multiple pointer
+formats). Note that a programmer can be validly be accused of VAXOCENTRISM
+even if he/she has never seen a VAX. The terms "vaxocentricity" and
+"all-the-world's-a-VAX syndrome" have been used synonymously.

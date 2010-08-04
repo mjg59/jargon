@@ -1,0 +1,8 @@
+ VI /vee ie/, *not* /vie/ and NEVER /siks/ [from `Visual Editor'] n. A screen
+editor CRUFTED TOGETHER by Bill Joy for an early BSD version. Became the
+de-facto standard UNIX editor until displaced by EMACS after about 1984.
+Tends to frustrate new users no end, as it will neither take commands while
+accepting input text nor vice versa, and it is easy to forget which mode one
+is in (see CHOKE, GAG, BARF). Nevertheless it is still widely used for small
+editing jobs (mainly because it starts up faster than bulky EMACS) and many
+hackers take some trouble to maintain their vi reflexes.

@@ -1,0 +1,6 @@
+ PC-ISM n. A piece of code or coding technique that takes advantage of the
+unprotected single-tasking environment in IBM PCs and the like. e.g. by
+busy-waiting on a hardware register, direct diddling of screen memory, or
+using hard timing loops. Compare ILL-BEHAVED, VAXISM, UNIXISM. Also, PC-WARE
+n., a program full of PC-ISMs on a machine with a more capable operating
+system. Pejorative.

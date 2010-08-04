@@ -1,5 +1,17 @@
- SOFTWARE ROT n. Hypothetical disease the existence of which has been deduced
-from the observation that unused programs or features will stop working after
-sufficient time has passed, even if "nothing has changed". Also known as BIT
-DECAY, BIT ROT. Occasionally this turns out to be a real problem due to media
-failure.
+ SOFTWARE ROT n. (Also known as BIT DECAY, BIT ROT) Hypothetical disease the
+existence of which has been deduced from the observation that unused programs
+or features will often stop working after sufficient time has passed, even if
+"nothing has changed". The theory explains that bits decay as if they were
+radioactive. As time passes, the contents of a file or the code in a program
+will become increasingly garbled. There actually are physical processes that
+produce such effects (the alpha particles such as are found in cosmic rays
+can change the contents of a computer memory unpredictably, and various kinds
+of subtle media failures can corrupt files in mass storage) but they are
+quite rare. Nevertheless, when you can't figure out why something stopped
+working, it is often humorously convenient to blame SOFTWARE ROT. Historical
+note: software rot in an even funnier sense than the mythical one was a real
+problem on early research computers (e. g. the R1, see GRIND CRANK). If a
+program that depended on a peculiar instuction hadn't been run in quite a
+while, the user might discover that the opcodes no longer did the things as
+they used to. ("Hey, so-and-so needs an instruction to do such-and-such. We
+can snarf this one, right? No one uses it.")

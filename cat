@@ -1,5 +1,5 @@
- CAT [from UNIX cat(1)] v. To spew an entire (notionally large) file to the
-screen or some other output sink without pause; by extension, to dump large
-amounts of data at an unprepared target or with no intention of browsing it
-carefully. Usage: considered silly. Rare outside UNIX sites. see also DD,
-BLT.
+ CAT [from "concatenate" via UNIX cat(1)] vt. To spew an entire (notionally
+large) file to the screen or some other output sink without pause; by
+extension, to dump large amounts of data at an unprepared target or with no
+intention of browsing it carefully. Usage: considered silly. Rare outside
+UNIX sites. see also DD, BLT.

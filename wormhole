@@ -1,14 +1,14 @@
- WORMHOLE (werm'hohl) n. A location in a monitor which contains the address
+ WORMHOLE /werm'hohl/ n. A location in a monitor which contains the address
 of a routine, with the specific intent of making it easy to substitute a
 different routine. The following quote comes from "Polymorphic Systems", vol.
-2, p. 54: "Any type of I/O device can be substituted for the standard device
+2, p. 54: Any type of I/O device can be substituted for the standard device
 by loading a simple driver routine for that device and installing its address
-in one of the monitor's `wormholes.'* ---------- *The term `wormhole' has
-been used to describe a hypothetical astronomical situation where a black
-hole connects to the `other side' of the universe. When this happens,
-information can pass through the wormhole, in only one direction, much as
-`assumptions' pass down the monitor's wormholes." This term is now
-obsolescent. Modern operating systems use clusters of wormholes extensively
-(for modularization of I/O handling in particular, as in the UNIX
-device-driver organization) but the preferred jargon for these clusters is
-`device tables', `jump tables' or `capability tables'.
+in one of the monitor's `wormholes.' The term `wormhole' has been used to
+describe a hypothetical astronomical situation where a black hole connects to
+the `other side' of the universe. When this happens, information can pass
+through the wormhole, in only one direction, much as `assumptions' pass down
+the monitor's wormholes." This term is now obsolescent. Modern operating
+systems use clusters of wormholes extensively (for modularization of I/O
+handling in particular, as in the UNIX device-driver organization) but the
+preferred jargon for these clusters is `device tables', `jump tables' or
+`capability tables'.

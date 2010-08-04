@@ -1,6 +1,7 @@
  INTERNET ADDRESS n. An `absolute' network address of the form foo@bar.baz,
-where foo is a user name, bar is a site name, and baz is a `domain' name,
-possibly including periods itself. Contrasts with BANG PATH, q.v.; see also
-NETWORK. All Internet machines and most UUCP sites can now resolve these
-addresses, thanks to a large amount of behind-the-scenes magic and PD
-software written since 1980 or so. see also BANG PATH.
+where foo is a user name, bar is a SITENAME (q.v.), and baz is a `domain'
+name, possibly including periods itself. Contrasts with BANG PATH, q.v.; see
+also NETWORK, THE and NETWORK ADDRESS. All Internet machines and most UUCP
+sites can now resolve these addresses, thanks to a large amount of
+behind-the-scenes magic and PD software written since 1980 or so. see also
+BANG PATH.

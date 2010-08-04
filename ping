@@ -1,7 +1,7 @@
- PING (ping) [from TCP/IP terminology] n.,v. 1. Slang term for a small
+ PING /ping/ [from TCP/IP terminology] n.,v. 1. Slang term for a small
 network message (ICMP ECHO) sent by a computer to check for the presence and
-aliveness of another. Occasionally used as a phone greeting. see ACK. 2. To
-verify the presence of. 3. To get the attention of. From the Unix command by
-the same name (an acronym of "Packet INternet Groper) that sends an ICMP ECHO
-packet to another host. This was probably contrived to match WWII-era "ping"
-(sonar ranging pulse).
+aliveness of another. Occasionally used as a phone greeting. see ACK, also
+ENQ. 2. To verify the presence of. 3. To get the attention of. From the Unix
+command by the same name (an acronym of "Packet INternet Groper) that sends
+an ICMP ECHO packet to another host. This was probably contrived to match
+submariners' "ping" (sonar ranging pulse).

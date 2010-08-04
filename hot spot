@@ -1,0 +1,10 @@
+ HOT SPOT n. 1. [primarily C/UNIX programmers, but spreading] n. In most
+programs, less than 10% of the code eats 90% of the execution time; if one
+were to graph instruction visits versus code addresses, one would typically
+see a few huge spikes amidst a lot of low-level noise. Such spikes are called
+"hot spots" and are good candidates for micro-optimization or HAND-HACKING.
+The term is especially used of tight loops and recursions in the code's
+central algorithm, as opposed to (say) initial set-up costs or large but
+infrequent I/O operations. see TUNE, BUM, HAND-HACKING. 2. The active
+location of a cursor on a bit-map display. "Put the mouse's hot spot on the
+`ON' widget and click the left button."

@@ -1,6 +1,9 @@
- THUNK n. 1. An expression, frozen together with its environment for later
-evaluation if and when needed. The process of unfreezing a THUNK is called
-`forcing'. 2. People and and activities scheduled in a thunklike manner. "It
-occurred to me the other day that I am rather accurately modelled by a thunk
--- I frequently need to be forced to completion." -- paraphrased from a .plan
-file.
+ THUNK n. [from the implementation model for ALGOL-60's "call by name", a
+design accident that resulted from a THINKO when attempting to describe "call
+by reference"] 1. An expression, frozen together with its environment for
+later evaluation if and when needed. The process of unfreezing a THUNK is
+called `forcing'. 2. Stub routine, in an overlay programming environment,
+which loads and jumps to the correct overlay. 3. People and and activities
+scheduled in a thunklike manner. "It occurred to me the other day that I am
+rather accurately modelled by a thunk --- I frequently need to be forced to
+completion." --- paraphrased from a .plan file.

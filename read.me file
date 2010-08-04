@@ -1,0 +1,4 @@
+ READ.ME FILE n. By convention, the top-level directory of a UNIX source
+distribution always contains a file named `READ.ME' (or README, or (rarely)
+ReadMe) which is a hacker's-eye introduction containing a pointer to more
+detailed documentation, credits, miscellaneous revision history notes, etc.

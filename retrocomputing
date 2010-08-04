@@ -1,9 +1,11 @@
- RETROCOMPUTING (ret'-roh-k@m-pyoo'ting) n. Refers to emulations of
+ RETROCOMPUTING /ret'-roh-k@m-pyoo'ting/ n. Refers to emulations of
 way-behind-the state-of-the-art hardware or software, or implementations of
 never-was-state-of-the-art; esp. if such implementations are elaborate
 practical jokes and/or parodies of more `serious' designs. Perhaps the most
 widely distributed retrocomputing utility was the pnch(6) program on V7 and
 other early UNIX versions, which would accept up to 80 characters of text
 argument and display the corresponding pattern in Hollerith card code. Other
-well-known retrocomputing hacks have included the language INTERCAL, a
-jcl-emulating shell for UNIX, and the card-punch-emulating editor named 029.
+well-known retrocomputing hacks have included the programming language
+INTERCAL (q.v.), a jcl-emulating shell for UNIX, the card-punch-emulating
+editor named 029, and various elaborate PDP-11 hardware emulators and RT-11
+OS emulators written just to keep an old, sourceless ZORK binary running.

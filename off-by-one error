@@ -1,5 +1,5 @@
- OFF-BY-ONE ERROR n. Exceedingly common error induced in many ways, usually
-by starting at 0 when you should have started at 1 or vice versa. Also
-applied to giving an object to the person next to the one who should have
-gotten it. Often confused with FENCEPOST ERROR, which is properly a
-particular subtype of it.
+ OFF-BY-ONE ERROR n. Exceedingly common error induced in many ways, such as
+by starting at 0 when you should have started at 1 or vice versa, or by
+writing < N instead of <= N or vice-versa. Also applied to giving an object
+to the person next to the one who should have gotten it. Often confused with
+FENCEPOST ERROR, which is properly a particular subtype of it.

@@ -1,2 +1,9 @@
- DIKE [from "diagonal cutters"] v. To remove a module or disable it. "When in
-doubt, dike it out."
+ DIKE vt. To remove or disable a portion of something, as a wire from a
+computer or a subroutine from a program. A standard slogan runs: "When in
+doubt, dike it out." (The implication is that it is usually more effective to
+attack software problems by reducing complexity rather than increasing it).
+The word "dikes" is widely used among mechanics and engineers to mean
+"diagonal cutters", a heavy-duty metal-cutting device; to "dike something
+out" means to use such cutters to remove something. Among hackers this term
+has been metaphorically extended to non-physical objects such as sections of
+code.

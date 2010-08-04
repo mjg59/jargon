@@ -1,4 +1,5 @@
  ZERO v. 1. To set to zero. Usually said of small pieces of data, such as
 bits or words. 2. To erase; to discard all data from. Said of disks and
 directories, where "zeroing" need not involve actually writing zeroes
-throughout the area being zeroed. see SCRIBBLE.
+throughout the area being zeroed. One may speak of something being "logically
+zeroed" rather than being "physically zeroed". see SCRIBBLE.

@@ -4,4 +4,7 @@ unreadable, creative and bizarre working C program; various other prizes are
 awarded at the judges' whim. Given C's terse syntax and macro-preprocessor
 facilities, this gives contestants a lot of maneuvering room. The winning
 programs often manage to be simultaneously a) funny, b) breathtaking works of
-art, and c) Horrible Examples of how *not* to code in C.
+art, and c) Horrible Examples of how *not* to code in C. This relatively
+short and sweet entry might help convey the flavor of obfuscated C:
+main(v,c)char**c;{for(v[c++]="Hello, world!\n)";(!!c)[*c]&&
+(v--||--c&&execlp(*c,*c,c[!!c]+!!c,!c));**c=!c)write(!!*c,*c, !!**c);}

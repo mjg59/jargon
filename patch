@@ -4,4 +4,4 @@ not work, and may or may not eventually be incorporated permanently into the
 program. 2. v. To insert a patch into a piece of code. 3. [in the UNIX world]
 n. a set of differences between two versions of source code, generated with
 diff(1) and intended to be mechanically applied using patch(1); often used as
-a way of distributing permanent C code upgrades and fixes over USENET.
+a way of distributing source code upgrades and fixes over USENET.

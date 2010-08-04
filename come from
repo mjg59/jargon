@@ -3,6 +3,14 @@ FROM <label> would cause the referenced label to act as a sort of trapdoor,
 so that if the program ever reached it control would quietly fall through to
 the statement following the COME FROM. COME FROM was first proposed in a
 Datamation article in 1973 that parodied the then-raging `structured
-programming' wars (see CONSIDERED HARMFUL). It was actually implemented for
-the first time seventeen years later, in C-INTERCAL (see INTERCAL,
-RETROCOMPUTING); knowledgeable observers are still reeling from shock.
+programming' wars (see CONSIDERED HARMFUL). Mythically, some variants are the
+"assigned come from", and the "computed come from" (parodyong some nasty
+control constructs in BASIC and FORTRAN). Notionally, multi-tasking can be
+implemented by having more than one COME FROM statement coming from the same
+label. COME FROM was actually implemented under a different name in Univac's
+Fortran, c.1975. The statement "AT 100" would perform a "COME FROM 100". It
+was intended strictly as a debugging aid, with dire consequences promised to
+anyone so deranged as to use it in production code. It was supported under
+its own name for the first time fifteen years later, in C-INTERCAL (see
+INTERCAL, RETROCOMPUTING); knowledgeable observers are still reeling from
+shock.

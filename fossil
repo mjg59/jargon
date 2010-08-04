@@ -3,6 +3,8 @@ historical context, as a remnant of times past retained so as not to break
 compatibility. Example: the retention of octal as default base for string
 escapes in C in spite of the better match of hexadecimal to modern
 byte-addressible architectures. see DUSTY DECKS. 2. More restrictively, a
-feature with past but no present utility. Example: the force-all-caps
-(IUCLC/OLCUC) bits in the UNIX tty driver, designed for use with monocase
-terminals.
+feature with past but no present utility. Example: the force-all-caps (LCASE)
+bits in the V7 and BSD UNIX tty driver, designed for use with monocase
+terminals. In a perversion of the usual backwards compatibility goal, this
+functionality has actually been expanded and renamed in some later USG UNIX
+releases as the IUCLC and OLCUC bits.

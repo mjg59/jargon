@@ -1,4 +1,4 @@
- IRP (erp) [from the MIDAS pseudo-op which generates a block of code
+ IRP /erp/ [from the MIDAS pseudo-op which generates a block of code
 repeatedly, substituting in various places the car and/or cdr of the list(s)
 supplied at the IRP] v. To perform a series of tasks repeatedly with a minor
 substitution each time through. "I guess I'll IRP over these homework papers

@@ -5,4 +5,5 @@ accounts intended for use by field service or the vendor's maintenance
 programmers. Historically, back doors have often lurked in systems longer
 than anyone expected or planned, and a few have become widely known. The
 famous RTM worm of late 1988, for example, used a back door in the BSD UNIX
-sendmail(1) utility. see also IRON BOX, CRACKER, WORM, LOGIC BOMB.
+sendmail(1) utility. Syn. TRAP DOOR. see also IRON BOX, CRACKER, WORM, LOGIC
+BOMB.

@@ -1,6 +1,7 @@
  SPACEWAR n. A space-combat simulation game first implemented on the PDP-1 at
 MIT in 1960-61. SPACEWAR aficionados formed the core of the early hacker
 culture at MIT. Ten years later a descendant of the game motivated Ken
-Thompson to invent UNIX (q.v.). Ten years after that, SPACEWAR was
+Thompson to build, in his spare time on a scavenged PDP-7, the operating
+system that became UNIX (q.v.). Ten years after that, SPACEWAR was
 commercialized as one of the first video games; descendants are still feeping
 in video arcades everywhere.

@@ -1,5 +1,6 @@
- TTY (tee-tee-wie [UNIX], titty [ITS]) n. 1. Terminal of the teletype
-variety, characterized by a noisy mechanical printer, a very limited
-character set, and poor print quality. Usage: antiquated (like the TTYs
-themselves). 2. [especially UNIX] Any terminal at all; sometimes used to
-refer to the particular terminal controlling a job.
+ TTY /tee-tee-wie/ [UNIX], /ti'tee/ [ITS, but some UNIX people say it this
+way as well] n. 1. Terminal of the teletype variety, characterized by a noisy
+mechanical printer, a very limited character set, and poor print quality.
+Usage: antiquated (like the TTYs themselves). 2. [especially UNIX] Any
+terminal at all; sometimes used to refer to the particular terminal
+controlling a given job.

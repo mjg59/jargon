@@ -1,5 +1,8 @@
- POP also POPJ (pop-jay) [based on the stack operation that removes the top
+ POP also POPJ /pop-jay/ [based on the stack operation that removes the top
 of a stack, and the fact that procedure return addresses are saved on the
-stack] v. To return from a digression (the J-form derives from a PDP-10
+stack] 1. v. To remove something from a stack or PDL. If a person says he has
+popped something from his pdl, he means he has finally finished working on it
+and can now remove it from the list of things hanging over his head. 2. To
+return from a digression (the J-form derives specifically from a PDP-10
 assembler instruction). By verb doubling, "Popj, popj" means roughly, "Now
 let's see, where were we?" see RTI.

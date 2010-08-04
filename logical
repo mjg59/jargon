@@ -2,12 +2,35 @@
 is referred to by an arbitrary name] adj. Understood to have a meaning not
 necessarily corresponding to reality. E.g., if a person who has long held a
 certain post (e.g., Les Earnest at SAIL) left and was replaced, the
-replacement would for a while be known as the "logical Les Earnest". The word
-VIRTUAL is also used. At SAIL, "logical" compass directions denoted a
-coordinate system in which "logical north" is toward San Francisco, "logical
-west" is toward the ocean, etc., even though logical north varies between
-physical (true) north near San Franscisco and physical west near San Jose.
-(The best rule of thumb here is that El Camino Real by definition always runs
-logical north-and-south.) The concept is perpetuated by bay area highways
-which are almost, but not quite, consistently labelled with logical rather
-than physical directions.
+replacement would for a while be known as the "logical Les Earnest". Compare
+VIRTUAL, oppose PHYSICAL. This use of LOGICAL is an extension from its
+technical use in computer science. A program can be written to do input or
+output using a "logical device"; when the program is run, the user can
+specify which "physical" (actual) device to use for that logical device. For
+example, a program might write all its error messages to a logical device
+called ERROR; the user can then specify whether logical device ERROR should
+be associated to the terminal, a disk file, or the BIT BUCKET (to throw the
+error messages away). Perhaps the word "logical" is used because even though
+a thing isn't the actual object in question, you can reason logically about
+the thing as if it were the actual object. At Stanford, "logical" compass
+directions denoted a coordinate system in which "logical north" is toward San
+Francisco, "logical west" is toward the ocean, etc., even though logical
+north varies between physical (true) north near San Franscisco and physical
+west near San Jose. (The best rule of thumb here is that El Camino Real by
+definition always runs logical north-and-south.) In giving directions, one
+might say, "To get to Rincon Tarasco restaurant, get onto El Camino Bignum
+going logical north." Using the word "logical" helps to prevent the recipient
+from worrying about that the fact that the sun is setting almost directly in
+front of him. The concept is perpetuated by North American highways which are
+almost, but not quite, consistently labelled with logical rather than
+physical directions. A similar situation exists at MIT. Route 128 (famous for
+the electronics industries that have grown up along it) is a three-quarters
+circle surrounding Boston at a radius of ten miles, terminating at the
+coastline at each end. It would be most precise to describe the two
+directions along this highway as being "clockwise" and "counterclockwise",
+but the road signs all say "north" and "south", respectively. A hacker would
+describe these directions as "logical north" and "logical south", to indicate
+that they are conventional directions not corresponding to the usual
+convention for those words. (If you went logical south along the entire
+length of route 128, you would start out going northwest, curve around to the
+south, and finish headed due east!)

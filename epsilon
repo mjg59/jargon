@@ -2,4 +2,7 @@
 small quantity of anything. "The cost is epsilon." 2. adj. Very small,
 negligible; less than marginal. "We can get this feature for epsilon cost."
 3. WITHIN EPSILON OF: Close enough to be indistinguishable for all practical
-purposes.
+purposes. This is even closer than being WITHIN DELTA OF. Example: "That's
+not what I asked for, but it's within epsilon of what I wanted."
+Alternatively, it may mean not close enough, but very little is required to
+get it there: "My program is within epsilon of working." see ASYMPTOTIC.

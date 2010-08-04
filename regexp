@@ -1,4 +1,6 @@
- REGEXP (reg'exp) [UNIX] n. Common written and spoken abbreviation for
+ REGEXP /reg'exp/ [UNIX] n. 1. Common written and spoken abbreviation for
 `regular expression', one of the wildcard patterns used, e.g., by UNIX
 utilities such as grep(1), sed(1) and awk(1). These use conventions similar
-to but more elaborate than those described under GLOB.
+to but more elaborate than those described under GLOB. 2. Name of a
+well-known PD regexp-handling package in portable C, written by revered
+USENETter Henry Spencer (henry@utzoo.uucp).

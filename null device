@@ -1,0 +1,4 @@
+ NULL DEVICE n. A LOGICAL input/output device connected to the BIT BUCKET;
+when you write to it nothing happens, when you reaad from it you get a
+zero-length record full of nothing. Useful for discarding unwanted output or
+using interactive programs in a non-interactive way. see /DEV/NULL.

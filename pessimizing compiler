@@ -1,3 +1,6 @@
- PESSIMIZING COMPILER (pes'i-miez-ing kuhm-pie'lr) [antonym of `optimizing
+ PESSIMIZING COMPILER /pes'i-miez-ing kuhm-pie'lr/ [antonym of `optimizing
 compiler'] n. A compiler that produces object code that is worse than the
-straightforward or obvious translation.
+straightforward or obvious translation. The implication is that the compiler
+is actually trying to optimize the program, but through stupidity is doing
+the opposite. A few pessimizing compilers have been written on purpose,
+however, as pranks.

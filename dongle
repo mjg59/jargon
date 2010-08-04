@@ -1,4 +1,4 @@
- DONGLE (don-gl) n. 1. A security device for commercial microcomputer
+ DONGLE /don-gl/ n. 1. A security device for commercial microcomputer
 programs consisting of a serialized EPROM and some drivers in an RS-232
 connector shell. Programs that use a dongle query the port at startup and
 programmed intervals thereafter, and terminate if it does not respond with
@@ -11,4 +11,4 @@ any interference with devices further down the line (this innovation was
 necessary to allow daisy chained dongles for multiple pieces of software).
 The devices are still not widely used, as the industry has trended away from
 copy-protection schemes in general. 2. By extension, any physical electronic
-key or transferable ID required for a program to function. see DONGLE-DISK.
+key or transferrable ID required for a program to function. see DONGLE-DISK.

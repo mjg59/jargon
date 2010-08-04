@@ -1,10 +1,12 @@
- KLUGE (kloodj) alt. KLUDGE (kluhdj) [from the German "klug", clever]
-(`kloodj' is the original pronunciation, more common in the US; `kluhdge' is
-reported more common in England). n. 1. A Rube Goldberg device in hardware or
-software. 2. A clever programming trick intended to solve a particular nasty
-case in an efficient, if not clear, manner. Often used to repair bugs. Often
-verges on being a crock. 3. Something that works for the wrong reason. 4. v.
-To insert a kluge into a program. "I've kluged this routine to get around
-that weird bug, but there's probably a better way." Also KLUGE UP. 5. KLUGE
-AROUND: To avoid by inserting a kluge. 6. [WPI] A feature which is
+ KLUGE /klooj/ alt. KLUDGE /kluhj/ [from the German "klug", clever] (`klooj'
+is the original pronunciation, more common in the US; `kluhj' is reported
+more common in England). n. 1. A Rube Goldberg (or Heath Robinson) device in
+hardware or software. (A long-ago Datamation article said: "An ill-assorted
+collection of poorly matching parts, forming a distressing whole.") 2. n. A
+clever programming trick intended to solve a particular nasty case in an
+expedient, if not clear, manner. Often used to repair bugs. Often involves
+AD-HOCKERY and verges on being a CROCK. 3. Something that works for the wrong
+reason. 4. v. To insert a kluge into a program. "I've kluged this routine to
+get around that weird bug, but there's probably a better way." Also KLUGE UP.
+5. KLUGE AROUND: To avoid by inserting a kluge. 6. [WPI] A feature which is
 implemented in a RUDE manner.

@@ -4,6 +4,6 @@ presents a default interface to the user between applications. The facilities
 the operating system provides and its general design philosophy exert an
 extremely strong influence on programming style and the technical culture
 that grows up around a machine. Hacker folklore has been shaped primarily by
-the UNIX, ITS, TOPS-10, TOPS-20/TWENEX, VMS, CP/M, MS/DOS, and MULTICS
+the UNIX, ITS, TOPS-10, TOPS-20/TWENEX, VMS, CP/M, MS-DOS, and MULTICS
 operating systems (most importantly by ITS and UNIX). Each of these has its
 own entry, which see.

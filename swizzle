@@ -1,4 +1,4 @@
  SWIZZLE v. To convert external names or references within a data structure
 into direct pointers when the data structure is brought into main memory from
-external storage; also called POINTER SWIZZLING; the converse operation is
+external storage; also called "pointer swizzling"; the converse operation is
 sometimes termed UNSWIZZLING.

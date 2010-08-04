@@ -1,3 +1,9 @@
- JRST (jerst) [based on the PDP-10 jump instruction] v., obs. To suddenly
-change subjects. Usage: rather rare. "Jack be nimble, Jack be quick; Jack
-jrst over the candle stick."
+ JRST /jerst/ [based on the PDP-10 jump instruction] v., obs. To suddenly
+change subjects, with no intention of returning to the previous topic..
+Usage: rather rare, and considered silly. "Jack be nimble, Jack be quick;
+Jack jrst over the candle stick." This is even sillier. Why JRST and not
+JUMP? The PDP-10 JUMP instruction means "do not jump", as explained in the
+definition of AOS. The JUMPA instruction ("JUMP Always") does jump, but it
+isn't quite as fast as the JRST instruction (Jump and ReSTore flags). The
+instruction was used so frequently that the speed matters, so all PDP-10
+hackers automatically used the faster though more obscure JRST instruction.

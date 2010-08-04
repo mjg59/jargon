@@ -1,0 +1,7 @@
+ BOMB vi. 1. General synonym for CRASH, esp. used of software or OS failures.
+"Don't run Empire with less than 32K stack, it'll bomb out" 2. Atari ST and
+Macintosh equivalents of PANIC or GURU (sense 2), where icons of little
+black-powder bombs or mushroom clouds are displayed indicating the system has
+died. On the Mac this may be accomanied by a hexadecimal number indicating
+what went wrong, similar to the Amiga GURU MEDITION number. MESS-DOS machines
+tend to get LOCKED UP in this situation.

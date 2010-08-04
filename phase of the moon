@@ -2,4 +2,18 @@
 something is said to depend. Sometimes implies unreliability of whatever is
 dependent, or that reliability seems to be dependent on conditions nobody has
 been able to determine. "This feature depends on having the channel open in
-mumble mode, having the foo switch set, and on the phase of the moon."
+mumble mode, having the foo switch set, and on the phase of the moon." True
+story: Once upon a time, a program written by Gerry Sussman (professor of
+Electrical Engineering at MIT) and Guy Steele had a bug that really did
+depend on the phase of the moon! There is a little subroutine that had
+traditionally been used in various programs at MIT to calculate an
+approximation to the moon's true phase; the phase is then printed out at the
+top of program listings, for example, along with the date and time, purely
+for fun. (Actually, since hackers spend a lot of time indoors, this might be
+the only way they would ever know what the moon's phase was!) Steele
+incorporated this routine into a LISP program that, when it wrote out a file,
+would print a `timestamp" line almost 80 characters long. Very occasionally
+the first line of the message would be too long and would overflow onto the
+next line, and when the file was later read back in the program would BARF.
+The length of the first line depended on the precise time when the timestamp
+was printed, and so the bug literally depended on the phase of the moon!

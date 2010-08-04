@@ -1,2 +1,5 @@
- CTY (city) n. The terminal physically associated with a computer's operating
-console.
+ CTY /sit'ee/ or /see tee wie/ n. [MIT] The terminal physically associated
+with a computer's operating console. The term is a contraction of "Console
+TTY", that is, "Console TeleTYpe". This ITS and TOPS-10-associated term has
+become less common than formerly, as most UNIX hackers simply refer to the
+CTY as `the console'.

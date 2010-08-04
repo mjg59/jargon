@@ -1,4 +1,4 @@
- CHAIN [orig. from BASIC's CHAIN statement] v. When used of programming
+ CHAIN [orig. from BASIC's CHAIN statement] vi. When used of programming
 languages, refers to a statement that allows a parent executable to hand off
 execution to a child without going through the OS command interpreter. The
 state of the parent program is lost and there is no returning to it. Though

@@ -1,6 +1,7 @@
  RANDOMNESS n. An unexplainable misfeature; gratuitous inelegance. Also, a
 HACK or CROCK which depends on a complex combination of coincidences (or
-rather, the combination upon which the crock depends). "This hack can output
-characters 40-57 by putting the character in the accumulator field of an XCT
-and then extracting 6 bits -- the low two bits of the XCT opcode are the
-right thing." "What randomness!"
+rather, the combination upon which the crock depends for its accidental
+failure to malfunction). "This hack can output characters 40-57 by putting
+the character in the accumulator field of an XCT and then extracting 6 bits
+--- the low two bits of the XCT opcode are the right thing." "What
+randomness!"

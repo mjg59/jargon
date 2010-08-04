@@ -1,4 +1,16 @@
  HOOK n. An extraneous piece of software or hardware included in order to
-simplify later additions or debug options. For instance, a program might
+simplify later additions or changes by a user. For instance, a program might
 execute a location that is normally a JFCL, but by changing the JFCL to a
-PUSHJ one can insert a debugging routine at that point.
+PUSHJ one can insert a debugging routine at that point. As another example, a
+simple program that prints numbers might always print them in base ten, but a
+more flexible version would let a variable determine what base to use;
+setting the variable to 5 would make the program print numbers in base five.
+The variable is a simple hook. An even more flexible program might examine
+the variable, and treat a value of 16 or less as the base to use, but treat
+any other number as the address of a user-supplied routine for printing a
+number. This is a very powerful hook; one can then write a routine to print
+numbers as roman numerals, say, or as Hebrew characters, and plug it into the
+program through the hook. Often the difference between a good program and a
+superb one is that the latter has useful hooks in judiciously chosen places.
+Both may do the original job about equally well, but the one with the hooks
+is much more flexible for future expansion of capabilities.

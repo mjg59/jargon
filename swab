@@ -1,3 +1,5 @@
- SWAB [From the PDP-11 "byte swap" instruction] 1. v. to solve the NUXI
-PROBLEM by swapping bytes in a file. 2. Also, the program in V7 UNIX used to
-perform this action. see also BIG-ENDIAN, LITTLE-ENDIAN, BYTESEXUAL.
+ SWAB [From the PDP-11 "byte swap" instruction, and immortallized in the
+option "conv=swab" to DD (q.v.)] 1. v. to solve the NUXI PROBLEM by swapping
+bytes in a file. 2. Also, the program in V7 UNIX used to perform this action,
+or anything functionally equivalent to it. see also BIG-ENDIAN,
+LITTLE-ENDIAN, BYTESEXUAL.

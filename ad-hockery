@@ -1,3 +1,6 @@
- AD-HOCKERY (ad-hok'@r-ee) [Purdue] n. Gratuitous assumptions made inside
+ AD-HOCKERY /ad-hok'@r-ee/ [Purdue] n. 1. Gratuitous assumptions made inside
 certain programs, esp. expert systems, which lead to the appearance of
-semi-intelligent behavior, but are in fact entirely arbitrary.
+semi-intelligent behavior, but are in fact entirely arbitrary. 2.
+Special-case code to cope with some awkward input which would otherwise cause
+a program to CHOKE, presuming normal inputs are dealt with in some cleaner
+and more regular way.

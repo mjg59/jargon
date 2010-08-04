@@ -1,9 +1,9 @@
- UUO (yoo-yoo-oh) [short for "Un-Used Operation"] n. A PDP-10 system monitor
+ UUO /yoo-yoo-oh/ [short for "Un-Used Operation"] n. A PDP-10 system monitor
 call. The term "Un-Used Operation" comes from the fact that, on PDP-10
 systems, monitor calls are implemented as invalid or illegal machine
 instructions, which cause traps to the monitor (see TRAP). The SAIL manual
 describing the available UUOs has a cover picture showing an unidentified
-underwater object. see YOYO. [Note: DEC sales people have since decided that
+underwater object. see YOYO. [Note: DEC salescritters have since decided that
 "Un-Used Operation" sounds bad, so UUO now stands for "Unimplemented User
 Operation".] Tenex and Twenex systems use the JSYS machine instruction
 (q.v.), which is halfway between a legal machine instruction and a UUO, since

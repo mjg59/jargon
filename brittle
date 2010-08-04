@@ -1,4 +1,4 @@
  BRITTLE adj. Said of software that's functional but easily broken by changes
 in operating environment or configuration. Often describes the results of a
 research effort that were never intended to be robust, but can be applied to
-commercially developed software.
+commercially developed software. Oppose ROBUST.

@@ -1,0 +1,14 @@
+ FALL THROUGH vu. 1. To exit a loop by exhaustion, i.e. by having fulfilled
+its exit condition rather than via a break or exception condition that exits
+from the middle of it. This usage appears to be *really* old, as in dating
+from the '40s and '50s. It may no longer be live slang. 2. In C,
+`fall-through' is said to occur when the flow of execution in a switch
+statement reaches a `case' label for the second or subsequent time, passing a
+point where one would normally expect to find a `break'. A trivial example:
+switch (color) { case GREEN: do_green(); break; case PINK: do_pink(); case
+RED: do_red(); break; default: do_blue(); break; } The effect of this code is
+to do_green() when color is GREEN, do_red() when color is RED, do_blue() on
+any other color than PINK, and (this is the important part) do_pink() and
+*then* do_red() when color is PINK. It is considered good practice to include
+a comment highlighting the fall through, at ytje point one would normally
+expect a break.

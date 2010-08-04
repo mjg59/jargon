@@ -1,5 +1,9 @@
  MUMBLE interj. 1. Said when the correct response is either too complicated
 to enunciate or the speaker has not thought it out. Often prefaces a longer
 answer, or indicates a general reluctance to get into a big long discussion.
-"Well, mumble." 2. Sometimes used as an expression of disagreement. "I think
-we should buy it." "Mumble!" Common variant: MUMBLE FROTZ.
+"Don't you think that we could improve LISP performance by using a hybrid
+reference-count transaction garbage collector, if the cache is big enough and
+there are some extra cache bits for the microcode to use?" "Well, mumble...
+I'll have to think about it." 2. Sometimes used as an expression of
+disagreement. "I think we should buy a VAX." "Mumble!" Common variant: MUMBLE
+FROTZ. 3. Yet another metasyntactic variable, like FOO.

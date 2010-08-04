@@ -1,4 +1,4 @@
- APP (ap) n. Short for `application program', as opposed to a systems
+ APP /ap/ n. Short for `application program', as opposed to a systems
 program. What systems vendors are forever chasing developers to do for their
 environments so they can sell more boxes. Hackers tend not to think of the
 things they themselves run as apps; thus, in hacker parlance the term

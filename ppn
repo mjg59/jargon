@@ -1,11 +1,30 @@
- PPN (pip'in) [DEC terminology, short for Project-Programmer Number] n. 1. A
-combination `project' (directory name) and programmer name, used to identify
-a specific directory belonging to that user. For instance, "FOO,BAR" would be
-the FOO directory for user BAR. Since the name is restricted to three
-letters, the programmer name is usually the person's initials, though
-sometimes it is a nickname or other special sequence. (Standard DEC setup is
-to have two octal numbers instead of characters; hence the original acronym.)
-2. Often used loosely to refer to the programmer name alone. "I want to send
-you some mail; what's your ppn?" Usage: not used at MIT, since ITS does not
-use ppn's. The equivalent terms would be UNAME and SNAME, depending on
-context, but these are not used except in their technical senses.
+ PPN /pip'@n/ 1. A combination of a "project identifier" and "programmer
+name", used to identify a specific file directory belonging to that
+programmer. This was used in the TOPS-10 operating system that DEC provided
+for the PDP-10. The implicit assumption is that there will be many projects,
+each with several programmers working on it, and that a programmer may work
+on several projects. This is not a bad organization; what was totally BOGUS
+is that projects and programmers were identified by octal (base eight)
+numbers! Hence the term Project-Programmer Number, or PPN. If you were
+programmer 72534 and wanted to work on project 306, you would have had to
+tell the computer "login 306,72534". This was absurd. At CMU the TOPS-10
+system was modified to be somewhat less ridiculous: projects were identified
+by a letter and three decimal (not octal) digits, and programmers were
+identified by his two initials, a digit indicating the first year he came to
+CMU, and a fourth character that is used to distinguish between, say, Fred
+Loser and Farley Luser who both happened to arrive the same year. So to use
+the PDP-10 at CMU one might have said "login A780GS70". The programmer name
+"GS70" was also called a "man number" at CMU, even though it isn't really a
+number. At Stanford, projects and programmers were identified by three
+letters or digits each: if Guy Steele werre to work on a LISP project at
+Stanford, he might log in as "login lsp,gls". This was much more mnemonic.
+Programmer identifiers at Stanford were usually the programmer's initials,
+though sometimes it is a nickname or other three-letter sequence. Even though
+the CMU and Stanford forms were not really (pairs of) numbers, the term PPN
+was used to refer to the combination. 2. At Stanford, the term PPN was often
+used loosely to refer to the programmer name alone. "I want to send you some
+mail; what's your ppn?". This term is still used by old-timers on the
+commercial time-sharing service CompuServe (which uses PDP-10s) but has long
+since vanished from hackerdom. ITS and UNIX, of course, never used PPNs; ITS
+had six-character UNAMEs, and UNIX has 15-character `usernames' and
+hierararchical file system rather than project areas.
