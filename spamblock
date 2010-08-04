@@ -2,7 +2,7 @@
 an email address to render it invalid and thus useless to spammers. For
 example, the address <jrandom@hacker.org> might be transformed to
 <jrandom@NOSPAM.hacker.org>. Adding spamblock to an address is often referred
-to as munging it (see {munge})-. This evasion tactic depends on the fact that
+to as munging it (see {munge}). This evasion tactic depends on the fact that
 most spammers collect names with some sort of {address harvester} on volumes
 too high to de-mung by hand, but individual humans reading an email message
 can readily spot and remove a spamblock in the From address. Note: This is

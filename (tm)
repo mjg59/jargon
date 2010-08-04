@@ -1,5 +1,5 @@
- #======= THIS IS THE JARGON FILE, VERSION 4.4.3, 22 JUL 2003 =======# The
-Jargon File (version 4.4.3)
+ #======= THIS IS THE JARGON FILE, VERSION 4.4.4, 14 AUG 2003 =======# The
+Jargon File (version 4.4.4)
 ________________________________________________________________ Table of
 Contents Welcome to the Jargon File I. Introduction 1. Hacker Slang and
 Hacker Culture 2. Of Slang, Jargon, and Techspeak 3. Revision History 4.
@@ -26,7 +26,7 @@ you can do with it, but there are traditions about its proper use to which
 many hackers are quite strongly attached. Please extend the courtesy of
 proper citation when you quote the File, ideally with a version number, as it
 will change and grow over time. (Examples of appropriate citation form:
-"Jargon File 4.4.3" or "The on-line hacker Jargon File, version 4.4.3, 15 Jul
+"Jargon File 4.4.4" or "The on-line hacker Jargon File, version 4.4.4, 14 Aug
 2003".) The Jargon File is a common heritage of the hacker culture. Over the
 years a number of individuals have volunteered considerable time to
 maintaining the File and been recognized by the net at large as editors of
@@ -354,34 +354,36 @@ conversion. Serious pruning of old slang, nearly 100 entries failed the
 Google test and were removed. 4.4.1 13 May 2003 37157 234687 1618716 2290
 XML-Docbook format fixes. 4.4.2 22 May 2003 32629 227852 1555125 2290 Fix
 filename collisions and other small problems. 4.4.3 15 Jul 2003 37363 235135
-1629667 2293 Fix some stylesheet problems leading to missing links. Version
-numbering: Version numbers should be read as major.minor.revision. Major
-version 1 is reserved for the `old' (ITS) Jargon File, jargon-1. Major
-version 2 encompasses revisions by ESR (Eric S. Raymond) with assistance from
-GLS (Guy L. Steele, Jr.) leading up to and including the second paper
-edition. From now on, major version number N.00 will probably correspond to
-the Nth paper edition. Usually later versions will either completely
-supersede or incorporate earlier versions, so there is generally no point in
-keeping old versions around. Our thanks to the coauthors of Steele-1983 for
-oversight and assistance, and to the hundreds of Usenetters (too many to name
-here) who contributed entries and encouragement. More thanks go to several of
-the old-timers on the Usenet group alt.folklore.computers, who contributed
-much useful commentary and many corrections and valuable historical
-perspective: Joseph M. Newcomer <jn11+@andrew.cmu.edu>, Bernie Cosell
-<cosell@bbn.com>, Earl Boebert <boebert@SCTC.com>, and Joe Morris
-<jcmorris@mwunix.mitre.org>. We were fortunate enough to have the aid of some
-accomplished linguists. David Stampe <stampe@hawaii.edu> and Charles Hoequist
-<hoequist@bnr.ca> contributed valuable criticism; Joe Keane <jgk@osc.osc.com>
-helped us improve the pronunciation guides. A few bits of this text quote
-previous works. We are indebted to Brian A. LaMacchia <bal@zurich.ai.mit.edu>
-for obtaining permission for us to use material from the TMRC Dictionary;
-also, Don Libes <libes@cme.nist.gov> contributed some appropriate material
-from his excellent book Life With UNIX. We thank Per Lindberg <per@front.se>,
-author of the remarkable Swedish-language 'zine Hackerbladet, for bringing
-FOO! comics to our attention and smuggling one of the IBM hacker
-underground's own baby jargon files out to us. Thanks also to Maarten
-Litmaath for generously allowing the inclusion of the ASCII pronunciation
-guide he formerly maintained. And our gratitude to Marc Weiser of XEROX PARC
+1629667 2293 Fix some stylesheet problems leading to missing links. 4.4.4 14
+Aug 2003 37392 235271 1630579 2295 Corrected build machinery; we can make
+RPMS now. Version numbering: Version numbers should be read as
+major.minor.revision. Major version 1 is reserved for the `old' (ITS) Jargon
+File, jargon-1. Major version 2 encompasses revisions by ESR (Eric S.
+Raymond) with assistance from GLS (Guy L. Steele, Jr.) leading up to and
+including the second paper edition. From now on, major version number N.00
+will probably correspond to the Nth paper edition. Usually later versions
+will either completely supersede or incorporate earlier versions, so there is
+generally no point in keeping old versions around. Our thanks to the
+coauthors of Steele-1983 for oversight and assistance, and to the hundreds of
+Usenetters (too many to name here) who contributed entries and encouragement.
+More thanks go to several of the old-timers on the Usenet group
+alt.folklore.computers, who contributed much useful commentary and many
+corrections and valuable historical perspective: Joseph M. Newcomer
+<jn11+@andrew.cmu.edu>, Bernie Cosell <cosell@bbn.com>, Earl Boebert
+<boebert@SCTC.com>, and Joe Morris <jcmorris@mwunix.mitre.org>. We were
+fortunate enough to have the aid of some accomplished linguists. David Stampe
+<stampe@hawaii.edu> and Charles Hoequist <hoequist@bnr.ca> contributed
+valuable criticism; Joe Keane <jgk@osc.osc.com> helped us improve the
+pronunciation guides. A few bits of this text quote previous works. We are
+indebted to Brian A. LaMacchia <bal@zurich.ai.mit.edu> for obtaining
+permission for us to use material from the TMRC Dictionary; also, Don Libes
+<libes@cme.nist.gov> contributed some appropriate material from his excellent
+book Life With UNIX. We thank Per Lindberg <per@front.se>, author of the
+remarkable Swedish-language 'zine Hackerbladet, for bringing FOO! comics to
+our attention and smuggling one of the IBM hacker underground's own baby
+jargon files out to us. Thanks also to Maarten Litmaath for generously
+allowing the inclusion of the ASCII pronunciation guide he formerly
+maintained. And our gratitude to Marc Weiser of XEROX PARC
 <Marc_Weiser.PARC@xerox.com> for securing us permission to quote from PARC's
 own jargon lexicon and shipping us a copy. It is a particular pleasure to
 acknowledge the major contributions of Mark Brader and Steve Summit
@@ -1275,8 +1277,8 @@ Death Penalty Internet Exploder Internet Exploiter interrupt interrupts
 locked out intertwingled intro IRC iron Iron Age iron box ironmonger ISO
 standard cup of tea ISP ITS IWBNI IYFEG J J. Random J. Random Hacker jack in
 jaggies Java JCL JEDR Jeff K. jello Jeopardy-style quoting jibble jiffy job
-security jock joe code juggling eggs juice jump off into never-never land
-jupiter K K K&R k- kahuna kamikaze packet kangaroo code ken
+security jock joe code joe-job juggling eggs juice jump off into never-never
+land jupiter K K K&R k- kahuna kamikaze packet kangaroo code ken
 kernel-of-the-week club kgbvax KIBO kiboze kibozo kick kill file killer app
 killer micro killer poke kilo- kilogoogle KIPS KISS Principle kit KLB klone
 kludge kluge kluge around kluge up Knights of the Lambda Calculus knobs Knuth
@@ -1377,35 +1379,35 @@ infinity sitename skrog skulker slab slack slash slashdot effect sleep slim
 slop slopsucker Slowlaris slurp slurp the robot smart smart terminal smash
 case smash the stack smiley smoke smoke and mirrors smoke test smoking clover
 smoot SMOP smurf SNAFU principle snail snail-mail snap snarf snarf & barf
-snarf down snark sneaker sneakernet sniff SO social engineering social
-science number sock puppet sodium substrate soft boot softcopy software bloat
-software hoarding software laser software rot softwarily softy some random X
-sorcerer's apprentice mode source source of all good bits space-cadet
-keyboard spaceship operator SPACEWAR spaghetti code spaghetti inheritance
-spam spam bait spamblock spamhaus spamvertize spangle spawn special-case
-speed of light speedometer spell spelling flame spider spider food spiffy
-spike spin Spinning Pizza of Death spl splash screen splat splat out splork!
-spod spoiler spoiler space sponge spoof spool spool file sporgery sport death
-spungle spyware squirrelcide stack stack puke stale pointer bug Stanford
-Bunny star out state stealth manager steam-powered steved STFW stir-fried
-random stomp on Stone Age stone knives and bearskins stoppage store STR
-strided stroke strudel stubroutine studly studlycaps stunning stupid-sort
-Stupids Sturgeon's Law sucking mud sufficiently small suit suitable win
-suitably small Sun sun lounge sun-stools sunspots super source quench
-superloser superprogrammer superuser support surf Suzie COBOL swab swap swap
-space swapped in swapped out Swiss-Army chainsaw swizzle sync syntactic salt
-syntactic sugar sys-frog sysadmin sysape sysop system system mangler systems
-jock T T tail recursion talk mode talker system TAN tanked TANSTAAFL tape
-monkey tar and feather tarball tardegy taste tayste TCB TCP/IP TECO tee
-teergrube teledildonics ten-finger interface tense tentacle tenured graduate
-student tera- teraflop club terminak terminal brain death terminal illness
-terminal junkie test TeX text thanks in advance That's not a bug, that's a
-feature! the literature the network the X that can be Y is not the true X
-theology theory thinko This can't happen This time, for sure! thrash thread
-three-finger salute throwaway account thud thumb thundering herd problem
-thunk tick tick-list features tickle a bug tiger team time bomb time sink
-time T times-or-divided-by timesharing TINC Tinkerbell program TINLC tip of
-the ice-cube tired iron tits on a keyboard TLA TMRC TMRCie TMTOWTDI to a
+snarf down snark sneaker sneakernet sniff snippage SO social engineering
+social science number sock puppet sodium substrate soft boot softcopy
+software bloat software hoarding software laser software rot softwarily softy
+some random X sorcerer's apprentice mode source source of all good bits
+space-cadet keyboard spaceship operator SPACEWAR spaghetti code spaghetti
+inheritance spam spam bait spamblock spamhaus spamvertize spangle spawn
+special-case speed of light speedometer spell spelling flame spider spider
+food spiffy spike spin Spinning Pizza of Death spl splash screen splat splat
+out splork! spod spoiler spoiler space sponge spoof spool spool file sporgery
+sport death spungle spyware squirrelcide stack stack puke stale pointer bug
+Stanford Bunny star out state stealth manager steam-powered steved STFW
+stir-fried random stomp on Stone Age stone knives and bearskins stoppage
+store STR strided stroke strudel stubroutine studly studlycaps stunning
+stupid-sort Stupids Sturgeon's Law sucking mud sufficiently small suit
+suitable win suitably small Sun sun lounge sun-stools sunspots super source
+quench superloser superprogrammer superuser support surf Suzie COBOL swab
+swap swap space swapped in swapped out Swiss-Army chainsaw swizzle sync
+syntactic salt syntactic sugar sys-frog sysadmin sysape sysop system system
+mangler systems jock T T tail recursion talk mode talker system TAN tanked
+TANSTAAFL tape monkey tar and feather tarball tardegy taste tayste TCB TCP/IP
+TECO tee teergrube teledildonics ten-finger interface tense tentacle tenured
+graduate student tera- teraflop club terminak terminal brain death terminal
+illness terminal junkie test TeX text thanks in advance That's not a bug,
+that's a feature! the literature the network the X that can be Y is not the
+true X theology theory thinko This can't happen This time, for sure! thrash
+thread three-finger salute throwaway account thud thumb thundering herd
+problem thunk tick tick-list features tickle a bug tiger team time bomb time
+sink time T times-or-divided-by timesharing TINC Tinkerbell program TINLC tip
+of the ice-cube tired iron tits on a keyboard TLA TMRC TMRCie TMTOWTDI to a
 first approximation to a zeroth approximation toad toast toaster toeprint
 TOFU toggle tool toolchain toolsmith toor top-post topic drift topic group
 TOPS-10 TOPS-20 TOS tourist tourist information touristic toy toy language
