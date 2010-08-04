@@ -18,13 +18,13 @@ reads "1545 Relay #70 Panel F (moth) in relay. First actual case of bug being
 found". This wording establishes that the term was already in use at the time
 in its current specific sense -- and Hopper herself reports that the term bug
 was regularly applied to problems in radar electronics during WWII.
-[bugpic.png] The `original bug' Indeed, the use of bug to mean an industrial
-defect was already established in Thomas Edison's time, and a more specific
-and rather modern use can be found in an electrical handbook from 1896
-(Hawkin's New Catechism of Electricity, Theo. Audel & Co.) which says: "The
-term `bug' is used to a limited extent to designate any fault or trouble in
-the connections or working of electric apparatus." It further notes that the
-term is "said to have originated in quadruplex telegraphy and have been
+[bugpic-color.jpg] The `original bug' Indeed, the use of bug to mean an
+industrial defect was already established in Thomas Edison's time, and a more
+specific and rather modern use can be found in an electrical handbook from
+1896 (Hawkin's New Catechism of Electricity, Theo. Audel & Co.) which says:
+"The term `bug' is used to a limited extent to designate any fault or trouble
+in the connections or working of electric apparatus." It further notes that
+the term is "said to have originated in quadruplex telegraphy and have been
 transferred to all electric apparatus." The latter observation may explain a
 common folk etymology of the term; that it came from telephone company usage,
 in which "bugs in a telephone cable" were blamed for noisy lines. Though this
@@ -77,4 +77,4 @@ money constraints was not actually exhibited for years afterwards. Thus, the
 process of investigating the original-computer-bug bug fixed it in an
 entirely unexpected way, by making the myth true! --ESR] [73-07-29.png] It
 helps to remember that this dates from 1973. (The next cartoon in the
-Crunchly saga is 73-10-31)
+Crunchly saga is 73-10-31. The previous cartoon was 73-07-29.)

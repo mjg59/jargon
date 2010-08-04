@@ -16,4 +16,5 @@ very brief time before they settle down to the correct value. If another
 circuit inspects the output at just the wrong time, reading the random value,
 the results can be very wrong and very hard to debug (a glitch is one of many
 causes of electronic {heisenbug}s). [73-06-04.png] Coping with a hydraulic
-{glitch}. (The next cartoon in the Crunchly saga is 73-07-24)
+{glitch}. (The next cartoon in the Crunchly saga is 73-07-24. The previous
+one is 73-05-28.)

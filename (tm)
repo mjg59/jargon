@@ -1,5 +1,5 @@
- #======= THIS IS THE JARGON FILE, VERSION 4.4.4, 14 AUG 2003 =======# The
-Jargon File (version 4.4.4)
+ #======= THIS IS THE JARGON FILE, VERSION 4.4.5, 04 OCT 2003 =======# The
+Jargon File (version 4.4.5)
 ________________________________________________________________ Table of
 Contents Welcome to the Jargon File I. Introduction 1. Hacker Slang and
 Hacker Culture 2. Of Slang, Jargon, and Techspeak 3. Revision History 4.
@@ -26,7 +26,7 @@ you can do with it, but there are traditions about its proper use to which
 many hackers are quite strongly attached. Please extend the courtesy of
 proper citation when you quote the File, ideally with a version number, as it
 will change and grow over time. (Examples of appropriate citation form:
-"Jargon File 4.4.4" or "The on-line hacker Jargon File, version 4.4.4, 14 Aug
+"Jargon File 4.4.5" or "The on-line hacker Jargon File, version 4.4.5, 4 Oct
 2003".) The Jargon File is a common heritage of the hacker culture. Over the
 years a number of individuals have volunteered considerable time to
 maintaining the File and been recognized by the net at large as editors of
@@ -356,14 +356,15 @@ XML-Docbook format fixes. 4.4.2 22 May 2003 32629 227852 1555125 2290 Fix
 filename collisions and other small problems. 4.4.3 15 Jul 2003 37363 235135
 1629667 2293 Fix some stylesheet problems leading to missing links. 4.4.4 14
 Aug 2003 37392 235271 1630579 2295 Corrected build machinery; we can make
-RPMS now. Version numbering: Version numbers should be read as
-major.minor.revision. Major version 1 is reserved for the `old' (ITS) Jargon
-File, jargon-1. Major version 2 encompasses revisions by ESR (Eric S.
-Raymond) with assistance from GLS (Guy L. Steele, Jr.) leading up to and
-including the second paper edition. From now on, major version number N.00
-will probably correspond to the Nth paper edition. Usually later versions
-will either completely supersede or incorporate earlier versions, so there is
-generally no point in keeping old versions around. Our thanks to the
+RPMS now. 4.4.5 4 Oct 2003 37482 235858 1634767 2299 Minor updates. Four new
+entries and a better original-bug picture. Version numbering: Version numbers
+should be read as major.minor.revision. Major version 1 is reserved for the
+`old' (ITS) Jargon File, jargon-1. Major version 2 encompasses revisions by
+ESR (Eric S. Raymond) with assistance from GLS (Guy L. Steele, Jr.) leading
+up to and including the second paper edition. From now on, major version
+number N.00 will probably correspond to the Nth paper edition. Usually later
+versions will either completely supersede or incorporate earlier versions, so
+there is generally no point in keeping old versions around. Our thanks to the
 coauthors of Steele-1983 for oversight and assistance, and to the hundreds of
 Usenetters (too many to name here) who contributed entries and encouragement.
 More thanks go to several of the old-timers on the Usenet group
@@ -606,131 +607,132 @@ The last is spoken of as a mythical absolute, approximated but never actually
 attained. Another similar scale is used for describing the reliability of
 software: broken flaky dodgy fragile brittle solid robust bulletproof
 armor-plated Note, however, that `dodgy' is primarily Commonwealth Hackish
-(it is rare in the U.S.) and may change places with `flaky' for some
-speakers. Coinages for describing lossage seem to call forth the very finest
-in hackish linguistic inventiveness; it has been truly said that hackers have
-even more words for equipment failures than Yiddish has for obnoxious people.
-Chapter 5. Hacker Writing Style We've already seen that hackers often coin
-jargon by overgeneralizing grammatical rules. This is one aspect of a more
-general fondness for form-versus-content language jokes that shows up
-particularly in hackish writing. One correspondent reports that he
-consistently misspells `wrong' as `worng'. Others have been known to
-criticize glitches in Jargon File drafts by observing (in the mode of Douglas
-Hofstadter) "This sentence no verb", or "Too repetetetive", or "Bad speling",
-or "Incorrectspa cing." Similarly, intentional spoonerisms are often made of
-phrases relating to confusion or things that are confusing; `dain bramage'
-for `brain damage' is perhaps the most common (similarly, a hacker would be
-likely to write "Excuse me, I'm cixelsyd today", rather than "I'm dyslexic
-today"). This sort of thing is quite common and is enjoyed by all concerned.
-Hackers tend to use quotes as balanced delimiters like parentheses, much to
-the dismay of American editors. Thus, if "Jim is going" is a phrase, and so
-are "Bill runs" and "Spock groks", then hackers generally prefer to write:
-"Jim is going", "Bill runs", and "Spock groks". This is incorrect according
-to standard American usage (which would put the continuation commas and the
-final period inside the string quotes); however, it is counter-intuitive to
-hackers to mutilate literal strings with characters that don't belong in
-them. Given the sorts of examples that can come up in discussions of
-programming, American-style quoting can even be grossly misleading. When
-communicating command lines or small pieces of code, extra characters can be
-a real pain in the neck. Consider, for example, a sentence in a vi tutorial
-that looks like this: Then delete a line from the file by typing "dd".
-Standard usage would make this Then delete a line from the file by typing
-"dd." but that would be very bad -- because the reader would be prone to type
-the string d-d-dot, and it happens that in vi(1), dot repeats the last
-command accepted. The net result would be to delete two lines! The Jargon
-File follows hackish usage throughout. Interestingly, a similar style is now
-preferred practice in Great Britain, though the older style (which became
-established for typographical reasons having to do with the aesthetics of
-comma and quotes in typeset text) is still accepted there. Hart's Rules and
-the Oxford Dictionary for Writers and Editors call the hacker-like style
-`new' or `logical' quoting. This returns British English to the style many
-other languages (including Spanish, French, Italian, Catalan, and German)
-have been using all along. Another hacker habit is a tendency to distinguish
-between `scare' quotes and `speech' quotes; that is, to use British-style
-single quotes for marking and reserve American-style double quotes for actual
-reports of speech or text included from elsewhere. Interestingly, some
-authorities describe this as correct general usage, but mainstream American
-English has gone to using double-quotes indiscriminately enough that hacker
-usage appears marked [and, in fact, I thought this was a personal quirk of
-mine until I checked with Usenet --ESR] One further permutation that is
-definitely not standard is a hackish tendency to do marking quotes by using
-apostrophes (single quotes) in pairs; that is, 'like this'. This is modelled
-on string and character literal syntax in some programming languages
-(reinforced by the fact that many character-only terminals display the
-apostrophe in typewriter style, as a vertical single quote). One quirk that
-shows up frequently in the email style of Unix hackers in particular is a
-tendency for some things that are normally all-lowercase (including usernames
-and the names of commands and C routines) to remain uncapitalized even when
-they occur at the beginning of sentences. It is clear that, for many hackers,
-the case of such identifiers becomes a part of their internal representation
-(the `spelling') and cannot be overridden without mental effort (an
-appropriate reflex because Unix and C both distinguish cases and confusing
-them can lead to lossage). A way of escaping this dilemma is simply to avoid
-using these constructions at the beginning of sentences. There seems to be a
-meta-rule behind these nonstandard hackerisms to the effect that precision of
-expression is more important than conformance to traditional rules; where the
-latter create ambiguity or lose information they can be discarded without a
-second thought. It is notable in this respect that other hackish inventions
-(for example, in vocabulary) also tend to carry very precise shades of
-meaning even when constructed to appear slangy and loose. In fact, to a
-hacker, the contrast between `loose' form and `tight' content in jargon is a
-substantial part of its humor! Hackers have also developed a number of
-punctuation and emphasis conventions adapted to single-font all-ASCII
-communications links, and these are occasionally carried over into written
-documents even when normal means of font changes, underlining, and the like
-are available. One of these is that TEXT IN ALL CAPS IS INTERPRETED AS
-`LOUD', and this becomes such an ingrained synesthetic reflex that a person
-who goes to caps-lock while in talk mode may be asked to "stop shouting,
-please, you're hurting my ears!". Also, it is common to use bracketing with
-unusual characters to signify emphasis. The asterisk is most common, as in
-"What the *hell*?" even though this interferes with the common use of the
-asterisk suffix as a footnote mark. The underscore is also common, suggesting
-underlining (this is particularly common with book titles; for example, "It
-is often alleged that Joe Haldeman wrote _The_Forever_War_ as a rebuttal to
-Robert Heinlein's earlier novel of the future military,
-_Starship_Troopers_."). Other forms exemplified by "=hell=", "\hell/", or
-"/hell/" are occasionally seen (it's claimed that in the last example the
-first slash pushes the letters over to the right to make them italic, and the
-second keeps them from falling over). On FidoNet, you might see #bright# and
-^dark^ text, which was actually interpreted by some reader software. Finally,
-words may also be emphasized L I K E T H I S, or by a series of carets (^)
-under them on the next line of the text. There is a semantic difference
-between *emphasis like this* (which emphasizes the phrase as a whole), and
-*emphasis* *like* *this* (which suggests the writer speaking very slowly and
-distinctly, as if to a very young child or a mentally impaired person).
-Bracketing a word with the `*' character may also indicate that the writer
-wishes readers to consider that an action is taking place or that a sound is
-being made. Examples: *bang*, *hic*, *ring*, *grin*, *kick*, *stomp*,
-*mumble*. One might also see the above sound effects as <bang>, <hic>,
-<ring>, <grin>, <kick>, <stomp>, <mumble>. This use of angle brackets to mark
-their contents originally derives from conventions used in BNF, but since
-about 1993 it has been reinforced by the HTML markup used on the World Wide
-Web. Angle-bracket enclosure is also used to indicate that a term stands for
-some random member of a larger class (this is straight from BNF). Examples
-like the following are common: So this <ethnic> walks into a bar one day...
-There is also an accepted convention for `writing under erasure'; the text>
-Be nice to this fool^H^H^H^Hgentleman, he's visiting from corporate HQ. reads
-roughly as "Be nice to this fool, er, gentleman...", with irony emphasized.
-The digraph ^H is often used as a print representation for a backspace, and
-was actually very visible on old-style printing terminals. As the text was
-being composed the characters would be echoed and printed immediately, and
-when a correction was made the backspace keystrokes would be echoed with the
-string `^H'. Of course, the final composed text would have no trace of the
-backspace characters (or the original erroneous text). Accidental writing
-under erasure occurs when using the Unix talk program to chat interactively
-to another user. On a PC-style keyboard most users instinctively press the
-backspace key to delete mistakes, but this may not achieve the desired
-effect, and merely displays a ^H symbol. The user typically presses backspace
-a few times before their brain realises the problem -- especially likely if
-the user is a touch-typist -- and since each character is transmitted as soon
-as it is typed, Freudian slips and other inadvertent admissions are (barring
-network delays) clearly visible for the other user to see. Deliberate use of
-^H for writing under erasure parallels (and may have been influenced by) the
-ironic use of `slashouts' in science-fiction fanzines. A related habit uses
-editor commands to signify corrections to previous text. This custom faded in
-email as more mailers got good editing capabilities, only to take on new life
-on IRCs and other line-based chat systems. charlie: I've seen that term used
-on alt.foobar often. lisa: Send it to Erik for the File. lisa:
+(it is rare in the U.S., where `squirrelly' may be more common) and may
+change places with `flaky' for some speakers. Coinages for describing lossage
+seem to call forth the very finest in hackish linguistic inventiveness; it
+has been truly said that hackers have even more words for equipment failures
+than Yiddish has for obnoxious people. Chapter 5. Hacker Writing Style We've
+already seen that hackers often coin jargon by overgeneralizing grammatical
+rules. This is one aspect of a more general fondness for form-versus-content
+language jokes that shows up particularly in hackish writing. One
+correspondent reports that he consistently misspells `wrong' as `worng'.
+Others have been known to criticize glitches in Jargon File drafts by
+observing (in the mode of Douglas Hofstadter) "This sentence no verb", or
+"Too repetetetive", or "Bad speling", or "Incorrectspa cing." Similarly,
+intentional spoonerisms are often made of phrases relating to confusion or
+things that are confusing; `dain bramage' for `brain damage' is perhaps the
+most common (similarly, a hacker would be likely to write "Excuse me, I'm
+cixelsyd today", rather than "I'm dyslexic today"). This sort of thing is
+quite common and is enjoyed by all concerned. Hackers tend to use quotes as
+balanced delimiters like parentheses, much to the dismay of American editors.
+Thus, if "Jim is going" is a phrase, and so are "Bill runs" and "Spock
+groks", then hackers generally prefer to write: "Jim is going", "Bill runs",
+and "Spock groks". This is incorrect according to standard American usage
+(which would put the continuation commas and the final period inside the
+string quotes); however, it is counter-intuitive to hackers to mutilate
+literal strings with characters that don't belong in them. Given the sorts of
+examples that can come up in discussions of programming, American-style
+quoting can even be grossly misleading. When communicating command lines or
+small pieces of code, extra characters can be a real pain in the neck.
+Consider, for example, a sentence in a vi tutorial that looks like this: Then
+delete a line from the file by typing "dd". Standard usage would make this
+Then delete a line from the file by typing "dd." but that would be very bad
+-- because the reader would be prone to type the string d-d-dot, and it
+happens that in vi(1), dot repeats the last command accepted. The net result
+would be to delete two lines! The Jargon File follows hackish usage
+throughout. Interestingly, a similar style is now preferred practice in Great
+Britain, though the older style (which became established for typographical
+reasons having to do with the aesthetics of comma and quotes in typeset text)
+is still accepted there. Hart's Rules and the Oxford Dictionary for Writers
+and Editors call the hacker-like style `new' or `logical' quoting. This
+returns British English to the style many other languages (including Spanish,
+French, Italian, Catalan, and German) have been using all along. Another
+hacker habit is a tendency to distinguish between `scare' quotes and `speech'
+quotes; that is, to use British-style single quotes for marking and reserve
+American-style double quotes for actual reports of speech or text included
+from elsewhere. Interestingly, some authorities describe this as correct
+general usage, but mainstream American English has gone to using
+double-quotes indiscriminately enough that hacker usage appears marked [and,
+in fact, I thought this was a personal quirk of mine until I checked with
+Usenet --ESR] One further permutation that is definitely not standard is a
+hackish tendency to do marking quotes by using apostrophes (single quotes) in
+pairs; that is, 'like this'. This is modelled on string and character literal
+syntax in some programming languages (reinforced by the fact that many
+character-only terminals display the apostrophe in typewriter style, as a
+vertical single quote). One quirk that shows up frequently in the email style
+of Unix hackers in particular is a tendency for some things that are normally
+all-lowercase (including usernames and the names of commands and C routines)
+to remain uncapitalized even when they occur at the beginning of sentences.
+It is clear that, for many hackers, the case of such identifiers becomes a
+part of their internal representation (the `spelling') and cannot be
+overridden without mental effort (an appropriate reflex because Unix and C
+both distinguish cases and confusing them can lead to lossage). A way of
+escaping this dilemma is simply to avoid using these constructions at the
+beginning of sentences. There seems to be a meta-rule behind these
+nonstandard hackerisms to the effect that precision of expression is more
+important than conformance to traditional rules; where the latter create
+ambiguity or lose information they can be discarded without a second thought.
+It is notable in this respect that other hackish inventions (for example, in
+vocabulary) also tend to carry very precise shades of meaning even when
+constructed to appear slangy and loose. In fact, to a hacker, the contrast
+between `loose' form and `tight' content in jargon is a substantial part of
+its humor! Hackers have also developed a number of punctuation and emphasis
+conventions adapted to single-font all-ASCII communications links, and these
+are occasionally carried over into written documents even when normal means
+of font changes, underlining, and the like are available. One of these is
+that TEXT IN ALL CAPS IS INTERPRETED AS `LOUD', and this becomes such an
+ingrained synesthetic reflex that a person who goes to caps-lock while in
+talk mode may be asked to "stop shouting, please, you're hurting my ears!".
+Also, it is common to use bracketing with unusual characters to signify
+emphasis. The asterisk is most common, as in "What the *hell*?" even though
+this interferes with the common use of the asterisk suffix as a footnote
+mark. The underscore is also common, suggesting underlining (this is
+particularly common with book titles; for example, "It is often alleged that
+Joe Haldeman wrote _The_Forever_War_ as a rebuttal to Robert Heinlein's
+earlier novel of the future military, _Starship_Troopers_."). Other forms
+exemplified by "=hell=", "\hell/", or "/hell/" are occasionally seen (it's
+claimed that in the last example the first slash pushes the letters over to
+the right to make them italic, and the second keeps them from falling over).
+On FidoNet, you might see #bright# and ^dark^ text, which was actually
+interpreted by some reader software. Finally, words may also be emphasized L
+I K E T H I S, or by a series of carets (^) under them on the next line of
+the text. There is a semantic difference between *emphasis like this* (which
+emphasizes the phrase as a whole), and *emphasis* *like* *this* (which
+suggests the writer speaking very slowly and distinctly, as if to a very
+young child or a mentally impaired person). Bracketing a word with the `*'
+character may also indicate that the writer wishes readers to consider that
+an action is taking place or that a sound is being made. Examples: *bang*,
+*hic*, *ring*, *grin*, *kick*, *stomp*, *mumble*. One might also see the
+above sound effects as <bang>, <hic>, <ring>, <grin>, <kick>, <stomp>,
+<mumble>. This use of angle brackets to mark their contents originally
+derives from conventions used in BNF, but since about 1993 it has been
+reinforced by the HTML markup used on the World Wide Web. Angle-bracket
+enclosure is also used to indicate that a term stands for some random member
+of a larger class (this is straight from BNF). Examples like the following
+are common: So this <ethnic> walks into a bar one day... There is also an
+accepted convention for `writing under erasure'; the text> Be nice to this
+fool^H^H^H^Hgentleman, he's visiting from corporate HQ. reads roughly as "Be
+nice to this fool, er, gentleman...", with irony emphasized. The digraph ^H
+is often used as a print representation for a backspace, and was actually
+very visible on old-style printing terminals. As the text was being composed
+the characters would be echoed and printed immediately, and when a correction
+was made the backspace keystrokes would be echoed with the string `^H'. Of
+course, the final composed text would have no trace of the backspace
+characters (or the original erroneous text). Accidental writing under erasure
+occurs when using the Unix talk program to chat interactively to another
+user. On a PC-style keyboard most users instinctively press the backspace key
+to delete mistakes, but this may not achieve the desired effect, and merely
+displays a ^H symbol. The user typically presses backspace a few times before
+their brain realises the problem -- especially likely if the user is a
+touch-typist -- and since each character is transmitted as soon as it is
+typed, Freudian slips and other inadvertent admissions are (barring network
+delays) clearly visible for the other user to see. Deliberate use of ^H for
+writing under erasure parallels (and may have been influenced by) the ironic
+use of `slashouts' in science-fiction fanzines. A related habit uses editor
+commands to signify corrections to previous text. This custom faded in email
+as more mailers got good editing capabilities, only to take on new life on
+IRCs and other line-based chat systems. charlie: I've seen that term used on
+alt.foobar often. lisa: Send it to Erik for the File. lisa:
 Oops...s/Erik/Eric/. The s/Erik/Eric/ says "change Erik to Eric in the
 preceding". This syntax is borrowed from the Unix editing tools ed and sed,
 but is widely recognized by non-Unix hackers as well. In a formula, *
@@ -1163,8 +1165,8 @@ book titles boot Borg borken bot bottom feeder bottom-post bottom-up
 implementation bounce bounce message boustrophedon box boxed comments boxen
 boxology bozotic brain dump brain fart brain-damaged brain-dead braino
 brainwidth bread crumbs break break-even point breath-of-life packet breedle
-Breidbart Index bricktext bring X to its knees brittle broadcast storm broken
-broken arrow broken-ring network BrokenWindows broket Brooks's Law
+brick Breidbart Index bricktext bring X to its knees brittle broadcast storm
+broken broken arrow broken-ring network BrokenWindows broket Brooks's Law
 brown-paper-bag bug browser BRS brute force brute force and ignorance BSD
 BSOD BUAF BUAG bubble sort bucky bits buffer chuck buffer overflow bug
 bug-compatible bug-for-bug compatible bug-of-the-month club bulletproof
@@ -1253,14 +1255,14 @@ gorp GOSMACS gotcha GPL GPV gray goo gray hat Great Internet Explosion Great
 Renaming Great Runes Great Worm great-wall green bytes green card green
 lightning green machine Green's Theorem greenbar grep gribble grilf grind
 grind crank gritch grok gronk gronk out gronked grovel grue grunge gubbish
-Guido guiltware gumby gunch gunpowder chicken guru guru meditation gweep H h
-ha ha only serious hack hack attack hack mode hack on hack together hack up
-hack value hacked off hacked up hacker hacker ethic hacker humor Hackers (the
-movie) hacking run Hacking X for Y Hackintosh hackish hackishness hackitude
-hair hairball hairy HAKMEM hakspek Halloween Documents ham hammer hamster
-HAND hand cruft hand-hacking hand-roll handle handshaking handwave hang
-Hanlon's Razor happily hard boot hardcoded hardwarily hardwired has the X
-nature hash bucket hash collision hat HCF heads down heartbeat heatseeker
+Guido guiltware gumby gunch gunpowder chicken guru guru meditation gweep GWF
+H h ha ha only serious hack hack attack hack mode hack on hack together hack
+up hack value hacked off hacked up hacker hacker ethic hacker humor Hackers
+(the movie) hacking run Hacking X for Y Hackintosh hackish hackishness
+hackitude hair hairball hairy HAKMEM hakspek Halloween Documents ham hammer
+hamster HAND hand cruft hand-hacking hand-roll handle handshaking handwave
+hang Hanlon's Razor happily hard boot hardcoded hardwarily hardwired has the
+X nature hash bucket hash collision hat HCF heads down heartbeat heatseeker
 heavy metal heavy wizardry heavyweight Hed Rat heisenbug hell desk hello
 sailor! hello world hello, wall! hex hexadecimal hexit HHOK HHOS hidden flag
 high bit high moby highly hing hired gun hirsute HLL hoarding hog hole
@@ -1275,10 +1277,10 @@ infinite loop Infinite-Monkey Theorem infinity inflate Infocom initgame
 insanely great installfest INTERCAL InterCaps interesting Internet Internet
 Death Penalty Internet Exploder Internet Exploiter interrupt interrupts
 locked out intertwingled intro IRC iron Iron Age iron box ironmonger ISO
-standard cup of tea ISP ITS IWBNI IYFEG J J. Random J. Random Hacker jack in
-jaggies Java JCL JEDR Jeff K. jello Jeopardy-style quoting jibble jiffy job
-security jock joe code joe-job juggling eggs juice jump off into never-never
-land jupiter K K K&R k- kahuna kamikaze packet kangaroo code ken
+standard cup of tea ISP Itanic ITS IWBNI IYFEG J J. Random J. Random Hacker
+jack in jaggies Java JCL JEDR Jeff K. jello Jeopardy-style quoting jibble
+jiffy job security jock joe code joe-job juggling eggs juice jump off into
+never-never land jupiter K K K&R k- kahuna kamikaze packet kangaroo code ken
 kernel-of-the-week club kgbvax KIBO kiboze kibozo kick kill file killer app
 killer micro killer poke kilo- kilogoogle KIPS KISS Principle kit KLB klone
 kludge kluge kluge around kluge up Knights of the Lambda Calculus knobs Knuth
@@ -1337,16 +1339,16 @@ PFY phage phase phase of the moon phase-wrapping PHB phreaker phreaking pico-
 pig-tail pilot error ping Ping O' Death ping storm pink contract pink wire
 pipe pistol pixel sort pizza box plaid screen plain-ASCII Plan 9 plan file
 platinum-iridium playpen playte plokta plonk plug-and-pray plugh plumbing PM
-point-and-drool interface pointy hat pointy-haired poke poll polygon pusher
-POM ponytail pop poser post postcardware Postel's Prescription posting
-postmaster PostScript pound on power cycle power hit pr0n precedence lossage
-pred prepend prestidigitization pretty pictures prettyprint pretzel key
-priesthood prime time print printing discussion priority interrupt profile
-progasm proggy proglet program Programmer's Cheer programming programming
-fluid propeller head propeller key proprietary protocol provocative
-maintenance prowler pseudo pseudoprime pseudosuit psychedelicware psyton
-pubic directory puff pumpkin holder pumpking punched card punt Purple Book
-purple wire push Python Q quad quadruple bucky quantifiers quantum
+point release point-and-drool interface pointy hat pointy-haired poke poll
+polygon pusher POM ponytail pop poser post postcardware Postel's Prescription
+posting postmaster PostScript pound on power cycle power hit pr0n precedence
+lossage pred prepend prestidigitization pretty pictures prettyprint pretzel
+key priesthood prime time print printing discussion priority interrupt
+profile progasm proggy proglet program Programmer's Cheer programming
+programming fluid propeller head propeller key proprietary protocol
+provocative maintenance prowler pseudo pseudoprime pseudosuit psychedelicware
+psyton pubic directory puff pumpkin holder pumpking punched card punt Purple
+Book purple wire push Python Q quad quadruple bucky quantifiers quantum
 bogodynamics quarter ques quick-and-dirty quine Quirk objection quote chapter
 and verse quotient quux qux QWERTY R rabbit job rain dance rainbow series
 random Random Number God random numbers randomness rape rare mode raster

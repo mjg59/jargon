@@ -27,8 +27,8 @@ bondage-and-discipline language bonk/oif book titles boot Borg borken bot
 bottom feeder bottom-post bottom-up implementation bounce bounce message
 boustrophedon box boxed comments boxen boxology bozotic brain dump brain fart
 brain-damaged brain-dead braino brainwidth bread crumbs break break-even
-point breath-of-life packet breedle Breidbart Index bricktext bring X to its
-knees brittle broadcast storm broken broken arrow broken-ring network
+point breath-of-life packet breedle brick Breidbart Index bricktext bring X
+to its knees brittle broadcast storm broken broken arrow broken-ring network
 BrokenWindows broket Brooks's Law brown-paper-bag bug browser BRS brute force
 brute force and ignorance BSD BSOD BUAF BUAG bubble sort bucky bits buffer
 chuck buffer overflow bug bug-compatible bug-for-bug compatible
