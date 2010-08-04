@@ -1,113 +1,21 @@
- 1985, most customers had already made the traumatic decision to abandon the
-PDP-10, usually for VMS or Unix boxes. Most of the Mars computers built ended
-up being purchased by CompuServe. This tale and the related saga of {Foonly}
-hold a lesson for hackers: if you want to play in the {Real World}, you need
-to learn Real World moves. :martian: n. A packet sent on a TCP/IP network
-with a source address of the test loopback interface [127.0.0.1]. This means
-that it will come back labeled with a source address that is clearly not of
-this earth. "The domain server is getting lots of packets from Mars. Does
-that gateway have a martian filter?" Compare {Christmas tree packet},
-{Godzillagram}. :massage: vt. [common] Vague term used to describe `smooth'
-transformations of a data set into a different form, esp. transformations
-that do not lose information. Connotes less pain than {munch} or {crunch}.
-"He wrote a program that massages X bitmap files into GIF format." Compare
-{slurp}. :math-out: n. [poss. from `white-out' (the blizzard variety)] A
-paper or presentation so encrusted with mathematical or other formal notation
-as to be incomprehensible. This may be a device for concealing the fact that
-it is actually {content-free}. see also {numbers}, {social science number}.
-:Matrix: n. [FidoNet] 1. What the Opus BBS software and sysops call
-{FidoNet}. 2. Fanciful term for a {cyberspace} expected to emerge from
-current networking experiments (see {the network}). The name of the rather
-good 1999 {cypherpunk} movie "The Matrix" played on this sense, which however
-had been established for years before. 3. The totality of present-day
-computer networks (popularized in this sense by John Quarterman; rare outside
-academic literature). :maximum Maytag mode: n. What a {washing machine} or,
-by extension, any disk drive is in when it's being used so heavily that it's
-shaking like an old Maytag with an unbalanced load. If prolonged for any
-length of time, can lead to disks becoming {walking drives}. In 1999 it's
-been some years since hard disks were large enough to do this, but the same
-phenomenon has recently been reported with 24X CD-ROM drives. :meatspace:
-/meet'spays/ n. The physical world, where the meat lives - as opposed to
-{cyberspace}. Hackers are actually more willing to use this term than
-`cyberspace', because it's not speculative - we already have a running
-meatspace implementation (the universe). Compare {RL}. :meatware: n. Synonym
-for {wetware}. Less common. :meeces: /mees'*z/ n. [TMRC] Occasional furry
-visitors who are not {urchin}s. [That is, mice. This may no longer be in live
-use; it clearly derives from the refrain of the early-1960s cartoon character
-Mr. Jinks: "I hate meeces to _pieces_!" -- ESR] :meg: /meg/ n. see
-{{quantifiers}}. :mega-: /me'g*/ pref. [SI] see {{quantifiers}}. :megapenny:
-/meg'*-pen`ee/ n. $10,000 (1 cent * 10^6). Used semi-humorously as a unit in
-comparing computer cost and performance figures. :MEGO: /me'goh/ or /mee'goh/
-[`My Eyes Glaze Over', often `Mine Eyes Glazeth (sic) Over', attributed to
-the futurologist Herman Kahn] Also `MEGO factor'. 1. n. A {handwave} intended
-to confuse the listener and hopefully induce agreement because the listener
-does not want to admit to not understanding what is going on. MEGO is usually
-directed at senior management by engineers and contains a high proportion of
-{TLA}s. 2. excl. An appropriate response to MEGO tactics. 3. Among
-non-hackers, often refers not to behavior that causes the eyes to glaze, but
-to the eye-glazing reaction itself, which may be triggered by the mere threat
-of technical detail as effectively as by an actual excess of it. :meltdown,
-network: n. see {network meltdown}. :meme: /meem/ n. [coined by analogy with
-`gene', by Richard Dawkins] An idea considered as a {replicator}, esp. with
-the connotation that memes parasitize people into propagating them much as
-viruses do. Used esp. in the phrase `meme complex' denoting a group of
-mutually supporting memes that form an organized belief system, such as a
-religion. This lexicon is an (epidemiological) vector of the `hacker
-subculture' meme complex; each entry might be considered a meme. However,
-`meme' is often misused to mean `meme complex'. Use of the term connotes
-acceptance of the idea that in humans (and presumably other tool- and
-language-using sophonts) cultural evolution by selection of adaptive ideas
-has superseded biological evolution by selection of hereditary traits.
-Hackers find this idea congenial for tolerably obvious reasons. :meme plague:
-n. The spread of a successful but pernicious {meme}, esp. one that
-parasitizes the victims into giving their all to propagate it. Astrology,
-BASIC, and the other guy's religion are often considered to be examples. This
-usage is given point by the historical fact that `joiner' ideologies like
-Naziism or various forms of millennarian Christianity have exhibited
-plague-like cycles of exponential growth followed by collapses to small
-reservoir populations. :memetics: /me-met'iks/ n. [from {meme}] The study of
-memes. As of early 1999, this is still an extremely informal and speculative
-endeavor, though the first steps towards at least statistical rigor have been
-made by H. Keith Henson and others. Memetics is a popular topic for
-speculation among hackers, who like to see themselves as the architects of
-the new information ecologies in which memes live and replicate. :memory
-farts: n. The flatulent sounds that some DOS box BIOSes (most notably AMI's)
-make when checking memory on bootup. :memory leak: n. An error in a program's
-dynamic-store allocation logic that causes it to fail to reclaim discarded
-memory, leading to eventual collapse due to memory exhaustion. Also (esp. at
-CMU) called {core leak}. These problems were severe on older machines with
-small, fixed-size address spaces, and special "leak detection" tools were
-commonly written to root them out. With the advent of virtual memory, it is
-unfortunately easier to be sloppy about wasting a bit of memory (although
-when you run out of memory on a VM machine, it means you've got a _real_
-leak!). see {aliasing bug}, {fandango on core}, {smash the stack},
-{precedence lossage}, {overrun screw}, {leaky heap}, {leak}. :memory smash:
-n. [XEROX PARC] Writing through a pointer that doesn't point to what you
-think it does. This occasionally reduces your machine to a rubble of bits.
-Note that this is subtly different from (and more general than) related terms
-such as a {memory leak} or {fandango on core} because it doesn't imply an
-allocation error or overrun condition. :menuitis: /men`yoo-i:'tis/ n.
-Notional disease suffered by software with an obsessively simple-minded menu
-interface and no escape. Hackers find this intensely irritating and much
-prefer the flexibility of command-line or language-style interfaces,
-especially those customizable via macros or a special-purpose language in
-which one can encode useful hacks. see {user-obsequious}, {drool-proof
-paper}, {WIMP environment}, {for the rest of us}. :mess-dos: /mes-dos/ n.
-[semi-obsolescent now that DOS is] Derisory term for MS-DOS. Often followed
-by the ritual banishing "Just say No!" see {{MS-DOS}}. Most hackers (even
-many MS-DOS hackers) loathed MS-DOS for its single-tasking nature, its limits
-on application size, its nasty primitive interface, and its ties to IBMness
-and Microsoftness (see {fear and loathing}). Also `mess-loss', `messy-dos',
-`mess-dog', `mess-dross', `mush-dos', and various combinations thereof. In
-Ireland and the U.K. it is even sometimes called `Domestos' after a brand of
-toilet cleanser. :meta: /me't*/ or /may't*/ or (Commonwealth) /mee't*/
-adj.,pref. [from analytic philosophy] One level of description up. A
-metasyntactic variable is a variable in notation used to describe syntax, and
-meta-language is language used to describe language. This is difficult to
-explain briefly, but much hacker humor turns on deliberate confusion between
-meta-levels. see {{hacker humor}}. :meta bit: n. The top bit of an 8-bit
-character, which is on in character values 128-255. Also called {high bit},
-{alt bit}, or (rarely) {hobbit}. Some terminals and consoles (see
-{space-cadet keyboard}) have a META shift key. Others (including, _mirabile
-dictu_, keyboards on IBM PC-class machines) have an ALT key. see also {bucky
-bits}. Historical note: although in modern usage shaped by a universe of
+ :MS-DOS:: /M-S-dos/ n. [MicroSoft Disk Operating System] A {clone} of
+{{CP/M}} for the 8088 crufted together in 6 weeks by hacker Tim Paterson at
+Seattle Computer Products, who called the original QDOS (Quick and Dirty
+Operating System) and is said to have regretted it ever since. Microsoft
+licensed QDOS in order to have something to demo for IBM on time, and the
+rest is history. Numerous features, including vaguely Unix-like but rather
+broken support for subdirectories, I/O redirection, and pipelines, were
+hacked into Microsoft's 2.0 and subsequent versions; as a result, there are
+two or more incompatible versions of many system calls, and MS-DOS
+programmers can never agree on basic things like what character to use as an
+option switch or whether to be case-sensitive. The resulting appalling mess
+is now the highest-unit-volume OS in history. Often known simply as DOS,
+which annoys people familiar with other similarly abbreviated operating
+systems (the name goes back to the mid-1960s, when it was attached to IBM's
+first disk operating system for the 360). The name further annoys those who
+know what the term {operating system} does (or ought to) connote; DOS is more
+properly a set of relatively simple interrupt services. Some people like to
+pronounce DOS like "dose", as in "I don't work on dose, man!", or to compare
+it to a dose of brain-damaging drugs (a slogan button in wide circulation
+among hackers exhorts: "MS-DOS: Just say No!"). see {mess-dos},
+{ill-behaved}.

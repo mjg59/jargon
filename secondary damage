@@ -1,6 +1,6 @@
- :secondary damage: /n./ When a fatal error occurs (esp. a {segfault}) the
+ :secondary damage: n. When a fatal error occurs (esp. a {segfault}) the
 immediate cause may be that a pointer has been trashed due to a previous
-{fandango on core}. However, this fandango may have been due to an *earlier*
+{fandango on core}. However, this fandango may have been due to an _earlier_
 fandango, so no amount of analysis will reveal (directly) how the damage
 occurred. "The data structure was clobbered, but it was secondary damage." By
 extension, the corruption resulting from N cascaded fandangoes on core is

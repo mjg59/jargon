@@ -1,19 +1,10 @@
- :Great Runes: /n./ Uppercase-only text or display messages. Some archaic
+ :Great Runes: n. Uppercase-only text or display messages. Some archaic
 operating systems still emit these. see also {runes}, {smash case}, {fold
-case}. Decades ago, back in the days when it was the sole supplier of
-long-distance hardcopy transmittal devices, the Teletype Corporation was
-faced with a major design choice. To shorten code lengths and cut complexity
-in the printing mechanism, it had been decided that teletypes would use a
-monocase font, either ALL UPPER or all lower. The Question Of The Day was
-therefore, which one to choose. A study was conducted on readability under
-various conditions of bad ribbon, worn print hammers, etc. Lowercase won; it
-is less dense and has more distinctive letterforms, and is thus much easier
-to read both under ideal conditions and when the letters are mangled or
-partly obscured. The results were filtered up through {management}. The
-chairman of Teletype killed the proposal because it failed one incredibly
-important criterion: "It would be impossible to spell the name of the Deity
-correctly." In this way (or so, at least, hacker folklore has it)
-superstition triumphed over utility. Teletypes were the major input devices
-on most early computers, and terminal manufacturers looking for corners to
-cut naturally followed suit until well into the 1970s. Thus, that one bad
-call stuck us with Great Runes for thirty years.
+case}. There is a widespread legend (repeated by earlier versions of this
+entry, though tagged as folklore) that the uppercase-only support of various
+old character codes and I/O equipment was chosen by a religious person in a
+position of power at the Teletype Company because supporting both upper and
+lower cases was too expensive and supporting lower case only would have made
+it impossible to spell `God' correctly. Not true; the upper-case
+interpretation of teleprinter codes was well established by 1870, long before
+Teletype was even founded.

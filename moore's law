@@ -1,9 +1,12 @@
- :Moore's Law: /morz law/ /prov./ The observation that the logic density of
+ :Moore's Law: /morz law/ prov. The observation that the logic density of
 silicon integrated circuits has closely followed the curve (bits per square
-inch) = 2^((t - 1962)) where t is time in years; that is, the amount of
+inch) = 2^(t - 1962) where t is time in years; that is, the amount of
 information storable on a given amount of silicon has roughly doubled every
 year since the technology was invented. This relation, first uttered in 1964
 by semiconductor engineer Gordon Moore (who co-founded Intel four years
 later) held until the late 1970s, at which point the doubling period slowed
-to 18 months. It remained at that value through time of writing (late 1995).
-see also {Parkinson's Law of Data}.
+to 18 months. The doubling period remained at that value through time of
+writing (late 1999). Moore's Law is apparently self-fulfilling. The
+implication is that somebody, somewhere is going to be able to build a better
+chip than you if you rest on your laurels, so you'd better start pushing hard
+on the problem. see also {Parkinson's Law of Data} and {Gates's Law}.

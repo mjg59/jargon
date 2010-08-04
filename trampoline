@@ -1,8 +1,10 @@
- :trampoline: /n./ An incredibly {hairy} technique, found in some {HLL} and
+ :trampoline: n. An incredibly {hairy} technique, found in some {HLL} and
 program-overlay implementations (e.g., on the Macintosh), that involves
 on-the-fly generation of small executable (and, likely as not,
-self-modifying) code objects to do indirection between code sections. These
-pieces of {live data} are called `trampolines'. Trampolines are notoriously
-difficult to understand in action; in fact, it is said by those who use this
-term that the trampoline that doesn't bend your brain is not the true
-trampoline. see also {snap}.
+self-modifying) code objects to do indirection between code sections. Under
+BSD and possibly in other Unixes, trampoline code is used to transfer control
+from the kernel back to user mode when a signal (which has had a handler
+installed) is sent to a process. These pieces of {live data} are called
+`trampolines'. Trampolines are notoriously difficult to understand in action;
+in fact, it is said by those who use this term that the trampoline that
+doesn't bend your brain is not the true trampoline. see also {snap}.

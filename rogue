@@ -1,7 +1,13 @@
- :rogue: /n./ [Unix] A Dungeons-and-Dragons-like game using character
+ :rogue: 1. [Unix] n. A Dungeons-and-Dragons-like game using character
 graphics, written under BSD Unix and subsequently ported to other Unix
 systems. The original BSD `curses(3)' screen-handling package was hacked
-together by Ken Arnold to support `rogue(6)' and has since become one of
-Unix's most important and heavily used application libraries. Nethack, Omega,
-Larn, and an entire subgenre of computer dungeon games all took off from the
-inspiration provided by `rogue(6)'. see also {nethack}.
+together by Ken Arnold primarily to support games, and the development of
+`rogue(6)' popularized its use; it has since become one of Unix's most
+important and heavily used application libraries. Nethack, Omega, Larn,
+Angband, and an entire subgenre of computer dungeon games (all known as
+`roguelikes') all took off from the inspiration provided by `rogue(6)'; the
+popular Windows game Diablo, though graphics-intensive, has very similar play
+logic. see also {nethack}, {moria}, {Angband}. 2. [Usenet] adj. An {ISP}
+which permits net abuse (usually in the form of {spam}ming) by its customers,
+or which itself engages in such activities. Rogue ISPs are sometimes subject
+to {IDP}s or {UDP}s. Sometimes deliberately misspelled as "rouge".

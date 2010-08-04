@@ -1,14 +1,14 @@
- :cat: [from `catenate' via {{Unix}} `cat(1)'] /vt./ 1. [techspeak] To spew
-an entire file to the screen or some other output sink without pause. 2. By
-extension, to dump large amounts of data at an unprepared target or with no
-intention of browsing it carefully. Usage: considered silly. Rare outside
-Unix sites. see also {dd}, {BLT}. Among Unix fans, `cat(1)' is considered an
-excellent example of user-interface design, because it delivers the file
-contents without such verbosity as spacing or headers between the files, and
-because it does not require the files to consist of lines of text, but works
-with any sort of data. Among Unix haters, `cat(1)' is considered the
-{canonical} example of *bad* user-interface design, because of its woefully
-unobvious name. It is far more often used to {blast} a file to standard
-output than to concatenate two files. The name `cat' for the former operation
-is just as unintuitive as, say, LISP's {cdr}. Of such oppositions are {holy
-wars} made....
+ :cat: [from `catenate' via {{Unix}} `cat(1)'] vt. 1. [techspeak] To spew an
+entire file to the screen or some other output sink without pause (syn.
+{blast}). 2. By extension, to dump large amounts of data at an unprepared
+target or with no intention of browsing it carefully. Usage: considered
+silly. Rare outside Unix sites. see also {dd}, {BLT}. Among Unix fans,
+`cat(1)' is considered an excellent example of user-interface design, because
+it delivers the file contents without such verbosity as spacing or headers
+between the files, and because it does not require the files to consist of
+lines of text, but works with any sort of data. Among Unix haters, `cat(1)'
+is considered the {canonical} example of _bad_ user-interface design, because
+of its woefully unobvious name. It is far more often used to {blast} a file
+to standard output than to concatenate two files. The name `cat' for the
+former operation is just as unintuitive as, say, LISP's {cdr}. Of such
+oppositions are {holy wars} made.... see also {UUOC}.

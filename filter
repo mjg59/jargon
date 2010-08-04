@@ -1,5 +1,5 @@
- :filter: /n./ [orig. {{Unix}}, now also in {{MS-DOS}}] A program that
-processes an input data stream into an output data stream in some
+ :filter: n. [very common; orig. {{Unix}}, now also in {{MS-DOS}}] A program
+that processes an input data stream into an output data stream in some
 well-defined way, and does no I/O to anywhere else except possibly on error
 conditions; one designed to be used as a stage in a `pipeline' (see
 {plumbing}). Compare {sponge}.

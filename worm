@@ -1,7 +1,7 @@
- :worm: /n./ [from `tapeworm' in John Brunner's novel "The Shockwave Rider",
+ :worm: n. [from `tapeworm' in John Brunner's novel "The Shockwave Rider",
 via XEROX PARC] A program that propagates itself over a network, reproducing
 itself as it goes. Compare {virus}. Nowadays the term has negative
 connotations, as it is assumed that only {cracker}s write worms. Perhaps the
-best-known example was Robert T. Morris's `Internet Worm' of 1988, a `benign'
+best-known example was Robert T. Morris's {Great Worm} of 1988, a `benign'
 one that got out of control and hogged hundreds of Suns and VAXen across the
-U.S. see also {cracker}, {RTM}, {Trojan horse}, {ice}, and {Great Worm, the}.
+U.S. see also {cracker}, {RTM}, {Trojan horse}, {ice}.

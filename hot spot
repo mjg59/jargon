@@ -1,6 +1,6 @@
- :hot spot: /n./ 1. [primarily used by C/Unix programmers, but spreading] It
-is received wisdom that in most programs, less than 10% of the code eats 90%
-of the execution time; if one were to graph instruction visits versus code
+ :hot spot: n. 1. [primarily used by C/Unix programmers, but spreading] It is
+received wisdom that in most programs, less than 10% of the code eats 90% of
+the execution time; if one were to graph instruction visits versus code
 addresses, one would typically see a few huge spikes amidst a lot of
 low-level noise. Such spikes are called `hot spots' and are good candidates
 for heavy optimization or {hand-hacking}. The term is especially used of

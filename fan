@@ -1,4 +1,4 @@
- :fan: /n./ Without qualification, indicates a fan of science fiction,
+ :fan: n. Without qualification, indicates a fan of science fiction,
 especially one who goes to {con}s and tends to hang out with other fans. Many
 hackers are fans, so this term has been imported from fannish slang; however,
 unlike much fannish slang it is recognized by most non-fannish hackers. Among

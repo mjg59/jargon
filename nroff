@@ -1,3 +1,3 @@
- :nroff:: /N'rof/ /n./ [Unix, from "new roff" (see {{troff}})] A companion
+ :nroff:: /N'rof/ n. [Unix, from "new roff" (see {{troff}})] A companion
 program to the Unix typesetter {{troff}}, accepting identical input but
 preparing output for terminals and line printers.

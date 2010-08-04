@@ -1,5 +1,5 @@
  :T: /T/ 1. [from LISP terminology for `true'] Yes. Used in reply to a
-question (particularly one asked using {The `-P' convention}). In LISP, the
+question (particularly one asked using {The -P convention}). In LISP, the
 constant T means `true', among other things. Some Lisp hackers use `T' and
 `NIL' instead of `Yes' and `No' almost reflexively. This sometimes causes
 misunderstandings. When a waiter or flight attendant asks whether a hacker

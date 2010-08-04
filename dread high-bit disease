@@ -1,4 +1,4 @@
- :dread high-bit disease: /n./ A condition endemic to some now-obsolete
+ :dread high-bit disease: n. A condition endemic to some now-obsolete
 computers and peripherals (including ASR-33 teletypes and PRIME
 minicomputers) that results in all characters having their high (0x80) bit
 forced on. This of course makes transporting files to other systems much more

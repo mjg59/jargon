@@ -1,5 +1,5 @@
- :dup loop: /d[y]oop loop/ (also `dupe loop') /n./ [FidoNet] An infinite
-stream of duplicated, near-identical messages on a FidoNet {echo}, the only
+ :dup loop: /d[y]oop loop/ (also `dupe loop') n. [FidoNet] An infinite stream
+of duplicated, near-identical messages on a FidoNet {echo}, the only
 difference being unique or mangled identification information applied by a
 faulty or incorrectly configured system or network gateway, thus rendering
 {dup killer}s ineffective. If such a duplicate message eventually reaches a

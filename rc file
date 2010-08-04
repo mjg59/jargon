@@ -1,5 +1,5 @@
- :rc file: /R-C fi:l/ /n./ [Unix: from `runcom files' on the {CTSS} system
-ca.1955, via the startup script `/etc/rc'] Script file containing startup
+ :rc file: /R-C fi:l/ n. [Unix: from `runcom files' on the {CTSS} system
+1962-63, via the startup script `/etc/rc'] Script file containing startup
 instructions for an application program (or an entire operating system),
 usually a text file containing commands of the sort that might have been
 invoked manually once the system was running but are to be executed

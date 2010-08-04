@@ -1,4 +1,4 @@
- :Red Book: /n./ 1. Informal name for one of the three standard references on
+ :Red Book: n. 1. Informal name for one of the four standard references on
 {{PostScript}} ("PostScript Language Reference Manual", Adobe Systems
 (Addison-Wesley, 1985; QA76.73.P67P67; ISBN 0-201-10174-2, or the 1990 second
 edition ISBN 0-201-18127-4); the others are known as the {Green Book}, the
@@ -13,4 +13,6 @@ Group 1 through 4 fax standards. 4. The new version of the {Green Book}
 and the fact that it is printed on A4 paper) known in the USA as "the Ugly
 Red Book That Won't Fit On The Shelf" and in Europe as "the Ugly Red Book
 That's A Sensible Size". 5. The NSA "Trusted Network Interpretation"
-companion to the {Orange Book}. see also {{book titles}}.
+companion to the {Orange Book}. 6. Nemeth, Snyder, seebass, Hein; "Unix
+System Administration Handbook, Second Edition" (Prentice Hall PTR, New
+Jersey; 1995; QA76.76.063N45; ISBN 0-13-151051-7). see also {{book titles}}.

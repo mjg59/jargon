@@ -1,79 +1,26 @@
- DEC attempted to convince TOPS-20 users to convert to {VMS}, but instead, by
-the late 1980s, most of the TOPS-20 hackers had migrated to Unix. :twiddle:
-n. 1. Tilde (ASCII 1111110, `~'). Also called `squiggle', `sqiggle' (sic --
-pronounced /skig'l/), and `twaddle', but twiddle is the most common term. 2.
-A small and insignificant change to a program. Usually fixes one bug and
-generates several new ones (see also {shotgun debugging}). 3. vt. To change
-something in a small way. Bits, for example, are often twiddled. Twiddling a
-switch or {knobs} implies much less sense of purpose than toggling or
-tweaking it; see {frobnicate}. To speak of twiddling a bit connotes
-aimlessness, and at best doesn't specify what you're doing to the bit;
-`toggling a bit' has a more specific meaning (see {bit twiddling}, {toggle}).
-4. Uncommon name for the {twirling baton} prompt. :twilight zone: n. // [IRC]
-Notionally, the area of cyberspace where {IRC} operators live. An {op} is
-said to have a "connection to the twilight zone". :twink: /twink/ n. 1.
-[Berkeley] A clue-repellant user; the next step beyond a clueless one. 2.
-[UCSC] A {read-only user}. Also reported on the Usenet group soc.motss; may
-derive from gay slang for a cute young thing with nothing upstairs (compare
-mainstream `chick'). 3. On MU* systems that specialize in role-playing,
-refers to behavior of a (usually inexperienced) player that either ignores
-rules or social convention, or disrupts the natural flow of a scene to show
-of super powers. :twirling baton: n. [PLATO] The overstrike sequence
--/|\-/|\- which produces an animated twirling baton. If you output it with a
-single backspace between characters, the baton spins in place. If you output
-the sequence BS SP between characters, the baton spins from left to right. If
-you output BS SP BS BS between characters, the baton spins from right to
-left. This is also occasionally called a twiddle prompt. The twirling baton
-was a popular component of animated signature files on the pioneering PLATO
-educational timesharing system. The `archie' Internet service is perhaps the
-best-known baton program today; it uses the twirling baton as an idler
-indicating that the program is working on a query. The twirling baton is also
-used as a boot progress indicator on several BSD variants of Unix; if it
-stops you're probably going to have a long and trying day. :two pi: quant.
-The number of years it takes to finish one's thesis. Occurs in stories in the
-following form: "He started on his thesis; 2 pi years later..."
-:two-to-the-N: quant. An amount much larger than {N} but smaller than
-{infinity}. "I have 2-to-the-N things to do before I can go out for lunch"
-means you probably won't show up. :twonkie: /twon'kee/ n. The software
-equivalent of a Twinkie (a variety of sugar-loaded junk food, or (in gay
-slang with a small t) the male equivalent of `chick'); a useless `feature'
-added to look sexy and placate a {marketroid} (compare {Saturday-night
-special}). The term may also be related to "The Twonky", title menace of a
-classic SF short story by Lewis Padgett (Henry Kuttner and C. L. Moore),
-first published in the September 1942 "Astounding Science Fiction" and
-subsequently much anthologized. = U = ===== :u-: pref. Written shorthand for
-{micro-}; techspeak when applied to metric units, jargon when used otherwise.
-Derived from the Greek letter "mu", the first letter of "micro" (and which
-letter looks a lot like the English letter "u"). :UBD: /U-B-D/ n.
-[abbreviation for `User Brain Damage'] An abbreviation used to close out
-trouble reports obviously due to utter cluelessness on the user's part.
-Compare {pilot error}; oppose {PBD}; see also {brain-damaged}. :UBE: // n.
-[abbrev., Unsolicited Bulk Email] A widespread, more formal term for email
-{spam}. Compare {UCE}. The UBE term recognizes that spam is uttered by
-nonprofit and advocacy groups whose motives are not commercial. :UCE: n.
-[abbrev., Unsolicited Commercial Email] A widespread, more formal term for
-email {spam}. Compare {UBE}, which may be superseding it. :UDP: /U-D-P/ v.,n.
-[Usenet] Abbreviation for {Usenet Death Penalty}. Common (probably now more
-so than the full form), and frequently verbed. Compare {IDP}. :UN*X: n. Used
-to refer to the Unix operating system (a trademark of AT&T, then of Novell,
-then of Univel, then of the Open Group; the source code parted company with
-it after Novell and was owned by SCO, which was acquired by Caldera) in
-writing, but avoiding the need for the ugly {(TM)} typography. Also used to
-refer to any or all varieties of Unixoid operating systems. Ironically,
-lawyers now say that the requirement for the trademark postfix has no legal
-force, but the asterisk usage is entrenched anyhow. It has been suggested
-that there may be a psychological connection to practice in certain religions
-(especially Judaism) in which the name of the deity is never written out in
-full, e.g., `YHWH' or `G-d' is used. see also {glob} and {splat out}.
-:undefined external reference: excl. [Unix] A message from Unix's linker.
-Used in speech to flag loose ends or dangling references in an argument or
-discussion. :under the hood: adj. [hot-rodder talk] 1. Used to introduce the
-underlying implementation of a product (hardware, software, or idea). Implies
-that the implementation is not intuitively obvious from the appearance, but
-the speaker is about to enable the listener to {grok} it. "Let's now look
-under the hood to see how ...." 2. Can also imply that the implementation is
-much simpler than the appearance would indicate: "Under the hood, we are just
-fork/execing the shell." 3. Inside a chassis, as in "Under the hood, this
-baby has a 40MHz 68030!" :undocumented feature: n. see {feature}.
-:uninteresting: adj. 1. Said of a problem that, although {nontrivial}, can be
-solved simply by throwing sufficient resources at it.
+ :DEC:: /dek/ n. 1. v. Verbal (and only rarely written) shorthand for
+decrement, i.e. `decrease by one'. Especially used by assembly programmers,
+as many assembly languages have a `dec' mnemonic. Antonym: {inc}. 2. n.
+Commonly used abbreviation for Digital Equipment Corporation, later
+deprecated by DEC itself in favor of "Digital" and now entirely obsolete
+following the buyout by Compaq. Before the {killer micro} revolution of the
+late 1980s, hackerdom was closely symbiotic with DEC's pioneering timesharing
+machines. The first of the group of cultures described by this lexicon
+nucleated around the PDP-1 (see {TMRC}). Subsequently, the PDP-6, {PDP-10},
+{PDP-20}, PDP-11 and {VAX} were all foci of large and important hackerdoms,
+and DEC machines long dominated the ARPANET and Internet machine population.
+DEC was the technological leader of the minicomputer era (roughly 1967 to
+1987), but its failure to embrace microcomputers and Unix early cost it
+heavily in profits and prestige after {silicon} got cheap. Nevertheless, the
+microprocessor design tradition owes a major debt to the PDP-11 instruction
+set, and every one of the major general-purpose microcomputer OSs so far
+(CP/M, MS-DOS, Unix, OS/2, Windows NT) was either genetically descended from
+a DEC OS, or incubated on DEC hardware, or both. Accordingly, DEC was for
+many years still regarded with a certain wry affection even among many
+hackers too young to have grown up on DEC machines. DEC reclaimed some of its
+old reputation among techies in the first half of the 1990s. The success of
+the Alpha, an innovatively-designed and very high-performance {killer micro},
+helped a lot. So did DEC's newfound receptiveness to Unix and open systems in
+general. When Compaq acquired DEC at the end of 1998 there was some concern
+that these gains would be lost along with the DEC nameplate, but the merged
+company has so far turned out to be culturally dominated by the ex-DEC side.

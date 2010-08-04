@@ -1,4 +1,4 @@
- :Unix conspiracy: /n./ [ITS] According to a conspiracy theory long popular
+ :Unix conspiracy: n. [ITS] According to a conspiracy theory long popular
 among {{ITS}} and {{TOPS-20}} fans, Unix's growth is the result of a plot,
 hatched during the 1970s at Bell Labs, whose intent was to hobble AT&T's
 competitors by making them dependent upon a system whose future evolution was
@@ -11,9 +11,9 @@ one of the first computer viruses (see {virus}) -- but a virus spread to
 computers indirectly by people and market forces, rather than directly
 through disks and networks. Adherents of this `Unix virus' theory like to
 cite the fact that the well-known quotation "Unix is snake oil" was uttered
-by DEC president Kenneth Olsen shortly before DEC began actively promoting
+by {DEC} president Kenneth Olsen shortly before DEC began actively promoting
 its own family of Unix workstations. (Olsen now claims to have been
 misquoted.) [If there was ever such a conspiracy, it got thoroughly out of
-the plotters' control after 1990. AT&T sold its UNIX operation to Novell
-around the same time {Linux} and other free-UNIX distributions were beginning
+the plotters' control after 1990. AT&T sold its Unix operation to Novell
+around the same time {Linux} and other free-Unix distributions were beginning
 to make noise. --ESR]

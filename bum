@@ -1,15 +1,15 @@
- :bum: 1. /vt./ To make highly efficient, either in time or space, often at
-the expense of clarity. "I managed to bum three more instructions out of that
+ :bum: 1. vt. To make highly efficient, either in time or space, often at the
+expense of clarity. "I managed to bum three more instructions out of that
 code." "I spent half the night bumming the interrupt code." In 1996, this
 term and the practice it describes are semi-obsolete. In {elder days}, John
 McCarthy (inventor of {LISP}) used to compare some efficiency-obsessed
 hackers among his students to "ski bums"; thus, optimization became "program
 bumming", and eventually just "bumming". 2. To squeeze out excess; to remove
 something in order to improve whatever it was removed from (without changing
-function; this distinguishes the process from a {featurectomy}). 3. /n./ A
+function; this distinguishes the process from a {featurectomy}). 3. n. A
 small change to an algorithm, program, or hardware device to make it more
 efficient. "This hardware bum makes the jump instruction faster." Usage: now
-uncommon, largely superseded by /v./ {tune} (and /n./ {tweak}, {hack}),
-though none of these exactly capture sense 2. All these uses are rare in
-Commonwealth hackish, because in the parent dialects of English `bum' is a
-rude synonym for `buttocks'.
+uncommon, largely superseded by v. {tune} (and n. {tweak}, {hack}), though
+none of these exactly capture sense 2. All these uses are rare in
+Commonwealth hackish, because in the parent dialects of English the noun
+`bum' is a rude synonym for `buttocks' and the verb `bum' for buggery.

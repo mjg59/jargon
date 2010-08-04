@@ -1,3 +1,3 @@
- :fd leak: /F-D leek/ /n./ A kind of programming bug analogous to a {core
+ :fd leak: /F-D leek/ n. A kind of programming bug analogous to a {core
 leak}, in which a program fails to close file descriptors (`fd's) after file
 operations are completed, and thus eventually runs out of them. see {leak}.

@@ -1,2 +1,12 @@
- :foobar: /n./ Another common {metasyntactic variable}; see {foo}. Hackers do
-*not* generally use this to mean {FUBAR} in either the slang or jargon sense.
+ :foobar: n. [very common] Another widely used {metasyntactic variable}; see
+{foo} for etymology. Probably originally propagated through DECsystem manuals
+by Digital Equipment Corporation ({DEC}) in 1960s and early 1970s; confirmed
+sightings there go back to 1972. Hackers do _not_ generally use this to mean
+{FUBAR} in either the slang or jargon sense. see also {Fred Foobar}. In
+RFC1639, "FOOBAR" was made an abbreviation for "FTP Operation Over Big
+Address Records", but this was an obvious {backronym}. It has been plausibly
+suggested that "foobar" spread among early computer engineers partly because
+of FUBAR and partly because "foo bar" parses in electronics techspeak as an
+inverted foo signal; if a digital signal is coded so that a positive voltage
+or high current condition represents a "1", then a horizontal bar is commonly
+placed over the signal label.

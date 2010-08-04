@@ -1,4 +1,4 @@
- :rare mode: /adj./ [Unix] CBREAK mode (character-by-character with
-interrupts enabled). Distinguished from {raw mode} and {cooked mode}; the
-phrase "a sort of half-cooked (rare?) mode" is used in the V7/BSD manuals to
-describe the mode. Usage: rare.
+ :rare mode: adj. [Unix] CBREAK mode (character-by-character with interrupts
+enabled). Distinguished from {raw mode} and {cooked mode}; the phrase "a sort
+of half-cooked (rare?) mode" is used in the V7/BSD manuals to describe the
+mode. Usage: rare.

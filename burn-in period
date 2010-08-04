@@ -1,4 +1,4 @@
- :burn-in period: /n./ 1. A factory test designed to catch systems with
+ :burn-in period: n. 1. A factory test designed to catch systems with
 {marginal} components before they get out the door; the theory is that
 burn-in will protect customers by outwaiting the steepest part of the
 {bathtub curve} (see {infant mortality}). 2. A period of indeterminate length

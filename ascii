@@ -1,266 +1,107 @@
- 1. A mechanical agent, such as a gripper arm, controlled by a human limb.
-When these were developed for the nuclear industry in the mid-1940s they were
-named after the invention described by Heinlein in the story, which he wrote
-in 1942. Now known by the more generic term `telefactoring', this technology
-is of intense interest to NASA for tasks like space station maintenance. 2.
-At Harvard (particularly by Tom Cheatham and students), this is used instead
-of {foobar} as a metasyntactic variable and general nonsense word. see {foo},
-{bar}, {foobar}, {quux}. :walk: n.,vt. Traversal of a data structure,
-especially an array or linked-list data structure in {core}. see also
-{codewalker}, {silly walk}, {clobber}. :walk off the end of: vt. To run past
-the end of an array, list, or medium after stepping through it -- a good way
-to land in trouble. Often the result of an {off-by-one error}. Compare
-{clobber}, {roach}, {smash the stack}. :walking drives: n. An occasional
-failure mode of magnetic-disk drives back in the days when they were huge,
-clunky {washing machine}s. Those old {dinosaur} parts carried terrific
-angular momentum; the combination of a misaligned spindle or worn bearings
-and stick-slip interactions with the floor could cause them to `walk' across
-a room, lurching alternate corners forward a couple of millimeters at a time.
-There is a legend about a drive that walked over to the only door to the
-computer room and jammed it shut; the staff had to cut a hole in the wall in
-order to get at it! Walking could also be induced by certain patterns of
-drive access (a fast seek across the whole width of the disk, followed by a
-slow seek in the other direction). Some bands of old-time hackers figured out
-how to induce disk-accessing patterns that would do this to particular drive
-models and held disk-drive races. :wall: interj. [WPI] 1. An indication of
-confusion, usually spoken with a quizzical tone: "Wall??" 2. A request for
-further explication. Compare {octal forty}. 3. [Unix, from `write all'] v. To
-send a message to everyone currently logged in, esp. with the wall(8)
-utility. It is said that sense 1 came from the idiom `like talking to a blank
-wall'. It was originally used in situations where, after you had carefully
-answered a question, the questioner stared at you blankly, clearly having
-understood nothing that was explained. You would then throw out a "Hello,
-wall?" to elicit some sort of response from the questioner. Later, confused
-questioners began voicing "Wall?" themselves. :wall follower: n. A person or
-algorithm that compensates for lack of sophistication or native stupidity by
-efficiently following some simple procedure shown to have been effective in
-the past. Used of an algorithm, this is not necessarily pejorative; it
-recalls `Harvey Wallbanger', the winning robot in an early AI contest (named,
-of course, after the cocktail). Harvey successfully solved mazes by keeping a
-`finger' on one wall and running till it came out the other end. This was
-inelegant, but it was mathematically guaranteed to work on simply-connected
-mazes -- and, in fact, Harvey outperformed more sophisticated robots that
-tried to `learn' each maze by building an internal representation of it. Used
-of humans, the term _is_ pejorative and implies an uncreative, bureaucratic,
-by-the-book mentality. see also {code grinder}; compare {droid}. :wall time:
-n. (also `wall clock time') 1. `Real world' time (what the clock on the wall
-shows), as opposed to the system clock's idea of time. 2. The real running
-time of a program, as opposed to the number of {tick}s required to execute it
-(on a timesharing system these always differ, as no one program gets all the
-ticks, and on multiprocessor systems with good thread support one may get
-more processor time than real time). :wall wart: n. A small power-supply
-brick with integral male plug, designed to plug directly into a wall outlet;
-called a `wart' because when installed on a power strip it tends to block up
-at least one more socket than it uses.. These are frequently associated with
-modems and other small electronic devices which would become unacceptably
-bulky or hot if they had power supplies on board (there are other reasons as
-well having to do with the cost of UL certification). :wallpaper: n. 1. A
-file containing a listing (e.g., assembly listing) or a transcript, esp. a
-file containing a transcript of all or part of a login session. (The idea was
-that the paper for such listings was essentially good only for wallpaper, as
-evidenced at Stanford, where it was used to cover windows.) Now rare, esp.
-since other systems have developed other terms for it (e.g., PHOTO on
-TWENEX). However, the Unix world doesn't have an equivalent term, so perhaps
-{wallpaper} will take hold there. The term probably originated on ITS, where
-the commands to begin and end transcript files were `:WALBEG' and `:WALEND',
-with default file `WALL PAPER' (the space was a path delimiter). 2. The
-background pattern used on graphical workstations (this is techspeak under
-the `Windows' graphical user interface to MS-DOS). 3. `wallpaper file' n. The
-file that contains the wallpaper information before it is actually printed on
-paper. (Even if you don't intend ever to produce a real paper copy of the
-file, it is still called a wallpaper file.) :wango: /wang'goh/ n. Random
-bit-level {grovel}ling going on in a system during some unspecified
-operation. Often used in combination with {mumble}. For example: "You start
-with the `.o' file, run it through this postprocessor that does mumble-wango
--- and it comes out a snazzy object-oriented executable." :wank: /wangk/
-n.,v.,adj. [Columbia University: prob. by mutation from Commonwealth slang v.
-`wank', to masturbate] Used much as {hack} is elsewhere, as a noun denoting a
-clever technique or person or the result of such cleverness. May describe
-(negatively) the act of hacking for hacking's sake ("Quit wanking, let's go
-get supper!") or (more positively) a {wizard}. Adj. `wanky' describes
-something particularly clever (a person, program, or algorithm).
-Conversations can also get wanky when there are too many wanks involved. This
-excess wankiness is signalled by an overload of the `wankometer' (compare
-{bogometer}). When the wankometer overloads, the conversation's subject must
-be changed, or all non-wanks will leave. Compare `neep-neeping' (under
-{neep-neep}). Usage: U.S. only. In Britain and the Commonwealth this word is
-_extremely_ rude and is best avoided unless one intends to give offense.
-Adjectival `wanky' is less offensive and simply means `stupid' or `broken'
-(this is mainstream in Great Britain). :wannabee: /won'*-bee/ n. (also, more
-plausibly, spelled `wannabe') [from a term recently used to describe Madonna
-fans who dress, talk, and act like their idol; prob. originally from biker
-slang] A would-be {hacker}. The connotations of this term differ sharply
-depending on the age and exposure of the subject. Used of a person who is in
-or might be entering {larval stage}, it is semi-approving; such wannabees can
-be annoying but most hackers remember that they, too, were once such
-creatures. When used of any professional programmer, CS academic, writer, or
-{suit}, it is derogatory, implying that said person is trying to cuddle up to
-the hacker mystique but doesn't, fundamentally, have a prayer of
-understanding what it is all about. Overuse of terms from this lexicon is
-often an indication of the {wannabee} nature. Compare {newbie}. Historical
-note: The wannabee phenomenon has a slightly different flavor now (1993) than
-it did ten or fifteen years ago. When the people who are now hackerdom's
-tribal elders were in {larval stage}, the process of becoming a hacker was
-largely unconscious and unaffected by models known in popular culture --
-communities formed spontaneously around people who, _as individuals_, felt
-irresistibly drawn to do hackerly things, and what wannabees experienced was
-a fairly pure, skill-focused desire to become similarly wizardly. Those days
-of innocence are gone forever; society's adaptation to the advent of the
-microcomputer after 1980 included the elevation of the hacker as a new kind
-of folk hero, and the result is that some people semi-consciously set out to
-_be hackers_ and borrow hackish prestige by fitting the popular image of
-hackers. Fortunately, to do this really well, one has to actually become a
-wizard. Nevertheless, old-time hackers tend to share a poorly articulated
-disquiet about the change; among other things, it gives them mixed feelings
-about the effects of public compendia of lore like this one. :war dialer: n.
-A cracking tool, a program that calls a given list or range of phone numbers
-and records those which answer with handshake tones (and so might be entry
-points to computer or telecommunications systems). Some of these programs
-have become quite sophisticated, and can now detect modem, fax, or PBX tones
-and log each one separately. The war dialer is one of the most important
-tools in the {phreaker}'s kit. These programs evolved from early {demon
-dialer}s. :-ware: suff. [from `software'] Commonly used to form jargon terms
-for classes of software. For examples, see {annoyware}, {careware},
-{crippleware}, {crudware}, {freeware}, {fritterware}, {guiltware},
-{liveware}, {meatware}, {payware}, {psychedelicware}, {shareware},
-{shelfware}, {vaporware}, {wetware}. :warez: /weirz/ n. Widely used in
-{cracker} subcultures to denote cracked version of commercial software, that
-is versions from which copy-protection has been stripped. Hackers recognize
-this term but don't use it themselves. see {warez d00dz}, {courier}, {leech},
-{elite}. :warez d00dz: /weirz doodz/ n. A substantial subculture of
-{cracker}s refer to themselves as `warez d00dz'; there is evidently some
-connection with {B1FF} here. As `Ozone Pilot', one former warez d00d, wrote:
-Warez d00dz get illegal copies of copyrighted software. If it has copy
-protection on it, they break the protection so the software can be copied.
-Then they distribute it around the world via several gateways. Warez d00dz
-form badass group names like RAZOR and the like. They put up boards that
-distribute the latest ware, or pirate program. The whole point of the Warez
-sub-culture is to get the pirate program released and distributed before any
-other group. I know, I know. But don't ask, and it won't hurt as much. This
-is how they prove their poweress [sic]. It gives them the right to say, "I
-released King's Quest IVXIX before you so obviously my testicles are larger."
-Again don't ask... The studly thing to do if one is a warez d00d, it appears,
-is emit `0-day warez', that is copies of commercial software copied and
-cracked on the same day as its retail release. Warez d00ds also hoard
-software in a big way, collecting untold megabytes of arcade-style games,
-pornographic JPGs, and applications they'll never use onto their hard disks.
-As Ozone Pilot acutely observes: [BELONG] is the only word you will need to
-know. Warez d00dz want to belong. They have been shunned by everyone, and
-thus turn to cyberspace for acceptance. That is why they always start groups
-like TGW, FLT, USA and the like. Structure makes them happy. [...] Warez
-d00dz will never have a handle like "Pink Daisy" because warez d00dz are
-insecure. Only someone who is very secure with a good dose of self-esteem can
-stand up to the cries of fag and girlie-man. More likely you will find warez
-d00dz with handles like: Doctor Death, Deranged Lunatic, Hellraiser, Mad
-Prince, Dreamdevil, The Unknown, Renegade Chemist, Terminator, and Twin
-Turbo. They like to sound badass when they can hide behind their terminals.
-More likely, if you were given a sample of 100 people, the person whose
-handle is Hellraiser is the last person you'd associate with the name. The
-contrast with Internet hackers is stark and instructive. see {cracker},
-{wannabee}, {handle}, {elite}, {courier}, {leech}; compare {weenie}, {spod}.
-:warez kiddies: n. Even more derogatory way of referring to {warez d00dz};
-refers to the fact that most warez d00dz are around the age of puberty.
-Compare {script kiddies}. :warlording: v. [from the Usenet group
-alt.fan.warlord] The act of excoriating a bloated, ugly, or derivative {sig
-block}. Common grounds for warlording include the presence of a signature
-rendered in a {BUAF}, over-used or cliched {sig quote}s, ugly {ASCII art}, or
-simply excessive size. The original `Warlord' was a {B1FF}-like {newbie}
-c.1991 who featured in his sig a particularly large and obnoxious ASCII
-graphic resembling the sword of Conan the Barbarian in the 1981 John Milius
-movie; the group name alt.fan.warlord was sarcasm, and the characteristic
-mode of warlording is devastatingly sarcastic praise. :warm boot: n. see
-{boot}. :wart: n. A small, {crock}y {feature} that sticks out of an otherwise
-{clean} design. Something conspicuous for localized ugliness, especially a
-special-case exception to a general rule. For example, in some versions of
-`csh(1)', single quotes literalize every character inside them except `!'. In
-ANSI C, the `??' syntax used for obtaining ASCII characters in a foreign
-environment is a wart. see also {miswart}. :washing machine: n. 1. Old-style
-14-inch hard disks in floor-standing cabinets. So called because of the size
-of the cabinet and the `top-loading' access to the media packs -- and, of
-course, they were always set on `spin cycle'. The washing-machine idiom
-transcends language barriers; it is even used in Russian hacker jargon. see
-also {walking drives}. The thick channel cables connecting these were called
-`bit hoses' (see {hose}, sense 3). 2. [CMU] A machine used exclusively for
-{washing software}. CMU has clusters of these. :washing software: n. The
-process of recompiling a software distribution (used more often when the
-recompilation is occuring from scratch) to pick up and merge together all of
-the various changes that have been made to the source. :water MIPS: n. (see
-{MIPS}, sense 2) Large, water-cooled machines of either today's
-ECL-supercomputer flavor or yesterday's traditional {mainframe} type. :wave a
-dead chicken: v. To perform a ritual in the direction of crashed software or
-hardware that one believes to be futile but is nevertheless necessary so that
-others are satisfied that an appropriate degree of effort has been expended.
-"I'll wave a dead chicken over the source code, but I really think we've run
-into an OS bug." Compare {voodoo programming}, {rain dance}; see also
-{casting the runes}. :weasel: n. [Cambridge] A naive user, one who
-deliberately or accidentally does things that are stupid or ill-advised.
-Roughly synonymous with {loser}. :web pointer: n. A World Wide Web {URL}. see
-also {hotlink}, which has slightly different connotations. :web toaster: n. A
-small specialized computer, shipped with no monitor or keyboard or any other
-external peripherals, pre-configured to be controlled through an Ethernet
-port and function as a WWW server. Products of this kind (for example the
-Cobalt Qube) are often about the size of a toaster. see {toaster}; compare
-{video toaster}. :webify: n. To put a piece of (possibly already existing)
-material on the WWW. Frequently used for papers ("Why don't you webify all
-your publications?") or for demos ("They webified their 6.866 final
-project"). This term seems to have been (rather logically) independently
-invented multiple times in the early 1990s. :webmaster: n. [WWW: from
-{postmaster}] The person at a site providing World Wide Web information who
-is responsible for maintaining the public pages and keeping the Web server
-running and properly configured. :web ring: n. Two or more web sites
-connected by prominent links between sites sharing a common interest or
-theme. Usually such cliques have the topology of a ring, in order to make it
-easy for visitors to navigate through all of them. :wedged: adj. 1. To be
-stuck, incapable of proceeding without help. This is different from having
-crashed. If the system has crashed, it has become totally non-functioning. If
-the system is wedged, it is trying to do something but cannot make progress;
-it may be capable of doing a few things, but not be fully operational. For
-example, a process may become wedged if it {deadlock}s with another (but not
-all instances of wedging are deadlocks). see also {gronk}, {locked up},
-{hosed}, {hung} (wedged is more severe than {hung}). 2. Often refers to
-humans suffering misconceptions. "He's totally wedged -- he's convinced that
-he can levitate through meditation." 3. [Unix] Specifically used to describe
-the state of a TTY left in a losing state by abort of a screen-oriented
-program or one that has messed with the line discipline in some obscure way.
-There is some dispute over the origin of this term. It is usually thought to
-derive from a common description of recto-cranial inversion; however, it may
-actually have originated with older `hot-press' printing technology in which
-physical type elements were locked into type frames with wedges driven in by
-mallets. Once this had been done, no changes in the typesetting for that page
-could be made. :wedgie: n. [Fairchild] A bug. Prob. related to {wedged}.
-:wedgitude: /wedj'i-t[y]ood/ n. The quality or state of being {wedged}.
-:weeble: /weeb'l/ interj. [Cambridge] Used to denote frustration, usually at
-amazing stupidity. "I stuck the disk in upside down." "Weeble...." Compare
-{gurfle}. :weeds: n. 1. Refers to development projects or algorithms that
-have no possible relevance or practical application. Comes from `off in the
-weeds'. Used in phrases like "lexical analysis for microcode is serious
-weeds...." 2. At CDC/ETA before its demise, the phrase `go off in the weeds'
-was equivalent to IBM's {branch to Fishkill} and mainstream hackerdom's {jump
-off into never-never land}. :weenie: n. 1. [on BBSes] Any of a species of
-luser resembling a less amusing version of {B1FF} that infests many {BBS}
-systems. The typical weenie is a teenage boy with poor social skills
-travelling under a grandiose {handle} derived from fantasy or heavy-metal
-rock lyrics. Among sysops, `the weenie problem' refers to the marginally
-literate and profanity-laden {flamage} weenies tend to spew all over a
-newly-discovered BBS. Compare {spod}, {computer geek}, {terminal junkie},
-{warez d00dz}. 2. [Among hackers] When used with a qualifier (for example, as
-in {Unix weenie}, VMS weenie, IBM weenie) this can be either an insult or a
-term of praise, depending on context, tone of voice, and whether or not it is
-applied by a person who considers him or herself to be the same sort of
-weenie. Implies that the weenie has put a major investment of time, effort,
-and concentration into the area indicated; whether this is good or bad
-depends on the hearer's judgment of how the speaker feels about that area.
-see also {bigot}. 3. The semicolon character, `;' (ASCII 0111011). :Weenix:
-/wee'niks/ n. 1. [ITS] A derogatory term for {{Unix}}, derived from {Unix
-weenie}. According to one noted ex-ITSer, it is "the operating system
-preferred by Unix Weenies: typified by poor modularity, poor reliability,
-hard file deletion, no file version numbers, case sensitivity everywhere, and
-users who believe that these are all advantages". (Some ITS fans behave as
-though they believe Unix stole a future that rightfully belonged to them. see
-{{ITS}}, sense 2.) 2. [Brown University] A Unix-like OS developed for
-tutorial purposes at Brown University. see
-`http://www.cs.brown.edu/courses/cs167/weenix.html'. Named independently of
-the ITS usage. :well-behaved: adj. 1. [primarily {{MS-DOS}}] Said of software
-conforming to system interface guidelines and standards. Well-behaved
-software uses the operating system to do chores such as keyboard input,
-allocating memory and drawing graphics. Oppose {ill-behaved}.
+ :ASCII:: /as'kee/ n. [originally an acronym (American Standard Code for
+Information Interchange) but now merely conventional] The predominant
+character set encoding of present-day computers. The standard version uses 7
+bits for each character, whereas most earlier codes (including early drafts
+of ASCII prior to June 1961) used fewer. This change allowed the inclusion of
+lowercase letters -- a major {win} -- but it did not provide for accented
+letters or any other letterforms not used in English (such as the German
+sharp-S or the ae-ligature which is a letter in, for example, Norwegian). It
+could be worse, though. It could be much worse. see {{EBCDIC}} to understand
+how. A history of ASCII and its ancestors is at
+`http://www.wps.com/texts/codes/index.html'. Computers are much pickier and
+less flexible about spelling than humans; thus, hackers need to be very
+precise when talking about characters, and have developed a considerable
+amount of verbal shorthand for them. Every character has one or more names --
+some formal, some concise, some silly. Common jargon names for ASCII
+characters are collected here. see also individual entries for {bang},
+{excl}, {open}, {ques}, {semi}, {shriek}, {splat}, {twiddle}, and {Yu-Shiang
+Whole Fish}. This list derives from revision 2.3 of the Usenet ASCII
+pronunciation guide. Single characters are listed in ASCII order; character
+pairs are sorted in by first member. For each character, common names are
+given in rough order of popularity, followed by names that are reported but
+rarely seen; official ANSI/CCITT names are surrounded by brokets: <>. Square
+brackets mark the particularly silly names introduced by {INTERCAL}. The
+abbreviations "l/r" and "o/c" stand for left/right and "open/close"
+respectively. Ordinary parentheticals provide some usage information. !
+Common: {bang}; pling; excl; not; shriek; ball-bat; <exclamation mark>. Rare:
+factorial; exclam; smash; cuss; boing; yell; wow; hey; wham; eureka;
+[spark-spot]; soldier, control. " Common: double quote; quote. Rare: literal
+mark; double-glitch; <quotation marks>; <dieresis>; dirk; [rabbit-ears];
+double prime. # Common: number sign; pound; pound sign; hash; sharp;
+{crunch}; hex; [mesh]. Rare: grid; crosshatch; octothorpe; flash; <square>,
+pig-pen; tictactoe; scratchmark; thud; thump; {splat}. $ Common: dollar;
+<dollar sign>. Rare: currency symbol; buck; cash; string (from BASIC); escape
+(when used as the echo of ASCII ESC); ding; cache; [big money]. % Common:
+percent; <percent sign>; mod; grapes. Rare: [double-oh-seven]. & Common:
+<ampersand>; amp; amper; and, and sign. Rare: address (from C); reference
+(from C++); andpersand; bitand; background (from `sh(1)'); pretzel. [INTERCAL
+called this `ampersand'; what could be sillier?] ' Common: single quote;
+quote; <apostrophe>. Rare: prime; glitch; tick; irk; pop; [spark]; <closing
+single quotation mark>; <acute accent>. ( ) Common: l/r paren; l/r
+parenthesis; left/right; open/close; paren/thesis; o/c paren; o/c
+parenthesis; l/r parenthesis; l/r banana. Rare: so/already; lparen/rparen;
+<opening/closing parenthesis>; o/c round bracket, l/r round bracket,
+[wax/wane]; parenthisey/unparenthisey; l/r ear. * Common: star; [{splat}];
+<asterisk>. Rare: wildcard; gear; dingle; mult; spider; aster; times;
+twinkle; glob (see {glob}); {Nathan Hale}. + Common: <plus>; add. Rare:
+cross; [intersection]. , Common: <comma>. Rare: <cedilla>; [tail]. - Common:
+dash; <hyphen>; <minus>. Rare: [worm]; option; dak; bithorpe. . Common: dot;
+point; <period>; <decimal point>. Rare: radix point; full stop; [spot]. /
+Common: slash; stroke; <slant>; forward slash. Rare: diagonal; solidus; over;
+slak; virgule; [slat]. : Common: <colon>. Rare: dots; [two-spot]. ; Common:
+<semicolon>; semi. Rare: weenie; [hybrid], pit-thwong. < > Common:
+<less/greater than>; bra/ket; l/r angle; l/r angle bracket; l/r broket. Rare:
+from/{into, towards}; read from/write to; suck/blow; comes-from/gozinta;
+in/out; crunch/zap (all from UNIX); tic/tac; [angle/right angle]. = Common:
+<equals>; gets; takes. Rare: quadrathorpe; [half-mesh]. ? Common: query;
+<question mark>; {ques}. Rare: quiz; whatmark; [what]; wildchar; huh; hook;
+buttonhook; hunchback. @ Common: at sign; at; strudel. Rare: each; vortex;
+whorl; [whirlpool]; cyclone; snail; ape; cat; rose; cabbage; <commercial at>.
+V Rare: [book]. [ ] Common: l/r square bracket; l/r bracket; <opening/closing
+bracket>; bracket/unbracket. Rare: square/unsquare; [U turn/U turn back]. \
+Common: backslash, hack, whack; escape (from C/UNIX); reverse slash; slosh;
+backslant; backwhack. Rare: bash; <reverse slant>; reversed virgule;
+[backslat]. ^ Common: hat; control; uparrow; caret; <circumflex>. Rare: xor
+sign, chevron; [shark (or shark-fin)]; to the (`to the power of'); fang;
+pointer (in Pascal). _ Common: <underline>; underscore; underbar; under.
+Rare: score; backarrow; skid; [flatworm]. ` Common: backquote; left quote;
+left single quote; open quote; <grave accent>; grave. Rare: backprime;
+[backspark]; unapostrophe; birk; blugle; back tick; back glitch; push;
+<opening single quotation mark>; quasiquote. { } Common: o/c brace; l/r
+brace; l/r squiggly; l/r squiggly bracket/brace; l/r curly bracket/brace;
+<opening/closing brace>. Rare: brace/unbrace; curly/uncurly; leftit/rytit;
+l/r squirrelly; [embrace/bracelet]. A balanced pair of these may be called
+`curlies'. | Common: bar; or; or-bar; v-bar; pipe; vertical bar. Rare:
+<vertical line>; gozinta; thru; pipesinta (last three from UNIX); [spike]. ~
+Common: <tilde>; squiggle; {twiddle}; not. Rare: approx; wiggle; swung dash;
+enyay; [sqiggle (sic)]. The pronunciation of `#' as `pound' is common in the
+U.S. but a bad idea; {{Commonwealth Hackish}} has its own, rather more
+apposite use of `pound sign' (confusingly, on British keyboards the pound
+graphic happens to replace `#'; thus Britishers sometimes call `#' on a
+U.S.-ASCII keyboard `pound', compounding the American error). The U.S. usage
+derives from an old-fashioned commercial practice of using a `#' suffix to
+tag pound weights on bills of lading. The character is usually pronounced
+`hash' outside the U.S. There are more culture wars over the correct
+pronunciation of this character than any other, which has led to the {ha ha
+only serious} suggestion that it be pronounced `shibboleth' (see Judges 12:6
+in an Old Testament or Tanakh). The `uparrow' name for circumflex and
+`leftarrow' name for underline are historical relics from archaic ASCII (the
+1963 version), which had these graphics in those character positions rather
+than the modern punctuation characters. The `swung dash' or `approximation'
+sign is not quite the same as tilde in typeset material but the ASCII tilde
+serves for both (compare {angle brackets}). Some other common usages cause
+odd overlaps. The `#', `$', `>', and `&' characters, for example, are all
+pronounced "hex" in different communities because various assemblers use them
+as a prefix tag for hexadecimal constants (in particular, `#' in many
+assembler-programming cultures, `$' in the 6502 world, `>' at Texas
+Instruments, and `&' on the BBC Micro, Sinclair, and some Z80 machines). see
+also {splat}. The inability of ASCII text to correctly represent any of the
+world's other major languages makes the designers' choice of 7 bits look more
+and more like a serious {misfeature} as the use of international networks
+continues to increase (see {software rot}). Hardware and software from the
+U.S. still tends to embody the assumption that ASCII is the universal
+character set and that characters have 7 bits; this is a major irritant to
+people who want to use a character set suited to their own languages.
+Perversely, though, efforts to solve this problem by proliferating `national'
+character sets produce an evolutionary pressure to use a _smaller_ subset
+common to all those in use.

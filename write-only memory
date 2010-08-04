@@ -1,4 +1,4 @@
- :write-only memory: /n./ The obvious antonym to `read-only memory'. Out of
+ :write-only memory: n. The obvious antonym to `read-only memory'. Out of
 frustration with the long and seemingly useless chain of approvals required
 of component specifications, during which no actual checking seemed to occur,
 an engineer at Signetics once created a specification for a write-only memory
@@ -6,10 +6,10 @@ and included it with a bunch of other specifications to be approved. This
 inclusion came to the attention of Signetics {management} only when regular
 customers started calling and asking for pricing information. Signetics
 published a corrected edition of the data book and requested the return of
-the `erroneous' ones. Later, around 1974, Signetics bought a double-page
-spread in "Electronics" magazine's April issue and used the spec as an April
-Fools' Day joke. Instead of the more conventional characteristic curves, the
-25120 "fully encoded, 9046 x N, Random Access, write-only-memory" data sheet
+the `erroneous' ones. Later, in 1972, Signetics bought a double-page spread
+in "Electronics" magazine's April issue and used the spec as an April Fools'
+Day joke. Instead of the more conventional characteristic curves, the 25120
+"fully encoded, 9046 x N, Random Access, write-only-memory" data sheet
 included diagrams of "bit capacity vs. Temp.", "Iff vs. Vff", "Number of pins
 remaining vs. number of socket insertions", and "AQL vs. selling price". The
 25120 required a 6.3 VAC VFF supply, a +10V VCC, and VDD of 0V, +/- 2%.

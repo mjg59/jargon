@@ -1,4 +1,4 @@
- :crock: /n./ [from the American scatologism `crock of shit'] 1. An awkward
+ :crock: n. [from the American scatologism `crock of shit'] 1. An awkward
 feature or programming technique that ought to be made cleaner. For example,
 using small integers to represent error codes without the program
 interpreting them to the user (as in, for example, Unix `make(1)', which
@@ -8,7 +8,7 @@ the least. For example, a too-clever programmer might write an assembler
 which mapped instruction mnemonics to numeric opcodes algorithmically, a
 trick which depends far too intimately on the particular bit patterns of the
 opcodes. (For another example of programming with a dependence on actual
-opcode values, see {The Story of Mel, a Real Programmer} in Appendix A.) Many
-crocks have a tightly woven, almost completely unmodifiable structure. see
-{kluge}, {brittle}. The adjectives `crockish' and `crocky', and the nouns
+opcode values, see {The Story of Mel} in Appendix A.) Many crocks have a
+tightly woven, almost completely unmodifiable structure. see {kluge},
+{brittle}. The adjectives `crockish' and `crocky', and the nouns
 `crockishness' and `crockitude', are also used.

@@ -1,7 +1,23 @@
- :scram switch: /n./ [from the nuclear power industry] An emergency-power-off
+ :scram switch: n. [from the nuclear power industry] An emergency-power-off
 switch (see {Big Red Switch}), esp. one positioned to be easily hit by
-evacuating personnel. In general, this is *not* something you {frob} lightly;
+evacuating personnel. In general, this is _not_ something you {frob} lightly;
 these often initiate expensive events (such as Halon dumps) and are installed
 in a {dinosaur pen} for use in case of electrical fire or in case some
 luckless {field servoid} should put 120 volts across himself while {Easter
-egging}. (see also {molly-guard}, {TMRC}.)
+egging}. (see also {molly-guard}, {TMRC}.) A correspondent reports a legend
+that "Scram" is an acronym for "Start Cutting Right Away, Man" (another less
+plausible variant of this legend refers to "Safety Control Rod Axe Man";
+these are almost certainly both {backronym}s). The story goes that in the
+earliest nuclear power experiments the engineers recognized the possibility
+that the reactor wouldn't behave exactly as predicted by their mathematical
+models. Accordingly, they made sure that they had mechanisms in place that
+would rapidly drop the control rods back into the reactor. One mechanism took
+the form of `scram technicians'. These individuals stood next to the ropes or
+cables that raised and lowered the control rods. Equipped with axes or
+cable-cutters, these technicians stood ready for the (literal) `scram'
+command. If necessary, they would cut the cables, and gravity would
+expeditiously return the control rods to the reactor, thereby averting yet
+another kind of {core dump}. Modern reactor control rods are held in place
+with claw-like devices, held closed by current. SCRAM switches are circuit
+breakers that immediately open the circuit to the rod arms, resulting in the
+rapid insertion and subsequent bottoming of the control rods.

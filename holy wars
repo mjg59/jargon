@@ -1,11 +1,15 @@
- :holy wars: /n./ [from {Usenet}, but may predate it] /n./ {flame war}s over
-{religious issues}. The paper by Danny Cohen that popularized the terms
+ :holy wars: n. [from {Usenet}, but may predate it; common] n. {flame war}s
+over {religious issues}. The paper by Danny Cohen that popularized the terms
 {big-endian} and {little-endian} in connection with the LSB-first/MSB-first
-controversy was entitled "On Holy Wars and a Plea for Peace". Other perennial
-Holy Wars have included {EMACS} vs. {vi}, my personal computer vs. everyone
-else's personal computer, {{ITS}} vs. {{Unix}}, {{Unix}} vs. {VMS}, {BSD}
-Unix vs. {USG Unix}, {C} vs. {{Pascal}}, {C} vs. FORTRAN, etc., ad nauseam.
-The characteristic that distinguishes holy wars from normal technical
-disputes is that in a holy war most of the participants spend their time
-trying to pass off personal value choices and cultural attachments as
-objective technical evaluations. see also {theology}.
+controversy was entitled "On Holy Wars and a Plea for Peace". Great holy wars
+of the past have included {{ITS}} vs. {{Unix}}, {{Unix}} vs. {VMS}, {BSD}
+Unix vs. System V, {C} vs. {{Pascal}}, {C} vs. FORTRAN, etc. In the year
+2000, popular favorites of the day are KDE vs, GNOME, vim vs. elvis, Linux
+vs. [Free|Net|Open]BSD. Hardy perennials include {EMACS} vs. {vi}, my
+personal computer vs. everyone else's personal computer, ad nauseam. The
+characteristic that distinguishes holy wars from normal technical disputes is
+that in a holy war most of the participants spend their time trying to pass
+off personal value choices and cultural attachments as objective technical
+evaluations. This happens precisely because in a true holy war, the actual
+substantive differences between the sides are relatively minor. see also
+{theology}.

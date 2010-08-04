@@ -1,9 +1,9 @@
- :heavyweight: /adj./ High-overhead; {baroque}; code-intensive; featureful,
-but costly. Esp. used of communication protocols, language designs, and any
-sort of implementation in which maximum generality and/or ease of
-implementation has been pushed at the expense of mundane considerations such
-as speed, memory utilization, and startup time. {EMACS} is a heavyweight
-editor; {X} is an *extremely* heavyweight window system. This term isn't
-pejorative, but one hacker's heavyweight is another's {elephantine} and a
-third's {monstrosity}. Oppose `lightweight'. Usage: now borders on techspeak,
-especially in the compound `heavyweight process'.
+ :heavyweight: adj. [common] High-overhead; {baroque}; code-intensive;
+featureful, but costly. Esp. used of communication protocols, language
+designs, and any sort of implementation in which maximum generality and/or
+ease of implementation has been pushed at the expense of mundane
+considerations such as speed, memory utilization, and startup time. {EMACS}
+is a heavyweight editor; {X} is an _extremely_ heavyweight window system.
+This term isn't pejorative, but one hacker's heavyweight is another's
+{elephantine} and a third's {monstrosity}. Oppose `lightweight'. Usage: now
+borders on techspeak, especially in the compound `heavyweight process'.

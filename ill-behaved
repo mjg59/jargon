@@ -1,4 +1,4 @@
- :ill-behaved: /adj./ 1. [numerical analysis] Said of an algorithm or
+ :ill-behaved: adj. 1. [numerical analysis] Said of an algorithm or
 computational method that tends to blow up because of accumulated roundoff
 error or poor convergence properties. 2. Software that bypasses the defined
 {OS} interfaces to do things (like screen, keyboard, and disk I/O) itself,

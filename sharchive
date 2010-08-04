@@ -1,4 +1,4 @@
- :sharchive: /shar'ki:v/ /n./ [Unix and Usenet; from /bin/sh archive] A
+ :sharchive: /shar'ki:v/ n. [Unix and Usenet; from /bin/sh archive] A
 {flatten}ed representation of a set of one or more files, with the unique
 property that it can be unflattened (the original files restored) by feeding
 it through a standard Unix shell; thus, a sharchive can be distributed to

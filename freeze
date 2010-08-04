@@ -1,4 +1,4 @@
- :freeze: /v./ To lock an evolving software distribution or document against
+ :freeze: v. To lock an evolving software distribution or document against
 changes so it can be released with some hope of stability. Carries the strong
 implication that the item in question will `unfreeze' at some future date.
 "OK, fix that bug and we'll freeze for release." There are more specific

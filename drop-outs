@@ -1,4 +1,4 @@
- :drop-outs: /n./ 1. A variety of `power glitch' (see {glitch}); momentary 0
+ :drop-outs: n. 1. A variety of `power glitch' (see {glitch}); momentary 0
 voltage on the electrical mains. 2. Missing characters in typed input due to
 software malfunction or system saturation (one cause of such behavior under
 Unix when a bad connection to a modem swamps the processor with spurious

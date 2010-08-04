@@ -1,4 +1,4 @@
- :ELIZA effect: /*-li:'z* *-fekt'/ /n./ [AI community] The tendency of humans
+ :ELIZA effect: /*-li:'z* *-fekt'/ n. [AI community] The tendency of humans
 to attach associations to terms from prior experience. For example, there is
 nothing magic about the symbol `+' that makes it well-suited to indicate
 addition; it's just that people associate it with addition. Using `+' or
@@ -13,4 +13,5 @@ this was due to people's tendency to attach to words meanings which the
 computer never put there. The ELIZA effect is a {Good Thing} when writing a
 programming language, but it can blind you to serious shortcomings when
 analyzing an Artificial Intelligence system. Compare {ad-hockery}; see also
-{AI-complete}.
+{AI-complete}. Sources for a clone of the original Eliza are available at
+`ftp://ftp.cc.utexas.edu/pub/AI_ATTIC/Programs/Classic/Eliza/Eliza.c'.

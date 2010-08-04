@@ -1,4 +1,4 @@
- :register dancing: /n./ Many older processor architectures suffer from a
+ :register dancing: n. Many older processor architectures suffer from a
 serious shortage of general-purpose registers. This is especially a problem
 for compiler-writers, because their generated code needs places to store
 temporaries for things like intermediate values in expression evaluation.

@@ -1,4 +1,4 @@
- :candygrammar: /n./ A programming-language grammar that is mostly {syntactic
+ :candygrammar: n. A programming-language grammar that is mostly {syntactic
 sugar}; the term is also a play on `candygram'. {COBOL}, Apple's Hypertalk
 language, and a lot of the so-called `4GL' database languages share this
 property. The usual intent of such designs is that they be as English-like as
@@ -12,7 +12,8 @@ Chevy Chase skit on Saturday Night Live should not be overlooked. This was a
 "Jaws" parody. Someone lurking outside an apartment door tries all kinds of
 bogus ways to get the occupant to open up, while ominous music plays in the
 background. The last attempt is a half-hearted "Candygram!" When the door is
-opened, a shark bursts in and chomps the poor occupant. There is a moral here
-for those attracted to candygrammars. Note that, in many circles, pretty much
-the same ones who remember Monty Python sketches, all it takes is the word
-"Candygram!", suitably timed, to get people rolling on the floor. -- GLS]
+opened, a shark bursts in and chomps the poor occupant. [There is a similar
+gag in "Blazing Saddles" --ESR] There is a moral here for those attracted to
+candygrammars. Note that, in many circles, pretty much the same ones who
+remember Monty Python sketches, all it takes is the word "Candygram!",
+suitably timed, to get people rolling on the floor. -- GLS]

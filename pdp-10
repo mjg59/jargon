@@ -1,35 +1,17 @@
- 2. More specifically, to give up on figuring out what the {Right Thing} is
-and resort to an inefficient hack. 3. A design decision to defer solving a
-problem, typically because one cannot define what is desirable sufficiently
-well to frame an algorithmic solution. "No way to know what the right form to
-dump the graph in is -- we'll punt that for now." 4. To hand a tricky
-implementation problem off to some other section of the design. "It's too
-hard to get the compiler to do that; let's punt to the runtime system." 5. To
-knock someone off an Internet or chat connection; a `punter' thus, is a
-person or program that does this. :Purple Book: n. 1. The "System V Interface
-Definition". The covers of the first editions were an amazingly nauseating
-shade of off-lavender. 2. Syn. {Wizard Book}. Donald Lewine's "POSIX
-Programmer's Guide" (O'Reilly, 1991, ISBN 0-937175-73-0). see also {{book
-titles}}. :purple wire: n. [IBM] Wire installed by Field Engineers to work
-around problems discovered during testing or debugging. These are called
-`purple wires' even when (as is frequently the case) their actual physical
-color is yellow.... Compare {blue wire}, {yellow wire}, and {red wire}.
-:push: [from the operation that puts the current information on a stack, and
-the fact that procedure return addresses are saved on a stack] (Also PUSH
-/push/ or PUSHJ /push'J/, the latter based on the PDP-10 procedure call
-instruction.) 1. To put something onto a {stack} or {PDL}. If one says that
-something has been pushed onto one's stack, it means that the Damoclean list
-of things hanging over ones's head has grown longer and heavier yet. This may
-also imply that one will deal with it _before_ other pending items; otherwise
-one might say that the thing was `added to my queue'. 2. vi. To enter upon a
-digression, to save the current discussion for later. Antonym of {pop}; see
-also {stack}, {PDL}. :Python: /pi:'thon/ In the words of its author, "the
-other scripting language" (other than {Perl}, that is). Python's design is
-notably clean, elegant, and well thought through; it tends to attract the
-sort of programmers who find Perl grubby and exiguous. Python's relationship
-with Perl is rather like the {BSD} community's relationship to {Linux} - it's
-the smaller party in a (usually friendly) rivalry, but the average quality of
-its developers is generally conceded to be rather higher than in the larger
-community it competes with. There's a Python resource page at
-`http://www.python.org'. see also {Guido}. = Q = ===== :quad: n. 1. Two bits;
-syn. for {quarter}, {crumb}, {tayste}.
+ :PDP-10: n. [Programmed Data Processor model 10] The machine that made
+timesharing real. It looms large in hacker folklore because of its adoption
+in the mid-1970s by many university computing facilities and research labs,
+including the MIT AI Lab, Stanford, and CMU. Some aspects of the instruction
+set (most notably the bit-field instructions) are still considered
+unsurpassed. The 10 was eventually eclipsed by the VAX machines (descendants
+of the PDP-11) when {DEC} recognized that the 10 and VAX product lines were
+competing with each other and decided to concentrate its software development
+effort on the more profitable VAX. The machine was finally dropped from DEC's
+line in 1983, following the failure of the Jupiter Project at DEC to build a
+viable new model. (Some attempts by other companies to market clones came to
+nothing; see {Foonly} and {Mars}.) This event spelled the doom of {{ITS}} and
+the technical cultures that had spawned the original Jargon File, but by
+mid-1991 it had become something of a badge of honorable old-timerhood among
+hackers to have cut one's teeth on a PDP-10. see {{TOPS-10}}, {{ITS}}, {BLT},
+{DDT}, {EXCH}, {HAKMEM}, {LDB}, {pop}, {push}. see also
+`http://www.inwap.com/pdp10/'.

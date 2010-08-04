@@ -1,9 +1,9 @@
- :operating system:: /n./ [techspeak] (Often abbreviated `OS') The foundation
-software of a machine, of course; that which schedules tasks, allocates
-storage, and presents a default interface to the user between applications.
-The facilities an operating system provides and its general design philosophy
-exert an extremely strong influence on programming style and on the technical
-cultures that grow up around its host machines. Hacker folklore has been
-shaped primarily by the {{Unix}}, {{ITS}}, {{TOPS-10}},
-{{TOPS-20}}/{{TWENEX}}, {{WAITS}}, {{CP/M}}, {{MS-DOS}}, and {{Multics}}
-operating systems (most importantly by ITS and Unix).
+ :operating system:: n. [techspeak] (Often abbreviated `OS') The foundation
+software of a machine; that which schedules tasks, allocates storage, and
+presents a default interface to the user between applications. The facilities
+an operating system provides and its general design philosophy exert an
+extremely strong influence on programming style and on the technical cultures
+that grow up around its host machines. Hacker folklore has been shaped
+primarily by the {{Unix}}, {{ITS}}, {{TOPS-10}}, {{TOPS-20}}/{{TWENEX}},
+{{WAITS}}, {{CP/M}}, {{MS-DOS}}, and {{Multics}} operating systems (most
+importantly by ITS and Unix).

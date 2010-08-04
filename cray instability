@@ -1,7 +1,7 @@
- :cray instability: /n./ 1. A shortcoming of a program or algorithm that
+ :cray instability: n. 1. A shortcoming of a program or algorithm that
 manifests itself only when a large problem is being run on a powerful machine
 (see {cray}). Generally more subtle than bugs that can be detected in smaller
 problems running on a workstation or mini. 2. More specifically, a
 shortcoming of algorithms which are well behaved when run on gentle floating
-point hardware (such as IEEE-standard or DEC) but which break down badly when
-exposed to a Cray's unique `rounding' rules.
+point hardware (such as IEEE-standard or PDP-series machines) but which break
+down badly when exposed to a Cray's unique `rounding' rules.

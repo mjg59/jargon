@@ -1,4 +1,4 @@
- :RFC: /R-F-C/ /n./ [Request For Comment] One of a long-established series of
+ :RFC: /R-F-C/ n. [Request For Comment] One of a long-established series of
 numbered Internet informational documents and standards widely followed by
 commercial software and freeware in the Internet and Unix communities.
 Perhaps the single most influential one has been RFC-822 (the Internet
@@ -18,8 +18,8 @@ Datagrams on Avian Carriers", D. Waitzman, BBN STC; 1 April 1990). The first
 was a Lewis Carroll pastiche; the second a parody of the TCP-IP documentation
 style, and the third a deadpan skewering of standards-document legalese,
 describing protocols for transmitting Internet data packets by carrier
-pigeon. The RFCs are most remarkable for how well they work -- they manage to
-have neither the ambiguities that are usually rife in informal
-specifications, nor the committee-perpetrated misfeatures that often haunt
-formal standards, and they define a network that has grown to truly worldwide
-proportions.
+pigeon. see also {Infinite-Monkey Theorem}. The RFCs are most remarkable for
+how well they work -- they frequently manage to have neither the ambiguities
+that are usually rife in informal specifications, nor the
+committee-perpetrated misfeatures that often haunt formal standards, and they
+define a network that has grown to truly worldwide proportions.

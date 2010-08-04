@@ -1,4 +1,4 @@
- :eighty-column mind: /n./ [IBM] The sort said to be possessed by persons for
+ :eighty-column mind: n. [IBM] The sort said to be possessed by persons for
 whom the transition from {punched card} to tape was traumatic (nobody has
 dared tell them about disks yet). It is said that these people, including
 (according to an old joke) the founder of IBM, will be buried `face down,
@@ -6,6 +6,9 @@ dared tell them about disks yet). It is said that these people, including
 inscribed on IBM's 1402 and 1622 card readers and is referenced in a famous
 bit of doggerel called "The Last Bug", the climactic lines of which are as
 follows: He died at the console Of hunger and thirst. Next day he was buried,
-Face down, 9-edge first. The eighty-column mind is thought by most hackers to
-dominate IBM's customer base and its thinking. see {IBM}, {fear and
-loathing}, {card walloper}.
+Face down, 9-edge first. The eighty-column mind was thought by most hackers
+to dominate IBM's customer base and its thinking. This only began to change
+in the mid-1990s when IBM began to reinvent itself after the triumph of the
+{killer micro}. see {IBM}, {fear and loathing}, {card walloper}. A copy of
+"The Last Bug" lives on the the GNU site at
+`http://www.gnu.org/fun/jokes/last.bug.html'.

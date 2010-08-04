@@ -1,4 +1,4 @@
- :EBCDIC:: /eb's*-dik/, /eb'see`dik/, or /eb'k*-dik/ /n./ [abbreviation,
+ :EBCDIC:: /eb's*-dik/, /eb'see`dik/, or /eb'k*-dik/ n. [abbreviation,
 Extended Binary Coded Decimal Interchange Code] An alleged character set used
 on IBM {dinosaur}s. It exists in at least six mutually incompatible versions,
 all featuring such delights as non-contiguous letter sequences and the
@@ -10,5 +10,5 @@ tactic (see {connector conspiracy}), spurning the already established ASCII
 standard. Today, IBM claims to be an open-systems company, but IBM's own
 description of the EBCDIC variants and how to convert between them is still
 internally classified top-secret, burn-before-reading. Hackers blanch at the
-very *name* of EBCDIC and consider it a manifestation of purest {evil}. see
+very _name_ of EBCDIC and consider it a manifestation of purest {evil}. see
 also {fear and loathing}.

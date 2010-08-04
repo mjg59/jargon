@@ -1,4 +1,4 @@
- :breath-of-life packet: /n./ [XEROX PARC] An Ethernet packet that contains
+ :breath-of-life packet: n. [XEROX PARC] An Ethernet packet that contains
 bootstrap (see {boot}) code, periodically sent out from a working computer to
 infuse the `breath of life' into any computer on the network that has
 happened to crash. Machines depending on such packets have sufficient

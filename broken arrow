@@ -1,4 +1,4 @@
- :broken arrow: /n./ [IBM] The error code displayed on line 25 of a 3270
+ :broken arrow: n. [IBM] The error code displayed on line 25 of a 3270
 terminal (or a PC emulating a 3270) for various kinds of protocol violations
 and "unexpected" error conditions (including connection to a {down}
 computer). On a PC, simulated with `->/_', with the two center characters

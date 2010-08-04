@@ -1,7 +1,7 @@
- :Parkinson's Law of Data: /prov./ "Data expands to fill the space available
+ :Parkinson's Law of Data: prov. "Data expands to fill the space available
 for storage"; buying more memory encourages the use of more memory-intensive
-techniques. It has been observed over the last 10 years that the memory usage
-of evolving systems tends to double roughly once every 18 months.
-Fortunately, memory density available for constant dollars also tends to
-double about once every 12 months (see {Moore's Law}); unfortunately, the
-laws of physics guarantee that the latter cannot continue indefinitely.
+techniques. It has been observed since the mid-1980s that the memory usage of
+evolving systems tends to double roughly once every 18 months. Fortunately,
+memory density available for constant dollars also tends to about double once
+every 18 months (see {Moore's Law}); unfortunately, the laws of physics
+guarantee that the latter cannot continue indefinitely.

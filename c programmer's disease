@@ -1,4 +1,4 @@
- :C Programmer's Disease: /n./ The tendency of the undisciplined C programmer
+ :C Programmer's Disease: n. The tendency of the undisciplined C programmer
 to set arbitrary but supposedly generous static limits on table sizes
 (defined, if you're lucky, by constants in header files) rather than taking
 the trouble to do proper dynamic storage allocation. If an application user

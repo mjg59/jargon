@@ -1,5 +1,5 @@
- :gotcha: /n./ A {misfeature} of a system, especially a programming language
-or environment, that tends to breed bugs or mistakes because it both
+ :gotcha: n. A {misfeature} of a system, especially a programming language or
+environment, that tends to breed bugs or mistakes because it is both
 enticingly easy to invoke and completely unexpected and/or unreasonable in
 its outcome. For example, a classic gotcha in {C} is the fact that `if (a=b)
 {code;}' is syntactically valid and sometimes even correct. It puts the value

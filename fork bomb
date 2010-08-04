@@ -1,4 +1,4 @@
- :fork bomb: /n./ [Unix] A particular species of {wabbit} that can be written
+ :fork bomb: n. [Unix] A particular species of {wabbit} that can be written
 in one line of C (`main() {for(;;)fork();}') or shell (`$0 & $0 &') on any
 Unix system, or occasionally created by an egregious coding bug. A fork bomb
 process `explodes' by recursively spawning copies of itself (using the Unix

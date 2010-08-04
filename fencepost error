@@ -1,4 +1,4 @@
- :fencepost error: /n./ 1. A problem with the discrete equivalent of a
+ :fencepost error: n. 1. [common] A problem with the discrete equivalent of a
 boundary condition, often exhibited in programs by iterative loops. From the
 following problem: "If you build a fence 100 feet long with posts 10 feet
 apart, how many posts do you need?" (Either 9 or 11 is a better answer than

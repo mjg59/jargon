@@ -1,82 +1,14 @@
- A term of mild derision -- munchkins are annoying but some grow up to be
-hackers after passing through a {larval stage}. The term {urchin} is also
-used. see also {wannabee}, {bitty box}. :mundane: n. [from SF fandom] 1. A
-person who is not in science fiction fandom. 2. A person who is not in the
-computer industry. In this sense, most often an adjectival modifier as in "in
-my mundane life...." see also {Real World}, {muggle}. :mung: /muhng/ vt. [in
-1960 at MIT, `Mash Until No Good'; sometime after that the derivation from
-the {{recursive acronym}} `Mung Until No Good' became standard; but see
-{munge}] 1. To make changes to a file, esp. large-scale and irrevocable
-changes. see {BLT}. 2. To destroy, usually accidentally, occasionally
-maliciously. The system only mungs things maliciously; this is a consequence
-of {Finagle's Law}. see {scribble}, {mangle}, {trash}, {nuke}. Reports from
-{Usenet} suggest that the pronunciation /muhnj/ is now usual in speech, but
-the spelling `mung' is still common in program comments (compare the
-widespread confusion over the proper spelling of {kluge}). 3. In the wake of
-the {spam} epidemics of the 1990s, mung is now commonly used to describe the
-act of modifying an email address in a sig block in a way that human beings
-can readily reverse but that will fool an {address harvester}. Example:
-johnNOSPAMsmith@isp.net. 4. The kind of beans the sprouts of which are used
-in Chinese food. (That's their real name! Mung beans! Really!) Like many
-early hacker terms, this one seems to have originated at {TMRC}; it was
-already in use there in 1958. Peter Samson (compiler of the original TMRC
-lexicon) thinks it may originally have been onomatopoeic for the sound of a
-relay spring (contact) being twanged. However, it is known that during the
-World Wars, `mung' was U.S. army slang for the ersatz creamed chipped beef
-better known as `SOS', and it seems quite likely that the word in fact goes
-back to Scots-dialect {munge}. :munge: /muhnj/ vt. 1. [derogatory] To
-imperfectly transform information. 2. A comprehensive rewrite of a routine,
-data structure or the whole program. 3. To modify data in some way the
-speaker doesn't need to go into right now or cannot describe succinctly
-(compare {mumble}). 4. To add {spamblock} to an email address. This term is
-often confused with {mung}, which probably was derived from it. However, it
-also appears the word `munge' was in common use in Scotland in the 1940s, and
-in Yorkshire in the 1950s, as a verb, meaning to munch up into a masticated
-mess, and as a noun, meaning the result of munging something up (the parallel
-with the {kluge}/{kludge} pair is amusing). The OED reports `munge' as an
-archaic verb meaning "to wipe (a person's nose)". :Murphy's Law: prov. The
-correct, _original_ Murphy's Law reads: "If there are two or more ways to do
-something, and one of those ways can result in a catastrophe, then someone
-will do it." This is a principle of defensive design, cited here because it
-is usually given in mutant forms less descriptive of the challenges of design
-for {luser}s. For example, you don't make a two-pin plug symmetrical and then
-label it `THIS WAY UP'; if it matters which way it is plugged in, then you
-make the design asymmetrical (see also the anecdote under {magic smoke}).
-Edward A. Murphy, Jr. was one of the engineers on the rocket-sled experiments
-that were done by the U.S. Air Force in 1949 to test human acceleration
-tolerances (USAF project MX981). One experiment involved a set of 16
-accelerometers mounted to different parts of the subject's body. There were
-two ways each sensor could be glued to its mount, and somebody methodically
-installed all 16 the wrong way around. Murphy then made the original form of
-his pronouncement, which the test subject (Major John Paul Stapp) quoted at a
-news conference a few days later. Within months `Murphy's Law' had spread to
-various technical cultures connected to aerospace engineering. Before too
-many years had gone by variants had passed into the popular imagination,
-changing as they went. Most of these are variants on "Anything that can go
-wrong, will"; this is correctly referred to as {Finagle's Law}. The memetic
-drift apparent in these mutants clearly demonstrates Murphy's Law acting on
-itself! :music:: n. A common extracurricular interest of hackers (compare
-{{science-fiction fandom}}, {{oriental food}}; see also {filk}). Hackish
-folklore has long claimed that musical and programming abilities are closely
-related, and there has been at least one large-scale statistical study that
-supports this. Hackers, as a rule, like music and often develop musical
-appreciation in unusual and interesting directions. Folk music is very big in
-hacker circles; so is electronic music, and the sort of elaborate
-instrumental jazz/rock that used to be called `progressive' and isn't
-recorded much any more. The hacker's musical range tends to be wide; many can
-listen with equal appreciation to (say) Talking Heads, Yes, Gentle Giant, Pat
-Metheny, Scott Joplin, Tangerine Dream, Dream Theater, King Sunny Ade, The
-Pretenders, Screaming Trees, or the Brandenburg Concerti. It is also
-apparently true that hackerdom includes a much higher concentration of
-talented amateur musicians than one would expect from a similar-sized control
-group of {mundane} types. :mutter: vt. To quietly enter a command not meant
-for the ears, eyes, or fingers of ordinary mortals. Often used in `mutter an
-{incantation}'. see also {wizard}. = N = ===== :N: /N/ quant. 1. A large and
-indeterminate number of objects: "There were N bugs in that crock!" Also used
-in its original sense of a variable name: "This crock has N bugs, as N goes
-to infinity." (The true number of bugs is always at least N + 1; see
-{Lubarsky's Law of Cybernetic Entomology}.) 2. A variable whose value is
-inherited from the current context. For example, when a meal is being ordered
-at a restaurant, N may be understood to mean however many people there are at
-the table. From the remark "We'd like to order N wonton soups and a family
-dinner for
+ :N: /N/ quant. 1. A large and indeterminate number of objects: "There were N
+bugs in that crock!" Also used in its original sense of a variable name:
+"This crock has N bugs, as N goes to infinity." (The true number of bugs is
+always at least N + 1; see {Lubarsky's Law of Cybernetic Entomology}.) 2. A
+variable whose value is inherited from the current context. For example, when
+a meal is being ordered at a restaurant, N may be understood to mean however
+many people there are at the table. From the remark "We'd like to order N
+wonton soups and a family dinner for N - 1" you can deduce that one person at
+the table wants to eat only soup, even though you don't know how many people
+there are (see {great-wall}). 3. `Nth': adj. The ordinal counterpart of N,
+senses 1 and 2. "Now for the Nth and last time..." In the specific context
+"Nth-year grad student", N is generally assumed to be at least 4, and is
+usually 5 or more (see {tenured graduate student}). see also {{random
+numbers}}, {two-to-the-N}.

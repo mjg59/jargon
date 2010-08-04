@@ -1,4 +1,4 @@
- :vaxocentrism: /vak`soh-sen'trizm/ /n./ [analogy with `ethnocentrism'] A
+ :vaxocentrism: /vak`soh-sen'trizm/ n. [analogy with `ethnocentrism'] A
 notional disease said to afflict C programmers who persist in coding
 according to certain assumptions that are valid (esp. under Unix) on {VAXen}
 but false elsewhere. Among these are: 1. The assumption that dereferencing a
@@ -45,10 +45,11 @@ on segmented architectures, the latter on word-oriented machines or others
 with multiple pointer formats. 13. The assumption that an `int' is 32 bits,
 or (nearly equivalently) the assumption that `sizeof(int) == sizeof(long)'.
 Problem: this fails on PDP-11s, 286-based systems and even on 386 and 68000
-systems under some compilers. 14. The assumption that `argv[]' is writable.
-Problem: this fails in many embedded-systems C environments and even under a
-few flavors of Unix. Note that a programmer can validly be accused of
-vaxocentrism even if he or she has never seen a VAX. Some of these
-assumptions (esp. 2--5) were valid on the PDP-11, the original C machine, and
-became endemic years before the VAX. The terms `vaxocentricity' and
-`all-the-world's-a-VAX syndrome' have been used synonymously.
+systems under some compilers (and on 64-bit systems like the Alpha, of
+course). 14. The assumption that `argv[]' is writable. Problem: this fails in
+many embedded-systems C environments and even under a few flavors of Unix.
+Note that a programmer can validly be accused of vaxocentrism even if he or
+she has never seen a VAX. Some of these assumptions (esp. 2-5) were valid on
+the PDP-11, the original C machine, and became endemic years before the VAX.
+The terms `vaxocentricity' and `all-the-world's-a-VAX syndrome' have been
+used synonymously.

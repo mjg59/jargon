@@ -1,5 +1,13 @@
- :pdl: /pid'l/ or /puhd'l/ /n./ [abbreviation for `Push Down List'] 1. In ITS
-days, the preferred MITism for {stack}. see {overflow pdl}. 2. Dave Lebling,
-one of the co-authors of {Zork}; (his {network address} on the ITS machines
-was at one time pdl@dms). 3. Rarely, any sense of {PDL}, as these are not
-invariably capitalized.
+ :PDL: /P-D-L/, /pid'l/, /p*d'l/ or /puhd'l/ 1. n. `Program Design Language'.
+Any of a large class of formal and profoundly useless pseudo-languages in
+which {management} forces one to design programs. Too often, management
+expects PDL descriptions to be maintained in parallel with the code, imposing
+massive overhead to little or no benefit. see also {{flowchart}}. 2. v. To
+design using a program design language. "I've been pdling so long my eyes
+won't focus beyond 2 feet." 3. n. `Page Description Language'. Refers to any
+language which is used to control a graphics device, usually a laserprinter.
+The most common example is, of course, Adobe's {{PostScript}} language, but
+there are many others, such as Xerox InterPress, etc. 4. In ITS days, the
+preferred MITism for {stack}. see {overflow pdl}. 5. Dave Lebling, one of the
+co-authors of {Zork}; (his {network address} on the ITS machines was at one
+time pdl@dms).

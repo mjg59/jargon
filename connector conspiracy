@@ -1,10 +1,10 @@
- :connector conspiracy: /n./ [probably came into prominence with the
-appearance of the KL-10 (one model of the {PDP-10}), none of whose connectors
-matched anything else] The tendency of manufacturers (or, by extension,
-programmers or purveyors of anything) to come up with new products that don't
-fit together with the old stuff, thereby making you buy either all new stuff
-or expensive interface devices. The KL-10 Massbus connector was actually
-*patented* by {DEC}, which reputedly refused to license the design and thus
+ :connector conspiracy: n. [probably came into prominence with the appearance
+of the KL-10 (one model of the {PDP-10}), none of whose connectors matched
+anything else] The tendency of manufacturers (or, by extension, programmers
+or purveyors of anything) to come up with new products that don't fit
+together with the old stuff, thereby making you buy either all new stuff or
+expensive interface devices. The KL-10 Massbus connector was actually
+_patented_ by {DEC}, which reputedly refused to license the design and thus
 effectively locked third parties out of competition for the lucrative Massbus
 peripherals market. This policy is a source of never-ending frustration for
 the diehards who maintain older PDP-10 or VAX systems. Their CPUs work fine,
@@ -14,8 +14,8 @@ slightly different intent, is the habit manufacturers have of inventing new
 screw heads so that only Designated Persons, possessing the magic
 screwdrivers, can remove covers and make repairs or install options. A good
 1990s example is the use of Torx screws for cable-TV set-top boxes. Older
-Apple Macintoshes took this one step further, requiring not only a hex wrench
-but a specialized case-cracking tool to open the box.) In these latter days
-of open-systems computing this term has fallen somewhat into disuse, to be
-replaced by the observation that "Standards are great! There are so many of
-them to choose from!" Compare {backward combatability}.
+Apple Macintoshes took this one step further, requiring not only a long Torx
+screwdriver but a specialized case-cracking tool to open the box.) In these
+latter days of open-systems computing this term has fallen somewhat into
+disuse, to be replaced by the observation that "Standards are great! There
+are so many of them to choose from!" Compare {backward combatability}.

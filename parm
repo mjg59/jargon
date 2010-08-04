@@ -1,4 +1,4 @@
- :parm: /parm/ /n./ Further-compressed form of {param}. This term is an
-IBMism, and written use is almost unknown outside IBM shops; spoken /parm/ is
-more widely distributed, but the synonym {arg} is favored among hackers.
-Compare {arg}, {var}.
+ :parm: /parm/ n. Further-compressed form of {param}. This term is an IBMism,
+and written use is almost unknown outside IBM shops; spoken /parm/ is more
+widely distributed, but the synonym {arg} is favored among hackers. Compare
+{arg}, {var}.

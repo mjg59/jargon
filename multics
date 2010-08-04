@@ -1,14 +1,26 @@
- :Multics:: /muhl'tiks/ /n./ [from "MULTiplexed Information and Computing
-Service"] An early (late 1960s) timesharing operating system co-designed by a
-consortium including MIT, GE, and Bell Laboratories. Multics was very
-innovative for its time --- among other things, it introduced the idea of
-treating all devices uniformly as special files. All the members but GE
-eventually pulled out after determining that {second-system effect} had
-bloated Multics to the point of practical unusability (the `lean' predecessor
-in question was {CTSS}). Honeywell commercialized Multics after buying out
-GE's computer group, but it was never very successful (among other things, on
-some versions one was commonly required to enter a password to log out). One
-of the developers left in the lurch by the project's breakup was Ken
-Thompson, a circumstance which led directly to the birth of {{Unix}}. For
-this and other reasons, aspects of the Multics design remain a topic of
-occasional debate among hackers. see also {brain-damaged} and {GCOS}.
+ :Multics:: /muhl'tiks/ n. [from "MULTiplexed Information and Computing
+Service"] An early time-sharing {operating system} co-designed by a
+consortium including MIT, GE, and Bell Laboratories as a successor to {CTSS}.
+The design was first presented in 1965, planned for operation in 1967, first
+operational in 1969, and took several more years to achieve respectable
+performance and stability. Multics was very innovative for its time -- among
+other things, it provided a hierarchical file system with access control on
+individual files and introduced the idea of treating all devices uniformly as
+special files. It was also the first OS to run on a symmetric multiprocessor,
+and the only general-purpose system to be awarded a B2 security rating by the
+NSA (see {Orange Book}). Bell Labs left the development effort in 1969 after
+judging that {second-system effect} had bloated Multics to the point of
+practical unusability. Honeywell commercialized Multics in 1972 after buying
+out GE's computer group, but it was never very successful: at its peak in the
+1980s, there were between 75 and 100 Multics sites, each a multi-million
+dollar mainframe. One of the former Multics developers from Bell Labs was Ken
+Thompson, and {Unix} deliberately carried through and extended many of
+Multics' design ideas; indeed, Thompson described the very name `Unix' as `a
+weak pun on Multics'. For this and other reasons, aspects of the Multics
+design remain a topic of occasional debate among hackers. see also
+{brain-damaged} and {GCOS}. MIT ended its development association with
+Multics in 1977. Honeywell sold its computer business to Bull in the mid 80s,
+and development on Multics was stopped in 1988. Four Multics sites were known
+to be still in use as late as 1998, but the last one (a Canadian military
+site) was decomissioned in November 2000. There is a Multics page at
+`http://www.stratus.com/pub/vos/multics/tvv/multics.html'.

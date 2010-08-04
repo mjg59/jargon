@@ -1,11 +1,8 @@
- :nadger: /nad'jr/ /v./ [UK] Of software or hardware (not people), to twiddle
-some object in a hidden manner, generally so that it conforms better to some
-format. For instance, string printing routines on 8-bit processors often take
-the string text from the instruction stream, thus a print call looks like
-`jsr print:"Hello world"'. The print routine has to `nadger' the saved
-instruction pointer so that the processor doesn't try to execute the text as
-instructions when the subroutine returns. Apparently this word originated on
-a now-legendary 1950s radio comedy program called "The Goon Show". The Goon
-Show usage of "nadger" was definitely in the sense of "jinxed" "clobbered"
-"fouled up". The American mutation {adger} seems to have preserved more of
-the original flavor.
+ :nadger: /nad'jr/ v. [UK, from rude slang noun `nadgers' for testicles;
+compare American & British `bollixed'] Of software or hardware (not people),
+to twiddle some object in a hidden manner, generally so that it conforms
+better to some format. For instance, string printing routines on 8-bit
+processors often take the string text from the instruction stream, thus a
+print call looks like `jsr print:"Hello world"'. The print routine has to
+`nadger' the saved instruction pointer so that the processor doesn't try to
+execute the text as instructions when the subroutine returns. see {adger}.

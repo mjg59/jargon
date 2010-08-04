@@ -1,0 +1,4 @@
+ :ping storm: n. A form of {DoS attack} consisting of a flood of {ping}
+requests (normally used to check network conditions) designed to disrupt the
+normal activity of a system. This act is sometimes called `ping lashing' or
+`ping flood'. Compare {mail storm}, {broadcast storm}.

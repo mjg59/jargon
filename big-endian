@@ -1,10 +1,10 @@
- :big-endian: /adj./ [From Swift's "Gulliver's Travels" via the famous paper
-"On Holy Wars and a Plea for Peace" by Danny Cohen, USC/ISI IEN 137, dated
-April 1, 1980] 1. Describes a computer architecture in which, within a given
-multi-byte numeric representation, the most significant byte has the lowest
-address (the word is stored `big-end-first'). Most processors, including the
-IBM 370 family, the {PDP-10}, the Motorola microprocessor families, and most
-of the various RISC designs current in late 1995, are big-endian. Big-endian
+ :big-endian: adj. [common; From Swift's "Gulliver's Travels" via the famous
+paper "On Holy Wars and a Plea for Peace" by Danny Cohen, USC/ISI IEN 137,
+dated April 1, 1980] 1. Describes a computer architecture in which, within a
+given multi-byte numeric representation, the most significant byte has the
+lowest address (the word is stored `big-end-first'). Most processors,
+including the IBM 370 family, the {PDP-10}, the Motorola microprocessor
+families, and most of the various RISC designs are big-endian. Big-endian
 byte order is also sometimes called `network order'. see {little-endian},
 {middle-endian}, {NUXI problem}, {swab}. 2. An {{Internet address}} the wrong
 way round. Most of the world follows the Internet standard and writes email

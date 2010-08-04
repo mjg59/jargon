@@ -1,6 +1,6 @@
- :glob: /glob/, *not* /glohb/ /v.,n./ [Unix] To expand special characters in
-a wildcarded name, or the act of so doing (the action is also called
-`globbing'). The Unix conventions for filename wildcarding have become
+ :glob: /glob/, _not_ /glohb/ v.,n. [Unix; common] To expand special
+characters in a wildcarded name, or the act of so doing (the action is also
+called `globbing'). The Unix conventions for filename wildcarding have become
 sufficiently pervasive that many hackers use some of them in written English,
 especially in email or news on technical topics. Those commonly encountered
 include the following: * wildcard for any string (see also {UN*X}) ? wildcard

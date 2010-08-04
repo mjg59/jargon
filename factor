@@ -1,1 +1,1 @@
- :factor: /n./ see {coefficient of X}.
+ :factor: n. see {coefficient of X}.

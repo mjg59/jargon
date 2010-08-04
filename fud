@@ -1,41 +1,11 @@
- FUD was associated increasingly frequently with {Microsoft}, and has become
+ :FUD: /fuhd/ n. Defined by Gene Amdahl after he left IBM to found his own
+company: "FUD is the fear, uncertainty, and doubt that IBM sales people
+instill in the minds of potential customers who might be considering [Amdahl]
+products." The idea, of course, was to persuade them to go with safe IBM gear
+rather than with competitors' equipment. This implicit coercion was
+traditionally accomplished by promising that Good Things would happen to
+people who stuck with IBM, but Dark Shadows loomed over the future of
+competitors' equipment or software. see {IBM}. After 1990 the term FUD was
+associated increasingly frequently with {Microsoft}, and has become
 generalized to refer to any kind of disinformation used as a competitive
-weapon. :FUD wars: /fuhd worz/ n. [from {FUD}] Political posturing engaged in
-by hardware and software vendors ostensibly committed to standardization but
-actually willing to fragment the market to protect their own shares. The Unix
-International vs. OSF conflict about Unix standards was one outstanding
-example; Microsoft vs. Netscape vs. W3C about HTML standards is another.
-:fudge: 1. vt. To perform in an incomplete but marginally acceptable way,
-particularly with respect to the writing of a program. "I didn't feel like
-going through that pain and suffering, so I fudged it -- I'll fix it later."
-2. n. The resulting code. :fudge factor: n. [common] A value or parameter
-that is varied in an ad hoc way to produce the desired result. The terms
-`tolerance' and {slop} are also used, though these usually indicate a
-one-sided leeway, such as a buffer that is made larger than necessary because
-one isn't sure exactly how large it needs to be, and it is better to waste a
-little space than to lose completely for not having enough. A fudge factor,
-on the other hand, can often be tweaked in more than one direction. A good
-example is the `fuzz' typically allowed in floating-point calculations: two
-numbers being compared for equality must be allowed to differ by a small
-amount; if that amount is too small, a computation may never terminate, while
-if it is too large, results will be needlessly inaccurate. Fudge factors are
-frequently adjusted incorrectly by programmers who don't fully understand
-their import. see also {coefficient of X}. :fuel up: vi. To eat or drink
-hurriedly in order to get back to hacking. "Food-p?" "Yeah, let's fuel up."
-"Time for a {great-wall}!" see also {{oriental food}}. :Full Monty: n. see
-{monty}, sense 2. :fum: n. [XEROX PARC] At PARC, often the third of the
-standard {metasyntactic variable}s (after {foo} and {bar}). Competes with
-{baz}, which is more common outside PARC. :functino: n. [uncommon, U.K.;
-originally a serendipitous typo in 1994] A pointer to a function in C and
-C++. By association with sub-atomic particles such as the neutrino, it
-accurately conveys an impression of smallness (one pointer is four bytes on
-most systems) and speed (hackers can and do use arrays of functinos to
-replace a switch() statement). :funky: adj. Said of something that functions,
-but in a slightly strange, klugey way. It does the job and would be difficult
-to change, so its obvious non-optimality is left alone. Often used to
-describe interfaces. The more bugs something has that nobody has bothered to
-fix because workarounds are easier, the funkier it is. {TECO} and UUCP are
-funky. The Intel i860's exception handling is extraordinarily funky. Most
-standards acquire funkiness as they age. "The new mailer is installed, but is
-still somewhat funky; if it bounces your mail for no reason, try resubmitting
-it." "This
+weapon.

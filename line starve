@@ -1,12 +1,13 @@
- :line starve: [MIT] 1. /vi./ To feed paper through a printer the wrong way
-by one line (most printers can't do this). On a display terminal, to move the
+ :line starve: [MIT] 1. vi. To feed paper through a printer the wrong way by
+one line (most printers can't do this). On a display terminal, to move the
 cursor up to the previous line of the screen. "To print `X squared', you just
 output `X', line starve, `2', line feed." (The line starve causes the `2' to
 appear on the line above the `X', and the line feed gets back to the original
-line.) 2. /n./ A character (or character sequence) that causes a terminal to
+line.) 2. n. A character (or character sequence) that causes a terminal to
 perform this action. ASCII 0011010, also called SUB or control-Z, was one
 common line-starve character in the days before microcomputers and the X3.64
-terminal standard. Unlike `line feed', `line starve' is *not* standard
+terminal standard. Today, the term might be used for the ISO reverse line
+feed character 0x8D. Unlike `line feed', `line starve' is _not_ standard
 {{ASCII}} terminology. Even among hackers it is considered a bit silly. 3.
 [proposed] A sequence such as \c (used in System V echo, as well as {{nroff}}
 and {{troff}}) that suppresses a {newline} or other character(s) that would

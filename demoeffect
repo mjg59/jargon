@@ -1,0 +1,9 @@
+ :demoeffect: n. [{demoscene}] What among hackers is called a {display hack}.
+Classical effects include "plasma" (colorful mess), "keftales" (x*x+y*y and
+other similar patterns, usually combined with color-cycling), realtime
+fractals, realtime 3d graphics, etc. Historically, demo effects have cheated
+as much as possible to gain more speed and more complexity, using
+low-precision math and masses of assembler code and building animation
+realtime are three common tricks, but use of special hardware to fake effects
+is a {Good Thing} on the demoscene (though this is becoming less common as
+platforms like the Amiga fade away).

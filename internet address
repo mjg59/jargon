@@ -1,7 +1,7 @@
- :Internet address:: /n./ 1. [techspeak] An absolute network address of the
+ :Internet address:: n. 1. [techspeak] An absolute network address of the
 form foo@bar.baz, where foo is a user name, bar is a {sitename}, and baz is a
 `domain' name, possibly including periods itself. Contrast with {bang path};
-see also {network, the} and {network address}. All Internet machines and most
+see also {the network} and {network address}. All Internet machines and most
 UUCP sites can now resolve these addresses, thanks to a large amount of
 behind-the-scenes magic and {PD} software written since 1980 or so. see also
 {bang path}, {domainist}. 2. More loosely, any network address reachable

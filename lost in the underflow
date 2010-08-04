@@ -1,4 +1,4 @@
- :lost in the underflow: /adj./ Too small to be worth considering; more
+ :lost in the underflow: adj. Too small to be worth considering; more
 specifically, small beyond the limits of accuracy or measurement. This is a
 reference to `floating underflow', a condition that can occur when a
 floating-point arithmetic processor tries to handle quantities smaller than

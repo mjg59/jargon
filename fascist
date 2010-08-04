@@ -1,8 +1,9 @@
- :fascist: /adj./ 1. Said of a computer system with excessive or annoying
-security barriers, usage limits, or access policies. The implication is that
-said policies are preventing hackers from getting interesting work done. The
-variant `fascistic' seems to have been preferred at MIT, poss. by analogy
-with `touristic' (see {tourist}). 2. In the design of languages and other
+ :fascist: adj. 1. [common] Said of a computer system with excessive or
+annoying security barriers, usage limits, or access policies. The implication
+is that said policies are preventing hackers from getting interesting work
+done. The variant `fascistic' seems to have been preferred at MIT, poss. by
+analogy with `touristic' (see {tourist} or under the influence of
+German/Yiddish `faschistisch'). 2. In the design of languages and other
 software tools, `the fascist alternative' is the most restrictive and
 structured way of capturing a particular function; the implication is that
 this may be desirable in order to simplify the implementation or provide

@@ -1,8 +1,8 @@
- :download: /vt./ To transfer data or (esp.) code from a larger `host' system
-(esp. a {mainframe}) over a digital comm link to a smaller `client' system,
-esp. a microcomputer or specialized peripheral. Oppose {upload}. However,
-note that ground-to-space communications has its own usage rule for this
-term. Space-to-earth transmission is always `down' and the reverse `up'
-regardless of the relative size of the computers involved. So far the
-in-space machines have invariably been smaller; thus the upload/download
-distinction has been reversed from its usual sense.
+ :download: vt. To transfer data or (esp.) code from a far-away system
+(especially a larger `host' system) over a digital communications link to a
+nearby system (especially a smaller `client' system. Oppose {upload}.
+Historical use of these terms was at one time associated with transfers from
+large timesharing machines to PCs or peripherals (download) and vice-versa
+(upload). The modern usage relative to the speaker (rather than as an
+indicator of the size and role of the machines) evolved as machine categories
+lost most of their former functional importance.

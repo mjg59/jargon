@@ -1,0 +1,8 @@
+ :honey pot: n. A box designed to attract {cracker}s so that they can be
+observed in action. It is usually well isolated from the rest of the network,
+but has extensive logging (usually network layer, on a different machine).
+Different from an {iron box} in that it's purpose is to attract, not merely
+observe. Sometimes, it is also a defensive network security tactic - you set
+up an easy-to-crack box so that your real servers don't get messed with. The
+concept was presented in Cheswick & Bellovin's book "Firewalls and Internet
+Security".

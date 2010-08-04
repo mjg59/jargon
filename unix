@@ -1,17 +1,18 @@
- :Unix:: /yoo'niks/ /n./ [In the authors' words, "A weak pun on Multics";
-very early on it was `UNICS'] (also `UNIX') An interactive time-sharing
-system invented in 1969 by Ken Thompson after Bell Labs left the Multics
-project, originally so he could play games on his scavenged PDP-7. Dennis
-Ritchie, the inventor of C, is considered a co-author of the system. The
-turning point in Unix's history came when it was reimplemented almost
-entirely in C during 1972--1974, making it the first source-portable OS. Unix
-subsequently underwent mutations and expansions at the hands of many
-different people, resulting in a uniquely flexible and developer-friendly
-environment. By 1991, Unix had become the most widely used multiuser
-general-purpose operating system in the world. Many people consider this the
-most important victory yet of hackerdom over industry opposition (but see
-{Unix weenie} and {Unix conspiracy} for an opposing point of view). see
-{Version 7}, {BSD}, {USG Unix}, {Linux}. Some people are confused over
+ :Unix:: /yoo'niks/ n. [In the authors' words, "A weak pun on Multics"; very
+early on it was `UNICS'] (also `UNIX') An interactive time-sharing system
+invented in 1969 by Ken Thompson after Bell Labs left the Multics project,
+originally so he could play games on his scavenged PDP-7. Dennis Ritchie, the
+inventor of C, is considered a co-author of the system. The turning point in
+Unix's history came when it was reimplemented almost entirely in C during
+1972-1974, making it the first source-portable OS. Unix subsequently
+underwent mutations and expansions at the hands of many different people,
+resulting in a uniquely flexible and developer-friendly environment. By 1991,
+Unix had become the most widely used multiuser general-purpose operating
+system in the world - and since 1996 the variant called {Linux} has been at
+the cutting edge of the {open source} movement. Many people consider the
+success of Unix the most important victory yet of hackerdom over industry
+opposition (but see {Unix weenie} and {Unix conspiracy} for an opposing point
+of view). see {Version 7}, {BSD}, {Linux}. Some people are confused over
 whether this word is appropriately `UNIX' or `Unix'; both forms are common,
 and used interchangeably. Dennis Ritchie says that the `UNIX' spelling
 originally happened in CACM's 1974 paper "The UNIX Time-Sharing System"

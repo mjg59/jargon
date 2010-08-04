@@ -1,0 +1,1 @@
+ :BI: // Common written abbreviation for {Breidbart Index}.

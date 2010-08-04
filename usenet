@@ -1,143 +1,15 @@
- 11:08; ABS, ALPHABETIC, ARCSIN, ARCCOS, ARCTAN." The last five words were
-the first five functions in the appropriate chapter of the Algol manual; note
-the special pronunciations /obz/ and /ark'sin/ rather than the more common
-/ahbz/ and /ark'si:n/. Using an alarm clock to warn of 11:08's arrival was
-{considered harmful}. :religious issues: n. Questions which seemingly cannot
-be raised without touching off {holy wars}, such as "What is the best
-operating system (or editor, language, architecture, shell, mail reader, news
-reader)?", "What about that Heinlein guy, eh?", "What should we add to the
-new Jargon File?" see {holy wars}; see also {theology}, {bigot}. This term is
-a prime example of {ha ha only serious}. People actually develop the most
-amazing and religiously intense attachments to their tools, even when the
-tools are intangible. The most constructive thing one can do when one
-stumbles into the crossfire is mumble {Get a life!} and leave -- unless, of
-course, one's _own_ unassailably rational and obviously correct choices are
-being slammed. :replicator: n. Any construct that acts to produce copies of
-itself; this could be a living organism, an idea (see {meme}), a program (see
-{quine}, {worm}, {wabbit}, {fork bomb}, and {virus}), a pattern in a cellular
-automaton (see {life}, sense 1), or (speculatively) a robot or {nanobot}. It
-is even claimed by some that {{Unix}} and {C} are the symbiotic halves of an
-extremely successful replicator; see {Unix conspiracy}. :reply: n. see
-{followup}. :restriction: n. A {bug} or design error that limits a program's
-capabilities, and which is sufficiently egregious that nobody can quite work
-up enough nerve to describe it as a {feature}. Often used (esp. by
-{marketroid} types) to make it sound as though some crippling bogosity had
-been intended by the designers all along, or was forced upon them by arcane
-technical constraints of a nature no mere user could possibly comprehend
-(these claims are almost invariably false). Old-time hacker Joseph M.
-Newcomer advises that whenever choosing a quantifiable but arbitrary
-restriction, you should make it either a power of 2 or a power of 2 minus 1.
-If you impose a limit of 107 items in a list, everyone will know it is a
-random number -- on the other hand, a limit of 15 or 16 suggests some deep
-reason (involving 0- or 1-based indexing in binary) and you will get less
-{flamage} for it. Limits which are round numbers in base 10 are always
-especially suspect. :retcon: /ret'kon/ [short for `retroactive continuity',
-from the Usenet newsgroup rec.arts.comics] 1. n. The common situation in pulp
-fiction (esp. comics or soap operas) where a new story `reveals' things about
-events in previous stories, usually leaving the `facts' the same (thus
-preserving continuity) while completely changing their interpretation. For
-example, revealing that a whole season of "Dallas" was a dream was a retcon.
-2. vt. To write such a story about a character or fictitious object. "Byrne
-has retconned Superman's cape so that it is no longer unbreakable."
-"Marvelman's old adventures were retconned into synthetic dreams." "Swamp
-Thing was retconned from a transformed person into a sentient vegetable."
-"Darth Vader was retconned into Luke Skywalker's father in "The Empire
-Strikes Back". [This term is included because it is a good example of hackish
-linguistic innovation in a field completely unrelated to computers. The word
-`retcon' will probably spread through comics fandom and lose its association
-with hackerdom within a couple of years; for the record, it started here.
---ESR] [1993 update: some comics fans on the net now claim that retcon was
-independently in use in comics fandom before rec.arts.comics. In
-lexicography, nothing is ever simple. --ESR] :RETI: v. Syn. {RTI}
-:retrocomputing: /ret'-roh-k*m-pyoo'ting/ n. Refers to emulations of
-way-behind-the-state-of-the-art hardware or software, or implementations of
-never-was-state-of-the-art; esp. if such implementations are elaborate
-practical jokes and/or parodies, written mostly for {hack value}, of more
-`serious' designs. Perhaps the most widely distributed retrocomputing utility
-was the `pnch(6)' or `bcd(6)' program on V7 and other early Unix versions,
-which would accept up to 80 characters of text argument and display the
-corresponding pattern in {{punched card}} code. Other well-known
-retrocomputing hacks have included the programming language {INTERCAL}, a
-{JCL}-emulating shell for Unix, the card-punch-emulating editor named 029,
-and various elaborate PDP-11 hardware emulators and RT-11 OS emulators
-written just to keep an old, sourceless {Zork} binary running. A tasty
-selection of retrocomputing programs are made available at the Retrocomputing
-Museum, `http://www.ccil.org/retro'. :return from the dead: v. To regain
-access to the net after a long absence. Compare {person of no account}. :RFC:
-/R-F-C/ n. [Request For Comment] One of a long-established series of numbered
-Internet informational documents and standards widely followed by commercial
-software and freeware in the Internet and Unix communities. Perhaps the
-single most influential one has been RFC-822 (the Internet mail-format
-standard). The RFCs are unusual in that they are floated by technical experts
-acting on their own initiative and reviewed by the Internet at large, rather
-than formally promulgated through an institution such as ANSI. For this
-reason, they remain known as RFCs even once adopted as standards. The RFC
-tradition of pragmatic, experience-driven, after-the-fact standard writing
-done by individuals or small working groups has important advantages over the
-more formal, committee-driven process typical of ANSI or ISO. Emblematic of
-some of these advantages is the existence of a flourishing tradition of
-`joke' RFCs; usually at least one a year is published, usually on April 1st.
-Well-known joke RFCs have included 527 ("ARPAWOCKY", R. Merryman, UCSD; 22
-June 1973), 748 ("Telnet Randomly-Lose Option", Mark R. Crispin; 1 April
-1978), and 1149 ("A Standard for the Transmission of IP Datagrams on Avian
-Carriers", D. Waitzman, BBN STC; 1 April 1990). The first was a Lewis Carroll
-pastiche; the second a parody of the TCP-IP documentation style, and the
-third a deadpan skewering of standards-document legalese, describing
-protocols for transmitting Internet data packets by carrier pigeon. The RFCs
-are most remarkable for how well they work -- they manage to have neither the
-ambiguities that are usually rife in informal specifications, nor the
-committee-perpetrated misfeatures that often haunt formal standards, and they
-define a network that has grown to truly worldwide proportions. :RFE: /R-F-E/
-n. 1. [techspeak] Request For Enhancement (compare {RFC}). 2. [from `Radio
-Free Europe', Bellcore and Sun] Radio Free Ethernet, a system (originated by
-Peter Langston) for broadcasting audio among Sun SPARCstations over the
-ethernet. :rib site: n. [by analogy with {backbone site}] A machine that has
-an on-demand high-speed link to a {backbone site} and serves as a regional
-distribution point for lots of third-party traffic in email and Usenet news.
-Compare {leaf site}, {backbone site}. :rice box: n. [from ham radio slang]
-Any Asian-made commodity computer, esp. an 80x86-based machine built to IBM
-PC-compatible ISA or EISA-bus standards. :Right Thing: n. That which is
-_compellingly_ the correct or appropriate thing to use, do, say, etc. Often
-capitalized, always emphasized in speech as though capitalized. Use of this
-term often implies that in fact reasonable people may disagree. "What's the
-right thing for LISP to do when it sees `(mod a 0)'? Should it return `a', or
-give a divide-by-0 error?" Oppose {Wrong Thing}. :ripoff: n. Synonym for
-{chad}, sense 1. :RL: // n. [MUD community] Real Life. "Firiss laughs in RL"
-means that Firiss's player is laughing. Oppose {VR}. :roach: vt. [Bell Labs]
-To destroy, esp. of a data structure. Hardware gets {toast}ed or {fried},
-software gets roached. :robocanceller: /roh-boh-kan'sel-*r/ A program that
-monitors USENET feeds, attempting to detect and elimnate {spam} by sending
-appropriate cancel messages . Robocancellers may use the {Breidbart Index} as
-a trigger. Programming them is not a game for amateurs; see {ARMM}. see also
-{Dave the Resurrector}. :robot: n. see {bot}. :robust: adj. Said of a system
-that has demonstrated an ability to recover gracefully from the whole range
-of exceptional inputs and situations in a given environment. One step below
-{bulletproof}. Carries the additional connotation of elegance in addition to
-just careful attention to detail. Compare {smart}, oppose {brittle}. :rococo:
-adj. Terminally {baroque}. Used to imply that a program has become so
-encrusted with the software equivalent of gold leaf and curlicues that they
-have completely swamped the underlying design. Called after the later and
-more extreme forms of Baroque architecture and decoration prevalent during
-the mid-1700s in Europe. Alan Perlis said: "Every program eventually becomes
-rococo, and then rubble." Compare {critical mass}. :rogue: 1. [Unix] n. A
-Dungeons-and-Dragons-like game using character graphics, written under BSD
-Unix and subsequently ported to other Unix systems. The original BSD
-`curses(3)' screen-handling package was hacked together by Ken Arnold to
-support `rogue(6)' and has since become one of Unix's most important and
-heavily used application libraries. Nethack, Omega, Larn, Angband, and an
-entire subgenre of computer dungeon games all took off from the inspiration
-provided by `rogue(6)'; the popular Windows game Diablo, though
-graphics-intensive, has very similar play logic. see also {nethack}. 2.
-[USENET] adj. An {ISP} which permits net abuse (usually in the form of
-{spam}ming) by its customers, or which itself engages in such activities.
-Rogue ISPs are sometimes subject to {IDP}s or {UDP}s. Sometimes deliberately
-mispelled as "rouge". :room-temperature IQ: quant. [IBM] 80 or below (nominal
-room temperature is 72 degrees Fahrenheit, 22 degrees Celsius). Used in
-describing the expected intelligence range of the {luser}. "Well, but how's
-this interface going to play with the room-temperature IQ crowd?" see
-{drool-proof paper}. This is a much more insulting phrase in countries that
-use Celsius thermometers. :root: n. [Unix] 1. The {superuser} account (with
-user name `root') that ignores permission bits, user number 0 on a Unix
-system. The term {avatar} is also used. 2. The top node of the system
-directory structure; historically the home directory of the root user, but
-probably named after the root of an (inverted) tree.
+ :Usenet: /yoos'net/ or /yooz'net/ n. [from `Users' Network'; the original
+spelling was USENET, but the mixed-case form is now widely preferred] A
+distributed {bboard} (bulletin board) system supported mainly by Unix
+machines. Originally implemented in 1979-1980 by Steve Bellovin, Jim Ellis,
+Tom Truscott, and Steve Daniel at Duke University, it has swiftly grown to
+become international in scope and is now probably the largest decentralized
+information utility in existence. As of early 1996, it hosts over 10,000
+{newsgroup}s and an average of over 500 megabytes (the equivalent of several
+thousand paper pages) of new technical articles, news, discussion, chatter,
+and {flamage} every day (and that leaves out the graphics...). By the year
+the Internet hit the mainstream (1994) the original UUCP transport for Usenet
+was fading out of use (see {UUCPNET}) - almost all Usenet connections were
+over Internet links. A lot of newbies and journalists began to refer to
+"Internet newsgroups" as though Usenet was and always had been just another
+Internet service. This ignorance greatly annoys experienced Usenetters.

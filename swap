@@ -1,5 +1,5 @@
- :swap: /vt./ 1. [techspeak] To move information from a fast-access memory to
-a slow-access memory (`swap out'), or vice versa (`swap in'). Often refers
+ :swap: vt. 1. [techspeak] To move information from a fast-access memory to a
+slow-access memory (`swap out'), or vice versa (`swap in'). Often refers
 specifically to the use of disks as `virtual memory'. As pieces of data or
 program are needed, they are swapped into {core} for processing; when they
 are no longer needed they may be swapped out again. 2. The jargon use of

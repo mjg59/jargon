@@ -1,4 +1,4 @@
- :dragon: /n./ [MIT] A program similar to a {daemon}, except that it is not
+ :dragon: n. [MIT] A program similar to a {daemon}, except that it is not
 invoked at all, but is instead used by the system to perform various
 secondary tasks. A typical example would be an accounting program, which
 keeps track of who is logged in, accumulates load-average statistics, etc.

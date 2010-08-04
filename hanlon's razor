@@ -1,15 +1,16 @@
- :Hanlon's Razor: /prov./ A corollary of {Finagle's Law}, similar to Occam's
+ :Hanlon's Razor: prov. A corollary of {Finagle's Law}, similar to Occam's
 Razor, that reads "Never attribute to malice that which can be adequately
 explained by stupidity." The derivation of the Hanlon eponym is not
 definitely known, but a very similar remark ("You have attributed conditions
 to villainy that simply result from stupidity.") appears in "Logic of
-Empire", a 1941 story by Robert A. Heinlein, who calls it the `devil theory'
-of sociology. Heinlein's popularity in the hacker culture makes plausible the
-supposition that `Hanlon' is derived from `Heinlein' by phonetic corruption.
-A similar epigram has been attributed to William James, but Heinlein more
-probably got the idea from Alfred Korzybski and other practitioners of
-General Semantics. Quoted here because it seems to be a particular favorite
-of hackers, often showing up in {sig block}s, {fortune cookie} files and the
-login banners of BBS systems and commercial networks. This probably reflects
-the hacker's daily experience of environments created by well-intentioned but
-short-sighted people. Compare {Sturgeon's Law}.
+Empire", a classic 1941 SF story by Robert A. Heinlein, who calls it the
+`devil theory' of sociology. Heinlein's popularity in the hacker culture
+makes plausible the supposition that `Hanlon' is derived from `Heinlein' by
+phonetic corruption. A similar epigram has been attributed to William James,
+but Heinlein more probably got the idea from Alfred Korzybski and other
+practitioners of General Semantics. Quoted here because it seems to be a
+particular favorite of hackers, often showing up in {sig block}s, {fortune
+cookie} files and the login banners of BBS systems and commercial networks.
+This probably reflects the hacker's daily experience of environments created
+by well-intentioned but short-sighted people. Compare {Sturgeon's Law},
+{Ninety-Ninety Rule}.

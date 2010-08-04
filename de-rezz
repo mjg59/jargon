@@ -1,12 +1,11 @@
  :de-rezz: /dee-rez'/ [from `de-resolve' via the movie "Tron"] (also `derez')
-1. /vi./ To disappear or dissolve; the image that goes with it is of an
-object breaking up into raster lines and static and then dissolving.
-Occasionally used of a person who seems to have suddenly `fuzzed out'
-mentally rather than physically. Usage: extremely silly, also rare. This verb
-was actually invented as *fictional* hacker jargon, and adopted in a spirit
-of irony by real hackers years after the fact. 2. /vt./ The Macintosh
-resource decompiler. On a Macintosh, many program structures (including the
-code itself) are managed in small segments of the program file known as
-`resources'; `Rez' and `DeRez' are a pair of utilities for compiling and
-decompiling resource files. Thus, decompiling a resource is `derezzing'.
-Usage: very common.
+1. vi. To disappear or dissolve; the image that goes with it is of an object
+breaking up into raster lines and static and then dissolving. Occasionally
+used of a person who seems to have suddenly `fuzzed out' mentally rather than
+physically. Usage: extremely silly, also rare. This verb was actually
+invented as _fictional_ hacker jargon, and adopted in a spirit of irony by
+real hackers years after the fact. 2. vt. The Macintosh resource decompiler.
+On a Macintosh, many program structures (including the code itself) are
+managed in small segments of the program file known as `resources'; `Rez' and
+`DeRez' are a pair of utilities for compiling and decompiling resource files.
+Thus, decompiling a resource is `derezzing'. Usage: very common.

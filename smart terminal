@@ -1,4 +1,4 @@
- :smart terminal: /n./ 1. A terminal that has enough computing capability to
+ :smart terminal: n. 1. A terminal that has enough computing capability to
 render graphics or to offload some kind of front-end processing from the
 computer it talks to. The development of workstations and personal computers
 has made this term and the product it describes semi-obsolescent, but one may
@@ -9,10 +9,10 @@ devices as displays. 2. obs. Any terminal with an addressable cursor; the
 opposite of a {glass tty}. Today, a terminal with merely an addressable
 cursor, but with none of the more-powerful features mentioned in sense 1, is
 called a {dumb terminal}. There is a classic quote from Rob Pike (inventor of
-the {blit} terminal): "A smart terminal is not a smart*ass* terminal, but
+the {blit} terminal): "A smart terminal is not a smart_ass_ terminal, but
 rather a terminal you can educate." This illustrates a common design problem:
 The attempt to make peripherals (or anything else) intelligent sometimes
 results in finicky, rigid `special features' that become just so much dead
 weight if you try to use the device in any way the designer didn't
-anticipate. Flexibility and programmability, on the other hand, are *really*
+anticipate. Flexibility and programmability, on the other hand, are _really_
 smart. Compare {hook}.

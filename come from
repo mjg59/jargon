@@ -1,6 +1,6 @@
- :COME FROM: /n./ A semi-mythical language construct dual to the `go to';
-`COME FROM' <label> would cause the referenced label to act as a sort of
-trapdoor, so that if the program ever reached it control would quietly and
+ :COME FROM: n. A semi-mythical language construct dual to the `go to'; `COME
+FROM' <label> would cause the referenced label to act as a sort of trapdoor,
+so that if the program ever reached it control would quietly and
 {automagically} be transferred to the statement following the `COME FROM'.
 `COME FROM' was first proposed in R. Lawrence Clark's "A Linguistic
 Contribution to GOTO-less programming", which appeared in a 1973 {Datamation}

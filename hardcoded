@@ -1,5 +1,5 @@
- :hardcoded: /adj./ 1. Said of data inserted directly into a program, where
-it cannot be easily modified, as opposed to data in some {profile}, resource
-(see {de-rezz} sense 2), or environment variable that a {user} or hacker can
-easily modify. 2. In C, this is esp. applied to use of a literal instead of a
-`#define' macro (see {magic number}).
+ :hardcoded: adj. 1. [common] Said of data inserted directly into a program,
+where it cannot be easily modified, as opposed to data in some {profile},
+resource (see {de-rezz} sense 2), or environment variable that a {user} or
+hacker can easily modify. 2. In C, this is esp. applied to use of a literal
+instead of a `#define' macro (see {magic number}).

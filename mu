@@ -8,10 +8,10 @@ Japanese word alleged to mean "Your question cannot be answered because it
 depends on incorrect assumptions". Hackers tend to be sensitive to logical
 inadequacies in language, and many have adopted this suggestion with
 enthusiasm. The word `mu' is actually from Chinese, meaning `nothing'; it is
-used in mainstream Japanese in that sense, but native speakers do not
-recognize the Discordian question-denying use. It almost certainly derives
-from overgeneralization of the answer in the following well-known Rinzei Zen
-teaching riddle: A monk asked Joshu, "Does a dog have the Buddha nature?"
-Joshu retorted, "Mu!" see also {has the X nature}, {AI Koans}, and Douglas
-Hofstadter's "G"odel, Escher, Bach: An Eternal Golden Braid" (pointer in the
+used in mainstream Japanese in that sense. Native speakers do not recognize
+the Discordian question-denying use, which almost certainly derives from
+overgeneralization of the answer in the following well-known Rinzai Zen
+{koan}: A monk asked Joshu, "Does a dog have the Buddha nature?" Joshu
+retorted, "Mu!" see also {has the X nature}, {Some AI Koans}, and Douglas
+Hofstadter's "Go"del, Escher, Bach: An Eternal Golden Braid" (pointer in the
 {Bibliography} in Appendix C.

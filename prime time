@@ -1,6 +1,8 @@
- :prime time: /n./ [from TV programming] Normal high-usage hours on a
-timesharing system; the day shift. Avoidance of prime time was traditionally
-given as a major reason for {night mode} hacking. The rise of the personal
-workstation has rendered this term, along with timesharing itself, almost
-obsolete. The hackish tendency to late-night {hacking run}s has changed not a
-bit.
+ :prime time: n. [from TV programming] Normal high-usage hours on a system or
+network. Back in the days of big timesharing machines `prime time' was when
+lots of people were competing for limited cycles, usually the day shift.
+Avoidance of prime time was traditionally given as a major reason for {night
+mode} hacking. The term fell into disuse during the early PC era, but has
+been revived to refer to times of day or evening at which the Internet tends
+to be heavily loaded, making Web access slow. The hackish tendency to
+late-night {hacking run}s has changed not a bit.

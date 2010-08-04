@@ -1,4 +1,4 @@
- :super source quench: /n./ A special packet designed to shut up an Internet
+ :super source quench: n. A special packet designed to shut up an Internet
 host. The Internet Protocol (IP) has a control message called Source Quench
 that asks a host to transmit more slowly on a particular connection to avoid
 congestion. It also has a Redirect control message intended to instruct a

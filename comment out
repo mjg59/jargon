@@ -1,4 +1,4 @@
- :comment out: /vt./ To surround a section of code with comment delimiters or
+ :comment out: vt. To surround a section of code with comment delimiters or
 to prefix every line in the section with a comment marker; this prevents it
 from being compiled or interpreted. Often done when the code is redundant or
 obsolete, but is being left in the source to make the intent of the active

@@ -1,12 +1,13 @@
- :vi: /V-I/, *not* /vi:/ and *never* /siks/ /n./ [from `Visual Interface'] A
+ :vi: /V-I/, _not_ /vi:/ and _never_ /siks/ n.[from `Visual Interface'] A
 screen editor crufted together by Bill Joy for an early {BSD} release. Became
 the de facto standard Unix editor and a nearly undisputed hacker favorite
 outside of MIT until the rise of {EMACS} after about 1984. Tends to frustrate
 new users no end, as it will neither take commands while expecting input text
-nor vice versa, and the default setup provides no indication of which mode
-the editor is in (one correspondent accordingly reports that he has often
-heard the editor's name pronounced /vi:l/). Nevertheless it is still widely
-used (about half the respondents in a 1991 Usenet poll preferred it), and
-even EMACS fans often resort to it as a mail editor and for small editing
-jobs (mainly because it starts up faster than the bulkier versions of EMACS).
-see {holy wars}.
+nor vice versa, and the default setup on older versions provides no
+indication of which mode the editor is in (years ago, a correspondent
+reported that he has often heard the editor's name pronounced /vi:l/; there
+is now a vi clone named `vile'). Nevertheless vi (and variants such as vim
+and elvis) is still widely used (about half the respondents in a 1991 Usenet
+poll preferred it), and even EMACS fans often resort to it as a mail editor
+and for small editing jobs (mainly because it starts up faster than the
+bulkier versions of EMACS). see {holy wars}.

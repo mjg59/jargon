@@ -1,5 +1,5 @@
- :crlf: /ker'l*f/, sometimes /kru'l*f/ or /C-R-L-F/ /n./ (often capitalized
-as `CRLF') A carriage return (CR, ASCII 0001101) followed by a line feed (LF,
+ :crlf: /ker'l*f/, sometimes /kru'l*f/ or /C-R-L-F/ n. (often capitalized as
+`CRLF') A carriage return (CR, ASCII 0001101) followed by a line feed (LF,
 ASCII 0001010). More loosely, whatever it takes to get you from the end of
 one line of text to the beginning of the next line. see {newline}, {terpri}.
 Under {{Unix}} influence this usage has become less common (Unix uses a bare
