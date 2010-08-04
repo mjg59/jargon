@@ -1,39 +1,65 @@
- SCSI: /ess see ess ie/ n. Small Computer System Interface is a system-level
-interface between a computer and intelligent devices. Typically annotated in
-literature with `sexy' (/sek'see/) and `scuzzy' (/skuhz'zee/) as
-pronunciation guides...the latter being the predominating form, much to the
-dismay of the designers and their marketing people. search-and-destroy mode:
-n. Hackerism for the search-and-replace facility in an editor, so called
-because an incautiously chosen match pattern can cause {infinite} damage.
-second-system effect: n. (sometimes, more euphoniously,
-`second-system-syndrome'.) When designing the successor to a relatively
+ SCSI: n. Small Computer System Interface is a system-level interface between
+a computer and intelligent devices. Typically annotated in literature with
+`sexy' (/sek'see/), `sissy' /sis'ee/ and `scuzzy' (/skuhz'zee/) as
+pronunciation guides --- the last being the overwhelmingly predominant form,
+much to the dismay of the designers and their marketing people. One can
+usually assume that a person who pronounces it /ess see ess eye/ is clueless.
+search-and-destroy mode: n. Hackerism for the search-and-replace facility in
+an editor, so called because an incautiously chosen match pattern can cause
+{infinite} damage. second-system effect: n. (sometimes, more euphoniously,
+`second-system syndrome'.) When designing the successor to a relatively
 small, elegant, and successful system, there is a tendency to become
 grandiose in one's success and design an {elephantine} feature-laden
 monstrosity. The term was first used by Fred Brooks in his classic book `The
 Mythical Man-Month'. It described the jump from a set of nice, simple,
 operating monitors on the IBM 70xx series to OS/360 on the 360 series. A
 similar effect can also happen in an evolving system; see {creeping
-elegance}, {creaping featurism}. see also {Multics}. This version of the
+elegance}, {creeping featurism}. see also {Multics}. This version of the
 jargon lexicon has been described (with altogether too much truth for
 comfort) as the result of second-system effect applied to jargon-1...
-segfault: n.,vi. Syn for {segment}, {seggie}. seggie: /seg'ee/ [UNIX] n.
-Shorthand for {segmentation fault} reported from Britain. segment: /seg'ment/
-vi. To experience a {segmentation fault}. Confusingly, this is often accented
-on the first syllable rather than on the second as for mainstream v. segment;
-this is because it's actually a noun shorthand that has been verbed.
-segmentation fault: n. [UNIX] 1. Error in which a running program attempts to
-access memory not allocated to it and {core dump}s with a segment violation
-error. 2. To lose a train of thought or a line of reasoning. Also uttered as
-an exclamation at the point of befuddlement. segv: /seg'vee/ n.,vi. Yet
-another synonym for {segmentation fault}. self-reference: n. see
-{self-reference}. selvage: /sel'v@j/ [from sewing] n. see {chad} (sense #1).
-semi: /se'mee/ or /se'mie/ 1. n. Abbreviation for `semicolon', when speaking.
-"Commands to {grind} are prefixed by semi-semi-star" means that the prefix is
-`;;*', not 1/4 of a star. 2. Prefix with words such as `immediately', as a
-qualifier. "When is the system coming up?" "Semi-immediately." (That is,
-maybe not for an hour). "We did consider that possibility semi-seriously."
-see also {infinite}. senior bit: [IBM] n. Syn. {meta bit}. server: n. A kind
-of {daemon} which performs a service for the requester, which often runs on a
+secondary damage: n. When a fatal error occurs (esp. a {segfault}) the
+immediate cause may be that a pointer is damaged due to a {fandango on core}.
+However, this fandango may have been due to an *earlier* fandango, so no
+amount of analysis will reveal (directly) how the damage occurred. "The data
+structure was clobbered, but it was secondary damage." This generalizes. The
+corruption resulting from N cascaded fandangoes on core is "Nth-level
+damage". There is at least one case on record in which 17 hours of grovelling
+with `adb' actually dug up the underlying bug behind an instance of 7th-level
+damage! The hacker who accomplished this near-superhuman feat was presented
+with an award by his fellows. security through obscurity: n. A name applied
+by hackers to most OS vendors' favorite way of coping with security holes ---
+namely, ignoring them and not documenting them and trusting that nobody will
+find out about them and that people who do find out about them won't exploit
+them. This never works for long and occasionally sets the world up for
+disasters like the RTM worm of 1988, but once the brief moments of panic
+created by such events subside most vendors are all too willing to turn over
+and go back to sleep. After all, actually fixing the bugs would siphon off
+the resources needed to implement the next user-interface frill on
+Marketing's wish list --- besides, if they started fixing security bugs
+customers might begin to *expect* it and imagine that their warranties of
+merchantability gave them some sort of *right* to a system with fewer holes
+in it than a shotgunned Swiss cheese, and then where would we be? Historical
+note: this term was first used in the USENET newsgroup in `comp.sys.apollo'
+during a campaign to get HP/Apollo to fix rampant security problems in its
+UNIX-lookalike Aegis/DomainOS. They didn't change a thing. segfault: n.,vi.
+Syn. {segment}, {seggie}. seggie: /seg'ee/ [UNIX] n. Shorthand for
+{segmentation fault} reported from Britain. segment: /seg'ment/ vi. To
+experience a {segmentation fault}. Confusingly, this is often accented on the
+first syllable rather than on the second as for mainstream v. segment; this
+is because it's actually a noun shorthand that has been verbed. segmentation
+fault: n. [UNIX] 1. Error in which a running program attempts to access
+memory not allocated to it and {core dump}s with a segment violation error.
+2. To lose a train of thought or a line of reasoning. Also uttered as an
+exclamation at the point of befuddlement. segv: /seg'vee/ n.,vi. Yet another
+synonym for {segmentation fault}. self-reference: n. see {self-reference}.
+selvage: /sel'v@j/ [from sewing] n. see {chad} (sense #1). semi: /se'mee/ or
+/se'mie/ 1. n. Abbreviation for `semicolon', when speaking. "Commands to
+{grind} are prefixed by semi-semi-star" means that the prefix is `;;*', not
+1/4 of a star. 2. Prefix with words such as `immediately', as a qualifier.
+"When is the system coming up?" "Semi-immediately." (That is, maybe not for
+an hour). "We did consider that possibility semi-seriously." see also
+{infinite}. senior bit: [IBM] n. Syn. {meta bit}. server: n. A kind of
+{daemon} that performs a service for the requester, which often runs on a
 computer other than the one on which the server runs. A particularly common
 term on the Internet, which is rife with `name servers', `domain servers',
 `news servers', `finger servers', and the like.

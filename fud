@@ -4,7 +4,7 @@ actually willing to fragment the market to protect their own shares. The UNIX
 International vs. OSF conflict, for example. fudge: 1. vt. To perform in an
 incomplete but marginally acceptable way, particularly with respect to the
 writing of a program. "I didn't feel like going through that pain and
-suffering, so I fudged it -- I'll fix it later." 2. n. The resulting code.
+suffering, so I fudged it --- I'll fix it later." 2. n. The resulting code.
 fudge factor: n. A value or parameter that is varied in an ad hoc way to
 produce the desired result. The terms `tolerance' and {slop} are also used,
 though these usually indicate a one-sided leeway, such as a buffer that is
@@ -18,13 +18,13 @@ computation may never terminate, while if it is too large, results will be
 needlessly inaccurate. Fudge factors are frequently adjusted incorrectly by
 programmers who don't fully understand their import. see also {coefficient of
 x}. fuel up: vi. To eat or drink hurriedly in order to get back to hacking.
-"Food-p?" "Yeah, let's fuel up." "Time for a {great-wall}!". see also
+"Food-p?" "Yeah, let's fuel up." "Time for a {great-wall}!" see also
 {{Oriental Food}}. fuggly: /fuhg'lee/ adj. Emphatic form of {funky}; funky +
 ugly (or possibly a contraction of `fuckin' ugly'). Unusually for hacker
-slang, this may actually derive from black street-jive. To say it properly,
+jargon, this may actually derive from black street-jive. To say it properly,
 the first syllable should be growled rather than spoken. Usage: humorous.
-"Man, the ASCII-to-{EBCDIC} code in that printer driver is *fuggly*." see
-also {wonky}. funky: adj. Said of something which functions, but in a
+"Man, the {{ASCII}}-to-{{EBCDIC}} code in that printer driver is *fuggly*."
+see also {wonky}. funky: adj. Said of something that functions, but in a
 slightly strange, klugey way. It does the job and would be difficult to
 change, so its obvious non-optimality is left alone. Often used to describe
 interfaces. The more bugs something has that nobody has bothered to fix
@@ -63,21 +63,21 @@ most are perpetrated by large companies trying to meet deadlines and produce
 enormous buggy masses of code entirely lacking in orthogonality (see
 {orthogonal}). When market-driven managers make a list of all the features
 the competition has and assign one programmer to implement each, they often
-miss the importance of maintaining strong invariants, like relational
-integrity. see also {firefighting}, {Mongolian Hordes technique}. garbage
-collect: vi. (also `garbage collection', n.) see {GC}. garply: /gar'plee/ n.
-[Stanford] Another meta-syntactic variable (see {foo}) popular among SAIL
-hackers. gas: [as in `gas chamber'] interj. 1. A term of disgust and hatred,
-implying that gas should be dispensed in generous quantities, thereby
-exterminating the source of irritation. "Some loser just reloaded the system
-for no reason! Gas!" 2. A term suggesting that someone or something ought to
-be flushed out of mercy. "The system's wedging every few minutes. Gas!" 3.
-vt. To {flush} (sense #1). "You should gas that old crufty software." 4.
-[IBM] Dead space in nonsequentially organized files that was occupied by data
-that has been deleted; the compression operation that removes it is called
-`degassing' (by analogy, perhaps, with the technical term `degaussing').
-gaseous: adj. Deserving of being {gas}sed. Usage: primarily used by Geoff
-Goodfellow at SRI, but spreading; became particularly popular after the
-Moscone/Milk murders in San Francisco, when it was learned that Dan White
-(who supported Proposition 7) would get the gas chamber under 7 if convicted.
-He was eventually found not guilty by reason of insanity.
+miss the importance of maintaining a coherent design. see also
+{firefighting}, {Mongolian Hordes technique}, {Conway's Law}. garbage
+collect: vi. (also `garbage collection', n.) see {GC}. garply: /gar'plee/
+[Stanford] n. Another meta-syntactic variable (see {foo}); formerly popular
+among SAIL hackers. gas: [as in `gas chamber'] 1. interj. A term of disgust
+and hatred, implying that gas should be dispensed in generous quantities,
+thereby exterminating the source of irritation. "Some loser just reloaded the
+system for no reason! Gas!" 2. interj. A suggestion that someone or something
+ought to be flushed out of mercy. "The system's wedging every few minutes.
+Gas!" 3. vt. To {flush} (sense #1). "You should gas that old crufty
+software." 4. [IBM] n. Dead space in nonsequentially organized files that was
+occupied by data that has been deleted; the compression operation that
+removes it is called `degassing' (by analogy, perhaps, with the use of the
+same term in vacuum technology). gaseous: adj. Deserving of being {gas}sed.
+Disseminated by Geoff Goodfellow while at SRI; became particularly popular
+after the Moscone/Milk murders in San Francisco, when it was learned that Dan
+White (who supported Proposition 7) would get the gas chamber under 7 if
+convicted. He was eventually found not guilty by reason of insanity.

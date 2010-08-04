@@ -2,12 +2,12 @@
 say perversion) of the {{ASCII}} character set used by the Commodore Business
 Machines PET series of personal computers and the later Commodore C64, C16,
 and C128 machines. The PETSCII set used left-arrow and up-arrow (as in
-old-style ASCII) instead of underscore and caret, places the unshifted
-alphabet at positions 65-90 and the shifted alphabet at positions 193-218, as
-well as adding graphics characters. phase: 1. n. The phase of one's
-waking-sleeping schedule with respect to the standard 24-hour cycle. This is
-a useful concept among people who often work at night according to no fixed
-schedule. It is not uncommon to change one's phase by as much as six
+old-style ASCII) instead of underscore and caret, placed the unshifted
+alphabet at positions 65-90, and put the shifted alphabet at positions
+193-218, as well as adding graphics characters. phase: 1. n. The phase of
+one's waking-sleeping schedule with respect to the standard 24-hour cycle.
+This is a useful concept among people who often work at night according to no
+fixed schedule. It is not uncommon to change one's phase by as much as six
 hours/day on a regular basis. "What's your phase?" "I've been getting in
 about 8 PM lately, but I'm going to {wrap around} to the day schedule by
 Friday." A person who is roughly 12 hours out of phase is sometimes said to
@@ -41,13 +41,13 @@ it wrote out a file, would print a `timestamp' line almost 80 characters
 long. Very occasionally the first line of the message would be too long and
 would overflow onto the next line, and when the file was later read back in
 the program would {barf}. The length of the first line depended on the
-precise time when the timestamp was printed, and so the bug literally
-depended on the phase of the moon! The first paper edition of the Jargon File
-(Steele-1983) included an example of this bug, but the typesetter `corrected'
-it. This has since been described as the phase-of-the-moon-bug bug.
-phreaking: [from "phone phreak"] n. 1. The art and science of cracking the
-phone network (so as, for example, to make free long-distance calls). 2. By
-extension, security-cracking in any other context (especially, but not
+precise date and time when the timestamp was printed, and so the bug
+literally depended on the phase of the moon! The first paper edition of the
+Jargon File (Steele-1983) included an example of this bug, but the typesetter
+`corrected' it. This has since been described as the phase-of-the-moon-bug
+bug. phreaking: [from "phone phreak"] n. 1. The art and science of cracking
+the phone network (so as, for example, to make free long-distance calls). 2.
+By extension, security-cracking in any other context (especially, but not
 exclusively, on communications networks). At one time phreaking was a
 semi-respectable activity among hackers; there was a gentleman's agreement
 that phreaking as an intellectual game and a form of exploration was O.K.,
@@ -68,9 +68,9 @@ connotative way as {nano-} and {micro-}. This usage is not yet common in the
 way {nano-} and {micro-} are, but is instantly recognizable to any hacker.
 The remaining standard quantifiers are `femto' (10 ^ -15) and `atto' (10 ^
 -18); these, interestingly, derive not from Greek but from Danish. They have
-not yet acquired slang loadings, though it is easy to predict what those will
-be once computing technology enters the required realms of magnitude
-(however, see {attoparsec}). see also {micro-}. pig, run like a: adj. To run
+not yet acquired jargon loadings, though it is easy to predict what those
+will be once computing technology enters the required realms of magnitude
+(however, see {attoparsec}). see also {micro-}. pig, run like a: adv. To run
 very slowly on given hardware, said of software. Distinct from {hog}. ping:
 /ping/ [from TCP/IP terminology, prob. originally contrived to match the
 submariners' term for a sonar pulse.] n.,vt. 1. Slang term for a small
@@ -80,15 +80,15 @@ aliveness of another. Occasionally used as a phone greeting. see {ACK}, also
 UNIX command by the same name (an acronym of `Packet INternet Groper') that
 sends an ICMP ECHO packet to another host. 4. To send a message to all
 members of a {mailing list} requesting an {ACK} (in order to verify that
-everybody's addresses are reachable). "We haven't heard much anything from
+everybody's addresses are reachable). "We haven't heard much of anything from
 Geoff, but he did respond with an ACK both times I pinged jargon-friends."
 The funniest use of `ping' to date was described in January 1991 by Steve
 Hayman on the USENET group comp.sys.next. He was trying to isolate a faulty
 cable segment on a TCP/IP Ethernet hooked up to a NeXT machine, and got tired
-of having to run back to his console after each cabling frob to see if the
+of having to run back to his console after each cabling tweak to see if the
 ping packets were getting through. So he used the sound-recording feature on
 the NeXT, then wrote a script that repeatedly invoked ping, listened to the
-output and played back the recording on each returned packet. Result? A
+output, and played back the recording on each returned packet. Result? A
 program that caused the machine to repeat, over and over, "Ping ... ping ...
 ping ..." as long as the network was up. He turned the volume to maximum,
 scurried through the building with one ear cocked, and found a faulty tee
@@ -96,4 +96,4 @@ connector in no time. Pink-Shirt Book: `The Peter Norton Programmer's Guide
 to the IBM PC'. The original cover featured a picture of Peter Norton with a
 silly smirk on his face, wearing a pink shirt. Perhaps in recognition of this
 usage, the current edition has a different picture of Norton wearing a pink
-shirt.
+shirt. see also {{book titles}}.

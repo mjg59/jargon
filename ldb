@@ -2,126 +2,129 @@
 discussing design to fend off {creeping featurism} and control development
 complexity. Possibly related to the {marketroid} maxim on sales
 presentations, "Keep It Short and Simple". kit: [USENET] n. A source software
-distribution which has been packaged in such a way that it can
-(theoretically) be unpacked and installed according to a series of steps
-using only standard UNIX tools, and entirely documented by some reasonable
-chain of references from the top-level {README file}. The more general term
-{distribution} may imply that special tools or more stringent conditions on
-the host environment are required. kluge: /klooj/ alt. kludge /kluhj/ [from
-the German `klug', clever] (/klooj/ is the original pronunciation, more
-common in the US; /kluhj/ is reported more common in England. A plurality of
-hackers pronounce this word /klooj/ but spell it incorrectly as `kludge'.
-Some observers consider this appropriate in view of its meaning.). 1. n. A
-Rube Goldberg (or Heath Robinson) device in hardware or software. (A long-ago
-Datamation article by Jackson Granholme said: "An ill-assorted collection of
-poorly matching parts, forming a distressing whole.") 2. n. A clever
-programming trick intended to solve a particular nasty case in an expedient,
-if not clear, manner. Often used to repair bugs. Often involves {ad-hockery}
-and verges on being a {crock}. 3. n. Something that works for the wrong
-reason. 4. vt. To insert a kluge into a program. "I've kluged this routine to
-get around that weird bug, but there's probably a better way." 5. [WPI] A
-feature which is implemented in a {rude} manner. kluge around: vt. To avoid a
-bug or difficult condition by inserting a {kluge}. Compare {workaround}.
-kluge up: vt. To lash together a quick hack to perform a task; this is milder
-than {cruft together} and has some of the connotations of {hack up} (note
-however that the construction `kluge on' corresponding to {hack on} is never
-used). "I've kluged up this routine to dump the buffer contents to a safe
-place." Knights of the Lambda Calculus: n. A semi-mythical organization of
-wizardly LISP and Scheme hackers (the name refers to a mathematical formalism
-invented by Alonzo Church with which LISP is intimately connected). There is
-no enrollment list and the criteria for induction are unclear, but one
-well-known LISPer has been known to give out buttons and, in general, the
-*members* know who they are.... Knuth: [Donald Knuth's `The Art of Computer
-Programming'] n. The reference that answers all questions about data
-structures or algorithms. A safe answer when you do not know, as in "I think
-you can find that in Knuth." Contrast {literature, the}. see also {bible}.
-kremvax: /krem-vaks/ [from the then large number of {USENET} {VAXen} with
-names of the form `foovax'] n. A fictitious USENET site at the Kremlin,
-announced on April 1, 1984, in a posting ostensibly from Soviet leader
-Konstantin Chernenko. The posting was actually forged by Piet Beertema as an
-April Fool's joke. Other sites mentioned in the hoax were moskvax and
-{kgbvax}, which now seems to be the one by which it is remembered. This was
-probably the funniest of the many April Fool's forgeries perpetrated on
-USENET (which has negligible security against them), because the notion that
-USENET might ever penetrate the Iron Curtain seemed so totally absurd at the
-time. In fact, it was only 6 years later that the first genuine site in
-Moscow, demos.su, joined USENET. Some readers needed convincing that it
-wasn't another prank. Vadim Antonov (avg@hq.demos.su), the major poster from
-Moscow up to at least the end of 1990, was quite aware of all this, referred
-to it frequently in his own postings, and at one point twitted some credulous
-readers by blandly `admitting' that he *was* a hoax! [Mr. Antonov also
-contributed the Russian-language material for this File --- ESR] = L = =====
-lace card: n. obs. A {{punched card}} with all holes punched (also called a
-`whoopee card'). Card readers jammed when they got to one of these, as the
-resulting card had too little structural strength to avoid buckling inside
-the mechanism. Card punches could also jam trying to produce these things due
-to power-supply problems. When some practical joker fed a lace card through
-the reader you needed to clear the jam with a `card knife' --- which you used
-on the joker first. language lawyer: n. A person, usually an experienced or
+distribution that has been packaged in such a way that it can (theoretically)
+be unpacked and installed according to a series of steps using only standard
+UNIX tools, and entirely documented by some reasonable chain of references
+from the top-level {README file}. The more general term {distribution} may
+imply that special tools or more stringent conditions on the host environment
+are required. kluge: /klooj/ alt. kludge /kluhj/ [from the German `klug',
+clever; /klooj/ is the original pronunciation, more common in the US; /kluhj/
+is reported more common in England. A plurality of hackers pronounce this
+word /klooj/ but spell it incorrectly as `kludge' (compare the pronunciation
+drift of {mung}). Some observers consider this appropriate in view of its
+meaning.] 1. n. A Rube Goldberg (or Heath Robinson) device in hardware or
+software. (A long-ago {Datamation} article by Jackson Granholme said: "An
+ill-assorted collection of poorly matching parts, forming a distressing
+whole.") 2. n. A clever programming trick intended to solve a particular
+nasty case in an expedient, if not clear, manner. Often used to repair bugs.
+Often involves {ad-hockery} and verges on being a {crock}. 3. n. Something
+that works for the wrong reason. 4. vt. To insert a kluge into a program.
+"I've kluged this routine to get around that weird bug, but there's probably
+a better way." 5. [WPI] n. A feature that is implemented in a {rude} manner.
+kluge around: vt. To avoid a bug or difficult condition by inserting a
+{kluge}. Compare {workaround}. kluge up: vt. To lash together a quick hack to
+perform a task; this is milder than {cruft together} and has some of the
+connotations of {hack up} (note, however, that the construction `kluge on'
+corresponding to {hack on} is never used). "I've kluged up this routine to
+dump the buffer contents to a safe place." Knights of the Lambda Calculus: n.
+A semi-mythical organization of wizardly LISP and Scheme hackers (the name
+refers to a mathematical formalism invented by Alonzo Church with which LISP
+is intimately connected). There is no enrollment list and the criteria for
+induction are unclear, but one well-known LISPer has been known to give out
+buttons and, in general, the *members* know who they are.... Knuth: [Donald
+Knuth's `The Art of Computer Programming'] n. Mythically, the reference that
+answers all questions about data structures or algorithms. A safe answer when
+you do not know, as in "I think you can find that in Knuth." Contrast
+{literature, the}. see also {bible}. kremvax: /krem-vaks/ [from the then
+large number of {USENET} {VAXen} with names of the form `foovax'] n. A
+fictitious USENET site at the Kremlin, announced on April 1, 1984, in a
+posting ostensibly originated there by Soviet leader Konstantin Chernenko.
+The posting was actually forged by Piet Beertema as an April Fool's joke.
+Other sites mentioned in the hoax were moskvax and {kgbvax}, which now seems
+to be the one by which it is remembered. This was probably the funniest of
+the many April Fool's forgeries perpetrated on USENET (which has negligible
+security against them), because the notion that USENET might ever penetrate
+the Iron Curtain seemed so totally absurd at the time. In fact, it was only 6
+years later that the first genuine site in Moscow, demos.su, joined USENET.
+Some readers needed convincing that it wasn't another prank. Vadim Antonov
+(avg@hq.demos.su), the major poster from Moscow up to at least the end of
+1990, was quite aware of all this, referred to it frequently in his own
+postings, and at one point twitted some credulous readers by blandly
+admitting that he *was* a hoax! [Mr. Antonov also contributed the
+Russian-language material for this File --- ESR] = L = ===== lace card: n.
+obs. A {{punched card}} with all holes punched (also called a `whoopee
+card'). Card readers jammed when they got to one of these, as the resulting
+card had too little structural strength to avoid buckling inside the
+mechanism. Card punches could also jam trying to produce these things due to
+power-supply problems. When some practical joker fed a lace card through the
+reader, you needed to clear the jam with a `card knife' --- which you used on
+the joker first. language lawyer: n. A person, usually an experienced or
 senior software engineer, who is intimately familiar with many or most of the
-numerous syntactic and semantic restrictions (both useful and esoteric)
-applicable to one or more computer programming languages. A language lawyer
-is distinguished by the ability to show you the five sentences scattered
+numerous restrictions and features (both useful and esoteric) applicable to
+one or more computer programming languages. A language lawyer is
+distinguished by the ability to show you the five sentences scattered
 throughout a 200-plus page manual which together imply the answer to your
 question "if only you had thought to look there". Compare {wizard}, {legal},
 {legalese}. languages of choice: n. {C} and {LISP}. Essentially all hackers
 know one of these and most good ones are fluent in both. Smalltalk and Prolog
-are popular in small but influential communities. There is also a rapidly
-dwindling category of older hackers with FORTRAN, or even assembler, as their
-language of choice. They often prefer to be known as <real programmer>s, and
-other hackers consider them a bit odd (see also `The Story of Mel, a Real
-Programmer' in Appendix A). Assembler is generally no longer considered
-interesting or appropriate for anything but compiler code generation and a
-few time-critical uses in systems programs; Fortran occupies a shrinking
-niche in scientific programming. Most hackers tend to frown at languages like
-Pascal and Ada which don't give them the near-total freedom considered
-necessary for hacking (see {bondage-and-discipline language}) and to regard
-everything that's even remotely connected with {COBOL} or other traditional
-{card walloper} languages as a total {loss}. larval stage: n. Describes a
-period of monomaniacal concentration on coding apparently passed through by
-all fledgling hackers. Common symptoms include: the perpetration of more than
-one 36-hour {hacking run} in a given week, neglect of all other activities
-including usual basics like food and sex, and a chronic case of advanced
-bleary-eye. Can last from six months to two years, with the apparent median
-being around eighteen months. A few so afflicted never resume a more `normal'
-life, but the ordeal seems to be necessary to produce really wizardly (as
-opposed to merely competent) programmers. see also {wannabee}. A less
-protracted and intense version of larval stage (typically lasting about a
-month) may recur when learning a new {OS} or programming language. lase:
+are also popular in small but influential communities. There is also a
+rapidly dwindling category of older hackers with FORTRAN, or even assembler,
+as their language of choice. They often prefer to be known as <real
+programmer>s, and other hackers consider them a bit odd (see `The Story of
+Mel, a Real Programmer' in Appendix A). Assembler is generally no longer
+considered interesting or appropriate for anything but HLL implementation,
+glue, and a few time-critical and hardware-specific uses in systems programs.
+FORTRAN occupies a shrinking niche in scientific programming. Most hackers
+tend to frown at languages like {{Pascal}} and {{Ada}} which don't give them
+the near-total freedom considered necessary for hacking (see
+{bondage-and-discipline language}), and to regard everything that's even
+remotely connected with {COBOL} or other traditional {card walloper}
+languages as a total {loss}. larval stage: n. Describes a period of
+monomaniacal concentration on coding apparently passed through by all
+fledgling hackers. Common symptoms include: the perpetration of more than one
+36-hour {hacking run} in a given week, neglect of all other activities
+including usual basics like food, sleep, and personal hygiene, and a chronic
+case of advanced bleary-eye. Can last from six months to two years, with the
+apparent median being around eighteen months. A few so afflicted never resume
+a more `normal' life, but the ordeal seems to be necessary to produce really
+wizardly (as opposed to merely competent) programmers. see also {wannabee}. A
+less protracted and intense version of larval stage (typically lasting about
+a month) may recur when learning a new {OS} or programming language. lase:
 /layz/ vt. To print a given document via a laser printer. "OK, let's lase
 that sucker and see if all those graphics-macro calls did the right things."
 laser chicken: n. Kung Pao Chicken, a standard Chinese dish containing
-chicken, peanuts, and hot red peppers in a spicy pepper-oil sauce. A few
+chicken, peanuts, and hot red peppers in a spicy pepper-oil sauce. Many
 hackers call it `laser chicken' for two reasons; it can {zap} you just like a
 laser, and the sauce has a red color reminiscent of some laser beams. In a
 variation on this theme, it is reported that one group of Australian hackers
 have redesignated the common dish `lemon chicken' as `Chernobyl Chicken'. The
-name is derived from the color of the dish, which is considered bright enough
-to glow in the dark (much like some of the fabled inhabitants of Chernobyl).
-LDB: /l@'d@b/ [from the PDP-10 instruction set] vt. To extract from the
-middle. This usage has been kept alive by Common LISP's function of the same
-name. see also {DPB}. leaf site: n. A machine which merely originates and
-reads USENET news or mail, and does not relay any third-party traffic. Often
-uttered in a critical tone; when the ratio of leaf sites to backbone, rib and
-other relay sites gets too high, the network tends to develop bottlenecks.
-Compare {backbone site}, {rib site}. leak: n. With qualifier, one of a class
-of resource-management bugs that occur when resources are not freed properly
-after operations on them are finished, leading to eventual exhaustion as new
-allocation requests come in. {memory leak} and {fd leak} have their own
-entries; one might also refer, say, to a `window handle leak' in a window
-system. leaky heap: [Cambridge] n. Syn. {memory leak}. legal: adj. Loosely
-used to mean `in accordance with all the relevant rules', esp. in connection
-with some set of constraints defined by software. Thus one very frequently
-hears constructions like `legal syntax', `legal input' etc. Hackers often
-model their work as a sort of game played with the environment in which the
-objective is to maneuver through the thicket of `natural laws' to achieve a
-desired objective. Their use of `legal' is flavored as much by this
-game-playing sense as by the more conventional one having to do with courts
-and lawyers. Compare {language lawyer}, {legalese}. legalese: n. Dense,
-pedantic verbiage in a language description, product specification, or
-interface standard; text that seems designed to obfuscate and requires a
-{language lawyer} to {parse} it. While hackers are not afraid of information
-density and complexity in language (indeed, they rather enjoy both), they
-share a deep and abiding loathing for legalese; they associate it with
-deception, {suits}, and situations in which hackers generally get the short
-end of the stick.
+name is derived from the color of the sauce, which is considered bright
+enough to glow in the dark (mythically, like some of the inhabitants of
+Chernobyl). laundromat: n. Syn. {disk farm}; see {washing machine}. LDB:
+/l@'d@b/ [from the PDP-10 instruction set] vt. To extract from the middle.
+"LDB me a slice of cake, please" This usage has been kept alive by Common
+LISP's function of the same name. see also {DPB}. leaf site: n. A machine
+that merely originates and reads USENET news or mail, and does not relay any
+third-party traffic. Often uttered in a critical tone; when the ratio of leaf
+sites to backbone, rib, and other relay sites gets too high, the network
+tends to develop bottlenecks. Compare {backbone site}, {rib site}. leak: n.
+With qualifier, one of a class of resource-management bugs that occur when
+resources are not freed properly after operations on them are finished,
+leading to eventual exhaustion as new allocation requests come in. {memory
+leak} and {fd leak} have their own entries; one might also refer, say, to a
+`window handle leak' in a window system. leaky heap: [Cambridge] n. Syn.
+{memory leak}. legal: adj. Loosely used to mean `in accordance with all the
+relevant rules', esp. in connection with some set of constraints defined by
+software. Thus one very frequently hears constructions like `legal syntax',
+`legal input', etc. Hackers often model their work as a sort of game played
+with the environment in which the objective is to maneuver through the
+thicket of `natural laws' to achieve a desired objective. Their use of
+`legal' is flavored as much by this game-playing sense as by the more
+conventional one having to do with courts and lawyers. Compare {language
+lawyer}, {legalese}. legalese: n. Dense, pedantic verbiage in a language
+description, product specification, or interface standard; text that seems
+designed to obfuscate and requires a {language lawyer} to {parse} it. While
+hackers are not afraid of high information density and complexity in language
+(indeed, they rather enjoy both), they share a deep and abiding loathing for
+legalese; they associate it with deception, {suit}s, and situations in which
+hackers generally get the short end of the stick.

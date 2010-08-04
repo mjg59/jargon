@@ -1,18 +1,25 @@
- MOTSS: /motss/ or /em-oh-tee-ess-ess/ [from the 1970 census forms via
+ MOTSS: /motss/ or /em-oh-tee-ess-ess/ [from the 1970 U.S. census forms via
 USENET, Member Of The Same Sex] n. Esp. one considered as a possible sexual
 partner, e.g. by a gay male or lesbian. The gay-issues newsgroup on USENET is
 called `soc.motss'. see {MOTOS} and {MOTAS}, which derive from it. Also see
-{SO}. mouse ahead: vi. To manipulate a computer's pointing device (almost
-always a mouse in this usage, but not necessarily) and its selection or
-command buttons before a computer program is ready to accept such input, in
-anticipation of the program accepting the input. Handling this properly is
-rare, but it can help make a {user-friendly} program usable by real users,
-assuming they are familiar with the behavior of the user interface.
-Point-and-click analog of `type ahead'. mouse around: vi. To explore public
-portions of a large system, esp. a network such as Internet via {FTP} or
-{TELNET}, looking for interesting stuff to {snarf}. mouse elbow: n. A
-tennis-elbow-like fatigue syndrome resulting from excessive use of a {WIMP
-environment}. Similarly, `mouse shoulder'; GLS reports that he used to get
-this a lot before he taught himself to be ambimousterous. mouso: /mow'soh/ n.
-[by analogy with `typo'] An error in mouse usage resulting in an
-inappropriate selection or graphic garbage on the screen. Compare {thinko}.
+{SO}. mouse ahead: vi. Point-and-click analog of `type ahead'. To manipulate
+a computer's pointing device (almost always a mouse in this usage, but not
+necessarily) and its selection or command buttons before a computer program
+is ready to accept such input, in anticipation of the program accepting the
+input. Handling this properly is rare, but it can help make a {WIMP
+environment} much more usable, assuming they are familiar with the behavior
+of the user interface. mouse around: vi. To explore public portions of a
+large system, esp. a network such as Internet via {FTP} or {TELNET}, looking
+for interesting stuff to {snarf}. mouse belt: n. see {rat belt}. mouse
+droppings: [MSDOS] n. Pixels (usually single) which are not properly restored
+when the mouse pointer moves away from a particular location on the screen,
+producing the appearance that the mouse pointer has left behind droppings.
+The major causes for this problem are programs which write to the screen
+memory corresponding to the mouse pointer's current location without hiding
+the mouse pointer first and mouse drivers which do not quite support the
+graphics mode in use. mouse elbow: n. A tennis-elbow-like fatigue syndrome
+resulting from excessive use of a {WIMP environment}. Similarly, `mouse
+shoulder'; GLS reports that he used to get this a lot before he taught
+himself to be ambimoustrous. mouso: /mow'soh/ n. [by analogy with `typo'] An
+error in mouse usage resulting in an inappropriate selection or graphic
+garbage on the screen. Compare {thinko}, {braino}.

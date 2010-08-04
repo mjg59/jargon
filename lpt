@@ -1,200 +1,215 @@
  LPT: /lip'it/ [ITS] n. Line printer, of course. Rare under UNIX, commoner in
-hackers with MS-DOS or CP/M background (the printer device is called LPT: on
-those systems, which like ITS were strongly influenced by early DEC
-conventions). lunatic fringe: [IBM] n. Customers who can be relied upon to
+hackers with MS-DOS or CP/M background. The printer device is called LPT: on
+those systems which, like ITS, were strongly influenced by early DEC
+conventions. lunatic fringe: [IBM] n. Customers who can be relied upon to
 accept release 1 versions of software. lurker: n. One of the `silent
-majority' in a {USENET} or BBS newsgroup; one who posts occasionally or not
-at all but is known to read the group regularly. Often used in `the lurkers',
-the hypothetical audience for the group's {flamage}-emitting regulars. luser:
-/loo'zr/ n. A {user} who is probably also a {loser}. ({luser} and {loser} are
-pronounced identically.) This word was coined about 1975 at MIT. Under ITS,
-when you first walked up to a terminal at MIT and typed Control-Z to get the
-computer's attention, it prints out some status information, including how
-many people are already using the computer; it might print "14 users", for
-example. Someone thought it would be a great joke to patch the system to
-print "14 losers" instead. There ensued a great controversy, as some of the
-users didn't particularly want to be called losers to their faces every time
-they used the computer. For a while several hackers struggled covertly, each
-changing the message behind the back of the others; any time you logged into
-the computer it was even money whether it would say "users" or "losers".
-Finally, someone tried the compromise `lusers', and it stuck. Later one of
-the ITS machines supported `luser' as a request-for-help command. ITS
-effectively died in early 1990, except as a museum piece; the usage lives on,
-however, and the term `luser' is often seen in program comments. = M = =====
-M: /em/ [from {mega-}] n. A megabyte (1,024 kilobytes, 1,048,576 bytes). Also
-written MB (this conflicts with use of M by scientists, under which MB would
-denote 1,000,000-byte units). see also {kilo-}, {K}. macdink: /mak'dink/
-[from the Apple Macintosh, which is said to encourage such behavior] vt. To
-make many incremental and unnecessary cosmetic changes to a program or file.
-Frequently the subject of the macdinking would be better off without them.
-Ex: "When I left at 11pm last night, he was still macdinking the slides for
-his presentation." see also {fritterware}. machoflops: /mach'oh-flops/ [pun
-on `megaflops', a coinage for `millions of floating-point operations per
+majority' in a electronic forum; one who posts occasionally or not at all but
+is known to read the group regularly. This term is not pejorative and indeed
+is casually used reflexively: "Oh, I'm just lurking." Often used in `the
+lurkers', the hypothetical audience for the group's {flamage}-emitting
+regulars. luser: /loo'zr/ n. A {user}; esp. one who is also a {loser}.
+({luser} and {loser} are pronounced identically.) This word was coined about
+1975 at MIT. Under ITS, when you first walked up to a terminal at MIT and
+typed Control-Z to get the computer's attention, it prints out some status
+information, including how many people are already using the computer; it
+might print "14 users", for example. Someone thought it would be a great joke
+to patch the system to print "14 losers" instead. There ensued a great
+controversy, as some of the users didn't particularly want to be called
+losers to their faces every time they used the computer. For a while several
+hackers struggled covertly, each changing the message behind the back of the
+others; any time you logged into the computer it was even money whether it
+would say "users" or "losers". Finally, someone tried the compromise
+`lusers', and it stuck. Later one of the ITS machines supported `luser' as a
+request-for-help command. ITS died the death in mid-1990, except as a museum
+piece; the usage lives on, however, and the term `luser' is often seen in
+program comments. = M = ===== M: /em/ or /meg/ [from {mega-}; techspeak] n. A
+megabyte (1,024 kilobytes, 1,048,576 = 2 ^ 20 bytes). Also written MB, in
+conflict with scientific usage in which M denotes multiplication by
+1,000,000. see also {kilo-}, {K}. macdink: /mak'dink/ [from the Apple
+Macintosh, which is said to encourage such behavior] vt. To make many
+incremental and unnecessary cosmetic changes to a program or file. Frequently
+the subject of the macdinking would be better off without them. Ex: "When I
+left at 11pm last night, he was still macdinking the slides for his
+presentation." see also {fritterware}. machoflops: /mach'oh-flops/ [pun on
+`megaflops', a coinage for `millions of floating-point operations per
 second'] n. Refers to artificially inflated performance figures often quoted
 by computer manufacturers. Real applications are lucky to get half the quoted
-speed. see {Your mileage may vary.}, {benchmark}. Macintrash: /mak'in-trash`/
+speed. see {Your mileage may vary}, {benchmark}. Macintrash: /mak'in-trash`/
 n. The Apple Macintosh, as described by a hacker who doesn't appreciate being
 kept away from the *real computer* by the interface. The term `maggotbox' has
-been reported in wregular use in the Research Triangle (Raleigh/Durham, NC).
+been reported in regular use in the Research Triangle (Raleigh/Durham, NC).
 see also {WIMP environment}, {drool-proof paper}, {user-friendly}. macro:
-/mak'roh/ n. A name (possibly followed by a formal {arg} list) which is
-equated to a text expression to which it is to be expanded (possibly with
-substitution of actual arguments) by a language translator. This definition
-can be found in any technical dictionary; what those won't tell you is how
-the hackish connotations of the term have changed over time. The term `macro'
-originated in early assemblers, which encouraged use of macros as a
-structuring and information-hiding device. During the early 1970s macro
-assemblers became ubiquitous and sometimes quite as powerful and expensive as
-HLLs, only to fall from favor as improving compiler technology marginalized
-assembler programming (see {languages of choice}). Nowadays the term is most
-often used in connection with the C preprocessor, LISP, or one of several
-special-purpose languages built around a macro-expansion facility (such as
-TeX or UNIX's [nt]roff suite). Indeed, the meaning has drifted enough that
-the collective `macros' is now sometimes used for code in any special-purpose
-application-control language (whether or not the language is actually
-translated by text expansion) as well as other `expansions' such as the
-`keyboard macros' supported in some text editors (and PC TSR keyboard
-enhancers). macro-: pref. Large. Opposite of {micro-}. In the mainstream and
-among other technical cultures (for example, medical people) this competes
-with the prefix {mega-}, but hackers tend to restrict the latter to
-quantification. macrology: /mak-ro'l@-jee/ n. 1. Set of usually complex or
-crufty macros, e.g. as part of a large system written in {LISP}, {TECO}, or
-(less commonly) assembler. 2. The art and science involved in comprehending a
-macrology in sense #1. Sometimes studying the macrology of a system is not
-unlike archeology, ecology and {theology}, hence the sound-alike
-construction. macrotape: /ma'kroh-tayp/ n. An industry standard reel of tape,
-as opposed to a {microtape}. maggotbox: n. see {Macintrash}. magic: adj. 1.
-As yet unexplained, or too complicated to explain; compare {automagically}
-and (Arthur C.) Clarke's Third Law: "Any sufficiently advanced technology is
-indistinguishable from magic". "TTY echoing is controlled by a large number
-of magic bits." "This routine magically computes the parity of an eight-bit
-byte in three instructions." 2. Characteristic of something that works but no
-one really understands why. 3. [Stanford] A feature not generally publicized
-that allows something otherwise impossible, or a feature formerly in that
-category but now unveiled. Example: The keyboard commands which override the
-screen-hiding features. magic cookie: [UNIX] n. 1. Something passed between
-routines or programs that enables the receiver to perform some operation; a
-capability ticket or opaque identifier. Especially used of small data objects
-which contain data encoded in a strange or intrinsically machine-dependent
-way. For example, on non-UNIX OSes with a non-byte-stream model of files, the
-result of `ftell(3)' may be a magic cookie rather than a byte offset; it can
-be passed to `fseek(3)', but not operated on in any meaningful way. The
-phrase "It hands you a magic cookie" means it returns a result whose contents
-are not defined but which can be passes back to the same program later to
-refer back to this transaction. 2. An in-band code for changing graphic
-rendition (e.g. inverse video or underlining) or performing other control
-functions. Some older terminals would leave a blank on the screen
-corresponding to mode-change magic cookies; this was also called a {glitch}.
-see also {cookie}. magic number: [UNIX/C] n. 1. Special data located at the
-beginning of a binary data file to indicate its type to a utility. Under UNIX
-the system and various applications programs (especially the linker)
-distinguish between types of executable by looking for a magic number. Only a
-{wizard} knows the magic to create magic numbers. How do you create a magic
-number that nobody else is using? Simple --- you pick one at random. see?
-It's magic! 2. In source code, some non-obvious constant whose value is
-significant to the operation of a program and which is inserted
-inconspicuously in line ({hardcoded}), rather than expanded in by a symbol
-set by a commented #define. Magic numbers in this sense are bad style. magic
-smoke: n. A notional substance trapped inside IC packages that enables them
-to function (also called `blue smoke'). Its existence is demonstrated by what
-happens when a chip burns up --- the magic smoke gets let out, so it doesn't
-work any more. see {smoke test}, {let the smoke out}. USENETter Jay Maynard
-tells the following story: "Once, while hacking on a dedicated Z-80 system, I
-was testing code by blowing EPROMs and plugging them in the system, then
-seeing what happened. One time, I plugged one in backwards. I only discovered
-that *after* I realized that Intel didn't put power-on lights under the
-quartz windows on the tops of their EPROMs --- the die was glowing white-hot.
-Amazingly, the EPROM worked fine after I erased it, filled it full of zeros,
-then erased it again. For all I know, it's still in service. Of course, this
-is because the magic smoke didn't get let out." mailing list: n. (often
-shortened to `list') 1. An {email} address that is an alias (or {macro},
-though that word is never used in this connection) for many other email
-addresses. 2. The people who receive your email when you send it to such an
-address. Mailing lists are one of the primary forms of hacker interaction,
-along with {USENET}. They predate USENET, and originated with the first UUCP
-and ARPANET connections. They are often used for private information-sharing
-on topics that would be too specialized for or inappropriate in public USENET
-groups. While some of these maintain purely technical content (such as the
-Internet Engineering Task Force mailing list), others (like the `sf-lovers'
-list maintained for many years by Saul Jaffe) are recreational, and others
-are purely social. Perhaps the most infamous of the social lists was the
-eccentric `bandykin' distribution; its latter-day progeny, `lectroids' and
-`tanstaafl', still include a number of the oddest and most interesting people
-in hackerdom. Mailing lists are easy to create and (unlike USENET) don't tie
-up a significant amount of machine resources. Thus, they are often created
-temporarily by working groups who can then collaborate on a project without
-ever needing to meet face-to-face. Much of the material in this book was
-criticized and polished on just such a mailing list (called `jargon-friends')
-which included all the co-authors of the original `The Hacker's Dictionary'.
-main loop: n. Software tools are often written to perform some action
-repeatedly on whatever input is handed to them, terminating when there is no
-more input or they are explicitly told to go away. In such programs, the loop
-that gets and processes input is called the `main loop'. see also {driver}.
-mainframe: n. This term originally referred to the central processor unit
-cabinet or `main frame' of a room-filling {Stone Age} batch machine. After
-the emergence of smaller `minicomputer' designs in the early Seventies, the
-traditional {big iron} machines were described as `mainframe computers' and
-eventually just as mainframes. The term carries the implication of a machine
-designed for batch rather than interactive use, though possibly with an
-interactive timesharing operating system retrofitted onto it; it is
-especially used of machines built by IBM, Sperry Univac, Unisys and the other
-great megatheria surviving from computing's Pleistocene. Outside the tiny
-market for specialized number-crunching supercomputers (see {cray}), it is
-common wisdom among hackers that the mainframe architectural tradition is
-essentially dead now, swamped by the huge advances in IC technology and
-`personal' lower-cost computing. As of 1991, corporate America hasn't quite
-figured this out yet, though the wave of failures, takeovers, and mergers
-among traditional mainframe makers are certainly straws in the wind. see also
-{dinosaur}. management: n. 1. Corporate power elites distinguished primarily
-by their distance from actual productive work and their chronic failure to
-manage (see also {suit}). Spoken derisively, as in "*Management* decided
-that...". 2. Mythically, a vast bureaucracy responsible for all the world's
-minor irritations. Hackers' satirical public notices are often signed "The
-Mgmt". manged: /mahnjed/ [probably from the French manger, to eat; perh.
-influenced by English n. `mange', adj. `mangy']. Refers to anything that is
-mangled or damaged, usually beyond repair. "The disk was manged after the
-electrical storm." Compare {mung}. mangle: vt. Used similarly to {mung} or
-{scribble}, but more violent in its connotations; something that is mangled
-has been irreversibly and totally trashed. mangler: [DEC] n. A manager.
-Compare {mango}; see also {management}. Note that {system mangler} is
-somwehat different in connotation. mango: /mang'go/ [orig. in-house slang at
-Symbolics] n. A manager. Compare {mangler}. see also {devo} and {doco}.
-marginal: adj. 1. Extremely small. "A marginal increase in {core} can
-decrease {GC} time drastically." In everyday terms, this means that it's a
-lot easier to clean off your desk if you have a spare place to put some of
-the junk while you sort through it. 2. Of extremely small merit. "This
-proposed new feature seems rather marginal to me." 3. Of extremely small
-probability of winning. "The power supply was rather marginal anyway; no
-wonder it fried." Marginal Hacks: n. Margaret Jacks Hall, a building into
-which the Stanford AI Lab was moved near the beginning of the '80s.
-marginally: adv. Slightly. "The ravs here are only marginally better than at
-Small Eating Place." see {epsilon}. marketroid: /mar'k@-troyd/ alt.
-`marketing slime', `marketing droid', `marketeer' n. Member of a company's
-marketing department, esp. one who promises users that the next version of a
-product will have features that are unplanned, extremely difficult to
-implement, and/or violate the laws of physics; and/or one who describes
-existing features (and misfeatures) in ebullient, buzzword-laden adspeak.
-Derogatory. martian: n. A packet sent on a TCP/IP network with a source
-address of the test loopback interface (127.0.0.1). As in "The domain server
-is getting lots of packets from Mars. Does that gateway have a martian
-filter?" massage: vt. Vague term used to describe `smooth' transformations of
-a data set into a more useful form, esp. transformations that do not lose
-information. Connotes less pain than {munch} or {crunch}. "He wrote a program
-that massages X bitmap files into GIF format." Compare {slurp}. math-out:
-[poss. from `white-out' (the blizzard variety)] n. A paper or presentation so
-encrusted with mathematical or other formal notation as to be
-incomprehensible. This may be a device for concealing the fact that it is
-actually {content-free}. see also {numbers}, {social science number}. Matrix:
-[FidoNet] n. 1. What the Opus BBS software and sysops call {FidoNet}. 2.
-Fanciful term for a {cyberspace} expected to emerge from current networking
-experiments (see {network, the}). Some people refer to the totality of
-present networks this way. Mbogo, Dr. Fred: [Stanford] n. The archetypal man
-you don't want to see about a problem, esp. an incompetent professional; a
-shyster. Usage: "Do you know a good eye doctor?" "Sure, try Mbogo Eye Care
-and Professional Dry Cleaning." The name comes from synergy between {bogus}
-and the original Dr. Mbogo, a witch doctor who was Gomez Addams' physician on
-the old `Addams Family' TV show. meatware: n. Synonym for {wetware}. Less
-common. meg: /meg/ n. A megabyte; 1024K. see {M} and {K}. mega-: /me'g@/
-pref. Multiplier, 10 ^ 6 or 2 ^ 20. see {M}, {kilo-}. megapenny:
-/meg'@-pen'ee/ n. $10,000 (1 cent * 10 ^ 6). Used semi-humorously as a unit
-in comparing computer cost/performance figures.
+/mak'roh/ [techspeak] n. A name (possibly followed by a formal {arg} list)
+that is equated to a text or symbolic expression to which it is to be
+expanded (possibly with the substitution of actual arguments) by a macro
+expander. This definition can be found in any technical dictionary; what
+those won't tell you is how the hackish connotations of the term have changed
+over time. The term `macro' originated in early assemblers, which encouraged
+use of macros as a structuring and information-hiding device. During the
+early 1970s, macro assemblers became ubiquitous and sometimes quite as
+powerful and expensive as HLLs, only to fall from favor as improving compiler
+technology marginalized assembler programming (see {languages of choice}).
+Nowadays the term is most often used in connection with the C preprocessor,
+LISP, or one of several special-purpose languages built around a
+macro-expansion facility (such as TeX or UNIX's [nt]roff suite). Indeed, the
+meaning has drifted enough that the collective `macros' is now sometimes used
+for code in any special-purpose application control language (whether or not
+the language is actually translated by text expansion) as well as other
+`expansions' such as the `keyboard macros' supported in some text editors
+(and PC TSR or Macintosh INIT/CDEV keyboard enhancers). macro-: pref. Large.
+Opposite of {micro-}. In the mainstream and among other technical cultures
+(for example, medical people) this competes with the prefix {mega-}, but
+hackers tend to restrict the latter to quantification. macrology:
+/mak-ro'l@-jee/ n. 1. Set of usually complex or crufty macros, e.g., as part
+of a large system written in {LISP}, {TECO}, or (less commonly) assembler. 2.
+The art and science involved in comprehending a macrology in sense #1.
+Sometimes studying the macrology of a system is not unlike archeology,
+ecology, or {theology}, hence the sound-alike construction. see also
+{boxology}. macrotape: /ma'kroh-tayp/ n. An industry standard reel of tape,
+as opposed to a {microtape}. maggotbox: n. see {Macintrash}. This is even
+more derogatory. magic: adj. 1. As yet unexplained, or too complicated to
+explain; compare {automagically} and (Arthur C.) Clarke's Third Law: "Any
+sufficiently advanced technology is indistinguishable from magic." "TTY
+echoing is controlled by a large number of magic bits." "This routine
+magically computes the parity of an eight-bit byte in three instructions." 2.
+Characteristic of something that works but no one really understands why. 3.
+[Stanford] A feature not generally publicized that allows something otherwise
+impossible, or a feature formerly in that category but now unveiled. Example:
+The keyboard commands which override the screen-hiding features. Compare
+{wizardly}, {deep magic}, {heavy wizardry}. For more about hackish `magic',
+see Appendix A. magic cookie: [UNIX] n. 1. Something passed between routines
+or programs that enables the receiver to perform some operation; a capability
+ticket or opaque identifier. Especially used of small data objects which
+contain data encoded in a strange or intrinsically machine-dependent way.
+E.g., on non-UNIX OSes with a non-byte-stream model of files, the result of
+`ftell(3)' may be a magic cookie rather than a byte offset; it can be passed
+to `fseek(3)', but not operated on in any meaningful way. The phrase `it
+hands you a magic cookie' means it returns a result whose contents are not
+defined but which can be passed back to the same or some other program later.
+2. An in-band code for changing graphic rendition (e.g., inverse video or
+underlining) or performing other control functions. Some older terminals
+would leave a blank on the screen corresponding to mode-change magic cookies;
+this was also called a {glitch}. see also {cookie}. magic number: [UNIX/C] n.
+1. In source code, some non-obvious constant whose value is significant to
+the operation of a program and which is inserted inconspicuously in-line
+({hardcoded}), rather than expanded in by a symbol set by a commented
+`#define'. Magic numbers in this sense are bad style. 2. A number that
+encodes critical information used in an algorithm in some opaque way. The
+classic examples of these are the numbers used in hash or CRC functions, or
+the coefficients in a linear congruential generator for pseudo-random
+numbers. This sense actually predates and was ancestral to the more common
+#1. 3. Special data located at the beginning of a binary data file to
+indicate its type to a utility. Under UNIX the system and various
+applications programs (especially the linker) distinguish between types of
+executable file by looking for a magic number. Only a {wizard} knows the
+magic to create magic numbers. How do you choose a fresh magic number of your
+own? Simple --- you pick one at random. see? It's magic! magic smoke: n. A
+substance trapped inside IC packages that enables them to function (also
+called `blue smoke'; compare `phlogiston'). Its existence is demonstrated by
+what happens when a chip burns up --- the magic smoke gets let out, so it
+doesn't work any more. see {smoke test}, {let the smoke out}. USENETter Jay
+Maynard tells the following story: "Once, while hacking on a dedicated Z80
+system, I was testing code by blowing EPROMs and plugging them in the system,
+then seeing what happened. One time, I plugged one in backwards. I only
+discovered that *after* I realized that Intel didn't put power-on lights
+under the quartz windows on the tops of their EPROMs --- the die was glowing
+white-hot. Amazingly, the EPROM worked fine after I erased it, filled it full
+of zeros, then erased it again. For all I know, it's still in service. Of
+course, this is because the magic smoke didn't get let out." mailing list: n.
+(often shortened to `list') 1. An {email} address that is an alias (or
+{macro}, though that word is never used in this connection) for many other
+email addresses. Some mailing lists are simple `reflectors', redirecting mail
+sent to them to the list of recipients. Others are filtered by humans or
+programs of varying degrees of sophistication; lists filtered by humans are
+said to be `moderated'. 2. The people who receive your email when you send it
+to such an address. Mailing lists are one of the primary forms of hacker
+interaction, along with {USENET}. They predate USENET, and originated with
+the first UUCP and ARPANET connections. They are often used for private
+information-sharing on topics that would be too specialized for or
+inappropriate to public USENET groups. While some of these maintain purely
+technical content (such as the Internet Engineering Task Force mailing list),
+others (like the `sf-lovers' list maintained for many years by Saul Jaffe)
+are recreational, and others are purely social. Perhaps the most infamous of
+the social lists was the eccentric `bandykin' distribution; its latter-day
+progeny, `lectroids' and `tanstaafl', still include a number of the oddest
+and most interesting people in hackerdom. Mailing lists are easy to create
+and (unlike USENET) don't tie up a significant amount of machine resources.
+Thus, they are often created temporarily by working groups who can then
+collaborate on a project without ever needing to meet face-to-face. Much of
+the material in this book was criticized and polished on just such a mailing
+list (called `jargon-friends'), which included all the co-authors of the `The
+Hacker's Dictionary' first edition. main loop: n. Software tools are often
+written to perform some actions repeatedly on whatever input is handed to
+them, terminating when there is no more input or they are explicitly told to
+go away. In such programs, the loop that gets and processes input is called
+the `main loop'. see also {driver}. mainframe: n. This term originally
+referred to the cabinet containing the central processor unit or `main frame'
+of a room-filling {Stone Age} batch machine. After the emergence of smaller
+`minicomputer' designs in the early Seventies, the traditional {big iron}
+machines were described as `mainframe computers' and eventually just as
+mainframes. The term carries the connotation of a machine designed for batch
+rather than interactive use, though possibly with an interactive timesharing
+operating system retrofitted onto it; it is especially used of machines built
+by IBM, Unisys, and the other great {dinosaur}s surviving from computing's
+{Stone Age}. It is common wisdom among hackers that the mainframe
+architectural tradition is essentially dead (outside of the tiny market for
+{number-crunching} supercomputers (see {cray})), swamped by the recent huge
+advances in IC technology and low-cost personal computing. As of 1991,
+corporate America hasn't quite figured this out yet, though the wave of
+failures, takeovers, and mergers among traditional mainframe makers are
+certainly straws in the wind. management: n. 1. Corporate power elites
+distinguished primarily by their distance from actual productive work and
+their chronic failure to manage (see also {suit}). Spoken derisively, as in
+"*Management* decided that...". 2. Mythically, a vast bureaucracy responsible
+for all the world's minor irritations. Hackers' satirical public notices are
+often signed `The Mgmt'. manged: /mahnjed/ [probably from the French `manger'
+or Italian `mangere', to eat; perh. influenced by English n. `mange',
+`mangy']. adj. Refers to anything that is mangled or damaged, usually beyond
+repair. "The disk was manged after the electrical storm." Compare {mung}.
+mangle: vt. Used similarly to {mung} or {scribble}, but more violent in its
+connotations; something that is mangled has been irreversibly and totally
+trashed. mangler: [DEC] n. A manager. Compare {mango}; see also {management}.
+Note that {system mangler} is somewhat different in connotation. mango:
+/mang'go/ [orig. in-house jargon at Symbolics] n. A manager. Compare
+{mangler}. see also {devo} and {doco}. marginal: adj. 1. Extremely small. "A
+marginal increase in {core} can decrease {GC} time drastically." In everyday
+terms, this means that it's a lot easier to clean off your desk if you have a
+spare place to put some of the junk while you sort through it. 2. Of
+extremely small merit. "This proposed new feature seems rather marginal to
+me." 3. Of extremely small probability of {win}ning. "The power supply was
+rather marginal anyway; no wonder it fried." Marginal Hacks: n. Margaret
+Jacks Hall, a building into which the Stanford AI Lab was moved near the
+beginning of the 1980s (from the {D. C. Power Lab}). marginally: adv.
+Slightly. "The ravs here are only marginally better than at Small Eating
+Place." see {epsilon}. marketroid: /mar'k@-troyd/ alt. `marketing slime',
+`marketing droid', `marketeer' n. Member of a company's marketing department,
+esp. one who promises users that the next version of a product will have
+features that are not actually scheduled for inclusion, extremely difficult
+to implement, and/or are in violation of the laws of physics; and/or one who
+describes existing features (and misfeatures) in ebullient, buzzword-laden
+adspeak. Derogatory. martian: n. A packet sent on a TCP/IP network with a
+source address of the test loopback interface (127.0.0.1). This means that it
+will come back at you labelled with a source address that is clearly not of
+this earth. As in "The domain server is getting lots of packets from Mars.
+Does that gateway have a martian filter?" massage: vt. Vague term used to
+describe `smooth' transformations of a data set into a different form, esp.
+transformations that do not lose information. Connotes less pain than {munch}
+or {crunch}. "He wrote a program that massages X bitmap files into GIF
+format." Compare {slurp}. math-out: [poss. from `white-out' (the blizzard
+variety)] n. A paper or presentation so encrusted with mathematical or other
+formal notation as to be incomprehensible. This may be a device for
+concealing the fact that it is actually {content-free}. see also {numbers},
+{social science number}. Matrix: [FidoNet] n. 1. What the Opus BBS software
+and sysops call {FidoNet}. 2. Fanciful term for a {cyberspace} expected to
+emerge from current networking experiments (see {network, the}). Some people
+refer to the totality of present networks this way. Mbogo, Dr. Fred:
+[Stanford] n. The archetypal man you don't want to see about a problem, esp.
+an incompetent professional; a shyster. Usage: "Do you know a good eye
+doctor?" "Sure, try Mbogo Eye Care and Professional Dry Cleaning." The name
+comes from synergy between {bogus} and the original Dr. Mbogo, a witch doctor
+who was Gomez Addams' physician on the old `Addams Family' TV show. see also
+{fred}. meatware: n. Synonym for {wetware}. Less common. meg: /meg/ n. A
+megabyte; 1024K. see {M} and {K}. mega-: /me'g@/ pref. Multiplier, 10 ^ 6 or
+2 ^ 20. see {M}, {kilo-}. megapenny: /meg'@-pen'ee/ n. $10,000 (1 cent * 10 ^
+6). Used semi-humorously as a unit in comparing computer cost/performance
+figures.

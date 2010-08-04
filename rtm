@@ -4,25 +4,25 @@ poor, e.g. a program which is very difficult to use because of gratuitously
 poor (random?) design decisions. see {cuspy}. runes: pl.n. 1. Anything that
 requires {heavy wizardry} or {black art} to {parse}; core dumps, JCL
 commands, or even code in a language you don't have the faintest idea how to
-read. Compare {casting the runes}. 2. Special display characters (for
-example, the high-half graphics on an IBM PC). runic: adj. Syn. {obscure}.
-VMS fans sometimes refer to UNIX as `Runix'; UNIX fans return the compliment
-by expanding VMS to `Very Messy Syntax' or `Vachement Mauvais Systeme'
-(French, lit. "Cowlike Bad System"). rusty iron: n. Syn. {tired iron}. It has
-been claimed that this is the inevitable fate of {water MIPS}. rusty memory:
-n. Mass-storage that uses iron-oxide-based magnetic media (esp. tape and the
-pre-Winchester removable disk packs used in {washing machine}s). Compare
-{donuts}. = S = ===== s/n ratio: n. (also `s:n ratio'). see {signal-to-noise
-ratio}. Often abbreviated `SNR'. sacred: adj. Reserved for the exclusive use
-of something (a metaphorical extension of the standard meaning). "Register 7
-is sacred to the interrupt handler." Often means that anyone may look at the
-sacred object, but clobbering it will screw whatever it is sacred to.
-Example: The comment "Register 7 is sacred to the interrupt handler"
-appearing in a program would be interpreted by a hacker to mean that one part
-of the program, the `interrupt handler', uses register 7, and if any other
-part of the program changes the contents of register 7 dire consequences are
-likely to ensue. saga: [WPI] n. A cuspy but bogus raving story dealing with N
-random broken people. sagan: /say'gn/ [from Carl Sagan's TV series `Cosmos',
-think `Billions and Billions'] n. A large quantity of anything. "There's a
-sagan different ways to tweak EMACS." "The US Government spends sagans on
-military hardware."
+read. Compare {casting the runes}, {Great Runes}. 2. Special display
+characters (for example, the high-half graphics on an IBM PC). runic: adj.
+Syn. {obscure}. VMS fans sometimes refer to UNIX as `Runix'; UNIX fans return
+the compliment by expanding VMS to `Very Messy Syntax' or `Vachement Mauvais
+Systeme' (French, lit. "Cowlike Bad System"). rusty iron: n. Syn. {tired
+iron}. It has been claimed that this is the inevitable fate of {water MIPS}.
+rusty memory: n. Mass-storage that uses iron-oxide-based magnetic media (esp.
+tape and the pre-Winchester removable disk packs used in {washing machine}s).
+Compare {donuts}. = S = ===== s/n ratio: n. (also `s:n ratio'). see
+{signal-to-noise ratio}. Often abbreviated `SNR'. sacred: adj. Reserved for
+the exclusive use of something (a metaphorical extension of the standard
+meaning). "Register 7 is sacred to the interrupt handler." Often means that
+anyone may look at the sacred object, but clobbering it will screw whatever
+it is sacred to. Example: The comment "Register 7 is sacred to the interrupt
+handler" appearing in a program would be interpreted by a hacker to mean that
+one part of the program, the `interrupt handler', uses register 7, and if any
+other part of the program changes the contents of register 7 dire
+consequences are likely to ensue. saga: [WPI] n. A cuspy but bogus raving
+story dealing with N random broken people. sagan: /say'gn/ [from Carl Sagan's
+TV series `Cosmos'; think `Billions and Billions'] n. A large quantity of
+anything. "There's a sagan different ways to tweak EMACS." "The US Government
+spends sagans on military hardware."

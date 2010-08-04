@@ -1,33 +1,128 @@
- USENET: /yoos'net/ or /yooz'net/ [from `Users' Network'] n. A distributed
-{bboard} (bulletin board) system supported mainly by UNIX machines,
-international in scope and probably the largest non-profit information
-utility in existence. As of early 1990 it hosts over 700 {newsgroup}s and
-distributes up to 15 megabytes of new technical articles, news, discussion,
-chatter, and {flamage} every day. user: n. 1. Someone doing `real work' with
-the computer, who uses a computer as a means rather than an end. Someone who
-pays to use a computer. see {real user}. 2. A programmer who will believe
-anything you tell him. One who asks silly questions. (This is slightly
-unfair. It is true that users ask questions (of necessity). Sometimes they
-are thoughtful or deep. Very often they are annoying or downright stupid,
-apparently because the user failed to think for two seconds or look in the
-documentation before bothering the maintainer.) see {luser}. 3. Someone who
-uses a program from the outside, however skillfully, without getting into the
-internals of the program. One who reports bugs instead of just going ahead
-and fixing them. Basically, there are two classes of people who work with a
-program: there are implementors (hackers) and users (losers). The users are
-looked down on by hackers to a mild degree because they don't understand the
-full ramifications of the system in all its glory. (The few users who do are
-known as {real winner}s.) The term is a relative one: a consummate hacker may
-be a user with respect to some program he himself does not hack. A LISP
-hacker might be one who maintains LISP or one who uses LISP (but with the
-skill of a hacker). A LISP user is one who uses LISP, whether skillfully or
-not. Thus there is some overlap between the two terms; the subtle
-distinctions must be resolved by context. user-friendly: adj.
-Programmer-hostile. Generally used by hackers in a critical tone, to describe
-systems which hold the user's hand so obsessively that they make it painful
-for the more experienced and knowledgeable to get any work done. see
-{menuitis}, {drool-proof paper}, {Macintrash}, {user-obsequious}.
-user-obsequious: adj. Emphatic form of {user-friendly}. Connotes a system so
-verbose, inflexible, and determinedly simple-minded that it is nearly
-unusable. "Design a system any fool can use and only a fool will want to use
-it".
+ A rather similar hack, perpetrated by a fraternity at CMU, cost their campus
+its trolley service. Though these displayed some cleverness, the side-effect
+of expensive property damage was definitely an esthetic minus. The best hacks
+are harmless ones. And another: One winter, late at night, an MIT fraternity
+hosed down an underpass that is part of a commuter expressway near MIT. This
+produced an ice slick that `trapped' a couple of small cars: they didn't have
+the momentum or traction to climb out of the underpass. While it was clever
+to apply some simple science to trap a car, it was also very dangerous as it
+could have caused a collision. Therefore this was a very poor hack overall.
+And yet another: On November 20, 1982, MIT hacked the Harvard-Yale football
+game. Just after Harvard's second touchdown against Yale in the second
+quarter, a small black ball popped up out of the ground at the 40-yard line,
+and grew bigger, and bigger, and bigger. The letters "MIT" appeared all over
+the ball. As the players and officials stood around gawking, the ball grew to
+six feet in diameter and then burst with a bang and a cloud of white smoke.
+As the Boston Globe later reported, "If you want to know the truth, M.I.T.
+won The Game." The prank had taken weeks of careful planning by members of
+MIT's Delta Kappa Epsilon fraternity. The device consisted of a weather
+balloon, a hydraulic ram powered by Freon gas to lift it out of the ground,
+and a vacuum-cleaner motor to inflate it. They made eight separate
+expeditions to Harvard Stadium between 1 and 5 AM, in which they located an
+unused 110-volt circuit in the stadium, and ran buried wiring from the
+stadium circuit to the 40-yard line, where they buried the balloon device.
+When the time came to activate the device, two fraternity members had merely
+to flip a circuit breaker and push a plug into an outlet. This stunt had all
+the earmarks of a perfect hack: surprise, publicity, the ingenious use of
+technology, safety, and harmlessness. The use of manual control allowed the
+prank to be timed so as not to disrupt the game (it was set off between
+plays, so the outcome of the game would not be unduly affected). The
+perpetrators had even thoughtfully attached a note to the balloon explaining
+that the device was not dangerous and contained no explosives. Harvard
+president Derek Bok commented: "They have an awful lot of clever people down
+there at MIT, and they did it again." President Paul E. Gray of MIT said,
+"There is absolutely no truth to the rumor that I had anything to do with it,
+but I wish there were." Finally, here is a great story about one of the
+classic computer hacks. Back in the mid-1970s, several of the system support
+staff at Motorola discovered a relatively simple way to crack system security
+on the Xerox CP-V timesharing system. Through a simple programming strategy,
+it was possible for a user program to trick the system into running a portion
+of the program in `master mode' (supervisor state), in which memory
+protection does not apply. The program could then poke a large value into its
+`privilege level' byte (normally write-protected) and could then proceed to
+bypass all levels of security within the file-management system, patch the
+system monitor, and do numerous other interesting things. In short, the barn
+door was wide open. Motorola quite properly reported this problem to XEROX
+via an official `level 1 SIDR' (a bug report with a perceived urgency of
+`needs to be fixed yesterday'). Because the text of each SIDR was entered
+into a database that could be viewed by quite a number of people, Motorola
+followed the approved procedure: they simply reported the problem as
+`Security SIDR', and attached all of the necessary documentation,
+ways-to-reproduce, etc. separately. Xerox sat on their thumbs...they either
+didn't realize the severity of the problem, or didn't assign the necessary
+operating-system-staff resources to develop and distribute an official patch.
+Months passed. The Motorola guys pestered their Xerox field-support rep, to
+no avail. Finally they decided to take Direct Action, to demonstrate to Xerox
+management just how easily the system could be cracked and just how
+thoroughly the system security systems could be subverted. They dug around in
+the operating-system listings and devised a thoroughly devilish set of
+patches. These patches were then incorporated into a pair of programs called
+Robin Hood and Friar Tuck. Robin Hood and Friar Tuck were designed to run as
+`ghost jobs' (daemons, in UNIX terminology); they would use the existing
+loophole to subvert system security, install the necessary patches, and then
+keep an eye on one another's statuses in order to keep the system operator
+(in effect, the superuser) from aborting them. So... one day, the system
+operator on the main CP-V software development system in El Segundo was
+surprised by a number of unusual phenomena. These included the following: *
+Tape drives would rewind and dismount their tapes in the middle of a job. *
+Disk drives would seek back and forth so rapidly that they'd attempt to walk
+across the floor (see {walking drives}). * The card-punch output device would
+occasionally start up of itself and punch a {lace card} (every hole punched).
+These would usually jam in the punch. * The console would print snide and
+insulting messages from Robin Hood to Friar Tuck, or vice versa. * The Xerox
+card reader had two output stackers; it could be instructed to stack into A,
+stack into B, or stack into A unless a card was unreadable, in which case the
+bad card was placed into stacker B. One of the patches installed by the
+ghosts added some code to the card-reader driver... after reading a card, it
+would flip over to the opposite stacker. As a result, card decks would divide
+themselves in half when they were read, leaving the operator to recollate
+them manually. There were some other effects produced, as well. Naturally,
+the operator called in the operating-system developers. They found the bandit
+ghost jobs running, and X'ed them... and were once again surprised. When
+Robin Hood was X'ed, the following sequence of events took place: !X id1 id1:
+Friar Tuck... I am under attack! Pray save me! id1: Off (aborted) id2: Fear
+not, friend Robin! I shall rout the Sheriff of Nottingham's men! id1: Thank
+you, my good fellow! Each ghost-job would detect the fact that the other had
+been killed, and would start a new copy of the recently-slain program within
+a few milliseconds. The only way to kill both ghosts was to kill them
+simultaneously (very difficult) or to deliberately crash the system. Finally,
+the system programmers did the latter... only to find that the bandits
+appeared once again when the system rebooted! It turned out that these two
+programs had patched the boot-time image (the /vmunix file, in UNIX terms)
+and had added themselves to the list of programs that were to be started at
+boot time... The Robin Hood and Friar Tuck ghosts were finally eradicated
+when the system staff rebooted the system from a clean boot-tape and
+reinstalled the monitor. Not long thereafter, Xerox released a patch for this
+problem. It is alleged that Xerox filed a complaint with Motorola's
+management about the merry-prankster actions of the two employees in
+question. It is not recorded that any serious disciplinary action was taken
+against either of them. The Untimely Demise of Mabel the Monkey
+======================================= The following, modulo a couple of
+inserted commas and capitalization changes for readability, is the exact text
+of a famous USENET message. The reader may wish to review the definitions of
+{PM} in the main text before continuing. Date: Wed 3 Sep 86 16:46:31-EDT
+From: "Art Evans" <Evans@TL-20B.ARPA> Subject: Always Mount a Scratch Monkey
+To: Risks@CSL.SRI.COM My friend Bud used to be the intercept man at a
+computer vendor for calls when an irate customer called. seems one day Bud
+was sitting at his desk when the phone rang. Bud: Hello. Voice: YOU KILLED
+MABEL!! B: Excuse me? V: YOU KILLED MABEL!! This went on for a couple of
+minutes and Bud was getting nowhere, so he decided to alter his approach to
+the customer. B: HOW DID I KILL MABEL? V: YOU PM'ED MY MACHINE!! Well, to
+avoid making a long story even longer, I will abbreviate what had happened.
+The customer was a Biologist at the University of Blah-de-blah, and he had
+one of our computers that controlled gas mixtures that Mabel (the monkey)
+breathed. Now, Mabel was not your ordinary monkey. The University had spent
+years teaching Mabel to swim, and they were studying the effects that
+different gas mixtures had on her physiology. It turns out that the repair
+folks had just gotten a new Calibrated Power Supply (used to calibrate analog
+equipment), and at their first opportunity decided to calibrate the D/A
+converters in that computer. This changed some of the gas mixtures and poor
+Mabel was asphyxiated. Well, Bud then called the branch manager for the
+repair folks: Manager: Hello B: This is Bud, I heard you did a PM at the
+University of Blah-de-blah. M: Yes, we really performed a complete PM. What
+can I do for you? B: Can you swim? The moral is, of course, that you should
+always mount a scratch monkey. ~~~~~~~~~~~~~~~~~~~~~~ There are several
+morals here related to risks in use of computers. Examples include, "If it
+ain't broken, don't fix it." However, the cautious philosophical approach
+implied by "always mount a scratch monkey" says a lot that we should keep in
+mind. Art Evans Tartan Labs

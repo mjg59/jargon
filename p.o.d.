@@ -1,50 +1,58 @@
  P.O.D.: /pee-oh-dee/ Acronym for `Piece Of Data' (as opposed to a code
-section). Usage: pedantic and rare. padded cell: n. Where you put lusers so
-they can't hurt anything. A program that limits a {luser} to a carefully
-restricted subset of the capabilities of the host system (for example, the
-`rsh(1)' utility on UNIX). Note that this is different from an {iron box}
-because it's overt and not aimed at enforcing security so much as protecting
-others (and the luser him/herself!) from the consequences of the luser's
-boundless naivete (see {naive}). Also `padded cell environment'. page in:
-[MIT] vi. To become aware of one's surroundings again after having paged out
-(see {page out}). Usually confined to the sarcastic comment, "So-and-so pages
-in. Film at 11." see {film at 11}. page out: [MIT] vi. To become unaware of
-one's surroundings temporarily, due to daydreaming or preoccupation. "Can you
-repeat that? I paged out for a minute." see {page in}. Compare {glitch},
-{thinko}. pain in the net: n. A {flamer}. paper-net: n. Hackish way of
-referring to the postal service, analogizing it to a very slow,
-low-reliability network. USENET {sig block}s not uncommonly include the
+section). Usage: pedantic and rare. see also {pod}. padded cell: n. Where you
+put lusers so they can't hurt anything. A program that limits a {luser} to a
+carefully restricted subset of the capabilities of the host system (for
+example, the `rsh(1)' utility on UNIX). Note that this is different from an
+{iron box} because it's overt and not aimed at enforcing security so much as
+protecting others (and the luser him/herself!) from the consequences of the
+luser's boundless naivete (see {naive}). Also `padded cell environment'. page
+in: [MIT] vi. To become aware of one's surroundings again after having paged
+out (see {page out}). Usually confined to the sarcastic comment, "So-and-so
+pages in. Film at 11." see {film at 11}. page out: [MIT] vi. To become
+unaware of one's surroundings temporarily, due to daydreaming or
+preoccupation. "Can you repeat that? I paged out for a minute." see {page
+in}. Compare {glitch}, {thinko}. pain in the net: n. A {flamer}. paper-net:
+n. Hackish way of referring to the postal service, analogizing it to a very
+slow, low-reliability network. USENET {sig block}s not uncommonly include the
 sender's postal address next to a "Paper-Net:" header; common variants of
 this are "Papernet" and "P-Net". Compare {voice-net}, {snail-mail}. param:
-/p@-ram'/ n. Shorthand for `parameter'. Compare {arg}, {var}. The plural
-`params' is often further compressed to `parms' /parmz/. parent message: n.
-see {followup}. parity errors: pl.n. Those little lapses of attention or (in
-more severe cases) consciousness, usually brought on by having spent all
-night and most of the next day hacking. "I need to go home and crash; I'm
-starting to get a lot of parity errors." Derives from a relatively common but
-nearly always correctable transient error in RAM hardware. parse: [from
-linguistic terminology via AI research] vt. 1. To determine the syntactic
-structure of a sentence or other utterance (close to the standard English
-meaning). Example: "That was the one I saw you." "I can't parse that." 2.
-More generally, to understand or comprehend. "It's very simple; you just
-kretch the glims and then aos the zotz." "I can't parse that." 3. Of fish, to
-have to remove the bones yourself (usually at a Chinese restaurant). "I
-object to parsing fish" means "I don't want to get a whole fish, but a sliced
-one is okay." A `parsed fish' has been deboned. There is some controversy
-over whether `unparsed' should mean `bony', or also mean `deboned'. Pascal::
-n. An Algol-descended language designed by Niklaus Wirth on the CDC 6600
-around 1967-68 as an instructional tool for elementary programming. This
-language, designed primarily to keep students from shooting themselves in the
-foot and thus extremely restrictive from a general-purpose-programming point
-of view, was later promoted as a general-purpose tool and in fact became the
-ancestor of a large family of languages including Modula-2 and Ada (see also
+/p@-ram'/ n. Shorthand for `parameter'. see also {parm}; Compare {arg},
+{var}. parent message: n. see {followup}. parity errors: pl.n. Those little
+lapses of attention or (in more severe cases) consciousness, usually brought
+on by having spent all night and most of the next day hacking. "I need to go
+home and crash; I'm starting to get a lot of parity errors." Derives from a
+relatively common but nearly always correctable transient error in RAM
+hardware. parse: [from linguistic terminology via AI research] vt. 1. To
+determine the syntactic structure of a sentence or other utterance (close to
+the standard English meaning). Example: "That was the one I saw you." "I
+can't parse that." 2. More generally, to understand or comprehend. "It's very
+simple; you just kretch the glims and then aos the zotz." "I can't parse
+that." 3. Of fish, to have to remove the bones yourself (usually at a Chinese
+restaurant). "I object to parsing fish" means "I don't want to get a whole
+fish, but a sliced one is okay." A `parsed fish' has been deboned. There is
+some controversy over whether `unparsed' should mean `bony', or also mean
+`deboned'. Parkinson's Law of Data: n. "Data expands to fill the space
+available for storage"; buying more memory encourages the use of more
+memory-intensive techniques. It has been observed over the last ten years
+that the memory usage of evolving systems tends to double roughly once every
+18 months. Fortunately, memory density available for constant dollars tends
+to double about once every twelve months (see {Moore's Law}) but the laws of
+physics dictate that this cannot be expected to continue indefinitely. parm:
+/parm/ n. Further-compressed spoken-only form of {param}; the plural is
+`parms' /parmz/. Compare {arg}, {var}. Pascal:: n. An Algol-descended
+language designed by Niklaus Wirth on the CDC 6600 around 1967-68 as an
+instructional tool for elementary programming. This language, designed
+primarily to keep students from shooting themselves in the foot and thus
+extremely restrictive from a general-purpose-programming point of view, was
+later promoted as a general-purpose tool and in fact became the ancestor of a
+large family of languages including Modula-2 and Ada (see also
 {bondage-and-discipline language}). The hackish point of view on Pascal was
 perhaps best summed up by a devastating (and, in its deadpan way, screamingly
 funny) 1981 paper by Brian Kernighan (of {K&R} fame) entitled `Why Pascal is
 Not My Favorite Programming Language'. Part of his summation is worth
 repeating here, because its criticisms are still apposite to Pascal itself
-after ten years of improvement, and could also stand as an indictment of many
-other {bondage-and-discipline} languages. At the end of a summary of the case
+after ten years of improvement and could also stand as an indictment of many
+other bondage-and-discipline languages. At the end of a summary of the case
 against Pascal, he wrote: 9. There is no escape This last point is perhaps
 the most important. The language is inadequate but circumscribed, because
 there is no way to escape its limitations. There are no casts to disable the
@@ -60,26 +68,26 @@ etc., all add to the utility of the language for one group but destroy its
 portability to others. I feel that it is a mistake to use Pascal for anything
 much beyond its original target. In its pure form, Pascal is a toy language,
 suitable for teaching but not for real programming. Pascal has since been
-almost entirely displaced (by C) from the niches it had acquired in serious
+almost entirely displaced (by {C}) from the niches it had acquired in serious
 application and systems programming, but retains some popularity as a
-hobbyist language in the MS-DOS world. patch: 1. n. A temporary addition to a
-piece of code, usually as a {quick and dirty} remedy to an existing bug or
-misfeature. A patch may or may not work, and may or may not eventually be
-incorporated permanently into the program. Compare {one-line fix}. 2. vt. To
-insert a patch into a piece of code. 3. [in the UNIX world] n. A set of
-differences between two versions of source code, generated with `diff(1)' and
-intended to be mechanically applied using Larry Wall's patch(1); often used
-as a way of distributing source code upgrades and fixes over {USENET}. path:
-n. 1. A {bang path}; a node-by-node specification of a link between two
-machines. 2. [UNIX] A filename, fully specified relative to the root
-directory (as opposed to relative to the current directory. 3. [MS-DOS] The
-`search path', an environment variable specifying the directories in which
-COMMAND.COM should look for commands. pathological: [scientific computation]
-adj. Used of a data set which is grossly atypical of the expected load, esp.
-one which exposes a weakness or bug in whatever algorithm one is using. An
-algorithm which can be broken by pathological inputs may still be useful if
-such inputs are very unlikely to occur in practice. 2. When used of a test
-load, implies that it was purposefully engineered as a worst case. The
-implication in both senses is that someone had to explicitly set out to break
-an algorithm in order to come up with such a crazy example. payware: n.
-Commercial software. Oppose {shareware} or {freeware}.
+hobbyist language in the MS-DOS and Macintosh worlds. patch: 1. n. A
+temporary addition to a piece of code, usually as a {quick and dirty} remedy
+to an existing bug or misfeature. A patch may or may not work, and may or may
+not eventually be incorporated permanently into the program. Compare
+{one-line fix}. 2. vt. To insert a patch into a piece of code. 3. [in the
+UNIX world] n. A {diff} (sense #2). path: n. 1. A {bang path}; a node-by-node
+specification of a link between two machines. 2. [UNIX] A filename, fully
+specified relative to the root directory (as opposed to relative to the
+current directory; the latter is sometimes called a `relative path'). This is
+also called a `pathname'. 3. [UNIX & MS-DOS] The `search path', an
+environment variable specifying the directories in which the {shell}
+(COMMAND.COM, under MS-DOS) should look for commands. pathological:
+[scientific computation] adj. Used of a data set that is grossly atypical of
+the expected load, esp. one which exposes a weakness or bug in whatever
+algorithm one is using. An algorithm that can be broken by pathological
+inputs may still be useful if such inputs are very unlikely to occur in
+practice. 2. When used of a test load, implies that it was purposefully
+engineered as a worst case. The implication in both senses is that someone
+had to explicitly set out to break an algorithm in order to come up with such
+a crazy example. payware: n. Commercial software. Oppose {shareware} or
+{freeware}.

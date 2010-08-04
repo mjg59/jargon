@@ -1,14 +1,14 @@
- GOSMACS: /goz'maks/ [contraction of `Gosling Emacs'] n. The first
+ GOSMACS: /goz'maks/ [contraction of `Gosling EMACS'] n. The first
 {EMACS}-in-C implementation, predating but now largely eclipsed by {GNUMACS}.
 Originally freeware; a commercial version is now modestly popular as
-`UniPress Emacs'. The author (James Gosling) went on to invent {NeWS}.
+`UniPress EMACS'. The author (James Gosling) went on to invent {NeWS}.
 Gosperism: /gos'p@r-iz-m/ A hack, invention, or saying by arch-hacker R.
 William (Bill) Gosper. This notion merits its own term because there are so
 many of them. Many of the entries in {HAKMEM} are Gosperisms; see also
-{life}. gotcha: n. A misfeature of a system, especially a programming
-language or environment, which tends to breed bugs or mistakes because it
-behaves in a non-intuitive way. For example a classic gotcha in {C} is the
-fact that `if (a=b) {code;}' is a syntactically valid and sometimes even
-correct. It puts the value of b into a and then executes `code' if b is
+{life}. gotcha: n. A {misfeature} of a system, especially a programming
+language or environment, that tends to breed bugs or mistakes because it
+behaves in an unexpected way. For example, a classic gotcha in {C} is the
+fact that `if (a=b) {code;}' is syntactically valid and sometimes even
+correct. It puts the value of b into a and then executes `code' if a is
 non-zero. What the programmer probably meant was `if (a==b) {code;}' which
-executes "code" if a and b are equal.
+executes `code' if a and b are equal.

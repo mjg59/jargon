@@ -7,7 +7,7 @@ Commonwealth hackish, /eks-wie-zed-zed-wie/. [from the ADVENT game] adj. The
 explore an underground cave with many rooms to collect treasure. If you type
 `xyzzy' at the appropriate time, you can move instantly between two otherwise
 distant points. If, therefore, you encounter some bit of {magic}, you might
-remark on this quite succinctly by saying simply "Xyzzy"! Example:
+remark on this quite succinctly by saying simply "Xyzzy!" Example:
 "Ordinarily you can't look at someone else's screen if he has protected it,
 but if you type quadruple-bucky-clear the system will let you do it anyway."
 "Xyzzy!" Xyzzy has actually been implemented as an undocumented no-op command

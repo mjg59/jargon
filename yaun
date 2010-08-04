@@ -6,95 +6,97 @@ MIT Press, 1991. Includes all the material in the File, plus a Foreword by
 Guy Steele and a Preface by Eric S. Raymond. Most importantly, the book
 version is nicely typeset and includes almost all of the infamous Crunchly
 cartoons by the Great Quux, each attached to an appropriate entry. Yet
-Another: adj. [From UNIX's `yacc(1)', `Yet Another Compiler- Compiler' LALR
-parser generator] 1. Of your own work: humorous allusion often used in titles
-to acknowledge that the topic is not original, though the content is. As in
-`Yet Another AI Group' or `Yet Another Simulated Annealing Algorithm'. 2. Of
-other's work: describes something of which there are far too many. see also
-{YA-}, {YABA}, {YAUN}. You are not expected to understand this.: cav. [UNIX]
-Canonical comment describing something {magic} or too complicated to bother
-explaining properly. From a comment in the either the context-switching code
-of the V6 UNIX kernel or the V6 tty driver (accounts differ). You know you've
-been hacking too long when...: The set-up line for a genre of one-liners told
-by hackers about themselves. These include the following: * not only do you
-check your email more often than your paper mail, but you remember your
-{network address} faster than your postal one. * your {SO} kisses you on the
-neck and the first thing you think is "Uh, oh, {priority interrupt}". * you
-go to balance your checkbook and discover that you're doing it in octal. *
-your computers have a higher street value than your car. * `round numbers'
-are powers of 2, not 10. * you've woken up more than once to recall of a
-dream in some programming language. * you realize you've never met half of
-your best friends. All but one of these have been reliably reported as hacker
-traits (some of them quite often). Even hackers may have trouble spotting the
-ringer. Your mileage may vary.: cav. [from the standard disclaimer attached
-to EPA mileage ratings by American car manufacturers] A ritual warning often
-found in UNIX freeware distributions. Translates roughly as "Hey, I tried to
-write this portably but who *knows* what'll happen on your system?" Yow!:
-/yow/ [from Zippy the Pinhead comix] interj. Favored hacker expression of
-humorous surprise or emphasis. "Yow! Check out what happens when you twiddle
-the foo option on this display hack!" Compare {gurfle}. yoyo mode: n. State
-in which the system is said to be when it rapidly alternates several times
-between being up and being down. Interestingly (and perhaps not by
-coincidence), many hardware vendors give out free yoyos at Usenix exhibits.
-Sun Microsystems gave out logoized yoyos at SIGPLAN '88. Tourists staying at
-one of Atlanta's most respectable hotels were subsequently treated to the
-sight of 200 of the country's top computer scientists testing yo-yo
-algorithms in the lobby. Yu-Shiang whole fish: /yoo-shyang hohl fish/ n. obs.
-The character gamma (extended SAIL ASCII 1001011), which with a loop in its
-tail looks like a little fish swimming down the page. The term is actually
-the name of a Chinese dish in which a fish is cooked whole (not {parse}d) and
-covered with Yu Shiang sauce. Usage: was used primarily by people on the MIT
-LISP Machine, which could display this character on the screen. Tends to
-elicit incredulity from people who hear about it second-hand. = Z = =====
-zap: 1. n. Spiciness. 2. vt. To make food spicy. 3. vt. To make someone
-`suffer' by making his food spicy. (Most hackers love spicy food.
-Hot-and-sour soup is considered wimpy unless it makes you blow your nose for
-the rest of the meal.) see {zapped}. 4. vt. To modify, usually to correct.
-Also implies surgical precision. In some communities, this used to describe
-modifying a program's binary executable. In the IBM mainframe world, binary
-patches are applied to programs or to the OS with a program called
-`superzap', whose file name is `IMASPZAP' (I Am A SuperZap) 5. vt. To erase
-or reset. 6. To {fry} a chip with static electricity. zapped: adj. Spicy.
-This term is used to distinguish between food that is hot (in temperature)
-and food that is *spicy*-hot. For example, the Chinese appetizer Bon Bon
-Chicken is a kind of chicken salad that is cold but zapped; by contrast,
-{vanilla} wonton soup is hot but not zapped. see also {{Oriental Food}},
-{laser chicken}. see {zap}, senses #1 and #2. zen: vt. To figure out
-something by meditation, or by a sudden flash of enlightenment. Originally
-applied to bugs, but occasionally applied to problems of life in general.
-"How'd you figure out the buffer allocation problem?" "Oh, I zenned it".
-Contrast {grok}, which connotes a time-extended version of zenning a system.
-Compare {hack mode}. zero: vt. 1. To set to zero. Usually said of small
-pieces of data, such as bits or words. 2. To erase; to discard all data from.
-Said of disks and directories, where `zeroing' need not involve actually
-writing zeroes throughout the area being zeroed. One may speak of something
-being `logically zeroed' rather than being `physically zeroed'. see
-{scribble}. zero-content: adj. Syn. {content-free}. zeroth: /zee'rohth/ adj.
-First. Among software designers, comes from C's and LISP's 0-based indexing
-of arrays. Hardware people also tend to start counting at zero instead of
-one; this is natural since e.g. the 256 states of 8 bits correspond to the
-binary numbers 0,1,...,255 and the digital devices known as `counters' count
-in this way. Hackers and computer scientists often like to call the first
-chapter of a publication `Chapter 0', especially if it is of an introductory
-nature (one of the classic instances was in the First Edition of {K&R}). In
-recent years this trait has also been observed among many pure mathematicians
-(who have an independent tradition of numbering from 0). zigamorph:
-/zie'-g@-morf/ n. Hex FF (binary 11111111) when used as a delimiter or
-{fence} character. zip: [primarily MSDOS] vt. To create a compressed archive
-from a group of files using PKWare's PKZIP or a compatible archiver. Its use
-is spreading now that portable implementations of the algorithm have been
-written. Commonly used as "I'll zip it up and send it to you". see {arc},
-{tar and feather}. zipperhead: [IBM] n. A person with a closed mind. zombie:
-[UNIX] n. A process that has died but has not yet relinquished its process
-table slot (because the parent process hasn't executed a `wait(2)' for it
-yet). These show up in `ps(1)' listings occasionally. Compare {orphan}. zork:
-/zork/ n. Second of the great early experiments in computer fantasy gaming;
-see {ADVENT}. Originally written on MIT-DMS during the late seventies, later
-distributed with BSD UNIX and commercialized as `The Zork Trilogy' by
-Infocom. Hacker Folklore *************** This appendix contains several
-fables and legends which illuminate the meaning of various entries in the
-main text. Some of this material appeared in the 1983 paper edition of the
-Jargon File (but not in the previous on-line versions). The Meaning of `Hack'
+Another: adj. [From UNIX's `yacc(1)', `Yet Another Compiler- Compiler', a
+LALR parser generator] 1. Of your own work: humorous allusion often used in
+titles to acknowledge that the topic is not original, though the content is.
+As in `Yet Another AI Group' or `Yet Another Simulated Annealing Algorithm'.
+2. Of other's work: describes something of which there are far too many. see
+also {YA-}, {YABA}, {YAUN}. You are not expected to understand this: cav.
+[UNIX] Canonical comment describing something {magic} or too complicated to
+bother explaining properly. From a comment in either the context-switching
+code of the V6 UNIX kernel or the V6 tty driver (accounts differ). You know
+you've been hacking too long when...: The set-up line for a genre of
+one-liners told by hackers about themselves. These include the following: *
+not only do you check your email more often than your paper mail, but you
+remember your {network address} faster than your postal one. * your {SO}
+kisses you on the neck and the first thing you think is "Uh, oh, {priority
+interrupt}." * you go to balance your checkbook and discover that you're
+doing it in octal. * your computers have a higher street value than your car.
+* `round numbers' are powers of 2, not 10. * you've woken up more than once
+to recall of a dream in some programming language. * you realize you've never
+met half of your best friends. All but one of these have been reliably
+reported as hacker traits (some of them quite often). Even hackers may have
+trouble spotting the ringer. Your mileage may vary: cav. [from the standard
+disclaimer attached to EPA mileage ratings by American car manufacturers] A
+ritual warning often found in UNIX freeware distributions. Translates roughly
+as "Hey, I tried to write this portably but who *knows* what'll happen on
+your system?" Yow!: /yow/ [from Zippy the Pinhead comix] interj. Favored
+hacker expression of humorous surprise or emphasis. "Yow! Check out what
+happens when you twiddle the foo option on this display hack!" Compare
+{gurfle}. yoyo mode: n. State in which the system is said to be when it
+rapidly alternates several times between being up and being down.
+Interestingly (and perhaps not by coincidence), many hardware vendors give
+out free yoyos at Usenix exhibits. Sun Microsystems gave out logoized yoyos
+at SIGPLAN '88. Tourists staying at one of Atlanta's most respectable hotels
+were subsequently treated to the sight of 200 of the country's top computer
+scientists testing yo-yo algorithms in the lobby. Yu-Shiang Whole Fish:
+/yoo-shyang hohl fish/ n. obs. The character gamma (extended SAIL ASCII
+#b1001011), which with a loop in its tail looks like a little fish swimming
+down the page. The term is actually the name of a Chinese dish in which a
+fish is cooked whole (not {parse}d) and covered with Yu Shiang sauce. Usage:
+was used primarily by people on the MIT LISP Machine, which could display
+this character on the screen. Tends to elicit incredulity from people who
+hear about it second-hand. = Z = ===== zap: 1. n. Spiciness. 2. vt. To make
+food spicy. 3. vt. To make someone `suffer' by making his food spicy. (Most
+hackers love spicy food. Hot-and-sour soup is considered wimpy unless it
+makes you blow your nose for the rest of the meal.) see {zapped}. 4. vt. To
+modify, usually to correct. Also implies surgical precision. In some
+communities, this used to describe modifying a program's binary executable.
+In the IBM mainframe world, binary patches are applied to programs or to the
+OS with a program called `superzap', whose file name is `IMASPZAP' (I Am a
+SuPerZAP) 5. vt. To erase or reset. 6. To {fry} a chip with static
+electricity. zapped: adj. Spicy. This term is used to distinguish between
+food that is hot (in temperature) and food that is *spicy*-hot. For example,
+the Chinese appetizer Bon Bon Chicken is a kind of chicken salad that is cold
+but zapped; by contrast, {vanilla} wonton soup is hot but not zapped. see
+also {{Oriental Food}}, {laser chicken}. see {zap}, senses #1 and #2. zen:
+vt. To figure out something by meditation, or by a sudden flash of
+enlightenment. Originally applied to bugs, but occasionally applied to
+problems of life in general. "How'd you figure out the buffer allocation
+problem?" "Oh, I zenned it". Contrast {grok}, which connotes a time-extended
+version of zenning a system. Compare {hack mode}. see also {guru}. zero: vt.
+1. To set to zero. Usually said of small pieces of data, such as bits or
+words. 2. To erase; to discard all data from. Said of disks and directories,
+where `zeroing' need not involve actually writing zeroes throughout the area
+being zeroed. One may speak of something being `logically zeroed' rather than
+being `physically zeroed'. see {scribble}. zero-content: adj. Syn.
+{content-free}. zeroth: /zee'rohth/ adj. First. Among software designers,
+comes from C's and LISP's 0-based indexing of arrays. Hardware people also
+tend to start counting at zero instead of one; this is natural since, e.g.,
+the 256 states of 8 bits correspond to the binary numbers 0,1,...,255 and the
+digital devices known as `counters' count in this way. Hackers and computer
+scientists often like to call the first chapter of a publication `Chapter 0',
+especially if it is of an introductory nature (one of the classic instances
+was in the First Edition of {K&R}). In recent years this trait has also been
+observed among many pure mathematicians (who have an independent tradition of
+numbering from 0). Zero-based numbering tends to reduce {fencepost error}s,
+though it cannot eliminate them entirely. zigamorph: /zig'@-morf/ n. Hex FF
+(binary #b11111111) when used as a delimiter or {fence} character. zip:
+[primarily MSDOS] vt. To create a compressed archive from a group of files
+using PKWare's PKZIP or a compatible archiver. Its use is spreading now that
+portable implementations of the algorithm have been written. Commonly used as
+"I'll zip it up and send it to you." see {arc}, {tar and feather}.
+zipperhead: [IBM] n. A person with a closed mind. zombie: [UNIX] n. A process
+that has died but has not yet relinquished its process table slot (because
+the parent process hasn't executed a `wait(2)' for it yet). These show up in
+`ps(1)' listings occasionally. Compare {orphan}. Zork: /zork/ n. Second of
+the great early experiments in computer fantasy gaming; see {ADVENT}.
+Originally written on MIT-DMS during the late seventies, later distributed
+with BSD UNIX and commercialized as `The Zork Trilogy' by Infocom. Hacker
+Folklore *************** This appendix contains several fables and legends
+which illuminate the meaning of various entries in the main text. Some of
+this material appeared in the 1983 paper edition of the Jargon File (but not
+in the previous on-line versions). The Meaning of `Hack'
 ===================== "The word {hack} doesn't really have 69 different
 meanings", according to Phil Agre, an MIT hacker. "In fact, {hack} has only
 one meaning, an extremely subtle and profound one which defies articulation.

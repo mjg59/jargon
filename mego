@@ -4,93 +4,57 @@
 agreement because the listener does not want to admit to not understanding
 what is going on. MEGO is usually directed at senior management by engineers
 and contains a high proportion of {TLA}s. 2. excl. An appropriate response to
-MEGO tactics. meltdown, network: n. A state of complete network overload; the
-network equivalent of {thrash}ing. see also {broadcast storm}. meme: /meem/
-[coined on analogy with `gene' by Richard Dawkins] n. An idea considered as a
-{replicator}. Used esp. in the phrase `meme complex' denoting a group of
-mutually supporting memes which form an organized belief system, such as a
-religion. This dictionary is a vector of the `hacker subculture' meme
-complex; each entry might be considered a meme. However, `meme' is often
-misused to mean `meme complex'. Use of the term connotes acceptance of the
-idea that in humans (and presumably other tool- and language-using sophonts)
-cultural evolution by selection of adaptive ideas has superseded biological
-evolution by selection of hereditary traits. Hackers find this idea congenial
-for tolerably obvious reasons. meme plague: n. The spread of a successful but
-pernicious {meme}, esp. one which `parasitizes' the victims into giving their
-all to propagate it. Astrology, BASIC, and the other guy's religion are often
-considered to be examples. This usage is given point by the historical fact
-that `joiner' ideologies like Naziism or various forms of millennarian
-Christianity have exhibited plague-like cycles of exponential growth followed
-by collapse to small reservoir populations. memetics: /m@-met'iks/ [from
-{meme}] The study of memes. As of mid-1991, this is still an extremely
-informal and speculative endeavor, though the first steps towards at least
-statistical rigor have been made by H. Keith Henson and others. Memetics is a
-popular topic among hackers, who like to see themselves as the architects of
-the new information ecologies in which memes live and replicate. memory leak:
-[C/UNIX programmers] n. An error in a program's dynamic-store allocation
-logic that causes it to fail to reclaim discarded memory, leading to
-attempted hogging of main store and eventual collapse due to memory
-exhaustion. Also (esp. at CMU) called {core leak}. see {aliasing bug},
-{fandango on core}, {smash the stack}, {precedence lossage}, {overrun screw},
-{leaky heap}. menuitis: /men`yoo-ie'tis/ n. Notional disease suffered by
-software with an obsessively simple-minded menu interface and no escape.
-Hackers find this intensely irritating and much prefer the flexibility of
-command-line or language-style interfaces, especially those customizable via
-macros or a special-purpose language in which one can encode useful hacks.
-see {user-obsequious}, {drool-proof paper}, {WIMP environment}. mess-dos:
-/mes-dos/ [UNIX hackers] n. Derisory term for MS-DOS. Often followed by the
-ritual expurgation "Just Say No!". see MS-DOS. Most hackers (even many MS-DOS
-hackers) loathe MS-DOS for its single-tasking nature, its limits on
-application size, its nasty primitive interface, and its ties to IBMness (see
-{fear and loathing}). Also `mess-loss', `messy-dos', `mess-dog', `mess-dross'
-and various combinations thereof. In Great Britain it is even sometimes
-called `Domestos' after a brand of toilet cleanser. meta: /me't@/ or /may't@/
-or (Commonwealth) /mee't@/ [from analytic philosophy] adj. One level of
-description up. Thus, a meta-syntactic variable is a variable in notation
-used to describe syntax and meta-language is language used to describe
-language. This is difficult to explain out of context, but much hacker humor
-turns on deliberate confusion between meta-levels. see {{Humor, Hacker}}.
-meta bit: n. Bit 8 of an 8-bit character, on in values 128-255. Also called
-{high bit} or {alt bit}. Some terminals and consoles (especially those
-designed for LISP traditions) have a META shift key. Others (including,
-*mirabile dictu*, keyboards on IBM PC-class machines) have an ALT key. see
-also {bucky bits}. mickey: n. The resolution unit of mouse movement. In
-{OS/2} there is a system call `MouGetNumMickeys()'. It has been suggested
-that the `disney' will become a benchmark unit for animation graphics
-performance. micro-: pref. 1. Very small; this is the root of its use, as a
-quantifier prefix meaning `multiply by `10 ^ -6". Neither of these uses is
-peculiar to hackers, but hackers tend to fling them both around rather more
-freely than is countenanced in standard English. It is recorded, for example,
-that one CS professor used to characterize the standard length of his
-lectures as a microcentury --- that is, about 52.6 minutes (see also
-{attoparsec}, {nanoacre}, and especially {nanofortnight}). 2. Personal or
-human-scale --- that is, capable of being maintained or comprehended or
-manipulated by one human being. This sense is generalized from
-`microcomputer', and esp. used in contrast with `macro-' (Greek prefix
-meaning large). 3. Local as opposed to global ({macro-}). Thus a hacker might
-say, for example, that buying a smaller car to reduce pollution only solves a
-microproblem; the macroproblem of getting to work might be better solved by
-using transit, moving to within walking distance, or telecommuting.
-microfloppies: n. 3-1/2 inch floppies, as opposed to 5-1/4 {vanilla} or
-mini-floppies and the now-obsolete 8-inch variety. This term may be headed
-for obsolescence as 5-1/4 inchers pass out of use, only to be revived if
-anybody floats a sub-3-inch floppy standard. see {stiffy}, {minifloppies}.
-microLenat: n. see {bogosity}. microtape: n. Occasionally used to mean a
-DECtape, as opposed to a {macrotape}. A DECtape is a small reel of magnetic
-tape about four inches in diameter and an inch deep. Unlike normal drivers
-for standard magnetic tapes, microtape drivers allow random access to the
-data. In their heyday they were used in pretty much the same ways one would
-now use a floppy disk: as a small, portable way to save and transport files
-and programs. Apparently the term `microtape' was actually the official term
-used within DEC for these tapes until someone consed up the word `DECtape',
-which of course sounded sexier to the {marketroid} types. middle-endian: adj.
-Not {big-endian} or {little-endian}. Used of byte orders like 3-4-1-2
-occasionally found in the packed-decimal formats of minicomputer
-manufacturers who shall remain nameless. millilampson: /mil'i-lamp`sn/ n. A
-unit of talking speed. Most people run about 200 millilampsons. Butler
-Lampson (a CS theorist and systems implementor highly regarded among hackers)
-goes at 1000. A few people speak faster. minifloppies: n. 5-1/4 inch
-{vanilla} floppy disks, as opposed to 3-1/2 or mini-floppies and the
-now-obsolescent 8-inch variety. At one time, this term was a trademark of
-Shugart Associates for their SA-400 minifloppy drive. Nobody paid any
-attention. see {stiffy}, {microfloppies}.
+MEGO tactics. 3. Among non-hackers this term often refers not to behavior
+which causes the eyes to glaze, but the eye-glazing reaction itself, which
+may be triggered by the mere threat of technical detail as effectively as by
+an actual excess of it. meltdown, network: n. see {network meltdown}. meme:
+/meem/ [coined on analogy with `gene' by Richard Dawkins] n. An idea
+considered as a {replicator}, esp. with the connotation that memes parasitize
+people into propagating them much as viruses do. Used esp. in the phrase
+`meme complex' denoting a group of mutually supporting memes which form an
+organized belief system, such as a religion. This dictionary is an
+(epidemiological) vector of the `hacker subculture' meme complex; each entry
+might be considered a meme. However, `meme' is often misused to mean `meme
+complex'. Use of the term connotes acceptance of the idea that in humans (and
+presumably other tool-and language-using sophonts) cultural evolution by
+selection of adaptive ideas has superseded biological evolution by selection
+of hereditary traits. Hackers find this idea congenial for tolerably obvious
+reasons. meme plague: n. The spread of a successful but pernicious {meme},
+esp. one which `parasitizes' the victims into giving their all to propagate
+it. Astrology, BASIC, and the other guy's religion are often considered to be
+examples. This usage is given point by the historical fact that `joiner'
+ideologies like Naziism or various forms of millennarian Christianity have
+exhibited plague-like cycles of exponential growth followed by collapse to
+small reservoir populations. memetics: /m@-met'iks/ [from {meme}] The study
+of memes. As of mid-1991, this is still an extremely informal and speculative
+endeavor, though the first steps towards at least statistical rigor have been
+made by H. Keith Henson and others. Memetics is a popular topic among
+hackers, who like to see themselves as the architects of the new information
+ecologies in which memes live and replicate. memory leak: n. An error in a
+program's dynamic-store allocation logic that causes it to fail to reclaim
+discarded memory, leading to attempted hogging of main store and eventual
+collapse due to memory exhaustion. Also (esp. at CMU) called {core leak}. see
+{aliasing bug}, {fandango on core}, {smash the stack}, {precedence lossage},
+{overrun screw}, {leaky heap}. menuitis: /men`yoo-ie'tis/ n. Notional disease
+suffered by software with an obsessively simple-minded menu interface and no
+escape. Hackers find this intensely irritating and much prefer the
+flexibility of command-line or language-style interfaces, especially those
+customizable via macros or a special-purpose language in which one can encode
+useful hacks. see {user-obsequious}, {drool-proof paper}, {WIMP environment},
+{for the rest of us}. mess-dos: /mes-dos/ [UNIX hackers] n. Derisory term for
+MS-DOS. Often followed by the ritual expurgation "Just Say No!". see MS-DOS.
+Most hackers (even many MS-DOS hackers) loathe MS-DOS for its single-tasking
+nature, its limits on application size, its nasty primitive interface, and
+its ties to IBMness (see {fear and loathing}). Also `mess-loss', `messy-dos',
+`mess-dog', `mess-dross', and various combinations thereof. In Ireland it is
+even sometimes called `Domestos' after a brand of toilet cleanser. meta:
+/me't@/ or /may't@/ or (Commonwealth) /mee't@/ [from analytic philosophy]
+adj. One level of description up. Thus, a meta-syntactic variable is a
+variable in notation used to describe syntax and meta-language is language
+used to describe language. This is difficult to explain briefly, but much
+hacker humor turns on deliberate confusion between meta-levels. see {{Humor,
+Hacker}}. meta bit: n. The top bit of an 8-bit character, on in character
+values 128-255. Also called {high bit}, {alt bit}, or {hobbit}. Some
+terminals and consoles (see {space-cadet keyboard}) have a META shift key.
+Others (including, *mirabile dictu*, keyboards on IBM PC-class machines) have
+an ALT key. see also {bucky bits}.

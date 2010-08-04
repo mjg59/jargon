@@ -16,42 +16,43 @@ carelessly deriving subclasses from other classes just for the sake of
 reusing their code. Coined in a (successful) attempt to discourage such
 practice, through guilt by association with {spaghetti code}. spam: [from the
 {MUD} community] vt. To crash a program by overrunning a fixed-size buffer
-with excessively large input data. see also {overrun screw}, {smash the
-stack}. special-case: vt. To write unique code to handle input or command to
-a program that is somehow distinguished from normal processing. This would be
-used for processing of mode switches or interrupt characters in an
-interactive interface (as opposed, say, to text entry or normal commands); or
-for processing of {hidden flag}s in the input of a batch program or {filter}.
-spell: n. Syn. {incantation}. spiffy: /spi'fee/ adj. 1. Said of programs
-having a pretty, clever, or exceptionally well-designed interface. "Have you
-seen the spiffy X version of {empire} yet?" 2. Said sarcastically of programs
-which are perceived to have little more than a flashy interface going for
-them. Which meaning should be drawn depends delicately on tone of voice and
-context. This word was common mainstream slang during the 1940s, in a sense
-close to #1. spin: vi. Equivalent to {buzz}. More common among C and UNIX
-programmers. spin-lock: [Cambridge] n. A {busy-wait}. Preferred in Britain.
-spl: /ess-pee-ell/ [abbrev, from Set Priority Level] The way traditional UNIX
-kernels implement mutual exclusion by running code at high interrupt levels.
-Used in slang to describe the act of tuning in or tuning out ordinary
-communication. Classically, spl levels run from 1 to 7; "Fred's at spl 6
-today" would mean he's very hard to interrupt. "Wait till I finish this, I'll
-spl down then." see also {interrupts locked out}. splat: n. 1. Name used in
-many places (DEC, IBM, and others) for the ASCII asterisk (`*') character.
-This may derive from the `squashed-bug' appearance of the asterisk on many
-early line printers. 2. [MIT] Name used by some people for the ASCII
-number-sign (`#') character. 3. [Stanford] Name used by some people for the
-Stanford/ITS extended ASCII circle-x character. (This character is also
-called `circle-x', `blobby', and `frob', among other names; it is used by
-mathematicians as a notation for `cross-product') 4. [Stanford] Name for the
-semi-mythical extended ASCII circle-plus character. 5. Canonical name for an
-output routine that outputs whatever the local interpretation of splat is. 6.
-[Rochester Institute of Technology] The command key on a Macintosh. Usage:
-nobody really agrees what character `splat' is, but the term is common. see
-also {{ASCII}} spooge: /spooj/ 1. n. Inexplicable or arcane code, or random
-and probably incorrect output from a computer program. 2. vi. To generate
-code or output as in definition 1. spool: [from early IBM `Simultaneous
-Peripheral Operation Off-Line', but this acronym is widely thought to have
-been contrived for effect] vt. To send files to some device or program (a
+with excessively large input data. see also {buffer overflow}, {overrun
+screw}, {smash the stack}. special-case: vt. To write unique code to handle
+input or command to a program that is somehow distinguished from normal
+processing. This would be used for processing of mode switches or interrupt
+characters in an interactive interface (as opposed, say, to text entry or
+normal commands); or for processing of {hidden flag}s in the input of a batch
+program or {filter}. spell: n. Syn. {incantation}. spiffy: /spi'fee/ adj. 1.
+Said of programs having a pretty, clever, or exceptionally well-designed
+interface. "Have you seen the spiffy {X} version of {empire} yet?" 2. Said
+sarcastically of programs that are perceived to have little more than a
+flashy interface going for them. Which meaning should be drawn depends
+delicately on tone of voice and context. This word was common mainstream
+slang during the 1940s, in a sense close to #1. spin: vi. Equivalent to
+{buzz}. More common among C and UNIX programmers. spin-lock: [Cambridge] n. A
+{busy-wait}. Preferred in Britain. spl: /ess-pee-ell/ [abbrev, from Set
+Priority Level] The way traditional UNIX kernels implement mutual exclusion
+by running code at high interrupt levels. Used in jargon to describe the act
+of tuning in or tuning out ordinary communication. Classically, spl levels
+run from 1 to 7; "Fred's at spl 6 today" would mean he's very hard to
+interrupt. "Wait till I finish this, I'll spl down then." see also
+{interrupts locked out}. splat: n. 1. Name used in many places (DEC, IBM, and
+others) for the asterisk (`*') character (ASCII #b0101010). This may derive
+from the `squashed-bug' appearance of the asterisk on many early line
+printers. 2. [MIT] Name used by some people for the number-sign (`#')
+character (ASCII #b0100011). 3. [Rochester Institute of Technology] The
+command key on a Mac (same as {ALT}, sense #2). 4. [Stanford] Name used by
+some people for the Stanford/ITS extended ASCII circle-x character. This
+character is also called `blobby', and `frob', among other names; it is used
+by mathematicians as a notation for `cross-product'. 5. [Stanford] Name for
+the semi-mythical extended ASCII circle-plus character. 6. Canonical name for
+an output routine that outputs whatever the local interpretation of `splat'
+is. With ITS and WAITS gone senses 4-6 are now historical. see also
+{{ASCII}}. spooge: /spooj/ 1. n. Inexplicable or arcane code, or random and
+probably incorrect output from a computer program. 2. vi. To generate code or
+output as in definition 1. spool: [from early IBM `Simultaneous Peripheral
+Operation Off-Line', but this acronym is widely thought to have been
+contrived for effect] vt. To send files to some device or program (a
 `spooler') that queues them up and does something useful with them later. The
 spooler usually understood is the `print spooler' controlling output of jobs
 to a printer, but the term has been used in connection with other peripherals
@@ -67,23 +68,23 @@ than could be remembered, and so the least recent items were lost). The usual
 physical example of a stack is to be found in a cafeteria: a pile of plates
 sitting on a spring in a well in a cart, so that when you put a plate on the
 top they all sink down, and when you take one off the top the rest spring up
-a bit. see also {PUSH} and {POP}. At MIT, all the {stack} usages used to be
+a bit. see also {push} and {pop}. At MIT, all the {stack} usages used to be
 more commonly found with {pdl}, and this may still be true. Everywhere else
 {stack} seems to be the preferred term. {Knuth} writes (in `The Art of
-Computer Programming' 1st edition, vol 1, page 236 in section 2.2.1): Many
+Computer Programming' 2nd edition, vol 1, page 236 in section 2.2.1): Many
 people who realized the important of stacks and queues independently have
 given other names to these structures: stacks have been called push-down
 lists, reversion storages, cellars, nesting stores, piles, last-in-first-out
-("LIFO") lists, and even yo-yo lists! stack puke: n. Some micros are said to
-`puke their guts onto the stack' to save their internal state during
+("LIFO") lists, and even yo-yo lists! stack puke: n. Some computers are said
+to `puke their guts onto the stack' to save their internal state during
 exception processing. On a pipelined machine this can take a while (up to 92
 bytes for a bus fault on the 68020, for example). stale pointer bug: n.
-Synonym for {aliasing bug} used esp. among microcomputer hackers. state: 1.
-n. Condition, situation. "What's the state of your latest hack?" "It's
-winning away." "The system tried to read and write the disk simultaneously
-and got into a totally wedged state." A standard question is "What's your
-state?" which means "What are you doing?" or "What are you about to do?"
-Typical answers might be "I'm about to gronk out", or "I'm hungry". Another
+Synonym for {aliasing bug} used esp. among microcomputer hackers. state: n.
+1. Condition, situation. "What's the state of your latest hack?" "It's
+winning away.". Or "The system tried to read and write the disk
+simultaneously and got into a totally wedged state." A standard question is
+"What's your state?" which means "What are you doing?" or "What are you about
+to do?" Typical answers might be "About to gronk out", or "Hungry". Another
 standard question is "What's the state of the world?" meaning "What's new?"
 or "What's going on?". The more terse and humorous way of asking these
 conventions would be "State-p?". 2. Information being maintained in
@@ -111,194 +112,197 @@ recent system stoppage was caused by a {fried} transformer." stubroutine:
 /stuhb'roo-teen/ [contr. of `stub routine'] n. Tiny, often vacuous
 placeholder for a subroutine to be written or fleshed out later. studlycaps:
 /stuhd'lee-kaps/ n. A hackish form of silliness similar to
-{BiCapitalization}, but applied to random text rather than trademarks. ThE
-oRigiN and SigNificaNce of thIs pRacTicE iS oBscuRe. stunning: adj.
-Mind-bogglingly stupid. Usually used in sarcasm. "You want to code *what* in
-ADA? That's...a stunning idea!" see also {non-optimal solution}. subshell:
-[UNIX, MS-DOS] n. An OS command interpreter (see {shell}) spawned from within
-a program, such that exit from the command interpreter returns one to the
-parent program in a state that allows it to continue execution. Oppose
-{chain}. sucking mud: [Applied Digital Research] adj. (also `pumping mud')
-Crashed or wedged. Usually said of a machine that provides some service to a
-network, such as a file server. This Dallas regionalism derives from the East
-Texas oil field lament, "Shut 'er down, Ma, she's a-suckin' mud." Often used
-as a query. "We are going to reconfigure the network, are you ready to suck
-mud?" suit: n. 1. Ugly and uncomfortable `business clothing' often worn by
-non-hackers. Invariably worn with a `tie', a strangulation device which
-partially cuts off the blood supply to the brain. It is thought that this
-explains much about the behavior of suit-wearers. 2. A person who habitually
-wears suits, as distinct from a techie or hacker. see {loser}, {burble} and
-{brain-damaged}. English, BTW, is relatively kind; our Soviet correspondent
-informs us that the corresponding idiom in Russian hacker jargon is `sovok',
-lit. a tool for grabbing garbage. suitable win: n. see {win}. sun-stools: n.
-Unflattering hackerism for SunTools, a pre-X windowing environment notorious
-in its day for size, slowness, and misfeatures ({X}, however, is larger and
-slower; see {second-system effect}). sunspots: n. Notional cause of an odd
-error. "Why did the program suddenly turn the screen blue?" "Sunspots, I
-guess". Also the cause of {bit rot}, from the genuine, honest-to-god fact
-that sunspots will increase cosmic radiation which can flip single bits in
-memory. Needless to say, although real sunspot errors happen, they are
-extremely rare. see {cosmic rays}, {phase of the moon}. superprogrammer: n. A
-prolific programmer; one who can code exceedingly well and quickly. Not all
-hackers are superprogrammers, but many are. (Productivity can vary from one
-programmer to another by factors of as much as 1000. For example, programmer
-A might be able to write an average of 3 lines of working code in one day,
-while another, with the proper tools and skill, might be able to write 3,000
-lines of working code in one day. This variance is astonishing, appearing in
-very few other areas of human endeavor.) The term superprogrammer is more
-commonly used within such places as IBM than in the hacker community. It
-tends to stress productivity rather than creativity or ingenuity. Hackers
-tend to prefer the terms {hacker} and {wizard}. support: n. After-sale
-handholding; something many software vendors promise, but few deliver. To
-hackers, most support people are useless --- because by the time a hacker
-calls support he/she will usually know the relevant manuals better than the
-support people (sadly, this is *not* a joke or exaggeration). A hacker's idea
-of `support' is a one-on-one with the software's designer. Suzie COBOL:
-/soo'zee koh'bol/ 1. [IBM, prob. from Frank Zappa's "Suzy Creamcheese"] n. A
-coder straight out of training school who knows everything except the
-benefits of comments in plain English. Also (fashionable among personkind
-wishing to avoid accusations of sexism) `Sammy Cobol' or (in some non-IBM
-circles) `Cobol Charlie'. 2. [proposed] Meta-name for any {code grinder},
-analogous to {J. Random Hacker}. swab: /swob/ [From the mnemonic for the
-PDP-11 `byte swap' instruction, as immortalized in the dd(1) option
-`conv=swab' (see {dd})] 1. vt. to solve the {NUXI problem} by swapping bytes
-in a file. 2. The program in V7 UNIX used to perform this action, or anything
-functionally equivalent to it. see also {big-endian}, {little-endian},
-{bytesexual}. swap: [from mainstream verb meaning to exchange; to trade
-places] vt. To move information from a fast-access memory to a slow-access
-memory (`swap out'), or vice versa (`swap in'). This is a technical term in
-computer science, and often specifically refers to the use of disks as
-`virtual memory'. As pieces of data or program are needed, they are swapped
-into main memory for processing; when they are no longer needed for the nonce
-they are swapped out again. The slang use of these terms is as a fairly exact
-analogy referring to people's memories. Cramming for an exam might be spoken
-of as swapping in. If you temporarily forget someone's name, but then
-remember it, your excuse is that it was swapped out. To "keep something
-swapped in" means to keep it fresh in your memory: "I reread the TECO manual
-every few months to keep it swapped in." If someone interrupts you just got a
-good idea, you might say, "Wait a moment while I write this down so I can
-swap it out", implying that if you don't write it down it will get swapped
-out (forgotten) as you talk. Compare {page in}, {page out}. swap space: n.
-Storage space, especially temporary storage space used during a move or
-reconfiguration. "I'm just using that corner of the machine room for swap
-space". swapped: adj. From the older (per-task) method of using secondary
-storage devices to implement support for multitasking. Something which is
-`swapped in' is available for immediate use in main memory, and otherwise is
-`swapped out'. Often used metaphorically to refer to people's memories ("I
-read the Scheme Report every few months to keep the information swapped in.")
-or to their own availability ("I'll swap you in as soon as I finish looking
-at this other problem."). Compare {page in}, {page out}. swizzle: v. To
-convert external names or references within a data structure into direct
-pointers when the data structure is brought into main memory from external
-storage; also called `pointer swizzling'; the converse operation is sometimes
-termed `unswizzling'. sync: /sink/ [UNIX] n.,vi. 1. To force all pending I/O
-to the disk. 2. More generally, to force a number of competing processes or
-agents to a state that would be `safe' if the system were to crash; thus, to
-checkpoint. see {flush}, sense #2. syntactic sugar: [coined by Peter Landin]
-n. Features added to a language or formalism to make it `sweeter' for humans,
-that do not affect the expressiveness of the formalism (compare {chrome}).
-Used esp. when there is an obvious and trivial translation of the `sugar'
-feature into other constructs already present in the notation. Example: C's
-`a[i]' notation is syntactic sugar for `*(a + i)'. "Syntactic sugar causes
-cancer of the semicolon." --- Alan Perlis. sys-frog: /sis'frog/ [the PLATO
-system] n. Playful hackish variant of `sysprog' which is in turn short for
-`systems-programmer'. sysop: /sis'op/ n. [BBS] The operator (and usually
-owner) of a bulletin-board system. A common neophyte mistake on {FidoNet} is
-to address a message to `sysop' in an international {echo}, thus sending it
-to hundreds of sysops world-wide. system: n. 1. The supervisor program or OS
-on a computer. 2. The entire computer system, including input/output devices,
-the supervisor program or OS, and possibly other software. 3. Any large-scale
-program. 4. Any method or algorithm. 5. The way things are usually done.
-Usage: a fairly ambiguous word. "You can't beat the system." 6. `System
-hacker': one who hacks the system (in sense #1 only; for sense #3 one
-mentions the particular program: e.g., `LISP hacker') system mangler: n.
-Humorous synonym for `system programmer'; compare {sys-frog}. Refers
-specifically to a systems programmer in charge of administration, software
-maintainance, and updates at some site. Unlike {admin}, this term emphasizes
-the technical end of the skills involved. = T = ===== T: /tee/ 1. [from LISP
-terminology for `true'] Yes. Usage: used in reply to a question, particularly
-one asked using the `-P' convention). see {NIL}. In LISP, the name T means
-"true", among other things. Some hackers use `T' and `NIL' instead of `Yes'
-and `No' almost reflexively. This sometimes causes misunderstandings. When a
-waiter or flight attendant asks whether a hacker wants coffee, he may well
-respond "T", meaning that he wants coffee; but of course he will be brought a
-cup of tea instead. As it happens, most hackers like tea at least as well as
-coffee, particularly those who frequent Chinese restaurants, so it's not that
-big a problem. 2. see {time t}. 3. In transaction-processing circles, an
-abbreviation for the noun `transaction'. 4. [Purdue] Alternate spelling of
-{tee}. tail recursion: n. If you haven't already, see {tail recursion}. talk
-mode: n. The state a terminal is in when linked to another via a
-bidirectional character pipe, to support on-line dialogue between two or more
-users. Talk mode has a special set of jargon words, used to save typing,
-which are not used orally. Some of these are identical to (and probably
-derived from) Morse-code jargon used by ham-radio amateurs going back to the
-1920s. BCNU Be seeing you. BTW By the way... Lower-case also works. BYE? Are
-you ready to unlink? (This is the standard way to end a talk mode
-conversation; the other person types BYE to confirm, or else continues the
-conversation.) CUL see you later. ENQ? Are you busy? Expects ACK or NAK in
-return. FOO? A greeting, also meaning R U THERE? Often used in the case of
-unexpected links, meaning also "Sorry if I butted in..." (linker) or "What's
-up?" (linkee). FYI For your information... FYA For your amusement... GA Go
-ahead (used when two people have tried to type simultaneously; this cedes the
-right to type to the other). HELLOP A greeting, also meaning R U THERE? (An
-instance of the "-P" convention.) JAM Just a minute... Equivalent to SEC...
-NIL No (see {NIL}). O Over to you (lower-case works too). OO Over and out
-(lower-case works too). / Another form of "Over to you" (from x/y as "x over
-y") OBTW Oh, by the way... R U THERE? Are you there? SEC Wait a second
-(sometimes written SEC...). T Yes (see the main entry for {T}). TNX Thanks.
-TNX 1.0E6 Thanks a million (humorous). WRT With Regard To or With Respect To.
-WTF The universal interrogative particle. WTF knows what it means? WTH What
-the hell? <double CRLF> When the typing party has finished, he types two
-CRLFs to signal that he is done; this leaves a blank line between individual
-"speeches" in the conversation, making it easier to re-read the preceding
-text. <name>: When three or more terminals are linked, each speech is
-preceded by the typist's login name and a colon (or a hyphen) to indicate who
-is typing. The login name often is shortened to a unique prefix (possibly a
-single letter) during a very long conversation. /\/\/\ A giggle or chuckle
-(rare). On a MUD, this usually means `earthquake fault'. Most of the above
-sub-jargon is used at both Stanford and MIT. Several of these are also common
-in {email}, esp. FYI, FYA, BTW, BCNU, and CUL. A few other abbreviations have
-been reported from commercial networks such as GEnie and CompuServe where
-on-line `live' chat including more than two people is common and usually
-involves a more `social' context, notably <g> grin BBL be back later BRB be
-right back HHOJ ha ha only joking HHOS {ha ha only serious} LOL laughing out
-loud ROTF rolling on the floor ROTFL rolling on the floor laughing AFK away
-from keyboard b4 before CU l8tr see you later MORF Male or Female? TTFN ta-ta
-for now OIC Oh, I see rehi hello again These are not used at universities or
-in the UNIX world; conversely, most of the people who know these are
-unfamiliar with FOO?, BCNU, HELLOP, {NIL}, and {T}. The {MUD} community uses
-a mixture of USENET/Internet emoticons, a few of the more natural of the
-old-style talk mode abbrevs, and some of the `social' list above;
-specifically, MUD respondents report use of BBL, BRB, LOL, b4, BTW, WTF, and
-WTH. The use of rehi is also common; in fact, mudders are fond of re-
-compounds and will frequently `rehug' or `rebonk' (see {bonk/oif}) people.
-The verb `re' by itself is verbed as `re-greet' In general, though, mudders
-express a preference for typing things out in full rather than using
-abbreviations; this may be due to the relative youth of the MUD cultures,
-which tend to include many touch typists and assume high-speed links. The
-following uses specific to MUDs are reported: UOK? Are you OK? THX Thanks
-(mutant of TNX) CU l8er see you later (mutant of CU l8tr) OTT over the top
-(excessive, uncalled for) Some {BIFF}isms (notably the variant spelling
-`d00d') appear to be passing into wider use among some subgroups of mudders.
-see also {hakspek}, {emoticon}, {bonk/oif}. tall card: n. A PC/AT-sized
-expansion card (these can be larger than IBM-PC or XT cards because the AT
-case is bigger). see also {short card}. tanked: adj. Same as {down}, used
-primarily by UNIX hackers. see also {hosed}. Popularized as a synonym for
-`drunk' by Steve Dallas in the late lamented `Bloom County' comics. tar and
-feather: [from UNIX `tar(1)'] vt. To create a transportable archive from a
-group of files by first sticking them together with the Tape ARchiver
-`tar(1)' and then compressing the result (see {compress}). The latter is
-dubbed `feathering' by analogy to what you do with an airplane propeller to
-decrease wind resistance; smaller files, after all, slip through comm links
-more easily. taste: [primarily MIT-DMS] n. 1. The quality in programs which
-tends to be inversely proportional to the number of features, hacks, and
-kluges programmed into it. Also, `tasty', `tasteful', `tastefulness'. "This
-feature comes in N tasty flavors." Although `tasteful' and `flavorful' are
-essentially synonyms, `taste' and {flavor} are not. Taste refers to sound
-judgement on the part of the creator; a program or feature can *exhibit*
-taste but cannot `have' taste. On the other hand, a feature can have
-{flavor}. Also, {flavor} has the additional meaning of `kind' or `variety'
-not shared by `taste'. {flavor} is a more popular word among hackers than
-`taste', though both are used. 2. Alt. sp. of {tayste}. tayste: n. Also as
-{taste}; two bits. Syn. {crumb}, {quarter}. Compare {{byte}}, {dynner},
-{playte}, {nybble}.
+{BiCapitalization}, but applied randomly and to random text rather than to
+trademarks. ThE oRigiN and SigNificaNce of thIs pRacTicE iS oBscuRe.
+stunning: adj. Mind-bogglingly stupid. Usually used in sarcasm. "You want to
+code *what* in ADA? That's...a stunning idea!" see also {non-optimal
+solution}. subshell: [UNIX, MS-DOS] n. An OS command interpreter (see
+{shell}) spawned from within a program, such that exit from the command
+interpreter returns one to the parent program in a state that allows it to
+continue execution. Oppose {chain}. sucking mud: [Applied Digital Research]
+adj. (also `pumping mud') Crashed or wedged. Usually said of a machine that
+provides some service to a network, such as a file server. This Dallas
+regionalism derives from the East Texas oil field lament, "Shut 'er down, Ma,
+she's a-suckin' mud." Often used as a query. "We are going to reconfigure the
+network, are you ready to suck mud?" suit: n. 1. Ugly and uncomfortable
+`business clothing' often worn by non-hackers. Invariably worn with a `tie',
+a strangulation device which partially cuts off the blood supply to the
+brain. It is thought that this explains much about the behavior of
+suit-wearers. 2. A person who habitually wears suits, as distinct from a
+techie or hacker. see {loser}, {burble} and {brain-damaged}. English, BTW, is
+relatively kind; our Soviet correspondent informs us that the corresponding
+idiom in Russian hacker jargon is `sovok', lit. a tool for grabbing garbage.
+suitable win: n. see {win}. sun-stools: n. Unflattering hackerism for
+SunTools, a pre-X windowing environment notorious in its day for size,
+slowness, and misfeatures ({X}, however, is larger and slower; see
+{second-system effect}). sunspots: n. 1. Notional cause of an odd error. "Why
+did the program suddenly turn the screen blue?" "Sunspots, I guess". 2. Also
+the cause of {bit rot}, from the myth that sunspots will increase {cosmic
+rays} that can flip single bits in memory. see {cosmic rays}, {phase of the
+moon}. superprogrammer: n. A prolific programmer; one who can code
+exceedingly well and quickly. Not all hackers are superprogrammers, but many
+are. (Productivity can vary from one programmer to another by factors of as
+much as 1000. For example, one programmer might be able to write an average
+of 3 lines of working code in one day, while another, with the proper tools
+and skill, might be able to write 3,000 lines of working code in one day.
+This variance is astonishing, matched in very few other areas of human
+endeavor.) The term superprogrammer is more commonly used within such places
+as IBM than in the hacker community. It tends to stress naive measures of
+productivity and underweight creativity or ingenuity. Hackers tend to prefer
+the terms {hacker} and {wizard}. support: n. After-sale handholding;
+something many software vendors promise, but few deliver. To hackers, most
+support people are useless --- because by the time a hacker calls support
+he/she will usually know the relevant manuals better than the support people
+(sadly, this is *not* a joke or exaggeration). A hacker's idea of `support'
+is a one-on-one with the software's designer. Suzie COBOL: /soo'zee koh'bol/
+1. [IBM, prob. from Frank Zappa's `Suzy Creamcheese'] n. A coder straight out
+of training school who knows everything except the benefits of comments in
+plain English. Also (fashionable among personkind wishing to avoid
+accusations of sexism) `Sammy Cobol' or (in some non-IBM circles) `Cobol
+Charlie'. 2. [proposed] Meta-name for any {code grinder}, analogous to {J.
+Random Hacker}. swab: /swob/ [From the mnemonic for the PDP-11 `byte swap'
+instruction, as immortalized in the dd(1) option `conv=swab' (see {dd})] 1.
+vt. To solve the {NUXI problem} by swapping bytes in a file. 2. n. The
+program in V7 UNIX used to perform this action, or anything functionally
+equivalent to it. see also {big-endian}, {little-endian}, {middle-endian},
+{bytesexual}. swap: [from mainstream verb meaning to exchange] vt. To move
+information from a fast-access memory to a slow-access memory (`swap out'),
+or vice versa (`swap in'). This is a technical term in computer science, and
+often specifically refers to the use of disks as `virtual memory'. As pieces
+of data or program are needed, they are swapped into main memory for
+processing; when they are no longer needed for the nonce they are swapped out
+again. The jargon use of these terms is as a fairly exact analogy referring
+to people's memories. Cramming for an exam might be spoken of as swapping in.
+If you temporarily forget someone's name, but then remember it, your excuse
+is that it was swapped out. To `keep something swapped in' means to keep it
+fresh in your memory: "I reread the TECO manual every few months to keep it
+swapped in." If someone interrupts you just got a good idea, you might say,
+"Wait a moment while I write this down so I can swap it out", implying that
+the piece of paper is your secondary memory and if you don't swap the info
+out by writing it down, it will get overwritten and lost as you talk. Compare
+{page in}, {page out}. swap space: n. Storage space, especially temporary
+storage space used during a move or reconfiguration. "I'm just using that
+corner of the machine room for swap space". swapped: adj. From the older
+(per-task) method of using secondary storage devices to implement support for
+multitasking. Something which is `swapped in' is available for immediate use
+in main memory, and otherwise is `swapped out'. Often used metaphorically to
+refer to people's memories ("I read the Scheme Report every few months to
+keep the information swapped in.") or to their own availability ("I'll swap
+you in as soon as I finish looking at this other problem."). Compare {page
+in}, {page out}. swizzle: v. To convert external names or references within a
+data structure into direct pointers when the data structure is brought into
+main memory from external storage; also called `pointer swizzling'; the
+converse operation is sometimes termed `unswizzling'. sync: /sink/ [UNIX]
+(var. `synch') n.,vi. 1. [techspeak] To force all pending I/O to the disk. 2.
+More generally, to force a number of competing processes or agents to a state
+that would be `safe' if the system were to crash; thus, to checkpoint. see
+{flush}, sense #2. syntactic sugar: [coined by Peter Landin] n. Features
+added to a language or formalism to make it `sweeter' for humans, that do not
+affect the expressiveness of the formalism (compare {chrome}). Used esp. when
+there is an obvious and trivial translation of the `sugar' feature into other
+constructs already present in the notation. Example: C's `a[i]' notation is
+syntactic sugar for `*(a + i)'. "Syntactic sugar causes cancer of the
+semicolon." --- Alan Perlis. sys-frog: /sis'frog/ [the PLATO system] n.
+Playful hackish variant of `sysprog', which is in turn short for `systems
+programmer'. sysop: /sis'op/ n. [BBS] The operator (and usually owner) of a
+bulletin-board system. A common neophyte mistake on {FidoNet} is to address a
+message to `sysop' in an international {echo}, thus sending it to hundreds of
+sysops world-wide. system: n. 1. The supervisor program or OS on a computer.
+2. The entire computer system, including input/output devices, the supervisor
+program or OS, and possibly other software. 3. Any large-scale program. 4.
+Any method or algorithm. 5. The way things are usually done. Usage: a fairly
+ambiguous word. "You can't beat the system." 6. `System hacker': one who
+hacks the system (in sense #1 only; for sense #3 one mentions the particular
+program: e.g., `LISP hacker') system mangler: n. Humorous synonym for `system
+programmer'; compare {sys-frog}. Refers specifically to a systems programmer
+in charge of administration, software maintainance, and updates at some site.
+Unlike {admin}, this term emphasizes the technical end of the skills
+involved. = T = ===== T: /tee/ 1. [from LISP terminology for `true'] Yes.
+Usage: used in reply to a question (particularly one asked using the `-P'
+convention). In LISP, the name T means `true', among other things. Some
+hackers use `T' and `NIL' instead of `Yes' and `No' almost reflexively. This
+sometimes causes misunderstandings. When a waiter or flight attendant asks
+whether a hacker wants coffee, he may well respond "T", meaning that he wants
+coffee; but of course he will be brought a cup of tea instead. As it happens,
+most hackers like tea at least as well as coffee, particularly those who
+frequent Chinese restaurants, so it's not that big a problem. 2. see {time
+T}. 3. In transaction-processing circles, an abbreviation for the noun
+`transaction'. 4. [Purdue] Alternate spelling of {tee}. tail recursion: n. If
+you haven't already, see {tail recursion}. talk mode: n. The state a terminal
+is in when linked to another via a bidirectional character pipe, to support
+on-line dialogue between two or more users. Talk mode has a special set of
+jargon words, used to save typing, which are not used orally. Some of these
+are identical to (and probably derived from) Morse-code jargon used by
+ham-radio amateurs going back to the 1920s. BCNU Be seeing you. BTW By the
+way... Lower-case also works. BYE? Are you ready to unlink? (This is the
+standard way to end a talk mode conversation; the other person types BYE to
+confirm, or else continues the conversation.) CUL see you later. ENQ? Are you
+busy? Expects ACK or NAK in return. FOO? A greeting, also meaning R U THERE?
+Often used in the case of unexpected links, meaning also "Sorry if I butted
+in..." (linker) or "What's up?" (linkee). FYI For your information... FYA For
+your amusement... GA Go ahead (used when two people have tried to type
+simultaneously; this cedes the right to type to the other). GRMBL grumble ---
+expresses disquiet or disagreement. HELLOP A greeting, also meaning R U
+THERE? (An instance of the "-P" convention.) JAM Just a minute... Equivalent
+to SEC... NIL No (see {NIL}). O Over to you (lower-case works too). OO Over
+and out (lower-case works too). / Another form of "Over to you" (from x/y as
+"x over y") OBTW Oh, by the way... R U THERE? Are you there? SEC Wait a
+second (sometimes written SEC...). T Yes (see the main entry for {T}). TNX
+Thanks. TNX 1.0E6 Thanks a million (humorous). WRT With Regard To or With
+Respect To. WTF The universal interrogative particle. WTF knows what it
+means? WTH What the hell? <double CRLF> When the typing party has finished,
+he types two CRLFs to signal that he is done; this leaves a blank line
+between individual "speeches" in the conversation, making it easier to
+re-read the preceding text. <name>: When three or more terminals are linked,
+each speech is preceded by the typist's login name and a colon (or a hyphen)
+to indicate who is typing. The login name often is shortened to a unique
+prefix (possibly a single letter) during a very long conversation. /\/\/\ A
+giggle or chuckle (rare). On a MUD, this usually means `earthquake fault'.
+Most of the above sub-jargon is used at both Stanford and MIT. Several of
+these are also common in {email}, esp. FYI, FYA, BTW, BCNU, and CUL. A few
+other abbreviations have been reported from commercial networks such as GEnie
+and CompuServe where on-line `live' chat including more than two people is
+common and usually involves a more `social' context, notably <g> grin BBL be
+back later BRB be right back HHOJ ha ha only joking HHOS {ha ha only serious}
+IMHO in my humble opinion (see {IMHO}) LOL laughing out loud ROTF rolling on
+the floor ROTFL rolling on the floor laughing AFK away from keyboard b4
+before CU l8tr see you later MORF Male or Female? TTFN ta-ta for now OIC Oh,
+I see rehi hello again These are not used at universities or in the UNIX
+world; conversely, most of the people who know these are unfamiliar with
+FOO?, BCNU, HELLOP, {NIL}, and {T}. The {MUD} community uses a mixture of
+USENET/Internet emoticons, a few of the more natural of the old-style talk
+mode abbrevs, and some of the `social' list above; specifically, MUD
+respondents report use of BBL, BRB, LOL, b4, BTW, WTF, and WTH. The use of
+rehi is also common; in fact, mudders are fond of re- compounds and will
+frequently `rehug' or `rebonk' (see {bonk/oif}) people. The word `re' by
+itself is verbed as `re-greet' In general, though, MUDders express a
+preference for typing things out in full rather than using abbreviations;
+this may be due to the relative youth of the MUD cultures, which tend to
+include many touch typists and assume high-speed links. The following uses
+specific to MUDs are reported: UOK? Are you OK? THX Thanks (mutant of TNX) CU
+l8er see you later (mutant of CU l8tr) OTT over the top (excessive, uncalled
+for) Some {BIFF}isms (notably the variant spelling `d00d') appear to be
+passing into wider use among some subgroups of mudders. see also {hakspek},
+{emoticon}, {bonk/oif}. talker system: n. British hackerism for software that
+enables real-time chat or {talk mode}. tall card: n. A PC/AT-sized expansion
+card (these can be larger than IBM-PC or XT cards because the AT case is
+bigger). see also {short card}. tanked: adj. Same as {down}, used primarily
+by UNIX hackers. see also {hosed}. Popularized as a synonym for `drunk' by
+Steve Dallas in the late lamented `Bloom County' comics. tar and feather:
+[from UNIX `tar(1)'] vt. To create a transportable archive from a group of
+files by first sticking them together with the Tape ARchiver `tar(1)' and
+then compressing the result (see {compress}). The latter is dubbed
+`feathering' by analogy to what you do with an airplane propeller to decrease
+wind resistance, or with an oar to reduce water resistance; smaller files,
+after all, slip through comm links more easily. taste: [primarily MIT-DMS] n.
+1. The quality in programs which tends to be inversely proportional to the
+number of features, hacks, and kluges programmed into it. Also, `tasty',
+`tasteful', `tastefulness'. "This feature comes in N tasty flavors." Although
+`tasteful' and `flavorful' are essentially synonyms, `taste' and {flavor} are
+not. Taste refers to sound judgement on the part of the creator; a program or
+feature can *exhibit* taste but cannot `have' taste. On the other hand, a
+feature can have {flavor}. Also, {flavor} has the additional meaning of
+`kind' or `variety' not shared by `taste'. {flavor} is a more popular word
+among hackers than `taste', though both are used. 2. Alt. sp. of {tayste}.
+tayste: n. Also as {taste}; two bits. Syn. {crumb}, {quarter}. Compare
+{{byte}}, {dynner}, {playte}, {nybble}, {quad}.

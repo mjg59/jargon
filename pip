@@ -5,33 +5,46 @@ still occasionally heard. It is said that when the program was originated
 during the development of the PDP-6 in 1963 it was called ATLATL (`Anything,
 Lord, to Anything, Lord'). pipeline: [UNIX, orig. by Doug McIlroy; now also
 used under MS-DOS and elsewhere] n. A chain of {filter} programs connected
-`head-to-tail', so that the output of one becomes the input of the next.
-Under UNIX, user utilities can often be implemented or at least prototyped by
-a suitable collection of pipelines and temp-file grinding encapsulated in a
-shell script; this is much less effort than writing C every time, and the
-capability is considered one of UNIX's major winning features. pistol: [IBM]
-n. A tool that makes it all too easy for you to shoot yourself in the foot.
-"UNIX `rm *' makes such a nice pistol!" pizza box: [SUN] n. The largish thin
-box housing the electronics in (especially SUN) desktop workstations, so
-named because of its size and shape, and the dimpled pattern that looks like
-air holes. pizza, ANSI standard: /an'see stan'd@rd peet'z@/ [CMU] Pepperoni
-and mushroom pizza. Coined allegedly because most pizzas ordered by CMU
-hackers during some period leading up to mid-1990 were of that flavor. see
-also {rotary debugger}. plain-ASCII: Syn. {flat-ASCII}. plan file: [UNIX] n.
-On systems which support {finger}, the `.plan' file in a user's home
-directory is displayed when he or she is fingered. This feature was
-originally intended to be used to keep potential fingerers apprised of one's
-near-future plans, but has been turned almost universally to humorous and
-self-expressive purposes (like a {sig block}). playpen: [IBM] n. A room where
+`head-to-tail' so that the output of one becomes the input of the next. Under
+UNIX, user utilities can often be implemented or at least prototyped by a
+suitable collection of pipelines and temp-file grinding encapsulated in a
+shell script (this is called {plumbing}); this is much less effort than
+writing C every time, and the capability is considered one of UNIX's major
+winning features. pistol: [IBM] n. A tool that makes it all too easy for you
+to shoot yourself in the foot. "UNIX `rm *' makes such a nice pistol!" pizza
+box: [SUN] n. The largish thin box housing the electronics in (especially
+SUN) desktop workstations, so named because of its size and shape, and the
+dimpled pattern that looks like air holes. pizza, ANSI standard: /an'see
+stan'd@rd peet'z@/ [CMU] Pepperoni and mushroom pizza. Coined allegedly
+because most pizzas ordered by CMU hackers during some period leading up to
+mid-1990 were of that flavor. see also {rotary debugger}; compare {tea, ISO
+standard cup of}. plain-ASCII: Syn. {flat-ASCII}. plan file: [UNIX] n. On
+systems that support {finger}, the `.plan' file in a user's home directory is
+displayed when he or she is fingered. This feature was originally intended to
+be used to keep potential fingerers apprised of one's near-future plans, but
+has been turned almost universally to humorous and self-expressive purposes
+(like a {sig block}). see {Hacking X for Y}. platinum-iridium: adj. Standard,
+against which all others of the same category are measured. Usage: silly. The
+notion is that one of whatever it is has actually been cast in
+platinum-iridium alloy and placed in the vault beside the Standard Kilogram
+at the International Bureau of Weights and Measures near Paris. (From 1889 to
+1960, the meter was defined to be the distance between two scratches in a
+platinum or platinum-iridium bar kept in the same place. Since 1960 it has
+been defined to be 1650763.73 wavelengths of the orange-red line of
+krypton-86 propagating in a vacuum. The kilogram is now the only unit of
+measure officially defined in terms of a unique artefact.) "This
+garbage-collection algorithm has been tested against the platinum-iridium
+cons cell in Paris." Compare {golden}. playpen: [IBM] n. A room where
 programmers work. Compare {salt mines}. playte: /playt/ 16 bits, by analogy
 with {nybble} and {{byte}}. Usage: rare and extremely silly. see also
-{dynner}. plingnet: /pling'net/ n. Syn. {UUCPNET}. Also see {{Commonwealth
-Hackish}}. plonk: [USENET] The sound a {newbie} makes as he falls to the
+{dynner} and {crumb}. plingnet: /pling'net/ n. Syn. {UUCPNET}. Also see
+{{Commonwealth Hackish}}. plonk: [USENET; possibly influenced by British
+slang `plonk' for cheap booze] The sound a {newbie} makes as he falls to the
 bottom of a {kill file}. Almost exclusively used in the {newsgroup}
 `talk.bizarre', this term (usually written "*plonk*") is a form of public
 ridicule. plugh: /ploogh/ [from the {ADVENT} game] v. see {xyzzy}. plumbing:
 [UNIX] n. Term used for {shell} code, so called because of the prevalence of
 `pipeline's that feed the output of one program to the input of another. Esp.
-used in the construction `hairy plumbing' (see {hairy}. "You can kluge
-together a basic spell-checker out of `sort(1)', `comm(1)' and `tr(1)' with a
-little plumbing."
+used in the construction `hairy plumbing' (see {hairy}). "You can kluge
+together a basic spell-checker out of `sort(1)', `comm(1)', and `tr(1)' with
+a little plumbing."

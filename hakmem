@@ -1,19 +1,34 @@
  HAKMEM: /hak'mem/ n. MIT AI Memo 239 (February 1972). A legendary collection
 of neat mathematical and programming hacks contributed by many people at MIT
-and elsewhere. (The title of the memo really is "HAKMEM", which is an acronym
-of sorts for `hacks memo'.) Some of them are very useful techniques or
-powerful theorems, but most fall into the category of mathematical and
-computer trivia. A sampling of the entries (with authors), slightly
-paraphrased: Item 41 (Gene Salamin): There are exactly 23,000 prime numbers
-less than 2 ^ 18. Item 46 (Rich Schroeppel): The most *probable* suit
-distribution in bridge hands is 4-4-3-2, as compared to 4-3-3-3, which is the
-most *evenly* distributed. This is because the world likes to have unequal
-numbers: a thermodynamic effect saying things will not be in the state of
-lowest energy, but in the state of lowest disordered energy. Item 81 (Rich
-Schroeppel): Count the magic squares of order 5 (that is, all the 5-by-5
-arrangements of the numbers from 1 to 25 such that all rows, columns, and
-diagonals add up to the same number). There are about 320 million, not
-counting those that differ only by rotation and reflection. Item 174 (Bill
+and elsewhere. (The title of the memo really is "HAKMEM", which is a
+six-letterism for `hacks memo'.) Some of them are very useful techniques,
+powerful theorems, or interesting unsolved problems, but most fall into the
+category of mathematical and computer trivia. A sampling of the entries (with
+authors), slightly paraphrased: Item 41 (Gene Salamin): There are exactly
+23,000 prime numbers less than 2 ^ 18. Item 46 (Rich Schroeppel): The most
+*probable* suit distribution in bridge hands is 4-4-3-2, as compared to
+4-3-3-3, which is the most *evenly* distributed. This is because the world
+likes to have unequal numbers: a thermodynamic effect saying things will not
+be in the state of lowest energy, but in the state of lowest disordered
+energy. Item 81 (Rich Schroeppel): Count the magic squares of order 5 (that
+is, all the 5-by-5 arrangements of the numbers from 1 to 25 such that all
+rows, columns, and diagonals add up to the same number). There are about 320
+million, not counting those that differ only by rotation and reflection. Item
+154 (Gosper): The myth that any given programming language is machine
+independent is easily exploded by computing the sum of powers of 2. If the
+result loops with period = 1 with sign +, you are on a sign-magnitude
+machine. If the result loops with period = 1 at -1, you are on a
+twos-complement machine. If the result loops with period greater than 1,
+including the beginning, you are on a ones-complement machine. If the result
+loops with period greater than 1, not including the beginning, your machine
+isn't binary---the pattern should tell you the base. If you run out of
+memory, you are on a string or bignum system. If arithmetic overflow is a
+fatal error, some fascist pig with a read-only mind is trying to enforce
+machine independence. But the very ability to trap overflow is machine
+dependent. By this strategy, consider the universe, or, more precisely,
+algebra: Let X = the sum of many powers of two = ...111111 Now add X to
+itself: X + X = ...111110 Thus, 2X = X - 1, so X = -1. Therefore algebra is
+run on a machine (the universe) that is two's-complement. Item 174 (Bill
 Gosper and Stuart Nelson): 21963283741 is the only number such that if you
 represent it on the {PDP-10} as both an integer and a floating-point number,
 the bit patterns of the two representations are identical. Item 176 (Gosper):
@@ -24,86 +39,86 @@ typing it out, and iterating. This ensures that every 4-letter string output
 occurs in the original. The program typed BANANANANANANANA.... We note an
 ambiguity in the phrase, "the Nth occurrence of." In one sense, there are
 five 00's in 0000000000; in another, there are nine. The editing program TECO
-finds five. Thus it finds only the first ANA in BANANA, and is this obligated
+finds five. Thus it finds only the first ANA in BANANA, and is thus obligated
 to type N next. By Murphy's Law, there is but one NAN, thus forcing A, and
 thus a loop. An option to find overlapped instances would be useful, although
 it would require backing up N-1 characters before seeking the next N
 character string. HAKMEM also contains some rather more complicated
 mathematical and technical items, but these examples show some of its fun
 flavor. hakspek: /hak'speek/ n. Generally used term to describe a method of
-spelling to be found on many British academic bulletin boards and talker
-systems. Syllables and whole words in a sentence are replaced by single ASCII
-characters which are phonetically similar or equivalent, whilst multiple
-letters are usually dropped. Hence `for' becomes `4', `two', `too', and `to'
-become `2', `ck' becomes `k'. "Before I see you tomorrow" becomes "b4 i c u
-2moro". First appeared in London about 1986, and was probably caused by the
-slow speed of available talker systems, which operated on archaic machines
-with outdated operating systems, and no standard methods of communication.
-Has become rarer nowadays. see also {talk mode}. hamster: n. A particularly
-slick little piece of code that does one thing well; a small, self-contained
-hack. The image is of a hamster happily spinning its exercise wheel.
-hand-hacking: n. 1. The practice of translating {hot spot}s from an {HLL}
-into custom hand-optimized assembler, as opposed to trying to coerce the
+spelling to be found on many British academic bulletin boards and {talker
+system}s. Syllables and whole words in a sentence are replaced by single
+ASCII characters the names of which are phonetically similar or equivalent,
+whilst multiple letters are usually dropped. Hence, `for' becomes `4'; `two',
+`too', and `to' become `2'; `ck' becomes `k'. "Before I see you tomorrow"
+becomes "b4 i c u 2moro". First appeared in London about 1986, and was
+probably caused by the slow speed of available talker systems, which operated
+on archaic machines with outdated operating systems, and no standard methods
+of communication. Has become rarer nowadays. see also {talk mode}. hamster:
+n. A particularly slick little piece of code that does one thing well; a
+small, self-contained hack. The image is of a hamster happily spinning its
+exercise wheel. hand-hacking: n. 1. The practice of translating {hot spot}s
+from an {HLL} into hand-tuned assembler, as opposed to trying to coerce the
 compiler into generating better code. Both the term and the practice are
 becoming uncommon. see {tune}, {bum}; syn. with v. {cruft}. 2. More
 generally, manual construction or patching of data sets that would normally
-be ground out by a translation utility and interpreted by another program,
-and aren't really designed to be read or modified by humans. handshaking: n.
-Hardware or software activity designed to keep two machines or programs in
-synchronization as they {do protocol}. Often applied to human activity; thus,
-a hacker might watch two people in conversation nodding their heads to
-indicate that they've heard each others' points and say "Oh, they're
+be generated by a translation utility and interpreted by another program, and
+aren't really designed to be read or modified by humans. handshaking: n.
+Hardware or software activity designed to start or keep two machines or
+programs in synchronization as they {do protocol}. Often applied to human
+activity; thus, a hacker might watch two people in conversation nodding their
+heads to indicate that they've heard each others' points and say "Oh, they're
 handshaking!". see also {protocol}. handwave: [poss. from gestures
 characteristic of stage magicians] 1. v. To gloss over a complex point; to
 distract a listener; to support a (possibly actually valid) point with
 blatantly faulty logic. 2. n. The act of handwaving. "Boy, what a handwave!"
 If someone starts a sentence with "Clearly..." or "Obviously..." or "It is
-self-evident that...", you can be sure he is about to handwave
+self-evident that...", it is a good bet he is about to handwave
 (alternatively, use of these constructions in a sarcastic tone before a
 paraphrase of someone else's argument suggests that it is a handwave). The
 theory behind this term is that if you wave your hands at the right moment,
 the listener may be sufficiently distracted to not notice that what you have
-said is {bogus}. Alternatively, if a listener does object, you might try to
+said is {bogus}. Failing that, if a listener does object, you might try to
 dismiss the objection with a wave of your hand. The use of this word is often
 accompanied by gestures: both hands up, palms forward, swinging the hands in
 a vertical plane pivoting at the elbows and/or shoulders (depending on the
 magnitude of the handwave); alternatively, holding the forearms in one
 position while rotating the hands at the wrist to make them flutter. In
 context, the gestures alone can suffice as a remark; if a speaker makes an
-outrageous unsupported assumption, you might simply wave your hands in this
-way, as an accusation more eloquent than words could express that his logic
-is faulty. hang: v. 1. To wait for some event to occur; to hang around until
-something happens. "The program displays a menu and then hangs until you type
-a character." 2. More commonly, to wait for an event that will never occur.
-"The system is hanging because it can't read from the crashed drive". see
-{wedged}, {hung}. 3. To attach a peripheral device, esp. in the construction
-`hang off'. "We're going to hang another tape drive off the file server".
-Implies a device attached with cables, rather than something that's strictly
-inside the machine's chassis. Hanlon's Razor: n. A `murphyism' parallel to
-Occam's Razor that reads "Never attribute to malice that which can be
-adequately explained by stupidity". The derivation of the common title
-Hanlon's Razor is unknown; a similar epigram has been attributed to William
-James. Quoted here because it seems to be a particular favorite of hackers,
-often showing up in {fortune cookie} files and the login banners of BBS
-systems and commercial networks. This probably reflects the hacker's daily
-experience of environments created by the well-intentioned but shortsighted.
-hardcoded: adj. 1. Data inserted directly into a program, where it cannot be
-easily modified, as opposed to data in some {profile} or environment variable
-that a {user} or hacker can easily modify. 2. In C, this is esp. applied to
-use of a literal instead of a preprocessor #define (see {magic number}).
-hardwarily: /hard-weir'i-lee/ adv. In a way pertaining to hardware. "The
-system is hardwarily unreliable." The adjective `hardwary' is *not* used. see
-{softwarily}. hardwired: adj. 1. Syn. for {hardcoded}. Technically, this term
-only applies to hardware, but hackers use it for software as well. 2. By
-extension, anything that is not modifiable, especially in the sense of
+outrageously unsupported assumption, you might simply wave your hands in this
+way, as an accusation, far more eloquent than words could express, that his
+logic is faulty. hang: v. 1. More commonly, to wait for an event that will
+never occur. "The system is hanging because it can't read from the crashed
+drive". see {wedged}, {hung}. 2. To wait for some event to occur; to hang
+around until something happens. "The program displays a menu and then hangs
+until you type a character." Compare {block}. 3. To attach a peripheral
+device, esp. in the construction `hang off'. "We're going to hang another
+tape drive off the file server". Implies a device attached with cables,
+rather than something that's strictly inside the machine's chassis. Hanlon's
+Razor: prov. A corollary of {Murphy's Law} similar to Occam's Razor that
+reads "Never attribute to malice that which can be adequately explained by
+stupidity." The derivation of the common title Hanlon's Razor is unknown; a
+similar epigram has been attributed to William James. Quoted here because it
+seems to be a particular favorite of hackers, often showing up in {fortune
+cookie} files and the login banners of BBS systems and commercial networks.
+This probably reflects the hacker's daily experience of environments created
+by the well-intentioned but shortsighted. hardcoded: adj. 1. Data inserted
+directly into a program, where it cannot be easily modified, as opposed to
+data in some {profile}, resource (see {de-rezz} sense #2), or environment
+variable that a {user} or hacker can easily modify. 2. In C, this is esp.
+applied to use of a literal instead of a preprocessor `#define"d (see {magic
+number}). hardwarily: /hard-weir'i-lee/ adv. In a way pertaining to hardware.
+"The system is hardwarily unreliable." The adjective `hardwary' is *not*
+used. see {softwarily}. hardwired: adj. 1. In software, syn. for {hardcoded}.
+2. By extension, anything that is not modifiable, especially in the sense of
 customizable to one's particular needs or tastes. has the X nature: [seems to
 derive from Zen Buddhist koans of the form "Does an X have the
 Buddha-nature?"] adj. Common hacker construction for `is an X', used for
 humorous emphasis. "Anyone who can't even use a program with on-screen help
 embedded in it truly has the {loser} nature!" hash bucket: n. A notional
-receptacle into two things accessed by the same key or short code might be
-dropped. This is used in a strict technical sense with respect to code that
-contains actual hash functions; in slang, it is used for human associative
+receptacle into which more than one thing accessed by the same key or short
+code might be dropped. This is used as techspeak with respect to code that
+uses actual hash functions; in jargon, it is used for human associative
 memory as well. Thus, two things "in the same hash bucket" may be confused
 with each other. Compare {hash collision}. hash collision: [from the
 technical usage] n. (var. `hash clash') When used of people, signifies a

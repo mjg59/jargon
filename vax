@@ -64,8 +64,8 @@ current commercial versions. Before the release of the POSIX/SVID standards,
 V7's features were often treated as a UNIX portability baseline. see {BSD},
 {USG UNIX}, {UNIX}. Some old-timers impatient with commercialization and
 kernel bloat still maintain that V7 was the Last True UNIX. vgrep: /vee'grep/
-v.,n. Visual grep. The operation of finding patterns in a file by {eyeball
-search}. see {grep}. vi: /vee ie/, *not* /vie/ and *never* /siks/ [from
+v.,n. Visual grep. The operation of finding patterns in a file {by hand}. see
+{grep}; compare {vdiff}. vi: /vee ie/, *not* /vie/ and *never* /siks/ [from
 `Visual Interface'] n. A screen editor crufted together by Bill Joy for an
 early {BSD} version. Became the de-facto standard UNIX editor and a nearly
 undisputed hacker favorite until the rise of {EMACS} after about 1984. Tends
@@ -93,10 +93,13 @@ term `virtual image' in optics] adj. 1. Common alternative to {logical}. 2.
 Simulated; performing the functions of something that isn't really there. An
 imaginative child's doll may be a virtual playmate. Usage: never used with
 compass directions. virtual Friday: n. The last day before an extended
-weekend, if that day is not a `real' Friday. There are also `virtual Mondays'
-which are actually Tuesdays, after the three-day weekends associated with
+weekend, if that day is not a `real' Friday. For example, the U.S. holiday
+Thanksgiving is always on a Thursday. The next day is often also taken as a
+holiday or extra day off, in which case Wednesday of that week is a virtual
+Friday (and Friday is a virtual Saturday). There are also `virtual Mondays'
+that are actually Tuesdays, after the three-day weekends associated with many
 U.S. national holidays. virtual reality: n. 1. Computer simulations that
-involve 3D graphics and use devices such as the Dataglove to allow the user
+involve OB3D graphics and use devices such as the Dataglove to allow the user
 to interact with the simulation. see {cyberspace}. 2. A form of network
 interaction incorporating aspects of role-playing games, interactive theater,
 improvisational comedy, and `true confessions' magazines. In a virtual
@@ -124,10 +127,11 @@ software has become an industry, and a number of exaggerated media reports
 have caused outbreaks of near hysteria among users, to the point where many
 {luser}s tend to blame *everything* that doesn't work as they had expected on
 virus attacks. Accordingly, this sense of `virus' has passed not only into
-general technical slang but into popular uage as well (where it is often
-incorrectly used to denote a {worm}). visionary: n. 1. One who hacks vision,
-in the sense of an Artificial Intelligence researcher working on the problem
-of getting computers to `see' things using TV cameras. (There isn't any
-problem in sending information from a TV camera to a computer. The problem
-is, how can the computer be programmed to make use of the camera information?
-see {SMOP}.) 2. [IBM] One who reads the outside literature.
+techspeak but into popular usage as well (where it is often incorrectly used
+to denote a worm). Compare {Trojan horse}, {back door}, {worm}; see also
+{UNIX conspiracy}. visionary: n. 1. One who hacks vision, in the sense of an
+Artificial Intelligence researcher working on the problem of getting
+computers to `see' things using TV cameras. (There isn't any problem in
+sending information from a TV camera to a computer. The problem is, how can
+the computer be programmed to make use of the camera information? see
+{SMOP}.) 2. [IBM] One who reads the outside literature.

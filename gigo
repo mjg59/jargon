@@ -1,60 +1,8 @@
  GIGO: /gie'goh/ [acronym] 1. Garbage In, Garbage out --- usually said in
-response to lusers who complain that a program didn't complain about faulty
+response to {luser}s who complain that a program didn't complain about faulty
 data. Also commonly used to describe failures in human decision making due to
 faulty, incomplete, or imprecise data. 2. Garbage In, Gospel Out --- this
 more recent expansion is a sardonic comment on the tendency human beings have
 to put excessive trust in "computerized" data. gillion: /jill'y@n/ n. 10 ^ 9.
 [From {giga-}, following construction of mega/million and notional
-tera/trillion] Same as an American billion or a British `milliard'. glark:
-/glark/ vt. To figure something out from context. "The System III manuals are
-pretty poor, but you can generally glark the meaning from context".
-Interestingly, the word was originally `glork'; the context was "This
-gubblick contains many nonsklarkish English flutzpahs, but the overall
-pluggandisp can be glorked [sic] from context," by David Moser, quoted by
-Douglas Hofstadter in his `Metamagical Themas' column in the January 1981
-Scientific American. It is conjectured that hackish usage mutated the verb to
-`glark' because {glork} was already an established jargon term. glass: [IBM]
-n. Synonym for {silicon}. glass tty: /glas tee-tee-wie/ or /glas ti'tee/ n. A
-terminal which has a display screen but which, because of hardware or
-software limitations, behaves like a teletype or other printing terminal,
-thereby combining the disadvantages of both: like a printing terminal, it
-can't do fancy display hacks, and like a display terminal, it doesn't produce
-hard copy. An example is the early `dumb' version of Lear-Siegler ADM-3
-(without cursor control). see {tube}, {tty}. see Appendix A for an
-interesting true story about glass ttys. glassfet: /glas'fet/ [by analogy
-with MOSFET, Metal Oxide Field Effect Transistor] n. Same as {firebottle}, a
-humorous way to refer to a vacuum tube. glitch: /glich/ [from German
-`glitschen' to slip, via Yiddish `glitshen', to slide or skid] 1. n. A sudden
-interruption in electric service, sanity, continuity, or program function.
-Sometimes recoverable. An interruption in electric service is specifically
-called a `power glitch'. This is of grave concern because it usually crashes
-all the computers. More common in slang, though, a hacker who got to the
-middle of a sentence and then forgot how he or she intended to complete it
-might say, "Sorry, I just glitched". 2. vi. To commit a glitch. see {gritch}.
-3. vt. [Stanford] To scroll a display screen several lines at a time. This
-derives from some oddities in the terminal behavior under the mutant TOPS-10
-formerly used at SAIL. 4. (obs.) Same as {magic cookie}, sense #2. glob:
-/glob/, *not* /glohb/ [UNIX, from `glob', the name of a subprogram that
-translated wildcards in archaic Bourne Shell versions] vt.,n. To expand
-special characters in a wildcarded name, or the act of so doing (the action
-is also called `globbing'). The UNIX conventions for filename wildcarding
-have become sufficiently pervasive that many hackers use some of them in
-written English, especially in email or news on technical topics. Those
-commonly encountered include: * wildcard for any string (see also {UN*X}). ?
-wildcard for any character (generally only read this way at the beginning or
-in the middle of a word). [] wildcard matching one character from a specified
-set. {} alternation of comma-separated alternatives. Thus, `foo{baz,qux}'
-would be read as `foobaz' or `fooqux'. Some examples: "He said his name was
-[KC]arl" (expresses ambiguity). "That got posted to talk.politics.*" (all the
-talk.politics subgroups on {USENET}). Other examples are given under the
-entry for {X}. glork: /glork/ 1. interj. Term of mild surprise, usually
-tinged with outrage, as when one attempts to save the results of two hours of
-editing and finds that the system has just crashed. 2. Used as a name for
-just about anything. see {foo}. 3. vt. Similar to {glitch}, but usually used
-reflexively. "My program just glorked itself." glue: n. Generic term for any
-interface logic or protocol that connects between two monolithic component
-blocks. For example, the {Blue Glue} is IBM's SNA protocol, and hardware
-designers call anything used to connect large VLSI's or circuit blocks "glue
-logic". gnarly: adj. Both {obscure} and {hairy} in the sense of complex.
-"Yeech --- the tuned assembler implementation of BitBlt is really gnarly!"
-From a similar but less specific usage in surfer slang.
+tera/trillion] Same as an American billion or a British `milliard'.

@@ -64,14 +64,14 @@ loathing}, {mundane}, and {uninteresting}. reality check: n. 1. The simplest
 kind of test of software or hardware; doing the equivalent of asking it what
 `2 + 2' is and seeing if you get `4'. The equivalent of a {smoke test} for
 software. 2. The act of letting a {real user} try out prototype software.
-Compare {sanity check}. reaper: n. A {prowler} which {GFR}s files. A file
+Compare {sanity check}. reaper: n. A {prowler} that {GFR}s files. A file
 removed in this way is said to have been `reaped'. rectangle slinger: n. see
 {polygon pusher}. recursion: n. see {recursion}. See also {tail recursion}.
-Recursive Acronyms:: pl.n. A hackish (and especially MIT) tradition is to
-choose acronyms which refer humorously to themselves or to other acronyms.
-The classic examples were two MIT editors called EINE ("EINE Is Not EMACS")
-and ZWEI ("ZWEI Was EINE Initially"). More recently, {GNU} (q.v., sense #1)
-is said to stand for "GNU's Not UNIX!" see also {mung}. Red Book: n. 1.
+recursive acronyms:: pl.n. A hackish (and especially MIT) tradition is to
+choose acronyms that refer humorously to themselves or to other acronyms. The
+classic examples were two MIT editors called EINE ("EINE Is Not EMACS") and
+ZWEI ("ZWEI Was EINE Initially"). More recently, {GNU} (q.v., sense #1) is
+said to stand for "GNU's Not UNIX!" see also {mung}, {EMACS}. Red Book: n. 1.
 Informal name for one of the three standard references on PostScript
 (`PostScript Language Reference Manual', Adobe Systems, Addison-Wesley 1985
 QA76.73.P67P67, ISBN 0-201-10174-2); the others are known as the {Green Book}
@@ -87,71 +87,70 @@ fax standards. 4. The new version of the {Green Book} (sense #4), IEEE
 1003.1-1990, aka ISO 9945-1, is (because of the color and the fact that it is
 printed on A4 paper), known in the USA as "The Ugly Red Book That Won't Fit
 On The Shelf", and in Europe as "The Ugly Red Book That's A Sensible Size".
-see also {Green Book}, {Blue Book}, {Purple Book}, {Silver Book}, {Orange
-Book}, {White Book}, {Pink-Shirt Book}, {Dragon Book}, {Aluminum Book}.
-regexp: /reg'eksp/ [UNIX] n. (alt. `regex' or `reg-ex') 1. Common written and
-spoken abbreviation for `regular expression', one of the wildcard patterns
-used, e.g., by UNIX utilities such as `grep(1)', `sed(1)', and `awk(1)'.
-These use conventions similar to but more elaborate than those described
-under {glob}. For purposes of this lexicon, it is sufficient to note that
-regexps also allow complemented character sets using `^' and ranges in
-character sets using `-'; thus, one can specify any non-alphabetic character
-with `[^A-Za-z]'. 2. Name of a well-known PD regexp-handling package in
-portable C, written by revered USENETter Henry Spencer
-(henry@zoo.toronto.edu). reincarnation, cycle of: n. Term used to refer to a
-well-known effect whereby function in a computing system family is migrated
-out to special-purpose peripheral hardware for speed, then the peripheral
-evolves towards more computing power as it does its job, then somebody
-notices that it's inefficient to support two asymmetrical processors in the
-architecture and folds the function back into the main CPU, at which point
-the cycle begins again. Several iterations of this cycle have been observed
-in graphics processor design, and at least one or two in communications and
-floating-point processors. Also known as `the Wheel of Life', `the Wheel of
-Samsara', and other variations of the basic Hindu/Buddhist theological idea.
-reinvent the wheel: v. To design or implement a tool equivalent to an
-existing one or part of one, with the implication that doing so is silly or a
-waste of time. This is frequently a valid criticism; but automobiles don't
-use wooden rollers, either, and some kinds of wheel have to be re-invented
-many times before you get it right. religious issues: n. Questions which
-seemingly cannot be raised without touching off {holy wars}, such as "What is
-the best operating system (or editor, language, architecture, shell, mail
-reader, news reader)?" and "What about that Heinlein guy, eh?". see {holy
-wars}; see also {theology}, {bigot}. This entry is an example of {ha ha only
-serious}. People actually develop the most amazing and religiously intense
-attachments to their tools, even when the tools are intangible. The most
-constructive thing one can do when one stumbles into the crossfire is mumble
-{Get a life!} and leave --- unless of course one's *own* unassailably
-rational and obviously correct choices are being slammed.... replicator: n.
-Any construct that acts to produce copies of itself; this could be a living
-organism, an idea (see {meme}), a program (see {worm}, {wabbit}, and
-{virus}), a pattern in a cellular automaton (see {life}, sense #1), or
-(speculatively) a robot or {nanobot}. reply: n. see {followup}. restriction:
-n. A {bug} or design error that limits a program's capabilities, and which is
-sufficiently egregious that nobody can quite work up enough nerve to describe
-it as a {feature}. Often used (esp. by {marketroid} types) to make it sound
-as though some crippling bogosity had been intended by the designers all
-along, or was forced upon them by arcane considerations no mere user could
-possibly comprehend (these claims are almost invariably false). retcon:
-/ret'kon/ [`retroactive continuity', from USENET's rec.arts.comics] 1. n. The
-common situation in pulp fiction (esp. comics, soaps) where a new story
-`reveals' new things about events in previous stories, usually leaving the
-`facts' the same (thus preserving continuity) while completely changing their
-interpretation. E.g., revealing that a whole season's episodes of Dallas was
-a dream was a retcon. 2. vt. To write such a story about (a character or
-fictitious object). Thus, "Byrne has retconned Superman's cape so that it is
-no longer unbreakable". "Marvelman's old adventures were retconned into
-synthetic dreams", "Swamp Thing was retconned from a transformed person into
-a sentient vegetable." [This is included because it's a good example of
-hackish linguistic innovation in a field completely unrelated to computers.
-The word `retcon' will probably spread through comics fandom and lose its
-association with hackerdom within a couple of years; for the record, it
-started here. --- ESR] retrocomputing: /ret'-roh-k@m-pyoo'ting/ n. Refers to
-emulations of way-behind-the-state-of-the-art hardware or software, or
-implementations of never-was-state-of-the-art; esp. if such implementations
-are elaborate practical jokes and/or parodies of more `serious' designs.
-Perhaps the most widely distributed retrocomputing utility was the `pnch(6)'
-or `bcd(6)' program on V7 and other early UNIX versions, which would accept
-up to 80 characters of text argument and display the corresponding pattern in
+see also {{book titles}}. regexp: /reg'eksp/ [UNIX] n. (alt. `regex' or
+`reg-ex') 1. Common written and spoken abbreviation for `regular expression',
+one of the wildcard patterns used, e.g., by UNIX utilities such as `grep(1)',
+`sed(1)', and `awk(1)'. These use conventions similar to but more elaborate
+than those described under {glob}. For purposes of this lexicon, it is
+sufficient to note that regexps also allow complemented character sets using
+`^' and ranges in character sets using `-'; thus, one can specify any
+non-alphabetic character with `[^A-Za-z]'. 2. Name of a well-known PD
+regexp-handling package in portable C, written by revered USENETter Henry
+Spencer (henry@zoo.toronto.edu). reincarnation, cycle of: n. see {cycle of
+reincarnation}. reinvent the wheel: v. To design or implement a tool
+equivalent to an existing one or part of one, with the implication that doing
+so is silly or a waste of time. This is frequently a valid criticism; but
+automobiles don't use wooden rollers, either, and some kinds of wheel have to
+be re-invented many times before you get it right. On the other hand, it has
+often been pointed out that people reinventing the wheel tend to come up with
+the moral equivalent of a trapezoid with an offset axle.... religious issues:
+n. Questions which seemingly cannot be raised without touching off {holy
+wars}, such as "What is the best operating system (or editor, language,
+architecture, shell, mail reader, news reader)?" and "What about that
+Heinlein guy, eh?". see {holy wars}; see also {theology}, {bigot}. This entry
+is an example of {ha ha only serious}. People actually develop the most
+amazing and religiously intense attachments to their tools, even when the
+tools are intangible. The most constructive thing one can do when one
+stumbles into the crossfire is mumble {Get a life!} and leave --- unless of
+course one's *own* unassailably rational and obviously correct choices are
+being slammed.... replicator: n. Any construct that acts to produce copies of
+itself; this could be a living organism, an idea (see {meme}), a program (see
+{worm}, {wabbit}, and {virus}), a pattern in a cellular automaton (see
+{life}, sense #1), or (speculatively) a robot or {nanobot}. It is even
+claimed by some that {UNIX} and {C} are the symbiotic halves of an extremely
+successful replicator; see {UNIX conspiracy}. reply: n. see {followup}.
+restriction: n. A {bug} or design error that limits a program's capabilities,
+and which is sufficiently egregious that nobody can quite work up enough
+nerve to describe it as a {feature}. Often used (esp. by {marketroid} types)
+to make it sound as though some crippling bogosity had been intended by the
+designers all along, or was forced upon them by arcane considerations no mere
+user could possibly comprehend (these claims are almost invariably false).
+Old-time hacker Joseph M. Newcomer (jn11+@andrew.cmu.edu) passes along this
+wisdom: "Whenever choosing a restriction which is quantifiable by a number,
+make it either a power of 2 or a power of 2 minus 1. If you impose a limit of
+17 items in a list, everyone knows it is a random number. If the limit is 15
+or 16, there is clearly some deep reason and you will get less {flamage}."
+retcon: /ret'kon/ [`retroactive continuity', from USENET's rec.arts.comics]
+1. n. The common situation in pulp fiction (esp. comics, soaps) where a new
+story `reveals' new things about events in previous stories, usually leaving
+the `facts' the same (thus preserving continuity) while completely changing
+their interpretation. E.g., revealing that a whole season's episodes of
+Dallas was a dream was a retcon. 2. vt. To write such a story about (a
+character or fictitious object). Thus, "Byrne has retconned Superman's cape
+so that it is no longer unbreakable". "Marvelman's old adventures were
+retconned into synthetic dreams", "Swamp Thing was retconned from a
+transformed person into a sentient vegetable." [This is included because it's
+a good example of hackish linguistic innovation in a field completely
+unrelated to computers. The word `retcon' will probably spread through comics
+fandom and lose its association with hackerdom within a couple of years; for
+the record, it started here. --- ESR] retrocomputing:
+/ret'-roh-k@m-pyoo'ting/ n. Refers to emulations of
+way-behind-the-state-of-the-art hardware or software, or implementations of
+never-was-state-of-the-art; esp. if such implementations are elaborate
+practical jokes and/or parodies of more `serious' designs. Perhaps the most
+widely distributed retrocomputing utility was the `pnch(6)' or `bcd(6)'
+program on V7 and other early UNIX versions, which would accept up to 80
+characters of text argument and display the corresponding pattern in
 {{punched card}} code. Other well-known retrocomputing hacks have included
 the programming language {INTERCAL}, a {JCL}-emulating shell for UNIX, the
 card-punch-emulating editor named 029, and various elaborate PDP-11 hardware
@@ -163,4 +162,4 @@ single most influential one has been RFC-822 (the Internet mail-format
 standard). The RFCs are unusual in that they are floated by technical experts
 acting on their own initiative and reviewed by the Internet at large, rather
 than formally promulgated through an institution such as ANSI. For this
-reason they remain known as RFCs even once adopted.
+reason, they remain known as RFCs even once adopted.

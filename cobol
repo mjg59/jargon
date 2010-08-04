@@ -1,10 +1,10 @@
  COBOL fingers: /koh'bol fing'grs/ n. Reported from Sweden, a (hypothetical)
 disease one might get from programming in COBOL. The language requires code
 verbose beyond all reason. Programming too much in COBOL causes the fingers
-to wear down (by endless typing), until short stubs remain. This deformity is
-called "COBOL fingers". "I refuse to type in all that source code again; it
-would give me COBOL fingers!" code grinder: n. 1. A {suit}-wearing minion of
-the sort hired in legion strength by banks and insurance companies to
+to wear down (by endless typing), until short stubs remain. This malformity
+is called `COBOL fingers'. "I refuse to type in all that source code again;
+it would give me COBOL fingers!" code grinder: n. 1. A {suit}-wearing minion
+of the sort hired in legion strength by banks and insurance companies to
 implement payroll packages in RPG and other such unspeakable horrors. In his
 native habitat, the code grinder often removes the suit jacket to reveal an
 underplumage consisting of button-down shirt (starch optional) and a tie. In
@@ -37,13 +37,13 @@ important how much you're fudging; the term simply acknowledges that some
 fudging is needed. You might talk of liking a movie for its silliness factor.
 Quotient tends to imply that the property is a ratio of two opposing factors:
 "I would have won except for my luck quotient." This could also be, "I would
-have won except for the luck factor", but using *quotient* emphasises that it
+have won except for the luck factor", but using *quotient* emphasizes that it
 was bad luck overpowering good luck. `Foo index' and `coefficient of foo'
 both tend to imply that foo is, if not strictly measurable, at least
 something that can be larger or smaller. Thus, you might refer to a paper or
 person as having a `high bogosity index', whereas you would be less likely to
 speak of a `high bogosity factor'. `Foo index' suggests that foo is a
-condensation of many quantities, as in the mundane cost of living index;
+condensation of many quantities, as in the mundane cost-of-living index;
 `coefficient of foo' suggests that foo is a fundamental quantity, as in a
 coefficient of friction. The choice between these terms is often one of
 personal preference; e.g., some people might feel that bogosity is a
@@ -58,6 +58,6 @@ serious usage, but was often invoked humorously to describe an (unspecified)
 weird or non-intuitive keystroke command. It may be due for a second inning,
 however. The OSF/Motif window manager, mwm, has a reserved keystroke for
 switching to the default set of keybindings and behavior. This keystroke is
-(believe it or not) `control-meta-bang'. Since the exclamation point looks a
-lot like an upside down coke bottle, Motif hackers have begun referring to
-this keystroke as cokebottle. see also {quadruple bucky}.
+(believe it or not) `control-meta-bang' (see {bang}). Since the exclamation
+point looks a lot like an upside down coke bottle, Motif hackers have begun
+referring to this keystroke as cokebottle. see also {quadruple bucky}.

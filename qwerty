@@ -7,7 +7,7 @@ expectation that nothing will be accomplished. This especially applies to
 reseating printed circuit boards, reconnecting cables, etc. "I can't boot up
 the machine. We'll have to wait for Greg to do his rain dance." 2. Any arcane
 sequence of actions performed with computers or software in order to achieve
-some goal; the term is usually restricted to rituals which include both an
+some goal; the term is usually restricted to rituals that include both an
 {incantation} or two and physical activity or motion. Compare {magic},
 {voodoo programming}, {black art}. random: adj. 1. Unpredictable (closest to
 mathematical definition); weird. "The system's been behaving pretty
@@ -24,58 +24,70 @@ non-overlapping purposes, so that no one else can invoke it without first
 saving four extra registers. 6. In no particular order, though deterministic.
 "The I/O channels are in a pool, and when a file is opened one is chosen
 randomly." 7. n. A random hacker; used particularly of high school students
-who soak up computer time and generally get in the way. 8. (occasional MIT
-usage) One who lives at Random Hall. see also {J. Random}, {some random X}.
-random numbers: n. When one wishes to specify a large but random number of
-things, and the context is inappropriate for {N}, certain numbers are
-preferred by hacker tradition (that is, easily recognized as placeholders).
-These include 17 Long described at MIT as `the least random number', see 23.
-23 Sacred number of Eris, Goddess of Discord (along with 17 and 5). 42 The
-Answer to the Ultimate Question of Life, the Universe and Everything. 69 From
-the sexual act. This one was favored in MIT's ITS culture. 105 69 hex = 105
-decimal, and 69 dec = 105 octal. 666 The Number of the Beast. For further
+who soak up computer time and generally get in the way. 8. n. (pejorative)
+Anyone who is not a hacker; the noun form of sense #2 "I went to the talk,
+but the audience was full of randoms asking bogus questions". 9:. n.
+(occasional MIT usage) One who lives at Random Hall. see also {J. Random},
+{some random X}. random numbers:: n. When one wishes to specify a large but
+random number of things, and the context is inappropriate for {N}, certain
+numbers are preferred by hacker tradition (that is, easily recognized as
+placeholders). These include 17 Long described at MIT as `the least random
+number', see 23. 23 Sacred number of Eris, Goddess of Discord (along with 17
+and 5). 42 The Answer to the Ultimate Question of Life, the Universe and
+Everything. (Note that this answer is completely fortuitous). 69 From the
+sexual act. This one was favored in MIT's ITS culture. 105 69 hex = 105
+decimal, and 69 decimal = 105 octal. 666 The Number of the Beast. For further
 enlightenment, consult the `Principia Discordia', `The Hitchhiker's Guide To
 The Galaxy', any porn movie, and the Christian Bible's `Book Of Revelations'
 (chapter 13, verse 18). see also {Discordianism} or consult your pineal
-gland. randomness: n. An unexplainable misfeature; gratuitous inelegance.
-Also, a {hack} or {crock} which depends on a complex combination of
-coincidences (or rather, the combination upon which the crock depends for its
-accidental failure to malfunction). "This hack can output characters 40-57 by
-putting the character in the accumulator field of an XCT and then extracting
-6 bits --- the low two bits of the XCT opcode are the right thing." "What
-randomness!" rape: vt. To (metaphorically) screw someone or something,
+gland. One common rhetorical maneuver uses any the canonical random numbers
+as placeholders for variables. One might hear "The max function takes 23
+arguments, for arbitrary values of 23." or "There are 69 ways to leave your
+lover, for 69 = 50." This is especially likely when the speaker has uttered a
+random number and realizes that it was not recognized as such, but even
+`non-random' numbers are occasionally used in this fashion. A related joke is
+that "Pi equals 3 --- for small values of pi and large values of 3."
+randomness: n. An unexplainable misfeature; gratuitous inelegance. Also, a
+{hack} or {crock} which depends on a complex combination of coincidences (or
+rather, the combination upon which the crock depends for its accidental
+failure to malfunction). "This hack can output characters 40-57 by putting
+the character in the accumulator field of an XCT and then extracting 6 bits
+--- the low two bits of the XCT opcode are the right thing." "What
+randomness!" rape: vt. To (metaphorically) {screw} someone or something,
 violently; in particular, to destroy a program or information irrecoverably.
 Usage: often used in describing file-system damage. "So-and-so was running a
 program that did absolute disk I/O and ended up raping the master directory."
 rare: [UNIX] adj. CBREAK mode (character-by-character with interrupts
-enabled). Distinguished from `raw' and `cooked'; the phrase "half-cooked
-(rare?)" is used in the V7/BSD manuals to describe the mode. Usage: rare.
-raster blaster: n. [Cambridge] Specialized hardware for {bitblt} operations.
-Allegedly inspired by analogy with `Rasta Blasta', British slang for the sort
-of portable stereo/radio/tapedeck Americans call a `boom box' or `ghetto
-blaster'. raster burn: n. Eyestrain brought on by too many hours of looking
-at low-res, poorly tuned, or glare-ridden monitors, esp. graphics monitors.
-see {terminal illness}. rat belt: n. A cable tie, esp. the sawtoothed,
-self-locking plastic kind that you can only remove by cutting (as opposed to
-a random twist of wire or a baggie tie or one of those humongous metal clip
-frobs). Small cable ties are `mouse belts'. rave: [WPI] vi. 1. To persist in
-discussing a specific subject. 2. To speak authoritatively on a subject about
-which one knows very little. 3. To complain to a person who is not in a
-position to correct the difficulty. 4. To purposely annoy another person
-verbally. 5. To evangelize. see {flame}. Also used to describe a less
-negative form of blather, such as friendly bullshitting. {Rave} differs
-slightly from {flame} in that {rave} implies that it is the manner or
+enabled). Distinguished from {raw mode} and `cooked mode'; the phrase
+"half-cooked (rare?)" is used in the V7/BSD manuals to describe the mode.
+Usage: rare. raster blaster: n. [Cambridge] Specialized hardware for {bitblt}
+operations. Allegedly inspired by analogy with `Rasta Blasta', British slang
+for the sort of portable stereo/radio/tapedeck Americans call a `boom box' or
+`ghetto blaster'. raster burn: n. Eyestrain brought on by too many hours of
+looking at low-res, poorly tuned, or glare-ridden monitors, esp. graphics
+monitors. see {terminal illness}. rat belt: n. A cable tie, esp. the
+sawtoothed, self-locking plastic kind that you can only remove by cutting (as
+opposed to a random twist of wire or a baggie tie or one of those humongous
+metal clip frobs). Small cable ties are `mouse belts'. rave: [WPI] vi. 1. To
+persist in discussing a specific subject. 2. To speak authoritatively on a
+subject about which one knows very little. 3. To complain to a person who is
+not in a position to correct the difficulty. 4. To purposely annoy another
+person verbally. 5. To evangelize. see {flame}. Also used to describe a less
+negative form of blather, such as friendly bullshitting. `Rave' differs
+slightly from {flame} in that `rave' implies that it is the manner or
 persistence of speaking that is annoying, while {flame} implies somewhat more
 strongly that the subject matter is annoying as well. rave on!: imp.
 Sarcastic invitation to continue a {rave}, often by someone who wishes the
 raver would get a clue but realizes this is unlikely. ravs: /ravz/, also
 `Chinese ravs' n. Kuo-teh. A Chinese appetizer, known variously in the plural
 as dumplings, pot stickers (the literal translation of kuo-teh), and (around
-Boston) `Peking Ravioli'. The term `rav' is short for "ravioli", which among
+Boston) `Peking Ravioli'. The term `rav' is short for `ravioli', which among
 hackers always means the Chinese kind rather than the Italian kind. Both
 consist of a filling in a pasta shell, but the Chinese kind uses a thinner
 pasta and is cooked differently, either by steaming or frying. A rav or
 dumpling can be steamed or fried, but a potsticker is always the fried kind
 (so called because it sticks to the frying pot and has to be scraped off).
 "Let's get hot-and-sour soup and three orders of ravs." see also {{Oriental
-Food}}.
+Food}}. raw mode: n. A mode that allows a program to transfer bits directly
+to or from an I/O device without any processing, abstraction, or
+interpretation by the operating system. Compare {rare}.

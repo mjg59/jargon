@@ -1,31 +1,32 @@
- DC Power Lab: n. The former site of the Stanford AI Lab. Hackers thought
-this was very funny because the obvious connection to electrical engineering
-was nonexistent --- the lab was named for a David C. Power. dd: /dee-dee/
-[from IBM {JCL}] vt. Equivalent to {cat} or {BLT}. A UNIX copy command with
-special options suitable for block-oriented devices. Often used in
-heavy-handed system abuse, as in "Let's dd the root partition onto a tape,
-then use the boot PROM to load it back on to a new disk". The UNIX `dd(1)'
-was designed with a weird, distinctly non-UNIXy keyword option syntax
-reminiscent of IBM System/360 JCL (which had a similar DD command); though
-the command filled a need, the design choice looks like somebody's idea of a
-joke. The slang usage is now very rare outside UNIX sites and now nearly
-obsolete even there, as `dd(1)' has been {deprecated} for a long time (though
-it has no replacement). Replaced by {BLT} or simple English `copy'. DDT:
-/dee-dee-tee/ n. 1. Generic term for a program that helps you to debug other
-programs by showing individual machine instructions in a readable symbolic
-form and letting the user change them. In this sense the term DDT is now
-archaic, having been widely displaced by `debugger' or names of individual
-programs like `dbx', `adb', or `sdb'. 2. [ITS] Under MIT's fabled {ITS}
-operating system, DDT (running under the alias HACTRN) was also used as the
-{shell} or top level command language used to execute other programs. 3. Any
-one of several specific DDTs (sense #1) supported on early DEC hardware. The
-DEC PDP-10 Reference Handbook (1969) contained a footnote on the first page
-of the documentation for DDT which illuminates the origin of the term:
-Historical footnote: DDT was developed at MIT for the PDP-1 computer in 1961.
-At that time DDT stood for "DEC Debugging Tape". Since then, the idea of an
-on-line debugging program has propagated throughout the computer industry.
-DDT programs are now available for all DEC computers. Since media other than
-tape are now frequently used, the more descriptive name "Dynamic Debugging
+ D. C. Power Lab: n. The former site of the {SAIL}. Hackers thought this was
+very funny because the obvious connection to electrical engineering was
+nonexistent --- the lab was named for a Donald C. Power. Compare {Marginal
+Hacks}. dd: /dee-dee/ [from IBM {JCL}] vt. Equivalent to {cat} or {BLT}. This
+was originally the name of a UNIX copy command with special options suitable
+for block-oriented devices. Often used in heavy-handed system abuse, as in
+"Let's dd the root partition onto a tape, then use the boot PROM to load it
+back on to a new disk". The UNIX `dd(1)' was designed with a weird,
+distinctly non-UNIXy keyword option syntax reminiscent of IBM System/360 JCL
+(which had a similar DD command); though the command filled a need, the
+design choice looks like somebody's idea of a joke. The jargon usage is now
+very rare outside UNIX sites and now nearly obsolete even there, as `dd(1)'
+has been {deprecated} for a long time (though it has no replacement).
+Replaced by {BLT} or simple English `copy'. DDT: /dee-dee-tee/ n. 1. Generic
+term for a program that helps you to debug other programs by showing
+individual machine instructions in a readable symbolic form and letting the
+user change them. In this sense the term DDT is now archaic, having been
+widely displaced by `debugger' or names of individual programs like `dbx',
+`adb', or `sdb'. 2. [ITS] Under MIT's fabled {ITS} operating system, DDT
+(running under the alias HACTRN) was also used as the {shell} or top level
+command language used to execute other programs. 3. Any one of several
+specific DDTs (sense #1) supported on early DEC hardware. The DEC PDP-10
+Reference Handbook (1969) contained a footnote on the first page of the
+documentation for DDT which illuminates the origin of the term: Historical
+footnote: DDT was developed at MIT for the PDP-1 computer in 1961. At that
+time DDT stood for "DEC Debugging Tape". Since then, the idea of an on-line
+debugging program has propagated throughout the computer industry. DDT
+programs are now available for all DEC computers. Since media other than tape
+are now frequently used, the more descriptive name "Dynamic Debugging
 Technique" has been adopted, retaining the DDT acronym. Confusion between
 DDT-10 and another well known pesticide, dichloro-diphenyl-trichloroethane
 (C14-H9-Cl5) should be minimal since each attacks a different, and apparently
@@ -37,9 +38,9 @@ related to `hi-res' used for a graphics mode on early Apples] (also `derez')
 breaking up into raster lines and static and then dissolving. Occasionally
 used of a person who seems to have suddenly `fuzzed out' mentally rather than
 physically. Usage: extremely silly, also rare. This verb was actually
-invented as *fictional* hacker slang, and adopted in a spirit of irony by
+invented as *fictional* hacker jargon, and adopted in a spirit of irony by
 real hackers years after the fact. 2. vt. On a Macintosh, many program
-structures (including the code itself) is managed in small segments of the
+structures (including the code itself) are managed in small segments of the
 program file known as `resources'. The standard resource compiler is Rez. The
 standard resource decompiler is DeRez. Thus decompiling a resource is
 `derezzing'. Usage: very common. dead code: n. Routines that can never be
@@ -49,31 +50,31 @@ always transfer control somewhere else. The presence of dead code may reveal
 either logical errors due to alterations in the program or significant
 changes in the assumptions and environment of the program (see also {software
 rot}); a good compiler should report dead code so a maintainer can think
-about what it means. Syn. {grunge}. deadlock: n. 1. A situation wherein two
-or more processes are unable to proceed because each is waiting for one of
-the other to do something. A common example is a program communicating to a
-server, which may find itself waiting for output from the server before
-sending anything more to it, while the server is similarly waiting for more
-input from the controlling program before outputting anything. (It is
-reported that this particular flavor of deadlock is sometimes called a
-`starvation deadlock', though the term `starvation' is more properly used for
-situations where a program can never run simply because it never gets high
-enough priority. Another common flavor is `constipation', where each process
-is trying to send stuff to the other, but all buffers are full because nobody
-is reading anything.) see {deadly embrace}. 2. Also used of deadlock-like
-interactions between humans, as when two people meet in a narrow corridor,
-and each tries to be polite by moving aside to let the other pass, but they
-end up swaying from side to side without making any progress because they
-always both move the same way at the same time. deadly embrace: n. Same as
-{deadlock}, though usually used only when exactly two processes are involved.
-This is the more popular term in Europe, while {deadlock} predominates in the
-United States. death star: [from the movie `Star Wars'] The AT&T corporate
-logo, which appears on computers sold by AT&T and bears an uncanny
-resemblance to the `Death Star' in the movie. This usage is particularly
-common among partisans of {BSD} UNIX, who tend to regard the AT&T versions as
-inferior and AT&T as a bad guy. Copies still circulate of a poster printed by
-Mt. Xinu showing a starscape with a space fighter labelled 4.2BSD streaking
-away from a broken AT&T logo wreathed in flames. AT&T's internal magazine,
-`Focus', uses `death star' for an incorrectly done AT&T logo in which the
-inner circle in the top left is dark instead of light --- a frequent result
-of dark-on-light logo images.
+about what it means. Syn. {grunge}. deadlock: n. 1. [techspeak] A situation
+wherein two or more processes are unable to proceed because each is waiting
+for one of the other to do something. A common example is a program
+communicating to a server, which may find itself waiting for output from the
+server before sending anything more to it, while the server is similarly
+waiting for more input from the controlling program before outputting
+anything. (It is reported that this particular flavor of deadlock is
+sometimes called a `starvation deadlock', though the term `starvation' is
+more properly used for situations where a program can never run simply
+because it never gets high enough priority. Another common flavor is
+`constipation', where each process is trying to send stuff to the other, but
+all buffers are full because nobody is reading anything.) see {deadly
+embrace}. 2. Also used of deadlock-like interactions between humans, as when
+two people meet in a narrow corridor, and each tries to be polite by moving
+aside to let the other pass, but they end up swaying from side to side
+without making any progress because they always both move the same way at the
+same time. deadly embrace: n. Same as {deadlock}, though usually used only
+when exactly two processes are involved. This is the more popular term in
+Europe, while {deadlock} predominates in the United States. death star: [from
+the movie `Star Wars'] The AT&T corporate logo, which appears on computers
+sold by AT&T and bears an uncanny resemblance to the `Death Star' in the
+movie. This usage is particularly common among partisans of {BSD} UNIX, who
+tend to regard the AT&T versions as inferior and AT&T as a bad guy. Copies
+still circulate of a poster printed by Mt. Xinu showing a starscape with a
+space fighter labelled 4.2BSD streaking away from a broken AT&T logo wreathed
+in flames. AT&T's internal magazine, `Focus', uses `death star' for an
+incorrectly done AT&T logo in which the inner circle in the top left is dark
+instead of light --- a frequent result of dark-on-light logo images.

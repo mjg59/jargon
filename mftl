@@ -1,0 +1,63 @@
+ MFTL: /em-eff-tee-ell/ [acronym: My Favorite Toy Language] 1. adj. Describes
+a talk on a programming language design which is heavy on syntax, frequently
+BNF, sometimes even talks about semantics, e.g., type systems, but rarely, if
+ever, has any content (see {content-free}). More broadly applied to talks
+even when the topic is not a programming language, but the subject matter is
+gone into in unnecessary and meticulous detail at the sacrifice of any
+conceptual content. Usage: "Well, it was a typical MFTL talk". 2. n.
+Describes a language developed by an individual or group, which they are
+passionate about, but which hardly anyone outside the group cares about.
+Applied to the language by those outside the group. "He cornered me about
+type resolution in his MFTL" mickey: n. The resolution unit of mouse
+movement. In {OS/2} there is a system call `MouGetNumMickeys()'. It has been
+suggested that the `disney' will become a benchmark unit for animation
+graphics performance. micro-: pref. 1. Very small; this is the root of its
+use as a quantifier prefix calling for multiplication by `10 ^ -6'. Neither
+of these uses is peculiar to hackers, but hackers tend to fling them both
+around rather more freely than is countenanced in standard English. It is
+recorded, for example, that one CS professor used to characterize the
+standard length of his lectures as a microcentury --- that is, about 52.6
+minutes (see also {attoparsec}, {nanoacre}, and especially {microfortnight}).
+2. Personal or human-scale --- that is, capable of being maintained or
+comprehended or manipulated by one human being. This sense is generalized
+from `microcomputer', and esp. used in contrast with `macro-' (the
+corresponding Greek prefix meaning `large'). 3. Local as opposed to global
+(or {macro-}). Thus a hacker might say, for example, that buying a smaller
+car to reduce pollution only solves a microproblem; the macroproblem of
+getting to work might be better solved by using mass transit, moving to
+within walking distance, or (best of all) telecommuting. microfortnight: n.
+About 1.2 sec. The VMS operating system has a lot of tuning parameters that
+you can set with the SYSGEN utility, and one of these is TIMEPROMPTWAIT, the
+time the system will wait for an operator to set the correct date and time at
+boot if it realizes that the current value is bogus. This time is specified
+in microfortnights! Multiple uses of the millifortnight (about 20 minutes)
+and {nanofortnight} have also been reported. microfloppies: n. 3-1/2"
+floppies, as opposed to 5-1/4" {vanilla} or mini-floppies and the
+now-obsolete 8" variety. This term may be headed for obsolescence as 5-1/4
+inchers pass out of use, only to be revived if anybody floats a sub-3-inch
+floppy standard. see {stiffy}, {minifloppies}. microLenat: n. see {bogosity}.
+microReid: n. see {bogosity}. microtape: n. Occasionally used to mean a
+DECtape, as opposed to a {macrotape}. A DECtape is a small reel of magnetic
+tape about four inches in diameter and an inch across. Unlike normal drivers
+for standard magnetic tapes, microtape drivers allow random access to the
+data. In their heyday they were used in pretty much the same ways one would
+now use a floppy disk: as a small, portable way to save and transport files
+and programs. Apparently the term `microtape' was actually the official term
+used within DEC for these tapes until someone coined the word `DECtape',
+which, of course, sounded sexier to the {marketroid} types. middle-endian:
+adj. Not {big-endian} or {little-endian}. Used of byte orders like 3-4-1-2 or
+2-1-4-3 occasionally found in the packed-decimal formats of minicomputer
+manufacturers who shall remain nameless. see {NUXI problem}. milliLampson:
+/mil'i-lamp`sn/ n. A unit of talking speed abbreviated mL. Most people run
+about 200 milliLampsons. Butler Lampson (a CS theorist and systems
+implementor highly regarded among hackers; among other things, he wrote
+LaTeX, the most widely used macro package for TeX) goes at 1000. A few people
+speak faster. This unit is sometimes used to compare the (sometimes widely
+disparate) rates at which people can generate ideas and actually emit them in
+speech. For example, noted computer architect J. Gordon Bell (designer of the
+PDP-11) is said (with some awe) to think at about 1200 mL but only talk at
+about 300; he is frequently reduced to fragments of sentences as his mouth
+tries to keep up with his speeding brain. minifloppies: n. 5-1/4" {vanilla}
+floppy disks, as opposed to 3-1/2" or {microfloppies} and the now-obsolescent
+8-inch variety. At one time, this term was a trademark of Shugart Associates
+for their SA-400 minifloppy drive. Nobody paid any attention. see {stiffy}.

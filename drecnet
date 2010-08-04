@@ -1,12 +1,12 @@
- DRECNET: /drek'net/ [from German & Yiddish `dreck'] n. Deliberate distortion
-of DECNET, a networking protocol used in the {VMS} community. So-called
-because DEC helped write the Ethernet specification, and then (either
-stupidly or as a malignant customer-control tactic) violated that spec in the
-design of DRECNET in a way that made it incompatible. see also {connector
+ DRECNET: /drek'net/ [from Yiddish/German `dreck'] n. Deliberate distortion
+of DECNET, a networking protocol used in the {VMS} community. So called
+because DEC helped write the Ethernet specification and then (either stupidly
+or as a malignant customer-control tactic) violated that spec in the design
+of DRECNET in a way that made it incompatible. see also {connector
 conspiracy}. driver: n. 1. The {main loop} of an event-processing program;
 the code that gets commands and dispatches them for execution. 2. In `device
 driver', code designed to handle a particular peripheral device such as a
-magnetic disk or tape. drool-proof paper: n. Documentation which has been
+magnetic disk or tape. drool-proof paper: n. Documentation that has been
 obsessively dumbed down, to the point where only a {cretin} could bear to
 read it, is said to have succumbed to the `drool-proof paper syndrome' or to
 have been `written on drool-proof paper'. For example, this is an actual
@@ -15,7 +15,7 @@ open fire or flame." drop on the floor: vt. To react to an error condition by
 silently discarding messages or other valuable data. Example: "The gateway
 ran out of memory, so it just started dropping packets on the floor." Also
 frequently used of faulty mail and netnews relay sites that lose messages.
-see also {black hole}, {bit bucket}. drop-ins: [prob. by anology with
+see also {black hole}, {bit bucket}. drop-ins: [prob. by analogy with
 {drop-outs}] n. Spurious characters appearing on a terminal or console due to
 line noise or a system malfunction of some sort. Esp. used when these are
 interspersed with your own typed input. Compare {drop-outs}. drop-outs: n. 1.
@@ -25,7 +25,7 @@ malfunction or system saturation (this can happen under UNIX, for example,
 when a bad connect to a modem swamps the processor with spurious character
 interrupts). 3. Mental glitches; used as a way of describing those occasions
 when the mind just seems to shut down for a couple of beats. see {glitch},
-{fried}. drugged: adj., also `on drugs'. 1. Conspicuously stupid, heading
+{fried}. drugged: adj. (also `on drugs') 1. Conspicuously stupid, heading
 towards {brain-damaged}. Often accompanied by a pantomime of toking a joint
 (but see Appendix B). 2. Of hardware, very slow relative to normal
 performance. drunk mouse syndrome: n. A malady exhibited by the mouse
@@ -50,13 +50,13 @@ detect and delete duplicates of a message which may have reached the FidoNet
 system via different routes. dup loop: /d[y]oop loop/ (also `dupe loop')
 [FidoNet] n. An incorrectly configured system or network gateway may
 propagate duplicate messages on one or more {echo}s, with different
-identification information which renders {dup killer}s ineffective. If such a
+identification information that renders {dup killer}s ineffective. If such a
 duplicate message eventually reaches a system which it has already passed
 through (with the original identification information), all systems passed on
 the way back to that system are said to be involved in a {dup loop}. dusty
 deck: n. Old software (especially applications) with which one is obliged to
 remain compatible (or to maintain). The term implies that the software in
 question is a holdover from card-punch days. Used esp. when referring to old
-scientific and number-crunching software, much of which was written in
+scientific and {number-crunching} software, much of which was written in
 FORTRAN and very poorly documented but is believed to be too expensive to
 replace. see {fossil}.

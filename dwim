@@ -1,16 +1,16 @@
  DWIM: /dwim/ [Do What I Mean] 1. adj. Able to guess, sometimes even
 correctly, the result intended when bogus input was provided. 2. n.,obs. The
-INTERLISP function that attempted to accomplish this feat by correcting many
-of the more common errors. see {hairy}. 3. Occasionally, an interjection
-hurled at a balky computer, esp. when one senses one might be tripping over
-legalisms (see {legalese}). DWIM is often suggested in jest as a desired
-feature for a complex program; also, occasionally described as the single
-instruction the ideal computer would have. Back when proof of program
+BBNLISP/INTERLISP function that attempted to accomplish this feat by
+correcting many of the more common errors. see {hairy}. 3. Occasionally, an
+interjection hurled at a balky computer, esp. when one senses one might be
+tripping over legalisms (see {legalese}). DWIM is often suggested in jest as
+a desired feature for a complex program; also, occasionally described as the
+single instruction the ideal computer would have. Back when proofs of program
 correctness were in vogue, there were also jokes about `DWIMC': Do What I
 Mean, Correctly). A related term, more often seen as a verb, is DTRT (Do The
 Right Thing), see {Right Thing}. dynner: /din'r/ 32 bits, by analogy with
 {nybble} and {{byte}}. Usage: rare and extremely silly. see also {playte},
-{taste}, {crumb}. = E = ===== earthquake: [IBM] n. The ultimate real-world
+{tayste}, {crumb}. = E = ===== earthquake: [IBM] n. The ultimate real-world
 shock test for computer hardware. Hackish sources at IBM deny the rumor that
 the Bay Area quake of 1989 was initiated by the company to test quality
 assurance procedures at its California plants. Easter egg: n. 1. A message
@@ -27,7 +27,10 @@ egging: [IBM] n. The act of replacing unrelated parts more or less at random
 in hopes that a malfunction will go away. Hackers consider this the normal
 operating mode of {field circus} techs and do not love them for it. Compare
 {shotgun debugging}. eat flaming death: imp. A construction popularized among
-hackers by the infamous {CPU WARS} comic; supposed to derive from a famously
+hackers by the infamous {CPU Wars} comic; supposed to derive from a famously
 turgid line in a WWII-era anti-Nazi propaganda comic which ran "Eat flaming
-death, non-Aryan mongrels!" or something of the sort. Used in humorously
-overblown expressions of hostility. "Eat flaming death, {EBCDIC} users!"
+death, non-Aryan mongrels!" or something of the sort (however, it is also
+reported that the Firesign Theater's 1975 album `In The Next World, You're On
+Your Own' included the phrase "Eat flaming death, fascist media pigs"; this
+may have been an influence). Used in humorously overblown expressions of
+hostility. "Eat flaming death, {{EBCDIC}} users!"

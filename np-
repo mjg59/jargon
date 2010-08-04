@@ -1,6 +1,6 @@
  NOMEX underwear: [USENET] n. Syn. {asbestos longjohns}, used mostly in
 auto-related mailing lists and newsgroups. NOMEX underwear is an actual
-product available on the racing equipment market, used as a fire retardant
+product available on the racing equipment market, used as a fire resistance
 measure and required in some racing series. non-optimal solution: n. (also
 `sub-optimal solution') An astoundingly stupid way to do something. This term
 is generally used in deadpan sarcasm, as its impact is greatest when the
@@ -10,22 +10,22 @@ and unpredictable fashion. When used to describe the behavior of a machine or
 program, it suggests that said machine or program is being forced to run far
 outside of design specifications. This behavior may be induced by
 unreasonable inputs, or may be triggered when a more mundane bug sends the
-computation far away from its expected course. 2. When describing the
-behavior of a person, suggests a tantrum or a {flame}. "When you talk to Bob,
-don't mention the drug problem or he'll go nonlinear for hours." In this
-context, `go nonlinear' connotes `blow up out of proportion' (note that
-`proportions' are mathematically linear). nontrivial: adj. Requiring real
-thought or significant computing power. Often used as an understated way of
-saying that a problem is quite difficult. The preferred emphatic form is
-`decidedly nontrivial'. see {trivial}, {uninteresting}, {interesting}.
-notwork: n. A network, when it's acting {flaky} or {down}. Compare
-{nyetwork}. Orig. referred to a particular period of flakiness on IBM's VNET
-corporate network, c.1988. NP-: /en pee/ pref. Extremely. Used to modify
-adjectives describing a level or quality of difficulty; the connotation is
-often `more so than it should be' (NP-complete problems all seem to be very
-hard, but so far no one has found a good a-priori reason that they should
-be). "Getting this algorithm to perform correctly in every case is
-NP-annoying." This is generalized from the computer science terms `NP-hard'
-and `NP-complete'. NP is the set of Nondeterministic-Polynomial algorithms,
-those which can be completed by a nondeterministic finite state machine in an
-amount of time that is a polynomial function of the size of the input.
+computation far off from its expected course. 2. When describing the behavior
+of a person, suggests a tantrum or a {flame}. "When you talk to Bob, don't
+mention the drug problem or he'll go nonlinear for hours." In this context,
+`go nonlinear' connotes `blow up out of proportion' (proportion connotes
+linearity). nontrivial: adj. Requiring real thought or significant computing
+power. Often used as an understated way of saying that a problem is quite
+difficult or impractical. The preferred emphatic form is `decidedly
+nontrivial'. see {trivial}, {uninteresting}, {interesting}. notwork: n. A
+network, when it's acting {flaky} or is {down}. Compare {nyetwork}. Orig.
+referred to a particular period of flakiness on IBM's VNET corporate network,
+c.1988. NP-: /en pee/ pref. Extremely. Used to modify adjectives describing a
+level or quality of difficulty; the connotation is often `more so than it
+should be' (NP-complete problems all seem to be very hard, but so far no one
+has found a good a-priori reason that they should be.) "Getting this
+algorithm to perform correctly in every case is NP-annoying." This is
+generalized from the computer science terms `NP-hard' and `NP-complete'. NP
+is the set of Nondeterministic-Polynomial algorithms, those that can be
+completed by a nondeterministic finite state machine in an amount of time
+that is a polynomial function of the size of the input.

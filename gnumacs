@@ -1,4 +1,4 @@
- GNUMACS: /gnoo'maks/ [contraction of `Gnu Emacs'] Often-heard abbreviated
+ GNUMACS: /gnoo'maks/ [contraction of `GNU EMACS'] Often-heard abbreviated
 name for the {GNU} project's flagship tool, {EMACS}. Used esp. in contrast
 with {GOSMACS}. go flatline: [from cyberpunk SF, refers to flattening of EEG
 traces upon brain-death] vi., also adjectival `flatlined'. 1. To die,
@@ -14,22 +14,32 @@ up' tends to imply `consume', while `gobble down' tends to imply `obtain'.
 I'll gobble down a copy of the documentation tomorrow." see also {snarf}.
 golden: adj. [perh. from folklore's `golden egg'] When used to describe a
 magnetic medium (e.g. `golden disk', `golden tape'), describes one containing
-a tested, up-to-spec, ready-to-ship software version. gonk: /gonk/ vt.,n. 1.
-To prevaricate or to embellish the truth beyond any reasonable recognition.
-It is alleged that in German the term is (fictively) `gonken', in Spanish the
-verb becomes `gonkar'. "You're gonking me. That story you just told me is a
-bunch of gonk." In German, for example, "Du gonkst mir" (You're pulling my
-leg). see also {gonkulator}. 2. [British] To grab some sleep at an odd time.
+a tested, up-to-spec, ready-to-ship software version. Compare
+{platinum-iridium}. golf-ball printer: n. A slow but letter-quality printing
+device and terminal (the IBM 2741) based on the IBM Selectric typewriter. The
+`golf ball' was a round object bearing mirror-image embossed images of 88
+different characters (arranged on four lines of latitude); one could change
+the font by swapping in a different golf ball. This was the technology that
+enabled APL to use a non-ASCII (and in fact completely non-standard)
+character set; this put it ten years ahead of its time---where it stayed,
+firmly rooted, for the next twenty, until ASCII-based character displays gave
+way to programmable bit-mapped displays with the flexibility to support other
+character sets. gonk: /gonk/ vt.,n. 1. To prevaricate or to embellish the
+truth beyond any reasonable recognition. It is alleged that in German the
+term is (fictively) `gonken', in Spanish the verb becomes `gonkar'. "You're
+gonking me. That story you just told me is a bunch of gonk." In German, for
+example, "Du gonkst mir" (You're pulling my leg). see also {gonkulator}. 2.
+[British] To grab some sleep at an odd time; compare {gronk} (sense #4).
 gonkulator: /gon'kyoo-lay-tr/ [from the old `Hogan's Heroes' TV series] n. A
 pretentious piece of equipment that actually serves no useful purpose.
 Usually used to describe one's least favorite piece of computer hardware. see
 {gonk}. gonzo: /gon'zo/ [from Hunter S. Thompson] adj. Overwhelming;
 outrageous; over the top; very large, esp. used of collections of source
 code, source files or individual functions. Has some of the connotations of
-{moby} and {hairy}. Good Thing: adj. Often capitalized; always pronounced as
-if capitalized. 1. Self-evidently wonderful to anyone in a position to
+{moby} and {hairy}. Good Thing: n.,adj. Often capitalized; always pronounced
+as if capitalized. 1. Self-evidently wonderful to anyone in a position to
 notice: "The Trailblazer's 19.2Kbaud PEP mode with on-the-fly Lempel-Ziv
-compression is a Good Thing for sites relaying netnews." 2. Something which
+compression is a Good Thing for sites relaying netnews." 2. Something that
 can't possibly have any ill side-effects and may save considerable grief
 later: "Removing the self-modifying code from that shared library would be a
 Good Thing." 3. When said of software tools or libraries, as in "YACC is a
@@ -40,8 +50,8 @@ promising start in the early eighties. It seems the designers of all those
 {spiffy} touch-menu systems failed to notice that humans aren't designed to
 hold their arms in front of their faces making small motions. After more than
 a very few selections, the arm begins to feel sore, cramped, and oversized,
-hence `gorilla arm'. This is now considered a classic Horrible Example and
-cautionary tale to human-factors designers; "Remember the gorilla arm!" is
-shorthand for "How's this gonna fly in *real* use?" gorp: /gorp/ [CMU,
-perhaps from the canonical hiker's food, Good Old Raisins and Peanuts]
-Another metasyntactic variable, like {foo} and {bar}.
+hence `gorilla arm'. This is now considered a classic cautionary tale to
+human-factors designers; "Remember the gorilla arm!" is shorthand for "How's
+this gonna fly in *real* use?". gorp: /gorp/ [CMU, perhaps from the canonical
+hiker's food, Good Old Raisins and Peanuts] Another metasyntactic variable,
+like {foo} and {bar}.

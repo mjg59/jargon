@@ -1,7 +1,7 @@
  TECO: /tee'koh/ obs. 1. vt. Originally, to edit using the TECO editor in one
 of its infinite variations (see below); sometimes still used to mean `to
 edit' even when not using TECO! Usage: rare and now primarily historical. 2.
-[originally an acronym for (paper) `Tape Editor and COrrector'; later, `Text
+[originally an acronym for `(paper) Tape Editor and COrrector'; later, `Text
 Editor and Corrector'] n. A text editor developed at MIT and modified by just
 about everybody. If all the dialects are included, TECO might have been the
 single most prolific editor in use before {EMACS}, to which it was directly
@@ -13,21 +13,21 @@ TECO commands corresponding to human names did. As an example, here is a TECO
 program that takes a list of names like this: Loser, J. Random Quux, The
 Great Dick, Moby sorts them alphabetically according to last name, and then
 puts the last name last, removing the comma, to produce this: Moby Dick J.
-Random Loser The Great Quux The program is: [ 1 J^P$L$$ J <.-Z; .,(S,$ -D
-.)FX1 @F^B $ K :L I $ G1 L>$$ (where ^B means `Control-B' (ASCII 0000010) and
-$ is actually an {escape} (ASCII 0011011) character). In fact, this very
-program was used to produce the second, sorted list from the first list! The
-first hack at it had a {bug}: gls (the author) had accidentally omitted the
-`@' in front of `F^B', which as anyone can see is clearly the {Wrong Thing}.
-It worked fine the second time. There is no space to describe all the
-features of TECO, but it may be of interest that `^P' means `sort' and
-`J<.-Z; ... L>' is an idiomatic series of commands for `do once for every
+Random Loser The Great Quux The program is: [1 J^P$L$$ J <.-Z; .,(S,$ -D
+.)FX1 @F^B $K :L I $ G1 L>$$ (where ^B means `Control-B' (ASCII #b0000010)
+and $ is actually an {ALT} or escape (ASCII #b0011011) character). In fact,
+this very program was used to produce the second, sorted list from the first
+list! The first hack at it had a {bug}: GLS (the author) had accidentally
+omitted the `@' in front of `F^B', which as anyone can see is clearly the
+{Wrong Thing}. It worked fine the second time. There is no space to describe
+all the features of TECO, but it may be of interest that `^P' means `sort'
+and `J<.-Z; ... L>' is an idiomatic series of commands for `do once for every
 line'. In mid-1991, TECO is now pretty much one with the dust of history,
 having been replaced in the affections of hackerdom by {EMACS}. It can still
 be found lurking on VMS and a couple of crufty PDP-11 operating systems,
 however, and remains the focus of some antiquarian interest. see also
 {write-only language}. tee: n.,vt. [Purdue] A carbon copy of an electronic
-transmission, "Oh, you're sending him the {bits} to that? Slap on a tee for
+transmission. "Oh, you're sending him the {bits} to that? Slap on a tee for
 me." From the UNIX command `tee(1)', itself named after a pipe fitting (see
 {plumbing}, {pipeline}). Can also mean `save one for me' as in "Tee a slice
 for me!". Also spelled `T'. Telerat: /tel'@-rat/ n. Unflattering hackerism

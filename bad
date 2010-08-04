@@ -21,11 +21,11 @@ factorial of a negative number." Compare {losing}, {cretinous},
 crashing every five minutes." "Yes, the disk controller is really biting the
 bag." The original loading of these terms was almost undoubtedly obscene,
 possibly referring to the scrotum, but in their current usage they have
-become almost completely sanitized. bamf: /bamf/ 1. [from old X-men comics]
+become almost completely sanitized. bamf: /bamf/ 1. [from old X-Men comics]
 interj. Notional sound made by a person or object teleporting in or out of
 the hearer's vicinity. Often used in {virtual reality} (esp. {MUD})
 electronic fora when a character wishes to make a dramatic entrance or exit.
-2. The sound of magical transformation, used in vertual reality fora like
+2. The sound of magical transformation, used in virtual reality fora like
 sense #1. 3. [from `Don Washington's Survival Guide'] n. Acronym for `Bad-Ass
 Mother Fucker', used to refer to one of the handful of nastiest monsters on
 an LPMUD or similar MUD. banana label: n. The labels often used on the sides
@@ -44,7 +44,7 @@ person or transmission medium can handle. "Those are amazing graphics but I
 missed some of the detail --- not enough bandwidth, I guess." 2. Attention
 span. 3. On {USENET}, a measure of network capacity that is often wasted by
 people complaining about how network news items posted by others are a waste
-of bandwidth. bang: 1. n. Common spoken name for `!' (ASCII 0100001),
+of bandwidth. bang: 1. n. Common spoken name for `!' (ASCII #b0100001),
 especially when used in pronouncing a {bang path} in spoken hackish. In elder
 days this was considered a CMUish usage, with MIT and Stanford hackers
 preferring {excl} or {shriek}; but the spread of UNIX has carried {bang} with
@@ -60,7 +60,7 @@ path: n. An old-style UUCP electronic-mail address specifying hops to get
 from some assumed-reachable location to the addressee, so called because each
 {hop} is signified by a {bang} sign. Thus the path
 `...!bigsite!foovax!barbox!me' directs correspondents to route their mail to
-machine bigsite (presumably a well-known location accessible to everybody)
+machine `bigsite' (presumably a well-known location accessible to everybody)
 and from there through the machine `foovax' to the account of user `me' on
 `barbox'. In the bad old days of not so long ago, before autorouting mailers
 became commonplace, people often published compound bang addresses using the
@@ -90,25 +90,33 @@ write the compiler back ends that will give the new machine a real
 development environment. 2. The same phrase is also used to describe a style
 of {hand-hacking} that relies on bit-level peculiarities of a particular
 hardware design, esp. tricks for speed and space optimization that rely on
-crocks such as overlapping opcodes (or, as in the famous case described in
-Appendix A, interleaving of opcodes on a magnetic drum to minimize fetch
+crocks such as overlapping instructions (or, as in the famous case described
+in Appendix A, interleaving of opcodes on a magnetic drum to minimize fetch
 delays due to the device's rotational latency). This sort of thing has become
 less common as the relative costs of programming time and machine resources
 have changed, but is still found in heavily constrained environments like
-industrial embedded systems. see {real programmer}. barf: /barf/ [from
-mainstream slang meaning `vomit'] 1. interj. Term of disgust. This is the
-closest hackish equivalent of the Valspeak `gag me with a spoon' (Like,
-euwww!). see {bletch}. 2. To say "Barf!" or emit some similar expression of
-disgust. "I showed him my latest hack and he barfed" means only that he
-complained about it, not that he literally vomited. 3. vi. To fail to work
-because of unacceptable input. May mean to give an error message. Examples:
-"The division operation barfs if you try to divide by zero." (that is,
-division by zero fails in some unspecified spectacular way) "The text editor
-barfs if you try to read in a new file before writing out the old one." see
-{choke}, {gag}. Note that in Commonwealth hackish, `barf' is generally
-replaced by `puke' or `vom'. {barf} is sometimes also used as a metasyntactic
-variable like {foo} or {bar}. barfulation: interj. Variation of {barf} used
-around the Stanford area. An exclamation, expressing disgust. On seeing some
+industrial embedded systems. see {real programmer}. In the personal computing
+world, bare metal programming (especially in sense #1 but sometimes also in
+sense #2) is often considered a {Good Thing}, or at least a necessary thing
+(because these machines have frequently been sufficiently slow and poorly
+designed to make it necessary; see {ill-behaved}). There, the term usually
+refers to bypassing the BIOS or OS interface and writing the application to
+directly access device registers and machine addresses. "To get 19.2 on the
+serial port, you need to get down to the bare metal." People who can do this
+sort of thing held in high regard. barf: /barf/ [from mainstream slang
+meaning `vomit'] 1. interj. Term of disgust. This is the closest hackish
+equivalent of the Valspeak `gag me with a spoon' (Like, euwww!). see
+{bletch}. 2. To say "Barf!" or emit some similar expression of disgust. "I
+showed him my latest hack and he barfed" means only that he complained about
+it, not that he literally vomited. 3. vi. To fail to work because of
+unacceptable input. May mean to give an error message. Examples: "The
+division operation barfs if you try to divide by zero." (that is, division by
+zero fails in some unspecified spectacular way) "The text editor barfs if you
+try to read in a new file before writing out the old one." see {choke},
+{gag}. Note that in Commonwealth hackish, `barf' is generally replaced by
+`puke' or `vom'. {barf} is sometimes also used as a metasyntactic variable
+like {foo} or {bar}. barfulation: interj. Variation of {barf} used around the
+Stanford area. An exclamation, expressing disgust. On seeing some
 particularly bad code one might exclaim, "Barfulation! Who wrote this, Quux?"
 barfulous: adj. (also `barfucious') Said of something which would make anyone
 barf, if only for esthetic reasons. baroque: adj. Feature-encrusted; complex;
@@ -120,13 +128,10 @@ less extreme and not pejorative in itself. see also {rococo}. BartleMUD:
 (usually slightly offbeat) humor, dry but friendly syntax, and lack of
 adjectives in object descriptions, so a player is likely to come across
 `brand172', for instance (see {brand brand brand}). Some mudders intensely
-dislike Bartle and this term, preferring to speak of `MUD-1'. bat file:
-[MS-DOS] n. Abbreviation for {batch file}, the MSDOS equivalent of the UNIX
-shell script, derived from the .BAT extension required for the command
-interpreter to find the batch file and execute it. batch: adj.
+dislike Bartle and this term, preferring to speak of `MUD-1'. batch: adj.
 Non-interactive. Hackers use this somewhat more loosely than the traditional
 technical definitions justify; in particular, switches on a normally
-interactive program that prepare it to receive non-interactive conmmand input
+interactive program that prepare it to receive non-interactive command input
 are often referred to as `batch mode' switches. A `batch file' is a series of
 instructions written to be handed to an interactive program running in batch
 mode. bathtub curve: n. Common term for the curve (resembling an end-to-end
@@ -145,7 +150,7 @@ line, or when really bad line noise disrupts the connection. Baud barf is not
 completely {random}, by the way; hackers with a lot of serial-line experience
 can usually tell whether the device at the other end is expecting a higher or
 lower speed than the terminal is set to. *Really* experienced ones can
-identify particular speeds. baz: /baz/ n. [Stanford corruption of {bar}] 1.
+identify particular speeds. baz: /baz/ [Stanford corruption of {bar}] n. 1.
 The third metasyntactic variable, after {foo} and {bar} and before {quux}
 (or, occasionally, `qux'). "Suppose we have three functions FOO, BAR, and
 BAZ. FOO calls BAR, which calls BAZ...." 2. interj. A term of mild annoyance.
@@ -154,12 +159,13 @@ an effect not unlike the bleating of a sheep; /baaaaaaz/. 3. Occasionally
 appended to {foo} to produce `foobaz'. bboard: /bee'bord/ [contraction of
 `bulletin board'] n. 1. Any electronic bulletin board; esp. used of {BBS}
 systems running on personal micros, less frequently of a USENET {newsgroup}
-(in fact, use of the term for a newsgroup is generally marks one as a
-{newbie}). 2. At CMU and other colleges with similar facilities, refers to
-campuswide electronic bulletin boards. 3. The term `physical bboard' is
-sometimes used to refer to a non-electronic old-fashioned cork memo board. At
-CMU, it refers to a particular one outside the CS Lounge. In either of senses
-1 or 2, the term is usually prefixed by the name of the intended board (`the
+(in fact, use of the term for a newsgroup generally marks one either as a
+{newbie} fresh in from the BBS world or as a real old-timer pedating USENET).
+2. At CMU and other colleges with similar facilities, refers to campus-wide
+electronic bulletin boards. 3. The term `physical bboard' is sometimes used
+to refer to a old-fashioned, non-electronic cork memo board. At CMU, it
+refers to a particular one outside the CS Lounge. In either of senses 1 or 2,
+the term is usually prefixed by the name of the intended board (`the
 Moonlight Casino bboard' or `market bboard'); however, if the context is
 clear, the better-read bboards may be referred to by name alone, as in [at
 CMU] "Don't post for-sale ads on general".

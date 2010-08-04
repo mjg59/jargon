@@ -1,13 +1,13 @@
  PDP-10: [Programmed Data Processor model 10] n. The machine that made
 timesharing real. Looms large in hacker folklore due to early adoption in the
-mid-70s by many university computing facilities and research labs including
+mid-1970s by many university computing facilities and research labs including
 the MIT AI lab, Stanford, and CMU. Some aspects of the instruction set (most
 notably the bit-field instructions) are still considered unsurpassed. Later
 editions were labelled `DECsystem-10' as a way of differentiating them from
 the PDP-11. The '10 was eventually eclipsed by the VAX machines (descendants
-of the PDP-11) and dropped from DEC's line in the early '80s, and in mid-1991
-to have cut one's teeth on one is considered something of a badge of
-honorable old-timerhood among hackers. see {TOPS-10}, {ITS}, {AOS}, {blt},
+of the PDP-11) and dropped from DEC's line in the early 1980s, and in
+mid-1991 to have cut one's teeth on one is considered something of a badge of
+honorable old-timerhood among hackers. see {TOPS-10}, {ITS}, {AOS}, {BLT},
 {DDT}, {DPB}, {EXCH}, {HAKMEM}, {JFCL}, {LDB}, {pop}, {push}, Appendix A.
 peek: n.,vt. (and {poke}) The commands in most microcomputer BASICs for
 directly accessing memory contents at an absolute address; often extended to
@@ -15,15 +15,15 @@ mean the corresponding constructs in any {HLL}. Much hacking on small,
 non-MMU micros consists of {peek}ing around memory, more or less at random,
 to find the location where the system keeps interesting stuff. Long (and
 variably accurate) lists of such addresses for various computers circulate
-(see {interrupt list, the}). The results of {poke}s at these addresses may be
-highly useful, mildly amusing, useless but neat, or (most likely) total
+(see {{interrupt list, the}}). The results of {poke}s at these addresses may
+be highly useful, mildly amusing, useless but neat, or (most likely) total
 {lossage} (see {killer poke}). pencil and paper: n. An archaic
 information-storage and transmission device that works by depositing smears
 of graphite on bleached wood pulp. More recent developments in paper-based
 technology include improved `write-once' update devices which use tiny
 rolling heads similar to mouse balls to deposit colored pigment. These
 devices require an operator skilled at so-called `handwriting' technique.
-They technologies are ubiquitous outside hackerdom, but nearly forgotten
+These technologies are ubiquitous outside hackerdom, but nearly forgotten
 inside it. Most hackers had terrible handwriting to begin with, and years of
 keyboarding tend if anything to have encouraged it to degrade further.
 Perhaps for this reason hackers deprecate pencil and paper technology and
@@ -43,19 +43,20 @@ course my program is correct, there is no need to test it." Or "Yes, I can
 see there may be a problem here, but *I'll* never type `rm -r /' while in
 {root}." Perl: [Practical Extraction and Report Language, aka Pathologically
 Eclectic Rubbish Lister] n. An interpreted language developed by Larry Wall
-(lwall@jpl.nasa.gov, author of `patch(1)') and distributed over USENET.
-Superficially resembles `awk(1)', but is much more arcane (see {AWK}).
-Increasingly considered one of the {languages of choice} by UNIX sysadmins,
-who are almost always incorrigible hackers. Perl has been described, in a
-parody of a famous remark about `lex(1)', as the `Swiss-army chainsaw' of
-UNIX programming. pessimal: /pes'i-ml/ [Latin-based antonym for `optimal']
-adj. Maximally bad. "This is a pessimal situation." Also `pessimize' vt. To
-make as bad as possible. These words are the obvious Latin-based antonyms for
-`optimal' and `optimize', but for some reason they do not appear in most
-English dictionaries, although `pessimize' is listed in the OED. pessimizing
-compiler: /pes'i-miez-ing kuhm-pie'lr/ [antonym of `optimizing compiler'] n.
-A compiler that produces object code that is worse than the straightforward
-or obvious translation. The implication is that the compiler is actually
-trying to optimize the program, but through stupidity is doing the opposite.
-A few pessimizing compilers have been written on purpose, however, as pranks.
-peta-: /pe't@/ pref. Multiplier, 10 ^ 15 or [proposed] 2 ^ 50. see {kilo-}.
+(lwall@jpl.nasa.gov, author of `patch(1)' and `rn(1)') and distributed over
+USENET. Superficially resembles `awk(1)', but is much more arcane (see
+{awk}). Increasingly considered one of the {languages of choice} by UNIX
+sysadmins, who are almost always incorrigible hackers. Perl has been
+described, in a parody of a famous remark about `lex(1)', as the `Swiss-army
+chainsaw' of UNIX programming. pessimal: /pes'i-ml/ [Latin-based antonym for
+`optimal'] adj. Maximally bad. "This is a pessimal situation." Also
+`pessimize' vt. To make as bad as possible. These words are the obvious
+Latin-based antonyms for `optimal' and `optimize', but for some reason they
+do not appear in most English dictionaries, although `pessimize' is listed in
+the OED. pessimizing compiler: /pes'i-miez-ing kuhm-pie'lr/ [antonym of
+`optimizing compiler'] n. A compiler that produces object code that is worse
+than the straightforward or obvious translation. The implication is that the
+compiler is actually trying to optimize the program, but through stupidity is
+doing the opposite. A few pessimizing compilers have been written on purpose,
+however, as pranks. peta-: /pe't@/ pref. Multiplier, 10 ^ 15 or [proposed] 2
+^ 50. see {kilo-}.
