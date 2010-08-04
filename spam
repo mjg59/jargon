@@ -1,6 +1,6 @@
- :spam: vt. [from "Monty Python's Flying Circus"] 1. To crash a program by
-overrunning a fixed-size buffer with excessively large input data. see also
-{buffer overflow}, {overrun screw}, {smash the stack}. 2. To cause a
+ :spam: vt.,vi.,n. [from "Monty Python's Flying Circus"] 1. To crash a
+program by overrunning a fixed-size buffer with excessively large input data.
+see also {buffer overflow}, {overrun screw}, {smash the stack}. 2. To cause a
 newsgroup to be flooded with irrelevant or inappropriate messages. You can
 spam a newsgroup with as little as one well- (or ill-) planned message (e.g.
 asking "What do you think of abortion?" on soc.women). This is often done
@@ -10,4 +10,4 @@ both groups). 3. To send many identical or nearly-identical messages
 separately to a large number of Usenet newsgroups. This is one sure way to
 infuriate nearly everyone on the Net. The second and third definitions have
 become much more prevalent as the Internet has opened up to non-techies, and
-to many Usenetters #3 is probably now (1995) primary. .
+to many Usenetters #3 is now (1995) primary. .

@@ -1,5 +1,5 @@
  :bug-of-the-month club: n. A mythical club which users of {sendmail} belong
 to; this was coined on the Usenet newsgroup comp.security.unix at a time when
 sendmail security holes, which allowed outside {cracker}s access to the
-system, were uncovered at an alarming rate, forcing sysadmins to update very
-often. Also, more completely, `fatal security bug-of-the-month club'.
+system, were being uncovered at an alarming rate, forcing sysadmins to update
+very often. Also, more completely, `fatal security bug-of-the-month club'.

@@ -1,4 +1,4 @@
- :daemon book: n. "The Design and Implementation of the 4.3BSD Unix Operating
+ :daemon book: n. "The Design and Implementation of the 4.3BSD UNIX Operating
 System", by Samuel J. Leffler, Marshall Kirk McKusick, Michael J. Karels, and
 John S. Quarterman (Addison-Wesley Publishers, 1989, ISBN 0-201-06196-1) --
 the standard reference book on the internals of {BSD} Unix. So called because

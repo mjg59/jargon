@@ -8,8 +8,8 @@ tight loops and recursions in the code's central algorithm, as opposed to
 (say) initial set-up costs or large but infrequent I/O operations. see
 {tune}, {bum}, {hand-hacking}. 2. The active location of a cursor on a
 bit-map display. "Put the mouse's hot spot on the `ON' widget and click the
-left button." 3. A screen region that is sensitive to mouse clicks, which
-trigger some action. World-Wide Web pages are now the canonical example; WWW
+left button." 3. A screen region that is sensitive to mouse gestures, which
+trigger some action. World Wide Web pages are now the canonical example; WWW
 browsers present hypertext links as hot spots which, when clicked on, point
 the browser at another document. 4. In a massively parallel computer with
 shared memory, the one location that all 10,000 processors are trying to read

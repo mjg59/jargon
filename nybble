@@ -1,8 +1,8 @@
  :nybble: /nib'l/ (alt. `nibble') n. [from v. `nibble' by analogy with `bite'
 => `byte'] Four bits; one {hex} digit; a half-byte. Though `byte' is now
 techspeak, this useful relative is still jargon. Compare {{byte}}; see also
-{bit}, Apparently this spelling is uncommon in Commonwealth Hackish, as
-British orthography suggests the pronunciation /ni:'bl/. Following `bit',
+{bit}, Apparently the `nybble' spelling is uncommon in Commonwealth Hackish,
+as British orthography suggests the pronunciation /ni:'bl/. Following `bit',
 `byte' and `nybble' there have been quite a few analogical attempts to
 construct unambiguous terms for bit blocks of other sizes. All of these are
 strictly jargon, not techspeak, and not very common jargon at that (most

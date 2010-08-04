@@ -29,26 +29,36 @@ electric apparatus." The latter observation may explain a common folk
 etymology of the term; that it came from telephone company usage, in which
 "bugs in a telephone cable" were blamed for noisy lines. Though this
 derivation seems to be mistaken, it may well be a distorted memory of a joke
-first current among *telegraph* operators more than a century ago! Actually,
-use of `bug' in the general sense of a disruptive event goes back to
-Shakespeare! In the first edition of Samuel Johnson's dictionary one meaning
-of `bug' is "A frightful object; a walking spectre"; this is traced to
-`bugbear', a Welsh term for a variety of mythological monster which (to
-complete the circle) has recently been reintroduced into the popular lexicon
-through fantasy role-playing games. In any case, in jargon the word almost
-never refers to insects. Here is a plausible conversation that never actually
-happened: "There is a bug in this ant farm!" "What do you mean? I don't see
-any ants in it." "That's the bug." A careful discussion of the etymological
-issues can be found in a paper by Fred R. Shapiro, 1987, "Entomology of the
-Computer Bug: History and Folklore", American Speech 62(4):376-378. [There
-has been a widespread myth that the original bug was moved to the
-Smithsonian, and an earlier version of this entry so asserted. A
-correspondent who thought to check discovered that the bug was not there.
-While investigating this in late 1990, your editor discovered that the NSWC
-still had the bug, but had unsuccessfully tried to get the Smithsonian to
-accept it -- and that the present curator of their History of American
-Technology Museum didn't know this and agreed that it would make a worthwhile
-exhibit. It was moved to the Smithsonian in mid-1991, but due to space and
-money constraints has not yet been exhibited. Thus, the process of
-investigating the original-computer-bug bug fixed it in an entirely
-unexpected way, by making the myth true! -- ESR]
+first current among *telegraph* operators more than a century ago! Or perhaps
+not a joke. Historians of the field inform us that the term "bug" was
+regularly used in the early days of telegraphy to refer to a variety of
+semi-automatic telegraphy keyers that would send a string of dots if you held
+them down. In fact, the Vibroplex keyers (which were among the most common of
+this type) even had a graphic of a beetle on them! While the ability to send
+repeated dots automatically was very useful for professional morse code
+operators, these were also significantly trickier to use than the older
+manual keyers, and it could take some practice to ensure one didn't introduce
+extraneous dots into the code by holding the key down a fraction too long. In
+the hands of an inexperienced operator, a Vibroplex "bug" on the line could
+mean that a lot of garbled Morse would soon be coming your way. Actually, use
+of `bug' in the general sense of a disruptive event goes back to Shakespeare!
+In the first edition of Samuel Johnson's dictionary one meaning of `bug' is
+"A frightful object; a walking spectre"; this is traced to `bugbear', a Welsh
+term for a variety of mythological monster which (to complete the circle) has
+recently been reintroduced into the popular lexicon through fantasy
+role-playing games. In any case, in jargon the word almost never refers to
+insects. Here is a plausible conversation that never actually happened:
+"There is a bug in this ant farm!" "What do you mean? I don't see any ants in
+it." "That's the bug." A careful discussion of the etymological issues can be
+found in a paper by Fred R. Shapiro, 1987, "Entomology of the Computer Bug:
+History and Folklore", American Speech 62(4):376-378. [There has been a
+widespread myth that the original bug was moved to the Smithsonian, and an
+earlier version of this entry so asserted. A correspondent who thought to
+check discovered that the bug was not there. While investigating this in late
+1990, your editor discovered that the NSWC still had the bug, but had
+unsuccessfully tried to get the Smithsonian to accept it -- and that the
+present curator of their History of American Technology Museum didn't know
+this and agreed that it would make a worthwhile exhibit. It was moved to the
+Smithsonian in mid-1991, but due to space and money constraints has not yet
+been exhibited. Thus, the process of investigating the original-computer-bug
+bug fixed it in an entirely unexpected way, by making the myth true! -- ESR]

@@ -13,7 +13,7 @@ mind of the designer of an MFTL is usually to write a compiler for it, then
 bootstrap the design away from contamination by lesser languages by writing a
 compiler for it in itself. Thus, the standard put-down question at an MFTL
 talk is "Has it been used for anything besides its own compiler?". On the
-other hand, a language that *cannot* be used to write its own compiler is
+other hand, a language that cannot even be used to write its own compiler is
 beneath contempt. see {break-even point}. (On a related note, Doug McIlroy
 once proposed a test of the generality and utility of a language and the
 operating system under which it is compiled: "Is the output of a FORTRAN
