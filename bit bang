@@ -9,4 +9,5 @@ Zilog PIO but no SIO. In an interesting instance of the {cycle of
 reincarnation}, this technique returned to use in the early 1990s on some
 RISC architectures because it consumes such an infinitesimal part of the
 processor that it actually makes sense not to have a UART. Compare {cycle of
-reincarnation}.
+reincarnation}. Nowadays it's used to describe I2C, a serial protocol for
+monitoring motherboard hardware.

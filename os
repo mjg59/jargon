@@ -620,7 +620,7 @@ or by snail-mail at 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA. *
 Support the League for Programming Freedom, which opposes over-broad software
 patents that constantly threaten to blow up in hackers' faces, preventing
 them from developing innovative software for tomorrow's needs. You can reach
-the League for Programming Freedom at <lpf@@uunet.uu.net>. by phone at +1 617
+the League for Programming Freedom at <lpf@uunet.uu.net>. by phone at +1 617
 621 7084, or by snail-mail at 1 Kendall Square #143, P.O.Box 9171, Cambridge,
 Massachusetts 02139 USA. * Join the continuing fight against Internet
 censorship, visit the Center for Democracy and Technology Home Page at

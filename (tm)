@@ -1,5 +1,5 @@
- #======= THIS IS THE JARGON FILE, VERSION 4.4.6, 27 OCT 2003 =======# The
-Jargon File (version 4.4.6)
+ #======= THIS IS THE JARGON FILE, VERSION 4.4.7, 29 DEC 2003 =======# The
+Jargon File (version 4.4.7)
 ________________________________________________________________ Table of
 Contents Welcome to the Jargon File I. Introduction 1. Hacker Slang and
 Hacker Culture 2. Of Slang, Jargon, and Techspeak 3. Revision History 4.
@@ -26,7 +26,7 @@ you can do with it, but there are traditions about its proper use to which
 many hackers are quite strongly attached. Please extend the courtesy of
 proper citation when you quote the File, ideally with a version number, as it
 will change and grow over time. (Examples of appropriate citation form:
-"Jargon File 4.4.6" or "The on-line hacker Jargon File, version 4.4.6, 25 Oct
+"Jargon File 4.4.7" or "The on-line hacker Jargon File, version 4.4.7, 29 Dec
 2003".) The Jargon File is a common heritage of the hacker culture. Over the
 years a number of individuals have volunteered considerable time to
 maintaining the File and been recognized by the net at large as editors of
@@ -363,7 +363,8 @@ Aug 2003 37392 235271 1630579 2295 Corrected build machinery; we can make
 RPMS now. 4.4.5 4 Oct 2003 37482 235858 1634767 2299 Minor updates. Four new
 entries and a better original-bug picture. 4.4.6 25 Oct 2003 37560 236406
 1638454 2302 Added glider illustration. Amended FUD entry pursuent to SCO's
-attempt to abuse it. Version numbering: Version numbers should be read as
+attempt to abuse it. 4.4.7 29 Dec 2003 37666 237206 1643609 2307 Winter 2003
+update. Version numbering: Version numbers should be read as
 major.minor.revision. Major version 1 is reserved for the `old' (ITS) Jargon
 File, jargon-1. Major version 2 encompasses revisions by ESR (Eric S.
 Raymond) with assistance from GLS (Guy L. Steele, Jr.) leading up to and
@@ -1091,7 +1092,7 @@ used in the sciences Stanford Stanford University Sun Sun Microsystems TMRC
 Some MITisms go back as far as the Tech Model Railroad Club (TMRC) at MIT c.
 1960. Material marked TMRC is from An Abridged Dictionary of the TMRC
 Language, originally compiled by Pete Samson in 1959 UCLA University of
-California at Los Angeles UK the United Kingdom (England, Wales, Scotland,
+California, Los Angeles UK the United Kingdom (England, Wales, Scotland,
 Northern Ireland) Usenet see the Usenet entry WPI Worcester Polytechnic
 Institute, site of a very active community of PDP-10 hackers during the 1970s
 WWW The World-Wide-Web. XEROX PARC XEROX's Palo Alto Research Center, site of
@@ -1158,16 +1159,16 @@ bathtub curve Batman factor baud baz bazaar bboard BBS BCPL BDFL beam beanie
 key beep Befunge beige toaster bells and whistles bells whistles and gongs
 benchmark Berkeley Quality Software Berzerkeley beta BFI BI bible
 BiCapitalization biff big iron Big Red Switch Big Room big win big-endian
-bignum bigot bikeshedding binary four bit bit bashing bit bucket bit decay
-bit rot bit twiddling bit-paired keyboard bitblt bits bitty box bixie black
-art black hat black hole black magic Black Screen of Death blammo blargh
-blast blat bletch bletcherous blinkenlights blit blitter blivet bloatware
-BLOB block blog Bloggs Family blogosphere blogrolling blow an EPROM blow away
-blow out blow past blow up BLT blue box Blue Glue blue goo Blue Screen of
-Death blue wire blurgle BNF boa board boat anchor bob bodge BOF BOFH
-bogo-sort bogometer BogoMIPS bogon bogon filter bogon flux bogosity bogotify
-bogue out bogus Bohr bug boink bomb bondage-and-discipline language bonk/oif
-book titles boot Borg borken bot bottom feeder bottom-post bottom-up
+bignum bigot bikeshedding binary four bit bit bang bit bashing bit bucket bit
+decay bit rot bit twiddling bit-paired keyboard bitblt bits bitty box bixie
+black art black hat black hole black magic Black Screen of Death blammo
+blargh blast blat bletch bletcherous blinkenlights blit blitter blivet
+bloatware BLOB block blog Bloggs Family blogosphere blogrolling blow an EPROM
+blow away blow out blow past blow up BLT blue box Blue Glue blue goo Blue
+Screen of Death blue wire blurgle BNF boa board boat anchor bob bodge BOF
+BOFH bogo-sort bogometer BogoMIPS bogon bogon filter bogon flux bogosity
+bogotify bogue out bogus Bohr bug boink bomb bondage-and-discipline language
+bonk/oif book titles boot Borg borken bot bottom feeder bottom-post bottom-up
 implementation bounce bounce message boustrophedon box boxed comments boxen
 boxology bozotic brain dump brain fart brain-damaged brain-dead braino
 brainwidth bread crumbs break break-even point breath-of-life packet breedle
@@ -1275,60 +1276,61 @@ high bit high moby highly hing hired gun hirsute HLL hoarding hog hole
 hollised holy penguin pee holy wars home box home machine home page honey pot
 hook hop horked hose hosed hot chat hot spot hotlink house wizard HP-SUX HTH
 huff hung hungry puppy hungus hyperspace hysterical reasons I I didn't change
-anything! I see no X here. IANAL IBM ICBM address ice ID10T error idempotent
-IDP If you want X, you know where to find it. ifdef out IIRC ill-behaved IMHO
-Imminent Death Of The Net Predicted! in the extreme incantation include
-include war indent style Indent-o-Meter index of X infant mortality infinite
-infinite loop Infinite-Monkey Theorem infinity inflate Infocom initgame
-insanely great installfest INTERCAL InterCaps interesting Internet Internet
-Death Penalty Internet Exploder Internet Exploiter interrupt interrupts
-locked out intertwingled intro IRC iron Iron Age iron box ironmonger ISO
-standard cup of tea ISP Itanic ITS IWBNI IYFEG J J. Random J. Random Hacker
-jack in jaggies Java JCL JEDR Jeff K. jello Jeopardy-style quoting jibble
-jiffy job security jock joe code joe-job juggling eggs juice jump off into
-never-never land jupiter K K K&R k- kahuna kamikaze packet kangaroo code ken
-kernel-of-the-week club kgbvax KIBO kiboze kibozo kick kill file killer app
-killer micro killer poke kilo- kilogoogle KIPS KISS Principle kit KLB klone
-kludge kluge kluge around kluge up Knights of the Lambda Calculus knobs Knuth
-koan kook Kool-Aid kremvax kyrka L lag lamer LAN party language lawyer
-languages of choice LART larval stage lase laser chicken leaf site leak leaky
-heap leapfrog attack leech leech mode legal legalese lenna LER LERP let the
-smoke out letterbomb lexer life Life is hard light pipe lightweight like
-kicking dead whales down the beach like nailing jelly to a tree line 666 line
-eater, the line noise linearithmic link farm link rot link-dead lint Lintel
-Linus Linux lion food Lions Book LISP list-bomb lithium lick little-endian
-live live data Live Free Or Die! livelock liveware lobotomy locals, the
-locked and loaded locked up logic bomb logical loop through loose bytes lord
-high fixer lose lose lose loser losing loss lossage lossy lost in the noise
-lost in the underflow lots of MIPS but no I/O low-bandwidth Lubarsky's Law of
-Cybernetic Entomology Lumber Cartel lunatic fringe lurker luser M M M$
-macdink machoflops Macintoy Macintrash macro macro- macrology maggotbox magic
-magic cookie magic number magic smoke mail storm mailbomb mailing list main
-loop mainframe mainsleaze malware man page management mandelbug manged mangle
-mangled name mangler manularity marching ants marbles marginal marginally
-marketroid Mars martian massage math-out Matrix maximum Maytag mode McQuary
-limit meatspace meatware meeces meg mega- megapenny MEGO meltdown, network
-meme meme plague memetics memory farts memory leak memory smash menuitis
-mess-dos meta meta bit metasyntactic variable MFTL mickey mickey mouse
-program micro- MicroDroid microfortnight microLenat microReid microserf
-Microsloth Windows Microsoft micros~1 middle-endian middle-out implementation
-milliLampson minor detail MIPS misbug misfeature missile address MiSTing
-miswart MMF mobo moby mockingbird mod mode mode bit modulo mojibake
-molly-guard Mongolian Hordes technique monkey up monkey, scratch monstrosity
-monty Moof Moore's Law moria MOTAS MOTOS MOTSS mouse ahead mouse belt mouse
-droppings mouse elbow mouse pusher mouso MS-DOS mu MUD muddie mudhead muggle
-Multics multitask mumblage mumble munch munching munching squares munchkin
-mundane mung munge Murphy's Law music mutter N N nadger nagware nailed to the
-wall nailing jelly naive naive user NAK NANA nano nano- nanoacre nanobot
-nanocomputer nanofortnight nanotechnology narg nasal demons nastygram Nathan
-Hale nature neat hack neats vs. scruffies neep-neep neophilia nerd nerd knob
-net.- net.god net.personality net.police netburp netdead nethack netiquette
-netlag netnews Netscrape netsplit netter network address network meltdown New
-Jersey New Testament newbie newgroup wars newline NeWS newsfroup newsgroup
-nick nickle night mode Nightmare File System NIL Ninety-Ninety Rule nipple
-mouse NMI no-op noddy non-optimal solution nonlinear nontrivial not entirely
-unlike X not ready for prime time notwork NP- NSA line eater NSP nude nugry
-nuke number-crunching numbers NUXI problem nybble nyetwork O Ob- Obfuscated C
+anything! I see no X here. I for one welcome our new X overlords IANAL IBM
+ICBM address ice ID10T error idempotent IDP If you want X, you know where to
+find it. ifdef out IIRC ill-behaved IMHO Imminent Death Of The Net Predicted!
+in the extreme incantation include include war indent style Indent-o-Meter
+index of X infant mortality infinite infinite loop Infinite-Monkey Theorem
+infinity inflate Infocom initgame insanely great installfest INTERCAL
+InterCaps interesting Internet Internet Death Penalty Internet Exploder
+Internet Exploiter interrupt interrupts locked out intertwingled intro IRC
+iron Iron Age iron box ironmonger ISO standard cup of tea ISP Itanic ITS
+IWBNI IYFEG J J. Random J. Random Hacker jack in jaggies Java JCL JEDR Jeff
+K. jello Jeopardy-style quoting jibble jiffy job security jock joe code
+joe-job juggling eggs juice jump off into never-never land jupiter K K K&R k-
+kahuna kamikaze packet kangaroo code ken kernel-of-the-week club kgbvax KIBO
+kiboze kibozo kick kill file killer app killer micro killer poke kilo-
+kilogoogle KIPS KISS Principle kit KLB klone kludge kluge kluge around kluge
+up Knights of the Lambda Calculus knobs knurd Knuth koan kook Kool-Aid
+kremvax kyrka L lag lamer LAN party language lawyer languages of choice LART
+larval stage lase laser chicken leaf site leak leaky heap leapfrog attack
+leech leech mode legal legalese lenna LER LERP let the smoke out letterbomb
+lexer life Life is hard light pipe lightweight like kicking dead whales down
+the beach like nailing jelly to a tree line 666 line eater, the line noise
+linearithmic link farm link rot link-dead lint Lintel Linus Linux lion food
+Lions Book LISP list-bomb lithium lick little-endian live live data Live Free
+Or Die! livelock liveware lobotomy locals, the locked and loaded locked up
+logic bomb logical loop through loose bytes lord high fixer lose lose lose
+loser losing loss lossage lossy lost in the noise lost in the underflow lots
+of MIPS but no I/O low-bandwidth Lubarsky's Law of Cybernetic Entomology
+Lumber Cartel lunatic fringe lurker luser M M M$ macdink machoflops Macintoy
+Macintrash macro macro- macrology maggotbox magic magic cookie magic number
+magic smoke mail storm mailbomb mailing list main loop mainframe mainsleaze
+malware man page management mandelbug manged mangle mangled name mangler
+manularity marching ants marbles marginal marginally marketroid Mars martian
+massage math-out Matrix mav maximum Maytag mode McQuary limit meatspace
+meatware meeces meg mega- megapenny MEGO meltdown, network meme meme plague
+memetics memory farts memory leak memory smash menuitis mess-dos meta meta
+bit metasyntactic variable MFTL mickey mickey mouse program micro- MicroDroid
+microfortnight microLenat microReid microserf Microsloth Windows Microsoft
+micros~1 middle-endian middle-out implementation milliLampson minor detail
+MIPS misbug misfeature missile address MiSTing miswart MMF mobo moby
+mockingbird mod mode mode bit modulo mojibake molly-guard Mongolian Hordes
+technique monkey up monkey, scratch monstrosity monty Moof Moore's Law moria
+MOTAS MOTOS MOTSS mouse ahead mouse belt mouse droppings mouse elbow mouse
+pusher mouso MS-DOS mu MUD muddie mudhead muggle Multics multitask mumblage
+mumble munch munching munching squares munchkin mundane mung munge Murphy's
+Law music mutter N N nadger nagware nailed to the wall nailing jelly naive
+naive user NAK NANA nano nano- nanoacre nanobot nanocomputer nanofortnight
+nanotechnology narg nasal demons nastygram Nathan Hale nature neat hack neats
+vs. scruffies neep-neep neophilia nerd nerd knob net.- net.god
+net.personality net.police netburp netdead nethack netiquette netlag netnews
+Netscrape netsplit netter network address network meltdown New Jersey New
+Testament newbie newgroup wars newline NeWS newsfroup newsgroup nick nickle
+night mode Nightmare File System NIL Ninety-Ninety Rule nipple mouse NMI
+no-op noddy non-optimal solution nonlinear nontrivial not entirely unlike X
+not ready for prime time notwork NP- NSA line eater NSP nude nugry nuke
+number-crunching numbers NUXI problem nybble nyetwork O Ob- Obfuscated C
 Contest obi-wan error Objectionable-C obscure octal forty off the trolley
 off-by-one error offline ogg -oid old fart Old Testament on the gripping hand
 one-banana problem one-line fix one-liner wars ooblick OP op open open source
@@ -1421,10 +1423,10 @@ TOFU toggle tool toolchain toolsmith toor top-post topic drift topic group
 TOPS-10 TOPS-20 TOS tourist tourist information touristic toy toy language
 toy problem toy program trampoline trap trap door trash trawl tree-killer
 treeware trit trivial troff troglodyte troglodyte mode Trojan horse troll
-Troll-O-Meter tron troughie true-hacker tty tube tube time tunafish tune
-turbo nerd Turing tar-pit turist Tux tweak TWENEX twiddle twilight zone twink
-twirling baton two pi two-to-the-N tyop U u- UBD UBE ubergeek UCE UDP UN*X
-undefined external reference under the hood undocumented feature
+Troll-O-Meter tron troughie true-hacker tty tube tube time tumbler tunafish
+tune turbo nerd Turing tar-pit turist Tux tweak TWENEX twiddle twilight zone
+twink twirling baton two pi two-to-the-N tyop U u- UBD UBE ubergeek UCE UDP
+UN*X undefined external reference under the hood undocumented feature
 uninteresting Unix Unix brain damage Unix conspiracy Unix weenie unixism
 unswizzle unwind the stack unwind-protect up upload upstream upthread uptime
 urchin URL Usenet Usenet Death Penalty user user-friendly user-obsequious

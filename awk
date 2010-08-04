@@ -15,14 +15,14 @@ bboard BBS BCPL BDFL beam beanie key beep Befunge beige toaster bells and
 whistles bells whistles and gongs benchmark Berkeley Quality Software
 Berzerkeley beta BFI BI bible BiCapitalization biff big iron Big Red Switch
 Big Room big win big-endian bignum bigot bikeshedding binary four bit bit
-bashing bit bucket bit decay bit rot bit twiddling bit-paired keyboard bitblt
-bits bitty box bixie black art black hat black hole black magic Black Screen
-of Death blammo blargh blast blat bletch bletcherous blinkenlights blit
-blitter blivet bloatware BLOB block blog Bloggs Family blogosphere
-blogrolling blow an EPROM blow away blow out blow past blow up BLT blue box
-Blue Glue blue goo Blue Screen of Death blue wire blurgle BNF boa board boat
-anchor bob bodge BOF BOFH bogo-sort bogometer BogoMIPS bogon bogon filter
-bogon flux bogosity bogotify bogue out bogus Bohr bug boink bomb
+bang bit bashing bit bucket bit decay bit rot bit twiddling bit-paired
+keyboard bitblt bits bitty box bixie black art black hat black hole black
+magic Black Screen of Death blammo blargh blast blat bletch bletcherous
+blinkenlights blit blitter blivet bloatware BLOB block blog Bloggs Family
+blogosphere blogrolling blow an EPROM blow away blow out blow past blow up
+BLT blue box Blue Glue blue goo Blue Screen of Death blue wire blurgle BNF
+boa board boat anchor bob bodge BOF BOFH bogo-sort bogometer BogoMIPS bogon
+bogon filter bogon flux bogosity bogotify bogue out bogus Bohr bug boink bomb
 bondage-and-discipline language bonk/oif book titles boot Borg borken bot
 bottom feeder bottom-post bottom-up implementation bounce bounce message
 boustrophedon box boxed comments boxen boxology bozotic brain dump brain fart
