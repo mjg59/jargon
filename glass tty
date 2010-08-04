@@ -1,4 +1,4 @@
- GLASS TTY n. A terminal which has a display screen but which, because of
-hardware or software limitations, behaves like a teletype or other printing
-terminal. An example is the ADM-3 (without cursor control). A glass tty can't
-do neat display hacks, and you can't save the output either.
+ GLASS TTY n. A terminal which has a display screen but - 16 - which, because
+of hardware or software limitations, behaves like a teletype or other
+printing terminal. An example is the ADM-3 (without cursor control). A glass
+tty can't do neat display hacks, and you can't save the output either.

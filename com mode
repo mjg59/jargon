@@ -2,25 +2,26 @@
 terminals together so that text typed on any is echoed on all, providing a
 means of conversation among hackers] n. The state a terminal is in when
 linked to another in this way. Com mode has a special set of jargon words,
-used to save typing, which are not used orally: BCNU Be seeing you. BTW By
-the way... BYE? Are you ready to unlink? (This is the standard way to end a
-com mode conversation; the other person types BYE to confirm, or else
-continues the conversation.) CUL see you later. FOO? A greeting, also meaning
-R U THERE? Often used in the case of unexpected links, meaning also "Sorry if
-I butted in" (linker) or "What's up?" (linkee). FYI For your information...
-GA Go ahead (used when two people have tried to type simultaneously; this
-cedes the right to type to the other). HELLOP A greeting, also meaning R U
-THERE? (An instance of the "-P" convention.) MtFBWY May the Force be with
-you. (From Star Wars.) NIL No (see the main entry for NIL). OBTW Oh, by the
-way... R U THERE? Are you there? SEC Wait a second (sometimes written
-SEC...). T Yes (see the main entry for T). TNX Thanks. TNX 1.0E6 Thanks a
-million (humorous). <double CRLF> When the typing party has finished, he
-types two CRLF's to signal that he is done; this leaves a blank line between
-individual "speeches" in the conversation, making it easier to re-read the
-preceding text. <name>: When three or more terminals are linked, each speech
-is preceded by the typist's login name and a colon (or a hyphen) to indicate
-who is typing. The login name often is shortened to a unique prefix (possibly
-a single letter) during a very long conversation. /\/\/\ The equivalent of a
-giggle. At Stanford, where the link feature is implemented by "talk loops",
-the term TALK MODE is used in place of COM MODE. Most of the above
-"sub-jargon" is used at both Stanford and MIT.
+used to save typing, which are not used orally: center; l lw(3.5i). BCNU Be
+seeing you. BTW By the way ... BYE? T{ Are you ready to unlink? (This is the
+standard way to end a com mode conversation; the other person types BYE to
+confirm, or else continues the conversation.) T} CUL see you later. FOO? T{ A
+greeting, also meaning R U THERE? Often used in the case of unexpected links,
+meaning also "Sorry if I but- ted in" (linker) or "What's up?" (linkee). T}
+FYI For your information... GA T{ Go ahead (used when two people have tried
+to type simultaneously; this cedes the right to type to the other). T} HELLOP
+T{ A greeting, also meaning R U THERE? (An instance of the "-P" convention.)
+T} MtFBWY May the Force be with you. (From Star Wars.) NIL No (see the main
+entry for NIL). OBTW Oh, by the way ... R U THERE? Are you there? SEC Wait a
+second (sometimes written SEC...). T Yes (see the main entry for T). TNX
+Thanks. TNX 1.0E6 Thanks a million (humorous). <double CRLF> T{ When the
+typing party has finished, he types two CRLF's to signal that he is done;
+this leaves a blank line between individual "speeches" in the conversation,
+making it easier to re- read the preceding text. T} <name>: T{ When three or
+more terminals are linked, each speech is preceded by the typist's login name
+and a colon (or a hyphen) to indicate who is typing. The login name often is
+shor- tened to a unique prefix (possibly a single letter) dur- ing a very
+long conversation. T} /\/\/\ The equivalent of a giggle. At Stanford, where
+the link feature is implemented by "talk loops," the term TALK MODE is used
+in place of COM MODE. Most of the above "sub-jargon" is used at both Stanford
+and MIT.

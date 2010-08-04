@@ -1,5 +1,5 @@
  ENGLISH n. The source code for a program, which may be in any language, as
 opposed to BINARY. Usage: slightly obsolete, used mostly by old-time hackers,
-though recognizable in context. At MIT, directory SYSENG is where the
+though recog- nizable in context. At MIT, directory SYSENG is where the
 "English" for system programs is kept, and SYSBIN, the binaries. SAIL has
 many such directories, but the canonical one is [CSP,SYS].

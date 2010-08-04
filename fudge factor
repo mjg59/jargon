@@ -1,9 +1,9 @@
- FUDGE FACTOR n. A value or parameter that is varied in an ad hoc way to
-produce the desired result. The terms "tolerance" and "slop" are also used,
-though these usually indicate a one-sided leeway, such as a buffer which is
-made larger than necessary because one isn't sure exactly how large it needs
-to be, and it is better to waste a little space than to lose completely for
-not having enough. A fudge factor, on the other hand, can often be tweaked in
-more than one direction. An example might be the coefficients of an equation,
-where the coefficients are varied in an attempt to make the equation fit
-certain criteria.
+ FUDGE FACTOR n. A value or parameter that is varied in an ad - 15 - hoc way
+to produce the desired result. The terms "tolerance" and "slop" are also
+used, though these usu- ally indicate a one-sided leeway, such as a buffer
+which is made larger than necessary because one isn't sure exactly how large
+it needs to be, and it is better to waste a little space than to lose
+completely for not having enough. A fudge factor, on the other hand, can
+often be tweaked in more than one direction. An example might be the
+coefficients of an equation, where the coefficients are varied in an attempt
+to make the equa- tion fit certain criteria.

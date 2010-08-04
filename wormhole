@@ -1,10 +1,9 @@
  WORMHOLE n. A location in a monitor which contains the address of a routine,
 with the specific intent of making it easy to substitute a different routine.
-The following quote comes from "Polymorphic Systems", vol. 2, p. 54: "Any
-type of I/O device can be substituted for the standard device by loading a
+The follow- ing quote comes from "Polymorphic Systems," vol. 2, p. 54: "Any
+type of I/O device can be substituted for the stan- dard device by loading a
 simple driver routine for that device and installing its address in one of
-the monitor's `wormholes.'* ---------- *The term `wormhole' has been used to
-describe a hypothetical astronomical situation where a black hole connects to
-the `other side' of the universe. When this happens, information can pass
-through the wormhole, in only one direction, much as `assumptions' pass down
-the monitor's wormholes."
+the monitor's __________ *The term has been used to describe a hypothetical
+astronomical situation where a black hole connects to the of the universe.
+When this happens, information can pass through the wormhole, in only one
+direction, much as pass down the monitor's wormholes."

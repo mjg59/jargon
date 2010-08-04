@@ -3,6 +3,6 @@
 be made cleaner. Example: Using small integers to represent error codes
 without the program interpreting them to the user is a crock. Also, a
 technique that works acceptably but which is quite prone to failure if
-disturbed in the least, for example depending on the machine opcodes having
-particular bit patterns so that you can use instructions as data words too; a
-tightly woven, almost completely unmodifiable structure.
+disturbed in the least, for example depending on the machine opcodes hav- ing
+particular bit patterns so that you can use instruc- tions as data words too;
+a tightly woven, almost com- pletely unmodifiable structure.

@@ -1,15 +1,16 @@
- CRUNCH v. 1. To process, usually in a time-consuming or complicated way.
+ CRUNCH v. 1. To process, usually in a time-consuming or com- plicated way.
 Connotes an essentially trivial operation which is nonetheless painful to
-perform. The pain may be due to the triviality being imbedded in a loop from
-1 to 1000000000. "FORTRAN programs do mostly number crunching." 2. To reduce
-the size of a file by a complicated scheme that produces bit configurations
-completely unrelated to the original data, such as by a Huffman code. (The
-file ends up looking like a paper document would if somebody crunched the
-paper into a wad.) Since such compression usually takes more computations
-than simpler methods such as counting repeated characters (such as spaces)
-the term is doubly appropriate. (This meaning is usually used in the
-construction "file crunch(ing)" to distinguish it from "number crunch(ing)".)
-3. n. The character "#". Usage: used at Xerox and CMU, among other places.
-Other names for "#" include SHARP, NUMBER, HASH, PIG-PEN, POUND-SIGN, and
-MESH. GLS adds: I recall reading somewhere that most of these are names for
-the # symbol IN CONTEXT. The name for the sign itself is "octothorp".
+perform. The pain may - 9 - be due to the triviality being imbedded in a loop
+from 1 to 1000000000. "FORTRAN programs do mostly number crunching." 2. To
+reduce the size of a file by a compli- cated scheme that produces bit
+configurations completely unrelated to the original data, such as by a
+Huffman code. (The file ends up looking like a paper document would if
+somebody crunched the paper into a wad.) Since such compression usually takes
+more computations than simpler methods such as counting repeated characters
+(such as spaces) the term is doubly appropriate. (This meaning is usually
+used in the construction "file crunch(ing)" to distinguish it from "number
+crunch(ing).") 3. n. The character "#". Usage: used at Xerox and CMU, among
+other places. Other names for "#" include SHARP, NUMBER, HASH, PIG-PEN,
+POUND-SIGN, and MESH. GLS adds: I recall reading somewhere that most of these
+are names for the # symbol IN CONTEXT. The name for the sign itself is
+"octothorp."
