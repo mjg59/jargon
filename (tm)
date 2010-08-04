@@ -1,5 +1,5 @@
- #======= THIS IS THE JARGON FILE, VERSION 4.4.2, 22 MAY 2003 =======# The
-Jargon File (version 4.4.2)
+ #======= THIS IS THE JARGON FILE, VERSION 4.4.3, 22 JUL 2003 =======# The
+Jargon File (version 4.4.3)
 ________________________________________________________________ Table of
 Contents Welcome to the Jargon File I. Introduction 1. Hacker Slang and
 Hacker Culture 2. Of Slang, Jargon, and Techspeak 3. Revision History 4.
@@ -26,7 +26,7 @@ you can do with it, but there are traditions about its proper use to which
 many hackers are quite strongly attached. Please extend the courtesy of
 proper citation when you quote the File, ideally with a version number, as it
 will change and grow over time. (Examples of appropriate citation form:
-"Jargon File 4.4.2" or "The on-line hacker Jargon File, version 4.4.2, 22 May
+"Jargon File 4.4.3" or "The on-line hacker Jargon File, version 4.4.3, 15 Jul
 2003".) The Jargon File is a common heritage of the hacker culture. Over the
 years a number of individuals have volunteered considerable time to
 maintaining the File and been recognized by the net at large as editors of
@@ -353,34 +353,35 @@ entries. 4.4.0 10 May 2003 32004 230012 1707139 2290 XML-Docbook format
 conversion. Serious pruning of old slang, nearly 100 entries failed the
 Google test and were removed. 4.4.1 13 May 2003 37157 234687 1618716 2290
 XML-Docbook format fixes. 4.4.2 22 May 2003 32629 227852 1555125 2290 Fix
-filename collisions and other small problems. Version numbering: Version
-numbers should be read as major.minor.revision. Major version 1 is reserved
-for the `old' (ITS) Jargon File, jargon-1. Major version 2 encompasses
-revisions by ESR (Eric S. Raymond) with assistance from GLS (Guy L. Steele,
-Jr.) leading up to and including the second paper edition. From now on, major
-version number N.00 will probably correspond to the Nth paper edition.
-Usually later versions will either completely supersede or incorporate
-earlier versions, so there is generally no point in keeping old versions
-around. Our thanks to the coauthors of Steele-1983 for oversight and
-assistance, and to the hundreds of Usenetters (too many to name here) who
-contributed entries and encouragement. More thanks go to several of the
-old-timers on the Usenet group alt.folklore.computers, who contributed much
-useful commentary and many corrections and valuable historical perspective:
-Joseph M. Newcomer <jn11+@andrew.cmu.edu>, Bernie Cosell <cosell@bbn.com>,
-Earl Boebert <boebert@SCTC.com>, and Joe Morris <jcmorris@mwunix.mitre.org>.
-We were fortunate enough to have the aid of some accomplished linguists.
-David Stampe <stampe@hawaii.edu> and Charles Hoequist <hoequist@bnr.ca>
-contributed valuable criticism; Joe Keane <jgk@osc.osc.com> helped us improve
-the pronunciation guides. A few bits of this text quote previous works. We
-are indebted to Brian A. LaMacchia <bal@zurich.ai.mit.edu> for obtaining
-permission for us to use material from the TMRC Dictionary; also, Don Libes
-<libes@cme.nist.gov> contributed some appropriate material from his excellent
-book Life With UNIX. We thank Per Lindberg <per@front.se>, author of the
-remarkable Swedish-language 'zine Hackerbladet, for bringing FOO! comics to
-our attention and smuggling one of the IBM hacker underground's own baby
-jargon files out to us. Thanks also to Maarten Litmaath for generously
-allowing the inclusion of the ASCII pronunciation guide he formerly
-maintained. And our gratitude to Marc Weiser of XEROX PARC
+filename collisions and other small problems. 4.4.3 15 Jul 2003 37363 235135
+1629667 2293 Fix some stylesheet problems leading to missing links. Version
+numbering: Version numbers should be read as major.minor.revision. Major
+version 1 is reserved for the `old' (ITS) Jargon File, jargon-1. Major
+version 2 encompasses revisions by ESR (Eric S. Raymond) with assistance from
+GLS (Guy L. Steele, Jr.) leading up to and including the second paper
+edition. From now on, major version number N.00 will probably correspond to
+the Nth paper edition. Usually later versions will either completely
+supersede or incorporate earlier versions, so there is generally no point in
+keeping old versions around. Our thanks to the coauthors of Steele-1983 for
+oversight and assistance, and to the hundreds of Usenetters (too many to name
+here) who contributed entries and encouragement. More thanks go to several of
+the old-timers on the Usenet group alt.folklore.computers, who contributed
+much useful commentary and many corrections and valuable historical
+perspective: Joseph M. Newcomer <jn11+@andrew.cmu.edu>, Bernie Cosell
+<cosell@bbn.com>, Earl Boebert <boebert@SCTC.com>, and Joe Morris
+<jcmorris@mwunix.mitre.org>. We were fortunate enough to have the aid of some
+accomplished linguists. David Stampe <stampe@hawaii.edu> and Charles Hoequist
+<hoequist@bnr.ca> contributed valuable criticism; Joe Keane <jgk@osc.osc.com>
+helped us improve the pronunciation guides. A few bits of this text quote
+previous works. We are indebted to Brian A. LaMacchia <bal@zurich.ai.mit.edu>
+for obtaining permission for us to use material from the TMRC Dictionary;
+also, Don Libes <libes@cme.nist.gov> contributed some appropriate material
+from his excellent book Life With UNIX. We thank Per Lindberg <per@front.se>,
+author of the remarkable Swedish-language 'zine Hackerbladet, for bringing
+FOO! comics to our attention and smuggling one of the IBM hacker
+underground's own baby jargon files out to us. Thanks also to Maarten
+Litmaath for generously allowing the inclusion of the ASCII pronunciation
+guide he formerly maintained. And our gratitude to Marc Weiser of XEROX PARC
 <Marc_Weiser.PARC@xerox.com> for securing us permission to quote from PARC's
 own jargon lexicon and shipping us a copy. It is a particular pleasure to
 acknowledge the major contributions of Mark Brader and Steve Summit
@@ -444,291 +445,290 @@ Duplicate (on keys) -> Government Duplicity -- Do Not Propagate * for
 historical reasons -> for hysterical raisins * Margaret Jacks Hall (the CS
 building at Stanford) -> Marginal Hacks Hall * Microsoft -> Microsloth *
 Internet Explorer -> Internet Exploiter * FrontPage -> AffrontPage * VB.NET
--> VB Nyet * FrontPage -> AffrontPage * Lotus Notes -> Lotus Bloats *
-Microsoft Outlook -> Microsoft Outhouse * Linux -> Linsux * FreeBSD ->
-FreeLSD * C# -> C Flat This is not really similar to the Cockney rhyming
-slang it has been compared to in the past, because Cockney substitutions are
-opaque whereas hacker punning jargon is intentionally transparent. The -P
-Convention Turning a word into a question by appending the syllable `P'; from
-the LISP convention of appending the letter `P' to denote a predicate (a
-boolean-valued function). The question should expect a yes/no answer, though
-it needn't. (see T and NIL.) At dinnertime: Q: "Foodp?" A: "Yeah, I'm pretty
-hungry." or "T!" At any time: Q: "State-of-the-world-P?" A: (Straight) "I'm
-about to go home." A: (Humorous) "Yes, the world has a state." On the phone
-to Florida: Q: "State-p Florida?" A: "Been reading JARGON.TXT again, eh?"
-[Once, when we were at a Chinese restaurant, Bill Gosper wanted to know
-whether someone would like to share with him a two-person-sized bowl of soup.
-His inquiry was: "Split-p soup?" -- GLS] Overgeneralization A very
-conspicuous feature of jargon is the frequency with which techspeak items
-such as names of program tools, command language primitives, and even
-assembler opcodes are applied to contexts outside of computing wherever
-hackers find amusing analogies to them. Thus (to cite one of the best-known
-examples) Unix hackers often grep for things rather than searching for them.
-Many of the lexicon entries are generalizations of exactly this kind. Hackers
-enjoy overgeneralization on the grammatical level as well. Many hackers love
-to take various words and add the wrong endings to them to make nouns and
-verbs, often by extending a standard rule to nonuniform cases (or vice
-versa). For example, because porous -> porosity and generous -> generosity,
-hackers happily generalize: * mysterious -> mysteriosity * ferrous ->
-ferrosity * obvious -> obviosity * dubious -> dubiosity Another class of
-common construction uses the suffix `-itude' to abstract a quality from just
-about any adjective or noun. This usage arises especially in cases where
-mainstream English would perform the same abstraction through `-iness' or
-`-ingness'. Thus: * win -> winnitude (a common exclamation) * loss ->
-lossitude * cruft -> cruftitude * lame -> lameitude Some hackers cheerfully
-reverse this transformation; they argue, for example, that the horizontal
-degree lines on a globe ought to be called `lats' -- after all, they're
-measuring latitude! Also, note that all nouns can be verbed. E.g.: "All nouns
-can be verbed", "I'll mouse it up", "Hang on while I clipboard it over", "I'm
-grepping the files". English as a whole is already heading in this direction
-(towards pure-positional grammar like Chinese); hackers are simply a bit
-ahead of the curve. The suffix "-full" can also be applied in generalized and
-fanciful ways, as in "As soon as you have more than one cachefull of data,
-the system starts thrashing," or "As soon as I have more than one headfull of
-ideas, I start writing it all down." A common use is "screenfull", meaning
-the amount of text that will fit on one screen, usually in text mode where
-you have no choice as to character size. Another common form is "bufferfull".
-However, hackers avoid the unimaginative verb-making techniques
-characteristic of marketroids, bean-counters, and the Pentagon; a hacker
-would never, for example, `productize', `prioritize', or `securitize' things.
-Hackers have a strong aversion to bureaucratic bafflegab and regard those who
-use it with contempt. Similarly, all verbs can be nouned. This is only a
-slight overgeneralization in modern English; in hackish, however, it is good
-form to mark them in some standard nonstandard way. Thus: * win -> winnitude,
-winnage * disgust -> disgustitude * hack -> hackification Further, note the
-prevalence of certain kinds of nonstandard plural forms. Some of these go
-back quite a ways; the TMRC Dictionary includes an entry which implies that
-the plural of `mouse' is meeces, and notes that the defined plural of
-`caboose' is `cabeese'. This latter has apparently been standard (or at least
-a standard joke) among railfans (railroad enthusiasts) for many years On a
-similarly Anglo-Saxon note, almost anything ending in `x' may form plurals in
-`-xen' (see VAXen and boxen in the main text). Even words ending in phonetic
-/k/ alone are sometimes treated this way; e.g., `soxen' for a bunch of socks.
-Other funny plurals are the Hebrew-style `frobbotzim' for the plural of
-`frobbozz' (see frobnitz) and `Unices' and `Twenices' (rather than `Unixes'
-and `Twenexes'; see Unix, TWENEX in main text). But note that `Twenexen' was
-never used, and `Unixen' was not sighted in the wild until the year 2000,
-thirty years after it might logically have come into use; it has been
-suggested that this is because `-ix' and `-ex' are Latin singular endings
-that attract a Latinate plural. Among Perl hackers it is reported that
-`comma' and `semicolon' pluralize as `commata' and `semicola' respectively.
-Finally, it has been suggested to general approval that the plural of
-`mongoose' ought to be `polygoose'. The pattern here, as with other hackish
-grammatical quirks, is generalization of an inflectional rule that in English
-is either an import or a fossil (such as the Hebrew plural ending `-im', or
-the Anglo-Saxon plural suffix `-en') to cases where it isn't normally
-considered to apply. This is not `poor grammar', as hackers are generally
-quite well aware of what they are doing when they distort the language. It is
-grammatical creativity, a form of playfulness. It is done not to impress but
-to amuse, and never at the expense of clarity. Spoken inarticulations Words
-such as `mumble', `sigh', and `groan' are spoken in places where their
-referent might more naturally be used. It has been suggested that this usage
-derives from the impossibility of representing such noises on a comm link or
-in electronic mail, MUDs, and IRC channels (interestingly, the same sorts of
-constructions have been showing up with increasing frequency in comic
-strips). Another expression sometimes heard is "Complain!", meaning "I have a
-complaint!" Anthropomorphization Semantically, one rich source of jargon
-constructions is the hackish tendency to anthropomorphize hardware and
-software. English purists and academic computer scientists frequently look
-down on others for anthropomorphizing hardware and software, considering this
-sort of behavior to be characteristic of naive misunderstanding. But most
-hackers anthropomorphize freely, frequently describing program behavior in
-terms of wants and desires. Thus it is common to hear hardware or software
-talked about as though it has homunculi talking to each other inside it, with
-intentions and desires. Thus, one hears "The protocol handler got confused",
-or that programs "are trying" to do things, or one may say of a routine that
-"its goal in life is to X". Or: "You can't run those two cards on the same
-bus; they fight over interrupt 9." One even hears explanations like "... and
-its poor little brain couldn't understand X, and it died." Sometimes
-modelling things this way actually seems to make them easier to understand,
-perhaps because it's instinctively natural to think of anything with a really
-complex behavioral repertoire as `like a person' rather than `like a thing'.
-At first glance, to anyone who understands how these programs actually work,
-this seems like an absurdity. As hackers are among the people who know best
-how these phenomena work, it seems odd that they would use language that
-seems to ascribe consciousness to them. The mind-set behind this tendency
-thus demands examination. The key to understanding this kind of usage is that
-it isn't done in a naive way; hackers don't personalize their stuff in the
-sense of feeling empathy with it, nor do they mystically believe that the
-things they work on every day are `alive'. To the contrary: hackers who
-anthropomorphize are expressing not a vitalistic view of program behavior but
-a mechanistic view of human behavior. Almost all hackers subscribe to the
-mechanistic, materialistic ontology of science (this is in practice true even
-of most of the minority with contrary religious theories). In this view,
-people are biological machines -- consciousness is an interesting and
-valuable epiphenomenon, but mind is implemented in machinery which is not
-fundamentally different in information-processing capacity from computers.
-Hackers tend to take this a step further and argue that the difference
-between a substrate of CHON atoms and water and a substrate of silicon and
-metal is a relatively unimportant one; what matters, what makes a thing
-`alive', is information and richness of pattern. This is animism from the
-flip side; it implies that humans and computers and dolphins and rocks are
-all machines exhibiting a continuum of modes of `consciousness' according to
-their information-processing capacity. Because hackers accept that a human
-machine can have intentions, it is therefore easy for them to ascribe
-consciousness and intention to other complex patterned systems such as
-computers. If consciousness is mechanical, it is neither more or less absurd
-to say that "The program wants to go into an infinite loop" than it is to say
-that "I want to go eat some chocolate" -- and even defensible to say that
-"The stone, once dropped, wants to move towards the center of the earth".
-This viewpoint has respectable company in academic philosophy. Daniel Dennett
-organizes explanations of behavior using three stances: the "physical stance"
-(thing-to-be-explained as a physical object), the "design stance"
-(thing-to-be-explained as an artifact), and the "intentional stance"
-(thing-to-be-explained as an agent with desires and intentions). Which
-stances are appropriate is a matter not of abstract truth but of utility.
-Hackers typically view simple programs from the design stance, but more
-complex ones are often modelled using the intentional stance. It has also
-been argued that the anthropomorphization of software and hardware reflects a
-blurring of the boundary between the programmer and his artifacts -- the
-human qualities belong to the programmer and the code merely expresses these
-qualities as his/her proxy. On this view, a hacker saying a piece of code
-`got confused' is really saying that he (or she) was confused about exactly
-what he wanted the computer to do, the code naturally incorporated this
-confusion, and the code expressed the programmer's confusion when executed by
-crashing or otherwise misbehaving. Note that by displacing from "I got
-confused" to "It got confused", the programmer is not avoiding
-responsibility, but rather getting some analytical distance in order to be
-able to consider the bug dispassionately. It has also been suggested that
-anthropomorphizing complex systems is actually an expression of humility, a
-way of acknowleging that simple rules we do understand (or that we invented)
-can lead to emergent behavioral complexities that we don't completely
-understand. All three explanations accurately model hacker psychology, and
-should be considered complementary rather than competing. Comparatives
-Finally, note that many words in hacker jargon have to be understood as
-members of sets of comparatives. This is especially true of the adjectives
-and nouns used to describe the beauty and functional quality of code. Here is
-an approximately correct spectrum: monstrosity brain-damage screw bug lose
-misfeature crock kluge hack win feature elegance perfection The last is
-spoken of as a mythical absolute, approximated but never actually attained.
-Another similar scale is used for describing the reliability of software:
-broken flaky dodgy fragile brittle solid robust bulletproof armor-plated
-Note, however, that `dodgy' is primarily Commonwealth Hackish (it is rare in
-the U.S.) and may change places with `flaky' for some speakers. Coinages for
-describing lossage seem to call forth the very finest in hackish linguistic
-inventiveness; it has been truly said that hackers have even more words for
-equipment failures than Yiddish has for obnoxious people. Chapter 5. Hacker
-Writing Style We've already seen that hackers often coin jargon by
-overgeneralizing grammatical rules. This is one aspect of a more general
-fondness for form-versus-content language jokes that shows up particularly in
-hackish writing. One correspondent reports that he consistently misspells
-`wrong' as `worng'. Others have been known to criticize glitches in Jargon
-File drafts by observing (in the mode of Douglas Hofstadter) "This sentence
-no verb", or "Too repetetetive", or "Bad speling", or "Incorrectspa cing."
-Similarly, intentional spoonerisms are often made of phrases relating to
-confusion or things that are confusing; `dain bramage' for `brain damage' is
-perhaps the most common (similarly, a hacker would be likely to write "Excuse
-me, I'm cixelsyd today", rather than "I'm dyslexic today"). This sort of
-thing is quite common and is enjoyed by all concerned. Hackers tend to use
-quotes as balanced delimiters like parentheses, much to the dismay of
-American editors. Thus, if "Jim is going" is a phrase, and so are "Bill runs"
-and "Spock groks", then hackers generally prefer to write: "Jim is going",
-"Bill runs", and "Spock groks". This is incorrect according to standard
-American usage (which would put the continuation commas and the final period
-inside the string quotes); however, it is counter-intuitive to hackers to
-mutilate literal strings with characters that don't belong in them. Given the
-sorts of examples that can come up in discussions of programming,
-American-style quoting can even be grossly misleading. When communicating
-command lines or small pieces of code, extra characters can be a real pain in
-the neck. Consider, for example, a sentence in a vi tutorial that looks like
-this: Then delete a line from the file by typing "dd". Standard usage would
-make this Then delete a line from the file by typing "dd." but that would be
-very bad -- because the reader would be prone to type the string d-d-dot, and
-it happens that in vi(1), dot repeats the last command accepted. The net
-result would be to delete two lines! The Jargon File follows hackish usage
-throughout. Interestingly, a similar style is now preferred practice in Great
-Britain, though the older style (which became established for typographical
-reasons having to do with the aesthetics of comma and quotes in typeset text)
-is still accepted there. Hart's Rules and the Oxford Dictionary for Writers
-and Editors call the hacker-like style `new' or `logical' quoting. This
-returns British English to the style many other languages (including Spanish,
-French, Italian, Catalan, and German) have been using all along. Another
-hacker habit is a tendency to distinguish between `scare' quotes and `speech'
-quotes; that is, to use British-style single quotes for marking and reserve
-American-style double quotes for actual reports of speech or text included
-from elsewhere. Interestingly, some authorities describe this as correct
-general usage, but mainstream American English has gone to using
-double-quotes indiscriminately enough that hacker usage appears marked [and,
-in fact, I thought this was a personal quirk of mine until I checked with
-Usenet --ESR] One further permutation that is definitely not standard is a
-hackish tendency to do marking quotes by using apostrophes (single quotes) in
-pairs; that is, 'like this'. This is modelled on string and character literal
-syntax in some programming languages (reinforced by the fact that many
-character-only terminals display the apostrophe in typewriter style, as a
-vertical single quote). One quirk that shows up frequently in the email style
-of Unix hackers in particular is a tendency for some things that are normally
-all-lowercase (including usernames and the names of commands and C routines)
-to remain uncapitalized even when they occur at the beginning of sentences.
-It is clear that, for many hackers, the case of such identifiers becomes a
-part of their internal representation (the `spelling') and cannot be
-overridden without mental effort (an appropriate reflex because Unix and C
-both distinguish cases and confusing them can lead to lossage). A way of
-escaping this dilemma is simply to avoid using these constructions at the
-beginning of sentences. There seems to be a meta-rule behind these
-nonstandard hackerisms to the effect that precision of expression is more
-important than conformance to traditional rules; where the latter create
-ambiguity or lose information they can be discarded without a second thought.
-It is notable in this respect that other hackish inventions (for example, in
-vocabulary) also tend to carry very precise shades of meaning even when
-constructed to appear slangy and loose. In fact, to a hacker, the contrast
-between `loose' form and `tight' content in jargon is a substantial part of
-its humor! Hackers have also developed a number of punctuation and emphasis
-conventions adapted to single-font all-ASCII communications links, and these
-are occasionally carried over into written documents even when normal means
-of font changes, underlining, and the like are available. One of these is
-that TEXT IN ALL CAPS IS INTERPRETED AS `LOUD', and this becomes such an
-ingrained synesthetic reflex that a person who goes to caps-lock while in
-talk mode may be asked to "stop shouting, please, you're hurting my ears!".
-Also, it is common to use bracketing with unusual characters to signify
-emphasis. The asterisk is most common, as in "What the *hell*?" even though
-this interferes with the common use of the asterisk suffix as a footnote
-mark. The underscore is also common, suggesting underlining (this is
-particularly common with book titles; for example, "It is often alleged that
-Joe Haldeman wrote _The_Forever_War_ as a rebuttal to Robert Heinlein's
-earlier novel of the future military, _Starship_Troopers_."). Other forms
-exemplified by "=hell=", "\hell/", or "/hell/" are occasionally seen (it's
-claimed that in the last example the first slash pushes the letters over to
-the right to make them italic, and the second keeps them from falling over).
-On FidoNet, you might see #bright# and ^dark^ text, which was actually
-interpreted by some reader software. Finally, words may also be emphasized L
-I K E T H I S, or by a series of carets (^) under them on the next line of
-the text. There is a semantic difference between *emphasis like this* (which
-emphasizes the phrase as a whole), and *emphasis* *like* *this* (which
-suggests the writer speaking very slowly and distinctly, as if to a very
-young child or a mentally impaired person). Bracketing a word with the `*'
-character may also indicate that the writer wishes readers to consider that
-an action is taking place or that a sound is being made. Examples: *bang*,
-*hic*, *ring*, *grin*, *kick*, *stomp*, *mumble*. One might also see the
-above sound effects as <bang>, <hic>, <ring>, <grin>, <kick>, <stomp>,
-<mumble>. This use of angle brackets to mark their contents originally
-derives from conventions used in BNF, but since about 1993 it has been
-reinforced by the HTML markup used on the World Wide Web. Angle-bracket
-enclosure is also used to indicate that a term stands for some random member
-of a larger class (this is straight from BNF). Examples like the following
-are common: So this <ethnic> walks into a bar one day... There is also an
-accepted convention for `writing under erasure'; the text> Be nice to this
-fool^H^H^H^Hgentleman, he's visiting from corporate HQ. reads roughly as "Be
-nice to this fool, er, gentleman...", with irony emphasized. The digraph ^H
-is often used as a print representation for a backspace, and was actually
-very visible on old-style printing terminals. As the text was being composed
-the characters would be echoed and printed immediately, and when a correction
-was made the backspace keystrokes would be echoed with the string `^H'. Of
-course, the final composed text would have no trace of the backspace
-characters (or the original erroneous text). Accidental writing under erasure
-occurs when using the Unix talk program to chat interactively to another
-user. On a PC-style keyboard most users instinctively press the backspace key
-to delete mistakes, but this may not achieve the desired effect, and merely
-displays a ^H symbol. The user typically presses backspace a few times before
-their brain realises the problem -- especially likely if the user is a
-touch-typist -- and since each character is transmitted as soon as it is
-typed, Freudian slips and other inadvertent admissions are (barring network
-delays) clearly visible for the other user to see. Deliberate use of ^H for
-writing under erasure parallels (and may have been influenced by) the ironic
-use of `slashouts' in science-fiction fanzines. A related habit uses editor
-commands to signify corrections to previous text. This custom faded in email
-as more mailers got good editing capabilities, only to take on new life on
-IRCs and other line-based chat systems. charlie: I've seen that term used on
-alt.foobar often. lisa: Send it to Erik for the File. lisa:
+-> VB Nyet * Lotus Notes -> Lotus Bloats * Microsoft Outlook -> Microsoft
+Outhouse * Linux -> Linsux * FreeBSD -> FreeLSD * C# -> C Flat This is not
+really similar to the Cockney rhyming slang it has been compared to in the
+past, because Cockney substitutions are opaque whereas hacker punning jargon
+is intentionally transparent. The -P Convention Turning a word into a
+question by appending the syllable `P'; from the LISP convention of appending
+the letter `P' to denote a predicate (a boolean-valued function). The
+question should expect a yes/no answer, though it needn't. (see T and NIL.)
+At dinnertime: Q: "Foodp?" A: "Yeah, I'm pretty hungry." or "T!" At any time:
+Q: "State-of-the-world-P?" A: (Straight) "I'm about to go home." A:
+(Humorous) "Yes, the world has a state." On the phone to Florida: Q: "State-p
+Florida?" A: "Been reading JARGON.TXT again, eh?" [Once, when we were at a
+Chinese restaurant, Bill Gosper wanted to know whether someone would like to
+share with him a two-person-sized bowl of soup. His inquiry was: "Split-p
+soup?" -- GLS] Overgeneralization A very conspicuous feature of jargon is the
+frequency with which techspeak items such as names of program tools, command
+language primitives, and even assembler opcodes are applied to contexts
+outside of computing wherever hackers find amusing analogies to them. Thus
+(to cite one of the best-known examples) Unix hackers often grep for things
+rather than searching for them. Many of the lexicon entries are
+generalizations of exactly this kind. Hackers enjoy overgeneralization on the
+grammatical level as well. Many hackers love to take various words and add
+the wrong endings to them to make nouns and verbs, often by extending a
+standard rule to nonuniform cases (or vice versa). For example, because
+porous -> porosity and generous -> generosity, hackers happily generalize: *
+mysterious -> mysteriosity * ferrous -> ferrosity * obvious -> obviosity *
+dubious -> dubiosity Another class of common construction uses the suffix
+`-itude' to abstract a quality from just about any adjective or noun. This
+usage arises especially in cases where mainstream English would perform the
+same abstraction through `-iness' or `-ingness'. Thus: * win -> winnitude (a
+common exclamation) * loss -> lossitude * cruft -> cruftitude * lame ->
+lameitude Some hackers cheerfully reverse this transformation; they argue,
+for example, that the horizontal degree lines on a globe ought to be called
+`lats' -- after all, they're measuring latitude! Also, note that all nouns
+can be verbed. E.g.: "All nouns can be verbed", "I'll mouse it up", "Hang on
+while I clipboard it over", "I'm grepping the files". English as a whole is
+already heading in this direction (towards pure-positional grammar like
+Chinese); hackers are simply a bit ahead of the curve. The suffix "-full" can
+also be applied in generalized and fanciful ways, as in "As soon as you have
+more than one cachefull of data, the system starts thrashing," or "As soon as
+I have more than one headfull of ideas, I start writing it all down." A
+common use is "screenfull", meaning the amount of text that will fit on one
+screen, usually in text mode where you have no choice as to character size.
+Another common form is "bufferfull". However, hackers avoid the unimaginative
+verb-making techniques characteristic of marketroids, bean-counters, and the
+Pentagon; a hacker would never, for example, `productize', `prioritize', or
+`securitize' things. Hackers have a strong aversion to bureaucratic bafflegab
+and regard those who use it with contempt. Similarly, all verbs can be
+nouned. This is only a slight overgeneralization in modern English; in
+hackish, however, it is good form to mark them in some standard nonstandard
+way. Thus: * win -> winnitude, winnage * disgust -> disgustitude * hack ->
+hackification Further, note the prevalence of certain kinds of nonstandard
+plural forms. Some of these go back quite a ways; the TMRC Dictionary
+includes an entry which implies that the plural of `mouse' is meeces, and
+notes that the defined plural of `caboose' is `cabeese'. This latter has
+apparently been standard (or at least a standard joke) among railfans
+(railroad enthusiasts) for many years On a similarly Anglo-Saxon note, almost
+anything ending in `x' may form plurals in `-xen' (see VAXen and boxen in the
+main text). Even words ending in phonetic /k/ alone are sometimes treated
+this way; e.g., `soxen' for a bunch of socks. Other funny plurals are the
+Hebrew-style `frobbotzim' for the plural of `frobbozz' (see frobnitz) and
+`Unices' and `Twenices' (rather than `Unixes' and `Twenexes'; see Unix,
+TWENEX in main text). But note that `Twenexen' was never used, and `Unixen'
+was not sighted in the wild until the year 2000, thirty years after it might
+logically have come into use; it has been suggested that this is because
+`-ix' and `-ex' are Latin singular endings that attract a Latinate plural.
+Among Perl hackers it is reported that `comma' and `semicolon' pluralize as
+`commata' and `semicola' respectively. Finally, it has been suggested to
+general approval that the plural of `mongoose' ought to be `polygoose'. The
+pattern here, as with other hackish grammatical quirks, is generalization of
+an inflectional rule that in English is either an import or a fossil (such as
+the Hebrew plural ending `-im', or the Anglo-Saxon plural suffix `-en') to
+cases where it isn't normally considered to apply. This is not `poor
+grammar', as hackers are generally quite well aware of what they are doing
+when they distort the language. It is grammatical creativity, a form of
+playfulness. It is done not to impress but to amuse, and never at the expense
+of clarity. Spoken inarticulations Words such as `mumble', `sigh', and
+`groan' are spoken in places where their referent might more naturally be
+used. It has been suggested that this usage derives from the impossibility of
+representing such noises on a comm link or in electronic mail, MUDs, and IRC
+channels (interestingly, the same sorts of constructions have been showing up
+with increasing frequency in comic strips). Another expression sometimes
+heard is "Complain!", meaning "I have a complaint!" Anthropomorphization
+Semantically, one rich source of jargon constructions is the hackish tendency
+to anthropomorphize hardware and software. English purists and academic
+computer scientists frequently look down on others for anthropomorphizing
+hardware and software, considering this sort of behavior to be characteristic
+of naive misunderstanding. But most hackers anthropomorphize freely,
+frequently describing program behavior in terms of wants and desires. Thus it
+is common to hear hardware or software talked about as though it has
+homunculi talking to each other inside it, with intentions and desires. Thus,
+one hears "The protocol handler got confused", or that programs "are trying"
+to do things, or one may say of a routine that "its goal in life is to X".
+Or: "You can't run those two cards on the same bus; they fight over interrupt
+9." One even hears explanations like "... and its poor little brain couldn't
+understand X, and it died." Sometimes modelling things this way actually
+seems to make them easier to understand, perhaps because it's instinctively
+natural to think of anything with a really complex behavioral repertoire as
+`like a person' rather than `like a thing'. At first glance, to anyone who
+understands how these programs actually work, this seems like an absurdity.
+As hackers are among the people who know best how these phenomena work, it
+seems odd that they would use language that seems to ascribe consciousness to
+them. The mind-set behind this tendency thus demands examination. The key to
+understanding this kind of usage is that it isn't done in a naive way;
+hackers don't personalize their stuff in the sense of feeling empathy with
+it, nor do they mystically believe that the things they work on every day are
+`alive'. To the contrary: hackers who anthropomorphize are expressing not a
+vitalistic view of program behavior but a mechanistic view of human behavior.
+Almost all hackers subscribe to the mechanistic, materialistic ontology of
+science (this is in practice true even of most of the minority with contrary
+religious theories). In this view, people are biological machines --
+consciousness is an interesting and valuable epiphenomenon, but mind is
+implemented in machinery which is not fundamentally different in
+information-processing capacity from computers. Hackers tend to take this a
+step further and argue that the difference between a substrate of CHON atoms
+and water and a substrate of silicon and metal is a relatively unimportant
+one; what matters, what makes a thing `alive', is information and richness of
+pattern. This is animism from the flip side; it implies that humans and
+computers and dolphins and rocks are all machines exhibiting a continuum of
+modes of `consciousness' according to their information-processing capacity.
+Because hackers accept that a human machine can have intentions, it is
+therefore easy for them to ascribe consciousness and intention to other
+complex patterned systems such as computers. If consciousness is mechanical,
+it is neither more or less absurd to say that "The program wants to go into
+an infinite loop" than it is to say that "I want to go eat some chocolate" --
+and even defensible to say that "The stone, once dropped, wants to move
+towards the center of the earth". This viewpoint has respectable company in
+academic philosophy. Daniel Dennett organizes explanations of behavior using
+three stances: the "physical stance" (thing-to-be-explained as a physical
+object), the "design stance" (thing-to-be-explained as an artifact), and the
+"intentional stance" (thing-to-be-explained as an agent with desires and
+intentions). Which stances are appropriate is a matter not of abstract truth
+but of utility. Hackers typically view simple programs from the design
+stance, but more complex ones are often modelled using the intentional
+stance. It has also been argued that the anthropomorphization of software and
+hardware reflects a blurring of the boundary between the programmer and his
+artifacts -- the human qualities belong to the programmer and the code merely
+expresses these qualities as his/her proxy. On this view, a hacker saying a
+piece of code `got confused' is really saying that he (or she) was confused
+about exactly what he wanted the computer to do, the code naturally
+incorporated this confusion, and the code expressed the programmer's
+confusion when executed by crashing or otherwise misbehaving. Note that by
+displacing from "I got confused" to "It got confused", the programmer is not
+avoiding responsibility, but rather getting some analytical distance in order
+to be able to consider the bug dispassionately. It has also been suggested
+that anthropomorphizing complex systems is actually an expression of
+humility, a way of acknowleging that simple rules we do understand (or that
+we invented) can lead to emergent behavioral complexities that we don't
+completely understand. All three explanations accurately model hacker
+psychology, and should be considered complementary rather than competing.
+Comparatives Finally, note that many words in hacker jargon have to be
+understood as members of sets of comparatives. This is especially true of the
+adjectives and nouns used to describe the beauty and functional quality of
+code. Here is an approximately correct spectrum: monstrosity brain-damage
+screw bug lose misfeature crock kluge hack win feature elegance perfection
+The last is spoken of as a mythical absolute, approximated but never actually
+attained. Another similar scale is used for describing the reliability of
+software: broken flaky dodgy fragile brittle solid robust bulletproof
+armor-plated Note, however, that `dodgy' is primarily Commonwealth Hackish
+(it is rare in the U.S.) and may change places with `flaky' for some
+speakers. Coinages for describing lossage seem to call forth the very finest
+in hackish linguistic inventiveness; it has been truly said that hackers have
+even more words for equipment failures than Yiddish has for obnoxious people.
+Chapter 5. Hacker Writing Style We've already seen that hackers often coin
+jargon by overgeneralizing grammatical rules. This is one aspect of a more
+general fondness for form-versus-content language jokes that shows up
+particularly in hackish writing. One correspondent reports that he
+consistently misspells `wrong' as `worng'. Others have been known to
+criticize glitches in Jargon File drafts by observing (in the mode of Douglas
+Hofstadter) "This sentence no verb", or "Too repetetetive", or "Bad speling",
+or "Incorrectspa cing." Similarly, intentional spoonerisms are often made of
+phrases relating to confusion or things that are confusing; `dain bramage'
+for `brain damage' is perhaps the most common (similarly, a hacker would be
+likely to write "Excuse me, I'm cixelsyd today", rather than "I'm dyslexic
+today"). This sort of thing is quite common and is enjoyed by all concerned.
+Hackers tend to use quotes as balanced delimiters like parentheses, much to
+the dismay of American editors. Thus, if "Jim is going" is a phrase, and so
+are "Bill runs" and "Spock groks", then hackers generally prefer to write:
+"Jim is going", "Bill runs", and "Spock groks". This is incorrect according
+to standard American usage (which would put the continuation commas and the
+final period inside the string quotes); however, it is counter-intuitive to
+hackers to mutilate literal strings with characters that don't belong in
+them. Given the sorts of examples that can come up in discussions of
+programming, American-style quoting can even be grossly misleading. When
+communicating command lines or small pieces of code, extra characters can be
+a real pain in the neck. Consider, for example, a sentence in a vi tutorial
+that looks like this: Then delete a line from the file by typing "dd".
+Standard usage would make this Then delete a line from the file by typing
+"dd." but that would be very bad -- because the reader would be prone to type
+the string d-d-dot, and it happens that in vi(1), dot repeats the last
+command accepted. The net result would be to delete two lines! The Jargon
+File follows hackish usage throughout. Interestingly, a similar style is now
+preferred practice in Great Britain, though the older style (which became
+established for typographical reasons having to do with the aesthetics of
+comma and quotes in typeset text) is still accepted there. Hart's Rules and
+the Oxford Dictionary for Writers and Editors call the hacker-like style
+`new' or `logical' quoting. This returns British English to the style many
+other languages (including Spanish, French, Italian, Catalan, and German)
+have been using all along. Another hacker habit is a tendency to distinguish
+between `scare' quotes and `speech' quotes; that is, to use British-style
+single quotes for marking and reserve American-style double quotes for actual
+reports of speech or text included from elsewhere. Interestingly, some
+authorities describe this as correct general usage, but mainstream American
+English has gone to using double-quotes indiscriminately enough that hacker
+usage appears marked [and, in fact, I thought this was a personal quirk of
+mine until I checked with Usenet --ESR] One further permutation that is
+definitely not standard is a hackish tendency to do marking quotes by using
+apostrophes (single quotes) in pairs; that is, 'like this'. This is modelled
+on string and character literal syntax in some programming languages
+(reinforced by the fact that many character-only terminals display the
+apostrophe in typewriter style, as a vertical single quote). One quirk that
+shows up frequently in the email style of Unix hackers in particular is a
+tendency for some things that are normally all-lowercase (including usernames
+and the names of commands and C routines) to remain uncapitalized even when
+they occur at the beginning of sentences. It is clear that, for many hackers,
+the case of such identifiers becomes a part of their internal representation
+(the `spelling') and cannot be overridden without mental effort (an
+appropriate reflex because Unix and C both distinguish cases and confusing
+them can lead to lossage). A way of escaping this dilemma is simply to avoid
+using these constructions at the beginning of sentences. There seems to be a
+meta-rule behind these nonstandard hackerisms to the effect that precision of
+expression is more important than conformance to traditional rules; where the
+latter create ambiguity or lose information they can be discarded without a
+second thought. It is notable in this respect that other hackish inventions
+(for example, in vocabulary) also tend to carry very precise shades of
+meaning even when constructed to appear slangy and loose. In fact, to a
+hacker, the contrast between `loose' form and `tight' content in jargon is a
+substantial part of its humor! Hackers have also developed a number of
+punctuation and emphasis conventions adapted to single-font all-ASCII
+communications links, and these are occasionally carried over into written
+documents even when normal means of font changes, underlining, and the like
+are available. One of these is that TEXT IN ALL CAPS IS INTERPRETED AS
+`LOUD', and this becomes such an ingrained synesthetic reflex that a person
+who goes to caps-lock while in talk mode may be asked to "stop shouting,
+please, you're hurting my ears!". Also, it is common to use bracketing with
+unusual characters to signify emphasis. The asterisk is most common, as in
+"What the *hell*?" even though this interferes with the common use of the
+asterisk suffix as a footnote mark. The underscore is also common, suggesting
+underlining (this is particularly common with book titles; for example, "It
+is often alleged that Joe Haldeman wrote _The_Forever_War_ as a rebuttal to
+Robert Heinlein's earlier novel of the future military,
+_Starship_Troopers_."). Other forms exemplified by "=hell=", "\hell/", or
+"/hell/" are occasionally seen (it's claimed that in the last example the
+first slash pushes the letters over to the right to make them italic, and the
+second keeps them from falling over). On FidoNet, you might see #bright# and
+^dark^ text, which was actually interpreted by some reader software. Finally,
+words may also be emphasized L I K E T H I S, or by a series of carets (^)
+under them on the next line of the text. There is a semantic difference
+between *emphasis like this* (which emphasizes the phrase as a whole), and
+*emphasis* *like* *this* (which suggests the writer speaking very slowly and
+distinctly, as if to a very young child or a mentally impaired person).
+Bracketing a word with the `*' character may also indicate that the writer
+wishes readers to consider that an action is taking place or that a sound is
+being made. Examples: *bang*, *hic*, *ring*, *grin*, *kick*, *stomp*,
+*mumble*. One might also see the above sound effects as <bang>, <hic>,
+<ring>, <grin>, <kick>, <stomp>, <mumble>. This use of angle brackets to mark
+their contents originally derives from conventions used in BNF, but since
+about 1993 it has been reinforced by the HTML markup used on the World Wide
+Web. Angle-bracket enclosure is also used to indicate that a term stands for
+some random member of a larger class (this is straight from BNF). Examples
+like the following are common: So this <ethnic> walks into a bar one day...
+There is also an accepted convention for `writing under erasure'; the text>
+Be nice to this fool^H^H^H^Hgentleman, he's visiting from corporate HQ. reads
+roughly as "Be nice to this fool, er, gentleman...", with irony emphasized.
+The digraph ^H is often used as a print representation for a backspace, and
+was actually very visible on old-style printing terminals. As the text was
+being composed the characters would be echoed and printed immediately, and
+when a correction was made the backspace keystrokes would be echoed with the
+string `^H'. Of course, the final composed text would have no trace of the
+backspace characters (or the original erroneous text). Accidental writing
+under erasure occurs when using the Unix talk program to chat interactively
+to another user. On a PC-style keyboard most users instinctively press the
+backspace key to delete mistakes, but this may not achieve the desired
+effect, and merely displays a ^H symbol. The user typically presses backspace
+a few times before their brain realises the problem -- especially likely if
+the user is a touch-typist -- and since each character is transmitted as soon
+as it is typed, Freudian slips and other inadvertent admissions are (barring
+network delays) clearly visible for the other user to see. Deliberate use of
+^H for writing under erasure parallels (and may have been influenced by) the
+ironic use of `slashouts' in science-fiction fanzines. A related habit uses
+editor commands to signify corrections to previous text. This custom faded in
+email as more mailers got good editing capabilities, only to take on new life
+on IRCs and other line-based chat systems. charlie: I've seen that term used
+on alt.foobar often. lisa: Send it to Erik for the File. lisa:
 Oops...s/Erik/Eric/. The s/Erik/Eric/ says "change Erik to Eric in the
 preceding". This syntax is borrowed from the Unix editing tools ed and sed,
 but is widely recognized by non-Unix hackers as well. In a formula, *
@@ -1075,7 +1075,7 @@ Institute of Technology; esp. the legendary MIT AI Lab culture of roughly
 1971 to 1983 and its feeder groups, including the Tech Model Railroad Club
 NRL Naval Research Laboratories NYU New York University OED The Oxford
 English Dictionary Purdue Purdue University SAIL Stanford Artificial
-Intelligence Laboratory (at Stanford University) SI From Systéme
+Intelligence Laboratory (at Stanford University) SI From Système
 International, the name for the standard abbreviations of metric nomenclature
 used in the sciences Stanford Stanford University Sun Sun Microsystems TMRC
 Some MITisms go back as far as the Tech Model Railroad Club (TMRC) at MIT c.
@@ -1128,8 +1128,325 @@ in which they were written, chase pointers from here using the `next cartoon'
 information in the captions. A few don't have next pointers; these are
 vignettes from the 1973 Crunchland tableau spread that inaugurated the strip.
 Here is a framed version of the glossary. Table of Contents Glossary Glossary
-0 :(TM): // [Usenet] ASCII rendition of the (TM) appended to phrases that the
-author feels should be recorded for posterity, perhaps in future editions of
-this lexicon. Sometimes used ironically as a form of protest against the
-recent spate of software and algorithm patents and look and feel lawsuits.
-see also {UN*X}.
+0 (TM) /dev/null /me 0 1TBS 2 404 404 compliant @-party A abbrev ABEND
+accumulator ACK Acme ad-hockery address harvester adger admin ADVENT adware
+AFAIK AFJ AFK AI AI-complete airplane rule Alderson loop aliasing bug Alice
+and Bob All hardware sucks, all software sucks. all your base are belong to
+us alpha geek alpha particles alt alt bit Aluminum Book ambimouseterous Amiga
+Amiga Persecution Complex amp off amper and there was much rejoicing Angband
+angle brackets angry fruit salad annoybot annoyware ANSI standard ANSI
+standard pizza anti-idiotarianism AOL! app Archimedes arena arg ARMM
+armor-plated asbestos asbestos cork award asbestos longjohns ASCII ASCII art
+ASCIIbetical order astroturfing atomic attoparsec Aunt Tillie AUP
+autobogotiphobia autoconfiscate automagically avatar awk B B1FF B5 back door
+backbone cabal backbone site backgammon background backreference backronym
+backward combatability BAD Bad and Wrong Bad Thing bag on the side bagbiter
+bagbiting baggy pantsing balloonian variable bamf banana problem bandwidth
+bang bang on bang path banner banner ad banner site bar bare metal barf
+barfmail barfulation barfulous barn barney baroque BASIC batbelt batch
+bathtub curve Batman factor baud baz bazaar bboard BBS BCPL BDFL beam beanie
+key beep Befunge beige toaster bells and whistles bells whistles and gongs
+benchmark Berkeley Quality Software Berzerkeley beta BFI BI bible
+BiCapitalization biff big iron Big Red Switch Big Room big win big-endian
+bignum bigot bikeshedding binary four bit bit bashing bit bucket bit decay
+bit rot bit twiddling bit-paired keyboard bitblt bits bitty box bixie black
+art black hat black hole black magic Black Screen of Death blammo blargh
+blast blat bletch bletcherous blinkenlights blit blitter blivet bloatware
+BLOB block blog Bloggs Family blogosphere blogrolling blow an EPROM blow away
+blow out blow past blow up BLT blue box Blue Glue blue goo Blue Screen of
+Death blue wire blurgle BNF boa board boat anchor bob bodge BOF BOFH
+bogo-sort bogometer BogoMIPS bogon bogon filter bogon flux bogosity bogotify
+bogue out bogus Bohr bug boink bomb bondage-and-discipline language bonk/oif
+book titles boot Borg borken bot bottom feeder bottom-post bottom-up
+implementation bounce bounce message boustrophedon box boxed comments boxen
+boxology bozotic brain dump brain fart brain-damaged brain-dead braino
+brainwidth bread crumbs break break-even point breath-of-life packet breedle
+Breidbart Index bricktext bring X to its knees brittle broadcast storm broken
+broken arrow broken-ring network BrokenWindows broket Brooks's Law
+brown-paper-bag bug browser BRS brute force brute force and ignorance BSD
+BSOD BUAF BUAG bubble sort bucky bits buffer chuck buffer overflow bug
+bug-compatible bug-for-bug compatible bug-of-the-month club bulletproof
+bullschildt bump burble buried treasure burn a CD burn-in period burst page
+busy-wait buzz buzzword-compliant BWQ by hand byte byte sex bytesexual Bzzzt!
+Wrong. C C C Programmer's Disease C&C C++ calculator Camel Book camelCase
+camelCasing can't happen cancelbot Cancelmoose[tm] candygrammar canonical
+careware cargo cult programming cascade case and paste case mod casters-up
+mode casting the runes cat catatonic cathedral cd tilde CDA cdr chad chad box
+chain chainik channel channel hopping channel op chanop char charityware
+chase pointers chawmp check cheerfully chemist Chernobyl chicken Chernobyl
+packet chicken head chickenboner chiclet keyboard Chinese Army technique
+choad choke chomp chomper CHOP Christmas tree Christmas tree packet chrome
+chug Church of the SubGenius CI$ Cinderella Book Classic C clean click of
+death CLM clobber clock clocks clone clone-and-hack coding clover key
+clue-by-four clustergeeking co-lo coaster coaster toaster COBOL COBOL fingers
+cobweb site code code grinder code monkey Code of the Geeks code police codes
+codewalker coefficient of X cokebottle cold boot COME FROM comm mode command
+key comment out Commonwealth Hackish compact compiler jock compo compress
+Compu$erve computer confetti computron con condition out condom confuser
+connector conspiracy cons considered harmful console console jockey
+content-free control-C control-O control-Q control-S Conway's Law cookbook
+cooked mode cookie cookie bear cookie file cookie jar cookie monster copious
+free time copper copy protection copybroke copycenter copyleft copyparty
+copywronged core core cancer core dump core leak Core Wars cosmic rays cough
+and die courier cow orker cowboy CP/M CPU Wars crack crack root cracker
+cracking crank crapplet CrApTeX crash crash and burn crawling horror CRC
+handbook creationism creep creeping elegance creeping featurism creeping
+featuritis cretin cretinous crippleware critical mass crlf crock cross-post
+crossload crudware cruft cruft together cruftsmanship crufty crumb crunch
+cryppie cthulhic CTSS cube cup holder cursor dipped in X cuspy cut a tape
+cybercrud cyberpunk cyberspace cycle cycle of reincarnation cycle server
+cypherpunk C|N>K D daemon daemon book dahmum dancing frog dangling pointer
+dark-side hacker Datamation DAU Dave the Resurrector day mode dd DDT de-rezz
+dead dead beef attack dead code dead-tree version DEADBEEF deadlock deadly
+embrace death code Death Square Death Star Death, X of DEC DEC Wars decay
+deckle DED deep hack mode deep magic deep space defenestration defined as
+deflicted dehose Dejagoo deletia deliminator delint delta demented demigod
+demo demo mode demoeffect demogroup demon demon dialer demoparty demoscene
+dentro depeditate deprecated derf deserves to lose despew dickless
+workstation dictionary flame diddle die die horribly diff dike Dilbert ding
+dink dinosaur dinosaur pen dinosaurs mating dirtball dirty power disclaimer
+Discordianism disemvowel disk farm display hack dispress Dissociated Press
+distribution distro disusered DMZ do protocol doc documentation dodgy dogcow
+dogfood dogpile dogwash Don't do that then! dongle dongle-disk Doom, X of
+doorstop DoS attack dot file double bucky doubled sig down download DP DPer
+Dr. Fred Mbogo dragon Dragon Book drain dread high-bit disease dread
+questionmark disease DRECNET driver droid drone drool-proof paper drop on the
+floor drop-ins drop-outs drugged drum drunk mouse syndrome DSW dub dub dub
+Duff's device dumb terminal dumbass attack dumbed down dump dumpster diving
+dusty deck DWIM dynner E Easter egg Easter egging eat flaming death EBCDIC
+ECP ed egg egosurf eighty-column mind El Camino Bignum elder days elegant
+elephantine elevator controller elite ELIZA effect elvish EMACS email
+emoticon EMP empire engine English enhancement ENQ EOD EOF EOL EOU epoch
+epsilon epsilon squared era Eric Conspiracy Eris erotics error 33 eurodemo
+evil evil and rude Evil Empire exa- examining the entrails EXCH excl EXE exec
+exercise, left as an Exon Exploder exploit external memory eye candy eyeball
+search F face time factor fairings fall over fall through fan fandango on
+core FAQ FAQ list FAQL faradize farkled farm fascist fat electrons fat pipe
+fat-finger faulty fear and loathing feature feature creature feature creep
+feature key feature shock featurectomy feep feeper feeping creature feeping
+creaturism feetch feetch fence fencepost error fiber-seeking backhoe FidoNet
+field circus field servoid file signature filk film at 11 filter Finagle's
+Law fine finger finger trouble finger-pointing syndrome finn firebottle
+firefighting firehose syndrome firewall code firewall machine fireworks mode
+firmware fish FISH queue fisking FITNR fix FIXME flag flag day flaky flamage
+flame flame bait flame on flame war flamer flap flarp flash crowd flat
+flat-ASCII flat-file flatten flavor flavorful flippy flood flowchart flower
+key flush flypage Flyspeck 3 flytrap FM fnord FOAF FOD fold case followup
+fontology foo foobar fool fool file Foonly footprint for free for the rest of
+us for values of fora foreground fork fork bomb forked Formosa's Law Fortrash
+fortune cookie forum fossil four-color glossies frag fragile Frankenputer
+fred Fred Foobar frednet free software freeware freeze fried frink friode
+fritterware frob frobnicate frobnitz frog frogging front end frotz frotzed
+frowney FRS fry fscking FSF -fu FUBAR fuck me harder FUD FUD wars fudge fudge
+factor fuel up Full Monty fum functino funky funny money furrfu G G gang bang
+Gang of Four garbage collect garply gas Gates's Law gawble GC GCOS GECOS
+gedanken geef geek geek code geek out geekasm gen gender mender General
+Public Virus generate Genius From Mars Technique gensym Get a life! Get a
+real computer! GandhiCon gib GIFs at 11 gig giga- GIGO gilley gillion ginger
+GIPS GIYF glark glass glass tty glassfet glitch glob glork glue gnarly GNU
+gnubie GNUMACS go flatline go gold go root go-faster stripes GoAT goat file
+gobble Godwin's Law Godzillagram golden golf-ball printer gonk gonkulator
+gonzo Good Thing google google juice gopher gopher hole gorets gorilla arm
+gorp GOSMACS gotcha GPL GPV gray goo gray hat Great Internet Explosion Great
+Renaming Great Runes Great Worm great-wall green bytes green card green
+lightning green machine Green's Theorem greenbar grep gribble grilf grind
+grind crank gritch grok gronk gronk out gronked grovel grue grunge gubbish
+Guido guiltware gumby gunch gunpowder chicken guru guru meditation gweep H h
+ha ha only serious hack hack attack hack mode hack on hack together hack up
+hack value hacked off hacked up hacker hacker ethic hacker humor Hackers (the
+movie) hacking run Hacking X for Y Hackintosh hackish hackishness hackitude
+hair hairball hairy HAKMEM hakspek Halloween Documents ham hammer hamster
+HAND hand cruft hand-hacking hand-roll handle handshaking handwave hang
+Hanlon's Razor happily hard boot hardcoded hardwarily hardwired has the X
+nature hash bucket hash collision hat HCF heads down heartbeat heatseeker
+heavy metal heavy wizardry heavyweight Hed Rat heisenbug hell desk hello
+sailor! hello world hello, wall! hex hexadecimal hexit HHOK HHOS hidden flag
+high bit high moby highly hing hired gun hirsute HLL hoarding hog hole
+hollised holy penguin pee holy wars home box home machine home page honey pot
+hook hop horked hose hosed hot chat hot spot hotlink house wizard HP-SUX HTH
+huff hung hungry puppy hungus hyperspace hysterical reasons I I didn't change
+anything! I see no X here. IANAL IBM ICBM address ice ID10T error idempotent
+IDP If you want X, you know where to find it. ifdef out IIRC ill-behaved IMHO
+Imminent Death Of The Net Predicted! in the extreme incantation include
+include war indent style Indent-o-Meter index of X infant mortality infinite
+infinite loop Infinite-Monkey Theorem infinity inflate Infocom initgame
+insanely great installfest INTERCAL InterCaps interesting Internet Internet
+Death Penalty Internet Exploder Internet Exploiter interrupt interrupts
+locked out intertwingled intro IRC iron Iron Age iron box ironmonger ISO
+standard cup of tea ISP ITS IWBNI IYFEG J J. Random J. Random Hacker jack in
+jaggies Java JCL JEDR Jeff K. jello Jeopardy-style quoting jibble jiffy job
+security jock joe code juggling eggs juice jump off into never-never land
+jupiter K K K&R k- kahuna kamikaze packet kangaroo code ken
+kernel-of-the-week club kgbvax KIBO kiboze kibozo kick kill file killer app
+killer micro killer poke kilo- kilogoogle KIPS KISS Principle kit KLB klone
+kludge kluge kluge around kluge up Knights of the Lambda Calculus knobs Knuth
+koan kook Kool-Aid kremvax kyrka L lag lamer LAN party language lawyer
+languages of choice LART larval stage lase laser chicken leaf site leak leaky
+heap leapfrog attack leech leech mode legal legalese lenna LER LERP let the
+smoke out letterbomb lexer life Life is hard light pipe lightweight like
+kicking dead whales down the beach like nailing jelly to a tree line 666 line
+eater, the line noise linearithmic link farm link rot link-dead lint Lintel
+Linus Linux lion food Lions Book LISP list-bomb lithium lick little-endian
+live live data Live Free Or Die! livelock liveware lobotomy locals, the
+locked and loaded locked up logic bomb logical loop through loose bytes lord
+high fixer lose lose lose loser losing loss lossage lossy lost in the noise
+lost in the underflow lots of MIPS but no I/O low-bandwidth Lubarsky's Law of
+Cybernetic Entomology Lumber Cartel lunatic fringe lurker luser M M M$
+macdink machoflops Macintoy Macintrash macro macro- macrology maggotbox magic
+magic cookie magic number magic smoke mail storm mailbomb mailing list main
+loop mainframe mainsleaze man page management mandelbug manged mangle mangled
+name mangler manularity marching ants marbles marginal marginally marketroid
+Mars martian massage math-out Matrix maximum Maytag mode McQuary limit
+meatspace meatware meeces meg mega- megapenny MEGO meltdown, network meme
+meme plague memetics memory farts memory leak memory smash menuitis mess-dos
+meta meta bit metasyntactic variable MFTL mickey mickey mouse program micro-
+MicroDroid microfortnight microLenat microReid microserf Microsloth Windows
+Microsoft micros~1 middle-endian middle-out implementation milliLampson minor
+detail MIPS misbug misfeature missile address MiSTing miswart MMF mobo moby
+mockingbird mod mode mode bit modulo mojibake molly-guard Mongolian Hordes
+technique monkey up monkey, scratch monstrosity monty Moof Moore's Law moria
+MOTAS MOTOS MOTSS mouse ahead mouse belt mouse droppings mouse elbow mouse
+pusher mouso MS-DOS mu MUD muddie mudhead muggle Multics multitask mumblage
+mumble munch munching munching squares munchkin mundane mung munge Murphy's
+Law music mutter N N nadger nagware nailed to the wall nailing jelly naive
+naive user NAK NANA nano nano- nanoacre nanobot nanocomputer nanofortnight
+nanotechnology narg nasal demons nastygram Nathan Hale nature neat hack neats
+vs. scruffies neep-neep neophilia nerd nerd knob net.- net.god
+net.personality net.police netburp netdead nethack netiquette netlag netnews
+Netscrape netsplit netter network address network meltdown New Jersey New
+Testament newbie newgroup wars newline NeWS newsfroup newsgroup nick nickle
+night mode Nightmare File System NIL Ninety-Ninety Rule nipple mouse NMI
+no-op noddy non-optimal solution nonlinear nontrivial not entirely unlike X
+not ready for prime time notwork NP- NSA line eater NSP nude nugry nuke
+number-crunching numbers NUXI problem nybble nyetwork O Ob- Obfuscated C
+Contest obi-wan error Objectionable-C obscure octal forty off the trolley
+off-by-one error offline ogg -oid old fart Old Testament on the gripping hand
+one-banana problem one-line fix one-liner wars ooblick OP op open open source
+open switch operating system operator headspace optical diff optical grep
+optimism Oracle, the Orange Book oriental food orphan orphaned i-node
+orthogonal OS OS/2 OSS OT OTOH out-of-band overclock overflow bit overrun
+overrun screw owned P P.O.D. packet over air padded cell page in page out
+pain in the net paper-net param PARC parent message parity errors Parkinson's
+Law of Data parm parse Pascal PascalCasing pastie patch patch pumpkin patch
+space path pathological payware PBD PD PDP-10 PDP-11 PDP-20 PEBKAC peek
+pencil and paper Pentagram Pro Pentium peon percent-S perf perfect programmer
+syndrome Perl person of no account pessimal pessimizing compiler peta- pffft
+PFY phage phase phase of the moon phase-wrapping PHB phreaker phreaking pico-
+pig-tail pilot error ping Ping O' Death ping storm pink contract pink wire
+pipe pistol pixel sort pizza box plaid screen plain-ASCII Plan 9 plan file
+platinum-iridium playpen playte plokta plonk plug-and-pray plugh plumbing PM
+point-and-drool interface pointy hat pointy-haired poke poll polygon pusher
+POM ponytail pop poser post postcardware Postel's Prescription posting
+postmaster PostScript pound on power cycle power hit pr0n precedence lossage
+pred prepend prestidigitization pretty pictures prettyprint pretzel key
+priesthood prime time print printing discussion priority interrupt profile
+progasm proggy proglet program Programmer's Cheer programming programming
+fluid propeller head propeller key proprietary protocol provocative
+maintenance prowler pseudo pseudoprime pseudosuit psychedelicware psyton
+pubic directory puff pumpkin holder pumpking punched card punt Purple Book
+purple wire push Python Q quad quadruple bucky quantifiers quantum
+bogodynamics quarter ques quick-and-dirty quine Quirk objection quote chapter
+and verse quotient quux qux QWERTY R rabbit job rain dance rainbow series
+random Random Number God random numbers randomness rape rare mode raster
+blaster raster burn rasterbation rat belt rat dance rathole ratio site rave
+rave on! ravs raw mode RBL rc file RE read-only user README file real real
+estate real hack real operating system Real Programmer Real Soon Now real
+time real user Real World reality check reality-distortion field reaper
+recompile the world rectangle slinger recursion recursive acronym red wire
+regexp register dancing rehi reincarnation, cycle of reinvent the wheel relay
+rape religion of CHI religious issues replicator reply restriction retcon
+RETI retrocomputing return from the dead RFC RFE Right Thing rip ripoff RL
+roach robocanceller robot robust rococo rogue room-temperature IQ root root
+mode rootkit rot13 rotary debugger RSN RTBM RTFAQ RTFB RTFM RTFS RTI RTM RTS
+rubber-hose cryptanalysis rude runes runic rusty iron rusty wire S S/N ratio
+sacred saga sagan SAIL salescritter salt salt mines salt substrate same-day
+service samizdat samurai sandbender sandbox sanity check Saturday-night
+special say scag scanno scary devil monastery schroedinbug science-fiction
+fandom SCNR scram switch scratch scratch monkey scream and die screaming tty
+screen screen name screen scraping screw screwage scribble script kiddies
+scrog scrool scrozzle scruffies SCSI SCSI voodoo search-and-destroy mode
+second-system effect secondary damage security through obscurity SED see
+figure 1 segfault seggie segment segmentation fault segv self-reference
+selvage semi semi-automated semi-infinite senior bit September that never
+ended server SEX sex changer shambolic link shar file sharchive Share and
+enjoy! shareware sharing violation shebang shelfware shell shell out shift
+left (or right) logical shim shitogram shotgun debugging shovelware
+showstopper shriek Shub-Internet SIG sig block sig quote sig virus sigmonster
+signal-to-noise ratio silicon silly walk silo since time T equals minus
+infinity sitename skrog skulker slab slack slash slashdot effect sleep slim
+slop slopsucker Slowlaris slurp slurp the robot smart smart terminal smash
+case smash the stack smiley smoke smoke and mirrors smoke test smoking clover
+smoot SMOP smurf SNAFU principle snail snail-mail snap snarf snarf & barf
+snarf down snark sneaker sneakernet sniff SO social engineering social
+science number sock puppet sodium substrate soft boot softcopy software bloat
+software hoarding software laser software rot softwarily softy some random X
+sorcerer's apprentice mode source source of all good bits space-cadet
+keyboard spaceship operator SPACEWAR spaghetti code spaghetti inheritance
+spam spam bait spamblock spamhaus spamvertize spangle spawn special-case
+speed of light speedometer spell spelling flame spider spider food spiffy
+spike spin Spinning Pizza of Death spl splash screen splat splat out splork!
+spod spoiler spoiler space sponge spoof spool spool file sporgery sport death
+spungle spyware squirrelcide stack stack puke stale pointer bug Stanford
+Bunny star out state stealth manager steam-powered steved STFW stir-fried
+random stomp on Stone Age stone knives and bearskins stoppage store STR
+strided stroke strudel stubroutine studly studlycaps stunning stupid-sort
+Stupids Sturgeon's Law sucking mud sufficiently small suit suitable win
+suitably small Sun sun lounge sun-stools sunspots super source quench
+superloser superprogrammer superuser support surf Suzie COBOL swab swap swap
+space swapped in swapped out Swiss-Army chainsaw swizzle sync syntactic salt
+syntactic sugar sys-frog sysadmin sysape sysop system system mangler systems
+jock T T tail recursion talk mode talker system TAN tanked TANSTAAFL tape
+monkey tar and feather tarball tardegy taste tayste TCB TCP/IP TECO tee
+teergrube teledildonics ten-finger interface tense tentacle tenured graduate
+student tera- teraflop club terminak terminal brain death terminal illness
+terminal junkie test TeX text thanks in advance That's not a bug, that's a
+feature! the literature the network the X that can be Y is not the true X
+theology theory thinko This can't happen This time, for sure! thrash thread
+three-finger salute throwaway account thud thumb thundering herd problem
+thunk tick tick-list features tickle a bug tiger team time bomb time sink
+time T times-or-divided-by timesharing TINC Tinkerbell program TINLC tip of
+the ice-cube tired iron tits on a keyboard TLA TMRC TMRCie TMTOWTDI to a
+first approximation to a zeroth approximation toad toast toaster toeprint
+TOFU toggle tool toolchain toolsmith toor top-post topic drift topic group
+TOPS-10 TOPS-20 TOS tourist tourist information touristic toy toy language
+toy problem toy program trampoline trap trap door trash trawl tree-killer
+treeware trit trivial troff troglodyte troglodyte mode Trojan horse troll
+Troll-O-Meter tron troughie true-hacker tty tube tube time tunafish tune
+turbo nerd Turing tar-pit turist Tux tweak TWENEX twiddle twilight zone twink
+twirling baton two pi two-to-the-N U u- UBD UBE ubergeek UCE UDP UN*X
+undefined external reference under the hood undocumented feature
+uninteresting Unix Unix brain damage Unix conspiracy Unix weenie unixism
+unswizzle unwind the stack unwind-protect up upload upstream upthread uptime
+urchin URL Usenet Usenet Death Penalty user user-friendly user-obsequious
+userland Utah teapot, the UTSL UUOC V V7 vadding vanilla vanity domain
+vannevar vaporware var vaston VAX VAXen vaxocentrism vdiff veeblefester
+velveeta Venus flytrap verbage verbiage Version 7 vgrep vi video toaster
+videotex virgin virtual virtual beer virtual Friday virtual reality virtual
+shredder virus visionary VMS voice voice-net voodoo programming VR Vulcan
+nerve pinch vulture capitalist W w00t wabbit WAITS waldo walk walk off the
+end of walking drives wall wall follower wall time wall wart wallhack wango
+wank wannabee war dialer war-driving war-chalking -ware warez warez d00dz
+warez kiddies warlording warm boot wart washing machine washing software
+water MIPS wave a dead chicken weasel web pointer web ring web toaster webify
+webmaster wedged wedgie wedgitude weeble weeds weenie Weenix well-behaved
+well-connected wetware whack whack-a-mole whacker whales What's a spline?
+wheel wheel bit wheel of reincarnation wheel wars white hat whitelist whizzy
+Whorfian mind-lock wibble WIBNI widget wiggles wild side WIMP environment win
+win big win win Winchester windoid window shopping Windowsitis Windoze winged
+comments winkey winnage winner winnitude Wintel Wintendo wired wirehead
+wirewater wish list within delta of within epsilon of wizard Wizard Book
+wizard hat wizard mode wizardly wok-on-the-wall womb box WOMBAT womble wonky
+workaround working as designed worm wormhole wound around the axle wrap
+around write-only code write-only language write-only memory Wrong Thing
+wugga wugga wumpus WYSIAYG WYSIWYG X X XEROX PARC XOFF XON xor xref XXX xyzzy
+Y YA- YABA YAFIYGI yak shaving YAUN yellow card yellow wire Yet Another YHBT
+YKYBHTLW YMMV You are not expected to understand this You know you've been
+hacking too long when Your mileage may vary Yow! yoyo mode Yu-Shiang Whole
+Fish Z zap zapped Zawinski's Law zbeba zen zero zero-content
+Zero-One-Infinity Rule zeroth zigamorph zip zipperhead zombie zorch Zork
+zorkmid 0 (TM) /dev/null /me 0 1TBS 2 404 404 compliant @-party :(TM): //
+[Usenet] ASCII rendition of the (TM) appended to phrases that the author
+feels should be recorded for posterity, perhaps in future editions of this
+lexicon. Sometimes used ironically as a form of protest against the recent
+spate of software and algorithm patents and look and feel lawsuits. see also
+{UN*X}.

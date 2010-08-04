@@ -1,6 +1,5 @@
- :rootkit: /root´kit/, n. [very common] A kit for getting {root}; an
-automated {cracking} tool. What {script kiddies} use. The existence of
-rootkits means that large-scale attacks on insecure computers can be done by
-people with no technical skills other than the ability to follow directions.
-Rootkits designed to crack Microsoft operating systems and webservers are
-especially common, because their software is so porous and easy to crack.
+ :rootkit: /root´kit/, n. [very common] A kit for maintaining {root}; an
+automated {cracking} tool. What {script kiddies} use. After a cracker has
+first broken in and gained root access, he or she will install modified
+binaries such as a modified version login with a backdoor, or a version of ps
+that will not report the cracker's processes). This is a rootkit.

@@ -606,7 +606,7 @@ that created it grow and flourish. Here are several ways you can help: * If
 you are a writer or journalist, don't say or write hacker when you mean
 cracker. If you work with writers or journalists, educate them on this issue
 and push them to do the right thing. If you catch a newspaper or magazine
-abusing the work `hacker', write them and straighten them out (this appendix
+abusing the word `hacker', write them and straighten them out (this appendix
 includes a model letter). * If you're a techie or computer hobbyist, get
 involved with one of the free Unixes. Toss out that lame Microsoft OS, or
 confine it to one disk partition and put Linux or FreeBSD or NetBSD on the
