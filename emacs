@@ -4,7 +4,7 @@ was originally written by Richard Stallman in {TECO} under {{ITS}} at the MIT
 AI lab; AI Memo 554 described it as "an advanced, self-documenting,
 customizable, extensible real-time display editor". It has since been
 reimplemented any number of times, by various hackers, and versions exist
-which run under most major operating systems. Perhaps the most widely used
+that run under most major operating systems. Perhaps the most widely used
 version, also written by Stallman and now called "{GNU} EMACS" or {GNUMACS},
 runs principally under UNIX. It includes facilities to run compilation
 subprocesses and send and receive mail; many hackers spend up to 80% of their
@@ -12,9 +12,9 @@ subprocesses and send and receive mail; many hackers spend up to 80% of their
 EMACS, Montgomery EMACS, jove, epsilon, and MicroEMACS. Some EMACS versions
 running under window managers iconify as an overflowing kitchen sink, perhaps
 to suggest the one feature the editor does not (yet) include. Indeed, some
-hackers find EMACS too heavyweight and {baroque} for their taste, and expand
-the name as `Escape Meta Alt Control Shift' to spoof its heavy reliance on
-keystrokes decorated with {bucky bits}. Other spoof expansions include `Eight
-Megabytes And Constantly Swapping', `Eventually `malloc()'s All Computer
-Storage', and `EMACS Makes A Computer Slow' (see {{recursive acronym}}). see
-also {vi}.
+hackers find EMACS too {heavyweight} and {baroque} for their taste, and
+expand the name as `Escape Meta Alt Control Shift' to spoof its heavy
+reliance on keystrokes decorated with {bucky bits}. Other spoof expansions
+include `Eight Megabytes And Constantly Swapping', `Eventually `malloc()'s
+All Computer Storage', and `EMACS Makes A Computer Slow' (see {{recursive
+acronym}}). see also {vi}.

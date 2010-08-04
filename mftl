@@ -15,12 +15,13 @@ compiler for it in itself. Thus, the standard put-down question at an MFTL
 talk is "Has it been used for anything besides its own compiler?". On the
 other hand, a language that *cannot* be used to write its own compiler is
 beneath contempt. see {break-even point}. (On a related note, Dennis Ritchie
-has proposed a test of the generality and utility of a language and the
-operating system under which it is compiled: "Is the output of a program
-compiled under the language acceptable as input to the compiler?" In other
-words, can you write programs which write programs? (see {toolsmith})
-Alarming numbers of (language, OS) pairs fail this test, particularly when
-the language is Fortran; Ritchie is quick to point out that {UNIX} (even
-using Fortran) passes it handily. That the test could ever be failed is only
-surprising to those who have had the good fortune to have worked only under
-modern systems which lack OS-supported and -imposed "file types".)
+once proposed a test of the generality and utility of a language and the
+operating system under which it is compiled: "Is the output of a FORTRAN
+program compiled under the language acceptable as input to the FORTRAN
+compiler?" In other words, can you write programs thaat write programs? (see
+{toolsmith}.) Alarming numbers of (language, OS) pairs fail this test,
+particularly when the language is FORTRAN; Ritchie is quick to point out that
+{UNIX} (even using FORTRAN) passes it handily. That the test could ever be
+failed is only surprising to those who have had the good fortune to have
+worked only under modern systems which lack OS-supported and -imposed "file
+types".)

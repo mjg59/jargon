@@ -3,7 +3,7 @@ stopped beating your wife yet?". Assuming that you have no wife or you have
 never beaten your wife, the answer "yes" is wrong because it implies that you
 used to beat your wife and then stopped, but "no" is worse because it
 suggests that you have one and are still beating her. According to various
-Discordians and Douglas Hofstadter (see the Bibliography in {appendix C}),
+Discordians and Douglas Hofstadter (see the Bibliography in {Appendix C}),
 the correct answer is usually "mu", a Japanese word alleged to mean "Your
 question cannot be answered because it depends on incorrect assumptions".
 Hackers tend to be sensitive to logical inadequacies in language, and many

@@ -1,0 +1,5 @@
+ :virtual shredder: n. The jargonic equivalent of the {bit bucket} at shops
+using IBM's VM/CMS operating system. VM/CMS officially supports a whole
+bestiary of virtual card readers, virtual printers, and other phantom
+devices; these are used to supply some of the same capabilities UNIX gets
+from pipes and I/O redirection.

@@ -4,6 +4,6 @@ declared `auto' in a routine. Code that does this is said to `smash the
 stack', and can cause return from the routine to jump to a random address.
 This can produce some of the most insidious data-dependent bugs known to
 mankind. Variants include `trash' the stack, {scribble} the stack, {mangle}
-the stack; the term *{mung} the stack is not used, as this is never done
+the stack; the term **{mung} the stack is not used, as this is never done
 intentionally. see {spam}; see also {aliasing bug}, {fandango on core},
 {memory leak}, {memory smash}, {precedence lossage}, {overrun screw}.

@@ -1,16 +1,16 @@
  :Green Book: n. 1. One of the three standard {{PostScript}} references:
 `PostScript Language Program Design', bylined `Adobe Systems'
-(Addison-Wesley, 1988; QA76.73.P67P66 ISBN; 0-201-14396-8); see also {Red
+(Addison-Wesley, 1988; QA76.73.P67P66 ISBN 0-201-14396-8); see also {Red
 Book}, {Blue Book}, and the {White Book} (sense 2). 2. Informal name for one
 of the three standard references on SmallTalk: `Smalltalk-80: Bits of
 History, Words of Advice', by Glenn Krasner (Addison-Wesley, 1983;
 QA76.8.S635S58; ISBN 0-201-11669-3) (this, too, is associated with blue and
-red books). 3. The `X/Open Compatibility Guide'. Defines an international
-standard {{UNIX}} environment that is a proper superset of POSIX/SVID; also
-includes descriptions of a standard utility toolkit, systems administrations
-features, and the like. This grimoire is taken with particular seriousness in
-Europe. see {Purple Book}. 4. The IEEE 1003.1 POSIX Operating Systems
-Interface standard has been dubbed "The Ugly Green Book". 5. Any of the 1992
-standards which will be issued by the CCITT's tenth plenary assembly. These
-include, among other things, the X.400 email standard and the Group 1 through
-4 fax standards. see also {{book titles}}.
+red books). 3. The `X/Open Compatibility Guide', which defines an
+international standard {{UNIX}} environment that is a proper superset of
+POSIX/SVID; also includes descriptions of a standard utility toolkit, systems
+administrations features, and the like. This grimoire is taken with
+particular seriousness in Europe. see {Purple Book}. 4. The IEEE 1003.1 POSIX
+Operating Systems Interface standard has been dubbed "The Ugly Green Book".
+5. Any of the 1992 standards issued by the CCITT's tenth plenary assembly.
+These include, among other things, the X.400 email standard and the Group 1
+through 4 fax standards. see also {{book titles}}.

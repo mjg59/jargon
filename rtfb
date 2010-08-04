@@ -1,5 +1,5 @@
  :RTFB: /R-T-F-B/ [UNIX] imp. Acronym for `Read The Fucking Binary'. Used
-when neither documentation nor the the source for the problem at hand exists
+when neither documentation nor the the source for the problem at hand exists,
 and the only thing to do is use some debugger or monitor and directly analyze
 the assembler or even the machine code. "No source for the buggy port driver?
 Aaargh! I *hate* proprietary operating systems. Time to RTFB."

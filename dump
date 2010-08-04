@@ -4,6 +4,6 @@ available output device (compare {core dump}), and most especially one
 consisting of hex or octal {runes} describing the byte-by-byte state of
 memory, mass storage, or some file. In {elder days}, debugging was generally
 done by `groveling over' a dump (see {grovel}); increasing use of high-level
-languages and interactive debuggers has made this uncommon, and the term
-`dump' now has a faintly archaic flavor. 2. A backup. This usage is typical
-only at large timesharing installations.
+languages and interactive debuggers has made such tedium uncommon, and the
+term `dump' now has a faintly archaic flavor. 2. A backup. This usage is
+typical only at large timesharing installations.

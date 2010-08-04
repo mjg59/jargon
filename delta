@@ -13,4 +13,4 @@ been mentioned, to mean a quantity that is slightly bigger than {epsilon} but
 still very small. "The cost isn't epsilon, but it's delta" means that the
 cost isn't totally negligible, but it is nevertheless very small. Common
 constructions include `within delta of ---', `within epsilon of ---': that
-is, close to and even closer to.
+is, `close to' and `even closer to'.

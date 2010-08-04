@@ -20,12 +20,12 @@ a street name. A zip-part consists of a town-name, followed by a comma,
 followed by a state code, followed by a ZIP-code followed by an end-of-line."
 Note that many things (such as the format of a personal-part, apartment
 specifier, or ZIP-code) are left unspecified. These are presumed to be
-obvious from context or detailed somewhere nearby. see also {parse}. 2. The
-term is also used loosely for any number of variants and extensions, possibly
+obvious from context or detailed somewhere nearby. see also {parse}. 2. Any
+of a number number of variants and extensions of BNF proper, possibly
 containing some or all of the {regexp} wildcards such as `*' or `+'. In fact
 the example above isn't the pure form invented for the Algol-60 report; it
 uses `[]', which was introduced a few years later in IBM's PL/I definition
-but is now universally recognized. 3. In {{science-fiction fandom}}, BNF
-means `Big-Name Fan' (someone famous or notorious). Years ago a fan started
-handing out black-on-green BNF buttons at SF conventions; this confused the
-hacker contingent terribly.
+but is now universally recognized. 3. In {{science-fiction fandom}}, a
+`Big-Name Fan' (someone famous or notorious). Years ago a fan started handing
+out black-on-green BNF buttons at SF conventions; this confused the hacker
+contingent terribly.

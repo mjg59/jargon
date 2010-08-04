@@ -2,11 +2,11 @@
 Stronger form of {RTFM}, used when the problem at hand is not necessarily
 obvious and not available from the manuals --- or the manuals are not yet
 written and maybe never will be. For even more tricky situations, see {RTFB}.
-2. imp. `Read The Fucking Standard;' this oath can only be used when the
+2. imp. `Read The Fucking Standard'; this oath can only be used when the
 problem area (e.g., a language or operating system interface) has actually
 been codified in a ratified standards document. The existence of these
 standards documents (and the technically inappropriate but politically
-mandated compromises which they inevitably contain, and the stifling language
+mandated compromises that they inevitably contain, and the stifling language
 in which they are invariably written, and the unbelievably tedious
 bureaucratic process by which they are produced) can be unnerving to hackers,
 who are used to a certain amount of ambiguity in the specifications of the

@@ -1,5 +1,6 @@
  :Moore's Law: /morz law/ prov. The observation that the logic density of
 silicon integrated circuits has closely followed the curve (bits per square
-inch) = 2^((n - 1962)); that is, the amount of information storable in one
-square inch of silicon has roughly doubled yearly every year since the
-technology was invented. see also {Parkinson's Law of Data}.
+inch) = 2^((t - 1962)) where t is time in years; that is, the amount of
+information storable in one square inch of silicon has roughly doubled yearly
+every year since the technology was invented. see also {Parkinson's Law of
+Data}.

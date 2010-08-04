@@ -2,7 +2,7 @@
 (esp. a {mainframe}) over a digital comm link to a smaller `client' system,
 esp. a microcomputer or specialized peripheral. Oppose {upload}. However,
 note that ground-to-space communications has its own usage rule for this
-term. Space-to-earth transmission is always download and the reverse upload
+term. Space-to-earth transmission is always `down' and the reverse `up'
 regardless of the relative size of the computers involved. So far the
 in-space machines have invariably been smaller; thus the upload/download
 distinction has been reversed from its usual sense.

@@ -4,12 +4,13 @@ wildcarded name, or the act of so doing (the action is also called
 sufficiently pervasive that many hackers use some of them in written English,
 especially in email or news on technical topics. Those commonly encountered
 include the following: * wildcard for any string (see also {UN*X}) ? wildcard
-for any character (generally read this way only at the beginning or in the
-middle of a word) [] delimits a wildcard matching any of the enclosed
+for any single character (generally read this way only at the beginning or in
+the middle of a word) [] delimits a wildcard matching any of the enclosed
 characters {} alternation of comma-separated alternatives; thus,
 `foo{baz,qux}' would be read as `foobaz' or `fooqux' Some examples: "He said
 his name was [KC]arl" (expresses ambiguity). "I don't read talk.politics.*"
 (any of the talk.politics subgroups on {USENET}). Other examples are given
-under the entry for {X}. Compare {regexp}. Historical note: The jargon usage
+under the entry for {X}. Note that glob patterns are similar, but not
+identical, to those used in {regexp}s. Historical note: The jargon usage
 derives from `glob', the name of a subprogram that expanded wildcards in
 archaic pre-Bourne versions of the UNIX shell.

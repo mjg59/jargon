@@ -1,71 +1,72 @@
  :ASCII:: [American Standard Code for Information Interchange] /as'kee/ n.
-The predominant character set encoding of present-day computers. Uses 7 bits
-for each character, whereas most earlier codes (including an early version of
-ASCII) used fewer. This change allowed the inclusion of lowercase letters ---
-a major {win} --- but it did not provide for accented letters or any other
-letterforms not used in English (such as the German sharp-S and the
-ae-ligature which is a letter in, for example, Norwegian). It could be worse,
-though. It could be much worse. see {{EBCDIC}} to understand how. Computers
-are much pickier and less flexible about spelling than humans; thus, hackers
-need to be very precise when talking about characters, and have developed a
-considerable amount of verbal shorthand for them. Every character has one or
-more names --- some formal, some concise, some silly. Common jargon names for
-ASCII characters are collected here. see also individual entries for {bang},
-{excl}, {open}, {ques}, {semi}, {shriek}, {splat}, {twiddle}, and {Yu-Shiang
-Whole Fish}. This list derives from revision 2.3 of the USENET ASCII
-pronunciation guide. Single characters are listed in ASCII order; character
-pairs are sorted in by first member. For each character, common names are
-given in rough order of popularity, followed by names that are reported but
-rarely seen; official ANSI/CCITT names are surrounded by brokets: <>. Square
-brackets mark the particularly silly names introduced by {INTERCAL}. Ordinary
-parentheticals provide some usage information. ! Common: {bang}; pling; excl;
-shriek; <exclamation mark>. Rare: factorial; exclam; smash; cuss; boing;
-yell; wow; hey; wham; eureka; [spark-spot]; soldier. " Common: double quote;
-quote. Rare: literal mark; double-glitch; <quotation marks>; <dieresis>;
-dirk; [rabbit-ears]; double prime. # Common: <number sign>; pound; pound
-sign; hash; sharp; {crunch}; hex; [mesh]; octothorpe. Rare: flash;
-crosshatch; grid; pig-pen; tictactoe; scratchmark; thud; thump; {splat}. $
-Common: dollar; <dollar sign>. Rare: currency symbol; buck; cash; string
-(from BASIC); escape (when used as the echo of ASCII ESC); ding; cache; [big
-money]. % Common: percent; <percent sign>; mod; grapes. Rare:
-[double-oh-seven]. & Common: <ampersand>; amper; and. Rare: address (from C);
-reference (from C++); andpersand; bitand; background (from `sh(1)'); pretzel;
-amp. [INTERCAL called this `ampersand'; what could be sillier?] ' Common:
-single quote; quote; <apostrophe>. Rare: prime; glitch; tick; irk; pop;
-[spark]; <closing single quotation mark>; <acute accent>. () Common:
-left/right paren; left/right parenthesis; left/right; paren/thesis;
-open/close paren; open/close; open/close parenthesis; left/right banana.
-Rare: so/al-ready; lparen/rparen; <opening/closing parenthesis>; open/close
-round bracket, parenthisey/unparenthisey; [wax/wane]; left/right ear. *
-Common: star; [{splat}]; <asterisk>. Rare: wildcard; gear; dingle; mult;
-spider; aster; times; twinkle; glob (see {glob}); {Nathan Hale}. + Common:
-<plus>; add. Rare: cross; [intersection]. , Common: <comma>. Rare: <cedilla>;
-[tail]. - Common: dash; <hyphen>; <minus>. Rare: [worm]; option; dak;
-bithorpe. . Common: dot; point; <period>; <decimal point>. Rare: radix point;
-full stop; [spot]. / Common: slash; stroke; <slant>; forward slash. Rare:
-diagonal; solidus; over; slak; virgule; [slat]. : Common: <colon>. Rare:
-dots; [two-spot]. ; Common: <semicolon>; semi. Rare: weenie; [hybrid],
-pit-thwong. <> Common: <less/greater than>; left/right angle bracket;
-bra/ket; left/right broket. Rare: from/{into, towards}; read from/write to;
-suck/blow; comes-from/gozinta; in/out; crunch/zap (all from UNIX);
-[angle/right angle]. = Common: <equals>; gets; takes. Rare: quadrathorpe;
-[half-mesh]. ? Common: query; <question mark>; {ques}. Rare: whatmark;
-[what]; wildchar; huh; hook; buttonhook; hunchback. @ Common: at sign; at;
-strudel. Rare: each; vortex; whorl; [whirlpool]; cyclone; snail; ape; cat;
-rose; cabbage; <commercial at>. V Rare: [book]. [] Common: left/right square
-bracket; <opening/closing bracket>; bracket/unbracket; left/right bracket.
-Rare: square/unsquare; [U turn/U turn back]. \ Common: backslash; escape
-(from C/UNIX); reverse slash; slosh; backslant; backwhack. Rare: bash;
-<reverse slant>; reversed virgule; [backslat]. ^ Common: hat; control;
-uparrow; caret; <circumflex>. Rare: chevron; [shark (or shark-fin)]; to the
-(`to the power of'); fang; pointer (in Pascal). _ Common: <underline>;
-underscore; underbar; under. Rare: score; backarrow; skid; [flatworm]. `
-Common: backquote; left quote; left single quote; open quote; <grave accent>;
-grave. Rare: backprime; [backspark]; unapostrophe; birk; blugle; back tick;
-back glitch; push; <opening single quotation mark>; quasiquote. {} Common:
-open/close brace; left/right brace; left/right squiggly; left/right squiggly
-bracket/brace; left/right curly bracket/brace; <opening/closing brace>. Rare:
-brace/unbrace; curly/uncurly; leftit/rytit; left/right squirrelly;
+The predominant character set encoding of present-day computers. he modern
+version uses 7 bits for each character, whereas most earlier codes (including
+an early version of ASCII) used fewer. This change allowed the inclusion of
+lowercase letters --- a major {win} --- but it did not provide for accented
+letters or any other letterforms not used in English (such as the German
+sharp-S or the ae-ligature which is a letter in, for example, Norwegian). It
+could be worse, though. It could be much worse. see {{EBCDIC}} to understand
+how. Computers are much pickier and less flexible about spelling than humans;
+thus, hackers need to be very precise when talking about characters, and have
+developed a considerable amount of verbal shorthand for them. Every character
+has one or more names --- some formal, some concise, some silly. Common
+jargon names for ASCII characters are collected here. see also individual
+entries for {bang}, {excl}, {open}, {ques}, {semi}, {shriek}, {splat},
+{twiddle}, and {Yu-Shiang Whole Fish}. This list derives from revision 2.3 of
+the USENET ASCII pronunciation guide. Single characters are listed in ASCII
+order; character pairs are sorted in by first member. For each character,
+common names are given in rough order of popularity, followed by names that
+are reported but rarely seen; official ANSI/CCITT names are surrounded by
+brokets: <>. Square brackets mark the particularly silly names introduced by
+{INTERCAL}. The abbreviations "l/r" and "o/c" stand for left/right and
+"open/close" respectively. Ordinary parentheticals provide some usage
+information. ! Common: {bang}; pling; excl; shriek; <exclamation mark>. Rare:
+factorial; exclam; smash; cuss; boing; yell; wow; hey; wham; eureka;
+[spark-spot]; soldier. " Common: double quote; quote. Rare: literal mark;
+double-glitch; <quotation marks>; <dieresis>; dirk; [rabbit-ears]; double
+prime. # Common: number sign; pound; pound sign; hash; sharp; {crunch}; hex;
+[mesh]. Rare: grid; cross-hatch; oc-to-thorpe; flash; <square>, pig-pen;
+tic-tac-toe; scratchmark; thud; thump; {splat}. $ Common: dollar; <dollar
+sign>. Rare: currency symbol; buck; cash; string (from BASIC); escape (when
+used as the echo of ASCII ESC); ding; cache; [big money]. % Common: percent;
+<percent sign>; mod; grapes. Rare: [double-oh-seven]. & Common: <ampersand>;
+amper; and. Rare: address (from C); reference (from C++); andpersand; bitand;
+background (from `sh(1)'); pretzel; amp. [INTERCAL called this `ampersand';
+what could be sillier?] ' Common: single quote; quote; <apostrophe>. Rare:
+prime; glitch; tick; irk; pop; [spark]; <closing single quotation mark>;
+<acute accent>. ( ) Common: l/r paren; l/r parenthesis; left/right;
+o-pen-/-close; par-en/the-sis; o/c paren; o/c par-en-the-sis; l/r
+paren-the-sis; l/r ba-na-na. Rare: so/al-ready; lparen/rparen;
+<opening/closing parenthesis>; o/c round bracket, l/r round bracket,
+[wax/wane]; par-en-this-ey/un-par-en-this-ey; l/r ear. * Common: star;
+[{splat}]; <asterisk>. Rare: wildcard; gear; dingle; mult; spider; aster;
+times; twinkle; glob (see {glob}); {Nathan Hale}. + Common: <plus>; add.
+Rare: cross; [intersection]. , Common: <comma>. Rare: <cedilla>; [tail]. -
+Common: dash; <hyphen>; <minus>. Rare: [worm]; option; dak; bithorpe. .
+Common: dot; point; <period>; <decimal point>. Rare: radix point; full stop;
+[spot]. / Common: slash; stroke; <slant>; forward slash. Rare: diagonal;
+solidus; over; slak; virgule; [slat]. : Common: <colon>. Rare: dots;
+[two-spot]. ; Common: <semicolon>; semi. Rare: weenie; [hybrid], pit-thwong.
+< > Common: <less/great-er than>; bra/ket; l/r angle; l/r angle bracket; l/r
+broket. Rare: from/{into, towards}; read from/write to; suck/blow;
+comes-from/gozinta; in/out; crunch/zap (all from UNIX); [angle/right angle].
+= Common: <equals>; gets; takes. Rare: quadrathorpe; [half-mesh]. ? Common:
+query; <question mark>; {ques}. Rare: whatmark; [what]; wildchar; huh; hook;
+buttonhook; hunchback. @ Common: at sign; at; strudel. Rare: each; vortex;
+whorl; [whirlpool]; cyclone; snail; ape; cat; rose; cabbage; <commercial at>.
+V Rare: [book]. [ ] Common: l/r square bracket; l/r bracket; <opening/closing
+brack-et>; brack-et/un-brack-et. Rare: square-/-un-square; [U turn/U turn
+back]. \ Common: backslash; escape (from C/UNIX); reverse slash; slosh;
+backslant; backwhack. Rare: bash; <reverse slant>; reversed virgule;
+[backslat]. ^ Common: hat; control; uparrow; caret; <circumflex>. Rare:
+chevron; [shark (or shark-fin)]; to the (`to the power of'); fang; pointer
+(in Pascal). _ Common: <underline>; underscore; underbar; under. Rare: score;
+backarrow; skid; [flatworm]. ` Common: backquote; left quote; left single
+quote; open quote; <grave accent>; grave. Rare: backprime; [backspark];
+unapostrophe; birk; blugle; back tick; back glitch; push; <opening single
+quotation mark>; quasiquote. { } Common: o/c brace; l/r brace; l/r squiggly;
+l/r squiggly bracket/brace; l/r curly bracket/brace; <opening/closing brace>.
+Rare: brace/unbrace; curly/un-curly; leftit/rytit; l/r squirrelly;
 [embrace/bracelet]. | Common: bar; or; or-bar; v-bar; pipe; vertical bar.
 Rare: <vertical line>; gozinta; thru; pipesinta (last three from UNIX);
 [spike]. ~ Common: <tilde>; squiggle; {twiddle}; not. Rare: approx; wiggle;
@@ -92,7 +93,8 @@ world's other major languages makes the designers' choice of 7 bits look more
 and more like a serious {misfeature} as the use of international networks
 continues to increase (see {software rot}). Hardware and software from the
 U.S. still tends to embody the assumption that ASCII is the universal
-character set; this is a a major irritant to people who want to use a
-character set suited to their own languages. Perversely, though, efforts to
-solve this problem by proliferating `national' character sets produce an
-evolutionary pressure to use a *smaller* subset common to all those in use.
+character set and that characters have 7 bits; this is a a major irritant to
+people who want to use a character set suited to their own languages.
+Perversely, though, efforts to solve this problem by proliferating `national'
+character sets produce an evolutionary pressure to use a *smaller* subset
+common to all those in use.

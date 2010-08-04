@@ -11,4 +11,4 @@ presentation slides. When typesetting book-length manuscripts, on the other
 hand, scale changes the nature of the task; one quickly runs into WYSIAYG
 limitations, and the increased power and flexibility of a command-driven
 formatter like {{TeX}} or UNIX's `troff(1)' becomes not just desirable but a
-necessity.
+necessity. Compare {YAFIYGI}.

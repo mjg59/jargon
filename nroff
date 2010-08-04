@@ -1,3 +1,3 @@
- :nroff:: /en'rof/ [UNIX, from "new runoff"] n. A companion program to the
-UNIX typesetter {{troff}}, accepting identical input but preparing output for
-terminals and line printers.
+ :nroff:: /en'rof/ [UNIX, from "new roff" (see {{troff}})] n. A companion
+program to the UNIX typesetter {{troff}}, accepting identical input but
+preparing output for terminals and line printers.

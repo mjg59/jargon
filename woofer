@@ -4,7 +4,4 @@ excess on the right-hand side to be torn off when the print format is 80
 columns or less wide. The right-hand excess may be called `woofer'. This term
 (like {tweeter}, which see) has been in use at Waterloo since 1972, but is
 elsewhere unknown. In audio jargon, the word refers to the bass speaker(s) on
-a hi-fi. 2. A procedure to be employed by the user in order to do what some
-currently non-working feature should do. Hypothetical example: "Using META-F7
-{crash}es the 4.43 build of Weemax, but as a workaround you can type CTRL-R,
-then SHIFT-F5, and delete the remaining {cruft} by hand."
+a hi-fi.

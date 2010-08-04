@@ -4,5 +4,6 @@ plural `diffs'). "Send me your diffs for the Jargon File!" Compare {vdiff}.
 2. Specifically, such a listing produced by the `diff(1)' command, esp. when
 used as specification input to the `patch(1)' utility (which can actually
 perform the modifications; see {patch}). This is a common method of
-distributing patches and source updates in the UNIX/C world. see also
-{vdiff}, {mod}.
+distributing patches and source updates in the UNIX/C world. 3. v. To compare
+(whether or not by use of automated tools on machine-readable files); see
+also {vdiff}, {mod}.

@@ -6,11 +6,11 @@ computers' and eventually just as mainframes. The term carries the
 connotation of a machine designed for batch rather than interactive use,
 though possibly with an interactive timesharing operating system retrofitted
 onto it; it is especially used of machines built by IBM, Unisys, and the
-other great {dinosaur}s surviving from computing's {Stone Age}. It is common
-wisdom among hackers that the mainframe architectural tradition is
-essentially dead (outside of the tiny market for {number-crunching}
-supercomputers (see {cray})), having been swamped by the recent huge advances
-in IC technology and low-cost personal computing. As of 1991, corporate
-America hasn't quite figured this out yet, though the wave of failures,
-takeovers, and mergers among traditional mainframe makers are certainly
-straws in the wind (see {dinosaurs mating}).
+other great {dinosaur}s surviving from computing's {Stone Age}. It has been
+common wisdom among hackers since the late 1980s that the mainframe
+architectural tradition is essentially dead (outside of the tiny market for
+{number-crunching} supercomputers (see {cray})), having been swamped by the
+recent huge advances in IC technology and low-cost personal computing. As of
+1993, corporate America is just beginning to figure this out --- the wave of
+failures, takeovers, and mergers among traditional mainframe makers have
+certainly provided sufficient omens (see {dinosaurs mating}).

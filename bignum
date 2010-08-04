@@ -1,19 +1,19 @@
  :bignum: /big'nuhm/ [orig. from MIT MacLISP] n. 1. [techspeak] A
-multiple-precision computer representation for very large integers. More
+multiple-precision computer representation for very large integers. 2. More
 generally, any very large number. "Have you ever looked at the United States
-Budget? There's bignums for you!" 2. [Stanford] In backgammon, large numbers
-on the dice are called `bignums', especially a roll of double fives or double
-sixes (compare {moby}, sense 4). see also {El Camino Bignum}. Sense 1 may
-require some explanation. Most computer languages provide a kind of data
-called `integer', but such computer integers are usually very limited in
-size; usually they must be smaller than than 2^(31) (2,147,483,648) or (on a
-losing {bitty box}) 2^(15) (32,768). If you want to work with numbers larger
-than that, you have to use floating-point numbers, which are usually accurate
-to only six or seven decimal places. Computer languages that provide bignums
-can perform exact calculations on very large numbers, such as 1000! (the
-factorial of 1000, which is 1000 times 999 times 998 times ... times 2 times
-1). For example, this value for 1000! was computed by the MacLISP system
-using bignums: 40238726007709377354370243392300398571937486421071
+Budget? There's bignums for you!" 3. [Stanford] In backgammon, large numbers
+on the dice especially a roll of double fives or double sixes (compare
+{moby}, sense 4). see also {El Camino Bignum}. Sense 1 may require some
+explanation. Most computer languages provide a kind of data called `integer',
+but such computer integers are usually very limited in size; usually they
+must be smaller than than 2^(31) (2,147,483,648) or (on a {bitty box}) 2^(15)
+(32,768). If you want to work with numbers larger than that, you have to use
+floating-point numbers, which are usually accurate to only six or seven
+decimal places. Computer languages that provide bignums can perform exact
+calculations on very large numbers, such as 1000! (the factorial of 1000,
+which is 1000 times 999 times 998 times ... times 2 times 1). For example,
+this value for 1000! was computed by the MacLISP system using bignums:
+40238726007709377354370243392300398571937486421071
 46325437999104299385123986290205920442084869694048
 00479988610197196058631666872994808558901323829669
 94459099742450408707375991882362772718873251977950

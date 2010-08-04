@@ -2,8 +2,8 @@
 FROM' <label> would cause the referenced label to act as a sort of trapdoor,
 so that if the program ever reached it control would quietly and
 {automagically} be transferred to the statement following the `COME FROM'.
-`COME FROM' was first proposed in R.L. Clark's "A Linguistic Contribution to
-GOTO-less programming", which appeared in a 1973 {Datamation} issue (and was
+`COME FROM' was first proposed in R.L. Clark's `A Linguistic Contribution to
+GOTO-less programming', which appeared in a 1973 {Datamation} issue (and was
 reprinted in the April 1984 issue of `Communications of the ACM'). This
 parodied the then-raging `structured programming' {holy wars} (see
 {considered harmful}). Mythically, some variants are the `assigned COME FROM'

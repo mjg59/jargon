@@ -6,5 +6,6 @@ message and terminating or crashing, since there is little else that can be
 done. Some case variant of "can't happen" is also often the text emitted if
 the `impossible' error actually happens! Although "can't happen" events are
 genuinely infrequent in production code, programmers wise enough to check for
-them habitually are often surprised at how often they are triggered during
-development and how many headaches checking for them turns out to head off.
+them habitually are often surprised at how frequently they are triggered
+during development and how many headaches checking for them turns out to head
+off. see also {firewall code} (sense 2).

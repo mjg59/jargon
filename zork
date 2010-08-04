@@ -1,7 +1,7 @@
  :Zork: /zork/ n. The second of the great early experiments in computer
 fantasy gaming; see {ADVENT}. Originally written on MIT-DM during the late
 1970s, later distributed with BSD UNIX (as a patched, sourceless RT-11
-Fortran binary; see {retrocomputing}) and commercialized as `The Zork
-Trilogy' by Infocom. The Fortran source was later rewritten for portability
-and released to USENET under the name "Dungeon". Both Fortran "Dungeon" and
+FORTRAN binary; see {retrocomputing}) and commercialized as `The Zork
+Trilogy' by Infocom. The FORTRAN source was later rewritten for portability
+and released to USENET under the name "Dungeon". Both FORTRAN "Dungeon" and
 translated C versions are available at many FTP sites.

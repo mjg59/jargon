@@ -2,6 +2,6 @@
 gets commands and dispatches them for execution. 2. [techspeak] In `device
 driver', code designed to handle a particular peripheral device such as a
 magnetic disk or tape unit. 3. In the TeX world and the computerized
-typesetting world in general, `driver' also means a program that translates
-some device-independent or other common format to something a real device can
+typesetting world in general, a program that translates some
+device-independent or other common format to something a real device can
 actually understand.

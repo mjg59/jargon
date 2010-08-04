@@ -10,11 +10,12 @@ the bare metal' is also used to describe a style of {hand-hacking} that
 relies on bit-level peculiarities of a particular hardware design, esp.
 tricks for speed and space optimization that rely on crocks such as
 overlapping instructions (or, as in the famous case described in {The Story
-of Mel, a Real Programmer} (in {appendix A}), interleaving of opcodes on a
+of Mel, a Real Programmer} (in {Appendix A}), interleaving of opcodes on a
 magnetic drum to minimize fetch delays due to the device's rotational
 latency). This sort of thing has become less common as the relative costs of
 programming time and machine resources have changed, but is still found in
-heavily constrained environments such as industrial embedded systems. see
+heavily constrained environments such as industrial embedded systems, and in
+the code of hackers who just can't let go of that low-level control. see
 {Real Programmer}. In the world of personal computing, bare metal programming
 (especially in sense 1 but sometimes also in sense 2) is often considered a
 {Good Thing}, or at least a necessary evil (because these machines have often
@@ -22,5 +23,5 @@ been sufficiently slow and poorly designed to make it necessary; see
 {ill-behaved}). There, the term usually refers to bypassing the BIOS or OS
 interface and writing the application to directly access device registers and
 machine addresses. "To get 19.2 kilobaud on the serial port, you need to get
-down to the bare metal." People who can do this sort of thing are held in
-high regard.
+down to the bare metal." People who can do this sort of thing well are held
+in high regard.

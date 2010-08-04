@@ -1,10 +1,14 @@
- :crock: [from the obvious mainstream scatologism] n. 1. An awkward feature
-or programming technique that ought to be made cleaner. Using small integers
-to represent error codes without the program interpreting them to the user
-(as in, for example, UNIX `make(1)', which returns code 139 for a process
-that dies due to {segfault}). 2. A technique that works acceptably, but which
-is quite prone to failure if disturbed in the least, for example depending on
-the machine opcodes having particular bit patterns so that you can use
-instructions as data words too; a tightly woven, almost completely
-unmodifiable structure. see {kluge}, {brittle}. Also in the adjectives
-`crockish' and `crocky', and the nouns `crockishness' and `crockitude'.
+ :crock: [from the American scatologism crock of shit] n. 1. An awkward
+feature or programming technique that ought to be made cleaner. For example,
+using small integers to represent error codes without the program
+interpreting them to the user (as in, for example, UNIX `make(1)', which
+returns code 139 for a process that dies due to {segfault}). 2. A technique
+that works acceptably, but which is quite prone to failure if disturbed in
+the least. For example, a too-clever programmer might write an assembler
+which mapped instruction mnemonics to numeric opcodes algorithmically, a
+trick which depends far too intimately on the particular bit patterns of the
+opcodes. (For another example of programming with a dependence on actual
+opcode values, see {The Story of Mel, a Real Programmer} in {Appendix A}.)
+Many crocks have a tightly woven, almost completely unmodifiable structure.
+see {kluge}, {brittle}. The adjectives `crockish' and `crocky', and the nouns
+`crockishness' and `crockitude', are also used.

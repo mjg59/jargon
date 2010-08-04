@@ -6,4 +6,7 @@ hardware or firmware code to wait for (or request) such a packet during the
 reboot process. see also {dickless workstation}. The `kiss-of-death packet',
 with a function complementary to that of a breath-of-life packet, is
 recommended for dealing with hosts that consume too many network resources.
-This packet, however, is undocumented and perhaps mythical.
+There is at least one documented instance of an Internet subnet with limited
+addres-table slots in a gateway machine in which kiss-of-death packets were
+routinely used to compete for slots, rather like Christmas shoppers competing
+for scarce parking spaces.

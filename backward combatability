@@ -1,7 +1,12 @@
  :backward combatability: /bak'w*rd k*m-bat'*-bil'*-tee/ [from `backward
 compatibility'] n. A property of hardware or software revisions in which
-previous protocols, formats, and layouts are discarded in favor of `new and
-improved' protocols, formats, and layouts. Occurs usually when making the
-transition between major releases. When the change is so drastic that the old
-formats are not retained in the new version, it is said to be `backward
-combatable'. see {flag day}.
+previous protocols, formats, layouts, etc. are irrevocably discarded in favor
+of `new and improved' protocols, formats, and layouts, leaving the previous
+ones not merely deprecated but actively defeated. (Too often, the old and new
+versions cannot definitively be distinguished, such that lingering instances
+of the previous ones yield crashes or other infelicitous effects, as opposed
+to a simple "version mismatch" message.) A backwards compatible change, on
+the other hand, allows old versions to coexist without crashes or error
+messages, but too many major changes incorporating elaborate backwards
+compatibility processing can lead to extreme {software bloat}. see also {flag
+day}.

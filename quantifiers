@@ -33,7 +33,7 @@ course, some standard unit prefixes for powers of 10. In the following table,
 the `prefix' column is the international standard suffix for the appropriate
 power of ten; the `binary' column lists jargon abbreviations and words for
 the corresponding power of 2. The B-suffixed forms are commonly used for byte
-quantities; the words `meg' and `gig' are nouns which may (but do not always)
+quantities; the words `meg' and `gig' are nouns that may (but do not always)
 pluralize with `s'. prefix decimal binary pronunciation kilo- k K, KB, /kay/
 mega- M M, MB, meg /meg/ giga- G G, GB, gig /gig/,/jig/ Confusingly, hackers
 often use K or M as though they were suffix or numeric multipliers rather
@@ -46,4 +46,16 @@ as short for `a grand', that is, $1000). Whether one pronounces `gig' with
 hard or soft `g' depends on what one thinks the proper pronunciation of
 `giga-' is. Confusing 1000 and 1024 (or other powers of 2 and 10 close in
 magnitude) --- for example, describing a memory in units of 500K or 524K
-instead of 512K --- is a sure sign of the {marketroid}.
+instead of 512K --- is a sure sign of the {marketroid}. One example of this:
+it is common to refer to the capacity of the 3.5" {microfloppies} now
+ubiquitous in the PC world as `1.44 MB' In fact, this is a completely {bogus}
+number. The correct size is 1440 KB, that is, 1440 * 1024 = 1474560 bytes. So
+the `mega' in `1.44 MB' is compounded of two `kilos', one of which is 1024
+and the other of which is 1000. The correct number of megabytes would of
+course be 1440 / 1024 = 1.40625. Alas, this fine point is probably lost on
+the world forever. [1993 update: hacker Morgan Burke has proposed, to general
+approval on USENET, the following additional prefixes: groucho 10^-30 harpo
+10^-27 harpi 10^27 grouchi 10^30 We observe that this would leave the
+prefixes zeppo-, gummo-, and chico- available for future expansion. Sadly,
+there is little immediate prospect that Mr. Burke's eminently sensible
+proposal will be ratified.]

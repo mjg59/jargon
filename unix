@@ -6,8 +6,8 @@ considered a co-author of the system. The turning point in UNIX's history
 came when it was reimplemented almost entirely in C during 1972--1974, making
 it the first source-portable OS. UNIX subsequently underwent mutations and
 expansions at the hands of many different people, resulting in a uniquely
-flexible and developer-friendly environment. In 1991, UNIX is the most widely
-used multiuser general-purpose operating system in the world. Many people
-consider this the most important victory yet of hackerdom over industry
-opposition (but see {UNIX weenie} and {UNIX conspiracy} for an opposing point
-of view). see {Version 7}, {BSD}, {USG UNIX}.
+flexible and developer-friendly environment. By 1991, UNIX was the most
+widely used multiuser general-purpose operating system in the world. Many
+people consider this the most important victory yet of hackerdom over
+industry opposition (but see {UNIX weenie} and {UNIX conspiracy} for an
+opposing point of view). see {Version 7}, {BSD}, {USG UNIX}.

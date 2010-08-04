@@ -1,5 +1,5 @@
  :quine: [from the name of the logician Willard V. Quine, via Douglas
-Hofstadter] n. A program which generates a copy of its source text as its
+Hofstadter] n. A program that generates a copy of its own source text as its
 complete output. Devising the shortest possible quine in some given
 programming language is a common hackish amusement. Here is one classic
 quine: ((lambda (x) (list x (list (quote quote) x))) (quote (lambda (x) (list
@@ -7,7 +7,7 @@ x (list (quote quote) x))))) This one works in LISP or Scheme. It's
 relatively easy to write quines in other languages such as Postscript which
 readily handle programs as data; much harder (and thus more challenging!) in
 languages like C which do not. Here is a classic C quine for ASCII machines:
-char*f="char*f=%c%s%c;main(){printf(f,34,f,34,10);}%c";
+char*f="char*f=%c%s%c;main() {printf(f,34,f,34,10);}%c";
 main(){printf(f,34,f,34,10);} For excruciatingly exact quinishness, remove
-the line break after the second semicolon. Some infamous {Obfuscated C
-Contest} entries have been quines that reproduced in exotic ways.
+the interior line breaks. Some infamous {Obfuscated C Contest} entries have
+been quines that reproduced in exotic ways.

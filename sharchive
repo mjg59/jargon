@@ -1,0 +1,11 @@
+ :sharchive: [UNIX and USENET; from /bin/sh archive] n. A {flatten}ed
+representation of a set of one or more files, with the unique property that
+it can be unflattened (the original files restored) by feeding it through a
+standard UNIX shell; thus, a sharchive can be distributed to anyone running
+UNIX, and no special unpacking software is required. Sharchives are also
+intriguing in that they are typically created by shell scripts; the script
+that produces sharchives is thus a script which produces self-unpacking
+scripts, which may themselves contain scripts. (The downsides of sharchives
+are that they are an ideal venue for {Trojan horse} attacks and that, for
+recipients not running UNIX, no simple un-sharchiving program is possible;
+sharchives can and do make use of arbitrarily-powerful shell features.)

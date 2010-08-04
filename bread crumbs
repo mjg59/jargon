@@ -1,6 +1,6 @@
  :bread crumbs: n. Debugging statements inserted into a program that emit
 output or log indicators of the program's {state} to a file so you can see
-where it dies, or pin down the cause of surprising behavior. The term is
+where it dies or pin down the cause of surprising behavior. The term is
 probably a reference to the Hansel and Gretel story from the Brothers Grimm;
 in several variants, a character leaves a trail of bread crumbs so as not to
 get lost in the woods.

@@ -1,7 +1,13 @@
- :handle: [from CB slang] n. An electronic pseudonym; a `nom de guerre'
+ :handle: n. 1. [from CB slang] An electronic pseudonym; a `nom de guerre'
 intended to conceal the user's true identity. Network and BBS handles
 function as the same sort of simultaneous concealment and display one finds
 on Citizen's Band radio, from which the term was adopted. Use of grandiose
 handles is characteristic of {cracker}s, {weenie}s, {spod}s, and other lower
 forms of network life; true hackers travel on their own reputations rather
-than invented legendry.
+than invented legendry. 2. [Mac] A pointer to a pointer to
+dynamically-allocated memory; the extra level of indirection allows
+on-the-fly memory compaction (to cut down on fragmentation) or aging out of
+unused resources, with minimal impact on the (possibly multiple) parts of the
+larger program containing references to the allocated memory. Compare {snap}
+(to snap a handle would defeat its purpose); see also {aliasing bug},
+{dangling pointer}.

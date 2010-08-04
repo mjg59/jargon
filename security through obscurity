@@ -1,12 +1,12 @@
- :security through obscurity: alt. `security by obscurity' n. A name applied
+ :security through obscurity: alt. `security by obscurity' n. A term applied
 by hackers to most OS vendors' favorite way of coping with security holes ---
 namely, ignoring them and not documenting them and trusting that nobody will
 find out about them and that people who do find out about them won't exploit
-them. This never works for long and occasionally sets the world up for
-debacles like the {RTM} worm of 1988 (see {Great Worm, the}), but once the
-brief moments of panic created by such events subside most vendors are all
-too willing to turn over and go back to sleep. After all, actually fixing the
-bugs would siphon off the resources needed to implement the next
+them. This "strategy" never works for long and occasionally sets the world up
+for debacles like the {RTM} worm of 1988 (see {Great Worm, the}), but once
+the brief moments of panic created by such events subside most vendors are
+all too willing to turn over and go back to sleep. After all, actually fixing
+the bugs would siphon off the resources needed to implement the next
 user-interface frill on marketing's wish list --- and besides, if they
 started fixing security bugs customers might begin to *expect* it and imagine
 that their warranties of merchantability gave them some sort of *right* to a
@@ -24,5 +24,5 @@ community; and (2) (self-mockingly) the poor coverage of the documentation
 and obscurity of many commands. One instance of *deliberate* security through
 obscurity is recorded; the command to allow patching the running ITS system
 ({altmode} altmode control-R) echoed as $$^D. If you actually typed alt alt
-^D, that set a flag which would prevent patching the system even if you later
+^D, that set a flag that would prevent patching the system even if you later
 got it right.

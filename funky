@@ -7,4 +7,4 @@ exception handling is extraordinarily funky. Most standards acquire funkiness
 as they age. "The new mailer is installed, but is still somewhat funky; if it
 bounces your mail for no reason, try resubmitting it." "This UART is pretty
 funky. The data ready line is active-high in interrupt mode and active-low in
-DMA mode." see {fuggly}.
+DMA mode."

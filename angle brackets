@@ -1,4 +1,6 @@
  :angle brackets: n. Either of the characters `<' (ASCII 0111100) and `>'
-(ASCII 0111110) (ASCII less-than or greater-than signs). The {Real World}
-angle brackets used by typographers are actually taller than a less-than or
-greater-than sign. see {broket}, {{ASCII}}.
+(ASCII 0111110) (ASCII less-than or greater-than signs). Typographers in the
+{Real World} use angle brackets which are either taller and slimmer (the ISO
+`Bra' and `Ket' characters), or significantly smaller (single or double
+guillemets) than the less-than and greater-than signs. see {broket},
+{{ASCII}}.

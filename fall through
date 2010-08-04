@@ -9,10 +9,11 @@ the switch header, passing a point where one would normally expect to find a
 `break'. A trivial example: switch (color) { case GREEN: do_green(); break;
 case PINK: do_pink(); /* FALL THROUGH */ case RED: do_red(); break; default:
 do_blue(); break; } The variant spelling `/* FALL THRU */' is also common.
-The effect of this code is to `do_green()' when color is `GREEN', `do_red()'
-when color is `RED', `do_blue()' on any other color other than `PINK', and
-(and this is the important part) `do_pink()' *and then* `do_red()' when color
-is `PINK'. Fall-through is {considered harmful} by some, though there are
-contexts (such as the coding of state machines) in which it is natural; it is
-generally considered good practice to include a comment highlighting the
-fall-through where one would normally expect a break.
+The effect of the above code is to `do_green()' when color is `GREEN',
+`do_red()' when color is `RED', `do_blue()' on any other color other than
+`PINK', and (and this is the important part) `do_pink()' *and then*
+`do_red()' when color is `PINK'. Fall-through is {considered harmful} by
+some, though there are contexts (such as the coding of state machines) in
+which it is natural; it is generally considered good practice to include a
+comment highlighting the fall-through where one would normally expect a
+break.

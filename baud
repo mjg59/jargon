@@ -2,8 +2,8 @@
 Hence kilobaud or Kbaud, thousands of bits per second. The technical meaning
 is `level transitions per second'; this coincides with bps only for two-level
 modulation with no framing or stop bits. Most hackers are aware of these
-nuances but blithely ignore them. Historical note: this was originally a unit
-of telegraph signalling speed, set at one pulse per second. It was proposed
-at the International Telegraph Conference of 1927, and named after J.M.E.
-Baudot (1845--1903), the French engineer who constructed the first successful
-teleprinter.
+nuances but blithely ignore them. Historical note: `baud' was originally a
+unit of telegraph signalling speed, set at one pulse per second. It was
+proposed at the International Telegraph Conference of 1927, and named after
+J.M.E. Baudot (1845--1903), the French engineer who constructed the first
+successful teleprinter.

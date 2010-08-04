@@ -175,7 +175,7 @@ told his mother how he had written on "a machine that looks like a computer
 -- but without the TV screen." She asked him if it could have been a
 "typewriter." "Yeah! Yeah!" he said. "That's what it was called." I have
 since investigated this matter and determined that many of today's teenagers
-have never seen a slide rule, eiher.... -- ESR] :A Story About `Magic': (by
+have never seen a slide rule, either.... -- ESR] :A Story About `Magic': (by
 GLS) ================================ Some years ago, I was snooping around
 in the cabinets that housed the MIT AI Lab's PDP-10, and noticed a little
 switch glued to the frame of one cabinet. It was obviously a homebrew job,
@@ -262,4 +262,4 @@ violent, especially when tourists learned about it. One of the systems
 hackers solved the problem by replacing JEDGAR with another program that only
 pretended to do its job. It took a long time to do this, because every copy
 of JEDGAR had to be patched. To this day no one knows how many people never
-figured out that
+figured out that JEDGAR had been defanged.

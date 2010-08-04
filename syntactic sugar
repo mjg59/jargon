@@ -1,11 +1,11 @@
  :syntactic sugar: [coined by Peter Landin] n. Features added to a language
-or other formalism to make it `sweeter' for humans, that do not affect the
+or other formalism to make it `sweeter' for humans, which do not affect the
 expressiveness of the formalism (compare {chrome}). Used esp. when there is
 an obvious and trivial translation of the `sugar' feature into other
 constructs already present in the notation. C's `a[i]' notation is syntactic
 sugar for `*(a + i)'. "Syntactic sugar causes cancer of the semicolon." ---
 Alan Perlis. The variants `syntactic saccharin' and `syntactic syrup' are
 also recorded. These denotes something even more gratuitous, in that
-syntactic sugar serves a purpose (making something more acceptable to humans)
-but syntactic saccharin or syrup serves no purpose at all. Compare
-{candygrammar}.
+syntactic sugar serves a purpose (making something more acceptable to
+humans), but syntactic saccharin or syrup serves no purpose at all. Compare
+{candygrammar}, {syntactic salt}.

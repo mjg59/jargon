@@ -8,7 +8,7 @@ person. `Flush' was standard ITS terminology for aborting an output
 operation; one spoke of the text that would have been printed, but was not,
 as having been flushed. It is speculated that this term arose from a vivid
 image of flushing unwanted characters by hosing down the internal output
-buffer, washing the characters away before they can be printed. The UNIX/C
+buffer, washing the characters away before they could be printed. The UNIX/C
 usage, on the other hand, was propagated by the `fflush(3)' call in C's
 standard I/O library (though it is reported to have been in use among BLISS
 programmers at DEC and on Honeywell and IBM machines as far back as 1965).

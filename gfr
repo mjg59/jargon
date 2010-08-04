@@ -1,5 +1,5 @@
- :GFR: /G-F-R/ vt. [ITS] From `Grim File Reaper', an ITS and Lisp Machine
-utility. To remove a file or files according to some program-automated or
+ :GFR: /G-F-R/ vt. [ITS: from `Grim File Reaper', an ITS and LISP Machine
+utility] To remove a file or files according to some program-automated or
 semi-automatic manual procedure, especially one designed to reclaim mass
 storage space or reduce name-space clutter (the original GFR actually moved
 files to tape). Often generalized to pieces of data below file level. "I used

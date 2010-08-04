@@ -5,15 +5,15 @@ escapes in {C}, in spite of the better match of hexadecimal to ASCII and
 modern byte-addressable architectures. see {dusty deck}. 2. More
 restrictively, a feature with past but no present utility. Example: the
 force-all-caps (LCASE) bits in the V7 and {BSD} UNIX tty driver, designed for
-use with monocase terminals. In a perversion of the usual
+use with monocase terminals. (In a perversion of the usual
 backward-compatibility goal, this functionality has actually been expanded
-and renamed in some later {USG UNIX} releases as the IUCLC and OLCUC bits. 3.
-The FOSSIL (Fido/Opus/Seadog Standard Interface Level) driver specification
-for serial-port access to replace the {brain-dead} routines in the IBM PC
-ROMs. Fossils are used by most MS-DOS {BBS} software in preference to the
-`supported' ROM routines, which do not support interrupt-driven operation or
-setting speeds above 9600; the use of a semistandard FOSSIL library is
-preferable to the {bare metal} serial port programming otherwise required.
-Since the FOSSIL specification allows additional functionality to be hooked
-in, drivers that use the {hook} but do not provide serial-port access
-themselves are named with a modifier, as in `video fossil'.
+and renamed in some later {USG UNIX} releases as the IUCLC and OLCUC bits.)
+3. The FOSSIL (Fido/Opus/Seadog Standard Interface Level) driver
+specification for serial-port access to replace the {brain-dead} routines in
+the IBM PC ROMs. Fossils are used by most MS-DOS {BBS} software in preference
+to the `supported' ROM routines, which do not support interrupt-driven
+operation or setting speeds above 9600; the use of a semistandard FOSSIL
+library is preferable to the {bare metal} serial port programming otherwise
+required. Since the FOSSIL specification allows additional functionality to
+be hooked in, drivers that use the {hook} but do not provide serial-port
+access themselves are named with a modifier, as in `video fossil'.

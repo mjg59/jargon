@@ -1,0 +1,9 @@
+ :screaming tty: [UNIX] n. A terminal line which is either disconnected or
+connected to a powered-off terminal which, due to misconfiguration,
+misimplementation, or simple bad luck, acts as a source of an infinite number
+of random characters. A screaming tty or two can seriously degrade the
+performance of a vanilla UNIX system; the arriving "characters" are treated
+as userid/password pairs and tested as such. The UNIX password encryption
+algorithm is designed to be computationally intensive in order to foil
+brute-force crack attacks, so though none of the logins succeeds; the
+overhead of rejecting them all can be substantial.

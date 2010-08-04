@@ -1,7 +1,7 @@
  :Foonly: n. 1. The {PDP-10} successor that was to have been built by the
 Super Foonly project at the Stanford Artificial Intelligence Laboratory along
 with a new operating system. The intention was to leapfrog from the old DEC
-timesharing system SAIL was running to a new generation, bypassing TENEX
+timesharing system SAIL was then running to a new generation, bypassing TENEX
 which at that time was the ARPANET standard. ARPA funding for both the Super
 Foonly and the new operating system was cut in 1974. Most of the design team
 went to DEC and contributed greatly to the design of the PDP-10 model KL10.
@@ -12,13 +12,13 @@ companion. 3. Any of the machines built by Poole's company. The first was the
 F-1 (a.k.a. Super Foonly), which was the computational engine used to create
 the graphics in the movie "TRON". The F-1 was the fastest PDP-10 ever built,
 but only one was ever made. The effort drained Foonly of its financial
-resources, and they turned towards building smaller, slower, and much less
-expensive machines. Unfortunately, these ran not the popular {TOPS-20} but a
-TENEX variant called Foonex; this seriously limited their market. Also, the
-machines shipped were actually wire-wrapped engineering prototypes requiring
-individual attention from more than usually competent site personnel, and
-thus had significant reliability problems. Poole's legendary temper and
-unwillingness to suffer fools gladly did not help matters. By the time of the
-Jupiter project cancellation in 1983 Foonly's proposal to build another F-1
-was eclipsed by the {Mars}, and the company never quite recovered. see the
-{Mars} entry for the continuation and moral of this story.
+resources, and the company turned towards building smaller, slower, and much
+less expensive machines. Unfortunately, these ran not the popular {TOPS-20}
+but a TENEX variant called Foonex; this seriously limited their market. Also,
+the machines shipped were actually wire-wrapped engineering prototypes
+requiring individual attention from more than usually competent site
+personnel, and thus had significant reliability problems. Poole's legendary
+temper and unwillingness to suffer fools gladly did not help matters. By the
+time of the Jupiter project cancellation in 1983, Foonly's proposal to build
+another F-1 was eclipsed by the {Mars}, and the company never quite
+recovered. see the {Mars} entry for the continuation and moral of this story.

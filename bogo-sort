@@ -4,4 +4,4 @@ generic *bad* algorithm). Bogo-sort is equivalent to repeatedly throwing a
 deck of cards in the air, picking them up at random, and then testing whether
 they are in order. It serves as a sort of canonical example of awfulness.
 Looking at a program and seeing a dumb algorithm, one might say "Oh, I see,
-this program uses bogo-sort." Compare {bogus}, {brute force}.
+this program uses bogo-sort." Compare {bogus}, {brute force}, {Lasherism}.

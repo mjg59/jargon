@@ -1,7 +1,7 @@
  :Get a real computer!: imp. Typical hacker response to news that somebody is
 having trouble getting work done on a system that (a) is single-tasking, (b)
-has no hard disk, or (c) has an address space smaller than 4 megabytes. This
-is as of mid-1991; note that the threshold for `real computer' rises with
+has no hard disk, or (c) has an address space smaller than 16 megabytes. This
+is as of mid-1993; note that the threshold for `real computer' rises with
 time, and it may well be (for example) that machines with character-only
 displays will be generally considered `unreal' in a few years (GLS points out
 that they already are in some circles). see {essentials}, {bitty box}, and
