@@ -17,4 +17,9 @@ a seemingly useless goal, the point being that the accomplished goal is a
 hack. For example, MacLISP has code to read and print roman numerals, which
 was installed purely for hack value. HAPPY HACKING: A farewell. HOW'S
 HACKING?: A friendly greeting among hackers. HACK HACK: A somewhat pointless
-but friendly comment, often used as a temporary farewell.
+but friendly comment, often used as a temporary farewell. [The word HACK
+doesn't really have 69 different meanings. In fact, HACK has only one
+meaning, an extremely subtle and profound one which defies articulation.
+Which connotation a given HACK-token has depends in similarly profound ways
+on the context. Similar comments apply to a couple other hacker jargon items,
+most notably RANDOM. - Agre]

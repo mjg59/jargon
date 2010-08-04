@@ -1,3 +1,4 @@
- THRASH v. To move wildly or violently. Swapping systems which are overloaded
-spend much of their time moving pages into and out of core, and are therefore
-said to thrash.
+ THRASH v. To move wildly or violently, without accomplishing anything
+useful. Swapping systems which are overloaded waste most of their time moving
+pages into and out of core (rather than performing useful computation), and
+are therefore said to thrash.
