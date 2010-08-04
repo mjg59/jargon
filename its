@@ -1,21 +1,37 @@
- :ITS:: /I-T-S/ /n./ 1. Incompatible Time-sharing System, an influential
-though highly idiosyncratic operating system written for PDP-6s and PDP-10s
-at MIT and long used at the MIT AI Lab. Much AI-hacker jargon derives from
-ITS folklore, and to have been `an ITS hacker' qualifies one instantly as an
-old-timer of the most venerable sort. ITS pioneered many important
-innovations, including transparent file sharing between machines and
-terminal-independent I/O. After about 1982, most actual work was shifted to
-newer machines, with the remaining ITS boxes run essentially as a hobby and
-service to the hacker community. The shutdown of the lab's last ITS machine
-in May 1990 marked the end of an era and sent old-time hackers into mourning
-nationwide (see {high moby}). The Royal Institute of Technology in Sweden is
-maintaining one `live' ITS site at its computer museum (right next to the
-only TOPS-10 system still on the Internet), so ITS is still alleged to hold
-the record for OS in longest continuous use (however, {{WAITS}} is a credible
-rival for this palm). 2. A mythical image of operating-system perfection
-worshiped by a bizarre, fervent retro-cult of old-time hackers and ex-users
-(see {troglodyte}, sense 2). ITS worshipers manage somehow to continue
-believing that an OS maintained by assembly-language hand-hacking that
-supported only monocase 6-character filenames in one directory per account
-remains superior to today's state of commercial art (their venom against Unix
-is particularly intense). see also {holy wars}, {Weenix}.
+ 1. The use by guess or cookbook of an {obscure} or {hairy} system, feature,
+or algorithm that one does not truly understand. The implication is that the
+technique may not work, and if it doesn't, one will never know why. Almost
+synonymous with {black magic}, except that black magic typically isn't
+documented and _nobody_ understands it. Compare {magic}, {deep magic}, {heavy
+wizardry}, {rain dance}, {cargo cult programming}, {wave a dead chicken}. 2.
+Things programmers do that they know shouldn't work but they try anyway, and
+which sometimes actually work, such as recompiling everything. :VR: // [MUD]
+n. On-line abbrev for {virtual reality}, as opposed to {RL}. :Vulcan nerve
+pinch: n. [from the old "Star Trek" TV series via Commodore Amiga hackers]
+The keyboard combination that forces a soft-boot or jump to ROM monitor (on
+machines that support such a feature). On many micros this is Ctrl-Alt-Del;
+on Suns, L1-A; on some Macintoshes, it is <Cmd>-<Power switch>! Also called
+{three-finger salute}. Compare {quadruple bucky}. :vulture capitalist: n.
+Pejorative hackerism for `venture capitalist', deriving from the common
+practice of pushing contracts that deprive inventors of control over their
+own innovations and most of the money they ought to have made from them. = W
+= ===== :wabbit: /wab'it/ n. [almost certainly from Elmer Fudd's immortal
+line "You wascawwy wabbit!"] 1. A legendary early hack reported on a
+System/360 at RPI and elsewhere around 1978; this may have descended (if only
+by inspiration) from a hack called RABBITS reported from 1969 on a Burroughs
+5500 at the University of Washington Computer Center. The program would make
+two copies of itself every time it was run, eventually crashing the system.
+2. By extension, any hack that includes infinite self-replication but is not
+a {virus} or {worm}. see {fork bomb} and {rabbit job}, see also {cookie
+monster}. :WAITS:: /wayts/ n. The mutant cousin of {{TOPS-10}} used on a
+handful of systems at {{SAIL}} up to 1990. There was never an `official'
+expansion of WAITS (the name itself having been arrived at by a rather
+sideways process), but it was frequently glossed as `West-coast Alternative
+to ITS'. Though WAITS was less visible than ITS, there was frequent exchange
+of people and ideas between the two communities, and innovations pioneered at
+WAITS exerted enormous indirect influence. The early screen modes of {EMACS},
+for example, were directly inspired by WAITS's `E' editor -- one of a family
+of editors that were the first to do `real-time editing', in which the
+editing commands were invisible and where one typed text at the point of
+insertion/overwriting. The modern style of multi-region windowing is said to
+have originated there, and WAITS alumni at

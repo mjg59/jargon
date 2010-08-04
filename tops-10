@@ -1,6 +1,192 @@
- :TOPS-10:: /tops-ten/ /n./ DEC's proprietary OS for the fabled {PDP-10}
-machines, long a favorite of hackers but now effectively extinct. A fountain
-of hacker folklore; see Appendix A. see also {{ITS}}, {{TOPS-20}},
-{{TWENEX}}, {VMS}, {operating system}. TOPS-10 was sometimes called BOTS-10
-(from `bottoms-ten') as a comment on the inappropriateness of describing it
-as the top of anything.
+ 1986! A disgruntled programmer at the Volga Automobile Plant (where the Fiat
+clones called Ladas were manufactured) planted a time bomb which, a week
+after he'd left on vacation, stopped the entire main assembly line for a day.
+The case attracted lots of attention in the Soviet Union because it was the
+first cracking case to make it to court there. The perpetrator got a
+suspended sentence of 3 years in jail and was barred from future work as a
+programmer. :time sink: n. [poss. by analogy with `heat sink' or `current
+sink'] A project that consumes unbounded amounts of time. :time T: /ti:m T/
+n. 1. An unspecified but usually well-understood time, often used in
+conjunction with a later time T+1. "We'll meet on campus at time T or at
+Louie's at time T+1" means, in the context of going out for dinner: "We can
+meet on campus and go to Louie's, or we can meet at Louie's itself a bit
+later." (Louie's was a Chinese restaurant in Palo Alto that was a favorite
+with hackers.) Had the number 30 been used instead of the number 1, it would
+have implied that the travel time from campus to Louie's is 30 minutes;
+whatever time T is (and that hasn't been decided on yet), you can meet half
+an hour later at Louie's than you could on campus and end up eating at the
+same time. see also {since time T equals minus infinity}.
+:times-or-divided-by: quant. [by analogy with `plus-or-minus'] Term
+occasionally used when describing the uncertainty associated with a
+scheduling estimate, for either humorous or brutally honest effect. For a
+software project, the scheduling uncertainty factor is usually at least 2.
+:TINC: // [USENET] Abbreviation: "There Is No Cabal". see {backbone cabal}
+and {NANA}, but note that this abbreviation did not enter use until long
+after the dispersal of the backbone cabal. :Tinkerbell program: n. [Great
+Britain] A monitoring program used to scan incoming network calls and
+generate alerts when calls are received from particular sites, or when logins
+are attempted using certain IDs. Named after `Project Tinkerbell', an
+experimental phone-tapping program developed by British Telecom in the early
+1980s. :TINLC: // Abbriviation: "There Is No Lumber Cartel". see {Lumber
+Cartel}. TINLC is a takeoff on {TINC}. :tip of the ice-cube: n. [IBM] The
+visible part of something small and insignificant. Used as an ironic comment
+in situations where `tip of the iceberg' might be appropriate if the subject
+were at all important. :tired iron: n. [IBM] Hardware that is perfectly
+functional but far enough behind the state of the art to have been superseded
+by new products, presumably with sufficient improvement in bang-per-buck that
+the old stuff is starting to look a bit like a {dinosaur}. :tits on a
+keyboard: n. Small bumps on certain keycaps to keep touch-typists registered
+(usually on the `5' of a numeric keypad, and on the `F' and `J' of a {QWERTY}
+keyboard; but the Mac, perverse as usual, has them on the `D' and `K' keys).
+:TLA: /T-L-A/ n. [Three-Letter Acronym] 1. Self-describing abbreviation for a
+species with which computing terminology is infested. 2. Any confusing
+acronym. Examples include MCA, FTP, SNA, CPU, MMU, SCCS, DMU, FPU, NNTP, TLA.
+People who like this looser usage argue that not all TLAs have three letters,
+just as not all four-letter words have four letters. One also hears of `ETLA'
+(Extended Three-Letter Acronym, pronounced /ee tee el ay/) being used to
+describe four-letter acronyms. The term `SFLA' (Stupid Four-Letter Acronym)
+has also been reported. see also {YABA}. The self-effacing phrase "TDM TLA"
+(Too Damn Many...) is often used to bemoan the plethora of TLAs in use. In
+1989, a random of the journalistic persuasion asked hacker Paul Boutin "What
+do you think will be the biggest problem in computing in the 90s?" Paul's
+straight-faced response: "There are only 17,000 three-letter acronyms." (To
+be exact, there are 26^3 = 17,576.) There is probably some karmic justice in
+the fact that Paul Boutin subsequently became a journalist. :TMRC: /tmerk'/
+n. The Tech Model Railroad Club at MIT, one of the wellsprings of hacker
+culture. The 1959 "Dictionary of the TMRC Language" compiled by Peter Samson
+included several terms that became basics of the hackish vocabulary (see esp.
+{foo}, {mung}, and {frob}). By 1962, TMRC's legendary layout was already a
+marvel of complexity (and has grown in the thirty years since; all the
+features described here are still present). The control system alone featured
+about 1200 relays. There were {scram switch}es located at numerous places
+around the room that could be thwacked if something undesirable was about to
+occur, such as a train going full-bore at an obstruction. Another feature of
+the system was a digital clock on the dispatch board, which was itself
+something of a wonder in those bygone days before cheap LEDs and
+seven-segment displays. When someone hit a scram switch the clock stopped and
+the display was replaced with the word `FOO'; at TMRC the scram switches are
+therefore called `foo switches'. Steven Levy, in his book "Hackers" (see the
+{Bibliography} in Appendix C), gives a stimulating account of those early
+years. TMRC's Signals and Power Committee included many of the early PDP-1
+hackers and the people who later became the core of the MIT AI Lab staff.
+Thirty years later that connection is still very much alive, and this lexicon
+accordingly includes a number of entries from a recent revision of the TMRC
+dictionary. :TMRCie: /tmerk'ee/, n. [MIT] A denizen of {TMRC}. :TMTOWTDI:
+There's More Than One Way To Do It. This abbreviation of the official motto
+of {Perl} is frequently used on newsgroups and mailing lists related to that
+language. :to a first approximation: adj. 1. [techspeak] When one is doing
+certain numerical computations, an approximate solution may be computed by
+any of several heuristic methods, then refined to a final value. By using the
+starting point of a first approximation of the answer, one can write an
+algorithm that converges more quickly to the correct result. 2. In jargon, a
+preface to any comment that indicates that the comment is only approximately
+true. The remark "To a first approximation, I feel good" might indicate that
+deeper questioning would reveal that not all is perfect (e.g., a nagging
+cough still remains after an illness). :to a zeroth approximation: [from `to
+a first approximation'] A _really_ sloppy approximation; a wild guess.
+Compare {social science number}. :toad: vt. [MUD] 1. Notionally, to change a
+{MUD} player into a toad. 2. To permanently and totally exile a player from
+the MUD. A very serious action, which can only be done by a MUD {wizard};
+often involves a lot of debate among the other characters first. see also
+{frog}, {FOD}. :toast: 1. n. Any completely inoperable system or component,
+esp. one that has just crashed and burned: "Uh, oh ... I think the serial
+board is toast." 2. vt. To cause a system to crash accidentally, especially
+in a manner that requires manual rebooting. "Rick just toasted the {firewall
+machine} again." Compare {fried}. :toaster: n. 1. The archetypal really
+stupid application for an embedded microprocessor controller; often used in
+comments that imply that a scheme is inappropriate technology (but see
+{elevator controller}). "{DWIM} for an assembler? That'd be as silly as
+running Unix on your toaster!" 2. A very, very dumb computer. "You could run
+this program on any dumb toaster." see {bitty box}, {Get a real computer!},
+{toy}, {beige toaster}. 3. A Macintosh, esp. the Classic Mac. Some hold that
+this is implied by sense 2. 4. A peripheral device. "I bought my box without
+toasters, but since then I've added two boards and a second disk drive." 5. A
+specialized computer used as an appliance. see {web toaster}, {video
+toaster}. :toeprint: n. A {footprint} of especially small size. :toggle: vt.
+To change a {bit} from whatever state it is in to the other state; to change
+from 1 to 0 or from 0 to 1. This comes from `toggle switches', such as
+standard light switches, though the word `toggle' actually refers to the
+mechanism that keeps the switch in the position to which it is flipped rather
+than to the fact that the switch has two positions. There are four things you
+can do to a bit: set it (force it to be 1), clear (or zero) it, leave it
+alone, or toggle it. (Mathematically, one would say that there are four
+distinct boolean-valued functions of one boolean argument, but saying that is
+much less fun than talking about toggling bits.) :tool: 1. n. A program used
+primarily to create, manipulate, modify, or analyze other programs, such as a
+compiler or an editor or a cross-referencing program. Oppose {app},
+{operating system}. 2. [Unix] An application program with a simple,
+`transparent' (typically text-stream) interface designed specifically to be
+used in programmed combination with other tools (see {filter}, {plumbing}).
+3. [MIT: general to students there] vi. To work; to study (connotes tedium).
+The TMRC Dictionary defined this as "to set one's brain to the grindstone".
+see {hack}. 4. n. [MIT] A student who studies too much and hacks too little.
+(MIT's student humor magazine rejoices in the name "Tool and Die".)
+:toolsmith: n. The software equivalent of a tool-and-die specialist; one who
+specializes in making the {tool}s with which other programmers create
+applications. Many hackers consider this more fun than applications per se;
+to understand why, see {uninteresting}. Jon Bentley, in the "Bumper-Sticker
+Computer Science" chapter of his book "More Programming Pearls", quotes Dick
+Sites from {DEC} as saying "I'd rather write programs to write programs than
+write programs". :toor: n. The Bourne-Again Super-user. An alternate account
+with UID of 0, created on Unix machines where the root user has an
+inconvenient choice of shell. Compare {avatar}. :topic drift: n. Term used on
+GEnie, Usenet and other electronic fora to describe the tendency of a
+{thread} to drift away from the original subject of discussion (and thus,
+from the Subject header of the originating message), or the results of that
+tendency. Often used in gentle reminders that the discussion has strayed off
+any useful track. "I think we started with a question about Niven's last
+book, but we've ended up discussing the sexual habits of the common marmoset.
+Now _that's_ topic drift!" :topic group: n. Syn. {forum}. :TOPS-10::
+/tops-ten/ n. {DEC}'s proprietary OS for the fabled {PDP-10} machines, long a
+favorite of hackers but now effectively extinct. A fountain of hacker
+folklore; see Appendix A. see also {{ITS}}, {{TOPS-20}}, {{TWENEX}}, {VMS},
+{operating system}. TOPS-10 was sometimes called BOTS-10 (from `bottoms-ten')
+as a comment on the inappropriateness of describing it as the top of
+anything. :TOPS-20:: /tops-twen'tee/ n. see {{TWENEX}}. :tourist: n. 1. [ITS]
+A guest on the system, especially one who generally logs in over a network
+from a remote location for {comm mode}, email, games, and other trivial
+purposes. One step below {luser}. ITS hackers often used to spell this
+{turist}, perhaps by some sort of tenuous analogy with {luser} (this usage
+may also have expressed the ITS culture's penchant for six-letterisms, and-or
+been some sort of tribute to Alan Turing). Compare {twink}, {lurker},
+{read-only user}. 2. [IRC] An {IRC} user who goes from channel to channel
+without saying anything; see {channel hopping}. :tourist information: n.
+Information in an on-line display that is not immediately useful, but
+contributes to a viewer's gestalt of what's going on with the software or
+hardware behind it. Whether a given piece of info falls in this category
+depends partly on what the user is looking for at any given time. The `bytes
+free' information at the bottom of an MS-DOS `dir' display is tourist
+information; so (most of the time) is the TIME information in a Unix `ps(1)'
+display. :touristic: adj. Having the quality of a {tourist}. Often used as a
+pejorative, as in `losing touristic scum'. Often spelled `turistic' or
+`turistik', so that phrase might be more properly rendered `lusing turistic
+scum'. :toy: n. A computer system; always used with qualifiers. 1. `nice
+toy': One that supports the speaker's hacking style adequately. 2. `just a
+toy': A machine that yields insufficient {computron}s for the speaker's
+preferred uses. This is not condemnatory, as is {bitty box}; toys can at
+least be fun. It is also strongly conditioned by one's expectations; Cray XMP
+users sometimes consider the Cray-1 a `toy', and certainly all RISC boxes and
+mainframes are toys by their standards. see also {Get a real computer!}. :toy
+language: n. A language useful for instructional purposes or as a
+proof-of-concept for some aspect of computer-science theory, but inadequate
+for general-purpose programming. {Bad Thing}s can result when a toy language
+is promoted as a general purpose solution for programming (see
+{bondage-and-discipline language}); the classic example is {{Pascal}}.
+Several moderately well-known formalisms for conceptual tasks such as
+programming Turing machines also qualify as toy languages in a less negative
+sense. see also {MFTL}. :toy problem: n. [AI] A deliberately oversimplified
+case of a challenging problem used to investigate, prototype, or test
+algorithms for a real problem. Sometimes used pejoratively. see also
+{gedanken}, {toy program}. :toy program: n. 1. One that can be readily
+comprehended; hence, a trivial program (compare {noddy}). 2. One for which
+the effort of initial coding dominates the costs through its life cycle. see
+also {noddy}. :trampoline: n. An incredibly {hairy} technique, found in some
+{HLL} and program-overlay implementations (e.g., on the Macintosh), that
+involves on-the-fly generation of small executable (and, likely as not,
+self-modifying) code objects to do indirection between code sections. These
+pieces of {live data} are called `trampolines'. Trampolines are notoriously
+difficult to understand in action; in fact, it is said by those who use this
+term that the trampoline that doesn't bend your brain is not the true
+trampoline. see also {snap}. :trap: 1. n. A program interrupt, usually an
+interrupt caused by some exceptional situation in the user program. In most
+cases, the

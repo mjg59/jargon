@@ -1,10 +1,44 @@
- :tty: /T-T-Y/, /tit'ee/ /n./ The latter pronunciation was primarily ITS, but
-some Unix people say it this way as well; this pronunciation is *not*
-considered to have sexual undertones. 1. A terminal of the teletype variety,
-characterized by a noisy mechanical printer, a very limited character set,
-and poor print quality. Usage: antiquated (like the TTYs themselves). see
-also {bit-paired keyboard}. 2. [especially Unix] Any terminal at all;
-sometimes used to refer to the particular terminal controlling a given job.
-3. [Unix] Any serial port, whether or not the device connected to it is a
-terminal; so called because under Unix such devices have names of the form
-tty*. Ambiguity between senses 2 and 3 is common but seldom bothersome.
+ 6.866 final project"). :webmaster: n. [WWW: from {postmaster}] The person at
+a site providing World Wide Web information who is responsible for
+maintaining the public pages and keeping the Web server running and properly
+configured. :wedged: adj. 1. To be stuck, incapable of proceeding without
+help. This is different from having crashed. If the system has crashed, it
+has become totally non-functioning. If the system is wedged, it is trying to
+do something but cannot make progress; it may be capable of doing a few
+things, but not be fully operational. For example, a process may become
+wedged if it {deadlock}s with another (but not all instances of wedging are
+deadlocks). see also {gronk}, {locked up}, {hosed}, {hung} (wedged is more
+severe than {hung}). 2. Often refers to humans suffering misconceptions.
+"He's totally wedged -- he's convinced that he can levitate through
+meditation." 3. [Unix] Specifically used to describe the state of a TTY left
+in a losing state by abort of a screen-oriented program or one that has
+messed with the line discipline in some obscure way. There is some dispute
+over the origin of this term. It is usually thought to derive from a common
+description of recto-cranial inversion; however, it may actually have
+originated with older `hot-press' printing technology in which physical type
+elements were locked into type frames with wedges driven in by mallets. Once
+this had been done, no changes in the typesetting for that page could be
+made. :wedgie: n. [Fairchild] A bug. Prob. related to {wedged}. :wedgitude:
+/wedj'i-t[y]ood/ n. The quality or state of being {wedged}. :weeble: /weeb'l/
+interj. [Cambridge] Used to denote frustration, usually at amazing stupidity.
+"I stuck the disk in upside down." "Weeble...." Compare {gurfle}. :weeds: n.
+1. Refers to development projects or algorithms that have no possible
+relevance or practical application. Comes from `off in the weeds'. Used in
+phrases like "lexical analysis for microcode is serious weeds...." 2. At
+CDC/ETA before its demise, the phrase `go off in the weeds' was equivalent to
+IBM's {branch to Fishkill} and mainstream hackerdom's {jump off into
+never-never land}. :weenie: n. 1. [on BBSes] Any of a species of luser
+resembling a less amusing version of {B1FF} that infests many {BBS} systems.
+The typical weenie is a teenage boy with poor social skills travelling under
+a grandiose {handle} derived from fantasy or heavy-metal rock lyrics. Among
+sysops, `the weenie problem' refers to the marginally literate and
+profanity-laden {flamage} weenies tend to spew all over a newly-discovered
+BBS. Compare {spod}, {computer geek}, {terminal junkie}, {warez d00dz}. 2.
+[Among hackers] When used with a qualifier (for example, as in {Unix weenie},
+VMS weenie, IBM weenie) this can be either an insult or a term of praise,
+depending on context, tone of voice, and whether or not it is applied by a
+person who considers him or herself to be the same sort of weenie. Implies
+that the weenie has put a major investment of time, effort, and concentration
+into the area indicated; whether this is good or bad depends on the hearer's
+judgment of how the speaker feels about that area. see also {bigot}. 3. The
+semicolon character, `;' (ASCII

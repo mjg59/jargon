@@ -1,206 +1,138 @@
- JEDGAR (a six-letterism pronounced as two syllables: /jed'gr/), in honor of
-the former head of the FBI. But there's more. JEDGAR would ask the user for
-`license to kill'. If the user said yes, then JEDGAR would actually {gun} the
-job of the {luser} who was spying. Unfortunately, people found that this made
-life too violent, especially when tourists learned about it. One of the
-systems hackers solved the problem by replacing JEDGAR with another program
-that only pretended to do its job. It took a long time to do this, because
-every copy of JEDGAR had to be patched. To this day no one knows how many
-people never figured out that JEDGAR had been defanged. Interestingly, there
-is still a security module named JEDGAR alive as of late 1994 -- in the
-Unisys MCP for large systems. It is unknown to us whether the name is tribute
-or independent invention. :The Story of Mel, a Real Programmer:
-===================================== This was posted to Usenet by its
-author, Ed Nather (utastro!nather), on May 21, 1983. A recent article devoted
-to the *macho* side of programming made the bald and unvarnished statement:
-Real Programmers write in FORTRAN. Maybe they do now, in this decadent era of
-Lite beer, hand calculators, and "user-friendly" software but back in the
-Good Old Days, when the term "software" sounded funny and Real Computers were
-made out of drums and vacuum tubes, Real Programmers wrote in machine code.
-Not FORTRAN. Not RATFOR. Not, even, assembly language. Machine Code. Raw,
-unadorned, inscrutable hexadecimal numbers. Directly. Lest a whole new
-generation of programmers grow up in ignorance of this glorious past, I feel
-duty-bound to describe, as best I can through the generation gap, how a Real
-Programmer wrote code. I'll call him Mel, because that was his name. I first
-met Mel when I went to work for Royal McBee Computer Corp., a now-defunct
-subsidiary of the typewriter company. The firm manufactured the LGP-30, a
-small, cheap (by the standards of the day) drum-memory computer, and had just
-started to manufacture the RPC-4000, a much-improved, bigger, better, faster
--- drum-memory computer. Cores cost too much, and weren't here to stay,
-anyway. (That's why you haven't heard of the company, or the computer.) I had
-been hired to write a FORTRAN compiler for this new marvel and Mel was my
-guide to its wonders. Mel didn't approve of compilers. "If a program can't
-rewrite its own code", he asked, "what good is it?" Mel had written, in
-hexadecimal, the most popular computer program the company owned. It ran on
-the LGP-30 and played blackjack with potential customers at computer shows.
-Its effect was always dramatic. The LGP-30 booth was packed at every show,
-and the IBM salesmen stood around talking to each other. Whether or not this
-actually sold computers was a question we never discussed. Mel's job was to
-re-write the blackjack program for the RPC-4000. (Port? What does that mean?)
-The new computer had a one-plus-one addressing scheme, in which each machine
-instruction, in addition to the operation code and the address of the needed
-operand, had a second address that indicated where, on the revolving drum,
-the next instruction was located. In modern parlance, every single
-instruction was followed by a GO TO! Put *that* in Pascal's pipe and smoke
-it. Mel loved the RPC-4000 because he could optimize his code: that is,
-locate instructions on the drum so that just as one finished its job, the
-next would be just arriving at the "read head" and available for immediate
-execution. There was a program to do that job, an "optimizing assembler", but
-Mel refused to use it. "You never know where it's going to put things", he
-explained, "so you'd have to use separate constants". It was a long time
-before I understood that remark. Since Mel knew the numerical value of every
-operation code, and assigned his own drum addresses, every instruction he
-wrote could also be considered a numerical constant. He could pick up an
-earlier "add" instruction, say, and multiply by it, if it had the right
-numeric value. His code was not easy for someone else to modify. I compared
-Mel's hand-optimized programs with the same code massaged by the optimizing
-assembler program, and Mel's always ran faster. That was because the
-"top-down" method of program design hadn't been invented yet, and Mel
-wouldn't have used it anyway. He wrote the innermost parts of his program
-loops first, so they would get first choice of the optimum address locations
-on the drum. The optimizing assembler wasn't smart enough to do it that way.
-Mel never wrote time-delay loops, either, even when the balky Flexowriter
-required a delay between output characters to work right. He just located
-instructions on the drum so each successive one was just *past* the read head
-when it was needed; the drum had to execute another complete revolution to
-find the next instruction. He coined an unforgettable term for this
-procedure. Although "optimum" is an absolute term, like "unique", it became
-common verbal practice to make it relative: "not quite optimum" or "less
-optimum" or "not very optimum". Mel called the maximum time-delay locations
-the "most pessimum". After he finished the blackjack program and got it to
-run ("Even the initializer is optimized", he said proudly), he got a Change
-Request from the sales department. The program used an elegant (optimized)
-random number generator to shuffle the "cards" and deal from the "deck", and
-some of the salesmen felt it was too fair, since sometimes the customers
-lost. They wanted Mel to modify the program so, at the setting of a sense
-switch on the console, they could change the odds and let the customer win.
-Mel balked. He felt this was patently dishonest, which it was, and that it
-impinged on his personal integrity as a programmer, which it did, so he
-refused to do it. The Head Salesman talked to Mel, as did the Big Boss and,
-at the boss's urging, a few Fellow Programmers. Mel finally gave in and wrote
-the code, but he got the test backwards, and, when the sense switch was
-turned on, the program would cheat, winning every time. Mel was delighted
-with this, claiming his subconscious was uncontrollably ethical, and
-adamantly refused to fix it. After Mel had left the company for greener
-pa$ture$, the Big Boss asked me to look at the code and see if I could find
-the test and reverse it. Somewhat reluctantly, I agreed to look. Tracking
-Mel's code was a real adventure. I have often felt that programming is an art
-form, whose real value can only be appreciated by another versed in the same
-arcane art; there are lovely gems and brilliant coups hidden from human view
-and admiration, sometimes forever, by the very nature of the process. You can
-learn a lot about an individual just by reading through his code, even in
-hexadecimal. Mel was, I think, an unsung genius. Perhaps my greatest shock
-came when I found an innocent loop that had no test in it. No test. *None*.
-Common sense said it had to be a closed loop, where the program would circle,
-forever, endlessly. Program control passed right through it, however, and
-safely out the other side. It took me two weeks to figure it out. The
-RPC-4000 computer had a really modern facility called an index register. It
-allowed the programmer to write a program loop that used an indexed
-instruction inside; each time through, the number in the index register was
-added to the address of that instruction, so it would refer to the next datum
-in a series. He had only to increment the index register each time through.
-Mel never used it. Instead, he would pull the instruction into a machine
-register, add one to its address, and store it back. He would then execute
-the modified instruction right from the register. The loop was written so
-this additional execution time was taken into account --- just as this
-instruction finished, the next one was right under the drum's read head,
-ready to go. But the loop had no test in it. The vital clue came when I
-noticed the index register bit, the bit that lay between the address and the
-operation code in the instruction word, was turned on --- yet Mel never used
-the index register, leaving it zero all the time. When the light went on it
-nearly blinded me. He had located the data he was working on near the top of
-memory --- the largest locations the instructions could address --- so, after
-the last datum was handled, incrementing the instruction address would make
-it overflow. The carry would add one to the operation code, changing it to
-the next one in the instruction set: a jump instruction. Sure enough, the
-next program instruction was in address location zero, and the program went
-happily on its way. I haven't kept in touch with Mel, so I don't know if he
-ever gave in to the flood of change that has washed over programming
-techniques since those long-gone days. I like to think he didn't. In any
-event, I was impressed enough that I quit looking for the offending test,
-telling the Big Boss I couldn't find it. He didn't seem surprised. When I
-left the company, the blackjack program would still cheat if you turned on
-the right sense switch, and I think that's how it should be. I didn't feel
-comfortable hacking up the code of a Real Programmer. This is one of
-hackerdom's great heroic epics, free verse or no. In a few spare images it
-captures more about the esthetics and psychology of hacking than all the
-scholarly volumes on the subject put together. For an opposing point of view,
-see the entry for {Real Programmer}. [1992 postscript -- the author writes:
-"The original submission to the net was not in free verse, nor any
-approximation to it -- it was straight prose style, in non-justified
-paragraphs. In bouncing around the net it apparently got modified into the
-`free verse' form now popular. In other words, it got hacked on the net. That
-seems appropriate, somehow." The author adds that he likes the `free-verse'
-version better...] :A Portrait of J. Random Hacker:
-******************************** This profile reflects detailed comments on
-an earlier `trial balloon' version from about a hundred Usenet respondents.
-Where comparatives are used, the implicit `other' is a randomly selected
-segment of the non-hacker population of the same size as hackerdom. An
-important point: Except in some relatively minor respects such as slang
-vocabulary, hackers don't get to be the way they are by imitating each other.
-Rather, it seems to be the case that the combination of personality traits
-that makes a hacker so conditions one's outlook on life that one tends to end
-up being like other hackers whether one wants to or not (much as bizarrely
-detailed similarities in behavior and preferences are found in genetic twins
-raised separately). :General Appearance: ==================== Intelligent.
-Scruffy. Intense. Abstracted. Surprisingly for a sedentary profession, more
-hackers run to skinny than fat; both extremes are more common than elsewhere.
-Tans are rare. :Dress: ======= Casual, vaguely post-hippie; T-shirts, jeans,
-running shoes, Birkenstocks (or bare feet). Long hair, beards, and moustaches
-are common. High incidence of tie-dye and intellectual or humorous `slogan'
-T-shirts (only rarely computer related; that would be too obvious). A
-substantial minority prefers `outdoorsy' clothing -- hiking boots ("in case a
-mountain should suddenly spring up in the machine room", as one famous parody
-put it), khakis, lumberjack or chamois shirts, and the like. Very few
-actually fit the "National Lampoon" Nerd stereotype, though it lingers on at
-MIT and may have been more common before 1975. At least since the late
-Seventies backpacks have been more common than briefcases, and the hacker
-`look' has been more whole-earth than whole-polyester. Hackers dress for
-comfort, function, and minimal maintenance hassles rather than for appearance
-(some, perhaps unfortunately, take this to extremes and neglect personal
-hygiene). They have a very low tolerance of suits and other `business'
-attire; in fact, it is not uncommon for hackers to quit a job rather than
-conform to a dress code. Female hackers almost never wear visible makeup, and
-many use none at all. :Reading Habits: ================ Omnivorous, but
-usually includes lots of science and science fiction. The typical hacker
-household might subscribe to "Analog", "Scientific American", "Whole-Earth
-Review", and "Smithsonian" (most hackers ignore "Wired" and other
-self-consciously `cyberpunk' magazines, considering them {wannabee} fodder).
-Hackers often have a reading range that astonishes liberal arts people but
-tend not to talk about it as much. Many hackers spend as much of their spare
-time reading as the average American burns up watching TV, and often keep
-shelves and shelves of well-thumbed books in their homes. :Other Interests:
-================= Some hobbies are widely shared and recognized as going with
-the culture: science fiction, music, medievalism (in the active form
-practiced by the Society for Creative Anachronism and similar organizations),
-chess, go, backgammon, wargames, and intellectual games of all kinds.
-(Role-playing games such as Dungeons and Dragons used to be extremely popular
-among hackers but they lost a bit of their luster as they moved into the
-mainstream and became heavily commercialized. More recently, "Magic: The
-Gathering" has been widely popular among hackers.) Logic puzzles. Ham radio.
-Other interests that seem to correlate less strongly but positively with
-hackerdom include linguistics and theater teching. :Physical Activity and
-Sports: ============================== Many (perhaps even most) hackers don't
-follow or do sports at all and are determinedly anti-physical. Among those
-who do, interest in spectator sports is low to non-existent; sports are
-something one *does*, not something one watches on TV. Further, hackers avoid
-most team sports like the plague. Volleyball was long a notable exception,
-perhaps because it's non-contact and relatively friendly; Ultimate Frisbee
-has become quite popular for similar reasons. Hacker sports are almost always
-primarily self-competitive ones involving concentration, stamina, and
-micromotor skills: martial arts, bicycling, auto racing, kite flying, hiking,
-rock climbing, aviation, target-shooting, sailing, caving, juggling, skiing,
-skating (ice and roller). Hackers' delight in techno-toys also tends to draw
-them towards hobbies with nifty complicated equipment that they can tinker
-with. :Education: =========== Nearly all hackers past their teens are either
-college-degreed or self-educated to an equivalent level. The self-taught
-hacker is often considered (at least by other hackers) to be
-better-motivated, and may be more respected, than his school-shaped
-counterpart. Academic areas from which people often gravitate into hackerdom
-include (besides the obvious computer science and electrical engineering)
-physics, mathematics, linguistics, and philosophy. :Things Hackers Detest and
-Avoid: ================================= IBM mainframes. Smurfs, Ewoks, and
-other forms of offensive cuteness. Bureaucracies. Stupid people. Easy
-listening music. Television (except for cartoons, movies, and "Star Trek"
-classic). Business suits. Dishonesty. Incompetence. Boredom. COBOL. BASIC.
-Character-based menu interfaces.
+ 3.[techspeak] A subset of a standard used for a particular purpose. This
+sense confuses hackers who wander into the weird world of ISO standards no
+end! :progasm: /proh'gaz-m/ n. [University of Wisconsin] The euphoria
+experienced upon the completion of a program or other computer-related
+project. :proglet: /prog'let/ n. [UK] A short extempore program written to
+meet an immediate, transient need. Often written in BASIC, rarely more than a
+dozen lines long, and containing no subroutines. The largest amount of code
+that can be written off the top of one's head, that does not need any
+editing, and that runs correctly the first time (this amount varies
+significantly according to one's skill and the language one is using).
+Compare {toy program}, {noddy}, {one-liner wars}. :program: n. 1. A magic
+spell cast over a computer allowing it to turn one's input into error
+messages. 2. An exercise in experimental epistemology. 3. A form of art,
+ostensibly intended for the instruction of computers, which is nevertheless
+almost inevitably a failure if other programmers can't understand it.
+:Programmer's Cheer: "Shift to the left! Shift to the right! Pop up, push
+down! Byte! Byte! Byte!" A joke so old it has hair on it. :programming: n. 1.
+The art of debugging a blank sheet of paper (or, in these days of on-line
+editing, the art of debugging an empty file). "Bloody instructions which,
+being taught, return to plague their inventor" ("Macbeth", Act 1, Scene 7) 2.
+A pastime similar to banging one's head against a wall, but with fewer
+opportunities for reward. 3. The most fun you can have with your clothes on
+(although clothes are not mandatory). :programming fluid: n. 1. Coffee. 2.
+Cola. 3. Any caffeinacious stimulant. Many hackers consider these essential
+for those all-night hacking runs. see {wirewater}. :propeller head: n. Used
+by hackers, this is syn. with {computer geek}. Non-hackers sometimes use it
+to describe all techies. Prob. derives from SF fandom's tradition (originally
+invented by old-time fan Ray Faraday Nelson) of propeller beanies as fannish
+insignia (though nobody actually wears them except as a joke). :propeller
+key: n. [Mac users] see {feature key}. :proprietary: adj. 1. In
+{marketroid}-speak, superior; implies a product imbued with exclusive magic
+by the unmatched brilliance of the company's own hardware or software
+designers. 2. In the language of hackers and users, inferior; implies a
+product not conforming to open-systems standards, and thus one that puts the
+customer at the mercy of a vendor able to gouge freely on service and upgrade
+charges after the initial sale has locked the customer in. :protocol: n. As
+used by hackers, this never refers to niceties about the proper form for
+addressing letters to the Papal Nuncio or the order in which one should use
+the forks in a Russian-style place setting; hackers don't care about such
+things. It is used instead to describe any set of rules that allow different
+machines or pieces of software to coordinate with each other without
+ambiguity. So, for example, it does include niceties about the proper form
+for addressing packets on a network or the order in which one should use the
+forks in the Dining Philosophers Problem. It implies that there is some
+common message format and an accepted set of primitives or commands that all
+parties involved understand, and that transactions among them follow
+predictable logical sequences. see also {handshaking}, {do protocol}.
+:provocative maintenance: n. [common ironic mutation of `preventive
+maintenance'] Actions performed upon a machine at regularly scheduled
+intervals to ensure that the system remains in a usable state. So called
+because it is all too often performed by a {field servoid} who doesn't know
+what he is doing; such `maintenance' often _induces_ problems, or otherwise
+results in the machine's remaining in an _un_usable state for an
+indeterminate amount of time. see also {scratch monkey}. :prowler: n. [Unix]
+A {daemon} that is run periodically (typically once a week) to seek out and
+erase {core} files, truncate administrative logfiles, nuke `lost+found'
+directories, and otherwise clean up the {cruft} that tends to pile up in the
+corners of a file system. see also {GFR}, {reaper}, {skulker}. :pseudo:
+/soo'doh/ n. [Usenet: truncation of `pseudonym'] 1. An electronic-mail or
+{Usenet} persona adopted by a human for amusement value or as a means of
+avoiding negative repercussions of one's net.behavior; a `nom de Usenet',
+often associated with forged postings designed to conceal message origins.
+Perhaps the best-known and funniest hoax of this type is {B1FF}. see also
+{tentacle}. 2. Notionally, a {flamage}-generating AI program simulating a
+Usenet user. Many flamers have been accused of actually being such entities,
+despite the fact that no AI program of the required sophistication yet
+exists. However, in 1989 there was a famous series of forged postings that
+used a phrase-frequency-based travesty generator to simulate the styles of
+several well-known flamers; it was based on large samples of their back
+postings (compare {Dissociated Press}). A significant number of people were
+fooled by the forgeries, and the debate over their authenticity was settled
+only when the perpetrator came forward to publicly admit the hoax.
+:pseudoprime: n. A backgammon prime (six consecutive occupied points) with
+one point missing. This term is an esoteric pun derived from number theory: a
+number that passes a certain kind of "primality test" may be called a
+`pseudoprime' (all primes pass any such test, but so do some composite
+numbers), and any number that passes several is, in some sense, almost
+certainly prime. The hacker backgammon usage stems from the idea that a
+pseudoprime is almost as good as a prime: it will do the same job unless you
+are unlucky. :pseudosuit: /soo'doh-s[y]oot`/ n. A {suit} wannabee; a hacker
+who has decided that he wants to be in management or administration and
+begins wearing ties, sport coats, and (shudder!) suits voluntarily. It's his
+funeral. see also {lobotomy}. :psychedelicware: /si:`k*-del'-ik-weir/ n. [UK]
+Syn. {display hack}. see also {smoking clover}. :psyton: /si:'ton/ n. [TMRC]
+The elementary particle carrying the sinister force. The probability of a
+process losing is proportional to the number of psytons falling on it.
+Psytons are generated by observers, which is why demos are more likely to
+fail when lots of people are watching. [This term appears to have been
+largely superseded by {bogon}; see also {quantum bogodynamics}. --ESR] :pubic
+directory: /pyoob'ik d*-rek't*-ree/) n. [NYU] (also `pube directory' /pyoob'
+d*-rek't*-ree/) The `pub' (public) directory on a machine that allows {FTP}
+access. So called because it is the default location for {SEX} (sense 1).
+"I'll have the source in the pube directory by Friday." :puff: vt. To
+decompress data that has been crunched by Huffman coding. At least one widely
+distributed Huffman decoder program was actually _named_ `PUFF', but these
+days it is usually packaged with the encoder. Oppose {huff}, see {inflate}.
+:pumpkin holder: n. see {patch pumpkin}. :pumpking: n. Syn. for {pumpkin
+holder}; see {patch pumpkin}. :punched card:: n.obs. [techspeak] (alt. `punch
+card') The signature medium of computing's {Stone Age}, now obsolescent
+outside of some IBM shops. The punched card actually predated computers
+considerably, originating in 1801 as a control device for mechanical looms.
+The version patented by Hollerith and used with mechanical tabulating
+machines in the 1890 U.S. Census was a piece of cardboard about 90 mm by 215
+mm. There is a widespread myth that it was designed to fit in the currency
+trays used for that era's larger dollar bills, but recent investigations have
+falsified this. IBM (which originated as a tabulating-machine manufacturer)
+married the punched card to computers, encoding binary information as
+patterns of small rectangular holes; one character per column, 80 columns per
+card. Other coding schemes, sizes of card, and hole shapes were tried at
+various times. The 80-column width of most character terminals is a legacy of
+the IBM punched card; so is the size of the quick-reference cards distributed
+with many varieties of computers even today. see {chad}, {chad box},
+{eighty-column mind}, {green card}, {dusty deck}, {lace card}, {card
+walloper}. :punt: v. [from the punch line of an old joke referring to
+American football: "Drop back 15 yards and punt!"] 1. To give up, typically
+without any intention of retrying. "Let's punt the movie tonight." "I was
+going to hack all night to get this feature in, but I decided to punt" may
+mean that you've decided not to stay up all night, and may also mean you're
+not ever even going to put in the feature. 2. More specifically, to give up
+on figuring out what the {Right Thing} is and resort to an inefficient hack.
+3. A design decision to defer solving a problem, typically because one cannot
+define what is desirable sufficiently well to frame an algorithmic solution.
+"No way to know what the right form to dump the graph in is -- we'll punt
+that for now." 4. To hand a tricky implementation problem off to some other
+section of the design. "It's too hard to get the compiler to do that; let's
+punt to the runtime system." 5. To knock someone off an Internet or chat
+connection; a `punter' thus, is a person or program that does this. :Purple
+Book: n. 1. The "System V Interface Definition". The covers of the first
+editions were an amazingly nauseating shade of off-lavender. 2. Syn. {Wizard
+Book}. Donald Lewine's "POSIX Programmer's Guide" (O'Reilly, 1991, ISBN
+0-937175-73-0). see also {{book titles}}. :purple wire: n. [IBM] Wire
+installed by Field Engineers to work around problems discovered during
+testing or debugging. These are called `purple wires' even when (as is
+frequently the case) their actual physical color is yellow.... Compare {blue
+wire}, {yellow wire}, and {red wire}. :push: [from the operation that puts
+the current information on a stack, and the fact that procedure return
+addresses are saved on a stack] (Also PUSH /push/ or PUSHJ /push'J/, the
+latter based on the

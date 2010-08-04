@@ -1,9 +1,5 @@
- :SAIL:: /sayl/, not /S-A-I-L/ /n./ 1. The Stanford Artificial Intelligence
-Lab. An important site in the early development of LISP; with the MIT AI Lab,
-BBN, CMU, XEROX PARC, and the Unix community, one of the major wellsprings of
-technical innovation and hacker-culture traditions (see the {{WAITS}} entry
-for details). The SAIL machines were shut down in late May 1990, scant weeks
-after the MIT AI Lab's ITS cluster was officially decommissioned. 2. The
-Stanford Artificial Intelligence Language used at SAIL (sense 1). It was an
-Algol-60 derivative with a coroutining facility and some new data types
-intended for building search trees and association lists.
+ MIT Massachusetts Institute of Technology; esp. the legendary MIT AI Lab
+culture of roughly 1971 to 1983 and its feeder groups, including the Tech
+Model Railroad Club NRL Naval Research Laboratories NYU New York University
+OED The Oxford English Dictionary Purdue Purdue University SAIL Stanford
+Artificial Intelligence Laboratory (at Stanford University)

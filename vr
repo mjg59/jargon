@@ -1,1 +1,254 @@
- :VR: // [MUD] /n./ On-line abbrev for {virtual reality}, as opposed to {RL}.
+ PDP-11 operating systems, however, and ports of the more advanced MIT
+versions remain the focus of some antiquarian interest. see also
+{retrocomputing}, {write-only language}. :tee: n.,vt. [Purdue] A carbon copy
+of an electronic transmission. "Oh, you're sending him the {bits} to that?
+Slap on a tee for me." From the Unix command `tee(1)', itself named after a
+pipe fitting (see {plumbing}). Can also mean `save one for me', as in "Tee a
+slice for me!" Also spelled `T'. :teergrube: /teer'groob/ n. [German for `tar
+pit'] A trap set to punish spammers who use an {address harvester}; a mail
+server deliberately set up to be really, really slow. To activate it, scatter
+addresses that look like users on the teergrube's host in places where the
+address harvester will be trolling (one popular way is to embed the fake
+address in a USENET sig block next to a human-readable warning not to send
+mail to it). The address harvester will dutifully collect the address. When
+the spammer tries to mailbomb it, his mailer will get stuck. :teledildonics:
+/tel`*-dil-do'-niks/ n. Sex in a computer simulated virtual reality, esp.
+computer-mediated sexual interaction between the {VR} presences of two
+humans. This practice is not yet possible except in the rather limited form
+of erotic conversation on {MUD}s and the like. The term, however, is widely
+recognized in the VR community as a {ha ha only serious} projection of things
+to come. "When we can sustain a multi-sensory surround good enough for
+teledildonics, _then_ we'll know we're getting somewhere." see also {hot
+chat}. :Telerat: /tel'*-rat/ n. obs. Unflattering hackerism for `Teleray', a
+now-extinct line of extremely losing terminals. Compare {AIDX}, {Macintrash}
+{Nominal Semidestructor}, {ScumOS}, {sun-stools}, {HP-SUX}, {Slowlaris}.
+:TELNET: /tel'net/ vt. (also commonly lowercased as `telnet') To communicate
+with another Internet host using the TELNET ({RFC} 854) protocol (usually
+using a program of the same name). TOPS-10 people used the word IMPCOM, since
+that was the program name for them. Sometimes abbreviated to TN /T-N/. "I
+usually TN over to SAIL just to read the AP News." :ten-finger interface: n.
+The interface between two networks that cannot be directly connected for
+security reasons; refers to the practice of placing two terminals side by
+side and having an operator read from one and type into the other. :tense:
+adj. Of programs, very clever and efficient. A tense piece of code often got
+that way because it was highly {bum}med, but sometimes it was just based on a
+great idea. A comment in a clever routine by Mike Kazar, once a grad-student
+hacker at CMU: "This routine is so tense it will bring tears to your eyes." A
+tense programmer is one who produces tense code. :tentacle: n. A covert
+{pseudo}, sense 1. An artificial identity created in cyberspace for nefarious
+and deceptive purposes. The implication is that a single person may have
+multiple tentacles. This term was originally floated in some paranoid ravings
+on the cypherpunks list (see {cypherpunk}), and adopted in a spirit of irony
+by other, saner members. It has since shown up, used seriously, in the
+documentation for some remailer software, and is now (1994) widely recognized
+on the net. :tenured graduate student: n. One who has been in graduate school
+for 10 years (the usual maximum is 5 or 6): a `ten-yeared' student (get it?).
+Actually, this term may be used of any grad student beginning in his seventh
+year. Students don't really get tenure, of course, the way professors do, but
+a tenth-year graduate student has probably been around the university longer
+than any untenured professor. :tera-: /te'r*/ pref. [SI] see {{quantifiers}}.
+:teraflop club: /te'r*-flop kluhb/ n. [FLOP = Floating Point Operation] A
+mythical association of people who consume outrageous amounts of computer
+time in order to produce a few simple pictures of glass balls with intricate
+ray-tracing techniques. Caltech professor James Kajiya is said to have been
+the founder. Compare {Knights of the Lambda Calculus}. :terminak:
+/ter'mi-nak`/ n. [Caltech, ca. 1979] Any malfunctioning computer terminal. A
+common failure mode of Lear-Siegler ADM 3a terminals caused the `L' key to
+produce the `K' code instead; complaints about this tended to look like
+"Terminak #3 has a bad keyboard. Pkease fix." Compare {dread high-bit
+disease}, {frogging}; see also {AIDX}, {Nominal Semidestructor}, {ScumOS},
+{sun-stools}, {Telerat}, {HP-SUX}, {Slowlaris}. :terminal brain death: n. The
+extreme form of {terminal illness} (sense 1). What someone who has obviously
+been hacking continuously for far too long is said to be suffering from.
+:terminal illness: n. 1. Syn. {raster burn}. 2. The `burn-in' condition your
+CRT tends to get if you don't have a screen saver. :terminal junkie: n. [UK]
+A {wannabee} or early {larval stage} hacker who spends most of his or her
+time wandering the directory tree and writing {noddy} programs just to get a
+fix of computer time. Variants include `terminal jockey', `console junkie',
+and {console jockey}. The term `console jockey' seems to imply more expertise
+than the other three (possibly because of the exalted status of the
+{{console}} relative to an ordinary terminal). see also {twink}, {read-only
+user}. Appropriately, this term was used in the works of William S. Burroughs
+to describe a heroin addict with an unlimited supply. :terpri: /ter'pree/ vi.
+[from LISP 1.5 (and later, MacLISP)] To output a {newline}. Now rare as
+jargon, though still used as techspeak in Common LISP. It is a contraction of
+`TERminate PRInt line', named for the fact that, on some early OSes and
+hardware, no characters would be printed until a complete line was formed, so
+this operation terminated the line and emitted the output. :test: n. 1. Real
+users bashing on a prototype long enough to get thoroughly acquainted with
+it, with careful monitoring and followup of the results. 2. Some bored random
+user trying a couple of the simpler features with a developer looking over
+his or her shoulder, ready to pounce on mistakes. Judging by the quality of
+most software, the second definition is far more prevalent. see also {demo}.
+:TeX:: /tekh/ n. An extremely powerful {macro}-based text formatter written
+by Donald E. {Knuth}, very popular in the computer-science community (it is
+good enough to have displaced Unix {{troff}}, the other favored formatter,
+even at many Unix installations). TeX fans insist on the correct (guttural)
+pronunciation, and the correct spelling (all caps, squished together, with
+the E depressed below the baseline; the mixed-case `TeX' is considered an
+acceptable kluge on ASCII-only devices). Fans like to proliferate names from
+the word `TeX' -- such as TeXnician (TeX user), TeXhacker (TeX programmer),
+TeXmaster (competent TeX programmer), TeXhax, and TeXnique. see also
+{CrApTeX}. Knuth began TeX because he had become annoyed at the declining
+quality of the typesetting in volumes I-III of his monumental "Art of
+Computer Programming" (see {Knuth}, also {bible}). In a manifestation of the
+typical hackish urge to solve the problem at hand once and for all, he began
+to design his own typesetting language. He thought he would finish it on his
+sabbatical in 1978; he was wrong by only about 8 years. The language was
+finally frozen around 1985, but volume IV of "The Art of Computer
+Programming" is not expected to appear until 2002. The impact and influence
+of TeX's design has been such that nobody minds this very much. Many grand
+hackish projects have started as a bit of {toolsmith}ing on the way to
+something else; Knuth's diversion was simply on a grander scale than most.
+TeX has also been a noteworthy example of free, shared, but high-quality
+software. Knuth offers a monetary awards to anyone who found and reported
+bugs dating from before the 1989 code freeze; as the years wore on and the
+few remaining bugs were fixed (and new ones even harder to find), the bribe
+went up. Though well-written, TeX is so large (and so full of cutting edge
+technique) that it is said to have unearthed at least one bug in every Pascal
+system it has been compiled with. :text: n. 1. [techspeak] Executable code,
+esp. a `pure code' portion shared between multiple instances of a program
+running in a multitasking OS. Compare {English}. 2. Textual material in the
+mainstream sense; data in ordinary {{ASCII}} or {{EBCDIC}} representation
+(see {flat-ASCII}). "Those are text files; you can review them using the
+editor." These two contradictory senses confuse hackers, too. :thanks in
+advance: [Usenet] Conventional net.politeness ending a posted request for
+information or assistance. Sometimes written `advTHANKSance' or
+`aTdHvAaNnKcSe' or abbreviated `TIA'. see {net.-}, {netiquette}. :That's not
+a bug, that's a feature!: The {canonical} first parry in a debate about a
+purported bug. The complainant, if unconvinced, is likely to retort that the
+bug is then at best a {misfeature}. see also {feature}. :the literature: n.
+Computer-science journals and other publications, vaguely gestured at to
+answer a question that the speaker believes is {trivial}. Thus, one might
+answer an annoying question by saying "It's in the literature." Oppose
+{Knuth}, which has no connotation of triviality. :the network: n. 1. The
+union of all the major noncommercial, academic, and hacker-oriented networks,
+such as Internet, the pre-1990 ARPANET, NSFnet, {BITNET}, and the virtual
+UUCP and {Usenet} `networks', plus the corporate in-house networks and
+commercial time-sharing services (such as CompuServe, GEnie and AOL) that
+gateway to them. A site is generally considered `on the network' if it can be
+reached through some combination of Internet-style (@-sign) and UUCP
+(bang-path) addresses. see {Internet}, {bang path}, {{Internet address}},
+{network address}. Following the mass-culture discovery of the Internet in
+1994 and subsequent proliferation of cheap TCP/IP connections, "the network"
+is increasingly synonymous with the Internet itself (as it was before the
+second wave of wide-area computer networking began around 1980). 2. A
+fictional conspiracy of libertarian hacker-subversives and anti-authoritarian
+monkeywrenchers described in Robert Anton Wilson's novel "Schro"dinger's
+Cat", to which many hackers have subsequently decided they belong (this is an
+example of {ha ha only serious}). In sense 1, `the network' is often
+abbreviated to `the net'. "Are you on the net?" is a frequent question when
+hackers first meet face to face, and "see you on the net!" is a frequent
+goodbye. :the X that can be Y is not the true X: Yet another instance of
+hackerdom's peculiar attraction to mystical references -- a common humorous
+way of making exclusive statements about a class of things. The template is
+from the "Tao te Ching": "The Tao which can be spoken of is not the true
+Tao." The implication is often that the X is a mystery accessible only to the
+enlightened. see the {trampoline} entry for an example, and compare {has the
+X nature}. :theology: n. 1. Ironically or humorously used to refer to
+{religious issues}. 2. Technical fine points of an abstruse nature, esp.
+those where the resolution is of theoretical interest but is relatively
+{marginal} with respect to actual use of a design or system. Used esp. around
+software issues with a heavy AI or language-design component, such as the
+smart-data vs. smart-programs dispute in AI. :theory: n. The consensus, idea,
+plan, story, or set of rules that is currently being used to inform a
+behavior. This usage is a generalization and (deliberate) abuse of the
+technical meaning. "What's the theory on fixing this TECO loss?" "What's the
+theory on dinner tonight?" ("Chinatown, I guess.") "What's the current theory
+on letting lusers on during the day?" "The theory behind this change is to
+fix the following well-known screw...." :thinko: /thing'koh/ n. [by analogy
+with `typo'] A momentary, correctable glitch in mental processing, especially
+one involving recall of information learned by rote; a bubble in the stream
+of consciousness. Syn. {braino}; see also {brain fart}. Compare {mouso}.
+:This can't happen: Less clipped variant of {can't happen}. :This time, for
+sure!: excl. Ritual affirmation frequently uttered during protracted
+debugging sessions involving numerous small obstacles (e.g., attempts to
+bring up a UUCP connection). For the proper effect, this must be uttered in a
+fruity imitation of Bullwinkle J. Moose. Also heard: "Hey, Rocky! Watch me
+pull a rabbit out of my hat!" The {canonical} response is, of course, "But
+that trick _never_ works!" see {{hacker humor}}. :thrash: vi. To move wildly
+or violently, without accomplishing anything useful. Paging or swapping
+systems that are overloaded waste most of their time moving data into and out
+of core (rather than performing useful computation) and are therefore said to
+thrash. Someone who keeps changing his mind (esp. about what to work on next)
+is said to be thrashing. A person frantically trying to execute too many
+tasks at once (and not spending enough time on any single task) may also be
+described as thrashing. Compare {multitask}. :thread: n. [Usenet, GEnie,
+CompuServe] Common abbreviation of `topic thread', a more or less continuous
+chain of postings on a single topic. To `follow a thread' is to read a series
+of Usenet postings sharing a common subject or (more correctly) which are
+connected by Reference headers. The better newsreaders can present news in
+thread order automatically. Interestingly, this is far from a neologism. The
+OED says: "That which connects the successive points in anything, esp. a
+narrative, train of thought, or the like; the sequence of events or ideas
+continuing throughout the whole course of anything;" Citations are given
+going back to 1642! :three-finger salute: n. Syn. {Vulcan nerve pinch}.
+:throwaway account: n. An inexpensive Internet account purchased on a
+legitimate {ISP} for the the sole purpose of spewing {spam}. :thud: n. 1. Yet
+another {metasyntactic variable} (see {foo}). It is reported that at CMU from
+the mid-1970s the canonical series of these was `foo', `bar', `thud', `blat'.
+2. Rare term for the hash character, `#' (ASCII 0100011). see {ASCII} for
+other synonyms. :thumb: n. The slider on a window-system scrollbar. So called
+because moving it allows you to browse through the contents of a text window
+in a way analogous to thumbing through a book. :thunk: /thuhnk/ n. 1. "A
+piece of coding which provides an address", according to P. Z. Ingerman, who
+invented thunks in 1961 as a way of binding actual parameters to their formal
+definitions in Algol-60 procedure calls. If a procedure is called with an
+expression in the place of a formal parameter, the compiler generates a thunk
+which computes the expression and leaves the address of the result in some
+standard location. 2. Later generalized into: an expression, frozen together
+with its environment, for later evaluation if and when needed (similar to
+what in techspeak is called a `closure'). The process of unfreezing these
+thunks is called `forcing'. 3. A {stubroutine}, in an overlay programming
+environment, that loads and jumps to the correct overlay. Compare
+{trampoline}. 4. People and activities scheduled in a thunklike manner. "It
+occurred to me the other day that I am rather accurately modeled by a thunk
+-- I frequently need to be forced to completion." -- paraphrased from a {plan
+file}. Historical note: There are a couple of onomatopoeic myths circulating
+about the origin of this term. The most common is that it is the sound made
+by data hitting the stack; another holds that the sound is that of the data
+hitting an accumulator. Yet another suggests that it is the sound of the
+expression being unfrozen at argument-evaluation time. In fact, according to
+the inventors, it was coined after they realized (in the wee hours after
+hours of discussion) that the type of an argument in Algol-60 could be
+figured out in advance with a little compile-time thought, simplifying the
+evaluation machinery. In other words, it had `already been thought of'; thus
+it was christened a `thunk', which is "the past tense of `think' at two in
+the morning". :tick: n. 1. A {jiffy} (sense 1). 2. In simulations, the
+discrete unit of time that passes between iterations of the simulation
+mechanism. In AI applications, this amount of time is often left unspecified,
+since the only constraint of interest is the ordering of events. This sort of
+AI simulation is often pejoratively referred to as `tick-tick-tick'
+simulation, especially when the issue of simultaneity of events with long,
+independent chains of causes is {handwave}d. 3. In the FORTH language, a
+single quote character. :tick-list features: n. [Acorn Computers] Features in
+software or hardware that customers insist on but never use (calculators in
+desktop TSRs and that sort of thing). The American equivalent would be
+`checklist features', but this jargon sense of the phrase has not been
+reported. :tickle a bug: vt. To cause a normally hidden bug to manifest
+itself through some known series of inputs or operations. "You can tickle the
+bug in the Paradise VGA card's highlight handling by trying to set bright
+yellow reverse video." :tiger team: n. [U.S. military jargon] 1. Originally,
+a team (of {sneaker}s) whose purpose is to penetrate security, and thus test
+security measures. These people are paid professionals who do hacker-type
+tricks, e.g., leave cardboard signs saying "bomb" in critical defense
+installations, hand-lettered notes saying "Your codebooks have been stolen"
+(they usually haven't been) inside safes, etc. After a successful
+penetration, some high-ranking security type shows up the next morning for a
+`security review' and finds the sign, note, etc., and all hell breaks loose.
+Serious successes of tiger teams sometimes lead to early retirement for base
+commanders and security officers (see the {patch} entry for an example). 2.
+Recently, and more generally, any official inspection team or special
+{firefighting} group called in to look at a problem. A subset of tiger teams
+are professional {cracker}s, testing the security of military computer
+installations by attempting remote attacks via networks or supposedly
+`secure' comm channels. Some of their escapades, if declassified, would
+probably rank among the greatest hacks of all times. The term has been
+adopted in commercial computer-security circles in this more specific sense.
+:time bomb: n. A subspecies of {logic bomb} that is triggered by reaching
+some preset time, either once or periodically. There are numerous legends
+about time bombs set up by programmers in their employers' machines, to go
+off if the programmer is fired or laid off and is not present to perform the
+appropriate suppressing action periodically. Interestingly, the only such
+incident for which we have been pointed to documentary evidence took place in
+the Soviet Union in

@@ -1,18 +1,127 @@
- :GCOS:: /jee'kohs/ /n./ A {quick-and-dirty} {clone} of System/360 DOS that
-emerged from GE around 1970; originally called GECOS (the General Electric
-Comprehensive Operating System). Later kluged to support primitive
-timesharing and transaction processing. After the buyout of GE's computer
-division by Honeywell, the name was changed to General Comprehensive
-Operating System (GCOS). Other OS groups at Honeywell began referring to it
-as `God's Chosen Operating System', allegedly in reaction to the GCOS crowd's
-uninformed and snotty attitude about the superiority of their product. All
-this might be of zero interest, except for two facts: (1) The GCOS people won
-the political war, and this led in the orphaning and eventual death of
-Honeywell {{Multics}}, and (2) GECOS/GCOS left one permanent mark on Unix.
-Some early Unix systems at Bell Labs used GCOS machines for print spooling
-and various other services; the field added to `/etc/passwd' to carry GCOS ID
-information was called the `GECOS field' and survives today as the `pw_gecos'
-member used for the user's full name and other human-ID information. GCOS
-later played a major role in keeping Honeywell a dismal also-ran in the
-mainframe market, and was itself ditched for Unix in the late 1980s when
-Honeywell retired its aging {big iron} designs.
+ A fudge factor, on the other hand, can often be tweaked in more than one
+direction. A good example is the `fuzz' typically allowed in floating-point
+calculations: two numbers being compared for equality must be allowed to
+differ by a small amount; if that amount is too small, a computation may
+never terminate, while if it is too large, results will be needlessly
+inaccurate. Fudge factors are frequently adjusted incorrectly by programmers
+who don't fully understand their import. see also {coefficient of X}. :fuel
+up: vi. To eat or drink hurriedly in order to get back to hacking. "Food-p?"
+"Yeah, let's fuel up." "Time for a {great-wall}!" see also {{oriental food}}.
+:Full Monty: n. see {monty}, sense 2. :fum: n. [XEROX PARC] At PARC, often
+the third of the standard {metasyntactic variable}s (after {foo} and {bar}).
+Competes with {baz}, which is more common outside PARC. :functino: n.
+[uncommon, U.K.; originally a serendipitous typo in 1994] A pointer to a
+function in C and C++. By association with sub-atomic particles such as the
+neutrino, it accurately conveys an impression of smallness (one pointer is
+four bytes on most systems) and speed (hackers can and do use arrays of
+functinos to replace a switch() statement). :funky: adj. Said of something
+that functions, but in a slightly strange, klugey way. It does the job and
+would be difficult to change, so its obvious non-optimality is left alone.
+Often used to describe interfaces. The more bugs something has that nobody
+has bothered to fix because workarounds are easier, the funkier it is. {TECO}
+and UUCP are funky. The Intel i860's exception handling is extraordinarily
+funky. Most standards acquire funkiness as they age. "The new mailer is
+installed, but is still somewhat funky; if it bounces your mail for no
+reason, try resubmitting it." "This UART is pretty funky. The data ready line
+is active-high in interrupt mode and active-low in DMA mode." :funny money:
+n. 1. Notional `dollar' units of computing time and/or storage handed to
+students at the beginning of a computer course; also called `play money' or
+`purple money' (in implicit opposition to real or `green' money). In New
+Zealand and Germany the odd usage `paper money' has been recorded; in
+Germany, the particularly amusing synonym `transfer ruble' commemmorates the
+funny money used for trade between COMECON countries back when the Soviet
+Bloc still existed. When your funny money ran out, your account froze and you
+needed to go to a professor to get more. Fortunately, the plunging cost of
+timesharing cycles has made this less common. The amounts allocated were
+almost invariably too small, even for the non-hackers who wanted to slide by
+with minimum work. In extreme cases, the practice led to small-scale black
+markets in bootlegged computer accounts. 2. By extension, phantom money or
+quantity tickets of any kind used as a resource-allocation hack within a
+system. Antonym: `real money'. :furrfu: // excl. [Usenet] Written-only
+equivalent of "Sheesh!"; it is, in fact, "sheesh" modified by {rot13}.
+Evolved in mid-1992 as a response to notably silly postings repeating urban
+myths on the Usenet newsgroup alt.folklore.urban, after some posters
+complained that "Sheesh!" as a response to {newbie}s was being overused. see
+also {FOAF}. :fuzzball: n. [TCP/IP hackers] A DEC LSI-11 running a particular
+suite of homebrewed software written by Dave Mills and assorted
+co-conspirators, used in the early 1980s for Internet protocol testbedding
+and experimentation. These were used as NSFnet backbone sites in its early
+56kb-line days; a few were still active on the Internet as late as mid-1993,
+doing odd jobs such as network time service. = G = ===== :G: pref.,suff. [SI]
+see {{quantifiers}}. :g-file: n. [Commodore BBS culture] Any file that is
+written with the intention of being read by a human rather than a machine,
+such as the Jargon File, documentation, humor files, hacker lore, and
+technical materials. This term survives from the nearly forgotten Commodore
+64 underground and BBS community. In the early 80s, C-Net had emerged as the
+most popular C64 BBS software for systems which encouraged messaging (as
+opposed to file transfer). There were three main options for files: Program
+files (p-files), which served the same function as `doors' in today's
+systems, UD files (the user upload/download section), and g-files. Anything
+that was meant to be read was included in g-files. :gabriel: /gay'bree-*l/ n.
+[for Dick Gabriel, SAIL LISP hacker and volleyball fanatic] An unnecessary
+(in the opinion of the opponent) stalling tactic, e.g., tying one's shoelaces
+or combing one's hair repeatedly, asking the time, etc. Also used to refer to
+the perpetrator of such tactics. Also, `pulling a Gabriel', `Gabriel mode'.
+:gag: vi. Equivalent to {choke}, but connotes more disgust. "Hey, this is
+FORTRAN code. No wonder the C compiler gagged." see also {barf}. :gang bang:
+n. The use of large numbers of loosely coupled programmers in an attempt to
+wedge a great many features into a product in a short time. Though there have
+been memorable gang bangs (e.g., that over-the-weekend assembler port
+mentioned in Steven Levy's "Hackers"), most are perpetrated by large
+companies trying to meet deadlines; the inevitable result is enormous buggy
+masses of code entirely lacking in {orthogonal}ity. When market-driven
+managers make a list of all the features the competition has and assign one
+programmer to implement each, the probability of maintaining a coherent (or
+even functional) design goes infinitesimal. see also {firefighting},
+{Mongolian Hordes technique}, {Conway's Law}. :garbage collect: vi. (also
+`garbage collection', n.) see {GC}. :garply: /gar'plee/ n. [Stanford] Another
+metasyntactic variable (see {foo}); once popular among SAIL hackers. :gas:
+[as in `gas chamber'] 1. interj. A term of disgust and hatred, implying that
+gas should be dispensed in generous quantities, thereby exterminating the
+source of irritation. "Some loser just reloaded the system for no reason!
+Gas!" 2. interj. A suggestion that someone or something ought to be flushed
+out of mercy. "The system's getting {wedged} every few minutes. Gas!" 3. vt.
+To {flush} (sense 1). "You should gas that old crufty software." 4. [IBM] n.
+Dead space in nonsequentially organized files that was occupied by data that
+has since been deleted; the compression operation that removes it is called
+`degassing' (by analogy, perhaps, with the use of the same term in vacuum
+technology). 5. [IBM] n. Empty space on a disk that has been clandestinely
+allocated against future need. :gaseous: adj. Deserving of being {gas}sed.
+Disseminated by Geoff Goodfellow while at SRI; became particularly popular
+after the Moscone-Milk killings in San Francisco, when it was learned that
+the defendant Dan White (a politician who had supported Proposition 7) would
+get the gas chamber under Proposition 7 if convicted of first-degree murder
+(he was eventually convicted of manslaughter). :gawble: /gaw'bl/ n. see
+{chawmp}. :GC: /G-C/ [from LISP terminology; `Garbage Collect'] 1. vt. To
+clean up and throw away useless things. "I think I'll GC the top of my desk
+today." When said of files, this is equivalent to {GFR}. 2. vt. To recycle,
+reclaim, or put to another use. 3. n. An instantiation of the garbage
+collector process. `Garbage collection' is computer-science techspeak for a
+particular class of strategies for dynamically but transparently reallocating
+computer memory (i.e., without requiring explicit allocation and deallocation
+by higher-level software). One such strategy involves periodically scanning
+all the data in memory and determining what is no longer accessible; useless
+data items are then discarded so that the memory they occupy can be recycled
+and used for another purpose. Implementations of the LISP language usually
+use garbage collection. In jargon, the full phrase is sometimes heard but the
+{abbrev} GC is more frequently used because it is shorter. Note that there is
+an ambiguity in usage that has to be resolved by context: "I'm going to
+garbage-collect my desk" usually means to clean out the drawers, but it could
+also mean to throw away or recycle the desk itself. :GCOS:: /jee'kohs/ n. A
+{quick-and-dirty} {clone} of System/360 DOS that emerged from GE around 1970;
+originally called GECOS (the General Electric Comprehensive Operating
+System). Later kluged to support primitive timesharing and transaction
+processing. After the buyout of GE's computer division by Honeywell, the name
+was changed to General Comprehensive Operating System (GCOS). Other OS groups
+at Honeywell began referring to it as `God's Chosen Operating System',
+allegedly in reaction to the GCOS crowd's uninformed and snotty attitude
+about the superiority of their product. All this might be of zero interest,
+except for two facts: (1) The GCOS people won the political war, and this led
+in the orphaning and eventual death of Honeywell {{Multics}}, and (2)
+GECOS/GCOS left one permanent mark on Unix. Some early Unix systems at Bell
+Labs used GCOS machines for print spooling and various other services; the
+field added to `/etc/passwd' to carry GCOS ID information was called the
+`GECOS field' and survives today as the `pw_gecos' member used for the user's
+full name and other human-ID information. GCOS later played a major role in
+keeping Honeywell a dismal also-ran in the mainframe market, and was itself
+mostly ditched for Unix in the late

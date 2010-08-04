@@ -1,3 +1,62 @@
- :dec: /dek/ /v./ Verbal (and only rarely written) shorthand for decrement,
-i.e. `decrease by one'. Especially used by assembly programmers, as many
-assembly languages have a `dec' mnemonic. Antonym: {inc}.
+ 3 is common but seldom bothersome. :tube: 1. n. A CRT terminal. Never used
+in the mainstream sense of TV; real hackers don't watch TV, except for Loony
+Toons, Rocky & Bullwinkle, Trek Classic, the Simpsons, and the occasional
+cheesy old swashbuckler movie. 2. [IBM] To send a copy of something to
+someone else's terminal. "Tube me that note?" :tube time: n. Time spent at a
+terminal or console. More inclusive than hacking time; commonly used in
+discussions of what parts of one's environment one uses most heavily. "I find
+I'm spending too much of my tube time reading mail since I started this
+revision." :tunafish: n. In hackish lore, refers to the mutated punchline of
+an age-old joke to be found at the bottom of the manual pages of `tunefs(8)'
+in the original {BSD} 4.2 distribution. The joke was removed in later
+releases once commercial sites started using 4.2, but apparently restored on
+the 4.4BSD tape and in {Net,Free,Open}BSD. Tunefs relates to the `tuning' of
+file-system parameters for optimum performance, and at the bottom of a few
+pages of wizardly inscriptions was a `BUGS' section consisting of the line
+"You can tune a file system, but you can't tunafish". Variants of this can be
+seen in other BSD versions, though it has been excised from some versions by
+humorless management {droid}s. The [nt]roff source for SunOS 4.1.1 contains a
+comment apparently designed to prevent this: "Take this out and a Unix Demon
+will dog your steps from now until the `time_t"s wrap around." [It has since
+been pointed out that indeed you can tunafish. Usually at a canning
+factory... --ESR] :tune: vt. [from automotive or musical usage] To optimize a
+program or system for a particular environment, esp. by adjusting numerical
+parameters designed as {hook}s for tuning, e.g., by changing `#define' lines
+in C. One may `tune for time' (fastest execution), `tune for space' (least
+memory use), or `tune for configuration' (most efficient use of hardware).
+see {bum}, {hot spot}, {hand-hacking}. :turbo nerd: n. see {computer geek}.
+:Turing tar-pit: n. 1. A place where anything is possible but nothing of
+interest is practical. Alan Turing helped lay the foundations of computer
+science by showing that all machines and languages capable of expressing a
+certain very primitive set of operations are logically equivalent in the
+kinds of computations they can carry out, and in principle have capabilities
+that differ only in speed from those of the most powerful and elegantly
+designed computers. However, no machine or language exactly matching Turing's
+primitive set has ever been built (other than possibly as a classroom
+exercise), because it would be horribly slow and far too painful to use. A
+`Turing tar-pit' is any computer language or other tool that shares this
+property. That is, it's theoretically universal -- but in practice, the
+harder you struggle to get any real work done, the deeper its inadequacies
+suck you in. Compare {bondage-and-discipline language}. 2. The perennial
+{holy wars} over whether language A or B is the "most powerful". :turist:
+/too'rist/ n. Var. sp. of {tourist}, q.v. Also in adjectival form,
+`turistic'. Poss. influenced by {luser} and `Turing'. :tweak: vt. 1. To
+change slightly, usually in reference to a value. Also used synonymously with
+{twiddle}. If a program is almost correct, rather than figure out the precise
+problem you might just keep tweaking it until it works. see {frobnicate} and
+{fudge factor}; also see {shotgun debugging}. 2. To {tune} or {bum} a
+program; preferred usage in the U.K. :tweeter: n. [University of Waterloo]
+Syn. {perf}, {chad} (sense 1). This term (like {woofer}) has been in use at
+Waterloo since 1972 but is elsewhere unknown. In audio jargon, the word
+refers to the treble speaker(s) on a hi-fi. :TWENEX:: /twe'neks/ n. The
+TOPS-20 operating system by {DEC} -- the second proprietary OS for the PDP-10
+-- preferred by most PDP-10 hackers over TOPS-10 (that is, by those who were
+not {{ITS}} or {{WAITS}} partisans). TOPS-20 began in 1969 as Bolt, Beranek &
+Newman's TENEX operating system using special paging hardware. By the early
+1970s, almost all of the systems on the ARPANET ran TENEX. DEC purchased the
+rights to TENEX from BBN and began work to make it their own. The first
+in-house code name for the operating system was VIROS (VIRtual memory
+Operating System); when customers started asking questions, the name was
+changed to SNARK so DEC could truthfully deny that there was any project
+called VIROS. When the name SNARK became known, the name was briefly reversed
+to become

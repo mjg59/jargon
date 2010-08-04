@@ -1,17 +1,2 @@
- :VAX: /vaks/ /n./ 1. [from Virtual Address eXtension] The most successful
-minicomputer design in industry history, possibly excepting its immediate
-ancestor, the PDP-11. Between its release in 1978 and its eclipse by {killer
-micro}s after about 1986, the VAX was probably the hacker's favorite machine
-of them all, esp. after the 1982 release of 4.2 BSD Unix (see {BSD}). Esp.
-noted for its large, assembler-programmer-friendly instruction set -- an
-asset that became a liability after the RISC revolution. 2. A major brand of
-vacuum cleaner in Britain. Cited here because its sales pitch, "Nothing sucks
-like a VAX!" became a sort of battle-cry of RISC partisans. It is even
-sometimes claimed that DEC actually entered a cross-licensing deal with the
-vacuum-Vax people that allowed them to market VAX computers in the U.K. in
-return for not challenging the vacuum cleaner trademark in the U.S. A rival
-brand actually pioneered the slogan: its original form was "Nothing sucks
-like Electrolux". It has apparently become a classic example (used in
-advertising textbooks) of the perils of not knowing the local idiom. But in
-1996, the press manager of Electrolux AB, while confirming that the company
-used this slogan in the late
+ VAX minicomputer; one of the seven or so environments that loom largest in
+hacker folklore. Many Unix fans generously concede that

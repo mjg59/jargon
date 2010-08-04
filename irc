@@ -1,9 +1,105 @@
- :IRC: /I-R-C/ /n./ [Internet Relay Chat] A worldwide "party line" network
-that allows one to converse with others in real time. IRC is structured as a
-network of Internet servers, each of which accepts connections from client
-programs, one per user. The IRC community and the {Usenet} and {MUD}
-communities overlap to some extent, including both hackers and regular folks
-who have discovered the wonders of computer networks. Some Usenet jargon has
-been adopted on IRC, as have some conventions such as {emoticon}s. There is
-also a vigorous native jargon, represented in this lexicon by entries marked
-`[IRC]'. see also {talk mode}.
+ 1990, ISBN 0-201-57044-0). see also {Red Book}, {Green Book}, {Blue Book}.
+:whizzy: adj. (alt. `wizzy') [Sun] Describes a {cuspy} program; one that is
+feature-rich and well presented. :wibble: [UK] 1. n.,v. Commonly used to
+describe chatter, content-free remarks or other essentially meaningless
+contributions to threads in newsgroups. "Oh, rspence is wibbling again". 2.
+[UK IRC] An explicit on-line no-op equivalent to {humma}. 3. One of the
+preferred {metasyntactic variable}s in the UK, forming a series with
+`wobble', `wubble', and `flob' (attributed to the hilarious historical comedy
+"Blackadder"). 4. A pronounciation of the letters "www", as seen in URLs;
+i.e., www.{foo}.com may be pronounced "wibble dot foo dot com". :WIBNI: // n.
+[Bell Labs: Wouldn't It Be Nice If] What most requirements documents and
+specifications consist entirely of. Compare {IWBNI}. :widget: n. 1. A
+meta-thing. Used to stand for a real object in didactic examples (especially
+database tutorials). Legend has it that the original widgets were holders for
+buggy whips. "But suppose the parts list for a widget has 52 entries...." 2.
+[poss. evoking `window gadget'] A user interface object in {X} graphical user
+interfaces. :wiggles: n. [scientific computation] In solving partial
+differential equations by finite difference and similar methods, wiggles are
+sawtooth (up-down-up-down) oscillations at the shortest wavelength
+representable on the grid. If an algorithm is unstable, this is often the
+most unstable waveform, so it grows to dominate the solution. Alternatively,
+stable (though inaccurate) wiggles can be generated near a discontinuity by a
+Gibbs phenomenon. :WIMP environment: n. [acronym: `Window, Icon, Menu,
+Pointing device (or Pull-down menu)'] A graphical-user-interface environment
+such as {X} or the Macintosh interface, esp. as described by a hacker who
+prefers command-line interfaces for their superior flexibility and
+extensibility. However, it is also used without negative connotations; one
+must pay attention to voice tone and other signals to interpret correctly.
+see {menuitis}, {user-obsequious}. :win: [MIT] 1. vi. To succeed. A program
+wins if no unexpected conditions arise, or (especially) if it sufficiently
+{robust} to take exceptions in stride. 2. n. Success, or a specific instance
+thereof. A pleasing outcome. "So it turned out I could use a {lexer}
+generator instead of hand-coding my own pattern recognizer. What a win!"
+Emphatic forms: `moby win', `super win', `hyper-win' (often used
+interjectively as a reply). For some reason `suitable win' is also common at
+MIT, usually in reference to a satisfactory solution to a problem. Oppose
+{lose}; see also {big win}, which isn't quite just an intensification of
+`win'. :win big: vi. To experience serendipity. "I went shopping and won big;
+there was a 2-for-1 sale." see {big win}. :win win: excl. Expresses pleasure
+at a {win}. :Winchester:: n. Informal generic term for sealed-enclosure
+magnetic-disk drives in which the read-write head planes over the disk
+surface on an air cushion. There is a legend that the name arose because the
+original 1973 engineering prototype for what later became the IBM 3340
+featured two 30-megabyte volumes; 30-30 became `Winchester' when somebody
+noticed the similarity to the common term for a famous Winchester rifle (in
+the latter, the first 30 referred to caliber and the second to the grain
+weight of the charge). (It is sometimes incorrectly claimed that Winchester
+was the laboratory in which the technology was developed.) :windoid: n. In
+the Macintosh world, a style of window with much less adornment (smaller or
+missing title bar, zoom box, etc, etc) than a standard window. :window
+shopping: n. [US Geological Survey] Among users of {WIMP environment}s like
+{X} or the Macintosh, extended experimentation with new window colors, fonts,
+and icon shapes. This activity can take up hours of what might otherwise have
+been productive working time. "I spent the afternoon window shopping until I
+found the coolest shade of green for my active window borders -- now they
+perfectly match my medium slate blue background." Serious window shoppers
+will spend their days with bitmap editors, creating new and different icons
+and background patterns for all to see. Also: `window dressing', the act of
+applying new fonts, colors, etc. see {fritterware}, compare {macdink}.
+:Windoze: /win'dohz/ n. see {Microsloth Windows}. :winged comments: n.
+Comments set on the same line as code, as opposed to {boxed comments}. In C,
+for example: d = sqrt(x*x + y*y); /* distance from origin */ Generally these
+refer only to the action(s) taken on that line. :winkey: n. (alt. `winkey
+face') see {emoticon}. :winnage: /win'*j/ n. The situation when a lossage is
+corrected, or when something is winning. :winner: 1. n. An unexpectedly good
+situation, program, programmer, or person. 2. `real winner': Often sarcastic,
+but also used as high praise (see also the note under {user}). "He's a real
+winner -- never reports a bug till he can duplicate it and send in an
+example." :winnitude: /win'*-t[y]ood/ n. The quality of winning (as opposed
+to {winnage}, which is the result of winning). "Guess what? They tweaked the
+microcode and now the LISP interpreter runs twice as fast as it used to."
+"That's really great! Boy, what winnitude!" "Yup. I'll probably get a
+half-hour's winnage on the next run of my program." Perhaps curiously, the
+obvious antonym `lossitude' is rare. :Wintel: n. Microsoft Windows plus Intel
+- the tacit alliance that dominated desktop computing in the 1990s. Now
+(1999) possibly on the verge of breaking up under pressure from {Linux}; see
+{Lintel}. :wired: n. see {hardwired}. :wirehead: /wi:r'hed/ n. [prob. from SF
+slang for an electrical-brain-stimulation addict] 1. A hardware hacker,
+especially one who concentrates on communications hardware. 2. An expert in
+local-area networks. A wirehead can be a network software wizard too, but
+will always have the ability to deal with network hardware, down to the
+smallest component. Wireheads are known for their ability to lash up an
+Ethernet terminator from spare resistors, for example. :wirewater: n. Syn.
+{programming fluid}. This melds the mainstream slang adjective `wired'
+(stimulated, up, hyperactive) with `firewater'; however, it refers to
+caffeinacious rather than alcoholic beverages. :wish list: n. A list of
+desired features or bug fixes that probably won't get done for a long time,
+usually because the person responsible for the code is too busy or can't
+think of a clean way to do it. "OK, I'll add automatic filename completion to
+the wish list for the new interface." Compare {tick-list features}. :within
+delta of: adj. see {delta}. :within epsilon of: adj. see {epsilon}. :wizard:
+n. 1. A person who knows how a complex piece of software or hardware works
+(that is, who {grok}s it); esp. someone who can find and fix bugs quickly in
+an emergency. Someone is a {hacker} if he or she has general hacking ability,
+but is a wizard with respect to something only if he or she has specific
+detailed knowledge of that thing. A good hacker could become a wizard for
+something given the time to study it. 2. A person who is permitted to do
+things forbidden to ordinary people; one who has {wheel} privileges on a
+system. 3. A Unix expert, esp. a Unix systems programmer. This usage is well
+enough established that `Unix Wizard' is a recognized job title at some
+corporations and to most headhunters. see {guru}, {lord high fixer}. See also
+{deep magic}, {heavy wizardry}, {incantation}, {magic}, {mutter}, {rain
+dance}, {voodoo programming}, {wave a dead chicken}. :Wizard Book: n.
+"Structure and Interpretation of Computer Programs" (Hal Abelson, Jerry
+Sussman and Julie Sussman; MIT Press,

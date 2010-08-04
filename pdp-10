@@ -1,16 +1,8 @@
- :PDP-10: /n./ [Programmed Data Processor model 10] The machine that made
-timesharing real. It looms large in hacker folklore because of its adoption
-in the mid-1970s by many university computing facilities and research labs,
-including the MIT AI Lab, Stanford, and CMU. Some aspects of the instruction
-set (most notably the bit-field instructions) are still considered
-unsurpassed. The 10 was eventually eclipsed by the VAX machines (descendants
-of the PDP-11) when DEC recognized that the 10 and VAX product lines were
-competing with each other and decided to concentrate its software development
-effort on the more profitable VAX. The machine was finally dropped from DEC's
-line in 1983, following the failure of the Jupiter Project at DEC to build a
-viable new model. (Some attempts by other companies to market clones came to
-nothing; see {Foonly} and {Mars}.) This event spelled the doom of {{ITS}} and
-the technical cultures that had spawned the original Jargon File, but by
-mid-1991 it had become something of a badge of honorable old-timerhood among
-hackers to have cut one's teeth on a PDP-10. see {{TOPS-10}}, {{ITS}}, {AOS},
-{BLT}, {DDT}, {DPB}, {EXCH}, {HAKMEM}, {JFCL}, {LDB}, {pop}, {push}.
+ PDP-10 procedure call instruction.) 1. To put something onto a {stack} or
+{pdl}. If one says that something has been pushed onto one's stack, it means
+that the Damoclean list of things hanging over ones's head has grown longer
+and heavier yet. This may also imply that one will deal with it _before_
+other pending items; otherwise one might say that the thing was `added to my
+queue'. 2. vi. To enter upon a digression, to save the current discussion for
+later. Antonym of {pop}; see also {stack}, {pdl}. = Q = ===== :quad: n. 1.
+Two bits; syn. for {quarter}, {crumb}, {tayste}.

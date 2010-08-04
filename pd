@@ -1,5 +1,80 @@
- :PD: /P-D/ /adj./ Common abbreviation for `public domain', applied to
-software distributed over {Usenet} and from Internet archive sites. Much of
-this software is not in fact public domain in the legal sense but travels
-under various copyrights granting reproduction and use rights to anyone who
-can {snarf} a copy. see {copyleft}.
+ CHECKPOINT'. It marks the boundary between university and the Real World;
+check your notions of reality before passing. This joke is funnier because
+the Cambridge `campus' is actually coextensive with the center of Cambridge
+town. see also {fear and loathing}, {mundane}, and {uninteresting}. :reality
+check: n. 1. The simplest kind of test of software or hardware; doing the
+equivalent of asking it what 2 + 2 is and seeing if you get 4. The software
+equivalent of a {smoke test}. 2. The act of letting a {real user} try out
+prototype software. Compare {sanity check}. :reality-distortion field: n. An
+expression used to describe the persuasive ability of managers like Steve
+Jobs (the term originated at Apple in the 1980s to describe his peculiar
+charisma). Those close to these managers become passionately committed to
+possibly insane projects, without regard to the practicality of their
+implementation or competitive forces in the marketpace. :reaper: n. A
+{prowler} that {GFR}s files. A file removed in this way is said to have been
+`reaped'. :rectangle slinger: n. see {polygon pusher}. :recursion: n. see
+{recursion}. See also {tail recursion}. :recursive acronym:: n. A hackish
+(and especially MIT) tradition is to choose acronyms/abbreviations that refer
+humorously to themselves or to other acronyms/abbreviations. The classic
+examples were two MIT editors called EINE ("EINE Is Not EMACS") and ZWEI
+("ZWEI Was EINE Initially"). More recently, there is a Scheme compiler called
+LIAR (Liar Imitates Apply Recursively), and {GNU} (q.v., sense 1) stands for
+"GNU's Not Unix!" -- and a company with the name Cygnus, which expands to
+"Cygnus, Your GNU Support" (though Cygnus people say this is a {backronym}).
+see also {mung}, {EMACS}. :Red Book: n. 1. Informal name for one of the three
+standard references on {{PostScript}} ("PostScript Language Reference
+Manual", Adobe Systems (Addison-Wesley, 1985; QA76.73.P67P67; ISBN
+0-201-10174-2, or the 1990 second edition ISBN 0-201-18127-4); the others are
+known as the {Green Book}, the {Blue Book}, and the {White Book} (sense 2).
+2. Informal name for one of the 3 standard references on Smalltalk
+("Smalltalk-80: The Interactive Programming Environment" by Adele Goldberg
+(Addison-Wesley, 1984; QA76.8.S635G638; ISBN 0-201-11372-4); this too is
+associated with blue and green books). 3. Any of the 1984 standards issued by
+the CCITT eighth plenary assembly. These include, among other things, the
+X.400 email spec and the Group 1 through 4 fax standards. 4. The new version
+of the {Green Book} (sense 4) -- IEEE 1003.1-1990, a.k.a ISO 9945-1 -- is
+(because of the color and the fact that it is printed on A4 paper) known in
+the USA as "the Ugly Red Book That Won't Fit On The Shelf" and in Europe as
+"the Ugly Red Book That's A Sensible Size". 5. The NSA "Trusted Network
+Interpretation" companion to the {Orange Book}. see also {{book titles}}.
+:red wire: n. [IBM] Patch wires installed by programmers who have no business
+mucking with the hardware. It is said that the only thing more dangerous than
+a hardware guy with a code patch is a {softy} with a soldering iron....
+Compare {blue wire}, {yellow wire}, {purple wire}. :regexp: /reg'eksp/ n.
+[Unix] (alt. `regex' or `reg-ex') 1. Common written and spoken abbreviation
+for `regular expression', one of the wildcard patterns used, e.g., by Unix
+utilities such as `grep(1)', `sed(1)', and `awk(1)'. These use conventions
+similar to but more elaborate than those described under {glob}. For purposes
+of this lexicon, it is sufficient to note that regexps also allow
+complemented character sets using `^'; thus, one can specify `any
+non-alphabetic character' with `[^A-Za-z]'. 2. Name of a well-known PD
+regexp-handling package in portable C, written by revered Usenetter Henry
+Spencer <<henry@zoo.toronto.edu>>. :register dancing: n. Many older processor
+architectures suffer from a serious shortage of general-purpose registers.
+This is especially a problem for compiler-writers, because their generated
+code needs places to store temporaries for things like intermediate values in
+expression evaluation. Some designs with this problem, like the Intel 80x86,
+do have a handful of special-purpose registers that can be pressed into
+service, providing suitable care is taken to avoid unpleasant side effects on
+the state of the processor: while the special-purpose register is being used
+to hold an intermediate value, a delicate minuet is required in which the
+previous value of the register is saved and then restored just before the
+official function (and value) of the special-purpose register is again
+needed. :rehi: [IRC] "Hello again." Very commonly used to greet people upon
+returning to an IRC channel after {channel hopping}. :reincarnation, cycle
+of: n. see {cycle of reincarnation}. :reinvent the wheel: v. To design or
+implement a tool equivalent to an existing one or part of one, with the
+implication that doing so is silly or a waste of time. This is often a valid
+criticism. On the other hand, automobiles don't use wooden rollers, and some
+kinds of wheel have to be reinvented many times before you get them right. On
+the third hand, people reinventing the wheel do tend to come up with the
+moral equivalent of a trapezoid with an offset axle. :relay rape: n. The
+hijacking of a third party's unsecured mail server to deliver {spam}.
+:religion of CHI: /ki:/ n. [Case Western Reserve University] Yet another
+hackish parody religion (see also {Church of the SubGenius},
+{Discordianism}). In the mid-70s, the canonical "Introduction to Programming"
+courses at CWRU were taught in Algol, and student exercises were punched on
+cards and run on a Univac 1108 system using a homebrew operating system named
+CHI. The religion had no doctrines and but one ritual: whenever the
+worshipper noted that a digital clock read 11:08, he or she would recite the
+phrase "It is
