@@ -150,7 +150,7 @@ notify you if anyone started to spy on your output. It worked in exactly the
 same way, by looking at the insides of the operating system to see if anyone
 else was looking at the insides that had to do with your output. This
 `counterspy' program was called JEDGAR (a six-letterism pronounced as two
-syllables: /jed'gr/), in honor of the former head of the FBI. But there's
+syllables: /jed´gr/), in honor of the former head of the FBI. But there's
 more. JEDGAR would ask the user for `license to kill'. If the user said yes,
 then JEDGAR would actually gun the job of the luser who was spying.
 Unfortunately, people found that this made life too violent, especially when
@@ -657,10 +657,9 @@ and crash it. But I am a hacker, not a cracker. I don't do that kind of
 thing! I have enough computers to play with at home and at work; I don't need
 yours. Besides, it's not my way to respond to insults with violence. My
 response is this letter. You owe hackers an apology; but more than that, you
-owe us ordinary respect. Appendix D. Bibliography Table of Contents
-Bibliography Here are some other books you can read to help you understand
-the hacker mindset. Bibliography [Hofstadter] Göodel Escher Bach: An Eternal
-Golden Braid. Douglas Hofstadter. Copyright © 1979. Basic Books. ISBN
+owe us ordinary respect. Bibliography Here are some other books you can read
+to help you understand the hacker mindset. [Hofstadter] Gödel Escher Bach: An
+Eternal Golden Braid. Douglas Hofstadter. Copyright © 1979. Basic Books. ISBN
 0-394-74502-7. This book reads like an intellectual Grand Tour of hacker
 preoccupations. Music, mathematical logic, programming, speculations on the
 nature of intelligence, biology, and Zen are woven into a brilliant tapestry
@@ -754,7 +753,7 @@ Simon & Schuster. Copyright © 1991. ISBN 0-671-68322-5. This book gathers
 narratives about the careers of three notorious crackers into a clear-eyed
 but sympathetic portrait of hackerdom's dark side. The principals are Kevin
 Mitnick, "Pengo" and "Hagbard" of the Chaos Computer Club, and Robert T.
-Morris (see RTM, sense 2) . Markoff and Hafner focus as much on their
+Morris (see RTM, sense 2). Markoff and Hafner focus as much on their
 psychologies and motivations as on the details of their exploits, but don't
 slight the latter. The result is a balanced and fascinating account,
 particularly useful when read immediately before or after Cliff Stoll's The
