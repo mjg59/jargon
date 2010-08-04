@@ -6,22 +6,23 @@ inflection, though conventions have arisen for some of these (see the section
 on writing style in the Prependices for details). Talk mode has a special set
 of jargon words, used to save typing, which are not used orally. Some of
 these are identical to (and probably derived from) Morse-code jargon used by
-ham-radio amateurs since the 1920s. BCNU be seeing you BTW by the way BYE?
-are you ready to unlink? (this is the standard way to end a talk-mode
-conversation; the other person types `BYE' to confirm, or else continues the
-conversation) CUL see you later ENQ? are you busy? (expects `ACK' or `NAK' in
-return) FOO? are you there? (often used on unexpected links, meaning also
-"Sorry if I butted in ..." (linker) or "What's up?" (linkee)) FWIW for what
-it's worth FYI for your information FYA for your amusement GA go ahead (used
-when two people have tried to type simultaneously; this cedes the right to
-type to the other) GRMBL grumble (expresses disquiet or disagreement) HELLOP
-hello? (an instance of the `-P' convention) JAM just a minute (equivalent to
-`SEC....') MIN same as `JAM' NIL no (see {NIL}) O over to you OO over and out
-/ another form of "over to you" (from x/y as "x over y") \ lambda (used in
-discussing LISPy things) OBTW oh, by the way R U THERE? are you there? SEC
-wait a second (sometimes written `SEC...') T yes (see the main entry for {T})
-TNX thanks TNX 1.0E6 thanks a million (humorous) TNXE6 another form of
-"thanks a million" WRT with regard to, or with respect to. WTF the universal
+ham-radio amateurs since the 1920s. AFAIK as far as I know BCNU be seeing you
+BTW by the way BYE? are you ready to unlink? (this is the standard way to end
+a talk-mode conversation; the other person types `BYE' to confirm, or else
+continues the conversation) CUL see you later ENQ? are you busy? (expects
+`ACK' or `NAK' in return) FOO? are you there? (often used on unexpected
+links, meaning also "Sorry if I butted in ..." (linker) or "What's up?"
+(linkee)) FWIW for what it's worth FYI for your information FYA for your
+amusement GA go ahead (used when two people have tried to type
+simultaneously; this cedes the right to type to the other) GRMBL grumble
+(expresses disquiet or disagreement) HELLOP hello? (an instance of the `-P'
+convention) JAM just a minute (equivalent to `SEC....') MIN same as `JAM' NIL
+no (see {NIL}) O over to you OO over and out / another form of "over to you"
+(from x/y as "x over y") \ lambda (used in discussing LISPy things) OBTW oh,
+by the way OTOH on the other hand R U THERE? are you there? SEC wait a second
+(sometimes written `SEC...') T yes (see the main entry for {T}) TNX thanks
+TNX 1.0E6 thanks a million (humorous) TNXE6 another form of "thanks a
+million" WRT with regard to, or with respect to. WTF the universal
 interrogative particle; WTF knows what it means? WTH what the hell? <double
 newline> When the typing party has finished, he/she types two newlines to
 signal that he/she is done; this leaves a blank line between `speeches' in
@@ -47,7 +48,7 @@ talk to you later OIC oh, I see rehi hello again Most of these are not used
 at universities or in the UNIX world, though ROTF and TTFN have gained some
 currency there and IMHO is common; conversely, most of the people who know
 these are unfamiliar with FOO?, BCNU, HELLOP, {NIL}, and {T}. The {MUD}
-community uses a mixture of USENET/Internet emoticons, a few of the more
+community uses a mixture of Usenet/Internet emoticons, a few of the more
 natural of the old-style talk-mode abbrevs, and some of the `social' list
 above; specifically, MUD respondents report use of BBL, BRB, LOL, b4, BTW,
 WTF, TTFN, and WTH. The use of `rehi' is also common; in fact, mudders are
@@ -60,7 +61,7 @@ high-speed links. The following uses specific to MUDs are reported: CU l8er
 see you later (mutant of `CU l8tr') FOAD fuck off and die (use of this is
 generally OTT) OTT over the top (excessive, uncalled for) ppl abbrev for
 "people" THX thanks (mutant of `TNX'; clearly this comes in batches of 1138
-(the Lucasian K)). UOK? are you OK? Some {BIFF}isms (notably the variant
+(the Lucasian K)). UOK? are you OK? Some {B1FF}isms (notably the variant
 spelling `d00d') appear to be passing into wider use among some subgroups of
 MUDders. One final note on talk mode style: neophytes, when in talk mode,
 often seem to think they must produce letter-perfect prose because they are

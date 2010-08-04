@@ -1,4 +1,4 @@
- :line eater, the: n. [USENET] 1. A bug in some now-obsolete versions of the
+ :line eater, the: n. [Usenet] 1. A bug in some now-obsolete versions of the
 netnews software that used to eat up to BUFSIZ bytes of the article text. The
 bug was triggered by having the text of the article start with a space or
 tab. This bug was quickly personified as a mythical creature called the `line

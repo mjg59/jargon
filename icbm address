@@ -1,7 +1,7 @@
  :ICBM address: n. (Also `missile address') The form used to register a site
-with the USENET mapping project includes a blank for longitude and latitude,
+with the Usenet mapping project includes a blank for longitude and latitude,
 preferably to seconds-of-arc accuracy. This is actually used for generating
-geographically-correct maps of USENET links on a plotter; however, it has
+geographically-correct maps of Usenet links on a plotter; however, it has
 become traditional to refer to this as one's `ICBM address' or `missile
 address', and many people include it in their {sig block} with that name. (A
 real missile address would include target altitude.)

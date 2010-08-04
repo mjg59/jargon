@@ -8,13 +8,4 @@ strikes that key. For another, there are some well-known bugs in {vi} that
 allow certain texts to send arbitrary commands back to the machine when they
 are simply viewed. 2. In C code, data that includes pointers to function
 {hook}s (executable code). 3. An object, such as a {trampoline}, that is
-constructed on the fly by a program and intended to be executed as code. 4.
-Actual real-world data, as opposed to `test data'. For example, "I think I
-have the record deletion module finished." "Have you tried it out on live
-data?" This usage usually carries the connotation that live data is more
-fragile and must not be corrupted, or bad things will happen. So a more
-appropriate response to the above claim might be: "Well, make sure it works
-perfectly before we throw live data at it." The implication here is that
-record deletion is something pretty significant, and a haywire
-record-deletion module running amok on live data would probably cause great
-harm.
+constructed on the fly by a program and intended to be executed as code.

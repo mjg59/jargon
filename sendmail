@@ -1,0 +1,5 @@
+ :sendmail: n. The standard UNIX mail agent; written by Eric Allman. It is
+very flexible, but has very {hairy} configuration syntax and has had numerous
+security bugs, because it's a large, monolithic program which needs to run
+with suid root privileges. see also {bug-of-the-month club} and {Great Worm,
+The}.

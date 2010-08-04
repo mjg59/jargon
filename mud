@@ -19,12 +19,12 @@ Students on the European academic networks quickly improved on the MUD
 concept, spawning several new MUDs (VAXMUD, AberMUD, LPMUD). Many of these
 had associated bulletin-board systems for social interaction. Because these
 had an image as `research' they often survived administrative hostility to
-BBSs in general. This, together with the fact that USENET feeds have been
+BBSs in general. This, together with the fact that Usenet feeds have been
 spotty and difficult to get in the U.K., made the MUDs major foci of hackish
 social interaction there. AberMUD and other variants crossed the Atlantic
 around 1988 and quickly gained popularity in the U.S.; they became nuclei for
 large hacker communities with only loose ties to traditional hackerdom (some
-observers see parallels with the growth of USENET in the early 1980s). The
+observers see parallels with the growth of Usenet in the early 1980s). The
 second wave of MUDs (TinyMUD and variants) tended to emphasize social
 interaction, puzzles, and cooperative world-building as opposed to combat and
 competition. In 1991, over 50% of MUD sites are of a third major variety,

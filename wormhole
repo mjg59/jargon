@@ -1,14 +1,13 @@
- WORMHOLE /werm'hohl/ n. A location in a monitor which contains the address
-of a routine, with the specific intent of making it easy to substitute a
-different routine. The following quote comes from "Polymorphic Systems", vol.
-2, p. 54: Any type of I/O device can be substituted for the standard device
-by loading a simple driver routine for that device and installing its address
-in one of the monitor's `wormholes.' The term `wormhole' has been used to
-describe a hypothetical astronomical situation where a black hole connects to
-the `other side' of the universe. When this happens, information can pass
-through the wormhole, in only one direction, much as `assumptions' pass down
-the monitor's wormholes." This term is now obsolescent. Modern operating
-systems use clusters of wormholes extensively (for modularization of I/O
-handling in particular, as in the UNIX device-driver organization) but the
-preferred jargon for these clusters is `device tables', `jump tables' or
-`capability tables'.
+ :wormhole: /werm'hohl/ n. [from the `wormhole' singularities hypothesized in
+some versions of General Relativity theory] 1. obs. A location in a monitor
+which contains the address of a routine, with the specific intent of making
+it easy to substitute a different routine. This term is now obsolescent;
+modern operating systems use clusters of wormholes extensively (for
+modularization of I/O handling in particular, as in the UNIX device-driver
+organization) but the preferred techspeak for these clusters is `device
+tables', `jump tables' or `capability tables'. 2. [Amateur Packet Radio] A
+network path using a commercial satellite link to join two or more amateur
+VHF networks. So called because traffic routed through a wormhole leaves and
+re-enters the amateur network over great distances with usually little clue
+in the message routing header as to how it got from one relay to the other.
+Compare {gopher hole} (sense 2).

@@ -53,7 +53,7 @@ is, 1440 * 1024 = 1474560 bytes. So the `mega' in `1.44 MB' is compounded of
 two `kilos', one of which is 1024 and the other of which is 1000. The correct
 number of megabytes would of course be 1440 / 1024 = 1.40625. Alas, this fine
 point is probably lost on the world forever. [1993 update: hacker Morgan
-Burke has proposed, to general approval on USENET, the following additional
+Burke has proposed, to general approval on Usenet, the following additional
 prefixes: groucho 10^(-30) harpo 10^(-27) harpi 10^(27) grouchi 10^(30) We
 observe that this would leave the prefixes zeppo-, gummo-, and chico-
 available for future expansion. Sadly, there is little immediate prospect

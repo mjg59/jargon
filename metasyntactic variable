@@ -15,14 +15,16 @@ inserts {qux} before {quux}. bazola, ztesch: Stanford (from mid-'70s on).
 {foo}, {bar}, thud, grunt: This series was popular at CMU. Other
 CMU-associated variables include {gorp}. {foo}, {bar}, fum: This series is
 reported to be common at XEROX PARC. {fred}, {barney}: see the entry for
-{fred}. These tend to be Britishisms. {toto}, titi, tata, tutu: Standard
-series of metasyntactic variables among francophones. {corge}, {grault},
-{flarp}: Popular at Rutgers University and among {GOSMACS} hackers. zxc,
-spqr, wombat: Cambridge University (England). shme Berkeley, GeoWorks,
-Ingres. Pronounced /shme/ with a short /e/. {foo}, {bar}, zot Helsinki
-University of Technology, Finland. blarg, wibble New Zealand Of all these,
-only `foo' and `bar' are universal (and {baz} nearly so). The compounds
-{foobar} and `foobaz' also enjoy very wide currency. Some jargon terms are
-also used as metasyntactic names; {barf} and {mumble}, for example. see also
-{{Commonwealth Hackish}} for discussion of numerous metasyntactic variables
-found in Great Britain and the Commonwealth.
+{fred}. These tend to be Britishisms. {corge}, {grault}, {flarp}: Popular at
+Rutgers University and among {GOSMACS} hackers. zxc, spqr, wombat: Cambridge
+University (England). shme Berkeley, GeoWorks, Ingres. Pronounced /shme/ with
+a short /e/. {foo}, {bar}, zot Helsinki University of Technology, Finland.
+blarg, wibble New Zealand. toto, titi, tata, tutu France. pippo, pluto,
+paperino Italy. Pippo /pee'po/ and Paperino /pa-per-ee'-no/ are the Italian
+names for Goofy and Donald Duck. aap, noot, mies The Netherlands. These are
+the first words a child used to learn to spell on a Dutch spelling board. Of
+all these, only `foo' and `bar' are universal (and {baz} nearly so). The
+compounds {foobar} and `foobaz' also enjoy very wide currency. Some jargon
+terms are also used as metasyntactic names; {barf} and {mumble}, for example.
+see also {{Commonwealth Hackish}} for discussion of numerous metasyntactic
+variables found in Great Britain and the Commonwealth.

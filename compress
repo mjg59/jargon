@@ -1,6 +1,6 @@
  :compress: [UNIX] vt. When used without a qualifier, generally refers to
 {crunch}ing of a file using a particular C implementation of compression by
-James A. Woods et al. and widely circulated via {USENET}; use of {crunch}
+James A. Woods et al. and widely circulated via {Usenet}; use of {crunch}
 itself in this sense is rare among UNIX hackers. Specifically, compress is
 built around the Lempel-Ziv-Welch algorithm as described in "A Technique for
 High Performance Data Compression", Terry A. Welch, "IEEE Computer", vol. 17,

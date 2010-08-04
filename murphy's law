@@ -2,7 +2,7 @@
 are two or more ways to do something, and one of those ways can result in a
 catastrophe, then someone will do it." This is a principle of defensive
 design, cited here because it is usually given in mutant forms less
-descriptive of the challenges of design for lusers. For example, you don't
+descriptive of the challenges of design for {luser}s. For example, you don't
 make a two-pin plug symmetrical and then label it `THIS WAY UP'; if it
 matters which way it is plugged in, then you make the design asymmetrical
 (see also the anecdote under {magic smoke}). Edward A. Murphy, Jr. was one of

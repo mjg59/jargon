@@ -6,4 +6,4 @@ described under {glob}. For purposes of this lexicon, it is sufficient to
 note that regexps also allow complemented character sets using `^'; thus, one
 can specify `any non-alphabetic character' with `[^A-Za-z]'. 2. Name of a
 well-known PD regexp-handling package in portable C, written by revered
-USENETter Henry Spencer <henry@zoo.toronto.edu>.
+Usenetter Henry Spencer <henry@zoo.toronto.edu>.

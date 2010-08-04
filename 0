@@ -15,4 +15,6 @@ arrangement even more, because it means two of their letters collide). Some
 Burroughs/Unisys equipment displays a zero with a *reversed* slash. And yet
 another convention common on early line printers left zero unornamented but
 added a tail or hook to the letter-O so that it resembled an inverted Q or
-cursive capital letter-O. Are we sufficiently confused yet?
+cursive capital letter-O (this was endorsed by a draft ANSI standard for how
+to draw ASCII characters, but the final standard changed the distinguisher to
+a tick-mark in the upper-left corner). Are we sufficiently confused yet?

@@ -1,7 +1,8 @@
  :bogon: /boh'gon/ n. [by analogy with proton/electron/neutron, but doubtless
 reinforced after 1980 by the similarity to Douglas Adams's `Vogons'; see the
-{Bibliography} in Appendix C] 1. The elementary particle of bogosity (see
-{quantum bogodynamics}). For instance, "the Ethernet is emitting bogons
+{Bibliography} in Appendix C and note that Arthur Dent actually mispronounces
+`Vogons' as `Bogons' at one point] 1. The elementary particle of bogosity
+(see {quantum bogodynamics}). For instance, "the Ethernet is emitting bogons
 again" means that it is broken or acting in an erratic or bogus fashion. 2. A
 query packet sent from a TCP/IP domain resolver to a root server, having the
 reply bit set instead of the query bit. 3. Any bogus or incorrectly formed

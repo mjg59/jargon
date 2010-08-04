@@ -7,19 +7,20 @@ the standard AOS system administrator's manual ("How to Load and Generate
 your AOS System") was created, issued a part number, and circulated as
 photocopy folklore; it was called "How to Goad and Levitate your CHAOS
 System". 3. n. Algebraic Operating System, in reference to those calculators
-which use infix instead of postfix (reverse Polish) notation. Historical
-note: AOS in sense 1 was the name of a {PDP-10} instruction that took any
-memory location in the computer and added 1 to it; AOS meant `Add One and do
-not Skip'. Why, you may ask, does the `S' stand for `do not Skip' rather than
-for `Skip'? Ah, here was a beloved piece of PDP-10 folklore. There were eight
-such instructions: AOSE added 1 and then skipped the next instruction if the
-result was Equal to zero; AOSG added 1 and then skipped if the result was
-Greater than 0; AOSN added 1 and then skipped if the result was Not 0; AOSA
-added 1 and then skipped Always; and so on. Just plain AOS didn't say when to
-skip, so it never skipped. For similar reasons, AOJ meant `Add One and do not
-Jump'. Even more bizarre, SKIP meant `do not SKIP'! If you wanted to skip the
-next instruction, you had to say `SKIPA'. Likewise, JUMP meant `do not JUMP';
-the unconditional form was JUMPA. However, hackers never did this. By some
-quirk of the 10's design, the {JRST} (Jump and ReSTore flag with no flag
-specified) was actually faster and so was invariably used. Such were the
-perverse mysteries of assembler programming.
+which use infix instead of postfix (reverse Polish) notation. 4. A {BSD}-like
+operating system for the IBM RT. Historical note: AOS in sense 1 was the name
+of a {PDP-10} instruction that took any memory location in the computer and
+added 1 to it; AOS meant `Add One and do not Skip'. Why, you may ask, does
+the `S' stand for `do not Skip' rather than for `Skip'? Ah, here was a
+beloved piece of PDP-10 folklore. There were eight such instructions: AOSE
+added 1 and then skipped the next instruction if the result was Equal to
+zero; AOSG added 1 and then skipped if the result was Greater than 0; AOSN
+added 1 and then skipped if the result was Not 0; AOSA added 1 and then
+skipped Always; and so on. Just plain AOS didn't say when to skip, so it
+never skipped. For similar reasons, AOJ meant `Add One and do not Jump'. Even
+more bizarre, SKIP meant `do not SKIP'! If you wanted to skip the next
+instruction, you had to say `SKIPA'. Likewise, JUMP meant `do not JUMP'; the
+unconditional form was JUMPA. However, hackers never did this. By some quirk
+of the 10's design, the {JRST} (Jump and ReSTore flag with no flag specified)
+was actually faster and so was invariably used. Such were the perverse
+mysteries of assembler programming.

@@ -19,4 +19,14 @@ the cnoeppkes from the computers is allowed for die experts only! So all the
 "lefthanders" stay away and do not disturben the brainstorming von here
 working intelligencies. Otherwise you will be out thrown and kicked
 anderswhere! Also: please keep still and only watchen astaunished the
-blinkenlights. see also {geef}.
+blinkenlights. see also {geef}. Old-time hackers sometimes get nostalgic for
+blinkenlights because they were so much more fun to look at than a blank
+panel. Sadly, very few computers still have them (the three LEDs on a PC
+keyboard certainly don't count). The obvious reasons (cost of wiring, cost of
+front-panel cutouts, almost nobody needs or wants to interpret
+machine-register states on the fly anymore) are only part of the story.
+Another part of it is that radio-frequency leakage from the lamp wiring was
+beginning to be a problem as far back as transistor machines. But the most
+fundamental fact is that there are very few signals slow enough to blink an
+LED these days! With slow CPUs, you could watch the bus register or
+instruction counter tick, but at 33/66/150MHz it's all a blur.

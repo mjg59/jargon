@@ -11,4 +11,8 @@ undocumented no-op command on several OSes; in Data General's AOS/VS, for
 example, it would typically respond "Nothing happens", just as {ADVENT} did
 if the magic was invoked at the wrong spot or before a player had performed
 the action that enabled the word. In more recent 32-bit versions, by the way,
-AOS/VS responds "Twice as much happens". see also {plugh}. = Y = =====
+AOS/VS responds "Twice as much happens". The popular `minesweeper' game under
+Microsoft Windows has a cheat mode triggered by the command
+`xyzzy<enter><right-shift>' that turns the top-left pixel of the screen
+different colors depending on whether or not the cursor is over a bomb. = Y =
+=====

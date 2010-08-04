@@ -9,7 +9,7 @@ the middle of a word) [] delimits a wildcard matching any of the enclosed
 characters {} alternation of comma-separated alternatives; thus,
 `foo{baz,qux}' would be read as `foobaz' or `fooqux' Some examples: "He said
 his name was [KC]arl" (expresses ambiguity). "I don't read talk.politics.*"
-(any of the talk.politics subgroups on {USENET}). Other examples are given
+(any of the talk.politics subgroups on {Usenet}). Other examples are given
 under the entry for {X}. Note that glob patterns are similar, but not
 identical, to those used in {regexp}s. Historical note: The jargon usage
 derives from `glob', the name of a subprogram that expanded wildcards in
