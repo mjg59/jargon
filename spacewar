@@ -194,8 +194,8 @@ storage; also called `pointer swizzling'; the converse operation is sometimes
 termed `unswizzling'. sync: /sink/ [UNIX] n.,vi. 1. To force all pending I/O
 to the disk. 2. More generally, to force a number of competing processes or
 agents to a state that would be `safe' if the system were to crash; thus, to
-checkpoint. see {flush}. syntactic sugar: [coined by Peter Landin] n.
-Features added to a language or formalism to make it `sweeter' for humans,
+checkpoint. see {flush}, sense #2. syntactic sugar: [coined by Peter Landin]
+n. Features added to a language or formalism to make it `sweeter' for humans,
 that do not affect the expressiveness of the formalism (compare {chrome}).
 Used esp. when there is an obvious and trivial translation of the `sugar'
 feature into other constructs already present in the notation. Example: C's

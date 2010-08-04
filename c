@@ -1,4 +1,4 @@
- ============ THIS IS THE JARGON FILE, VERSION 2.6.2, 14 FEB 1991
+ ============ THIS IS THE JARGON FILE, VERSION 2.6.3, 15 FEB 1991
 ============ Introduction ************ This document is a collection of slang
 terms used by various subcultures of computer hackers. Though some technical
 material is included for background and flavor, it is not a technical

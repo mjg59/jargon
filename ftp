@@ -3,7 +3,7 @@ Non-working due to hardware failure; burnt out. Especially used of hardware
 brought down by a `power glitch' (see {glitch}), {drop-outs}, a short, or
 other electrical event. (Sometimes this literally happens to electronic
 circuits! In particular, resistors can burn out and transformers can melt
-down, emitting terrible-smelling smoke. However, this term is also used
+down, emitting noxious smoke. However, this term is also used
 metaphorically.) 2. Of people, exhausted. Said particularly of those who
 continue to work in such a state. Often used as an explanation or excuse.
 "Yeah, I know that fix destroyed the file system, but I was fried when I put
@@ -38,20 +38,21 @@ Also used are `frobnule' and `frobule'. Starting perhaps in 1979, `frobozz'
 popular, largely due to its exposure as a name via {Zork}. These can also be
 applied to nonphysical objects, such as data structures. frog: alt. `phrog'
 1. interj. Term of disgust (we seem to have a lot of them). 2. Used as a name
-for just about anything. see {foo}. 3. n. Of things, a crock. Of people,
-somewhere in between a turkey and a toad. 4. `froggy': adj. Similar to
-`bagbiting' (see {bagbiter}), but milder. "This froggy program is taking
-forever to run!" front end: n. 1. An intermediary computer that doesn't do
-much. 2. What you're talking to when you have a conversation with someone who
-is making replies without paying attention. "Look at the dancing elephants!"
-"Uh-huh." "Do you know what I just said?" "Sorry, you were talking to the
-front end." 3. Software which provides an interface to another program
-`behind' it, which may not be as user-friendly. Probably from analogy with
-hardware front-ends (see sense #1) which interfaced with mainframes. frotz:
-/frotz/ 1. n. see {frobnitz}. 2. {mumble frotz}: An interjection of very mild
-disgust. frotzed: /frotzt/ adj. {down} due to hardware problems. fry: 1. vi.
-To fail. Said especially of smoke-producing hardware failures. More
-generally, to become non-working. Usage: never said of software, only of
+for just about anything. see {foo}. 3. n. Of things, a crock. 4. n. Of
+people, somewhere in between a turkey and a toad. 5. `froggy': adj. Similar
+to `bagbiting' (see {bagbiter}), but milder. "This froggy program is taking
+forever to run!" front end: n. 1. An intermediary computer that does set-up
+and filtering for another (usually more powerful but less friendly) machine
+(a `back end'). 2. What you're talking to when you have a conversation with
+someone who is making replies without paying attention. "Look at the dancing
+elephants!" "Uh-huh." "Do you know what I just said?" "Sorry, you were
+talking to the front end." 3. Software which provides an interface to another
+program `behind' it, which may not be as user-friendly. Probably from analogy
+with hardware front-ends (see sense #1) which interfaced with mainframes.
+frotz: /frotz/ 1. n. see {frobnitz}. 2. `mumble frotz': An interjection of
+very mild disgust. frotzed: /frotzt/ adj. {down} due to hardware problems.
+fry: 1. vi. To fail. Said especially of smoke-producing hardware failures.
+More generally, to become non-working. Usage: never said of software, only of
 hardware and humans. see {fried}, {magic smoke}. 2. vt. To cause to fail; to
 {roach}, {toast}, or {hose} a piece of hardware (never used of software or
 humans). FTP: /ef-tee-pee/, *not* /fit'ip/ 1. n. The File Transfer Protocol

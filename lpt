@@ -21,7 +21,7 @@ Finally, someone tried the compromise `lusers', and it stuck. Later one of
 the ITS machines supported `luser' as a request-for-help command. ITS
 effectively died in early 1990, except as a museum piece; the usage lives on,
 however, and the term `luser' is often seen in program comments. = M = =====
-M: [from {mega-}] /em/ n. A megabyte (1,024 kilobytes, 1,048,576 bytes). Also
+M: /em/ [from {mega-}] n. A megabyte (1,024 kilobytes, 1,048,576 bytes). Also
 written MB (this conflicts with use of M by scientists, under which MB would
 denote 1,000,000-byte units). see also {kilo-}, {K}. macdink: /mak'dink/
 [from the Apple Macintosh, which is said to encourage such behavior] vt. To
@@ -34,19 +34,20 @@ second'] n. Refers to artificially inflated performance figures often quoted
 by computer manufacturers. Real applications are lucky to get half the quoted
 speed. see {Your mileage may vary.}, {benchmark}. Macintrash: /mak'in-trash`/
 n. The Apple Macintosh, as described by a hacker who doesn't appreciate being
-kept away from the *real computer* by the interface. see also {WIMP
-environment}, {drool-proof paper}, {user-friendly}. macro: /mak'roh/ n. A
-name (possibly followed by a formal {arg} list) which is equated to a text
-expression to which it is to be expanded (possibly with substitution of
-actual arguments) by a language translator. This definition can be found in
-any technical dictionary; what those won't tell you is how the hackish
-connotations of the term have changed over time. The term `macro' originated
-in early assemblers, which encouraged use of macros as a structuring and
-information-hiding device. During the early 1970s macro assemblers became
-ubiquitous and sometimes quite as powerful and expensive as HLLs, only to
-fall from favor as improving compiler technology marginalized assembler
-programming (see {languages of choice}). Nowadays the term is most often used
-in connection with the C preprocessor, LISP, or one of several
+kept away from the *real computer* by the interface. The term `maggotbox' has
+been reported in wregular use in the Research Triangle (Raleigh/Durham, NC).
+see also {WIMP environment}, {drool-proof paper}, {user-friendly}. macro:
+/mak'roh/ n. A name (possibly followed by a formal {arg} list) which is
+equated to a text expression to which it is to be expanded (possibly with
+substitution of actual arguments) by a language translator. This definition
+can be found in any technical dictionary; what those won't tell you is how
+the hackish connotations of the term have changed over time. The term `macro'
+originated in early assemblers, which encouraged use of macros as a
+structuring and information-hiding device. During the early 1970s macro
+assemblers became ubiquitous and sometimes quite as powerful and expensive as
+HLLs, only to fall from favor as improving compiler technology marginalized
+assembler programming (see {languages of choice}). Nowadays the term is most
+often used in connection with the C preprocessor, LISP, or one of several
 special-purpose languages built around a macro-expansion facility (such as
 TeX or UNIX's [nt]roff suite). Indeed, the meaning has drifted enough that
 the collective `macros' is now sometimes used for code in any special-purpose
@@ -62,35 +63,35 @@ crufty macros, e.g. as part of a large system written in {LISP}, {TECO}, or
 macrology in sense #1. Sometimes studying the macrology of a system is not
 unlike archeology, ecology and {theology}, hence the sound-alike
 construction. macrotape: /ma'kroh-tayp/ n. An industry standard reel of tape,
-as opposed to a {microtape}. magic: adj. 1. As yet unexplained, or too
-complicated to explain; compare {automagically} and (Arthur C.) Clarke's
-Third Law: "Any sufficiently advanced technology is indistinguishable from
-magic". "TTY echoing is controlled by a large number of magic bits." "This
-routine magically computes the parity of an eight-bit byte in three
-instructions." 2. Characteristic of something that works but no one really
-understands why. 3. [Stanford] A feature not generally publicized that allows
-something otherwise impossible, or a feature formerly in that category but
-now unveiled. Example: The keyboard commands which override the screen-hiding
-features. magic cookie: [UNIX] n. 1. Something passed between routines or
-programs that enables the receiver to perform some operation; a capability
-ticket or opaque identifier. Especially used of small data objects which
-contain data encoded in a strange or intrinsically machine-dependent way. For
-example, on non-UNIX OSes with a non-byte-stream model of files, the result
-of `ftell(3)' may be a magic cookie rather than a byte offset; it can be
-passed to `fseek(3)', but not operated on in any meaningful way. The phrase
-"It hands you a magic cookie" means it returns a result whose contents are
-not defined but which can be passes back to the same program later to refer
-back to this transaction. 2. An in-band code for changing graphic rendition
-(e.g. inverse video or underlining) or performing other control functions.
-Some older terminals would leave a blank on the screen corresponding to
-mode-change magic cookies; this was also called a {glitch}. see also
-{cookie}. magic number: [UNIX/C] n. 1. Special data located at the beginning
-of a binary data file to indicate its type to a utility. Under UNIX the
-system and various applications programs (especially the linker) distinguish
-between types of executable by looking for a magic number. Only a {wizard}
-knows the magic to create magic numbers. How do you create a magic number
-that nobody else is using? Simple --- you pick one at random. see? It's
-magic! 2. In source code, some non-obvious constant whose value is
+as opposed to a {microtape}. maggotbox: n. see {Macintrash}. magic: adj. 1.
+As yet unexplained, or too complicated to explain; compare {automagically}
+and (Arthur C.) Clarke's Third Law: "Any sufficiently advanced technology is
+indistinguishable from magic". "TTY echoing is controlled by a large number
+of magic bits." "This routine magically computes the parity of an eight-bit
+byte in three instructions." 2. Characteristic of something that works but no
+one really understands why. 3. [Stanford] A feature not generally publicized
+that allows something otherwise impossible, or a feature formerly in that
+category but now unveiled. Example: The keyboard commands which override the
+screen-hiding features. magic cookie: [UNIX] n. 1. Something passed between
+routines or programs that enables the receiver to perform some operation; a
+capability ticket or opaque identifier. Especially used of small data objects
+which contain data encoded in a strange or intrinsically machine-dependent
+way. For example, on non-UNIX OSes with a non-byte-stream model of files, the
+result of `ftell(3)' may be a magic cookie rather than a byte offset; it can
+be passed to `fseek(3)', but not operated on in any meaningful way. The
+phrase "It hands you a magic cookie" means it returns a result whose contents
+are not defined but which can be passes back to the same program later to
+refer back to this transaction. 2. An in-band code for changing graphic
+rendition (e.g. inverse video or underlining) or performing other control
+functions. Some older terminals would leave a blank on the screen
+corresponding to mode-change magic cookies; this was also called a {glitch}.
+see also {cookie}. magic number: [UNIX/C] n. 1. Special data located at the
+beginning of a binary data file to indicate its type to a utility. Under UNIX
+the system and various applications programs (especially the linker)
+distinguish between types of executable by looking for a magic number. Only a
+{wizard} knows the magic to create magic numbers. How do you create a magic
+number that nobody else is using? Simple --- you pick one at random. see?
+It's magic! 2. In source code, some non-obvious constant whose value is
 significant to the operation of a program and which is inserted
 inconspicuously in line ({hardcoded}), rather than expanded in by a symbol
 set by a commented #define. Magic numbers in this sense are bad style. magic
@@ -164,36 +165,36 @@ lot easier to clean off your desk if you have a spare place to put some of
 the junk while you sort through it. 2. Of extremely small merit. "This
 proposed new feature seems rather marginal to me." 3. Of extremely small
 probability of winning. "The power supply was rather marginal anyway; no
-wonder it fried." marginally: adv. Slightly. "The ravs here are only
-marginally better than at Small Eating Place." see {epsilon}. Marginal Hacks:
-n. Margaret Jacks Hall, a building into which the Stanford AI Lab was moved
-near the beginning of the '80s. marketroid: /mar'k@-troyd/ alt. `marketing
-slime', `marketing droid', `marketeer' n. Member of a company's marketing
-department, esp. one who promises users that the next version of a product
-will have features that are unplanned, extremely difficult to implement,
-and/or violate the laws of physics; and/or one who describes existing
-features (and misfeatures) in ebullient, buzzword-laden adspeak. Derogatory.
-martian: n. A packet sent on a TCP/IP network with a source address of the
-test loopback interface (127.0.0.1). As in "The domain server is getting lots
-of packets from Mars. Does that gateway have a martian filter?" massage: vt.
-Vague term used to describe `smooth' transformations of a data set into a
-more useful form, esp. transformations that do not lose information. Connotes
-less pain than {munch} or {crunch}. "He wrote a program that massages X
-bitmap files into GIF format." Compare {slurp}. math-out: [poss. from
-`white-out' (the blizzard variety)] n. A paper or presentation so encrusted
-with mathematical or other formal notation as to be incomprehensible. This
-may be a device for concealing the fact that it is actually {content-free}.
-see also {numbers}, {social science number}. Matrix: [FidoNet] n. 1. What the
-Opus BBS software and sysops call {FidoNet}. 2. Fanciful term for a
-{cyberspace} expected to emerge from current networking experiments (see
-{network, the}). Some people refer to the totality of present networks this
-way. Mbogo, Dr. Fred: [Stanford] n. The archetypal man you don't want to see
-about a problem, esp. an incompetent professional; a shyster. Usage: "Do you
-know a good eye doctor?" "Sure, try Mbogo Eye Care and Professional Dry
-Cleaning." The name comes from synergy between {bogus} and the original Dr.
-Mbogo, a witch doctor who was Gomez Addams' physician on the old `Addams
-Family' TV show. meatware: n. Synonym for {wetware}. Less common. meg: /meg/
-n. A megabyte; 1024K. see {M} and {K}. mega-: /me'g@/ pref. Multiplier, 10 ^
-6 or 2 ^ 20. see {M}, {kilo-}. megapenny: /meg'@-pen'ee/ n. $10,000 (1 cent *
-10 ^ 6). Used semi-humorously as a unit in comparing computer
-cost/performance figures.
+wonder it fried." Marginal Hacks: n. Margaret Jacks Hall, a building into
+which the Stanford AI Lab was moved near the beginning of the '80s.
+marginally: adv. Slightly. "The ravs here are only marginally better than at
+Small Eating Place." see {epsilon}. marketroid: /mar'k@-troyd/ alt.
+`marketing slime', `marketing droid', `marketeer' n. Member of a company's
+marketing department, esp. one who promises users that the next version of a
+product will have features that are unplanned, extremely difficult to
+implement, and/or violate the laws of physics; and/or one who describes
+existing features (and misfeatures) in ebullient, buzzword-laden adspeak.
+Derogatory. martian: n. A packet sent on a TCP/IP network with a source
+address of the test loopback interface (127.0.0.1). As in "The domain server
+is getting lots of packets from Mars. Does that gateway have a martian
+filter?" massage: vt. Vague term used to describe `smooth' transformations of
+a data set into a more useful form, esp. transformations that do not lose
+information. Connotes less pain than {munch} or {crunch}. "He wrote a program
+that massages X bitmap files into GIF format." Compare {slurp}. math-out:
+[poss. from `white-out' (the blizzard variety)] n. A paper or presentation so
+encrusted with mathematical or other formal notation as to be
+incomprehensible. This may be a device for concealing the fact that it is
+actually {content-free}. see also {numbers}, {social science number}. Matrix:
+[FidoNet] n. 1. What the Opus BBS software and sysops call {FidoNet}. 2.
+Fanciful term for a {cyberspace} expected to emerge from current networking
+experiments (see {network, the}). Some people refer to the totality of
+present networks this way. Mbogo, Dr. Fred: [Stanford] n. The archetypal man
+you don't want to see about a problem, esp. an incompetent professional; a
+shyster. Usage: "Do you know a good eye doctor?" "Sure, try Mbogo Eye Care
+and Professional Dry Cleaning." The name comes from synergy between {bogus}
+and the original Dr. Mbogo, a witch doctor who was Gomez Addams' physician on
+the old `Addams Family' TV show. meatware: n. Synonym for {wetware}. Less
+common. meg: /meg/ n. A megabyte; 1024K. see {M} and {K}. mega-: /me'g@/
+pref. Multiplier, 10 ^ 6 or 2 ^ 20. see {M}, {kilo-}. megapenny:
+/meg'@-pen'ee/ n. $10,000 (1 cent * 10 ^ 6). Used semi-humorously as a unit
+in comparing computer cost/performance figures.

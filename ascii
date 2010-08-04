@@ -6,7 +6,7 @@ revision 2.2 of the USENET ASCII pronunciation guide. Single characters are
 listed in ASCII order; character pairs are sorted in by first member. For
 each character, common names are given in rough order of popularity followed
 by names which are reported but rarely seen; official ANSI/CCITT names are
-parenthesized. `!' Common: {bang}, pling, excl, shriek, (exclamation point).
+parenthesized. `!' Common: {bang}, pling, excl, shriek, (exclamation mark).
 Rare: factorial, exclam, smash, cuss, boing, yell, wow, hey, wham,
 spot-spark, soldier. `"' Common: double quote, quote. Rare: literal mark,
 double-glitch, (quotation marks), (dieresis), dirk. `#' Common: (number
@@ -40,7 +40,7 @@ strudel. Rare: each, vortex, whorl, cyclone, snail, ape, cat, rose, cabbage,
 (opening/closing bracket), bracket/unbracket left/right bracket. Rare:
 square/unsquare. `\' Common: backslash, escape (from C/UNIX), reverse slash,
 slosh, backslant. Rare: bash, backwhack, (reverse slant), reversed virgule.
-`^' Common: hat, control, uparrow, caret. Rare: (circumflex), chevron, shark
+`^' Common: hat, control, uparrow, caret, (circumflex). Rare: chevron, shark
 (or shark fin), to the (`to the power of'), fang. `_' Common: (underline),
 underscore, underbar, under. Rare: score, backarrow. "' Common: backquote,
 left quote, open quote, (grave accent), grave. Rare: backprime, backspark,
@@ -53,24 +53,26 @@ line), gozinta, thru, pipesinta (last three ones from UNIX). `~' Common:
 (tilde), squiggle, {twiddle}, not. Rare: approx, wiggle, swung dash, enyay,
 sqiggle. The pronunciation of `#' as `pound' is common in the U.S. but a bad
 idea; Commonwealth hackish has its own rather more apposite use of `pound
-sign'. The U.S. practice derives from an old-fashioned commercial practice of
-using a `#' suffix to tag pound weights on bills of lading. The character is
-usually pronounced `hash' outside the U.S. Also note that the `swung dash' or
-`approx' sign is not quite the same as tilde in typeset material, but the
-ASCII tilde serves for both (compare {angle brackets}). Some other common
-usages cause odd overlaps. The `#', `$', `>', and `&' chars, for example, are
-all pronounced "hex" in different communities because various assemblers use
-them as a prefix tag for hexadecimal constants (in particular, $ in the 6502
-world, > at Texas Instruments, and & on the Sinclair and some other Z80
-machines). asymptotic: adj. Infinitely close to. This is used in a
-generalization of its mathematical meaning to allege that something is
-{within epsilon of} some standard, reference, or goal (see {epsilon}).
-attoparsec: n. `atto-' is the official SI prefix for multiplication by 10 ^
--18; an attoparsec is thus 1 parsec (parallax-second, 3.26 light years) times
-10 ^ -18, or about 1.3 cm. This unit is reported to be in use (though
-probably not very seriously) among hackers in Great Britain. see {micro-}
-autobogotiphobia: /aw'to-boh-got'@-foh`bee-uh/ n. see {bogotify}.
-automagically: /aw-toh-maj'i-klee/ or /aw-toh-maj'i-k@l-ee/ adv.
+sign' (confusingly, on British keyboards the pound graphic happens to replace
+`#'; thus Britishers sometimes call `#' on a US-ASCII keyboard `pound',
+compounding the American error). The U.S. usage derives from an old-fashioned
+commercial practice of using a `#' suffix to tag pound weights on bills of
+lading. The character is usually pronounced `hash' outside the U.S. Also note
+that the `swung dash' or `approx' sign is not quite the same as tilde in
+typeset material, but the ASCII tilde serves for both (compare {angle
+brackets}). Some other common usages cause odd overlaps. The `#', `$', `>',
+and `&' chars, for example, are all pronounced "hex" in different communities
+because various assemblers use them as a prefix tag for hexadecimal constants
+(in particular, $ in the 6502 world, > at Texas Instruments, and & on the
+Sinclair and some other Z80 machines). asymptotic: adj. Infinitely close to.
+This is used in a generalization of its mathematical meaning to allege that
+something is {within epsilon of} some standard, reference, or goal (see
+{epsilon}). attoparsec: n. `atto-' is the official SI prefix for
+multiplication by 10 ^ -18; an attoparsec is thus 1 parsec (parallax-second,
+3.26 light years) times 10 ^ -18, or about 1.3 cm. This unit is reported to
+be in use (though probably not very seriously) among hackers in Great
+Britain. see {micro-} autobogotiphobia: /aw'to-boh-got'@-foh`bee-uh/ n. see
+{bogotify}. automagically: /aw-toh-maj'i-klee/ or /aw-toh-maj'i-k@l-ee/ adv.
 Automatically, but in a way which, for some reason (typically because it is
 too complicated, or too ugly, or perhaps even too trivial), the speaker
 doesn't feel like explaining to you. see {magic}. "The C-INTERCAL compiler

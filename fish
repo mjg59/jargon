@@ -37,7 +37,7 @@ because it works better that way --- such an inconsistency is therefore a
 {feature} and not a {bug}. This kind of feature is sometimes called a
 {miswart}; see that entry for a classic example. 4. A property or behavior
 that is gratuitous or unnecessary, though perhaps also impressive or cute.
-For example, one feature of Common LISP's Format function is the ability to
+For example, one feature of Common LISP's FORMAT function is the ability to
 print numbers in two different Roman-numeral formats (see {bells, whistles,
 and gongs}). 5. A property or behavior that was put in to help someone else
 but that happens to be in your way. 6. A {bug} that has been documented. To
@@ -270,31 +270,33 @@ by allowing one to print text either right-side-up or upside-down." see
 {vanilla}. This usage was certainly reinforced by the terminology of quantum
 chromodynamics, in which quarks (the constituents of e.g. protons) come in
 six flavors (up, down, strange, charm, top, bottom) and three colors (red,
-blue, green) --- however, hackish use of `flavor' at MIT predated QCD.
-flavorful: adj. Esthetically pleasing. see {random} and {losing} for
-antonyms. see also the entries for {taste} and {elegant}. flippy: /flip'ee/
-n. A single-sided floppy disk altered for double-sided use by addition of a
-second write-notch, so called because it must be flipped over for the second
-side to be accessible. No longer common. flowchart:: n. An archaic form of
-visual control-flow specification employing arrows and `speech balloons' of
-various shapes. Hackers never use flowcharts, consider them extremely silly,
-and associate them with COBOL programmers and other lower forms of life. This
-is because (from a hacker's point of view) they are no easier to read than
-code, not as precise, and tend to fall out of sync with the code (so that
-they either obfuscate it rather than explaining it, or require extra
-maintenance effort that doesn't improve the code). see also {pdl}, sense #3.
-flush: v. 1. To delete something, usually superfluous. "All that nonsense has
-been flushed." Standard ITS terminology for aborting an output operation (but
-note sense 4 below!); one speaks of the text that would have been printed,
-but was not, as having been flushed. Under ITS, if you asked to have a file
-printed on your terminal, it was printed a page at a time; at the end of each
-page, it asked whether you want to see more, and if you said no, it replied
-"FLUSHED". (It is speculated that this term arose from a vivid image of
-flushing unwanted characters by hosing down the internal output buffer,
-washing the characters away before they can be printed.) 2. To leave at the
-end of a day's work (as opposed to leaving for a meal). "I'm going to flush
-now." "Time to flush." 3. To exclude someone from an activity, or to ignore a
-person. 4. [UNIX/C] To force buffered I/O to disk, as with an `fflush(3)'
-call. This is *not* an abort as in sense #1, but a demand for early
-completion! UNIX hackers find the ITS usage confusing and vice versa.
-flytrap: n. see {firewall machine}.
+blue, green) --- however, hackish use of `flavor' at MIT predated QCD. 3. The
+term for `class' (in the object-oriented sense) in the Lisp Machine Flavors
+system. Though the Flavors design has been superseded (notably by the Common
+Lisp CLOS facility) the term `flavor' is still used as a general synonym for
+`class' by some LISP hackers. flavorful: adj. Full of {flavor}; esthetically
+pleasing. see {random} and {losing} for antonyms. see also the entries for
+{taste} and {elegant}. flippy: /flip'ee/ n. A single-sided floppy disk
+altered for double-sided use by addition of a second write-notch, so called
+because it must be flipped over for the second side to be accessible. No
+longer common. flowchart:: n. An archaic form of visual control-flow
+specification employing arrows and `speech balloons' of various shapes.
+Hackers never use flowcharts, consider them extremely silly, and associate
+them with COBOL programmers and other lower forms of life. This is because
+(from a hacker's point of view) they are no easier to read than code, not as
+precise, and tend to fall out of sync with the code (so that they either
+obfuscate it rather than explaining it, or require extra maintenance effort
+that doesn't improve the code). see also {pdl}, sense #3. flush: v. 1. To
+delete something, usually superfluous. "All that nonsense has been flushed."
+2. [UNIX/C] To force buffered I/O to disk, as with an `fflush(3)' call. This
+is *not* an abort as in sense #1, but a demand for early completion! 3. To
+leave at the end of a day's work (as opposed to leaving for a meal). "I'm
+going to flush now." "Time to flush." 4. To exclude someone from an activity,
+or to ignore a person. `Flush' was standard ITS terminology for aborting an
+output operation; one spoke of the text that would have been printed, but was
+not, as having been flushed. It is speculated that this term arose from a
+vivid image of flushing unwanted characters by hosing down the internal
+output buffer, washing the characters away before they can be printed. The
+UNIX/C usage, on the other hand, was propagated by `fflush(3)'; UNIX/C
+hackers find the ITS usage confusing and vice versa. flytrap: n. see
+{firewall machine}.

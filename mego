@@ -62,10 +62,8 @@ quantifier prefix meaning `multiply by `10 ^ -6". Neither of these uses is
 peculiar to hackers, but hackers tend to fling them both around rather more
 freely than is countenanced in standard English. It is recorded, for example,
 that one CS professor used to characterize the standard length of his
-lectures as a microcentury --- that is, about 52.6 minutes (Tom Duff at Bell
-Labs has also pointed out that "Pi seconds is a nanocentury"). Multiple uses
-of the microfortnight and millifortnight (about 1.2 sec and 20 minutes) have
-also been reported (see also {attoparsec}, {nanoacre}). 2. Personal or
+lectures as a microcentury --- that is, about 52.6 minutes (see also
+{attoparsec}, {nanoacre}, and especially {nanofortnight}). 2. Personal or
 human-scale --- that is, capable of being maintained or comprehended or
 manipulated by one human being. This sense is generalized from
 `microcomputer', and esp. used in contrast with `macro-' (Greek prefix
