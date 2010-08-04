@@ -8,6 +8,6 @@ perform this action. ASCII 0011010, also called SUB or control-Z, was one
 common line-starve character in the days before microcomputers and the X3.64
 terminal standard. Unlike `line feed', `line starve' is *not* standard
 {{ASCII}} terminology. Even among hackers it is considered a bit silly. 3.
-[proposed] A sequence such as \c (used in System V echo, as well as
-nroff/troff) that suppresses a {newline} or other character(s) that would
+[proposed] A sequence such as \c (used in System V echo, as well as {{nroff}}
+and {{troff}}) that suppresses a {newline} or other character(s) that would
 normally be emitted.

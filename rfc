@@ -16,7 +16,7 @@ Option", Mark R. Crispin; 1 April 1978), and 1149 ("A Standard for the
 Transmission of IP Datagrams on Avian Carriers", D. Waitzman, BBN STC; 1
 April 1990). The first was a Lewis Carrol pastiche; the second a parody of
 the TCP-IP documentation style, and the third a deadpan skewering of
-standards-document legalese describing protocols for transmiitting Internet
+standards-document legalese, describing protocols for transmitting Internet
 data packets by carrier pigeon. The RFCs are most remarkable for how well
 they work --- they manage to have neither the ambiguities which are usually
 rife in informal specifications, nor the committee-perpetrated misfeatures

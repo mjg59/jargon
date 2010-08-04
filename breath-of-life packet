@@ -1,6 +1,9 @@
- :breath-of-life packet: [XEROX PARC] n. An Ethernet packet that contained
+ :breath-of-life packet: [XEROX PARC] n. An Ethernet packet that contains
 bootstrap (see {boot}) code, periodically sent out from a working computer to
-infuse the `breath of life' into any computer on the network that had
+infuse the `breath of life' into any computer on the network that has
 happened to crash. Machines depending on such packets have sufficient
 hardware or firmware code to wait for (or request) such a packet during the
-reboot process. see also {dickless workstation}.
+reboot process. see also {dickless workstation}. The `kiss-of-death packet',
+with a function complementary to that of a breath-of-life packet, is
+recommended for dealing with hosts that consume too many network resources.
+This packet, however, is undocumented and perhaps mythical.

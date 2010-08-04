@@ -12,4 +12,6 @@ intercourse; prob. from the expression `bouncing the mattress', but
 influenced by Roo's psychosexually loaded "Try bouncing me, Tigger!" from the
 "Winnie-the-Pooh" books. Compare {boink}. 4. To casually reboot a system in
 order to clear up a transient problem. Reported primarily among {VMS} users.
-5. [IBM] To {power cycle} a peripheral in order to reset it.
+5. [VM/CMS programmers] *Automatic* warm-start of a machine after an error.
+"I logged on this morning and found it had bounced 7 times during the night"
+6. [IBM] To {power cycle} a peripheral in order to reset it.

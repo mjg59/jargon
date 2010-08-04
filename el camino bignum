@@ -6,8 +6,8 @@ El Camino Real, which defines {logical} north and south even though it isn't
 really north-south many places. El Camino Real runs right past Stanford
 University and so is familiar to hackers. The Spanish word `real' (which has
 two syllables: /ray-ahl'/) means `royal'; El Camino Real is `the royal road'.
-In the FORTRAN language, a `real' quantity is a number typically precise to 7
-significant digits, and a `double precision' quantity is a larger
+In the FORTRAN language, a `real' quantity is a number typically precise to
+seven significant digits, and a `double precision' quantity is a larger
 floating-point number, precise to perhaps fourteen significant digits (other
 languages have similar `real' types). When a hacker from MIT visited Stanford
 in 1976, he remarked what a long road El Camino Real was. Making a pun on

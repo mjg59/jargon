@@ -1,5 +1,5 @@
  :kamikaze packet: n. The `official' jargon for what is more commonly called
-a {Christmas tree packet}. RFC-1025, `TCP and IP Bake Off' says: 10 points
+a {Christmas tree packet}. {RFC}-1025, `TCP and IP Bake Off' says: 10 points
 for correctly being able to process a "Kamikaze" packet (AKA nastygram,
 christmas tree packet, lamp test segment, et al.). That is, correctly handle
 a segment with the maximum combination of features at once (e.g., a SYN URG

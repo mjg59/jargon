@@ -4,5 +4,5 @@ undefined construct] it is legal for it to make demons fly out of your nose"
 (the implication is that it may choose any arbitrarily bizarre way to
 interpret the code without violating the ANSI C standard). Someone else
 followed up with a reference to "nasal demons", which became recognized
-shorthand on that group for any unexpected behaviour of a C compiler on
+shorthand on that group for any unexpected behavior of a C compiler on
 encountering an undefined construct.

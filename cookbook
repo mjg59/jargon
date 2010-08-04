@@ -1,6 +1,6 @@
  :cookbook: [from amateur electronics and radio] n. A book of small code
 segments that the reader can use to do various {magic} things in programs.
-One current example is the `{PostScript} Language Tutorial and Cookbook' by
+One current example is the `{{PostScript}} Language Tutorial and Cookbook' by
 Adobe Systems, Inc (Addison-Wesley, ISBN 0-201-10179-3) which has recipes for
 things like wrapping text around arbitrary curves and making 3D fonts.
 Cookbooks, slavishly followed, can lead one into {voodoo programming}, but

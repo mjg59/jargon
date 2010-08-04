@@ -168,46 +168,53 @@ project. Steve Ciarcia, the man behind `Byte' magazine's "Circuit Cellar"
 feature, resurrected this ghost in one of his books of the early 1980s. He
 ascribed its popularity (no doubt correctly) to the feeling of power the
 builder could achieve by being able to decide himself what would be shown on
-the TV. --- ESR] :A Story About `Magic': (by GLS)
-================================ Some years ago, I was snooping around in the
-cabinets that housed the MIT AI Lab's PDP-10, and noticed a little switch
-glued to the frame of one cabinet. It was obviously a homebrew job, added by
-one of the lab's hardware hackers (no one knows who). You don't touch an
-unknown switch on a computer without knowing what it does, because you might
-crash the computer. The switch was labeled in a most unhelpful way. It had
-two positions, and scrawled in pencil on the metal switch body were the words
-`magic' and `more magic'. The switch was in the `more magic' position. I
-called another hacker over to look at it. He had never seen the switch before
-either. Closer examination revealed that the switch had only one wire running
-to it! The other end of the wire did disappear into the maze of wires inside
-the computer, but it's a basic fact of electricity that a switch can't do
-anything unless there are two wires connected to it. This switch had a wire
-connected on one side and no wire on its other side. It was clear that this
-switch was someone's idea of a silly joke. Convinced by our reasoning that
-the switch was inoperative, we flipped it. The computer instantly crashed.
-Imagine our utter astonishment. We wrote it off as coincidence, but
-nevertheless restored the switch to the `more magic' position before reviving
-the computer. A year later, I told this story to yet another hacker, David
-Moon as I recall. He clearly doubted my sanity, or suspected me of a
-supernatural belief in the power of this switch, or perhaps thought I was
-fooling him with a bogus saga. To prove it to him, I showed him the very
-switch, still glued to the cabinet frame with only one wire connected to it,
-still in the `more magic' position. We scrutinized the switch and its lone
-connection, and found that the other end of the wire, though connected to the
-computer wiring, was connected to a ground pin. That clearly made the switch
-doubly useless: not only was it electrically nonoperative, but it was
-connected to a place that couldn't affect anything anyway. So we flipped the
-switch. The computer promptly crashed. This time we ran for Richard
-Greenblatt, a long-time MIT hacker, who was close at hand. He had never
-noticed the switch before, either. He inspected it, concluded it was useless,
-got some diagonal cutters and {dike}d it out. We then revived the computer
-and it has run fine ever since. We still don't know how the switch crashed
-the machine. There is a theory that some circuit near the ground pin was
-marginal, and flipping the switch changed the electrical capacitance enough
-to upset the circuit as millionth-of-a-second pulses went through it. But
-we'll never know for sure; all we can really say is that the switch was
-{magic}. I still have that switch in my basement. Maybe I'm silly, but I
-usually keep it set on `more magic'. :A Selection of AI Koans:
+the TV. --- ESR] [Antihistorical note: On September 23rd, 1992, the L.A.
+Times ran the following bit of filler: Solomon Waters of Altadena, a
+6-year-old first-grader, came home from his first day of school and excitedly
+told his mother how he had written on "a machine that looks like a computer
+-- but without the TV screen." She asked him if it could have been a
+"typewriter." "Yeah! Yeah!" he said. "That's what it was called." I have
+since investigated this matter and determined that many of today's teenagers
+have never seen a slide rule, eiher.... -- ESR] :A Story About `Magic': (by
+GLS) ================================ Some years ago, I was snooping around
+in the cabinets that housed the MIT AI Lab's PDP-10, and noticed a little
+switch glued to the frame of one cabinet. It was obviously a homebrew job,
+added by one of the lab's hardware hackers (no one knows who). You don't
+touch an unknown switch on a computer without knowing what it does, because
+you might crash the computer. The switch was labeled in a most unhelpful way.
+It had two positions, and scrawled in pencil on the metal switch body were
+the words `magic' and `more magic'. The switch was in the `more magic'
+position. I called another hacker over to look at it. He had never seen the
+switch before either. Closer examination revealed that the switch had only
+one wire running to it! The other end of the wire did disappear into the maze
+of wires inside the computer, but it's a basic fact of electricity that a
+switch can't do anything unless there are two wires connected to it. This
+switch had a wire connected on one side and no wire on its other side. It was
+clear that this switch was someone's idea of a silly joke. Convinced by our
+reasoning that the switch was inoperative, we flipped it. The computer
+instantly crashed. Imagine our utter astonishment. We wrote it off as
+coincidence, but nevertheless restored the switch to the `more magic'
+position before reviving the computer. A year later, I told this story to yet
+another hacker, David Moon as I recall. He clearly doubted my sanity, or
+suspected me of a supernatural belief in the power of this switch, or perhaps
+thought I was fooling him with a bogus saga. To prove it to him, I showed him
+the very switch, still glued to the cabinet frame with only one wire
+connected to it, still in the `more magic' position. We scrutinized the
+switch and its lone connection, and found that the other end of the wire,
+though connected to the computer wiring, was connected to a ground pin. That
+clearly made the switch doubly useless: not only was it electrically
+nonoperative, but it was connected to a place that couldn't affect anything
+anyway. So we flipped the switch. The computer promptly crashed. This time we
+ran for Richard Greenblatt, a long-time MIT hacker, who was close at hand. He
+had never noticed the switch before, either. He inspected it, concluded it
+was useless, got some diagonal cutters and {dike}d it out. We then revived
+the computer and it has run fine ever since. We still don't know how the
+switch crashed the machine. There is a theory that some circuit near the
+ground pin was marginal, and flipping the switch changed the electrical
+capacitance enough to upset the circuit as millionth-of-a-second pulses went
+through it. But we'll never know for sure; all we can really say is that the
+switch was {magic}. I still have that switch in my basement. Maybe I'm silly,
+but I usually keep it set on `more magic'. :A Selection of AI Koans:
 ========================= These are some of the funniest examples of a genre
 of jokes told at the MIT AI Lab about various noted hackers. The original
 koans were composed by Danny Hillis. In reading these, it is at least useful
@@ -255,4 +262,4 @@ violent, especially when tourists learned about it. One of the systems
 hackers solved the problem by replacing JEDGAR with another program that only
 pretended to do its job. It took a long time to do this, because every copy
 of JEDGAR had to be patched. To this day no one knows how many people never
-figured out that JEDGAR had been defanged.
+figured out that

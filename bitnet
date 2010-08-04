@@ -3,5 +3,5 @@ favorite piece of the network (see {network, the}). The BITNET hosts are a
 collection of IBM dinosaurs and VAXen (the latter with lobotomized comm
 hardware) that communicate using 80-character {{EBCDIC}} card images (see
 {eighty-column mind}); thus, they tend to mangle the headers and text of
-third-party traffic from the rest of the ASCII/RFC-822 world with annoying
+third-party traffic from the rest of the ASCII/{RFC}-822 world with annoying
 regularity. BITNET is also notorious as the apparent home of {BIFF}.

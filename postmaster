@@ -1,4 +1,4 @@
  :postmaster: n. The email contact and maintenance person at a site connected
 to the Internet or UUCPNET. Often, but not always, the same as the {admin}.
-The Internet standard for electronic mail ({RFC}822) requires each machine to
-have a `postmaster' address; usually it is aliased to this person.
+The Internet standard for electronic mail ({RFC}-822) requires each machine
+to have a `postmaster' address; usually it is aliased to this person.

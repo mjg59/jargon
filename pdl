@@ -8,5 +8,5 @@ be maintained in parallel with the code. see also {{flowchart}}. 4. v. To
 design using a program design language. "I've been pdling so long my eyes
 won't focus beyond 2 feet." 5. n. `Page Description Language'. Refers to any
 language which is used to control a graphics device, usually a laserprinter.
-The most common example, is of course, Adobe's {PostScript} language, but
+The most common example, is of course, Adobe's {{PostScript}} language, but
 there are many others, such as Xerox InterPress, etc.

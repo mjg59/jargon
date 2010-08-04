@@ -15,7 +15,7 @@ magnetic drum to minimize fetch delays due to the device's rotational
 latency). This sort of thing has become less common as the relative costs of
 programming time and machine resources have changed, but is still found in
 heavily constrained environments such as industrial embedded systems. see
-{real programmer}. In the world of personal computing, bare metal programming
+{Real Programmer}. In the world of personal computing, bare metal programming
 (especially in sense 1 but sometimes also in sense 2) is often considered a
 {Good Thing}, or at least a necessary evil (because these machines have often
 been sufficiently slow and poorly designed to make it necessary; see

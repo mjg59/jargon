@@ -12,5 +12,5 @@ because the designers/implementors mistake their personal tastes for laws of
 nature. Often a former feature becomes a misfeature because a tradeoff was
 made whose parameters subsequently change (possibly only in the judgment of
 the implementors). "Well, yeah, it is kind of a misfeature that file names
-are limited to 6 characters, but the original implementors wanted to save
+are limited to six characters, but the original implementors wanted to save
 directory space and we're stuck with it for now."

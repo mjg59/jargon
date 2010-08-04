@@ -6,7 +6,7 @@ quine: ((lambda (x) (list x (list (quote quote) x))) (quote (lambda (x) (list
 x (list (quote quote) x))))) This one works in LISP or Scheme. It's
 relatively easy to write quines in other languages such as Postscript which
 readily handle programs as data; much harder (and thus more challenging!) in
-languages like C which do not. Here is a classic C quine:
+languages like C which do not. Here is a classic C quine for ASCII machines:
 char*f="char*f=%c%s%c;main(){printf(f,34,f,34,10);}%c";
 main(){printf(f,34,f,34,10);} For excruciatingly exact quinishness, remove
 the line break after the second semicolon. Some infamous {Obfuscated C

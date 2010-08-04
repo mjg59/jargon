@@ -22,5 +22,5 @@ words, can you write programs which write programs? (see {toolsmith})
 Alarming numbers of (language, OS) pairs fail this test, particularly when
 the language is Fortran; Ritchie is quick to point out that {UNIX} (even
 using Fortran) passes it handily. That the test could ever be failed is only
-surprising to those who have had the good fortune only to have worked under
+surprising to those who have had the good fortune to have worked only under
 modern systems which lack OS-supported and -imposed "file types".)

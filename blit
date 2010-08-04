@@ -4,7 +4,8 @@ to determine what is shown on a display screen. "The storage allocator picks
 through the table and copies the good parts up into high memory, and then
 blits it all back down again." see {bitblt}, {BLT}, {dd}, {cat}, {blast},
 {snarf}. More generally, to perform some operation (such as toggling) on a
-large array of bits while moving them. 2. All-capitalized as `BLIT': an early
-experimental bit-mapped terminal designed by Rob Pike at Bell Labs, later
-commercialized as the AT&T 5620. (The folk etymology from `Bell Labs
-Intelligent Terminal' is incorrect.)
+large array of bits while moving them. 2. Sometimes all-capitalized as
+`BLIT': an early experimental bit-mapped terminal designed by Rob Pike at
+Bell Labs, later commercialized as the AT&T 5620. (The folk etymology from
+`Bell Labs Intelligent Terminal' is incorrect. Its creators liked to claim
+that "Blit" stood for the Bacon, Lettuce, and Interactive Tomato.)

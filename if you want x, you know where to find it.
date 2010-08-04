@@ -1,7 +1,7 @@
  :If you want X, you know where to find it.: There is a legend that Dennis
 Ritchie, inventor of {C}, once responded to demands for features resembling
 those of what at the time was a much more popular language by observing "If
-you want PL/1, you know where to find it." Ever since, this has been hackish
+you want PL/I, you know where to find it." Ever since, this has been hackish
 standard form for fending off requests to alter a new design to mimic some
 older (and, by implication, inferior and {baroque}) one. The case X =
 {Pascal} manifests semi-regularly on USENET's comp.lang.c newsgroup. Indeed,

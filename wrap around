@@ -5,5 +5,5 @@ continues incrementing, either because it is programmed to do so or because
 of an overflow (as when a car's odometer starts over at 0). 2. To change
 {phase} gradually and continuously by maintaining a steady wake-sleep cycle
 somewhat longer than 24 hours, e.g., living six long (28-hour) days in a week
-(or, equivalently, sleeping at the rate of 10 microhertz). see also
-{phase-wrapping}.
+(or, equivalently, sleeping at the rate of 10 microhertz). This sense is also
+called {phase-wrapping}.

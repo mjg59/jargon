@@ -11,5 +11,5 @@ the most common choice among mainstream (non-hacker) users at MIT in the
 mid-60s. It had a control structure FOR VALUES OF X = 3, 7, 99 DO ... that
 would repeat the indicated instructions for each value in the list (unlike
 the usual FOR that only works for arithmetic sequences of values). MAD is
-long extinct, but similar for-constructs still flourish (e.g. in UNIX's shell
-languages).
+long extinct, but similar for-constructs still flourish (e.g., in UNIX's
+shell languages).

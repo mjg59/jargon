@@ -1,7 +1,7 @@
- :schroedinbug: [MIT: from the Schroedinger's Cat thought-experiment in
-quantum physics] n. A design or implementation bug in a program which doesn't
-manifest until someone reading source or using the program in an unusual way
-notices that it never should have worked, at which point the program promptly
-stops working for everybody until fixed. Though this sounds impossible, it
-happens; some programs have harbored latent schroedinbugs for years. Compare
-{heisenbug}, {Bohr bug}, {mandelbug}.
+ :schroedinbug: /shroh'din-buhg/ [MIT: from the Schroedinger's Cat
+thought-experiment in quantum physics] n. A design or implementation bug in a
+program which doesn't manifest until someone reading source or using the
+program in an unusual way notices that it never should have worked, at which
+point the program promptly stops working for everybody until fixed. Though
+this sounds impossible, it happens; some programs have harbored latent
+schroedinbugs for years. Compare {heisenbug}, {Bohr bug}, {mandelbug}.

@@ -5,4 +5,5 @@ inspiration) from hack called RABBITS reported from 1969 on a Burroughs 55000
 at the University of Washington Computer Center. The program would make two
 copies of itself every time it was run, eventually crashing the system. 2. By
 extension, any hack that includes infinite self-replication but is not a
-{virus} or {worm}. see {fork bomb}, see also {cookie monster}.
+{virus} or {worm}. see {fork bomb} and {rabbit job}, see also {cookie
+monster}.
